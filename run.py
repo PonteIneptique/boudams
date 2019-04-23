@@ -7,8 +7,11 @@ vocabulary, train_dataset, dev_dataset, test_dataset = Seq2SeqTokenizer.get_data
 )
 
 
-tagger = Seq2SeqTokenizer(vocabulary, n_layers=4, hidden_size=512, device="cuda")
-tagger.train(train_dataset, dev_dataset, n_epochs=50)
+for system in ["bi-gru"]:  # "gru",
+    tagger = Seq2SeqTokenizer(vocabulary, n_layers=2,
+                              hidden_size=256, emb_enc_dim=128, emb_dec_dim=128,
+                              device="cuda", system=system)
+    tagger.train(train_dataset, dev_dataset, n_epochs=100, fpath="models/"+system+".tar", batch_size=128)
 
 #    src = batch.src l.198 evaluate
 # AttributeError: 'BucketIterator' object has no attribute 'src'

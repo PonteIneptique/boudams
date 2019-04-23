@@ -8,12 +8,15 @@ from torchtext.data import ReversibleField, BucketIterator
 
 import random
 import time
+import os
 import math
+import json
+import tarfile
 from typing import List, Tuple
 
 from .model import gru, lstm, bidir
 from .dataset import build_vocab, CharacterField, TabularDataset as Dataset, get_datasets, InputDataset, SOS_TOKEN
-from .utils import epoch_time
+from . import utils
 
 
 teacher_forcing_ratio = 0.5
@@ -28,6 +31,7 @@ class Seq2SeqTokenizer:
             self,
             vocabulary: ReversibleField,
             hidden_size: int = 256, n_layers: int = 2, emb_enc_dim: int = 256, emb_dec_dim: int = 256,
+            enc_hid_dim: int = None, dec_hid_dim: int = None,
             enc_dropout: float= 0.5, dec_dropout: float = 0.5,
             device: str = DEVICE, system: str = "bi-gru"
     ):
@@ -48,6 +52,9 @@ class Seq2SeqTokenizer:
         self.device: str = device
         self.n_layers: int = n_layers
         self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
+        if enc_hid_dim and dec_hid_dim:
+            self.enc_hid_dim: int = enc_hid_dim
+            self.dec_hid_dim: int = dec_hid_dim
 
         self.emb_enc_dim: int = emb_enc_dim
         self.emb_dec_dim: int = emb_dec_dim
@@ -67,8 +74,11 @@ class Seq2SeqTokenizer:
         elif self.system == "bi-gru":
             self.enc: gru.Encoder = bidir.Encoder(
                 self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim, dropout=self.enc_dropout)
-            self.attention: bidir.Attention(enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim)
+                enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim, dropout=self.enc_dropout
+            )
+            self.attention: bidir.Attention = bidir.Attention(
+                enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim
+            )
             self.dec: gru.Decoder = bidir.Decoder(
                 self.vocabulary_dimension, emb_dim=self.emb_dec_dim,
                 enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim, dropout=self.enc_dropout,
@@ -105,7 +115,8 @@ class Seq2SeqTokenizer:
     def train(
             self, train_dataset: Dataset, dev_dataset: Dataset,
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
-            _seed: int = 1234
+            _seed: int = 1234,
+            fpath: str = "model.tar"
     ):
         """
 
@@ -143,8 +154,6 @@ class Seq2SeqTokenizer:
 
         best_valid_loss = float('inf')
 
-        self.save_vocab()
-
         for epoch in range(n_epochs):
 
             try:
@@ -155,17 +164,18 @@ class Seq2SeqTokenizer:
 
                 end_time = time.time()
 
-                epoch_mins, epoch_secs = epoch_time(start_time, end_time)
+                epoch_mins, epoch_secs = utils.epoch_time(start_time, end_time)
 
                 if valid_loss < best_valid_loss:
                     best_valid_loss = valid_loss
-                    self.save()
+                    self.save(fpath)
 
                 print(f'Epoch: {epoch + 1:02} | Time: {epoch_mins}m {epoch_secs}s')
                 print(f'\tTrain Loss: {train_loss:.3f} | Train PPL: {math.exp(train_loss):7.3f}')
                 print(f'\t Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
+
             except KeyboardInterrupt:
-                self.save()
+                self.save(fpath)
                 break
 
     def _train_epoch(self, iterator: BucketIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
@@ -274,37 +284,67 @@ class Seq2SeqTokenizer:
 
         print(f'| Test Loss: {test_loss:.3f} | Test PPL: {math.exp(test_loss):7.3f} |')
 
-    def save_vocab(self):
-        torch.save(self.vocabulary.vocab, "vocab.pt", pickle_module=dill)
-        torch.save(self.vocabulary, "field.pt", pickle_module=dill)
-        #with open("./vocabulary.pickle", "wb") as f:
-        #    pickle.dump(self.vocabulary, f)
+    @property
+    def settings(self):
+        return {
+            "n_layers": self.n_layers,
+            "hidden_size": self.hidden_size,
+            "enc_hid_dim": self.enc_hid_dim,
+            "dec_hid_dim": self.dec_hid_dim,
+            "emb_enc_dim": self.emb_enc_dim,
+            "emb_dec_dim": self.emb_dec_dim,
+            "enc_dropout": self.enc_dropout,
+            "dec_dropout": self.dec_dropout,
+            "system": self.system
+        }
 
-    def save(self):
-        import json
-        with open("./config.json", "w") as f:
-            json.dump({
-                "n_layers": self.n_layers,
-                "hidden_size": self.hidden_size,
-                "emb_enc_dim": self.emb_enc_dim,
-                "emb_dec_dim": self.emb_dec_dim,
-                "enc_dropout": self.enc_dropout,
-                "dec_dropout": self.dec_dropout,
-                "system": self.system
-            }, f)
-        torch.save(self.model.state_dict(), "./seq2seq.pt")
+    def save(self, fpath="model.tar"):
+
+        fpath = utils.ensure_ext(fpath, 'tar', infix=None)
+
+        # create dir if necessary
+        dirname = os.path.dirname(fpath)
+        if not os.path.isdir(dirname):
+            os.makedirs(dirname)
+
+        with tarfile.open(fpath, 'w') as tar:
+
+            # serialize settings
+            string, path = json.dumps(self.settings), 'settings.json.zip'
+            utils.add_gzip_to_tar(string, path, tar)
+
+            # serialize field
+            with utils.tmpfile() as tmppath:
+                torch.save(self.model.state_dict(), tmppath)
+                tar.add(tmppath, arcname='state_dict.pt')
+
+            # serialize field
+            with utils.tmpfile() as tmppath:
+                torch.save(self.vocabulary, tmppath, pickle_module=dill)
+                tar.add(tmppath, arcname='vocabulary.pt')
+
+        return fpath
 
     @classmethod
-    def load(cls, config="./config.json", vocabulary="vocabulary.pt", vocabulary_path="vocab.pt", state_dict_path="./seq2seq.pt"):
-        import json
-        with open(config) as f:
-            params = json.load(f)
+    def load(cls, fpath="./model.tar"):
+        with tarfile.open(utils.ensure_ext(fpath, 'tar'), 'r') as tar:
+            settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
-        vocabulary: ReversibleField = torch.load(vocabulary, pickle_module=dill)
-        # vocabulary.vocab = torch.load(vocabulary_path, pickle_module=dill)
+            # load state_dict
+            with utils.tmpfile() as tmppath:
+                tar.extract('vocabulary.pt', path=tmppath)
+                dictpath = os.path.join(tmppath, 'vocabulary.pt')
+                vocab = torch.load(dictpath, pickle_module=dill)
 
-        obj = cls(vocabulary=vocabulary, **params)
-        obj.model.load_state_dict(torch.load(state_dict_path))
+            obj = cls(vocabulary=vocab, **settings)
+
+            # load state_dict
+            with utils.tmpfile() as tmppath:
+                tar.extract('state_dict.pt', path=tmppath)
+                dictpath = os.path.join(tmppath, 'state_dict.pt')
+                obj.model.load_state_dict(torch.load(dictpath))
+
+        obj.model.eval()
 
         return obj
 
