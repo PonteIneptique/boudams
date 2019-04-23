@@ -18,13 +18,12 @@ class EncoderRNN(nn.Module):
         self.embedding = nn.Embedding(input_size, hidden_size)
         self.gru = nn.GRU(hidden_size, hidden_size)
 
-    def forward(self, input, hidden):
-        embedded = self.embedding(input).view(1, 1, -1)
-        output = embedded
-        output, hidden = self.gru(output, hidden)
+    def forward(self, inp, hidden):
+        embedded = self.embedding(inp).view(1, 1, -1)
+        output, hidden = self.gru(embedded, hidden)
         return output, hidden
 
-    def initHidden(self):
+    def init_hidden(self):
         return torch.zeros(1, 1, self.hidden_size, device=device)
 
 
@@ -38,14 +37,14 @@ class DecoderRNN(nn.Module):
         self.out = nn.Linear(hidden_size, output_size)
         self.softmax = nn.LogSoftmax(dim=1)
 
-    def forward(self, input, hidden):
-        output = self.embedding(input).view(1, 1, -1)
+    def forward(self, inp, hidden):
+        output = self.embedding(inp).view(1, 1, -1)
         output = F.relu(output)
         output, hidden = self.gru(output, hidden)
         output = self.softmax(self.out(output[0]))
         return output, hidden
 
-    def initHidden(self):
+    def init_hidden(self):
         return torch.zeros(1, 1, self.hidden_size, device=device)
 
 
@@ -64,8 +63,8 @@ class AttnDecoderRNN(nn.Module):
         self.gru = nn.GRU(self.hidden_size, self.hidden_size)
         self.out = nn.Linear(self.hidden_size, self.output_size)
 
-    def forward(self, input, hidden, encoder_outputs):
-        embedded = self.embedding(input).view(1, 1, -1)
+    def forward(self, inp, hidden, encoder_outputs):
+        embedded = self.embedding(inp).view(1, 1, -1)
         embedded = self.dropout(embedded)
 
         attn_weights = F.softmax(
@@ -82,5 +81,5 @@ class AttnDecoderRNN(nn.Module):
         output = F.log_softmax(self.out(output[0]), dim=1)
         return output, hidden, attn_weights
 
-    def initHidden(self):
+    def init_hidden(self):
         return torch.zeros(1, 1, self.hidden_size, device=device)

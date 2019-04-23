@@ -2,8 +2,9 @@ import math
 import time
 
 import matplotlib.pyplot as plt
-plt.switch_backend('agg')
 import matplotlib.ticker as ticker
+plt.switch_backend('agg')
+
 
 def asMinutes(s):
     m = math.floor(s / 60)
@@ -14,9 +15,9 @@ def asMinutes(s):
 def timeSince(since, percent):
     now = time.time()
     s = now - since
-    es = s / (percent)
+    es = s / percent
     rs = es - s
-    return '%s (- %s)' % (asMinutes(s), asMinutes(rs))
+    return '%s (remaining %s)' % (asMinutes(s), asMinutes(rs))
 
 
 def showPlot(points):
