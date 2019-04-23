@@ -1,16 +1,6 @@
 from boudams.tagger import Seq2SeqTokenizer
-import math
 
-vocabulary, train_dataset, dev_dataset, test_dataset = Seq2SeqTokenizer.get_dataset_and_vocabularies(
-    "data/train/train.tab", "data/dev/dev.tab", "data/test/test.tab"
-)
-tagger = Seq2SeqTokenizer(vocabulary, device="cuda")
-tagger.train(train_dataset, dev_dataset, n_epochs=1)
-
-#    src = batch.src l.198 evaluate
-# AttributeError: 'BucketIterator' object has no attribute 'src'
-# test_loss = tagger.test(test_dataset)
-# print(f'| Test Loss: {test_loss:.3f} | Test PPL: {math.exp(test_loss):7.3f} |')
+tokenizer = Seq2SeqTokenizer.load()
 
 Examples = """vosvenitesdevantmoiqantgevosdisquevosenaillissiezousece	vos venites devant moi qant ge vos dis que vos en aillissiez ou se ce
 nonlicuersmepartiroitelventrecarjaienvostotemisel	non li cuers me partiroit el ventre car j ai en vos tote mise l
@@ -28,6 +18,9 @@ Examples = [
     for line in Examples.split("\n")
 ]
 
-for inp, out in Examples:
-    vector = tagger.vocabulary.preprocess(inp)
-    tagger.model(vector)
+treated = tokenizer.annotate([x[0] for x in Examples])
+
+for (inp, exp), out in zip(Examples, treated):
+    print("Inp " + inp)
+    print("Exp " + exp)
+    print("Out " + out)

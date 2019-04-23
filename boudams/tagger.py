@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.optim as optim
 import dill
 
-from torchtext.data import Field, BucketIterator
+from torchtext.data import ReversibleField, BucketIterator
 
 import random
 import time
@@ -12,7 +12,7 @@ import math
 from typing import List, Tuple
 
 from .model import Encoder, Decoder, Seq2Seq
-from .dataset import build_vocab, CharacterField, TabularDataset as Dataset, get_datasets
+from .dataset import build_vocab, CharacterField, TabularDataset as Dataset, get_datasets, InputDataset, SOS_TOKEN
 from .utils import epoch_time
 
 
@@ -26,10 +26,10 @@ MAX_LENGTH = 150
 class Seq2SeqTokenizer:
     def __init__(
             self,
-            vocabulary,
-            hidden_size: int = 256, n_layers: int = 2, emb_enc_dim: int= 256, emb_dec_dim: int = 256,
-            enc_dropout: float= 0.5, dec_dropout: float= 0.5,
-             max_length=MAX_LENGTH, device: str=DEVICE
+            vocabulary: ReversibleField,
+            hidden_size: int = 256, n_layers: int = 2, emb_enc_dim: int = 256, emb_dec_dim: int = 256,
+            enc_dropout: float= 0.5, dec_dropout: float = 0.5,
+            device: str=DEVICE
     ):
         """
 
@@ -42,7 +42,7 @@ class Seq2SeqTokenizer:
         :param device:
         """
 
-        self.vocabulary: Field = vocabulary
+        self.vocabulary: ReversibleField = vocabulary
         self.vocabulary_dimension: int = len(self.vocabulary.vocab)
 
         self.device: str = device
@@ -70,7 +70,7 @@ class Seq2SeqTokenizer:
     @staticmethod
     def get_dataset_and_vocabularies(
             train, dev, test
-    ) -> Tuple[Field, Dataset, Dataset, Dataset]:
+    ) -> Tuple[ReversibleField, Dataset, Dataset, Dataset]:
         """
 
         :param train: Path to train TSV file
@@ -119,6 +119,8 @@ class Seq2SeqTokenizer:
 
         best_valid_loss = float('inf')
 
+        self.save_vocab()
+
         for epoch in range(n_epochs):
 
             try:
@@ -140,9 +142,7 @@ class Seq2SeqTokenizer:
                 print(f'\t Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
             except KeyboardInterrupt:
                 self.save()
-                self.save_vocab()
-
-        self.save_vocab()
+                break
 
     def _train_epoch(self, iterator: BucketIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
                      clip: float):
@@ -218,7 +218,11 @@ class Seq2SeqTokenizer:
 
         for i, batch in enumerate(iterator):
             src = batch.src
-            output = self.model(src, None, 0)  # turn off teacher forcing
+            output = self.model(
+                src, trg=None,
+                teacher_forcing_ratio=0,
+                sos_token=lambda device: SOS_TOKEN(device=self.device, field=self.vocabulary)
+            )  # turn off teacher forcing
 
             # trg = [trg sent len, batch size]
             # output = [Maximum Sentence Length, Number of Sentence in batch, Number of possible characters]
@@ -247,19 +251,46 @@ class Seq2SeqTokenizer:
         print(f'| Test Loss: {test_loss:.3f} | Test PPL: {math.exp(test_loss):7.3f} |')
 
     def save_vocab(self):
-        torch.save(self.vocabulary, "vocabulary.pt", pickle_module=dill)
+        torch.save(self.vocabulary.vocab, "vocab.pt", pickle_module=dill)
+        torch.save(self.vocabulary, "field.pt", pickle_module=dill)
         #with open("./vocabulary.pickle", "wb") as f:
         #    pickle.dump(self.vocabulary, f)
 
     def save(self):
+        import json
+        with open("./config.json", "w") as f:
+            json.dump({
+                "n_layers": self.n_layers,
+                "hidden_size": self.hidden_size,
+                "emb_enc_dim": self.emb_enc_dim,
+                "emb_dec_dim": self.emb_dec_dim,
+                "enc_dropout": self.enc_dropout,
+                "dec_dropout": self.dec_dropout
+            }, f)
         torch.save(self.model.state_dict(), "./seq2seq.pt")
 
-    def evaluateRandomly(self, pairs, n=10):
-        for i in range(n):
-            pair = random.choice(pairs)
-            print('>', pair[0])
-            print('=', pair[1])
-            output_words, attentions = self.evaluate(pair[0])
-            output_sentence = ' '.join(output_words)
-            print('<', output_sentence)
-            print('')
+    @classmethod
+    def load(cls, config="./config.json", vocabulary="vocabulary.pt", vocabulary_path="vocab.pt", state_dict_path="./seq2seq.pt"):
+        import json
+        with open(config) as f:
+            params = json.load(f)
+
+        vocabulary: ReversibleField = torch.load(vocabulary, pickle_module=dill)
+        # vocabulary.vocab = torch.load(vocabulary_path, pickle_module=dill)
+
+        obj = cls(vocabulary=vocabulary, **params)
+        obj.model.load_state_dict(torch.load(state_dict_path))
+
+        return obj
+
+    def annotate(self, texts: List[str]):
+        data = InputDataset(texts, vocabulary=self.vocabulary)
+        old_batch_first = self.vocabulary.batch_first
+        self.vocabulary.batch_first = True
+        yield from [
+            line
+            for batch_out in self.tag(data.get_iterator())
+            for line in self.vocabulary.reverse(batch_out)
+        ]
+        self.vocabulary.batch_first = old_batch_first
+
