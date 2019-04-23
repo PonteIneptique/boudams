@@ -11,7 +11,7 @@ import time
 import math
 from typing import List, Tuple
 
-from .model import Encoder, Decoder, Seq2Seq
+from .model import gru, lstm, bidir
 from .dataset import build_vocab, CharacterField, TabularDataset as Dataset, get_datasets, InputDataset, SOS_TOKEN
 from .utils import epoch_time
 
@@ -29,7 +29,7 @@ class Seq2SeqTokenizer:
             vocabulary: ReversibleField,
             hidden_size: int = 256, n_layers: int = 2, emb_enc_dim: int = 256, emb_dec_dim: int = 256,
             enc_dropout: float= 0.5, dec_dropout: float = 0.5,
-            device: str=DEVICE
+            device: str = DEVICE, system: str = "bi-gru"
     ):
         """
 
@@ -47,23 +47,43 @@ class Seq2SeqTokenizer:
 
         self.device: str = device
         self.n_layers: int = n_layers
-        self.hidden_size: int = hidden_size
+        self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
 
         self.emb_enc_dim: int = emb_enc_dim
         self.emb_dec_dim: int = emb_dec_dim
         self.enc_dropout: float = enc_dropout
         self.dec_dropout: float = dec_dropout
+        self.system: str = system
 
-        self.enc: Encoder = Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size, self.n_layers,
-                                    self.enc_dropout)
-        self.dec: Decoder = Decoder(self.vocabulary_dimension, self.emb_dec_dim, self.hidden_size, self.n_layers,
-                                    self.dec_dropout)
+        if self.system == "gru":
+            self.enc: gru.Encoder = gru.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
+                                                self.enc_dropout)
+            self.dec: gru.Decoder = gru.Decoder(self.vocabulary_dimension, self.emb_dec_dim, self.hidden_size,
+                                                self.dec_dropout)
 
-        self.model: Seq2Seq = Seq2Seq(
-            self.enc,
-            self.dec,
-            self.device
-        ).to(device)
+            self.model: gru.Seq2Seq = gru.Seq2Seq(self.enc, self.dec, self.device).to(device)
+            self.init_weights = gru.init_weights
+
+        elif self.system == "bi-gru":
+            self.enc: gru.Encoder = bidir.Encoder(
+                self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim, dropout=self.enc_dropout)
+            self.attention: bidir.Attention(enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim)
+            self.dec: gru.Decoder = bidir.Decoder(
+                self.vocabulary_dimension, emb_dim=self.emb_dec_dim,
+                enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim, dropout=self.enc_dropout,
+                attention=self.attention
+            )
+            self.init_weights = bidir.init_weights
+            self.model: gru.Seq2Seq = bidir.Seq2Seq(self.enc, self.dec, self.device).to(device)
+
+        else:
+            self.enc: lstm.Encoder = lstm.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
+                                                  self.n_layers, self.enc_dropout)
+            self.dec: lstm.Decoder = lstm.Decoder(self.vocabulary_dimension, self.emb_dec_dim, self.hidden_size,
+                                                  self.n_layers, self.dec_dropout)
+            self.init_weights = lstm.init_weights
+            self.model: lstm.Seq2Seq = lstm.Seq2Seq(self.enc, self.dec, self.device).to(device)
 
         self._dataset = None
 
@@ -100,6 +120,10 @@ class Seq2SeqTokenizer:
         random.seed(_seed)
         torch.manual_seed(_seed)
         torch.backends.cudnn.deterministic = True
+
+        self.model.apply(self.init_weights)
+
+        print(self.model)
 
         # Set up optimizer
         optimizer = optim.Adam(self.model.parameters())
@@ -265,7 +289,8 @@ class Seq2SeqTokenizer:
                 "emb_enc_dim": self.emb_enc_dim,
                 "emb_dec_dim": self.emb_dec_dim,
                 "enc_dropout": self.enc_dropout,
-                "dec_dropout": self.dec_dropout
+                "dec_dropout": self.dec_dropout,
+                "system": self.system
             }, f)
         torch.save(self.model.state_dict(), "./seq2seq.pt")
 
