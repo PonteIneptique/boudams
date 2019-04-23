@@ -5,6 +5,7 @@ __pycache__/
 .idea
 data/
 tutorial
+models/
 
 # C extensions
 *.so
