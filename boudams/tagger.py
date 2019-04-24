@@ -175,7 +175,9 @@ class Seq2SeqTokenizer:
                 print(f'\t Val. Loss: {valid_loss:.3f} |  Val. PPL: {math.exp(valid_loss):7.3f}')
 
             except KeyboardInterrupt:
+                print("Interrupting training...")
                 self.save(fpath)
+                print("Saved !")
                 break
 
     def _train_epoch(self, iterator: BucketIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
