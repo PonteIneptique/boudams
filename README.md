@@ -11,6 +11,54 @@ space and they are separated by tabs (`\t`, marked here as `<TAB>`).
 Things needs a little more tweaks here and there again, I'd like to see how Attention will perform. This model is 
 particulary built for OCR/HTR output from manuscripts where spaces are inconsistent.
 
+## Examples
+
+### BiDirectional GRU with Attention
+
+- hidden_size=256, emb_enc_dim=256, emb_dec_dim=256
+
+```text
+Inp vosvenitesdevantmoiqantgevosdisquevosenaillissiezousece
+Exp vos venites devant moi qant ge vos dis que vos en aillissiez ou se ce
+Out  UNK vos venites devant moi qant ge vos dis que vos en aillissiez ou sece
+
+Inp nonlicuersmepartiroitelventrecarjaienvostotemisel
+Exp non li cuers me partiroit el ventre car j ai en vos tote mise l
+Out  UNK non li cuers me parti roi tel ventre car jai en vos tote mise l
+
+Inp amorquemereporroitmetreensonanfantsinesaicommentgemen
+Exp amor que mere porroit metre en son anfant si ne sai comment ge m en
+Out  UNK amor que me reporroit metre en son anfant si ne sai comment ge me
+
+Inp puisseconsirrerdevosennulefincarmoutmegreveraaucuerMaismiauz
+Exp puisse consirrer de vos en nule fin car mout me grevera au cuer Mais miauz
+Out  UNK puis se consirrer de vos en nule fin car mout me grevera au cuer Mais miauz
+
+Inp aingeassoffrirmagrantmesaisequevosperdissiezparmoisihautanorcomme
+Exp ain ge assoffrir ma grant mesaise que vos perdissiez par moi si haut anor comme
+Out  UNK ainge asssforfrir ma grant mesaise que vos perdissiez par moi si haut a nor comme
+
+Inp dechevalerieetgecuitqueeleiserabienemploieeEtsevossaviez
+Exp de chevalerie et ge cuit que ele i sera bien emploiee Et se vos saviez
+Out  UNK de chevalerie et ge cuit que ele i era bien emploie et se vos saviez
+
+Inp quifuvostresperesnedeqexgenzvostreslignagesestestraizdeparla
+Exp qui fu vostres peres ne de qex genz vostres lignages est estraiz de par la
+Out  UNK qui fu vos tresperes ne de qex genz vostres lignages est estraiz de par la
+
+Inp merevosnavriezpaspaorsicomgecuitdestreprozdomcarnus
+Exp mere vos n avriez pas paor si com ge cuit d estre prozdom car nus
+Out  UNK me revos n avriez pas paor si com ge cuit destre proz dom car nus
+
+Inp quidetellignagefustnedevroitpasavoircoragedemauveitiéMaisvosn
+Exp qui de tel lignage fust ne devroit pas avoir corage de mauveitié Mais vos n
+Out  UNK qui de tel lignage fust ne devroit pas avoir corage de mauveitié Mais vos n
+
+Inp ansavroizoresplustantquemavolentezsoitnejaplusnemenquerez
+Exp an savroiz ores plus tant que ma volentez soit ne ja plus ne m enquerez
+Out  UNK ans avroiz ores plus tant que ma volentez soit ne ja plus ne menquerez
+```
+
 Example output after 100 epochs
 
 ```text
