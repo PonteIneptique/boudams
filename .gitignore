@@ -5,6 +5,7 @@ __pycache__/
 .idea
 data/
 tutorial
+dataset.py
 models/
 
 # C extensions
