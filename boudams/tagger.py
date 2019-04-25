@@ -11,6 +11,7 @@ import time
 import os
 import math
 import json
+import tqdm
 import tarfile
 from typing import List, Tuple
 
@@ -22,7 +23,6 @@ from . import utils
 teacher_forcing_ratio = 0.5
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(DEVICE)
 MAX_LENGTH = 150
 
 
@@ -112,6 +112,10 @@ class Seq2SeqTokenizer:
         vocab = build_vocab(CharacterField, (train, dev, test))
         return vocab, train, dev, test
 
+    @property
+    def padtoken(self):
+        return self.vocabulary.vocab.stoi[self.vocabulary.pad_token]
+
     def train(
             self, train_dataset: Dataset, dev_dataset: Dataset,
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
@@ -134,15 +138,12 @@ class Seq2SeqTokenizer:
 
         self.model.apply(self.init_weights)
 
-        print(self.model)
-
         # Set up optimizer
         optimizer = optim.Adam(self.model.parameters())
 
         # Set up loss but ignore the loss when the token is <pad>
         #     where <pad> is the token for filling the vector to get same-sized matrix
-        PAD_IDX = self.vocabulary.vocab.stoi['<pad>']
-        criterion = nn.CrossEntropyLoss(ignore_index=PAD_IDX)
+        criterion = nn.CrossEntropyLoss(ignore_index=self.padtoken)
 
         # Set-up the iterators
         train_iterator, dev_iterator = BucketIterator.splits(
@@ -154,8 +155,8 @@ class Seq2SeqTokenizer:
 
         best_valid_loss = float('inf')
 
-        for epoch in range(n_epochs):
-
+        for epoch in range(1, n_epochs+1):
+            print("[Epoch %s/%s]" % (epoch, n_epochs), flush=True)
             try:
                 start_time = time.time()
 
@@ -194,7 +195,7 @@ class Seq2SeqTokenizer:
 
         epoch_loss = 0
 
-        for i, batch in enumerate(iterator):
+        for i, batch in enumerate(tqdm.tqdm(iterator)):
             src = batch.src
             trg = batch.trg
 

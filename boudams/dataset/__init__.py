@@ -2,17 +2,22 @@ import random
 from typing import List, Iterator, Tuple, Union
 from torchtext.data import Field, ReversibleField, TabularDataset, Dataset, Iterator as TorchIterator, Example
 
+DEFAULT_INIT_TOKEN = "£"
+DEFAULT_EOS_TOKEN = "$"
+DEFAULT_PAD_TOKEN = "¬"
 
 # https://github.com/bentrevett/pytorch-seq2seq/blob/master/1%20-%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb
-CharacterField: ReversibleField = ReversibleField(tokenize=list, init_token="£", eos_token="$", lower=False)
+CharacterField: ReversibleField = ReversibleField(tokenize=list, init_token=DEFAULT_INIT_TOKEN,
+                                                  eos_token=DEFAULT_EOS_TOKEN, pad_token=DEFAULT_PAD_TOKEN,
+                                                  lower=False)
 
 
 def get_datasets(train, test, dev) -> Tuple[TabularDataset, TabularDataset, TabularDataset]:
     fields = [("src", CharacterField), ("trg", CharacterField)]
     return (
-        TabularDataset(train, format="TSV", fields=fields, skip_header=True),
-        TabularDataset(test, format="TSV", fields=fields, skip_header=True),
-        TabularDataset(dev, format="TSV", fields=fields, skip_header=True)
+        TabularDataset(train, format="TSV", fields=fields, skip_header=False, csv_reader_params={"quotechar": '@'}),
+        TabularDataset(test, format="TSV", fields=fields, skip_header=False, csv_reader_params={"quotechar": '@'}),
+        TabularDataset(dev, format="TSV", fields=fields, skip_header=False, csv_reader_params={"quotechar": '@'})
     )
 
 
