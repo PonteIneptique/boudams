@@ -15,7 +15,7 @@ import tqdm
 import tarfile
 from typing import List, Tuple
 
-from .model import gru, lstm, bidir
+from .model import gru, lstm, bidir, conv
 from .dataset import build_vocab, CharacterField, TabularDataset as Dataset, get_datasets, InputDataset
 from . import utils
 
@@ -30,9 +30,12 @@ class Seq2SeqTokenizer:
     def __init__(
             self,
             vocabulary: ReversibleField,
-            hidden_size: int = 256, n_layers: int = 2, emb_enc_dim: int = 256, emb_dec_dim: int = 256,
+            hidden_size: int = 256,
+            enc_n_layers: int = 10, dec_n_layers: int = 10,
+            emb_enc_dim: int = 256, emb_dec_dim: int = 256,
             enc_hid_dim: int = None, dec_hid_dim: int = None,
-            enc_dropout: float= 0.5, dec_dropout: float = 0.5,
+            enc_dropout: float = 0.5, dec_dropout: float = 0.5,
+            enc_kernel_size: int = 3, dec_kernel_size: int = 3,
             out_max_sentence_length: int = 150,
             device: str = DEVICE, system: str = "bi-gru"
     ):
@@ -51,8 +54,8 @@ class Seq2SeqTokenizer:
         self.vocabulary_dimension: int = len(self.vocabulary.vocab)
 
         self.device: str = device
-        self.n_layers: int = n_layers
         self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
+
         if enc_hid_dim and dec_hid_dim:
             self.enc_hid_dim: int = enc_hid_dim
             self.dec_hid_dim: int = dec_hid_dim
@@ -61,6 +64,11 @@ class Seq2SeqTokenizer:
         self.emb_dec_dim: int = emb_dec_dim
         self.enc_dropout: float = enc_dropout
         self.dec_dropout: float = dec_dropout
+        self.enc_kernel_size: int = enc_kernel_size
+        self.dec_kernel_size: int = dec_kernel_size
+        self.enc_n_layers: int = enc_n_layers
+        self.dec_n_layers: int = dec_n_layers
+
         self.out_max_sentence_length: int = out_max_sentence_length
         self.system: str = system
 
@@ -71,8 +79,24 @@ class Seq2SeqTokenizer:
             "device": self.device,
             "out_max_sentence_length": self.out_max_sentence_length
         }
-
-        if self.system == "gru":
+        print(self.system)
+        if self.system == "conv":
+            self.enc: gru.Encoder = conv.Encoder(
+                self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
+                dropout=self.enc_dropout,
+                device=self.device,
+                kernel_size=self.enc_kernel_size
+            )
+            self.dec: gru.Decoder = conv.Decoder(
+                self.vocabulary_dimension, emb_dim=self.emb_dec_dim,
+                hid_dim=self.dec_hid_dim, dropout=self.enc_dropout,
+                device=self.device, pad_idx=self.padtoken, kernel_size=self.enc_kernel_size,
+                n_layers=self.dec_n_layers
+            )
+            self.init_weights = None
+            self.model: gru.Seq2Seq = conv.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
+        elif self.system == "gru":
             self.enc: gru.Encoder = gru.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
                                                 self.enc_dropout)
             self.dec: gru.Decoder = gru.Decoder(self.vocabulary_dimension, self.emb_dec_dim, self.hidden_size,
@@ -99,9 +123,9 @@ class Seq2SeqTokenizer:
 
         else:
             self.enc: lstm.Encoder = lstm.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
-                                                  self.n_layers, self.enc_dropout)
+                                                  self.enc_n_layers, self.enc_dropout)
             self.dec: lstm.Decoder = lstm.Decoder(self.vocabulary_dimension, self.emb_dec_dim, self.hidden_size,
-                                                  self.n_layers, self.dec_dropout)
+                                                  self.dec_n_layers, self.dec_dropout)
             self.init_weights = lstm.init_weights
             self.model: lstm.Seq2Seq = lstm.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
 
@@ -160,7 +184,8 @@ class Seq2SeqTokenizer:
         torch.manual_seed(_seed)
         torch.backends.cudnn.deterministic = True
 
-        self.model.apply(self.init_weights)
+        if self.init_weights is not None:
+            self.model.apply(self.init_weights)
 
         # Set up optimizer
         optimizer = optim.Adam(self.model.parameters())
@@ -321,7 +346,10 @@ class Seq2SeqTokenizer:
     @property
     def settings(self):
         return {
-            "n_layers": self.n_layers,
+            "enc_kernel_size": self.enc_kernel_size,
+            "dec_kernel_size": self.dec_kernel_size,
+            "enc_n_layers": self.enc_n_layers,
+            "dec_n_layers": self.dec_n_layers,
             "hidden_size": self.hidden_size,
             "enc_hid_dim": self.enc_hid_dim,
             "dec_hid_dim": self.dec_hid_dim,
@@ -413,7 +441,7 @@ class Seq2SeqTokenizer:
             translation_tensor = torch.argmax(translation_tensor_logits.squeeze(1), 1)
             translation = [self.vocabulary.vocab.itos[t] for t in translation_tensor]
             translation = translation[1:]
-            if attention:
+            if attention is not None:
                 attention = attention[1:]
             yield "".join(translation)#, attention
 
