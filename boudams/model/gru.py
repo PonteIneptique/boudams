@@ -2,8 +2,6 @@ import torch
 import torch.nn as nn
 import random
 
-# See https://github.com/bentrevett/pytorch-seq2seq/blob/master/2%20-%20Learning%20Phrase%20Representations%20using%20RNN%20Encoder-Decoder%20for%20Statistical%20Machine%20Translation.ipynb
-
 
 class Encoder(nn.Module):
     def __init__(self, input_dim, emb_dim, hid_dim, dropout):
@@ -20,14 +18,18 @@ class Encoder(nn.Module):
 
         self.dropout = nn.Dropout(dropout)
 
-    def forward(self, src):
+    def forward(self, src, src_len):
         # src = [src sent len, batch size]
 
         embedded = self.dropout(self.embedding(src))
 
         # embedded = [src sent len, batch size, emb dim]
 
-        outputs, hidden = self.rnn(embedded)  # no cell state!
+        packed_embedded = nn.utils.rnn.pack_padded_sequence(embedded, src_len)
+
+        packed_outputs, hidden = self.rnn(packed_embedded)  # no cell state!
+
+        outputs, _ = nn.utils.rnn.pad_packed_sequence(packed_outputs)
 
         # outputs = [src sent len, batch size, hid dim * n directions]
         # hidden = [n layers * n directions, batch size, hid dim]
@@ -37,7 +39,6 @@ class Encoder(nn.Module):
         return hidden
 
 
-# https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 class Decoder(nn.Module):
     def __init__(self, output_dim, emb_dim, hid_dim, dropout):
         super().__init__()
@@ -95,39 +96,46 @@ class Decoder(nn.Module):
 
 
 class Seq2Seq(nn.Module):
-    def __init__(self, encoder, decoder, device):
+    def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx, out_max_sentence_length=150):
         super().__init__()
 
-        self.out_max_sentence_length = 150
+        self.out_max_sentence_length = out_max_sentence_length
 
         self.encoder = encoder
         self.decoder = decoder
+
+        self.pad_idx = pad_idx
+        self.sos_idx = sos_idx
+        self.eos_idx = eos_idx
         self.device = device
 
         assert encoder.hid_dim == decoder.hid_dim, \
             "Hidden dimensions of encoder and decoder must be equal!"
 
-    def forward(self, src, trg=None, teacher_forcing_ratio=0.5):
+    def forward(self, src, src_len, trg=None, teacher_forcing_ratio=0.5):
         # src = [src sent len, batch size]
         # trg = [trg sent len, batch size]
         # teacher_forcing_ratio is probability to use teacher forcing
         # e.g. if teacher_forcing_ratio is 0.75 we use ground-truth inputs 75% of the time
 
         if trg is None:
-            src = src.permute(1, 0)
+            #src = src.permute(1, 0)
             teacher_forcing_ratio = 0
             out_max_len = self.out_max_sentence_length
 
             # In case we do not have a target fed to the forward function (basically when we tag)
             #   we create a target tensor filled with StartOfSentence tokens
-            sos_token = sos_token(device=self.device)
             batch_size = src.shape[1]
-            input = torch.tensor([sos_token[0] for _ in range(batch_size)]).to(self.device)
+            trg = torch.zeros(
+                (self.out_max_sentence_length, batch_size)
+            ).long().fill_(self.sos_idx).to(self.device)
+            inference = True
         else:
             batch_size = src.shape[1]
             out_max_len = trg.shape[0]
+            inference = False
             # first input to the decoder is the <sos> tokens
-            input = trg[0, :]
+
 
         trg_vocab_size = self.decoder.output_dim
 
@@ -135,23 +143,28 @@ class Seq2Seq(nn.Module):
         outputs = torch.zeros(out_max_len, batch_size, trg_vocab_size).to(self.device)
 
         # last hidden state of the encoder is used as the initial hidden state of the decoder
-        context = self.encoder(src)
+        context = self.encoder(src, src_len)
 
-        #context also used as the initial hidden state of the decoder
+        # context also used as the initial hidden state of the decoder
         hidden = context
 
+        # First input to the decoder is the <sos> tokens
+        output = trg[0, :]
+
         for t in range(1, out_max_len):
-            output, hidden = self.decoder(input, hidden, context)
+            output, hidden = self.decoder(output, hidden, context)
             outputs[t] = output
             teacher_force = random.random() < teacher_forcing_ratio
 
             if teacher_force:
-                input = trg[t]
+                output = trg[t]
             else:
-                top1 = output.max(1)[1]
-                input = top1
+                output = output.max(1)[1]
 
-        return outputs
+            if inference and output == self.eos_idx:  # This does not take into account batch ! This fails with batches
+                return outputs[:t], None
+
+        return outputs, None
 
 
 def init_weights(m):

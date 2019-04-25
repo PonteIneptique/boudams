@@ -4,7 +4,8 @@ vocabulary, train_dataset, dev_dataset, test_dataset = Seq2SeqTokenizer.get_data
     #"data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
     "data/small/train.tsv", "data/small/dev.tsv", "data/small/test.tsv"
 )
-
+from pprint import pprint
+pprint(vocabulary.vocab.freqs)
 print("-- Dataset informations --")
 print("Number of training examples: {}".format(len(train_dataset.examples)))
 print("Number of dev examples: {}".format(len(dev_dataset.examples)))
@@ -27,11 +28,12 @@ def examples(obj):
 
 
 for settings, system, batch_size in [
-    #(dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256), "bi-gru", 64),
+    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256), "bi-gru", 64),
     #(dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, n_layers=2), "lstm", 256),
-    (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256)
+    #(dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256)
 ]:
     tagger = Seq2SeqTokenizer(vocabulary, device="cuda", system=system, **settings)
+    print(tagger.model)
     tagger.train(train_dataset, dev_dataset, n_epochs=50, fpath="models/"+system+".tar", batch_size=batch_size,
                  after_epoch_fn=examples)
 

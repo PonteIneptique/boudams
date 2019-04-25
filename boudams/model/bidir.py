@@ -68,9 +68,10 @@ class Attention(nn.Module):
         self.attn = nn.Linear((self.enc_hid_dim * 2) + self.dec_hid_dim, self.dec_hid_dim)
         self.v = nn.Parameter(torch.rand(self.dec_hid_dim))
 
-    def forward(self, hidden, encoder_outputs):
+    def forward(self, hidden, encoder_outputs, mask):
         # hidden = [batch size, dec hid dim]
         # encoder_outputs = [src sent len, batch size, enc hid dim * 2]
+        #mask = [batch size, src sent len]
 
         batch_size = encoder_outputs.shape[1]
         src_len = encoder_outputs.shape[0]
@@ -101,6 +102,8 @@ class Attention(nn.Module):
 
         # attention= [batch size, src len]
 
+        attention = attention.masked_fill(mask == 0, -1e10)
+
         return F.softmax(attention, dim=1)
 
 
@@ -120,7 +123,7 @@ class Decoder(nn.Module):
         self.out = nn.Linear((enc_hid_dim * 2) + dec_hid_dim + emb_dim, output_dim)
         self.dropout = nn.Dropout(dropout)
 
-    def forward(self, input, hidden, encoder_outputs):
+    def forward(self, input, hidden, encoder_outputs, mask):
         # input = [batch size]
         # hidden = [n layers * n directions, batch size, hid dim]
         # context = [n layers * n directions, batch size, hid dim]
@@ -137,7 +140,7 @@ class Decoder(nn.Module):
 
         # embedded = [1, batch size, emb dim]
 
-        a = self.attention(hidden, encoder_outputs)
+        a = self.attention(hidden, encoder_outputs, mask)
 
         # a = [batch size, src len]
 
@@ -180,61 +183,84 @@ class Decoder(nn.Module):
 
         # output = [bsz, output dim]
 
-        return output, hidden.squeeze(0)
+        # Since we added pack, we return attention
+        return output, hidden.squeeze(0), a.squeeze(1)
 
 
 class Seq2Seq(nn.Module):
-    def __init__(self, encoder, decoder, device):
+    def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx, out_max_sentence_length=150):
         super().__init__()
 
-        self.out_max_sentence_length = 150
+        self.out_max_sentence_length = out_max_sentence_length
 
         self.encoder = encoder
         self.decoder = decoder
+
+        self.pad_idx = pad_idx
+        self.sos_idx = sos_idx
+        self.eos_idx = eos_idx
         self.device = device
 
-    def forward(self, src, trg=None, teacher_forcing_ratio=0.5):
+    def create_mask(self, src):
+        mask = (src != self.pad_idx).permute(1, 0)
+        return mask
+
+    def forward(self, src, src_len, trg=None, teacher_forcing_ratio=0.5):
         # src = [src sent len, batch size]
         # trg = [trg sent len, batch size]
         # teacher_forcing_ratio is probability to use teacher forcing
         # e.g. if teacher_forcing_ratio is 0.75 we use ground-truth inputs 75% of the time
 
         if trg is None:
-            src = src.permute(1, 0)
-            teacher_forcing_ratio = 0
+            #src = src.permute(1, 0)
+            teacher_forcing_ratio = 0  # Must be !
             out_max_len = self.out_max_sentence_length
+            inference = True
 
             # In case we do not have a target fed to the forward function (basically when we tag)
             #   we create a target tensor filled with StartOfSentence tokens
-            sos_token = sos_token(device=self.device)
             batch_size = src.shape[1]
-            input = torch.tensor([sos_token[0] for _ in range(batch_size)]).to(self.device)
+            trg = torch.zeros(
+                (self.out_max_sentence_length, batch_size)
+            ).long().fill_(self.sos_idx).to(self.device)
         else:
             batch_size = src.shape[1]
             out_max_len = trg.shape[0]
+            inference = False
             # first input to the decoder is the <sos> tokens
-            input = trg[0, :]
+
 
         trg_vocab_size = self.decoder.output_dim
 
         # tensor to store decoder outputs
         outputs = torch.zeros(out_max_len, batch_size, trg_vocab_size).to(self.device)
+        #tensor to store attention
+        attentions = torch.zeros(out_max_len, batch_size, src.shape[0]).to(self.device)
 
         # last hidden state of the encoder is used as the initial hidden state of the decoder
-        encoder_outputs, hidden = self.encoder(src)
+        encoder_outputs, hidden = self.encoder(src, src_len)
+
+        #first input to the decoder is the <sos> tokens
+        output = trg[0, :]
+
+        mask = self.create_mask(src)
+        #mask = [batch size, src sent len]
 
         for t in range(1, out_max_len):
-            output, hidden = self.decoder(input, hidden, encoder_outputs)
+            output, hidden, attention = self.decoder(output, hidden, encoder_outputs, mask)
             outputs[t] = output
-            teacher_force = random.random() < teacher_forcing_ratio
+            attentions[t] = attention
 
-            if teacher_force:
-                input = trg[t]
+            if random.random() < teacher_forcing_ratio:
+                output = trg[t]
             else:
-                top1 = output.max(1)[1]
-                input = top1
+                output = output.max(1)[1]
 
-        return outputs
+            #print(output, outputs, self.eos_idx)
+            if inference and output == self.eos_idx:  # This does not take into account batch ! This fails with batches
+                return outputs[:t], attentions[:t]
+
+        return outputs, attentions
 
 
 def init_weights(m):

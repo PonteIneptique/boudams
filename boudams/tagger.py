@@ -33,6 +33,7 @@ class Seq2SeqTokenizer:
             hidden_size: int = 256, n_layers: int = 2, emb_enc_dim: int = 256, emb_dec_dim: int = 256,
             enc_hid_dim: int = None, dec_hid_dim: int = None,
             enc_dropout: float= 0.5, dec_dropout: float = 0.5,
+            out_max_sentence_length: int = 150,
             device: str = DEVICE, system: str = "bi-gru"
     ):
         """
@@ -60,13 +61,15 @@ class Seq2SeqTokenizer:
         self.emb_dec_dim: int = emb_dec_dim
         self.enc_dropout: float = enc_dropout
         self.dec_dropout: float = dec_dropout
+        self.out_max_sentence_length: int = out_max_sentence_length
         self.system: str = system
 
         seq2seq_shared_params = {
             "pad_idx": self.padtoken,
             "sos_idx": self.sostoken,
             "eos_idx": self.eostoken,
-            "device": self.device
+            "device": self.device,
+            "out_max_sentence_length": self.out_max_sentence_length
         }
 
         if self.system == "gru":
@@ -103,7 +106,6 @@ class Seq2SeqTokenizer:
             self.model: lstm.Seq2Seq = lstm.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
 
         self._dataset = None
-
 
     @property
     def padtoken(self):
@@ -181,18 +183,11 @@ class Seq2SeqTokenizer:
         csv_content = self.init_csv_content()
 
         for epoch in range(1, n_epochs+1):
-            #print(, flush=True)
             try:
-                start_time = time.time()
-
                 train_loss = self._train_epoch(train_iterator, optimizer, criterion, clip,
                                                desc="[Epoch Training %s/%s]" % (epoch, n_epochs))
                 valid_loss = self.evaluate(dev_iterator, criterion,
                                                desc="[Epoch Dev %s/%s]" % (epoch, n_epochs))
-
-                end_time = time.time()
-
-                epoch_mins, epoch_secs = utils.epoch_time(start_time, end_time)
 
                 csv_content.append(
                     (str(epoch), train_loss, math.exp(train_loss), valid_loss, math.exp(valid_loss), "UNK", "UNK")
@@ -236,7 +231,7 @@ class Seq2SeqTokenizer:
             trg, _ = batch.trg  # We don't care about target length !
 
             optimizer.zero_grad()
-            output = self.model(src, src_len, trg)
+            output, attention = self.model(src, src_len, trg)
 
             # trg = [trg sent len, batch size]
             # output = [trg sent len, batch size, output dim]
@@ -270,7 +265,7 @@ class Seq2SeqTokenizer:
                 src, src_len = batch.src
                 trg, _ = batch.trg  # Length not used
 
-                output = self.model(src, src_len, trg, teacher_forcing_ratio=0)  # turn off teacher forcing
+                output, attention = self.model(src, src_len, trg, teacher_forcing_ratio=0)  # turn off teacher forcing
 
                 # trg = [trg sent len, batch size]
                 # output = [trg sent len, batch size, output dim]
@@ -288,10 +283,10 @@ class Seq2SeqTokenizer:
         return epoch_loss / len(iterator)
 
     def tag(self, iterator: BucketIterator):
-
+        self.model.eval()
         for i, batch in enumerate(iterator):
             src, src_len = batch.src
-            output = self.model(
+            output, attention = self.model(
                 src, src_len, trg=None,
                 teacher_forcing_ratio=0
             )  # turn off teacher forcing
@@ -319,7 +314,7 @@ class Seq2SeqTokenizer:
         PAD_IDX = self.vocabulary.vocab.stoi['<pad>']
         criterion = nn.CrossEntropyLoss(ignore_index=PAD_IDX)
 
-        test_loss = self.evaluate(test_iterator, criterion)
+        test_loss = self.evaluate(test_iterator, criterion, desc="Test")
 
         print(f'| Test Loss: {test_loss:.3f} | Test PPL: {math.exp(test_loss):7.3f} |')
 
@@ -334,6 +329,7 @@ class Seq2SeqTokenizer:
             "emb_dec_dim": self.emb_dec_dim,
             "enc_dropout": self.enc_dropout,
             "dec_dropout": self.dec_dropout,
+            "out_max_sentence_length": self.out_max_sentence_length,
             "system": self.system
         }
 
@@ -392,14 +388,32 @@ class Seq2SeqTokenizer:
 
         return obj
 
-    def annotate(self, texts: List[str], batch_size=256):
-        data = InputDataset(texts, vocabulary=self.vocabulary)
-        old_batch_first = self.vocabulary.batch_first
-        self.vocabulary.batch_first = True
-        yield from [
-            line
-            for batch_out in self.tag(data.get_iterator(batch_size=batch_size))
-            for line in self.vocabulary.reverse(batch_out)
-        ]
-        self.vocabulary.batch_first = old_batch_first
+    def reverse(self, batch):
+        if not self.vocabulary.batch_first:
+            batch = batch.t()
+        with torch.cuda.device_of(batch):
+            batch = batch.tolist()
+        ignore = (self.eostoken, self.sostoken, self.padtoken, self.vocabulary.unk_token)
+        batch = [
+            [self.vocabulary.vocab.itos[ind] for ind in ex[1:] if ind not in ignore]
+            for ex in batch
+        ]  # denumericalize
+
+        return [''.join(ex) for ex in batch]
+
+    def annotate(self, texts: List[str]):
+
+        self.model.eval()
+        for sentence in texts:
+            numericalized = [self.vocabulary.vocab.stoi[t] for t in sentence] + [self.eostoken]
+            sentence_length = torch.LongTensor([len(numericalized)]).to(self.device)
+            tensor = torch.LongTensor(numericalized).unsqueeze(1).to(self.device)
+            translation_tensor_logits, attention = self.model(
+                tensor, sentence_length, trg=None, teacher_forcing_ratio=0)
+            translation_tensor = torch.argmax(translation_tensor_logits.squeeze(1), 1)
+            translation = [self.vocabulary.vocab.itos[t] for t in translation_tensor]
+            translation = translation[1:]
+            if attention:
+                attention = attention[1:]
+            yield "".join(translation)#, attention
 

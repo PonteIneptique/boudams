@@ -107,14 +107,13 @@ class Decoder(nn.Module):
 
 
 class Seq2Seq(nn.Module):
-    def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx):
+    def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx, out_max_sentence_length=150):
         super().__init__()
 
-        self.out_max_sentence_length = 150
+        self.out_max_sentence_length = out_max_sentence_length
 
         self.encoder = encoder
         self.decoder = decoder
-        self.device = device
 
         self.pad_idx = pad_idx
         self.sos_idx = sos_idx
@@ -133,7 +132,7 @@ class Seq2Seq(nn.Module):
         # e.g. if teacher_forcing_ratio is 0.75 we use ground-truth inputs 75% of the time
 
         if trg is None:
-            src = src.permute(1, 0)
+            #src = src.permute(1, 0)
             teacher_forcing_ratio = 0
             out_max_len = self.out_max_sentence_length
 
@@ -141,14 +140,15 @@ class Seq2Seq(nn.Module):
             #   we create a target tensor filled with StartOfSentence tokens
             batch_size = src.shape[1]
             trg = torch.zeros(
-                (self.out_max_sentence_length, src.shape[1])
-            ).long().fill_(self.sos_idx).to(src.device)
+                (self.out_max_sentence_length, batch_size)
+            ).long().fill_(self.sos_idx).to(self.device)
+            inference = True
         else:
-            batch_size = src.shape[1]
+            inference = False
             out_max_len = trg.shape[0]
             # first input to the decoder is the <sos> tokens
-        input = trg[0, :]
 
+        batch_size = src.shape[1]
         trg_vocab_size = self.decoder.output_dim
 
         # tensor to store decoder outputs
@@ -157,18 +157,23 @@ class Seq2Seq(nn.Module):
         # last hidden state of the encoder is used as the initial hidden state of the decoder
         enc_output, hidden, cell = self.encoder(src, src_len)
 
+        # First input to the decoder is the <sos> tokens
+        output = trg[0, :]
+
         for t in range(1, out_max_len):
-            output, hidden, cell = self.decoder(input, hidden, cell)
+            output, hidden, cell = self.decoder(output, hidden, cell)
             outputs[t] = output
             teacher_force = random.random() < teacher_forcing_ratio
 
-            top1 = output.max(1)[1]
             if teacher_force:
-                input = trg[t]
+                output = trg[t]
             else:
-                input = top1
+                output = output.max(1)[1]
 
-        return outputs
+            if inference and output == self.eos_idx:  # This does not take into account batch ! This fails with batches
+                return outputs[:t], None
+
+        return outputs, None
 
 
 def init_weights(m: nn.Module):
