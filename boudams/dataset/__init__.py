@@ -6,10 +6,11 @@ DEFAULT_INIT_TOKEN = "£"
 DEFAULT_EOS_TOKEN = "$"
 DEFAULT_PAD_TOKEN = "¬"
 
-# https://github.com/bentrevett/pytorch-seq2seq/blob/master/1%20-%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb
+# https://github.com/bentrevett/pytorch-seq2seq/blob/master/4%20-%20Packed%20Padded%20Sequences%2C%20Masking%20and%20Inference.ipynb
+#  Include_lengths is used only on source normally, need to be safe on this
 CharacterField: ReversibleField = ReversibleField(tokenize=list, init_token=DEFAULT_INIT_TOKEN,
                                                   eos_token=DEFAULT_EOS_TOKEN, pad_token=DEFAULT_PAD_TOKEN,
-                                                  lower=False)
+                                                  lower=False, include_lengths=True)
 
 
 def get_datasets(train, test, dev) -> Tuple[TabularDataset, TabularDataset, TabularDataset]:
@@ -27,11 +28,6 @@ def build_vocab(field: ReversibleField, datasets: Iterator[TabularDataset]) -> R
     return field
 
 
-def SOS_TOKEN(device="cpu", field=CharacterField):
-    inp = [field.init_token]
-    return field.numericalize(inp, device=device)
-
-
 class InputDataset(Dataset):
     def __init__(self, texts: List[str], vocabulary: Field):
         examples = [
@@ -42,5 +38,8 @@ class InputDataset(Dataset):
             examples=examples, fields=[("src", vocabulary)]
         )
 
-    def get_iterator(self, batch_size=256):
-        return TorchIterator(self, batch_size=batch_size, device="cuda", train=False, sort=False)
+    def get_iterator(self, batch_size=256, device="cuda"):
+        return TorchIterator(self, batch_size=batch_size, device=device, train=False,
+            sort_within_batch=True,
+            sort_key=lambda x: len(x.src)
+        )

@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 import random
-from ..dataset import SOS_TOKEN
 
 # See https://github.com/bentrevett/pytorch-seq2seq/blob/master/2%20-%20Learning%20Phrase%20Representations%20using%20RNN%20Encoder-Decoder%20for%20Statistical%20Machine%20Translation.ipynb
 
@@ -108,7 +107,7 @@ class Seq2Seq(nn.Module):
         assert encoder.hid_dim == decoder.hid_dim, \
             "Hidden dimensions of encoder and decoder must be equal!"
 
-    def forward(self, src, trg=None, teacher_forcing_ratio=0.5, sos_token=SOS_TOKEN):
+    def forward(self, src, trg=None, teacher_forcing_ratio=0.5):
         # src = [src sent len, batch size]
         # trg = [trg sent len, batch size]
         # teacher_forcing_ratio is probability to use teacher forcing

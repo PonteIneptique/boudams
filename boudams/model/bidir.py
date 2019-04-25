@@ -5,7 +5,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import random
 from typing import Tuple
-from ..dataset import SOS_TOKEN
 
 
 class Encoder(nn.Module):
@@ -26,14 +25,21 @@ class Encoder(nn.Module):
 
         self.dropout = nn.Dropout(dropout)
 
-    def forward(self, src)-> Tuple[torch.Tensor, torch.Tensor]:
+    def forward(self, src, src_len)-> Tuple[torch.Tensor, torch.Tensor]:
         # src = [src sent len, batch size]
 
         embedded = self.dropout(self.embedding(src))
 
         # embedded = [src sent len, batch size, emb dim]
 
-        outputs, hidden = self.rnn(embedded)  # no cell state!
+        packed_embedded = nn.utils.rnn.pack_padded_sequence(embedded, src_len)
+
+        packed_outputs, hidden = self.rnn(packed_embedded)
+
+        # packed_outputs is a packed sequence containing all hidden states
+        # hidden is now from the final non-padded element in the batch
+
+        outputs, _ = nn.utils.rnn.pad_packed_sequence(packed_outputs)
 
         # outputs = [src sent len, batch size, hid dim * num directions]
         # hidden = [n layers * num directions, batch size, hid dim]
@@ -187,7 +193,7 @@ class Seq2Seq(nn.Module):
         self.decoder = decoder
         self.device = device
 
-    def forward(self, src, trg=None, teacher_forcing_ratio=0.5, sos_token=SOS_TOKEN):
+    def forward(self, src, trg=None, teacher_forcing_ratio=0.5):
         # src = [src sent len, batch size]
         # trg = [trg sent len, batch size]
         # teacher_forcing_ratio is probability to use teacher forcing

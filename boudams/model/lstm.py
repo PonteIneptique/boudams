@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 import random
-from ..dataset import SOS_TOKEN
 
 
 class Encoder(nn.Module):
@@ -16,11 +15,11 @@ class Encoder(nn.Module):
 
         self.embedding = nn.Embedding(input_dim, emb_dim)
 
-        self.rnn = nn.GRU(emb_dim, hid_dim, n_layers, dropout=dropout)
+        self.rnn = nn.LSTM(emb_dim, hid_dim, n_layers, dropout=dropout)
 
         self.dropout = nn.Dropout(dropout)
 
-    def forward(self, src):
+    def forward(self, src, src_len):
 
         # src = [src sent len, batch size]
 
@@ -28,7 +27,22 @@ class Encoder(nn.Module):
 
         # embedded = [src sent len, batch size, emb dim]
 
-        outputs, (hidden, cell) = self.rnn(embedded)
+        packed_embedded = nn.utils.rnn.pack_padded_sequence(embedded, src_len)
+
+        # packed_outputs = [src sent len, batch size, hid dim * n directions]
+        # hidden = [n layers * n directions, batch size, hid dim]
+        # cell = [n layers * n directions, batch size, hid dim]
+        packed_outputs, (hidden, cell) = self.rnn(packed_embedded)
+        #print(packed_outputs)
+        #print("--", flush=True)
+        #print(hidden)
+        #print("--", flush=True)
+        #print(cell)
+        #print("--", flush=True)
+        # packed_outputs is a packed sequence containing all hidden states
+        # hidden is now from the final non-padded element in the batch
+
+        outputs, _ = nn.utils.rnn.pad_packed_sequence(packed_outputs)
 
         # outputs = [src sent len, batch size, hid dim * n directions]
         # hidden = [n layers * n directions, batch size, hid dim]
@@ -51,7 +65,7 @@ class Decoder(nn.Module):
 
         self.embedding = nn.Embedding(output_dim, emb_dim)
 
-        self.rnn = nn.GRU(emb_dim, hid_dim, n_layers, dropout=dropout)
+        self.rnn = nn.LSTM(emb_dim, hid_dim, n_layers, dropout=dropout)
 
         self.out = nn.Linear(hid_dim, output_dim)
 
@@ -93,7 +107,7 @@ class Decoder(nn.Module):
 
 
 class Seq2Seq(nn.Module):
-    def __init__(self, encoder, decoder, device):
+    def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx):
         super().__init__()
 
         self.out_max_sentence_length = 150
@@ -102,12 +116,17 @@ class Seq2Seq(nn.Module):
         self.decoder = decoder
         self.device = device
 
+        self.pad_idx = pad_idx
+        self.sos_idx = sos_idx
+        self.eos_idx = eos_idx
+        self.device = device
+
         assert encoder.hid_dim == decoder.hid_dim, \
             "Hidden dimensions of encoder and decoder must be equal!"
         assert encoder.n_layers == decoder.n_layers, \
             "Encoder and decoder must have equal number of layers!"
 
-    def forward(self, src, trg=None, teacher_forcing_ratio=0.5, sos_token=SOS_TOKEN):
+    def forward(self, src, src_len, trg=None, teacher_forcing_ratio=0.5):
         # src = [src sent len, batch size]
         # trg = [trg sent len, batch size]
         # teacher_forcing_ratio is probability to use teacher forcing
@@ -120,14 +139,15 @@ class Seq2Seq(nn.Module):
 
             # In case we do not have a target fed to the forward function (basically when we tag)
             #   we create a target tensor filled with StartOfSentence tokens
-            sos_token = sos_token(device=self.device)
             batch_size = src.shape[1]
-            input = torch.tensor([sos_token[0] for _ in range(batch_size)]).to(self.device)
+            trg = torch.zeros(
+                (self.out_max_sentence_length, src.shape[1])
+            ).long().fill_(self.sos_idx).to(src.device)
         else:
             batch_size = src.shape[1]
             out_max_len = trg.shape[0]
             # first input to the decoder is the <sos> tokens
-            input = trg[0, :]
+        input = trg[0, :]
 
         trg_vocab_size = self.decoder.output_dim
 
@@ -135,7 +155,8 @@ class Seq2Seq(nn.Module):
         outputs = torch.zeros(out_max_len, batch_size, trg_vocab_size).to(self.device)
 
         # last hidden state of the encoder is used as the initial hidden state of the decoder
-        enc_output, hidden, cell = self.encoder(src)
+        enc_output, hidden, cell = self.encoder(src, src_len)
+
         for t in range(1, out_max_len):
             output, hidden, cell = self.decoder(input, hidden, cell)
             outputs[t] = output
