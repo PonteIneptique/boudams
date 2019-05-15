@@ -1,4 +1,5 @@
 from boudams.tagger import Seq2SeqTokenizer
+from boudams.trainer import Trainer
 
 vocabulary, train_dataset, dev_dataset, test_dataset = Seq2SeqTokenizer.get_dataset_and_vocabularies(
     #"data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
@@ -29,14 +30,18 @@ def examples(obj):
 
 for settings, system, batch_size in [
     #(dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256), "conv", 64),
-    #(dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, n_layers=2), "lstm", 256),
+    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256),
     #(dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256),
-    (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256), "bi-gru", 64)
+    #(dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32)
 ]:
     tagger = Seq2SeqTokenizer(vocabulary, device="cuda", system=system, **settings)
+    trainer = Trainer(tagger, device="cuda")
     print(tagger.model)
-    tagger.train(train_dataset, dev_dataset, n_epochs=20, fpath="models/"+system+"-2.tar", batch_size=batch_size,
-                 after_epoch_fn=examples)
+    trainer.run(
+        train_dataset, dev_dataset, n_epochs=100,
+        fpath="models/"+system+"-3.tar", batch_size=batch_size,
+        lr_patience=4
+    )
 
 #    src = batch.src l.198 evaluate
 # AttributeError: 'BucketIterator' object has no attribute 'src'
