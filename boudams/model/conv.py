@@ -35,12 +35,10 @@ class Encoder(nn.Module):
         self.dropout = nn.Dropout(dropout)
 
     def forward(self, src):
-        # src = [batch size, src sent len]
-        print(src.shape)
         # create position tensor
-        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1).to(self.device)
 
-        # pos = [batch size, src sent len]
+        # pos = [src sent len, batch size] (Not what is documented)
+        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1).to(self.device)
 
         # embed tokens and positions
         tok_embedded = self.tok_embedding(src)
@@ -91,12 +89,13 @@ class Encoder(nn.Module):
         combined = (conved + embedded) * self.scale
 
         # combined = [batch size, src sent len, emb dim]
-        print(conved.shape, embedded.shape)
         return conved, combined
 
 
 class Decoder(nn.Module):
-    def __init__(self, output_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, pad_idx, device: str = "cpu"):
+    def __init__(self, output_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, pad_idx,
+                 max_sentence_len:int = 100,
+                 device: str = "cpu"):
         super().__init__()
 
         self.output_dim = output_dim
@@ -106,11 +105,14 @@ class Decoder(nn.Module):
         self.dropout = dropout
         self.pad_idx = pad_idx
         self.device = device
+        self.max_sentence_len = max_sentence_len
 
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(device)
 
         self.tok_embedding = nn.Embedding(output_dim, emb_dim)
-        self.pos_embedding = nn.Embedding(100, emb_dim)
+        # Here, in the original code, it was 100
+        #   But POS_EMBEDDING first dimension should be the biggest size available
+        self.pos_embedding = nn.Embedding(self.max_sentence_len, emb_dim)
 
         self.emb2hid = nn.Linear(emb_dim, hid_dim)
         self.hid2emb = nn.Linear(hid_dim, emb_dim)
@@ -135,14 +137,9 @@ class Decoder(nn.Module):
 
         # conved_emb = [batch size, trg sent len, emb dim]
 
-        print("conved_emb", conved_emb.shape)
-        print("Emb", (embedded).shape)
-        print("Conved Emb + Combined", (conved_emb + embedded).shape)
         combined = (embedded + conved_emb) * self.scale
 
         # combined = [batch size, trg sent len, emb dim]
-        print("Combined", combined.shape)
-        print("encoderconved", encoder_conved.shape)
         energy = torch.matmul(combined, encoder_conved.permute(0, 2, 1))
 
         # energy = [batch size, trg sent len, src sent len]
@@ -275,5 +272,4 @@ class Seq2Seq(nn.Module):
 
         # output = [batch size, trg sent len, output dim]
         # attention = [batch size, trg sent len, src sent len]
-
         return output, attention

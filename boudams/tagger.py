@@ -87,7 +87,7 @@ class Seq2SeqTokenizer:
                 self.vocabulary_dimension, emb_dim=self.emb_dec_dim,
                 hid_dim=self.dec_hid_dim, dropout=self.enc_dropout,
                 device=self.device, pad_idx=self.padtoken, kernel_size=self.enc_kernel_size,
-                n_layers=self.dec_n_layers
+                n_layers=self.dec_n_layers, max_sentence_len=self.out_max_sentence_length
             )
             self.init_weights = None
             self.model: gru.Seq2Seq = conv.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)

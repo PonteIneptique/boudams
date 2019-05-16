@@ -46,7 +46,7 @@ class Scorer(object):
     def get_accuracy(self) -> float:
         return accuracy_score(self.targets, self.hypotheses)
 
-    def register_batch(self, hypotheses, targets):
+    def register_batch(self, hypotheses, targets, verbose: bool = False):
         """
         hyps : list
         targets : list
@@ -55,6 +55,10 @@ class Scorer(object):
         # Makes numbers become STRINGS !
         target_reverse = self.tagger.reverse(targets)
         hypothese_reverse = self.tagger.reverse(hypotheses)
+
+        if verbose:
+            show = random.randint(0, len(hypothese_reverse-1))
+            print(target_reverse[show], "->", hypothese_reverse[show])
 
         # Record the batch !
         self.hypotheses.extend(hypothese_reverse)
@@ -256,19 +260,43 @@ class Trainer(object):
             trg, _ = batch.trg  # We don't care about target length !
 
             optimizer.zero_grad()
-            output, attention = self.tagger.model(src, src_len, trg)
 
-            # We register the current batch
-            #  For this to work, we get ONLY the best score of output which mean we need to argmax
-            #   at the second layer (base 0 I believe)
-            # We basically get the best match at the output dim layer : the best character.
-            scorer.register_batch(torch.argmax(output, 2), trg)
+            # The way Ben. Trevett implement things is different for CNN :
+            #   the shape goes [batch size, sentence_lence] while other implementations
+            #   goes [sentence length, batch_size]
+            if self.tagger.system == "conv":
+                src = src.transpose(1, 0)
+                trg = trg.transpose(1, 0)
 
-            # trg = [trg sent len, batch size]
-            # output = [trg sent len, batch size, output dim]
+                output, attention = self.tagger.model(src, src_len, trg[:, :-1])
 
-            output = output[1:].view(-1, output.shape[-1])
-            trg = trg[1:].view(-1)
+                scorer.register_batch(torch.argmax(output, 2).transpose(0, 1), trg.transpose(0, 1))
+
+                # We redim to work like other models
+                #output = output_transposed.transpose(1, 0)
+                #print(output.shape)
+                #print(output.contiguous().view(-1, output.shape[-1]).shape)
+
+                output = output.contiguous().view(-1, output.shape[-1])
+                trg = trg[:, 1:].contiguous().view(-1)
+
+                #output = output[1:].view(-1, output.shape[-1])
+                #trg = trg[1:].view(-1)
+
+                # output = [batch size * trg sent len - 1, output dim]
+                # trg = [batch size * trg sent len - 1]
+            else:
+                output, attention = self.tagger.model(src, src_len, trg)
+                # We register the current batch
+                #  For this to work, we get ONLY the best score of output which mean we need to argmax
+                #   at the second layer (base 0 I believe)
+                # We basically get the best match at the output dim layer : the best character.
+                scorer.register_batch(torch.argmax(output, 2), trg)
+
+                # trg = [trg sent len, batch size]
+                # output = [trg sent len, batch size, output dim]
+                output = output[1:].view(-1, output.shape[-1])
+                trg = trg[1:].view(-1)
 
             # trg = [(trg sent len - 1) * batch size]
             # output = [(trg sent len - 1) * batch size, output dim]
