@@ -48,30 +48,30 @@ class Scorer(object):
         self.targets = []
         self.tagger: Seq2SeqTokenizer = tagger
         self.tokens = []  # Should be trues as tokens
+        self.accuracies = []
 
     def get_accuracy(self) -> float:
-        return statistics.mean([
-            accuracy_score(targ.to("cpu"), hypo.to("cpu"))
-            for targ, hypo in zip(self.targets, self.hypotheses)
-        ])
+        return statistics.mean(self.accuracies)
 
-    def register_batch(self, hypotheses, targets, verbose: bool = False):
+    def register_batch(self, hypotheses, targets, verbose: bool = True):
         """
         hyps : list
         targets : list
         tokens : list
         """
         # Makes numbers become STRINGS !
-        target_reverse = self.tagger.reverse(targets)
-        hypothese_reverse = self.tagger.reverse(hypotheses)
+        out, exp = hypotheses.t(), targets.t()
+
+        with torch.cuda.device_of(out):
+            out = out.tolist()
+        with torch.cuda.device_of(exp):
+            exp = exp.tolist()
+
+        for y_true, y_pred in zip(exp, out):
+            self.accuracies.append(accuracy_score(y_true[1:], y_pred))
 
         if verbose:
-            show = random.randint(0, len(hypothese_reverse)-1)
-            print(target_reverse[show], "->", hypothese_reverse[show])
-
-        # Record the batch !
-        self.hypotheses.extend(hypotheses)
-        self.targets.extend(targets)
+            show = random.randint(0, len(out)-1)
 
 
 class LRScheduler(object):
@@ -334,7 +334,10 @@ class Trainer(object):
                 #  For this to work, we get ONLY the best score of output which mean we need to argmax
                 #   at the second layer (base 0 I believe)
                 # We basically get the best match at the output dim layer : the best character.
-                scorer.register_batch(self.tagger.model._reshape_output_for_scorer(output), trg)
+                scorer.register_batch(
+                    self.tagger.model._reshape_output_for_scorer(output),
+                    trg
+                )
 
                 # trg = [trg sent len, batch size]
                 # output = [trg sent len, batch size, output dim]

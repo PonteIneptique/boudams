@@ -294,4 +294,4 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
     @staticmethod
     def _reshape_output_for_scorer(out: torch.Tensor):
         # Remove the score from every prediction, keep the best one
-        return torch.argmax(out, 2).transpose(0, 1)
+        return torch.argmax(out, 2).transpose(1, 0)

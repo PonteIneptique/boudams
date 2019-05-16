@@ -221,6 +221,20 @@ class Seq2SeqTokenizer:
 
         return obj
 
+    def _reverse_keep(self, batch, remove_index=True):
+        # keep the tokens to ignore normally
+        start_index = int(remove_index)
+        if not self.vocabulary.batch_first:
+            batch = batch.t()
+        with torch.cuda.device_of(batch):
+            batch = batch.tolist()
+        batch = [
+            [self.vocabulary.vocab.itos[ind] for ind in ex[start_index:]]
+            for ex in batch
+        ]  # denumericalize
+
+        return [ex for ex in batch]
+
     def reverse(self, batch, as_list=False):
         if not self.vocabulary.batch_first:
             batch = batch.t()

@@ -29,18 +29,23 @@ def examples(obj):
 
 
 for settings, system, batch_size, train_dict in [
-    #(dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256, enc_dropout=0.25, dec_dropout=0.25), "conv", 32, dict(lr_grace_periode=2, lr_patience=2, lr=0.0005)),
-    #(dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256, dict(lr_grace_periode=2, lr_patience=2)),
-    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256, dict(lr_grace_periode=2, lr_patience=2, lr=0.01)),
-    #(dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32, {})
+    (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256, enc_dropout=0.25, dec_dropout=0.25), "conv", 32,
+        dict(lr_grace_periode=2, lr_patience=2, lr=0.0005)),
+    (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256,
+        dict(lr_grace_periode=2, lr_patience=2)),
+    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256,
+        dict(lr_grace_periode=2, lr_patience=2, lr=0.01)),
+    (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
+         dict(lr_grace_periode=2, lr_patience=2, lr=0.01))
 ]:
     device = "cuda"
-    tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, **settings)
+    tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=200
+                              , **settings)
     trainer = Trainer(tagger, device=device)
     print(tagger.model)
     print()
     trainer.run(
-        train_dataset, dev_dataset, n_epochs=100,
+        train_dataset, dev_dataset, n_epochs=10,
         fpath="models/"+system+"-3.tar", batch_size=batch_size,
         **train_dict
     )
