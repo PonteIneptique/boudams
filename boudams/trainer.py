@@ -7,7 +7,8 @@ import tarfile
 import uuid
 from collections import namedtuple
 from typing import List, Tuple
-
+import enum
+import statistics
 
 import torch
 import torch.cuda
@@ -29,6 +30,11 @@ INVALID = "<INVALID>"
 Score = namedtuple("Score", ["loss", "perplexity", "accuracy"])
 
 
+class PlateauModes(enum.Enum):
+    loss = "min"
+    accuracy = "max"
+
+
 class EarlyStopException(Exception):
     """ Exception thrown when things plateau """
 
@@ -44,7 +50,10 @@ class Scorer(object):
         self.tokens = []  # Should be trues as tokens
 
     def get_accuracy(self) -> float:
-        return accuracy_score(self.targets, self.hypotheses)
+        return statistics.mean([
+            accuracy_score(targ.to("cpu"), hypo.to("cpu"))
+            for targ, hypo in zip(self.targets, self.hypotheses)
+        ])
 
     def register_batch(self, hypotheses, targets, verbose: bool = False):
         """
@@ -61,17 +70,18 @@ class Scorer(object):
             print(target_reverse[show], "->", hypothese_reverse[show])
 
         # Record the batch !
-        self.hypotheses.extend(hypothese_reverse)
-        self.targets.extend(target_reverse)
+        self.hypotheses.extend(hypotheses)
+        self.targets.extend(targets)
 
 
 class LRScheduler(object):
-    def __init__(self, optimizer, **kwargs):
+    def __init__(self, optimizer, mode=PlateauModes.loss, **kwargs):
         self.lr_scheduler = optim.lr_scheduler.ReduceLROnPlateau(
-            optimizer, mode='max', **kwargs)  # Max because accuracy :)
+            optimizer, mode=mode.value, **kwargs)  # Max because accuracy :)
+        self.mode = mode
 
     def step(self, score):
-        self.lr_scheduler.step(score.loss)
+        self.lr_scheduler.step(getattr(score, self.mode.name))
 
     @property
     def steps(self):
@@ -109,6 +119,7 @@ class Trainer(object):
             lr_grace_periode: int = 10,  # Number of first iterations where we ignore lr_patience
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
             _seed: int = 1234, fpath: str = "model.tar",
+            mode="accuracy",
             after_epoch_fn=None
     ):
         random.seed(_seed)
@@ -124,7 +135,8 @@ class Trainer(object):
         # Set-up LR Scheduler
         lr_scheduler = LRScheduler(
             optimizer,
-            factor=lr_factor, patience=lr_grace_periode, min_lr=min_lr
+            factor=lr_factor, patience=lr_grace_periode, min_lr=min_lr,
+            mode=getattr(PlateauModes, mode)
         )
 
         # Generates a temp file to store the best model

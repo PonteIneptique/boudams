@@ -221,7 +221,7 @@ class Seq2SeqTokenizer:
 
         return obj
 
-    def reverse(self, batch):
+    def reverse(self, batch, as_list=False):
         if not self.vocabulary.batch_first:
             batch = batch.t()
         with torch.cuda.device_of(batch):
