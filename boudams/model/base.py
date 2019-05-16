@@ -8,6 +8,8 @@ class BaseSeq2SeqModel:
     """
     @staticmethod
     def _reshape_input(src: torch.Tensor, trg: torch.Tensor):
+        if trg is None:
+            return src
         return src, trg
 
     @staticmethod

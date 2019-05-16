@@ -1,6 +1,7 @@
 from boudams.tagger import Seq2SeqTokenizer
+import glob
 
-tokenizer = Seq2SeqTokenizer.load("models/lstm-2.tar")
+
 Examples = """vosvenitesdevantmoiqantgevosdisquevosenaillissiezousece	vos venites devant moi qant ge vos dis que vos en aillissiez ou se ce
 nonlicuersmepartiroitelventrecarjaienvostotemisel	non li cuers me partiroit el ventre car j ai en vos tote mise l
 amorquemereporroitmetreensonanfantsinesaicommentgemen	amor que mere porroit metre en son anfant si ne sai comment ge m en
@@ -17,10 +18,11 @@ Examples = [
     for line in Examples.split("\n")
 ]
 
-print(Examples)
-treated = tokenizer.annotate([x[0] for x in Examples])
+for model in glob.glob("models/*-3.tar"):
+    tokenizer = Seq2SeqTokenizer.load(model)
+    treated = tokenizer.annotate([x[0] for x in Examples])
 
-for (inp, exp), out in zip(Examples, treated):
-    print("Inp " + inp)
-    print("Exp " + exp)
-    print("Out " + out + "\n")
+    for (inp, exp), out in zip(Examples, treated):
+        print("Inp " + inp)
+        print("Exp " + exp)
+        print("Out " + out + "\n")

@@ -169,7 +169,6 @@ class Decoder(nn.Module):
         # trg = [batch size, trg sent len]
         # encoder_conved = encoder_combined = [batch size, src sent len, emb dim]
 
-        # create position tensor
         pos = torch.arange(0, trg.shape[1]).unsqueeze(0).repeat(trg.shape[0], 1).to(self.device)
 
         # pos = [batch size, trg sent len]
@@ -259,6 +258,11 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
         # src = [batch size, src sent len]
         # trg = [batch size, trg sent len]
 
+        if trg is None:
+            trg = torch.zeros(
+                (src.shape[0], self.out_max_sentence_length)
+            ).long().fill_(self.sos_idx).to(self.device)
+
         # calculate z^u (encoder_conved) and e (encoder_combined)
         # encoder_conved is output from final encoder conv. block
         # encoder_combined is encoder_conved plus (elementwise) src embedding plus positional embeddings
@@ -278,6 +282,8 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
 
     @staticmethod
     def _reshape_input(src: torch.Tensor, trg: torch.Tensor):
+        if trg is None:
+            return src.transpose(1, 0)
         return src.transpose(1, 0), trg.transpose(1, 0)[:, :-1]
 
     @staticmethod

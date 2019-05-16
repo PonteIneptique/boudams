@@ -28,11 +28,11 @@ def examples(obj):
         print("----\n\n")
 
 
-for settings, system, batch_size in [
-    (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256),
-    (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256), "conv", 64),
-    #(dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256),
-    #(dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32)
+for settings, system, batch_size, train_dict in [
+    (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256), "conv", 32, dict(lr_grace_periode=2, lr_patience=2)),
+    (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256, dict(lr_grace_periode=2, lr_patience=2)),
+    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256, {}),
+    (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32, {})
 ]:
     device = "cuda"
     tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, **settings)
@@ -42,7 +42,7 @@ for settings, system, batch_size in [
     trainer.run(
         train_dataset, dev_dataset, n_epochs=100,
         fpath="models/"+system+"-3.tar", batch_size=batch_size,
-        lr_patience=4
+        **train_dict
     )
 
 #    src = batch.src l.198 evaluate

@@ -31,7 +31,8 @@ class Seq2SeqTokenizer:
             enc_dropout: float = 0.5, dec_dropout: float = 0.5,
             enc_kernel_size: int = 3, dec_kernel_size: int = 3,
             out_max_sentence_length: int = 150,
-            device: str = DEVICE, system: str = "bi-gru"
+            device: str = DEVICE, system: str = "bi-gru",
+            **kwargs # RetroCompat
     ):
         """
 
@@ -233,6 +234,12 @@ class Seq2SeqTokenizer:
 
         return [''.join(ex) for ex in batch]
 
+    def _reverse_loop(self, tensor):
+        for t in tensor:
+            if t == self.eostoken:
+                break
+            yield self.vocabulary.vocab.itos[t]
+
     def annotate(self, texts: List[str]):
 
         self.model.eval()
@@ -240,11 +247,16 @@ class Seq2SeqTokenizer:
             numericalized = [self.vocabulary.vocab.stoi[t] for t in sentence] + [self.eostoken]
             sentence_length = torch.LongTensor([len(numericalized)]).to(self.device)
             tensor = torch.LongTensor(numericalized).unsqueeze(1).to(self.device)
+
+            tensor = self.model._reshape_input(tensor, None)
             translation_tensor_logits, attention = self.model(
-                tensor, sentence_length, trg=None, teacher_forcing_ratio=0)
-            translation_tensor = torch.argmax(translation_tensor_logits.squeeze(1), 1)
-            translation = [self.vocabulary.vocab.itos[t] for t in translation_tensor]
-            translation = translation[1:]
+                tensor, sentence_length,
+                trg=None, teacher_forcing_ratio=0
+            )
+
+            translation_tensor = self.model._reshape_output_for_scorer(translation_tensor_logits)
+            print(translation_tensor.shape)
+            translation = list(self._reverse_loop(translation_tensor))[1:]
             if attention is not None:
                 attention = attention[1:]
             yield "".join(translation)#, attention

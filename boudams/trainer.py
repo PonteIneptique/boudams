@@ -57,7 +57,7 @@ class Scorer(object):
         hypothese_reverse = self.tagger.reverse(hypotheses)
 
         if verbose:
-            show = random.randint(0, len(hypothese_reverse-1))
+            show = random.randint(0, len(hypothese_reverse)-1)
             print(target_reverse[show], "->", hypothese_reverse[show])
 
         # Record the batch !
@@ -71,7 +71,7 @@ class LRScheduler(object):
             optimizer, mode='max', **kwargs)  # Max because accuracy :)
 
     def step(self, score):
-        self.lr_scheduler.step(score.accuracy)
+        self.lr_scheduler.step(score.loss)
 
     @property
     def steps(self):
@@ -178,6 +178,7 @@ class Trainer(object):
                 print(f'\t Val. Loss: {valid_score.loss:.3f} | Perplexity: {valid_score.perplexity:7.3f} |'
                       f' Acc.: {valid_score.accuracy:.3f}')
                 print(lr_scheduler)
+                print()
 
                 if lr_scheduler.steps >= lr_patience and lr_scheduler.lr < min_lr:
                     raise EarlyStopException()
@@ -247,8 +248,14 @@ class Trainer(object):
             )
         ]
 
+    def _get_perplexity(self, loss):
+        try:
+            return math.exp(loss)
+        except:
+            return float("inf")
+
     def _train_epoch(self, iterator: BucketIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
-                     clip: float, desc: str):
+                     clip: float, desc: str) -> Score:
         self.tagger.model.train()
 
         epoch_loss = 0
@@ -290,7 +297,7 @@ class Trainer(object):
             epoch_loss += loss.item()
 
         loss = epoch_loss / len(iterator)
-        return Score(loss, math.exp(loss), scorer.get_accuracy())
+        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy())
 
     def evaluate(self, iterator: BucketIterator, criterion: nn.CrossEntropyLoss, desc: str) -> Score:
 
@@ -328,7 +335,7 @@ class Trainer(object):
 
         loss = epoch_loss / len(iterator)
 
-        return Score(loss, math.exp(loss), scorer.get_accuracy())
+        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy())
 
     def test(self, test_dataset: Dataset, batch_size: int = 256):
         test_iterator = BucketIterator.splits(
