@@ -4,6 +4,8 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+from .base import BaseSeq2SeqModel
+
 
 class Encoder(nn.Module):
     def __init__(self, input_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, device: str = "cpu"):
@@ -239,7 +241,7 @@ class Decoder(nn.Module):
         return output, attention
 
 
-class Seq2Seq(nn.Module):
+class Seq2Seq(nn.Module, BaseSeq2SeqModel):
     def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx, out_max_sentence_length=150):
         super().__init__()
 
@@ -273,3 +275,17 @@ class Seq2Seq(nn.Module):
         # output = [batch size, trg sent len, output dim]
         # attention = [batch size, trg sent len, src sent len]
         return output, attention
+
+    @staticmethod
+    def _reshape_input(src: torch.Tensor, trg: torch.Tensor):
+        return src.transpose(1, 0), trg.transpose(1, 0)[:, :-1]
+
+    @staticmethod
+    def _reshape_out_for_loss(out: torch.Tensor, trg: torch.Tensor):
+        return out.contiguous().view(-1, out.shape[-1]), \
+                trg.transpose(1, 0)[:, 1:].contiguous().view(-1)
+
+    @staticmethod
+    def _reshape_output_for_scorer(out: torch.Tensor):
+        # Remove the score from every prediction, keep the best one
+        return torch.argmax(out, 2).transpose(0, 1)

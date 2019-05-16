@@ -261,47 +261,25 @@ class Trainer(object):
 
             optimizer.zero_grad()
 
-            # The way Ben. Trevett implement things is different for CNN :
-            #   the shape goes [batch size, sentence_lence] while other implementations
-            #   goes [sentence length, batch_size]
-            if self.tagger.system == "conv":
-                src = src.transpose(1, 0)
-                trg = trg.transpose(1, 0)
+            src_in, trg_in = self.tagger.model._reshape_input(src, trg)
 
-                output, attention = self.tagger.model(src, src_len, trg[:, :-1])
+            output, attention = self.tagger.model(src_in, src_len, trg_in)
 
-                scorer.register_batch(torch.argmax(output, 2).transpose(0, 1), trg.transpose(0, 1))
+            scorer.register_batch(
+                self.tagger.model._reshape_output_for_scorer(output),
+                trg
+            )
 
-                # We redim to work like other models
-                #output = output_transposed.transpose(1, 0)
-                #print(output.shape)
-                #print(output.contiguous().view(-1, output.shape[-1]).shape)
+            # We redim to work like other models
+            output_loss, trg_loss = self.tagger.model._reshape_out_for_loss(output, trg)
 
-                output = output.contiguous().view(-1, output.shape[-1])
-                trg = trg[:, 1:].contiguous().view(-1)
-
-                #output = output[1:].view(-1, output.shape[-1])
-                #trg = trg[1:].view(-1)
-
-                # output = [batch size * trg sent len - 1, output dim]
-                # trg = [batch size * trg sent len - 1]
-            else:
-                output, attention = self.tagger.model(src, src_len, trg)
-                # We register the current batch
-                #  For this to work, we get ONLY the best score of output which mean we need to argmax
-                #   at the second layer (base 0 I believe)
-                # We basically get the best match at the output dim layer : the best character.
-                scorer.register_batch(torch.argmax(output, 2), trg)
-
-                # trg = [trg sent len, batch size]
-                # output = [trg sent len, batch size, output dim]
-                output = output[1:].view(-1, output.shape[-1])
-                trg = trg[1:].view(-1)
+            # output = [batch size * trg sent len - 1, output dim]
+            # trg = [batch size * trg sent len - 1]
 
             # trg = [(trg sent len - 1) * batch size]
             # output = [(trg sent len - 1) * batch size, output dim]
 
-            loss = criterion(output, trg)
+            loss = criterion(output_loss, trg_loss)
 
             loss.backward()
 
@@ -327,24 +305,25 @@ class Trainer(object):
                 src, src_len = batch.src
                 trg, _ = batch.trg  # Length not used
 
+                src_in, trg_in = self.tagger.model._reshape_input(src, trg)
+
                 output, attention = self.tagger.model(
-                    src, src_len, trg, teacher_forcing_ratio=0
+                    src_in, src_len, trg_in, teacher_forcing_ratio=0
                 )  # turn off teacher forcing
 
                 # We register the current batch
                 #  For this to work, we get ONLY the best score of output which mean we need to argmax
                 #   at the second layer (base 0 I believe)
                 # We basically get the best match at the output dim layer : the best character.
-                scorer.register_batch(torch.argmax(output, 2), trg)
+                scorer.register_batch(self.tagger.model._reshape_output_for_scorer(output), trg)
 
                 # trg = [trg sent len, batch size]
                 # output = [trg sent len, batch size, output dim]
-                output = output[1:].view(-1, output.shape[-1])
-                trg = trg[1:].view(-1)
+                output_loss, trg_loss = self.tagger.model._reshape_out_for_loss(output, trg)
 
                 # trg = [(trg sent len - 1) * batch size]
                 # output = [(trg sent len - 1) * batch size, output dim]
-                loss = criterion(output, trg)
+                loss = criterion(output_loss, trg_loss)
                 epoch_loss += loss.item()
 
         loss = epoch_loss / len(iterator)

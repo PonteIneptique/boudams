@@ -2,6 +2,8 @@ import torch
 import torch.nn as nn
 import random
 
+from .base import BaseSeq2SeqModel
+
 
 class Encoder(nn.Module):
     def __init__(self, input_dim, emb_dim, hid_dim, dropout):
@@ -95,7 +97,7 @@ class Decoder(nn.Module):
         return prediction, hidden
 
 
-class Seq2Seq(nn.Module):
+class Seq2Seq(nn.Module, BaseSeq2SeqModel):
     def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx, out_max_sentence_length=150):
         super().__init__()
 

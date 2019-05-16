@@ -29,7 +29,7 @@ def examples(obj):
 
 
 for settings, system, batch_size in [
-    #(dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256),
+    (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256),
     (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256), "conv", 64),
     #(dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256),
     #(dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32)
@@ -38,6 +38,7 @@ for settings, system, batch_size in [
     tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, **settings)
     trainer = Trainer(tagger, device=device)
     print(tagger.model)
+    print()
     trainer.run(
         train_dataset, dev_dataset, n_epochs=100,
         fpath="models/"+system+"-3.tar", batch_size=batch_size,
