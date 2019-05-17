@@ -13,6 +13,8 @@ from .model import gru, lstm, bidir, conv
 from .dataset import build_vocab, CharacterField, TabularDataset as Dataset, get_datasets, InputDataset
 from . import utils
 
+from .encoder import LabelEncoder, DatasetIterator
+
 
 teacher_forcing_ratio = 0.5
 
@@ -23,7 +25,7 @@ MAX_LENGTH = 150
 class Seq2SeqTokenizer:
     def __init__(
             self,
-            vocabulary: ReversibleField,
+            vocabulary: LabelEncoder,
             hidden_size: int = 256,
             enc_n_layers: int = 10, dec_n_layers: int = 10,
             emb_enc_dim: int = 256, emb_dec_dim: int = 256,
@@ -45,8 +47,8 @@ class Seq2SeqTokenizer:
         :param device:
         """
 
-        self.vocabulary: ReversibleField = vocabulary
-        self.vocabulary_dimension: int = len(self.vocabulary.vocab)
+        self.vocabulary: LabelEncoder = vocabulary
+        self.vocabulary_dimension: int = len(self.vocabulary)
 
         self.device: str = device
         self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
@@ -75,7 +77,6 @@ class Seq2SeqTokenizer:
             "out_max_sentence_length": self.out_max_sentence_length
         }
 
-        print(self.system)
         if self.system == "conv":
             self.enc: gru.Encoder = conv.Encoder(
                 self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
@@ -100,7 +101,6 @@ class Seq2SeqTokenizer:
 
             self.model: gru.Seq2Seq = gru.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
             self.init_weights = gru.init_weights
-
         elif self.system == "bi-gru":
             self.enc: gru.Encoder = bidir.Encoder(
                 self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
@@ -116,7 +116,6 @@ class Seq2SeqTokenizer:
             )
             self.init_weights = bidir.init_weights
             self.model: gru.Seq2Seq = bidir.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
-
         else:
             self.enc: lstm.Encoder = lstm.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
                                                   self.enc_n_layers, self.enc_dropout)
@@ -125,42 +124,17 @@ class Seq2SeqTokenizer:
             self.init_weights = lstm.init_weights
             self.model: lstm.Seq2Seq = lstm.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
 
-        self._dataset = None
-
     @property
     def padtoken(self):
-        return self.vocabulary.vocab.stoi[self.vocabulary.pad_token]
+        return self.vocabulary.pad_token_index
 
     @property
     def sostoken(self):
-        return self.vocabulary.vocab.stoi[self.vocabulary.init_token]
+        return self.vocabulary.init_token_index
 
     @property
     def eostoken(self):
-        return self.vocabulary.vocab.stoi[self.vocabulary.eos_token]
-
-    @staticmethod
-    def get_dataset_and_vocabularies(
-            train, dev, test
-    ) -> Tuple[ReversibleField, Dataset, Dataset, Dataset]:
-        """
-
-        :param train: Path to train TSV file
-        :param dev:  Path to dev TSV file
-        :param test:  Path to test TSV file
-        :return:
-        """
-        train, dev, test = get_datasets(train, dev, test)
-        vocab = build_vocab(CharacterField, (train, dev, test))
-        return vocab, train, dev, test
-
-    def train(
-            self, train_dataset: Dataset, dev_dataset: Dataset,
-            n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
-            _seed: int = 1234, fpath: str = "model.tar",
-            after_epoch_fn = None
-    ):
-        pass
+        return self.vocabulary.eos_token_index
 
     def tag(self, iterator: BucketIterator):
         self.model.eval()
@@ -205,9 +179,10 @@ class Seq2SeqTokenizer:
 
             # load state_dict
             with utils.tmpfile() as tmppath:
-                tar.extract('vocabulary.pt', path=tmppath)
-                dictpath = os.path.join(tmppath, 'vocabulary.pt')
-                vocab = torch.load(dictpath, pickle_module=dill)
+                tar.extract('vocabulary.json', path=tmppath)
+                dictpath = os.path.join(tmppath, 'vocabulary.json')
+                with open(dictpath) as f:
+                    vocab = LabelEncoder.load(json.load(f))
 
             obj = cls(vocabulary=vocab, **settings)
 

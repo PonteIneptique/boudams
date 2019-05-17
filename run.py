@@ -1,20 +1,27 @@
 from boudams.tagger import Seq2SeqTokenizer
 from boudams.trainer import Trainer
+from boudams.encoder import LabelEncoder, DatasetIterator
 
 
 import datetime
 
+train_path, dev_path, test_path = "data/small/train.tsv", "data/small/dev.tsv", "data/small/test.tsv"
+#train_path, dev_path, test_path = data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
 
-vocabulary, train_dataset, dev_dataset, test_dataset = Seq2SeqTokenizer.get_dataset_and_vocabularies(
-    #"data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
-    "data/small/train.tsv", "data/small/dev.tsv", "data/small/test.tsv"
-)
+vocabulary = LabelEncoder()
+vocabulary.build(train_path, dev_path, test_path, debug=True)
+
+# Get the datasets
+train_dataset: DatasetIterator = vocabulary.get_dataset(train_path)
+dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path)
+test_dataset: DatasetIterator = vocabulary.get_dataset(test_path)
+
 from pprint import pprint
 #pprint(vocabulary.vocab.freqs)
 print("-- Dataset informations --")
-print("Number of training examples: {}".format(len(train_dataset.examples)))
-print("Number of dev examples: {}".format(len(dev_dataset.examples)))
-print("Number of testing examples: {}".format(len(test_dataset.examples)))
+print("Number of training examples: {}".format(len(train_dataset)))
+print("Number of dev examples: {}".format(len(dev_dataset)))
+print("Number of testing examples: {}".format(len(test_dataset)))
 print("--------------------------")
 
 
@@ -42,7 +49,7 @@ for settings, system, batch_size, train_dict in [
     (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
          dict(lr_grace_periode=2, lr_patience=2, lr=0.01))
 ]:
-    device = "cpu"
+    device = "cuda"
     tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=200
                               , **settings)
     trainer = Trainer(tagger, device=device)

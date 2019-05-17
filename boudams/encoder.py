@@ -1,11 +1,10 @@
 import torch
 import torch.cuda
 import torch.nn
-from typing import Tuple, Dict, List, Optional, Iterator
+from typing import Tuple, Dict, List, Optional, Iterator, Sequence
 import logging
 import collections
 import random
-import numpy as np
 import json
 
 
@@ -42,8 +41,15 @@ class DatasetIterator:
                     self.batch_size
                 )
 
+    def __len__(self):
+        return len(self.line_starts_offsets)
 
     def _setup(self):
+        """ The way this whole iterator works is pretty simple :
+        we look at each line of the document, and store its index. This will allow to go directly to this line
+        for each batch, without reading the entire file. To do that, we need to read in bytes, otherwise file.seek()
+        is gonna cut utf-8 chars in the middle
+        """
         logging.info("DatasetIterator reading indexes of lines")
         with open(self.file, "rb") as fio:
             offset = 0
@@ -57,6 +63,10 @@ class DatasetIterator:
 
         # Get the number of batch for TQDM
         self.batch_count = self.length // self.batch_size + bool(self.length % self.batch_size)
+    
+    def reset_batch_size(self, batch_size):
+        self.batch_size = batch_size
+        self.batch_count = self.length // self.batch_size + bool(self.length % self.batch_size)
 
     def get_line(self, *line_index):
         with open(self.file, "rb") as fio:
@@ -64,30 +74,41 @@ class DatasetIterator:
                 fio.seek(line_start)
                 yield self._l_e.readunit(fio.readline().decode("utf-8").strip())
 
-    def get_epoch(self) -> Iterator[Tuple[torch.Tensor, torch.Tensor]]:
+    def get_epoch(self, device: str = DEVICE, batch_size: int = 32) -> Iterator[Tuple[torch.Tensor, ...]]:
+        # If the batch size is not the original one (most probably is !)
+        if batch_size != self.batch_size:
+            self.reset_batch_size(batch_size)
+
+        # Create a list of lines
         lines = [] + self.line_starts_offsets
+
+        # If we need randomization, then DO randomization shuffle of lines
         if self.random:
             random.shuffle(lines)
 
         for n in range(0, len(lines), self.batch_size):
             xs, y_trues = [], []
             max_len_x, max_len_y = 0, 0  # Needed for padding
-            for x, y in self.get_line(*lines[n:self.batch_size]):
+
+            for x, y in self.get_line(*lines[n:n+self.batch_size]):
                 max_len_x = max(len(x), max_len_x)
                 max_len_y = max(len(y), max_len_y)
                 xs.append(x)
                 y_trues.append(y)
-            yield self._l_e.tensorize(xs, padding=max_len_x), self._l_e.tensorize(y_trues, padding=max_len_y)
+
+            yield (
+                *self._l_e.tensorize(xs, padding=max_len_x, device=device),
+                *self._l_e.tensorize(y_trues, padding=max_len_y, device=device)
+            )
 
 
 class LabelEncoder:
-    def __init__(self, device=DEVICE,
+    def __init__(self,
                  init_token=DEFAULT_INIT_TOKEN,
                  eos_token=DEFAULT_EOS_TOKEN,
                  pad_token=DEFAULT_PAD_TOKEN,
                  unk_token=DEFAULT_UNK_TOKEN
                  ):
-        self.device = device
         self.init_token = init_token
         self.eos_token = eos_token
         self.pad_token = pad_token
@@ -111,6 +132,9 @@ class LabelEncoder:
             pad_token: self.pad_token_index,
             unk_token: self.unk_token_index
         }  # String to ID
+
+    def __len__(self):
+        return len(self.stoi)
 
     def build(self, *paths, debug=False):
         """ Builds vocabulary
@@ -154,23 +178,49 @@ class LabelEncoder:
         x = line.strip().split("\t")
         return tuple(x[0]), tuple(x[1])
 
-    def tensorize(self, sentences, padding: Optional[int] = None, batch_first: bool = False) -> torch.Tensor:
-        len_sen = (padding or len(sentences[0])) + 2  # 2 = SOS token and EOS token
+    def tensorize(self,
+                  sentences: List[Sequence[str]],
+                  padding: Optional[int] = None,
+                  batch_first: bool = False,
+                  device: str = DEVICE) -> Tuple[torch.Tensor, torch.Tensor]:
+        """ Transform a list of sentences into a batched Tensor with its tensor size
 
+        :param sentences: List of sentences where characters have been separated into a list
+        :param padding: padding required (None if every sentence in the same size)
+        :param batch_first: Whether we need [batch_size, sentence_len] instead of [sentence_len, batch_size]
+        :param device: Torch device
+        :return: Transformed batch into tensor
+        """
+        max_len = (padding or len(sentences[0]))
+
+        # From torchtext.data.field ---> lengths.append(len(padded[-1]) - max(0, max_len - len(x)))
+        # len une fois padding fait dont on soustrait le maximum entre la taille maximum
         # shape [batch_size, len_sentence]
-        tensor = torch.tensor(np.array([
-            [self.init_token_index] +
-            [
-                self.stoi.get(char, self.unk_token_index)
-                for char in current
-            ] + [self.eos_token_index] + [self.pad_token_index] * (len_sen - len(current))
-            for current in sentences
-        ])).to(self.device)
+        tensor = []
+        lengths = []
+
+        obligatory_tokens = 2  # Tokens for init and end of string
+
+        # Packed sequence need to be in decreasing size order
+        for current in sorted(sentences, key=lambda item: -len(item)):
+            tensor.append(
+                # A sentence start with an init token
+                [self.init_token_index] +
+                # It's followed by each char index in the vocabulary
+                [self.stoi.get(char, self.unk_token_index) for char in current] +
+                # Then we get the end of sentence milestone
+                [self.eos_token_index] +
+                # And we padd for what remains
+                [self.pad_token_index] * (max_len + obligatory_tokens - len(current))  # 2 = SOS token and EOS token
+            )
+            lengths.append(len(tensor[-1]) - max(0, max_len - len(current)))
+
+        tensor = torch.tensor(tensor).to(device)
 
         if not batch_first:
             # [sentence_len, batch_size]
-            return tensor.t()
-        return tensor
+            return tensor.t(), torch.tensor(lengths).to(device)
+        return tensor, torch.tensor(lengths).to(device)
 
     def reverse_batch(self, batch, batch_first=False):
         # If dimension is [sentence_len, batch_size]
@@ -203,10 +253,10 @@ class LabelEncoder:
         return DatasetIterator(self, path, **kwargs)
 
     @classmethod
-    def load(cls, json_content: dict, device) -> "LabelEncoder":
+    def load(cls, json_content: dict) -> "LabelEncoder":
         # pass
         logging.info("Loading LabelEncoder")
-        o = cls(device=device, **json_content["params"])
+        o = cls(**json_content["params"])
         o.itos = dict({int(i): s for i, s in json_content["itos"].items()})
         o.stoi = json_content["stoi"]
         logging.info("Loaded LabelEncoder with {} tokens".format(len(o.itos) - 4))
@@ -232,13 +282,13 @@ if __name__ == "__main__":
     label_encoder = LabelEncoder()
     label_encoder.build(*glob.glob("test_data/*.tsv"), debug=True)
 
-    dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", batch_size=2, random=False)
-    print(dataset)
+    dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", random=False)
 
-    epoch_batches = dataset.get_epoch()
-    x, y = next(epoch_batches)
 
-    assert tuple(x.shape) == (30, 2), "X shape should be right"
+    epoch_batches = dataset.get_epoch(batch_size=2)
+    x, x_len, y, y_len = next(epoch_batches)
+
+    assert tuple(x.shape) == (30, 2), "X shape should be (30, 2), got {}".format(tuple(x.shape))
     assert tuple(y.shape) == (35, 2), "Y shape should be right"
 
     assert label_encoder.reverse_batch(y) == [
@@ -254,6 +304,8 @@ if __name__ == "__main__":
     ]
 
     dumped = label_encoder.dump()
-    reloaded = LabelEncoder.load(json.loads(dumped), device=DEVICE)
+    reloaded = LabelEncoder.load(json.loads(dumped))
     reloaded.reverse_batch(x)
     assert reloaded.reverse_batch(y) == label_encoder.reverse_batch(y)
+
+    assert len(list(epoch_batches)) == 2, "There should be only to more batches"

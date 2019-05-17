@@ -1,20 +1,18 @@
 import os
 import random
-import time
 import json
 import math
 import tarfile
 import uuid
-from collections import namedtuple
-from typing import List, Tuple
 import enum
 import statistics
+
+from collections import namedtuple
 
 import torch
 import torch.cuda
 import torch.nn as nn
 import torch.optim as optim
-import dill
 import tqdm
 
 from torchtext.data import ReversibleField, BucketIterator
@@ -23,6 +21,7 @@ from sklearn.metrics import precision_score, recall_score, accuracy_score
 
 from boudams.dataset import Dataset
 from boudams.tagger import Seq2SeqTokenizer, DEVICE
+from boudams.encoder import DatasetIterator
 import boudams.utils as utils
 
 
@@ -114,7 +113,7 @@ class Trainer(object):
         return best_score
 
     def run(
-            self, train_dataset: Dataset, dev_dataset: Dataset,
+            self, train_dataset: DatasetIterator, dev_dataset: DatasetIterator,
             lr: float = 1e-3, min_lr: float = 1e-6, lr_factor: int = 0.75, lr_patience: float = 10,
             lr_grace_periode: int = 10,  # Number of first iterations where we ignore lr_patience
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
@@ -142,31 +141,24 @@ class Trainer(object):
         # Generates a temp file to store the best model
         fid = '/tmp/{}'.format(str(uuid.uuid1()))
         best_valid_loss = float("inf")
-        valid_score = Score(float("inf"), float("inf"), 0)  # In case exception was run before eval
+        dev_score = Score(float("inf"), float("inf"), 0)  # In case exception was run before eval
 
         # Set up loss but ignore the loss when the token is <pad>
         #     where <pad> is the token for filling the vector to get same-sized matrix
         criterion = nn.CrossEntropyLoss(ignore_index=self.tagger.padtoken)
 
-        # Set-up the iterators
-        train_iterator, dev_iterator = BucketIterator.splits(
-            datasets=(train_dataset, dev_dataset),
-            batch_size=batch_size,
-            sort_within_batch=True,
-            sort_key=lambda x: len(x.src),
-            device=self.device
-        )
-
         csv_content = self.init_csv_content()
         for epoch in range(1, n_epochs+1):
             try:
                 train_score = self._train_epoch(
-                    train_iterator, optimizer, criterion, clip,
-                    desc="[Epoch Training %s/%s]" % (epoch, n_epochs)
+                    train_dataset, optimizer, criterion, clip,
+                    desc="[Epoch Training %s/%s]" % (epoch, n_epochs),
+                    batch_size=batch_size
                 )
-                valid_score = self.evaluate(
-                    dev_iterator, criterion,
-                    desc="[Epoch Dev %s/%s]" % (epoch, n_epochs)
+                dev_score = self.evaluate(
+                    dev_dataset, criterion,
+                    desc="[Epoch Dev %s/%s]" % (epoch, n_epochs),
+                    batch_size=batch_size
                 )
 
                 # Get some CSV content
@@ -174,21 +166,21 @@ class Trainer(object):
                     (
                         str(epoch),
                         str(train_score.loss), str(train_score.perplexity), str(train_score.accuracy),
-                        str(valid_score.loss), str(valid_score.perplexity), str(valid_score.accuracy),
+                        str(dev_score.loss), str(dev_score.perplexity), str(dev_score.accuracy),
                         "UNK", "UNK"
                     )
                 )
 
                 # Run a check on saving the current model
-                self._temp_save(fid, best_valid_loss, valid_score)
+                self._temp_save(fid, best_valid_loss, dev_score)
 
                 # Advance Learning Rate if needed
-                lr_scheduler.step(valid_score)
+                lr_scheduler.step(dev_score)
 
                 print(f'\tTrain Loss: {train_score.loss:.3f} | Perplexity: {train_score.perplexity:7.3f}'
                       f' Acc.: {train_score.accuracy:.3f}')
-                print(f'\t Val. Loss: {valid_score.loss:.3f} | Perplexity: {valid_score.perplexity:7.3f} |'
-                      f' Acc.: {valid_score.accuracy:.3f}')
+                print(f'\t Val. Loss: {dev_score.loss:.3f} | Perplexity: {dev_score.perplexity:7.3f} |'
+                      f' Acc.: {dev_score.accuracy:.3f}')
                 print(lr_scheduler)
                 print()
 
@@ -204,7 +196,7 @@ class Trainer(object):
             except EarlyStopException:
                 print("Reached plateau for too long, stopping.")
 
-        self._temp_save(fid, best_valid_loss, valid_score)
+        self._temp_save(fid, best_valid_loss, dev_score)
         try:
             self.tagger.model.load_state_dict(torch.load(fid))
             os.remove(fid)
@@ -237,15 +229,13 @@ class Trainer(object):
             string, path = json.dumps(self.tagger.settings), 'settings.json.zip'
             utils.add_gzip_to_tar(string, path, tar)
 
+            string, path = self.tagger.vocabulary.dump(), 'vocabulary.json'
+            utils.add_gzip_to_tar(string, path, tar)
+
             # serialize field
             with utils.tmpfile() as tmppath:
                 torch.save(self.tagger.model.state_dict(), tmppath)
                 tar.add(tmppath, arcname='state_dict.pt')
-
-            # serialize field
-            with utils.tmpfile() as tmppath:
-                torch.save(self.tagger.vocabulary, tmppath, pickle_module=dill)
-                tar.add(tmppath, arcname='vocabulary.pt')
 
         return fpath
 
@@ -266,17 +256,17 @@ class Trainer(object):
         except:
             return float("inf")
 
-    def _train_epoch(self, iterator: BucketIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
-                     clip: float, desc: str) -> Score:
+    def _train_epoch(self, iterator: DatasetIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
+                     clip: float, desc: str, batch_size:int = 32) -> Score:
         self.tagger.model.train()
 
         epoch_loss = 0
 
         scorer = Scorer(self.tagger)
 
-        for i, batch in enumerate(tqdm.tqdm(iterator, desc=desc)):
-            src, src_len = batch.src
-            trg, _ = batch.trg  # We don't care about target length !
+        batch = iterator.get_epoch(batch_size=batch_size, device=self.device)
+        for _ in tqdm.tqdm(range(0, len(iterator)), desc=desc):
+            src, src_len, trg, trg_len = next(batch)
 
             optimizer.zero_grad()
 
@@ -311,7 +301,8 @@ class Trainer(object):
         loss = epoch_loss / len(iterator)
         return Score(loss, self._get_perplexity(loss), scorer.get_accuracy())
 
-    def evaluate(self, iterator: BucketIterator, criterion: nn.CrossEntropyLoss, desc: str) -> Score:
+    def evaluate(self, iterator: DatasetIterator, criterion: nn.CrossEntropyLoss,
+                 desc: str, batch_size: int) -> Score:
 
         self.tagger.model.eval()
 
@@ -320,9 +311,9 @@ class Trainer(object):
         scorer = Scorer(self.tagger)
 
         with torch.no_grad():
-            for i, batch in tqdm.tqdm(enumerate(iterator), desc=desc):
-                src, src_len = batch.src
-                trg, _ = batch.trg  # Length not used
+            batch = iterator.get_epoch(batch_size=batch_size, device=self.device)
+            for _ in tqdm.tqdm(range(0, len(iterator)), desc=desc):
+                src, src_len, trg, trg_len = next(batch)
 
                 src_in, trg_in = self.tagger.model._reshape_input(src, trg)
 
