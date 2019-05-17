@@ -205,9 +205,11 @@ class LabelEncoder:
     @classmethod
     def load(cls, json_content: dict, device) -> "LabelEncoder":
         # pass
+        logging.info("Loading LabelEncoder")
         o = cls(device=device, **json_content["params"])
         o.itos = dict({int(i): s for i, s in json_content["itos"].items()})
         o.stoi = json_content["stoi"]
+        logging.info("Loaded LabelEncoder with {} tokens".format(len(o.itos) - 4))
         return o
 
     def dump(self) -> str:
