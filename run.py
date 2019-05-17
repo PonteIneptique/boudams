@@ -1,6 +1,10 @@
 from boudams.tagger import Seq2SeqTokenizer
 from boudams.trainer import Trainer
 
+
+import datetime
+
+
 vocabulary, train_dataset, dev_dataset, test_dataset = Seq2SeqTokenizer.get_dataset_and_vocabularies(
     #"data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
     "data/small/train.tsv", "data/small/dev.tsv", "data/small/test.tsv"
@@ -38,7 +42,7 @@ for settings, system, batch_size, train_dict in [
     (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
          dict(lr_grace_periode=2, lr_patience=2, lr=0.01))
 ]:
-    device = "cuda"
+    device = "cpu"
     tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=200
                               , **settings)
     trainer = Trainer(tagger, device=device)
@@ -46,7 +50,8 @@ for settings, system, batch_size, train_dict in [
     print()
     trainer.run(
         train_dataset, dev_dataset, n_epochs=10,
-        fpath="models/"+system+"-3.tar", batch_size=batch_size,
+        fpath="models/"+system+str(datetime.datetime.today()).replace(" ", "--").split(".")[0]+".tar",
+        batch_size=batch_size,
         **train_dict
     )
 
