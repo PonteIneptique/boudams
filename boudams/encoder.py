@@ -1,7 +1,7 @@
 import torch
 import torch.cuda
 import torch.nn
-from typing import Tuple, Dict, List, Optional, Iterator, Sequence
+from typing import Tuple, Dict, List, Optional, Iterator, Sequence, Callable
 import logging
 import collections
 import random
@@ -58,12 +58,15 @@ class DatasetIterator:
                     self.line_starts_offsets.append(offset)
                 offset += len(line)
 
-        self.length = len(self.line_starts_offsets)
         logging.info("DatasetIterator found {} lines in {}".format(self.length, self.file))
 
         # Get the number of batch for TQDM
         self.batch_count = self.length // self.batch_size + bool(self.length % self.batch_size)
-    
+
+    @property
+    def length(self):
+        return len(self.line_starts_offsets)
+
     def reset_batch_size(self, batch_size):
         self.batch_size = batch_size
         self.batch_count = self.length // self.batch_size + bool(self.length % self.batch_size)
@@ -74,7 +77,7 @@ class DatasetIterator:
                 fio.seek(line_start)
                 yield self._l_e.readunit(fio.readline().decode("utf-8").strip())
 
-    def get_epoch(self, device: str = DEVICE, batch_size: int = 32) -> Iterator[Tuple[torch.Tensor, ...]]:
+    def get_epoch(self, device: str = DEVICE, batch_size: int = 32) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
         # If the batch size is not the original one (most probably is !)
         if batch_size != self.batch_size:
             self.reset_batch_size(batch_size)
@@ -86,21 +89,23 @@ class DatasetIterator:
         if self.random:
             random.shuffle(lines)
 
-        for n in range(0, len(lines), self.batch_size):
-            xs, y_trues = [], []
-            max_len_x, max_len_y = 0, 0  # Needed for padding
+        def iterable():
+            for n in range(0, len(lines), self.batch_size):
+                xs, y_trues = [], []
+                max_len_x, max_len_y = 0, 0  # Needed for padding
 
-            for x, y in self.get_line(*lines[n:n+self.batch_size]):
-                max_len_x = max(len(x), max_len_x)
-                max_len_y = max(len(y), max_len_y)
-                xs.append(x)
-                y_trues.append(y)
+                for x, y in self.get_line(*lines[n:n+self.batch_size]):
+                    max_len_x = max(len(x), max_len_x)
+                    max_len_y = max(len(y), max_len_y)
+                    xs.append(x)
+                    y_trues.append(y)
 
-            yield (
-                *self._l_e.tensorize(xs, padding=max_len_x, device=device),
-                *self._l_e.tensorize(y_trues, padding=max_len_y, device=device)
-            )
+                yield (
+                    *self._l_e.tensorize(xs, padding=max_len_x, device=device),
+                    *self._l_e.tensorize(y_trues, padding=max_len_y, device=device)
+                )
 
+        return iterable
 
 class LabelEncoder:
     def __init__(self,

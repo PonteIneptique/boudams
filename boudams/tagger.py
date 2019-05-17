@@ -233,9 +233,7 @@ class Seq2SeqTokenizer:
 
         self.model.eval()
         for sentence in texts:
-            numericalized = [self.vocabulary.vocab.stoi[t] for t in sentence] + [self.eostoken]
-            sentence_length = torch.LongTensor([len(numericalized)]).to(self.device)
-            tensor = torch.LongTensor(numericalized).unsqueeze(1).to(self.device)
+            tensor, sentence_length = self.vocabulary.tensorize([list(sentence)])
 
             tensor = self.model._reshape_input(tensor, None)
             translation_tensor_logits, attention = self.model(

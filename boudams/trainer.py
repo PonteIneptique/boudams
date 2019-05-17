@@ -257,16 +257,18 @@ class Trainer(object):
             return float("inf")
 
     def _train_epoch(self, iterator: DatasetIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
-                     clip: float, desc: str, batch_size:int = 32) -> Score:
+                     clip: float, desc: str, batch_size: int = 32) -> Score:
         self.tagger.model.train()
 
         epoch_loss = 0
 
         scorer = Scorer(self.tagger)
 
-        batch = iterator.get_epoch(batch_size=batch_size, device=self.device)
-        for _ in tqdm.tqdm(range(0, len(iterator)), desc=desc):
-            src, src_len, trg, trg_len = next(batch)
+        batch_generator = iterator.get_epoch(batch_size=batch_size, device=self.device)
+        batches = batch_generator()
+
+        for _ in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
+            src, src_len, trg, trg_len = next(batches)
 
             optimizer.zero_grad()
 
@@ -311,9 +313,11 @@ class Trainer(object):
         scorer = Scorer(self.tagger)
 
         with torch.no_grad():
-            batch = iterator.get_epoch(batch_size=batch_size, device=self.device)
-            for _ in tqdm.tqdm(range(0, len(iterator)), desc=desc):
-                src, src_len, trg, trg_len = next(batch)
+            batch_generator = iterator.get_epoch(batch_size=batch_size, device=self.device)
+            batches = batch_generator()
+
+            for _ in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
+                src, src_len, trg, trg_len = next(batches)
 
                 src_in, trg_in = self.tagger.model._reshape_input(src, trg)
 
