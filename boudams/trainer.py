@@ -267,7 +267,7 @@ class Trainer(object):
         batch_generator = iterator.get_epoch(batch_size=batch_size, device=self.device)
         batches = batch_generator()
 
-        for _ in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
+        for batch_index in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
             src, src_len, trg, trg_len = next(batches)
 
             optimizer.zero_grad()

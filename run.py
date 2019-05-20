@@ -5,16 +5,23 @@ from boudams.encoder import LabelEncoder, DatasetIterator
 
 import datetime
 
-train_path, dev_path, test_path = "data/small/train.tsv", "data/small/dev.tsv", "data/small/test.tsv"
-#train_path, dev_path, test_path = data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
+TEST = False
+RANDOM = False
+DEVICE = "cpu"
+MAXIMUM_LENGTH = 150
 
-vocabulary = LabelEncoder()
+if TEST is True:
+    train_path, dev_path, test_path = "data/small/train.tsv", "data/small/dev.tsv", "data/small/test.tsv"
+else:
+    train_path, dev_path, test_path = "data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
+
+vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH)
 vocabulary.build(train_path, dev_path, test_path, debug=True)
 
 # Get the datasets
-train_dataset: DatasetIterator = vocabulary.get_dataset(train_path)
-dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path)
-test_dataset: DatasetIterator = vocabulary.get_dataset(test_path)
+train_dataset: DatasetIterator = vocabulary.get_dataset(train_path, random=False)
+dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path, random=False)
+test_dataset: DatasetIterator = vocabulary.get_dataset(test_path, random=False)
 
 from pprint import pprint
 #pprint(vocabulary.vocab.freqs)
@@ -40,7 +47,9 @@ def examples(obj):
 
 
 for settings, system, batch_size, train_dict in [
-    (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256, enc_dropout=0.25, dec_dropout=0.25), "conv", 32,
+    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256,
+          enc_n_layers=2, dec_n_layers=2,
+          enc_dropout=0.25, dec_dropout=0.25), "conv", 128,
         dict(lr_grace_periode=2, lr_patience=2, lr=0.0005)),
     (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256,
         dict(lr_grace_periode=2, lr_patience=2)),
@@ -49,8 +58,8 @@ for settings, system, batch_size, train_dict in [
     (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
          dict(lr_grace_periode=2, lr_patience=2, lr=0.01))
 ]:
-    device = "cuda"
-    tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=200
+    device = DEVICE
+    tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=MAXIMUM_LENGTH
                               , **settings)
     trainer = Trainer(tagger, device=device)
     print(tagger.model)

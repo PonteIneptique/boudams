@@ -1,6 +1,9 @@
 from boudams.tagger import Seq2SeqTokenizer
 import glob
+import logging
 
+logger = logging.getLogger()
+logger.setLevel(logging.DEBUG)
 
 Examples = """vosvenitesdevantmoiqantgevosdisquevosenaillissiezousece	vos venites devant moi qant ge vos dis que vos en aillissiez ou se ce
 nonlicuersmepartiroitelventrecarjaienvostotemisel	non li cuers me partiroit el ventre car j ai en vos tote mise l
@@ -18,8 +21,9 @@ Examples = [
     for line in Examples.split("\n")
 ]
 
-for model in glob.glob("models/*-3.tar"):
-    tokenizer = Seq2SeqTokenizer.load(model)
+for model in glob.glob("/home/thibault/dev/boudams/models/conv2019-05-18--14:27:56.tar"):
+    tokenizer = Seq2SeqTokenizer.load(model, device="cpu")
+    print(tokenizer.model)
     treated = tokenizer.annotate([x[0] for x in Examples])
 
     for (inp, exp), out in zip(Examples, treated):

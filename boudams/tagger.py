@@ -7,6 +7,7 @@ from torchtext.data import ReversibleField, BucketIterator
 import os
 import json
 import tarfile
+import logging
 from typing import List, Tuple
 
 from .model import gru, lstm, bidir, conv
@@ -83,7 +84,8 @@ class Seq2SeqTokenizer:
                 n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
                 dropout=self.enc_dropout,
                 device=self.device,
-                kernel_size=self.enc_kernel_size
+                kernel_size=self.enc_kernel_size,
+                max_sentence_len=self.out_max_sentence_length
             )
             self.dec: gru.Decoder = conv.Decoder(
                 self.vocabulary_dimension, emb_dim=self.emb_dec_dim,
@@ -123,6 +125,17 @@ class Seq2SeqTokenizer:
                                                   self.dec_n_layers, self.dec_dropout)
             self.init_weights = lstm.init_weights
             self.model: lstm.Seq2Seq = lstm.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
+
+    def to(self, device: str):
+        # ToDo: This does not work, fix it
+        self.device = device
+        self.vocabulary.device = device
+
+        if hasattr(self, "attention"):
+            self.attention.to(device)
+        self.enc.to(device)
+        self.dec.to(device)
+        self.model.to(device)
 
     @property
     def padtoken(self):
@@ -173,16 +186,15 @@ class Seq2SeqTokenizer:
         }
 
     @classmethod
-    def load(cls, fpath="./model.tar"):
+    def load(cls, fpath="./model.tar", device=DEVICE):
         with tarfile.open(utils.ensure_ext(fpath, 'tar'), 'r') as tar:
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
             # load state_dict
-            with utils.tmpfile() as tmppath:
-                tar.extract('vocabulary.json', path=tmppath)
-                dictpath = os.path.join(tmppath, 'vocabulary.json')
-                with open(dictpath) as f:
-                    vocab = LabelEncoder.load(json.load(f))
+            vocab = LabelEncoder.load(
+                json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json"))
+            )
+            settings.update({"device": device})
 
             obj = cls(vocabulary=vocab, **settings)
 
@@ -227,24 +239,27 @@ class Seq2SeqTokenizer:
         for t in tensor:
             if t == self.eostoken:
                 break
-            yield self.vocabulary.vocab.itos[t]
+            yield self.vocabulary.itos[t]
 
     def annotate(self, texts: List[str]):
-
         self.model.eval()
         for sentence in texts:
-            tensor, sentence_length = self.vocabulary.tensorize([list(sentence)])
+            tensor, sentence_length = self.vocabulary.tensorize(
+                [list(sentence)],
+                device=self.device
+            )
 
             tensor = self.model._reshape_input(tensor, None)
+            logging.debug("Input Tensor {}".format(tensor.shape))
+            logging.debug("Input Positions tensor {}".format(sentence_length.shape))
             translation_tensor_logits, attention = self.model(
                 tensor, sentence_length,
                 trg=None, teacher_forcing_ratio=0
             )
 
             translation_tensor = self.model._reshape_output_for_scorer(translation_tensor_logits)
-            print(translation_tensor.shape)
-            translation = list(self._reverse_loop(translation_tensor))[1:]
+            translation = self.vocabulary.reverse_batch(translation_tensor)[0]
+
             if attention is not None:
                 attention = attention[1:]
             yield "".join(translation)#, attention
-

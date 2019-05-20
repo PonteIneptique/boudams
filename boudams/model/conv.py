@@ -8,7 +8,8 @@ from .base import BaseSeq2SeqModel
 
 
 class Encoder(nn.Module):
-    def __init__(self, input_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, device: str = "cpu"):
+    def __init__(self, input_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, device: str = "cpu",
+                 max_sentence_len: int = 100):
         super().__init__()
 
         assert kernel_size % 2 == 1, "Kernel size must be odd!"
@@ -19,11 +20,12 @@ class Encoder(nn.Module):
         self.kernel_size = kernel_size
         self.dropout = dropout
         self.device = device
+        self.max_sentence_len = max_sentence_len
 
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
 
         self.tok_embedding = nn.Embedding(input_dim, emb_dim)
-        self.pos_embedding = nn.Embedding(100, emb_dim)
+        self.pos_embedding = nn.Embedding(max_sentence_len, emb_dim)
 
         self.emb2hid = nn.Linear(emb_dim, hid_dim)
         self.hid2emb = nn.Linear(hid_dim, emb_dim)
@@ -96,7 +98,7 @@ class Encoder(nn.Module):
 
 class Decoder(nn.Module):
     def __init__(self, output_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, pad_idx,
-                 max_sentence_len:int = 100,
+                 max_sentence_len: int = 100,
                  device: str = "cpu"):
         super().__init__()
 

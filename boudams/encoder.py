@@ -107,12 +107,15 @@ class DatasetIterator:
 
         return iterable
 
+
+
 class LabelEncoder:
     def __init__(self,
                  init_token=DEFAULT_INIT_TOKEN,
                  eos_token=DEFAULT_EOS_TOKEN,
                  pad_token=DEFAULT_PAD_TOKEN,
-                 unk_token=DEFAULT_UNK_TOKEN
+                 unk_token=DEFAULT_UNK_TOKEN,
+                 maximum_length: int = None
                  ):
         self.init_token = init_token
         self.eos_token = eos_token
@@ -122,6 +125,7 @@ class LabelEncoder:
         self.eos_token_index = 1
         self.pad_token_index = 2
         self.unk_token_index = 3
+        self.max_len: Optional[int] = maximum_length
         self.random = True
 
         self.itos: Dict[int, str] = {
@@ -181,6 +185,8 @@ class LabelEncoder:
         :return:
         """
         x = line.strip().split("\t")
+        if self.max_len and len(x[0]) >= len(x[1]) > self.max_len:
+            raise AssertionError("Data should be smaller than maximum length")
         return tuple(x[0]), tuple(x[1])
 
     def tensorize(self,
@@ -288,7 +294,6 @@ if __name__ == "__main__":
     label_encoder.build(*glob.glob("test_data/*.tsv"), debug=True)
 
     dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", random=False)
-
 
     epoch_batches = dataset.get_epoch(batch_size=2)
     x, x_len, y, y_len = next(epoch_batches)
