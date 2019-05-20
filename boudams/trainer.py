@@ -8,6 +8,8 @@ import enum
 import statistics
 
 from collections import namedtuple
+from typing import Callable
+
 
 import torch
 import torch.cuda
@@ -119,7 +121,7 @@ class Trainer(object):
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
             _seed: int = 1234, fpath: str = "model.tar",
             mode="accuracy",
-            after_epoch_fn=None
+            debug: Callable[[Seq2SeqTokenizer], None]=None
     ):
         random.seed(_seed)
         torch.manual_seed(_seed)
@@ -190,6 +192,9 @@ class Trainer(object):
                 if epoch == lr_grace_periode:
                     lr_scheduler.lr_scheduler.patience = lr_patience
 
+                if debug is not None:
+                    debug(self.tagger)
+
             except KeyboardInterrupt:
                 print("Interrupting training...")
                 break
@@ -206,8 +211,6 @@ class Trainer(object):
         self.save(fpath, csv_content)
 
         print("Saved !")
-        if after_epoch_fn:
-            after_epoch_fn(self)
 
     def save(self, fpath="model.tar", csv_content=None):
 

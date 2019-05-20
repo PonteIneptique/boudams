@@ -208,39 +208,6 @@ class Seq2SeqTokenizer:
 
         return obj
 
-    def _reverse_keep(self, batch, remove_index=True):
-        # keep the tokens to ignore normally
-        start_index = int(remove_index)
-        if not self.vocabulary.batch_first:
-            batch = batch.t()
-        with torch.cuda.device_of(batch):
-            batch = batch.tolist()
-        batch = [
-            [self.vocabulary.vocab.itos[ind] for ind in ex[start_index:]]
-            for ex in batch
-        ]  # denumericalize
-
-        return [ex for ex in batch]
-
-    def reverse(self, batch, as_list=False):
-        if not self.vocabulary.batch_first:
-            batch = batch.t()
-        with torch.cuda.device_of(batch):
-            batch = batch.tolist()
-        ignore = (self.eostoken, self.sostoken, self.padtoken, self.vocabulary.unk_token)
-        batch = [
-            [self.vocabulary.vocab.itos[ind] for ind in ex[1:] if ind not in ignore]
-            for ex in batch
-        ]  # denumericalize
-
-        return [''.join(ex) for ex in batch]
-
-    def _reverse_loop(self, tensor):
-        for t in tensor:
-            if t == self.eostoken:
-                break
-            yield self.vocabulary.itos[t]
-
     def annotate(self, texts: List[str]):
         self.model.eval()
         for sentence in texts:

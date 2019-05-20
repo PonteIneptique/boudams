@@ -1,13 +1,19 @@
+import logging
+import datetime
+
 from boudams.tagger import Seq2SeqTokenizer
 from boudams.trainer import Trainer
 from boudams.encoder import LabelEncoder, DatasetIterator
 
+logger = logging.getLogger()
+logger.setLevel(logging.DEBUG)
 
-import datetime
+
+
 
 TEST = False
-RANDOM = False
-DEVICE = "cpu"
+RANDOM = True
+DEVICE = "cuda"
 MAXIMUM_LENGTH = 150
 
 if TEST is True:
@@ -40,15 +46,16 @@ def examples(obj):
     treated = obj.annotate([x[0] for x in example_sentences])
 
     for (inp, exp), out in zip(example_sentences, treated):
-        print("Inp " + inp)
-        print("Exp " + exp)
-        print("Out " + out)
-        print("----\n\n")
+        logger.debug("----")
+        logger.debug("Inp " + inp)
+        logger.debug("Exp " + exp)
+        logger.debug("Out " + out)
+        logger.debug("----")
 
 
 for settings, system, batch_size, train_dict in [
-    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256,
-          enc_n_layers=2, dec_n_layers=2,
+    (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256,
+          enc_n_layers=6, dec_n_layers=6,
           enc_dropout=0.25, dec_dropout=0.25), "conv", 128,
         dict(lr_grace_periode=2, lr_patience=2, lr=0.0005)),
     (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256,
@@ -68,6 +75,7 @@ for settings, system, batch_size, train_dict in [
         train_dataset, dev_dataset, n_epochs=10,
         fpath="models/"+system+str(datetime.datetime.today()).replace(" ", "--").split(".")[0]+".tar",
         batch_size=batch_size,
+        debug=examples,
         **train_dict
     )
 
