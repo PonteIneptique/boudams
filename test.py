@@ -1,14 +1,27 @@
 from boudams.tagger import Seq2SeqTokenizer
+from boudams.trainer import Trainer
 
-vocabulary, train_dataset, dev_dataset, test_dataset = Seq2SeqTokenizer.get_dataset_and_vocabularies(
-    "data/train/train.tab", "data/dev/dev.tab", "data/test/test.tab"
-)
+import glob
+import logging
+
+logger = logging.getLogger()
+logger.setLevel(logging.DEBUG)
 
 
-for settings, system, batch_size in [
-    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256), "bi-gru", 64),
-    #(dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, n_layers=2), "lstm", 256),
-    (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256)
-]:
-    tagger = Seq2SeqTokenizer.load("models/"+system+".tar")
-    tagger.test(test_dataset, batch_size=batch_size)
+TEST = True
+BATCH_SIZE = 32
+DEVICE = "cuda"
+
+
+if TEST is True:
+    train_path, dev_path, test_path = "data/small/train.tsv", "data/small/dev.tsv", "data/small/test.tsv"
+else:
+    train_path, dev_path, test_path = "data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
+
+
+for model in glob.glob("/home/thibault/dev/boudams/models/*2019-05-20--12*.tar"):
+    tokenizer = Seq2SeqTokenizer.load(model, device=DEVICE)
+    print("Model : " + tokenizer.system.upper() + " from  " + model)
+    test_data = tokenizer.vocabulary.get_dataset(test_path, random=False)
+    trainer = Trainer(tokenizer, device=DEVICE)
+    trainer.test(test_data, batch_size=BATCH_SIZE)

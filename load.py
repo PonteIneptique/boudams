@@ -21,7 +21,7 @@ Examples = [
     for line in Examples.split("\n")
 ]
 
-for model in glob.glob("/home/thibault/dev/boudams/models/conv2019-05-18--14:27:56.tar"):
+for model in glob.glob("/home/thibault/dev/boudams/models/*2019-05-20--12*.tar"):
     tokenizer = Seq2SeqTokenizer.load(model, device="cpu")
     print(tokenizer.model)
     treated = tokenizer.annotate([x[0] for x in Examples])

@@ -18,9 +18,9 @@ import torch.nn as nn
 import torch.optim as optim
 import tqdm
 
-from torchtext.data import ReversibleField, BucketIterator
-from sklearn.metrics import precision_score, recall_score, accuracy_score
 
+from sklearn.metrics import accuracy_score
+from leven import levenshtein
 
 from boudams.dataset import Dataset
 from boudams.tagger import Seq2SeqTokenizer, DEVICE
@@ -29,7 +29,7 @@ import boudams.utils as utils
 
 
 INVALID = "<INVALID>"
-Score = namedtuple("Score", ["loss", "perplexity", "accuracy"])
+Score = namedtuple("Score", ["loss", "perplexity", "accuracy", "scorer"])
 
 
 class PlateauModes(enum.Enum):
@@ -50,10 +50,39 @@ class Scorer(object):
         self.targets = []
         self.tagger: Seq2SeqTokenizer = tagger
         self.tokens = []  # Should be trues as tokens
-        self.accuracies = []
+        self.trues = []
+        self.preds = []
+
+        self._score_tuple = namedtuple("scores", ["accuracy", "leven"])
+        self.scores = None
+
+    def compute(self):
+        accuracy = [
+            accuracy_score(t, p)
+            for t, p in zip(self.trues, self.preds)
+        ]
+        levenshteins = []
+        for tr_true, tr_pred in zip(
+            self.tagger.vocabulary.transcribe_batch(
+                self.tagger.vocabulary.reverse_batch(self.trues, ignore=(self.tagger.vocabulary.pad_token_index, ))
+            ),
+            self.tagger.vocabulary.transcribe_batch(
+                self.tagger.vocabulary.reverse_batch(self.preds, ignore=(self.tagger.vocabulary.pad_token_index, ))
+            )
+        ):
+            levenshteins.append(levenshtein(tr_true, tr_pred))
+
+        self.scores = self._score_tuple(statistics.mean(accuracy), statistics.mean(levenshteins))
 
     def get_accuracy(self) -> float:
-        return statistics.mean(self.accuracies)
+        if not self.scores:
+            self.compute()
+        return self.scores.accuracy
+
+    def avg_levenshteins(self) -> float:
+        if not self.scores:
+            self.compute()
+        return self.scores.leven
 
     def register_batch(self, hypotheses, targets, verbose: bool = True, remove_first: bool = False):
         """
@@ -72,7 +101,8 @@ class Scorer(object):
             exp = exp.tolist()
 
         for y_true, y_pred in zip(exp, out):
-            self.accuracies.append(accuracy_score(y_true[start_index:], y_pred))
+            self.trues.append(y_true[start_index:])
+            self.preds.append(y_pred)
 
 
 class LRScheduler(object):
@@ -123,7 +153,7 @@ class Trainer(object):
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
             _seed: int = 1234, fpath: str = "model.tar",
             mode="accuracy",
-            debug: Callable[[Seq2SeqTokenizer], None]=None
+            debug: Callable[[Seq2SeqTokenizer], None] = None
     ):
         random.seed(_seed)
         torch.manual_seed(_seed)
@@ -323,7 +353,7 @@ class Trainer(object):
             epoch_loss += loss.item()
 
         loss = epoch_loss / len(iterator)
-        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy())
+        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(), scorer=scorer)
 
     def evaluate(self, iterator: DatasetIterator, criterion: nn.CrossEntropyLoss,
                  desc: str, batch_size: int) -> Score:
@@ -365,25 +395,17 @@ class Trainer(object):
                 loss = criterion(output_loss, trg_loss)
                 epoch_loss += loss.item()
 
-        loss = epoch_loss / len(iterator)
+        loss = epoch_loss / iterator.batch_count
 
-        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy())
+        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(), scorer=scorer)
 
-    def test(self, test_dataset: Dataset, batch_size: int = 256):
-        test_iterator = BucketIterator.splits(
-            datasets=[test_dataset],
-            batch_size=batch_size,
-            sort_within_batch=True,
-            sort_key=lambda x: len(x.src),
-            device=self.device
-        )
-
+    def test(self, test_dataset: DatasetIterator, batch_size: int = 256):
         # Set up loss but ignore the loss when the token is <pad>
         #     where <pad> is the token for filling the vector to get same-sized matrix
-        PAD_IDX = self.tagger.vocabulary.vocab.stoi['<pad>']
-        criterion = nn.CrossEntropyLoss(ignore_index=PAD_IDX)
+        criterion = nn.CrossEntropyLoss(ignore_index=self.tagger.vocabulary.pad_token_index)
 
-        test_loss = self.evaluate(test_iterator, criterion, desc="Test")
+        test_loss = self.evaluate(test_dataset, criterion, desc="Test", batch_size=batch_size)
 
-        print(f'| Test Loss: {test_loss:.3f} | Test PPL: {test_loss.perplexity:7.3f} |'
-              f'Test Accuracy {test_loss.accuracy}')
+        print(f'| Test Loss: {test_loss.loss:.3f} | Test PPL: {test_loss.perplexity:7.3f} |'
+              f'Test Accuracy {test_loss.accuracy:.3f} |'
+              f'Test Levenshtein {test_loss.scorer.avg_levenshteins():.3f}')

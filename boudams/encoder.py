@@ -1,7 +1,7 @@
 import torch
 import torch.cuda
 import torch.nn
-from typing import Tuple, Dict, List, Optional, Iterator, Sequence, Callable
+from typing import Tuple, Dict, List, Optional, Iterator, Sequence, Callable, Union
 import logging
 import collections
 import random
@@ -233,26 +233,38 @@ class LabelEncoder:
             return tensor.t(), torch.tensor(lengths).to(device)
         return tensor, torch.tensor(lengths).to(device)
 
-    def reverse_batch(self, batch, batch_first=False):
+    def reverse_batch(self, batch: Union[list, torch.Tensor], batch_first=False,
+                      ignore: Optional[Tuple[str, ...]] = None):
         # If dimension is [sentence_len, batch_size]
-        if not batch_first:
-            batch = batch.t()
+        if not isinstance(batch, list):
+            if not batch_first:
+                batch = batch.t()
 
-        with torch.cuda.device_of(batch):
-            batch = batch.tolist()
+            with torch.cuda.device_of(batch):
+                batch = batch.tolist()
 
-        batch = [
-            [
-                self.itos[ind]
-                for ind in ex
+        if ignore:
+            batch = [
+                [
+                    self.itos[ind]
+                    for ind in ex
+                    if ind not in ignore
+                ]
+                for ex in batch
             ]
-            for ex in batch
-        ]  # denumericalize
+        else:
+            batch = [
+                [
+                    self.itos[ind]
+                    for ind in ex
+                ]
+                for ex in batch
+            ]  # denumericalize
         return batch
 
     def transcribe_batch(self, batch: List[List[str]]):
         for sentence in batch:
-            end = min(len(sentence), sentence.index(self.eos_token))
+            end = len(sentence) if self.eos_token not in sentence else sentence.index(self.eos_token)
             yield "".join(sentence[1:end])  # Remove SOS
 
     def get_dataset(self, path, **kwargs):

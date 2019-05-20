@@ -9,8 +9,6 @@ logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 
-
-
 TEST = True
 RANDOM = True
 DEVICE = "cuda"
@@ -55,20 +53,20 @@ def examples(obj):
 
 conv = (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256,
           enc_n_layers=6, dec_n_layers=6,
-          enc_dropout=0.25, dec_dropout=0.25), "conv", 6,
+          enc_dropout=0.25, dec_dropout=0.25), "conv", 32,
         dict(lr_grace_periode=2, lr_patience=2, lr=0.0005))
-gru = (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 128,
+gru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "gru", 32,
         dict(lr_grace_periode=2, lr_patience=2))
-lstm = (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256,
+lstm = (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 32,
         dict(lr_grace_periode=2, lr_patience=2))
 bigru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
          dict(lr_grace_periode=2, lr_patience=2))
 
 
 for settings, system, batch_size, train_dict in [
-    #conv,
-    gru,
-    lstm,
+    conv,
+    #gru,
+    #lstm,
     bigru
 ]:
     device = DEVICE
