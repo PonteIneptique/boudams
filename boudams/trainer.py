@@ -6,6 +6,7 @@ import tarfile
 import uuid
 import enum
 import statistics
+import logging
 
 from collections import namedtuple
 from typing import Callable
@@ -54,25 +55,24 @@ class Scorer(object):
     def get_accuracy(self) -> float:
         return statistics.mean(self.accuracies)
 
-    def register_batch(self, hypotheses, targets, verbose: bool = True):
+    def register_batch(self, hypotheses, targets, verbose: bool = True, remove_first: bool = False):
         """
         hyps : list
         targets : list
         tokens : list
+        remove_first: bool : Remove the first element to have score non influenced by static insert,
+            in the case of non-convs models, <SOS> is added by hand for prediction.
         """
         # Makes numbers become STRINGS !
         out, exp = hypotheses.t(), targets.t()
-
+        start_index = int(remove_first)
         with torch.cuda.device_of(out):
             out = out.tolist()
         with torch.cuda.device_of(exp):
             exp = exp.tolist()
 
         for y_true, y_pred in zip(exp, out):
-            self.accuracies.append(accuracy_score(y_true[1:], y_pred))
-
-        if verbose:
-            show = random.randint(0, len(out)-1)
+            self.accuracies.append(accuracy_score(y_true[start_index:], y_pred))
 
 
 class LRScheduler(object):
@@ -107,6 +107,8 @@ class Trainer(object):
     def __init__(self, tagger: Seq2SeqTokenizer, device: str = DEVICE):
         self.tagger = tagger
         self.device = device
+        self.debug = False
+        self.remove_first = self.tagger.system == "conv"
 
     def _temp_save(self, file_path: str, best_score: float, current_score: Score) -> float:
         if current_score.loss != float("inf") and current_score.loss < best_score:
@@ -279,10 +281,27 @@ class Trainer(object):
 
             output, attention = self.tagger.model(src_in, src_len, trg_in)
 
+            out, trg_score = self.tagger.model._reshape_output_for_scorer(output, trg)
+
+            if self.debug:
+                j = lambda x: "".join(x)
+                for i, e, o in zip(
+                    self.tagger.vocabulary.reverse_batch(src),
+                    self.tagger.vocabulary.reverse_batch(trg),
+                        self.tagger.vocabulary.reverse_batch(out)
+                ):
+                    logging.debug("IN: " + j(i))
+                    logging.debug("OU: " + j(o))
+                    logging.debug("EX: " + j(e) + "\n---\n")
+
             scorer.register_batch(
-                self.tagger.model._reshape_output_for_scorer(output),
-                trg
+                out, trg_score,
+                remove_first=self.remove_first
             )
+
+            if self.debug:
+
+                break
 
             # We redim to work like other models
             output_loss, trg_loss = self.tagger.model._reshape_out_for_loss(output, trg)
@@ -333,8 +352,8 @@ class Trainer(object):
                 #   at the second layer (base 0 I believe)
                 # We basically get the best match at the output dim layer : the best character.
                 scorer.register_batch(
-                    self.tagger.model._reshape_output_for_scorer(output),
-                    trg
+                    *self.tagger.model._reshape_output_for_scorer(output, trg),
+                    remove_first=self.remove_first
                 )
 
                 # trg = [trg sent len, batch size]

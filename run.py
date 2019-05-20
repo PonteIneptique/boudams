@@ -11,7 +11,7 @@ logger.setLevel(logging.DEBUG)
 
 
 
-TEST = False
+TEST = True
 RANDOM = True
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 150
@@ -53,17 +53,23 @@ def examples(obj):
         logger.debug("----")
 
 
-for settings, system, batch_size, train_dict in [
-    (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256,
+conv = (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256,
           enc_n_layers=6, dec_n_layers=6,
-          enc_dropout=0.25, dec_dropout=0.25), "conv", 128,
-        dict(lr_grace_periode=2, lr_patience=2, lr=0.0005)),
-    (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 256,
-        dict(lr_grace_periode=2, lr_patience=2)),
-    (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256,
-        dict(lr_grace_periode=2, lr_patience=2, lr=0.01)),
-    (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
-         dict(lr_grace_periode=2, lr_patience=2, lr=0.01))
+          enc_dropout=0.25, dec_dropout=0.25), "conv", 6,
+        dict(lr_grace_periode=2, lr_patience=2, lr=0.0005))
+gru = (dict(hidden_size=128, emb_enc_dim=128, emb_dec_dim=128), "gru", 128,
+        dict(lr_grace_periode=2, lr_patience=2))
+lstm = (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 256,
+        dict(lr_grace_periode=2, lr_patience=2))
+bigru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
+         dict(lr_grace_periode=2, lr_patience=2))
+
+
+for settings, system, batch_size, train_dict in [
+    #conv,
+    gru,
+    lstm,
+    bigru
 ]:
     device = DEVICE
     tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=MAXIMUM_LENGTH
@@ -72,7 +78,7 @@ for settings, system, batch_size, train_dict in [
     print(tagger.model)
     print()
     trainer.run(
-        train_dataset, dev_dataset, n_epochs=10,
+        train_dataset, dev_dataset, n_epochs=100,
         fpath="models/"+system+str(datetime.datetime.today()).replace(" ", "--").split(".")[0]+".tar",
         batch_size=batch_size,
         debug=examples,
