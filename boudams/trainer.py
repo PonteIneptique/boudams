@@ -29,12 +29,14 @@ import boudams.utils as utils
 
 
 INVALID = "<INVALID>"
-Score = namedtuple("Score", ["loss", "perplexity", "accuracy", "scorer"])
+Score = namedtuple("Score", ["loss", "perplexity", "accuracy", "leven", "leven_per_char", "scorer"])
 
 
 class PlateauModes(enum.Enum):
     loss = "min"
     accuracy = "max"
+    leven = "min"
+    leven_per_char = "min"
 
 
 class EarlyStopException(Exception):
@@ -53,7 +55,7 @@ class Scorer(object):
         self.trues = []
         self.preds = []
 
-        self._score_tuple = namedtuple("scores", ["accuracy", "leven"])
+        self._score_tuple = namedtuple("scores", ["accuracy", "leven", "leven_per_char"])
         self.scores = None
 
     def compute(self):
@@ -62,6 +64,7 @@ class Scorer(object):
             for t, p in zip(self.trues, self.preds)
         ]
         levenshteins = []
+        leven_per_char = []
         for tr_true, tr_pred in zip(
             self.tagger.vocabulary.transcribe_batch(
                 self.tagger.vocabulary.reverse_batch(self.trues, ignore=(self.tagger.vocabulary.pad_token_index, ))
@@ -71,8 +74,11 @@ class Scorer(object):
             )
         ):
             levenshteins.append(levenshtein(tr_true, tr_pred))
+            leven_per_char.append(levenshteins[-1] / len(tr_true))
 
-        self.scores = self._score_tuple(statistics.mean(accuracy), statistics.mean(levenshteins))
+        self.scores = self._score_tuple(statistics.mean(accuracy),
+                                        statistics.mean(levenshteins),
+                                        statistics.mean(leven_per_char))
 
     def get_accuracy(self) -> float:
         if not self.scores:
@@ -83,6 +89,12 @@ class Scorer(object):
         if not self.scores:
             self.compute()
         return self.scores.leven
+
+    def avg_levenshteins_per_char(self) -> float:
+        if not self.scores:
+            self.compute()
+        return self.scores.leven_per_char
+
 
     def register_batch(self, hypotheses, targets, verbose: bool = True, remove_first: bool = False):
         """
@@ -152,7 +164,7 @@ class Trainer(object):
             lr_grace_periode: int = 10,  # Number of first iterations where we ignore lr_patience
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
             _seed: int = 1234, fpath: str = "model.tar",
-            mode="accuracy",
+            mode="leven_per_char",
             debug: Callable[[Seq2SeqTokenizer], None] = None
     ):
         random.seed(_seed)
@@ -175,7 +187,8 @@ class Trainer(object):
         # Generates a temp file to store the best model
         fid = '/tmp/{}'.format(str(uuid.uuid1()))
         best_valid_loss = float("inf")
-        dev_score = Score(float("inf"), float("inf"), 0)  # In case exception was run before eval
+        # In case exception was run before eval
+        dev_score = Score(float("inf"), float("inf"), float("-inf"), float("inf"), float("inf"), None)
 
         # Set up loss but ignore the loss when the token is <pad>
         #     where <pad> is the token for filling the vector to get same-sized matrix
@@ -199,8 +212,12 @@ class Trainer(object):
                 csv_content.append(
                     (
                         str(epoch),
+                        # train
                         str(train_score.loss), str(train_score.perplexity), str(train_score.accuracy),
+                            str(train_score.leven), str(train_score.leven_per_char),
+                        # Dev
                         str(dev_score.loss), str(dev_score.perplexity), str(dev_score.accuracy),
+                            str(dev_score.leven), str(dev_score.leven_per_char),
                         "UNK", "UNK"
                     )
                 )
@@ -211,10 +228,14 @@ class Trainer(object):
                 # Advance Learning Rate if needed
                 lr_scheduler.step(dev_score)
 
-                print(f'\tTrain Loss: {train_score.loss:.3f} | Perplexity: {train_score.perplexity:7.3f}'
-                      f' Acc.: {train_score.accuracy:.3f}')
-                print(f'\t Val. Loss: {dev_score.loss:.3f} | Perplexity: {dev_score.perplexity:7.3f} |'
-                      f' Acc.: {dev_score.accuracy:.3f}')
+                print(f'\tTrain Loss: {train_score.loss:.3f} | Perplexity: {train_score.perplexity:7.3f} | '
+                      f' Acc.: {train_score.accuracy:.3f} | '
+                      f' Lev.: {train_score.leven:.3f} | '
+                      f' Lev. / char: {train_score.leven_per_char:.3f}')
+                print(f'\t Val. Loss: {dev_score.loss:.3f} | Perplexity: {dev_score.perplexity:7.3f} | '
+                      f' Acc.: {dev_score.accuracy:.3f} | '
+                      f' Lev.: {dev_score.leven:.3f} | '
+                      f' Lev. / char: {dev_score.leven_per_char:.3f}')
                 print(lr_scheduler)
                 print()
 
@@ -279,8 +300,8 @@ class Trainer(object):
         return [
             (
                 "Epoch",
-                "Train Loss", "Train Perplexity", "Train Accuracy",
-                "Dev Loss", "Dev Perplexity", "Dev Accuracy",
+                "Train Loss", "Train Perplexity", "Train Accuracy", "Train Avg Leven", "Train Avg Leven Per Char",
+                "Dev Loss", "Dev Perplexity", "Dev Accuracy", "Dev Avg Leven", "Dev Avg Leven Per Char",
                 "Test Loss", "Test Perplexity"
             )
         ]
@@ -352,8 +373,9 @@ class Trainer(object):
 
             epoch_loss += loss.item()
 
-        loss = epoch_loss / len(iterator)
-        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(), scorer=scorer)
+        loss = epoch_loss / iterator.batch_count
+        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(),
+                     scorer.avg_levenshteins(), scorer.avg_levenshteins_per_char(), scorer=scorer)
 
     def evaluate(self, iterator: DatasetIterator, criterion: nn.CrossEntropyLoss,
                  desc: str, batch_size: int) -> Score:
@@ -397,7 +419,8 @@ class Trainer(object):
 
         loss = epoch_loss / iterator.batch_count
 
-        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(), scorer=scorer)
+        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(),
+                     scorer.avg_levenshteins(), scorer.avg_levenshteins_per_char(), scorer=scorer)
 
     def test(self, test_dataset: DatasetIterator, batch_size: int = 256):
         # Set up loss but ignore the loss when the token is <pad>

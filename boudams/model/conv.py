@@ -294,6 +294,8 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
                 trg.transpose(1, 0)[:, 1:].contiguous().view(-1)
 
     @staticmethod
-    def _reshape_output_for_scorer(out: torch.Tensor):
+    def _reshape_output_for_scorer(out: torch.Tensor, trg: torch.Tensor = None):
         # Remove the score from every prediction, keep the best one
+        if trg is not None:
+            return torch.argmax(out, 2).transpose(1, 0), trg
         return torch.argmax(out, 2).transpose(1, 0)
