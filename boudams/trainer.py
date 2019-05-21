@@ -324,46 +324,14 @@ class Trainer(object):
         batches = batch_generator()
 
         for batch_index in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
-            src, src_len, trg, trg_len = next(batches)
+            src, src_len, trg, _ = next(batches)
 
             optimizer.zero_grad()
 
-            src_in, trg_in = self.tagger.model._reshape_input(src, trg)
-
-            output, attention = self.tagger.model(src_in, src_len, trg_in)
-
-            out, trg_score = self.tagger.model._reshape_output_for_scorer(output, trg)
-
-            if self.debug:
-                j = lambda x: "".join(x)
-                for i, e, o in zip(
-                    self.tagger.vocabulary.reverse_batch(src),
-                    self.tagger.vocabulary.reverse_batch(trg),
-                        self.tagger.vocabulary.reverse_batch(out)
-                ):
-                    logging.debug("IN: " + j(i))
-                    logging.debug("OU: " + j(o))
-                    logging.debug("EX: " + j(e) + "\n---\n")
-
-            scorer.register_batch(
-                out, trg_score,
-                remove_first=self.remove_first
+            loss = self.tagger.model.compute(
+                src, src_len, trg,
+                scorer=scorer, criterion=criterion
             )
-
-            if self.debug:
-
-                break
-
-            # We redim to work like other models
-            output_loss, trg_loss = self.tagger.model._reshape_out_for_loss(output, trg)
-
-            # output = [batch size * trg sent len - 1, output dim]
-            # trg = [batch size * trg sent len - 1]
-
-            # trg = [(trg sent len - 1) * batch size]
-            # output = [(trg sent len - 1) * batch size, output dim]
-
-            loss = criterion(output_loss, trg_loss)
 
             loss.backward()
 
@@ -391,30 +359,13 @@ class Trainer(object):
             batches = batch_generator()
 
             for _ in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
-                src, src_len, trg, trg_len = next(batches)
+                src, src_len, trg, _ = next(batches)
 
-                src_in, trg_in = self.tagger.model._reshape_input(src, trg)
-
-                output, attention = self.tagger.model(
-                    src_in, src_len, trg_in, teacher_forcing_ratio=0
-                )  # turn off teacher forcing
-
-                # We register the current batch
-                #  For this to work, we get ONLY the best score of output which mean we need to argmax
-                #   at the second layer (base 0 I believe)
-                # We basically get the best match at the output dim layer : the best character.
-                scorer.register_batch(
-                    *self.tagger.model._reshape_output_for_scorer(output, trg),
-                    remove_first=self.remove_first
+                loss = self.tagger.model.compute(
+                    src, src_len, trg,
+                    scorer=scorer, criterion=criterion,
+                    evaluate=True
                 )
-
-                # trg = [trg sent len, batch size]
-                # output = [trg sent len, batch size, output dim]
-                output_loss, trg_loss = self.tagger.model._reshape_out_for_loss(output, trg)
-
-                # trg = [(trg sent len - 1) * batch size]
-                # output = [(trg sent len - 1) * batch size, output dim]
-                loss = criterion(output_loss, trg_loss)
                 epoch_loss += loss.item()
 
         loss = epoch_loss / iterator.batch_count

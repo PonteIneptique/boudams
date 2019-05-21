@@ -20,12 +20,12 @@ DEFAULT_MASK_TOKEN = "x"
 class DatasetIterator:
     def __init__(self, label_encoder: "LabelEncoder", file,
                  batch_size: int = 32,
-                 batch_first: bool = False, random: bool = False):
+                 batch_first: bool = False, randomized: bool = False):
         self._l_e = label_encoder
 
         self.line_starts_offsets: List[int] = []
         self.current_epoch: List[tuple, int] = []
-        self.random = random
+        self.random = randomized
         self.batch_first = batch_first
         self.file = file
         self.batch_count = 0
@@ -48,7 +48,7 @@ class DatasetIterator:
                     out_io.write(x+"\t"+y+"\n")
         return DatasetIterator(
             self._l_e, self.file+".masked",
-            self.batch_size, self.batch_first, self.random
+            self.batch_size, self.batch_first, randomized=self.random
         )
 
     def __repr__(self):
@@ -106,7 +106,7 @@ class DatasetIterator:
         lines = [] + self.line_starts_offsets
 
         # If we need randomization, then DO randomization shuffle of lines
-        if self.random:
+        if self.random is True:
             random.shuffle(lines)
 
         def iterable():
@@ -138,7 +138,7 @@ class LabelEncoder:
                  maximum_length: int = None,
                  lower: bool = True,
                  remove_diacriticals: bool = True,
-                 masked: bool = True
+                 masked: bool = False
                  ):
 
         self.masked: bool = masked
@@ -192,6 +192,12 @@ class LabelEncoder:
             self.mask_token: self.mask_token_index,
             self.space_token: self.space_token_index
         }
+        self.use_init = True
+        self.use_eos = True
+
+    def encoding_parameters(self, use_init, use_eos):
+        self.use_init = use_init
+        self.use_eos = use_eos
 
     def __len__(self):
         return len(self.stoi)
@@ -272,7 +278,9 @@ class LabelEncoder:
         tensor = []
         lengths = []
 
-        obligatory_tokens = 2  # Tokens for init and end of string
+        obligatory_tokens = int(self.use_init) + int(self.use_eos)  # Tokens for init and end of string
+        init = [self.init_token_index] if self.use_init else []
+        eos = [self.eos_token_index] if self.use_eos else []
 
         src = self.stoi
         if target and self.masked:
@@ -282,11 +290,11 @@ class LabelEncoder:
         for current in sorted(sentences, key=lambda item: -len(item)):
             tensor.append(
                 # A sentence start with an init token
-                [self.init_token_index] +
+                init +
                 # It's followed by each char index in the vocabulary
                 [src.get(char, self.unk_token_index) for char in current] +
                 # Then we get the end of sentence milestone
-                [self.eos_token_index] +
+                eos +
                 # And we padd for what remains
                 [self.pad_token_index] * (max_len + obligatory_tokens - len(current))  # 2 = SOS token and EOS token
             )
@@ -366,7 +374,8 @@ class LabelEncoder:
                 "unk_token": self.unk_token,
                 "mask_token": self.mask_token,
                 "remove_diacriticals": self.remove_diacriticals,
-                "lower": self.lower
+                "lower": self.lower,
+                "masked": self.masked
             }
         })
 

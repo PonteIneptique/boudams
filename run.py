@@ -10,9 +10,11 @@ logger.setLevel(logging.INFO)
 
 
 TEST = "seints"
-RANDOM = True
+RANDOM = False
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 100
+LOAD_VOCABULARY = True
+
 
 # Masked should not work given the fact that out_token_embedding is gonna be screwed
 MASKED = False
@@ -24,15 +26,23 @@ elif TEST is True:
 else:
     train_path, dev_path, test_path = "data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
 
-vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH, masked=MASKED)
-vocabulary.build(train_path, dev_path, test_path, debug=True)
+if LOAD_VOCABULARY:
+    import json
+    with open("voc.json") as f:
+        vocabulary = LabelEncoder.load(json.load(f))
+else:
+    vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH, masked=MASKED)
+    vocabulary.build(train_path, dev_path, test_path, debug=True)
+    print(vocabulary.dump())
+    with open("voc.json", "w") as f:
+        f.write(vocabulary.dump())
 
 logging.info(vocabulary.stoi)
 
 # Get the datasets
-train_dataset: DatasetIterator = vocabulary.get_dataset(train_path, random=RANDOM)
-dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path, random=RANDOM)
-test_dataset: DatasetIterator = vocabulary.get_dataset(test_path, random=RANDOM)
+train_dataset: DatasetIterator = vocabulary.get_dataset(train_path, randomized=RANDOM)
+dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path, randomized=RANDOM)
+test_dataset: DatasetIterator = vocabulary.get_dataset(test_path, randomized=RANDOM)
 
 
 if MASKED:
@@ -77,10 +87,10 @@ bigru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
 
 
 for settings, system, batch_size, train_dict in [
-    conv,
+    #conv,
     #gru,
-    #lstm,
-    bigru
+    lstm,
+    #bigru
 ]:
     device = DEVICE
     tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=MAXIMUM_LENGTH

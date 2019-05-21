@@ -172,7 +172,7 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
             else:
                 output = output.max(1)[1]
 
-            if inference and output == self.eos_idx:  # This does not take into account batch ! This fails with batches
+            if inference and output.item() == self.eos_idx:  # This does not take into account batch ! This fails with batches
                 return outputs[:t], None
 
         return outputs, None

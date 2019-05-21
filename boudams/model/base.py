@@ -1,29 +1,60 @@
 import torch
 
 
+pprint_2d = lambda x: [line for line in x.t().tolist() if not print(line)]
+pprint_1d = lambda x: print(x.tolist())
+
+
 class BaseSeq2SeqModel:
     """
     This contains base functionality to avoid some mystical conditions here and there
 
     """
-    @staticmethod
-    def _reshape_input(src: torch.Tensor, trg: torch.Tensor):
-        if trg is None:
-            return src
-        return src, trg
+    remove_first = False
 
-    @staticmethod
-    def _reshape_out_for_loss(out: torch.Tensor, trg: torch.Tensor):
-        # Remove the first because it's AUTOMATICALLY <SOS> for non-CONV models
+    use_init: bool = True
+    use_eos: bool = True
 
-        # Contiguous is not normally used in the original code.
-        # ToDo: Understand why somehow it become something that needed to be added
-        return out[1:].contiguous().view(-1, out.shape[-1]), \
-               trg[1:].contiguous().view(-1)
+    def compute(
+        self,
+        src, src_len, trg=None,
+        scorer=None, criterion=None,
+        evaluate: bool = False
+    ):
 
-    @staticmethod
-    def _reshape_output_for_scorer(out: torch.Tensor, trg: torch.Tensor = None):
-        # Remove the score from every prediction, keep the best one
-        if trg is None:
-            return torch.argmax(out, 2)[1:]
-        return torch.argmax(out, 2)[1:], trg[1:]
+        kwargs = {}
+        if evaluate:
+            kwargs = dict(teacher_forcing_ratio=0)
+
+        output, attention = self(src, src_len, trg, **kwargs)
+
+        # We register the current batch
+        #  For this to work, we get ONLY the best score of output which mean we need to argmax
+        #   at the second layer (base 0 I believe)
+        # We basically get the best match at the output dim layer : the best character.
+
+        # The prediction and ground truth batches NECESSARLY starts by "0" where
+        #    0 is the SOS token. In order to have a score independant from hardcoded ints,
+        #    we remove the first element of each sentence
+
+        scorer.register_batch(
+            torch.argmax(output, 2)[1:],
+            trg[1:],
+            remove_first=self.remove_first
+        )
+
+        # trg = [trg sent len, batch size]
+        # output = [trg sent len, batch size, output dim]
+
+        # trg = [(trg sent len - 1) * batch size]
+        # output = [(trg sent len - 1) * batch size, output dim]
+
+        # About contiguous : https://stackoverflow.com/questions/48915810/pytorch-contiguous
+        # Basically, elements of the tensor are spread over memory and to make it VERY simple, it's a bit like
+        #   deepcopy.
+        loss = criterion(
+            output.contiguous()[1:].view(-1, output.shape[-1]),
+            trg.contiguous()[1:].view(-1)
+        )
+
+        return loss

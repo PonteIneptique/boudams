@@ -243,6 +243,8 @@ class Decoder(nn.Module):
 
 
 class Seq2Seq(nn.Module, BaseSeq2SeqModel):
+    remove_first = True
+
     def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx, out_max_sentence_length=150):
         super().__init__()
 

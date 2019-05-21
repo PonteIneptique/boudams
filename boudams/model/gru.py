@@ -138,7 +138,6 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
             inference = False
             # first input to the decoder is the <sos> tokens
 
-
         trg_vocab_size = self.decoder.output_dim
 
         # tensor to store decoder outputs
@@ -163,7 +162,8 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
             else:
                 output = output.max(1)[1]
 
-            if inference and output == self.eos_idx:  # This does not take into account batch ! This fails with batches
+            # This does not take into account batch ! This fails with batches
+            if inference and output.item() == self.eos_idx:
                 return outputs[:t], None
 
         return outputs, None

@@ -21,7 +21,7 @@ class Encoder(nn.Module):
 
         self.embedding = nn.Embedding(input_dim, emb_dim)  # no dropout as only one layer!
 
-        self.rnn = nn.GRU(emb_dim, self.dec_hid_dim, bidirectional = True)
+        self.rnn = nn.GRU(emb_dim, self.dec_hid_dim, bidirectional=True)
 
         self.fc = nn.Linear(self.enc_hid_dim * 2, self.dec_hid_dim)
 
@@ -259,7 +259,7 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
                 output = output.max(1)[1]
 
             #print(output, outputs, self.eos_idx)
-            if inference and output == self.eos_idx:  # This does not take into account batch ! This fails with batches
+            if inference and output.item() == self.eos_idx:  # This does not take into account batch ! This fails with batches
                 return outputs[:t], attentions[:t]
 
         return outputs, attentions
