@@ -14,6 +14,7 @@ DEFAULT_INIT_TOKEN = "<SOS>"
 DEFAULT_EOS_TOKEN = "<EOS>"
 DEFAULT_PAD_TOKEN = "<PAD>"
 DEFAULT_UNK_TOKEN = "<UNK>"
+DEFAULT_MASK_TOKEN = "x"
 
 
 class DatasetIterator:
@@ -31,6 +32,24 @@ class DatasetIterator:
         self.batch_size = batch_size
 
         self._setup()
+
+    def get_masked(self):
+        with open(self.file+".masked", "w") as out_io:
+            with open(self.file) as in_io:
+                for line in in_io.readlines():
+                    if not line.strip():
+                        continue
+
+                    x, y = tuple(line.strip().split("\t"))
+                    y = "".join([
+                        self._l_e.space_token if char == " " else self._l_e.mask_token
+                        for char in y
+                    ])
+                    out_io.write(x+"\t"+y+"\n")
+        return DatasetIterator(
+            self._l_e, self.file+".masked",
+            self.batch_size, self.batch_first, self.random
+        )
 
     def __repr__(self):
         return "<DatasetIterator lines='{}' random='{}' \n" \
@@ -103,7 +122,7 @@ class DatasetIterator:
 
                 yield (
                     *self._l_e.tensorize(xs, padding=max_len_x, device=device),
-                    *self._l_e.tensorize(y_trues, padding=max_len_y, device=device)
+                    *self._l_e.tensorize(y_trues, padding=max_len_y, device=device, target=True)
                 )
 
         return iterable
@@ -115,28 +134,38 @@ class LabelEncoder:
                  eos_token=DEFAULT_EOS_TOKEN,
                  pad_token=DEFAULT_PAD_TOKEN,
                  unk_token=DEFAULT_UNK_TOKEN,
+                 mask_token=DEFAULT_MASK_TOKEN,
                  maximum_length: int = None,
                  lower: bool = True,
-                 remove_diacriticals: bool = True
+                 remove_diacriticals: bool = True,
+                 masked: bool = True
                  ):
-        self.init_token = init_token
-        self.eos_token = eos_token
-        self.pad_token = pad_token
-        self.unk_token = unk_token
-        self.init_token_index = 0
-        self.eos_token_index = 1
-        self.pad_token_index = 2
-        self.unk_token_index = 3
+
+        self.masked: bool = masked
+        self.init_token: str = init_token
+        self.eos_token: str = eos_token
+        self.pad_token: str = pad_token
+        self.unk_token: str = unk_token
+        self.mask_token: str = mask_token
+        self.space_token: str = " "
+
+        self.init_token_index: int = 0
+        self.eos_token_index: int = 1
+        self.pad_token_index: int = 2
+        self.unk_token_index: int = 3
+        self.mask_token_index: int = 4
+        self.space_token_index: int = 5
+
         self.max_len: Optional[int] = maximum_length
         self.random = True
         self.lower = lower
         self.remove_diacriticals = remove_diacriticals
 
         self.itos: Dict[int, str] = {
-            self.init_token_index: init_token,
-            self.eos_token_index: eos_token,
-            self.pad_token_index: pad_token,
-            self.unk_token_index: unk_token
+            self.init_token_index: self.init_token,
+            self.eos_token_index: self.eos_token,
+            self.pad_token_index: self.pad_token,
+            self.unk_token_index: self.unk_token
         }  # Id to string for reversal
 
         self.stoi: Dict[str, int] = {
@@ -145,6 +174,24 @@ class LabelEncoder:
             pad_token: self.pad_token_index,
             unk_token: self.unk_token_index
         }  # String to ID
+
+        # Mask dictionaries
+        self.itom: Dict[int, str] = {
+            self.init_token_index: self.init_token,
+            self.eos_token_index: self.eos_token,
+            self.pad_token_index: self.pad_token,
+            self.unk_token_index: self.unk_token,
+            self.mask_token_index: self.mask_token,
+            self.space_token_index: self.space_token
+        }
+        self.mtoi: Dict[str, int] = {
+            self.init_token: self.init_token_index,
+            self.eos_token: self.eos_token_index,
+            self.pad_token: self.pad_token_index,
+            self.unk_token: self.unk_token_index,
+            self.mask_token: self.mask_token_index,
+            self.space_token: self.space_token_index
+        }
 
     def __len__(self):
         return len(self.stoi)
@@ -206,6 +253,7 @@ class LabelEncoder:
                   sentences: List[Sequence[str]],
                   padding: Optional[int] = None,
                   batch_first: bool = False,
+                  target: bool = False,
                   device: str = DEVICE) -> Tuple[torch.Tensor, torch.Tensor]:
         """ Transform a list of sentences into a batched Tensor with its tensor size
 
@@ -213,6 +261,7 @@ class LabelEncoder:
         :param padding: padding required (None if every sentence in the same size)
         :param batch_first: Whether we need [batch_size, sentence_len] instead of [sentence_len, batch_size]
         :param device: Torch device
+        :param target: Inform if the sequences to be transformed are ground truth
         :return: Transformed batch into tensor
         """
         max_len = (padding or len(sentences[0]))
@@ -225,13 +274,17 @@ class LabelEncoder:
 
         obligatory_tokens = 2  # Tokens for init and end of string
 
+        src = self.stoi
+        if target and self.masked:
+            src = self.mtoi
+
         # Packed sequence need to be in decreasing size order
         for current in sorted(sentences, key=lambda item: -len(item)):
             tensor.append(
                 # A sentence start with an init token
                 [self.init_token_index] +
                 # It's followed by each char index in the vocabulary
-                [self.stoi.get(char, self.unk_token_index) for char in current] +
+                [src.get(char, self.unk_token_index) for char in current] +
                 # Then we get the end of sentence milestone
                 [self.eos_token_index] +
                 # And we padd for what remains
@@ -256,10 +309,14 @@ class LabelEncoder:
             with torch.cuda.device_of(batch):
                 batch = batch.tolist()
 
+        source = self.itos
+        if self.masked:
+            source = self.itom
+
         if ignore:
             batch = [
                 [
-                    self.itos[ind]
+                    source[ind]
                     for ind in ex
                     if ind not in ignore
                 ]
@@ -268,7 +325,7 @@ class LabelEncoder:
         else:
             batch = [
                 [
-                    self.itos[ind]
+                    source[ind]
                     for ind in ex
                 ]
                 for ex in batch
@@ -307,6 +364,7 @@ class LabelEncoder:
                 "eos_token": self.eos_token,
                 "pad_token": self.pad_token,
                 "unk_token": self.unk_token,
+                "mask_token": self.mask_token,
                 "remove_diacriticals": self.remove_diacriticals,
                 "lower": self.lower
             }

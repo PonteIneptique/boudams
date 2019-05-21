@@ -50,6 +50,7 @@ class Seq2SeqTokenizer:
 
         self.vocabulary: LabelEncoder = vocabulary
         self.vocabulary_dimension: int = len(self.vocabulary)
+        self.masked: bool = self.vocabulary.masked
 
         self.device: str = device
         self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
@@ -70,6 +71,13 @@ class Seq2SeqTokenizer:
         self.out_max_sentence_length: int = out_max_sentence_length
         self.system: str = system
 
+        # Based on self.masked, decoder dimension can be drastically different
+        self.dec_dim: int = self.vocabulary_dimension
+        if self.masked:
+            self.dec_dim = len(self.vocabulary.itom)
+
+        self.mask_token = self.vocabulary.mask_token
+
         seq2seq_shared_params = {
             "pad_idx": self.padtoken,
             "sos_idx": self.sostoken,
@@ -88,7 +96,7 @@ class Seq2SeqTokenizer:
                 max_sentence_len=self.out_max_sentence_length
             )
             self.dec: gru.Decoder = conv.Decoder(
-                self.vocabulary_dimension, emb_dim=self.emb_dec_dim,
+                output_dim=self.dec_dim, emb_dim=self.emb_dec_dim,
                 hid_dim=self.dec_hid_dim, dropout=self.enc_dropout,
                 device=self.device, pad_idx=self.padtoken, kernel_size=self.enc_kernel_size,
                 n_layers=self.dec_n_layers, max_sentence_len=self.out_max_sentence_length
@@ -98,7 +106,7 @@ class Seq2SeqTokenizer:
         elif self.system == "gru":
             self.enc: gru.Encoder = gru.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
                                                 self.enc_dropout)
-            self.dec: gru.Decoder = gru.Decoder(self.vocabulary_dimension, self.emb_dec_dim, self.hidden_size,
+            self.dec: gru.Decoder = gru.Decoder(self.dec_dim, self.emb_dec_dim, self.hidden_size,
                                                 self.dec_dropout)
 
             self.model: gru.Seq2Seq = gru.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
@@ -112,7 +120,7 @@ class Seq2SeqTokenizer:
                 enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim
             )
             self.dec: gru.Decoder = bidir.Decoder(
-                self.vocabulary_dimension, emb_dim=self.emb_dec_dim,
+                output_dim=self.dec_dim, emb_dim=self.emb_dec_dim,
                 enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim, dropout=self.enc_dropout,
                 attention=self.attention
             )
@@ -121,7 +129,7 @@ class Seq2SeqTokenizer:
         else:
             self.enc: lstm.Encoder = lstm.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
                                                   self.enc_n_layers, self.enc_dropout)
-            self.dec: lstm.Decoder = lstm.Decoder(self.vocabulary_dimension, self.emb_dec_dim, self.hidden_size,
+            self.dec: lstm.Decoder = lstm.Decoder(self.dec_dim, self.emb_dec_dim, self.hidden_size,
                                                   self.dec_n_layers, self.dec_dropout)
             self.init_weights = lstm.init_weights
             self.model: lstm.Seq2Seq = lstm.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)

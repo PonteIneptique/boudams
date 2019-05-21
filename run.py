@@ -6,13 +6,16 @@ from boudams.trainer import Trainer
 from boudams.encoder import LabelEncoder, DatasetIterator
 
 logger = logging.getLogger()
-logger.setLevel(logging.DEBUG)
+logger.setLevel(logging.INFO)
 
 
 TEST = "seints"
 RANDOM = True
 DEVICE = "cuda"
-MAXIMUM_LENGTH = 150
+MAXIMUM_LENGTH = 100
+
+# Masked should not work given the fact that out_token_embedding is gonna be screwed
+MASKED = False
 
 if TEST is "seints":
     train_path, dev_path, test_path = "data/seints/train.tsv", "data/seints/dev.tsv", "data/seints/test.tsv"
@@ -21,7 +24,7 @@ elif TEST is True:
 else:
     train_path, dev_path, test_path = "data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
 
-vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH)
+vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH, masked=MASKED)
 vocabulary.build(train_path, dev_path, test_path, debug=True)
 
 logging.info(vocabulary.stoi)
@@ -30,6 +33,12 @@ logging.info(vocabulary.stoi)
 train_dataset: DatasetIterator = vocabulary.get_dataset(train_path, random=RANDOM)
 dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path, random=RANDOM)
 test_dataset: DatasetIterator = vocabulary.get_dataset(test_path, random=RANDOM)
+
+
+if MASKED:
+    train_dataset = train_dataset.get_masked()
+    dev_dataset = dev_dataset.get_masked()
+    test_dataset = test_dataset.get_masked()
 
 from pprint import pprint
 #pprint(vocabulary.vocab.freqs)
@@ -69,8 +78,8 @@ bigru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
 
 for settings, system, batch_size, train_dict in [
     conv,
-    gru,
-    lstm,
+    #gru,
+    #lstm,
     bigru
 ]:
     device = DEVICE

@@ -49,14 +49,14 @@ def convert(input_path: str, output_path: str, dict_reader: bool = True):
             with open(output_fp, "w") as output_fio:
 
                 sequence = []
-                MIN, MAX = 2, 15
+                MIN, MAX = 2, 10
                 MIN_CHAR_LENGTH = 7
-                MAX_CHAR_LENGTH = 150
+                MAX_CHAR_LENGTH = 100
                 RANDOM_KEEP = 0.3
                 NOISE_CHAR = "."
                 NOISE_CHAR_RANDOM = 0.2
-                MAX_NOISE_CHAR = 3
-                MAX_KEPT = 3
+                MAX_NOISE_CHAR = 2
+                MAX_KEPT = 1
 
                 next_sequence = random.randint(MIN, MAX)
                 if dict_reader:
@@ -104,7 +104,7 @@ def convert(input_path: str, output_path: str, dict_reader: bool = True):
 
                         # We randomly keep the last word for next sentence
                         if random.random() < RANDOM_KEEP:
-                            kept = max(int(len(sequence) / 2), random.randint(1, MAX_KEPT))
+                            kept = random.randint(1, MAX_KEPT) #min(int(len(sequence) / 2), random.randint(1, MAX_KEPT))
                             sequence = sequence[-kept:] + []
                         else:
                             sequence = []
@@ -129,7 +129,7 @@ def split(input_path, ratio: Tuple[float, float, float] = (0.8, 0.1, 0.1)):
     train_io = open(os.path.join(directory, "train.tsv"), "w")
 
     for file in glob.glob(input_path):
-        if os.path.basename(file) in ("test.tsv", "dev.tsv", "train.tsv"):
+        if os.path.basename(file) in ("test.tsv", "dev.tsv", "train.tsv") or ".masked" in file:
             continue
         lines = []
         max_tr, max_te, max_de = 0, 0, 0
@@ -158,7 +158,7 @@ def split(input_path, ratio: Tuple[float, float, float] = (0.8, 0.1, 0.1)):
                 tgt.write(line)
 
 
-def check(input_path, max_length=148):
+def check(input_path, max_length=100):
     files = ("test.tsv", "dev.tsv", "train.tsv")
     for file in files:
         max_chars, min_chars, min_words, max_words = 0, max_length, max_length, 0
