@@ -6,6 +6,7 @@ import logging
 import collections
 import random
 import json
+import unidecode
 
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -108,14 +109,15 @@ class DatasetIterator:
         return iterable
 
 
-
 class LabelEncoder:
     def __init__(self,
                  init_token=DEFAULT_INIT_TOKEN,
                  eos_token=DEFAULT_EOS_TOKEN,
                  pad_token=DEFAULT_PAD_TOKEN,
                  unk_token=DEFAULT_UNK_TOKEN,
-                 maximum_length: int = None
+                 maximum_length: int = None,
+                 lower: bool = True,
+                 remove_diacriticals: bool = True
                  ):
         self.init_token = init_token
         self.eos_token = eos_token
@@ -127,6 +129,8 @@ class LabelEncoder:
         self.unk_token_index = 3
         self.max_len: Optional[int] = maximum_length
         self.random = True
+        self.lower = lower
+        self.remove_diacriticals = remove_diacriticals
 
         self.itos: Dict[int, str] = {
             self.init_token_index: init_token,
@@ -184,7 +188,16 @@ class LabelEncoder:
         :param line:
         :return:
         """
-        x = line.strip().split("\t")
+        x = line.strip()
+
+        if self.lower:
+            x = x.lower()
+
+        if self.remove_diacriticals:
+            x = unidecode.unidecode(x)
+
+        x = x.split("\t")
+
         if self.max_len and len(x[0]) >= len(x[1]) > self.max_len:
             raise AssertionError("Data should be smaller than maximum length")
         return tuple(x[0]), tuple(x[1])
@@ -293,7 +306,9 @@ class LabelEncoder:
                 "init_token": self.init_token,
                 "eos_token": self.eos_token,
                 "pad_token": self.pad_token,
-                "unk_token": self.unk_token
+                "unk_token": self.unk_token,
+                "remove_diacriticals": self.remove_diacriticals,
+                "lower": self.lower
             }
         })
 

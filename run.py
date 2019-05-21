@@ -6,15 +6,17 @@ from boudams.trainer import Trainer
 from boudams.encoder import LabelEncoder, DatasetIterator
 
 logger = logging.getLogger()
-logger.setLevel(logging.CRITICAL)
+logger.setLevel(logging.DEBUG)
 
 
-TEST = True
+TEST = "seints"
 RANDOM = True
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 150
 
-if TEST is True:
+if TEST is "seints":
+    train_path, dev_path, test_path = "data/seints/train.tsv", "data/seints/dev.tsv", "data/seints/test.tsv"
+elif TEST is True:
     train_path, dev_path, test_path = "data/small/train.tsv", "data/small/dev.tsv", "data/small/test.tsv"
 else:
     train_path, dev_path, test_path = "data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
@@ -22,10 +24,12 @@ else:
 vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH)
 vocabulary.build(train_path, dev_path, test_path, debug=True)
 
+logging.info(vocabulary.stoi)
+
 # Get the datasets
-train_dataset: DatasetIterator = vocabulary.get_dataset(train_path, random=False)
-dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path, random=False)
-test_dataset: DatasetIterator = vocabulary.get_dataset(test_path, random=False)
+train_dataset: DatasetIterator = vocabulary.get_dataset(train_path, random=RANDOM)
+dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path, random=RANDOM)
+test_dataset: DatasetIterator = vocabulary.get_dataset(test_path, random=RANDOM)
 
 from pprint import pprint
 #pprint(vocabulary.vocab.freqs)

@@ -431,4 +431,5 @@ class Trainer(object):
 
         print(f'| Test Loss: {test_loss.loss:.3f} | Test PPL: {test_loss.perplexity:7.3f} |'
               f'Test Accuracy {test_loss.accuracy:.3f} |'
-              f'Test Levenshtein {test_loss.scorer.avg_levenshteins():.3f}')
+              f'Test Levenshtein {test_loss.scorer.avg_levenshteins():.3f}'
+              f'Test Levenshtein / Char {test_loss.leven_per_char:.3f}')

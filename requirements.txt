@@ -6,3 +6,5 @@ matplotlib==3.0.3
 torch>=1.0.1.post2
 torchtext==0.3.1
 tqdm>=4.31.1
+unidecode>=1.0.23
+leven
