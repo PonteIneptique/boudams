@@ -220,11 +220,16 @@ class Seq2SeqTokenizer:
         self.model.eval()
         for sentence in texts:
             tensor, sentence_length = self.vocabulary.tensorize(
-                [list(sentence)],
-                device=self.device
+                [list(self.vocabulary.prepare(sentence))],
+                device=self.device,
+                padding=self.out_max_sentence_length-len(sentence),
+                batch_first=self.model.batch_first
             )
 
-            tensor = self.model._reshape_input(tensor, None)
+            from .model.base import pprint_2d
+            #pprint_2d(tensor.t())
+            #print(sentence_length)
+
             logging.debug("Input Tensor {}".format(tensor.shape))
             logging.debug("Input Positions tensor {}".format(sentence_length.shape))
             translation_tensor_logits, attention = self.model(
@@ -232,8 +237,14 @@ class Seq2SeqTokenizer:
                 trg=None, teacher_forcing_ratio=0
             )
 
-            translation_tensor = self.model._reshape_output_for_scorer(translation_tensor_logits)
-            translation = self.vocabulary.reverse_batch(translation_tensor)[0]
+            translation_tensor = self.model.argmax(translation_tensor_logits)
+            #print(translation_tensor.shape)
+            #from .model.base import pprint_2d
+            #pprint_2d(translation_tensor.t())
+            translation = self.vocabulary.reverse_batch(
+                translation_tensor,
+                batch_first=self.model.batch_first
+            )[0]
 
             if attention is not None:
                 attention = attention[1:]

@@ -75,6 +75,10 @@ class Scorer(object):
         ):
             levenshteins.append(levenshtein(tr_true, tr_pred))
             leven_per_char.append(levenshteins[-1] / len(tr_true))
+            if random.random() < 0.05:
+                logging.debug("EXP:" + "".join(tr_true))
+                logging.debug("OUT:" + "".join(tr_pred))
+                logging.debug("---")
 
         self.scores = self._score_tuple(statistics.mean(accuracy),
                                         statistics.mean(levenshteins),
@@ -95,8 +99,7 @@ class Scorer(object):
             self.compute()
         return self.scores.leven_per_char
 
-
-    def register_batch(self, hypotheses, targets, verbose: bool = True, remove_first: bool = False):
+    def register_batch(self, hypotheses, targets, verbose: bool = True):
         """
         hyps : list
         targets : list
@@ -106,14 +109,14 @@ class Scorer(object):
         """
         # Makes numbers become STRINGS !
         out, exp = hypotheses.t(), targets.t()
-        start_index = int(remove_first)
+
         with torch.cuda.device_of(out):
             out = out.tolist()
         with torch.cuda.device_of(exp):
             exp = exp.tolist()
 
         for y_true, y_pred in zip(exp, out):
-            self.trues.append(y_true[start_index:])
+            self.trues.append(y_true)
             self.preds.append(y_pred)
 
 
@@ -232,6 +235,7 @@ class Trainer(object):
                       f' Acc.: {train_score.accuracy:.3f} | '
                       f' Lev.: {train_score.leven:.3f} | '
                       f' Lev. / char: {train_score.leven_per_char:.3f}')
+
                 print(f'\t Val. Loss: {dev_score.loss:.3f} | Perplexity: {dev_score.perplexity:7.3f} | '
                       f' Acc.: {dev_score.accuracy:.3f} | '
                       f' Lev.: {dev_score.leven:.3f} | '
@@ -320,7 +324,11 @@ class Trainer(object):
 
         scorer = Scorer(self.tagger)
 
-        batch_generator = iterator.get_epoch(batch_size=batch_size, device=self.device)
+        batch_generator = iterator.get_epoch(
+            batch_size=batch_size,
+            device=self.device,
+            batch_first=self.tagger.model.batch_first
+        )
         batches = batch_generator()
 
         for batch_index in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
@@ -355,7 +363,11 @@ class Trainer(object):
         scorer = Scorer(self.tagger)
 
         with torch.no_grad():
-            batch_generator = iterator.get_epoch(batch_size=batch_size, device=self.device)
+            batch_generator = iterator.get_epoch(
+                batch_size=batch_size,
+                device=self.device,
+                batch_first=self.tagger.model.batch_first
+            )
             batches = batch_generator()
 
             for _ in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
@@ -380,7 +392,7 @@ class Trainer(object):
 
         test_loss = self.evaluate(test_dataset, criterion, desc="Test", batch_size=batch_size)
 
-        print(f'| Test Loss: {test_loss.loss:.3f} | Test PPL: {test_loss.perplexity:7.3f} |'
-              f'Test Accuracy {test_loss.accuracy:.3f} |'
-              f'Test Levenshtein {test_loss.scorer.avg_levenshteins():.3f}'
+        print(f'| Test Loss: {test_loss.loss:.3f} | Test PPL: {test_loss.perplexity:7.3f} | '
+              f'Test Accuracy {test_loss.accuracy:.3f} | '
+              f'Test Levenshtein {test_loss.scorer.avg_levenshteins():.3f} | '
               f'Test Levenshtein / Char {test_loss.leven_per_char:.3f}')

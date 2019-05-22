@@ -97,7 +97,7 @@ class DatasetIterator:
                 fio.seek(line_start)
                 yield self._l_e.readunit(fio.readline().decode("utf-8").strip())
 
-    def get_epoch(self, device: str = DEVICE, batch_size: int = 32) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
+    def get_epoch(self, device: str = DEVICE, batch_size: int = 32, batch_first: bool = False) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
         # If the batch size is not the original one (most probably is !)
         if batch_size != self.batch_size:
             self.reset_batch_size(batch_size)
@@ -121,8 +121,10 @@ class DatasetIterator:
                     y_trues.append(y)
 
                 yield (
-                    *self._l_e.tensorize(xs, padding=max_len_x, device=device),
-                    *self._l_e.tensorize(y_trues, padding=max_len_y, device=device, target=True)
+                    *self._l_e.tensorize(
+                        xs, padding=max_len_x, device=device, batch_first=batch_first),
+                    *self._l_e.tensorize(
+                        y_trues, padding=max_len_y, device=device, target=True, batch_first=batch_first)
                 )
 
         return iterable
@@ -254,6 +256,14 @@ class LabelEncoder:
         if self.max_len and len(x[0]) >= len(x[1]) > self.max_len:
             raise AssertionError("Data should be smaller than maximum length")
         return tuple(x[0]), tuple(x[1])
+
+    def prepare(self, x: str):
+        if self.lower:
+            x = x.lower()
+
+        if self.remove_diacriticals:
+            x = unidecode.unidecode(x)
+        return x
 
     def tensorize(self,
                   sentences: List[Sequence[str]],

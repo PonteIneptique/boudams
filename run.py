@@ -10,7 +10,7 @@ logger.setLevel(logging.INFO)
 
 
 TEST = "seints"
-RANDOM = False
+RANDOM = True
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 100
 LOAD_VOCABULARY = True
@@ -67,11 +67,11 @@ def examples(obj):
     treated = obj.annotate([x[0] for x in example_sentences])
 
     for (inp, exp), out in zip(example_sentences, treated):
-        logger.debug("----")
-        logger.debug("Inp " + inp)
-        logger.debug("Exp " + exp)
-        logger.debug("Out " + out)
-        logger.debug("----")
+        logger.info("----")
+        logger.info("Inp " + inp)
+        logger.info("Exp " + exp)
+        logger.info("Out " + out)
+        logger.info("----")
 
 
 conv = (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256,
@@ -87,24 +87,26 @@ bigru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
 
 
 for settings, system, batch_size, train_dict in [
-    #conv,
+    conv,
     #gru,
-    lstm,
+    #lstm,
     #bigru
 ]:
-    device = DEVICE
-    tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=MAXIMUM_LENGTH
-                              , **settings)
-    trainer = Trainer(tagger, device=device)
-    print(tagger.model)
-    print()
-    trainer.run(
-        train_dataset, dev_dataset, n_epochs=100,
-        fpath="models/"+system+str(datetime.datetime.today()).replace(" ", "--").split(".")[0]+".tar",
-        batch_size=batch_size,
-        debug=examples,
-        **train_dict
-    )
+    for lr in (0.0001, 0.0005, 0.00075):
+        device = DEVICE
+        tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=MAXIMUM_LENGTH
+                                  , **settings)
+        trainer = Trainer(tagger, device=device)
+        print(tagger.model)
+        print()
+        train_dict["lr"] = lr
+        trainer.run(
+            train_dataset, dev_dataset, n_epochs=100,
+            fpath="models/"+system+str(datetime.datetime.today()).replace(" ", "--").split(".")[0]+"-"+str(lr)+".tar",
+            batch_size=batch_size,
+            debug=examples,
+            **train_dict
+        )
 
 #    src = batch.src l.198 evaluate
 # AttributeError: 'BucketIterator' object has no attribute 'src'

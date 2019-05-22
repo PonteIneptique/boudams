@@ -3,8 +3,14 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import random
 
-from .base import BaseSeq2SeqModel
+from .base import BaseSeq2SeqModel, pprint_2d, pprint_1d
+
+
+from typing import TYPE_CHECKING
+if TYPE_CHECKING:
+    from ..trainer import Scorer
 
 
 class Encoder(nn.Module):
@@ -242,10 +248,14 @@ class Decoder(nn.Module):
         return output, attention
 
 
-class Seq2Seq(nn.Module, BaseSeq2SeqModel):
+class Seq2Seq(BaseSeq2SeqModel):
     remove_first = True
+    batch_first = True
 
-    def __init__(self, encoder, decoder, device, pad_idx, sos_idx, eos_idx, out_max_sentence_length=150):
+    def __init__(self, encoder: Encoder, decoder: Decoder,
+                 device: str,
+                 pad_idx: int, sos_idx: int, eos_idx: int,
+                 out_max_sentence_length: int = 150):
         super().__init__()
 
         self.out_max_sentence_length = out_max_sentence_length
@@ -258,14 +268,22 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
         self.eos_idx = eos_idx
         self.device = device
 
-    def forward(self, src, src_len, trg, teacher_forcing_ratio=0.5):
+    def forward(self, src, src_len, trg, teacher_forcing_ratio=0.3, **kwargs):
         # src = [batch size, src sent len]
         # trg = [batch size, trg sent len]
 
         if trg is None:
-            trg = torch.zeros(
-                (src.shape[0], self.out_max_sentence_length)
-            ).long().fill_(self.sos_idx).to(self.device)
+            #trg = src
+            #print(src.shape)
+            trg = F.pad(src, (0, self.out_max_sentence_length - src.shape[1]), value=self.pad_idx)
+            #trg = torch.zeros(
+            #    (src.shape[0], self.out_max_sentence_length)
+            #).long().to(self.device) + src
+        else:
+            #print(src.shape)
+            # This is somewhat bad because it turns teacher forcing on the WHOLE batcxh
+            if teacher_forcing_ratio > random.random():
+                trg = F.pad(src, (0, trg.shape[1] - src.shape[1]), value=self.pad_idx)
 
         # calculate z^u (encoder_conved) and e (encoder_combined)
         # encoder_conved is output from final encoder conv. block
@@ -285,19 +303,65 @@ class Seq2Seq(nn.Module, BaseSeq2SeqModel):
         return output, attention
 
     @staticmethod
-    def _reshape_input(src: torch.Tensor, trg: torch.Tensor):
-        if trg is None:
-            return src.transpose(1, 0)
-        return src.transpose(1, 0), trg.transpose(1, 0)[:, :-1]
+    def argmax(out: torch.Tensor):
+        return torch.argmax(out, 2)
 
-    @staticmethod
-    def _reshape_out_for_loss(out: torch.Tensor, trg: torch.Tensor):
-        return out.contiguous().view(-1, out.shape[-1]), \
-                trg.transpose(1, 0)[:, 1:].contiguous().view(-1)
+    def predict(self, src, src_len):
+        """
 
-    @staticmethod
-    def _reshape_output_for_scorer(out: torch.Tensor, trg: torch.Tensor = None):
-        # Remove the score from every prediction, keep the best one
-        if trg is not None:
-            return torch.argmax(out, 2).transpose(1, 0), trg
-        return torch.argmax(out, 2).transpose(1, 0)
+        :param src: (batch_size x sentence_length)
+        :param src_len: tensor(batch_size)
+        :return: tensor(batch_size x output_length)
+        """
+
+    def gradient(
+        self,
+        src, src_len, trg=None,
+        scorer: "Scorer" = None, criterion=None,
+        evaluate: bool = False,
+        **kwargs
+    ):
+        """
+
+        :param src: tensor(batch size x sentence length)
+        :param src_len: tensor(batch_size)
+        :param trg: tensor(batch_size x output_length)
+        :param scorer: Scorer
+        :param criterion: Loss System
+        :param evaluate: Whether we are in eval mode
+        :param kwargs:
+        :return: tensor(batch_size x output_length)
+        """
+
+        output, attention = self(src, src_len, trg[:, 1:])
+
+        # We register the current batch
+        #  For this to work, we get ONLY the best score of output which mean we need to argmax
+        #   at the second layer (base 0 I believe)
+        # We basically get the best match at the output dim layer : the best character.
+
+        # The prediction and ground truth batches NECESSARLY starts by "0" where
+        #    0 is the SOS token. In order to have a score independant from hardcoded ints,
+        #    we remove the first element of each sentence
+
+        scorer.register_batch(
+            torch.argmax(output, 2).t(),
+            trg[:, 1:].t()
+        )
+
+        # trg = [trg sent len, batch size]
+        # output = [trg sent len, batch size, output dim]
+
+        # trg = [(trg sent len - 1) * batch size]
+        # output = [(trg sent len - 1) * batch size, output dim]
+
+        # About contiguous : https://stackoverflow.com/questions/48915810/pytorch-contiguous
+        # Basically, elements of the tensor are spread over memory and to make it VERY simple, it's a bit like
+        #   deepcopy.
+
+        loss = criterion(
+            output.contiguous().view(-1, output.shape[-1]),
+            trg[:, 1:].contiguous().view(-1)
+        )
+
+        return loss

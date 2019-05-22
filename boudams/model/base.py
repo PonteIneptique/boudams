@@ -1,11 +1,15 @@
 import torch
+import torch.nn as nn
 
+from typing import TYPE_CHECKING
+if TYPE_CHECKING:
+    from ..trainer import Scorer
 
 pprint_2d = lambda x: [line for line in x.t().tolist() if not print(line)]
 pprint_1d = lambda x: print(x.tolist())
 
 
-class BaseSeq2SeqModel:
+class BaseSeq2SeqModel(nn.Module):
     """
     This contains base functionality to avoid some mystical conditions here and there
 
@@ -14,13 +18,33 @@ class BaseSeq2SeqModel:
 
     use_init: bool = True
     use_eos: bool = True
+    batch_first = False
 
-    def compute(
+    def predict(self, src, src_len) -> torch.Tensor:
+        """ Predicts value for a given tensor
+
+        :param src: tensor(sentence len x batch size)
+        :param src_len: tensor(batch size)
+        :return:  tensor(output len x batch size)
+        """
+        return self(src, src_len, None, teacher_forcing_ratio=0)[0]
+
+    def gradient(
         self,
         src, src_len, trg=None,
-        scorer=None, criterion=None,
+        scorer: "Scorer" = None, criterion=None,
         evaluate: bool = False
     ):
+        """ Performs a gradient on a batch
+
+        :param src: tensor(sentence len x batch size)
+        :param src_len: tensor(batch size)
+        :param trg: Optional[tensor(output length x batch_size)]
+        :param scorer: Scorer to register batches
+        :param criterion: Loss
+        :param evaluate: Whether or not we evaluate things
+        :return: tensor(output length x batch size x decoder dimension)
+        """
 
         kwargs = {}
         if evaluate:
@@ -58,3 +82,7 @@ class BaseSeq2SeqModel:
         )
 
         return loss
+
+    @staticmethod
+    def argmax(out: torch.Tensor):
+        return torch.argmax(out, 2)[1:].t()
