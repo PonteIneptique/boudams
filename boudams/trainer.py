@@ -99,21 +99,16 @@ class Scorer(object):
             self.compute()
         return self.scores.leven_per_char
 
-    def register_batch(self, hypotheses, targets, verbose: bool = True):
+    def register_batch(self, hypotheses, targets):
         """
-        hyps : list
-        targets : list
-        tokens : list
-        remove_first: bool : Remove the first element to have score non influenced by static insert,
-            in the case of non-convs models, <SOS> is added by hand for prediction.
-        """
-        # Makes numbers become STRINGS !
-        out, exp = hypotheses.t(), targets.t()
 
-        with torch.cuda.device_of(out):
-            out = out.tolist()
-        with torch.cuda.device_of(exp):
-            exp = exp.tolist()
+        :param hypotheses: tensor(batch size x sentence length)
+        :param targets: tensor(batch size x sentence length)
+        """
+        with torch.cuda.device_of(hypotheses):
+            out = hypotheses.tolist()
+        with torch.cuda.device_of(targets):
+            exp = targets.tolist()
 
         for y_true, y_pred in zip(exp, out):
             self.trues.append(y_true)
@@ -326,8 +321,7 @@ class Trainer(object):
 
         batch_generator = iterator.get_epoch(
             batch_size=batch_size,
-            device=self.device,
-            batch_first=self.tagger.model.batch_first
+            device=self.device
         )
         batches = batch_generator()
 
@@ -336,7 +330,7 @@ class Trainer(object):
 
             optimizer.zero_grad()
 
-            loss = self.tagger.model.compute(
+            loss = self.tagger.model.gradient(
                 src, src_len, trg,
                 scorer=scorer, criterion=criterion
             )
@@ -365,15 +359,14 @@ class Trainer(object):
         with torch.no_grad():
             batch_generator = iterator.get_epoch(
                 batch_size=batch_size,
-                device=self.device,
-                batch_first=self.tagger.model.batch_first
+                device=self.device
             )
             batches = batch_generator()
 
             for _ in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
                 src, src_len, trg, _ = next(batches)
 
-                loss = self.tagger.model.compute(
+                loss = self.tagger.model.gradient(
                     src, src_len, trg,
                     scorer=scorer, criterion=criterion,
                     evaluate=True

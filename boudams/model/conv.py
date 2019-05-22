@@ -249,8 +249,6 @@ class Decoder(nn.Module):
 
 
 class Seq2Seq(BaseSeq2SeqModel):
-    remove_first = True
-    batch_first = True
 
     def __init__(self, encoder: Encoder, decoder: Decoder,
                  device: str,
@@ -302,17 +300,17 @@ class Seq2Seq(BaseSeq2SeqModel):
         # attention = [batch size, trg sent len, src sent len]
         return output, attention
 
-    @staticmethod
-    def argmax(out: torch.Tensor):
-        return torch.argmax(out, 2)
+    def predict(self, src, src_len, label_encoder: "LabelEncoder") -> torch.Tensor:
+        """ Predicts value for a given tensor
 
-    def predict(self, src, src_len):
+        :param src: tensor(batch size x sentence_length)
+        :param src_len: tensor(batch size)
+        :param label_encoder: Encoder
+        :return: Reversed Batch
         """
-
-        :param src: (batch_size x sentence_length)
-        :param src_len: tensor(batch_size)
-        :return: tensor(batch_size x output_length)
-        """
+        out = self(src, src_len, None, teacher_forcing_ratio=0)[0]
+        logits = torch.argmax(out, 2)
+        return label_encoder.reverse_batch(logits)
 
     def gradient(
         self,
@@ -345,8 +343,8 @@ class Seq2Seq(BaseSeq2SeqModel):
         #    we remove the first element of each sentence
 
         scorer.register_batch(
-            torch.argmax(output, 2).t(),
-            trg[:, 1:].t()
+            torch.argmax(output, 2),
+            trg[:, 1:]
         )
 
         # trg = [trg sent len, batch size]

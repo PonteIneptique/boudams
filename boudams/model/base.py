@@ -1,9 +1,10 @@
 import torch
 import torch.nn as nn
 
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, List
 if TYPE_CHECKING:
     from ..trainer import Scorer
+    from ..encoder import LabelEncoder
 
 pprint_2d = lambda x: [line for line in x.t().tolist() if not print(line)]
 pprint_1d = lambda x: print(x.tolist())
@@ -18,16 +19,19 @@ class BaseSeq2SeqModel(nn.Module):
 
     use_init: bool = True
     use_eos: bool = True
-    batch_first = False
 
-    def predict(self, src, src_len) -> torch.Tensor:
+    def predict(self, src, src_len, label_encoder: "LabelEncoder") -> List[List[str]]:
         """ Predicts value for a given tensor
 
-        :param src: tensor(sentence len x batch size)
+        :param src: tensor(batch size x sentence_length)
         :param src_len: tensor(batch size)
-        :return:  tensor(output len x batch size)
+        :param label_encoder: Encoder
+        :return: tensor(batch_size x sentence_length)
         """
-        return self(src, src_len, None, teacher_forcing_ratio=0)[0]
+        out, _ = self(src.t(), src_len, None, teacher_forcing_ratio=0)
+        # Out is (sentence_length, batch_size) so we transpose it
+        logits = torch.argmax(out, 2)[1:].t()  # Remove SOS token
+        return label_encoder.reverse_batch(logits)
 
     def gradient(
         self,
@@ -37,14 +41,16 @@ class BaseSeq2SeqModel(nn.Module):
     ):
         """ Performs a gradient on a batch
 
-        :param src: tensor(sentence len x batch size)
+        :param src: tensor(sentence length x batch_size)
         :param src_len: tensor(batch size)
-        :param trg: Optional[tensor(output length x batch_size)]
+        :param trg: Optional[tensor(sentence length x batch size)]
         :param scorer: Scorer to register batches
         :param criterion: Loss
         :param evaluate: Whether or not we evaluate things
         :return: tensor(output length x batch size x decoder dimension)
         """
+
+        src, trg = src.t(), trg.t()
 
         kwargs = {}
         if evaluate:
@@ -52,19 +58,9 @@ class BaseSeq2SeqModel(nn.Module):
 
         output, attention = self(src, src_len, trg, **kwargs)
 
-        # We register the current batch
-        #  For this to work, we get ONLY the best score of output which mean we need to argmax
-        #   at the second layer (base 0 I believe)
-        # We basically get the best match at the output dim layer : the best character.
-
-        # The prediction and ground truth batches NECESSARLY starts by "0" where
-        #    0 is the SOS token. In order to have a score independant from hardcoded ints,
-        #    we remove the first element of each sentence
-
         scorer.register_batch(
-            torch.argmax(output, 2)[1:],
-            trg[1:],
-            remove_first=self.remove_first
+            torch.argmax(output, 2).t(),
+            trg.t()
         )
 
         # trg = [trg sent len, batch size]
@@ -82,7 +78,3 @@ class BaseSeq2SeqModel(nn.Module):
         )
 
         return loss
-
-    @staticmethod
-    def argmax(out: torch.Tensor):
-        return torch.argmax(out, 2)[1:].t()

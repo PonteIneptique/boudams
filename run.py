@@ -6,7 +6,7 @@ from boudams.trainer import Trainer
 from boudams.encoder import LabelEncoder, DatasetIterator
 
 logger = logging.getLogger()
-logger.setLevel(logging.INFO)
+logger.setLevel(logging.DEBUG)
 
 
 TEST = "seints"
@@ -14,8 +14,8 @@ RANDOM = True
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 100
 LOAD_VOCABULARY = True
-
-
+LRS = (0.0001, 0.0005, 0.00075)
+LRS = (0.0001, )
 # Masked should not work given the fact that out_token_embedding is gonna be screwed
 MASKED = False
 
@@ -87,12 +87,12 @@ bigru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
 
 
 for settings, system, batch_size, train_dict in [
-    conv,
+    #conv,
     #gru,
-    #lstm,
+    lstm,
     #bigru
 ]:
-    for lr in (0.0001, 0.0005, 0.00075):
+    for lr in LRS:
         device = DEVICE
         tagger = Seq2SeqTokenizer(vocabulary, device=device, system=system, out_max_sentence_length=MAXIMUM_LENGTH
                                   , **settings)

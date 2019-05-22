@@ -20,13 +20,12 @@ DEFAULT_MASK_TOKEN = "x"
 class DatasetIterator:
     def __init__(self, label_encoder: "LabelEncoder", file,
                  batch_size: int = 32,
-                 batch_first: bool = False, randomized: bool = False):
+                 randomized: bool = False):
         self._l_e = label_encoder
 
         self.line_starts_offsets: List[int] = []
         self.current_epoch: List[tuple, int] = []
         self.random = randomized
-        self.batch_first = batch_first
         self.file = file
         self.batch_count = 0
         self.batch_size = batch_size
@@ -48,15 +47,15 @@ class DatasetIterator:
                     out_io.write(x+"\t"+y+"\n")
         return DatasetIterator(
             self._l_e, self.file+".masked",
-            self.batch_size, self.batch_first, randomized=self.random
+            self.batch_size,
+            randomized=self.random
         )
 
     def __repr__(self):
         return "<DatasetIterator lines='{}' random='{}' \n" \
-               "\tbatch_first='{}' batches='{}' batch_size='{}'/>".format(
+               "\t batches='{}' batch_size='{}'/>".format(
                     len(self.line_starts_offsets),
                     self.random,
-                    self.batch_first,
                     self.batch_count,
                     self.batch_size
                 )
@@ -97,7 +96,7 @@ class DatasetIterator:
                 fio.seek(line_start)
                 yield self._l_e.readunit(fio.readline().decode("utf-8").strip())
 
-    def get_epoch(self, device: str = DEVICE, batch_size: int = 32, batch_first: bool = False) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
+    def get_epoch(self, device: str = DEVICE, batch_size: int = 32) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
         # If the batch size is not the original one (most probably is !)
         if batch_size != self.batch_size:
             self.reset_batch_size(batch_size)
@@ -122,9 +121,9 @@ class DatasetIterator:
 
                 yield (
                     *self._l_e.tensorize(
-                        xs, padding=max_len_x, device=device, batch_first=batch_first),
+                        xs, padding=max_len_x, device=device),
                     *self._l_e.tensorize(
-                        y_trues, padding=max_len_y, device=device, target=True, batch_first=batch_first)
+                        y_trues, padding=max_len_y, device=device, target=True)
                 )
 
         return iterable
@@ -268,7 +267,6 @@ class LabelEncoder:
     def tensorize(self,
                   sentences: List[Sequence[str]],
                   padding: Optional[int] = None,
-                  batch_first: bool = False,
                   target: bool = False,
                   device: str = DEVICE) -> Tuple[torch.Tensor, torch.Tensor]:
         """ Transform a list of sentences into a batched Tensor with its tensor size
@@ -310,19 +308,12 @@ class LabelEncoder:
             )
             lengths.append(len(tensor[-1]) - max(0, max_len - len(current)))
 
-        tensor = torch.tensor(tensor).to(device)
+        return torch.tensor(tensor).to(device), torch.tensor(lengths).to(device)
 
-        if not batch_first:
-            # [sentence_len, batch_size]
-            return tensor.t(), torch.tensor(lengths).to(device)
-        return tensor, torch.tensor(lengths).to(device)
-
-    def reverse_batch(self, batch: Union[list, torch.Tensor], batch_first=False,
+    def reverse_batch(self, batch: Union[list, torch.Tensor],
                       ignore: Optional[Tuple[str, ...]] = None):
         # If dimension is [sentence_len, batch_size]
         if not isinstance(batch, list):
-            if not batch_first:
-                batch = batch.t()
 
             with torch.cuda.device_of(batch):
                 batch = batch.tolist()

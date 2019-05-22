@@ -219,11 +219,11 @@ class Seq2SeqTokenizer:
     def annotate(self, texts: List[str]):
         self.model.eval()
         for sentence in texts:
+
             tensor, sentence_length = self.vocabulary.tensorize(
                 [list(self.vocabulary.prepare(sentence))],
                 device=self.device,
-                padding=self.out_max_sentence_length-len(sentence),
-                batch_first=self.model.batch_first
+                padding=self.out_max_sentence_length-len(sentence)
             )
 
             from .model.base import pprint_2d
@@ -232,20 +232,9 @@ class Seq2SeqTokenizer:
 
             logging.debug("Input Tensor {}".format(tensor.shape))
             logging.debug("Input Positions tensor {}".format(sentence_length.shape))
-            translation_tensor_logits, attention = self.model(
-                tensor, sentence_length,
-                trg=None, teacher_forcing_ratio=0
+
+            translation = self.model.predict(
+                tensor, sentence_length, label_encoder=self.vocabulary
             )
 
-            translation_tensor = self.model.argmax(translation_tensor_logits)
-            #print(translation_tensor.shape)
-            #from .model.base import pprint_2d
-            #pprint_2d(translation_tensor.t())
-            translation = self.vocabulary.reverse_batch(
-                translation_tensor,
-                batch_first=self.model.batch_first
-            )[0]
-
-            if attention is not None:
-                attention = attention[1:]
-            yield "".join(translation)#, attention
+            yield "".join(translation[0])

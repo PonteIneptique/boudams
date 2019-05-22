@@ -21,7 +21,7 @@ else:
     train_path, dev_path, test_path = "data/fro/train.tsv", "data/fro/dev.tsv", "data/fro/test.tsv"
 
 
-for model in glob.glob("/home/thibault/dev/boudams/models/conv2019-05-21--16:58:41.tar"):
+for model in glob.glob("/home/thibault/dev/boudams/models/lstm2019-05-22--09:23:38-0.0001.tar"):
     tokenizer = Seq2SeqTokenizer.load(model, device=DEVICE)
     print("Model : " + tokenizer.system.upper() + " from  " + model)
     test_data = tokenizer.vocabulary.get_dataset(test_path, randomized=False)
