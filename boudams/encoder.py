@@ -418,24 +418,28 @@ if __name__ == "__main__":
     label_encoder = LabelEncoder()
     label_encoder.build(*glob.glob("test_data/*.tsv"), debug=True)
 
-    dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", random=False)
+    dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", randomized=False)
 
-    epoch_batches = dataset.get_epoch(batch_size=2)
+    epoch_batches = dataset.get_epoch(batch_size=2)()
     x, x_len, y, y_len = next(epoch_batches)
 
-    assert tuple(x.shape) == (30, 2), "X shape should be (30, 2), got {}".format(tuple(x.shape))
-    assert tuple(y.shape) == (35, 2), "Y shape should be right"
+    assert tuple(x.shape) == (2, 28), "X shape should be (28, 2), got {}".format(tuple(x.shape))
+    assert tuple(y.shape) == (2, 33), "Y shape should be right"
 
     assert label_encoder.reverse_batch(y) == [
-        ['<SOS>', 's', 'i', ' ', 't', 'e', ' ', 'd', 'e', 's', 'e', 'n', 'í', 'v', 'e', 'r', 'a', 's', ' ', 'p', 'a',
-         'r', ' ', 'l', 'e', ' ', 'd', 'o', 'r', 'm', 'i', 'r', '<EOS>', '<PAD>', '<PAD>'],
-        ['<SOS>', 'L', 'a', ' ', 'd', 'a', 'm', 'e', ' ', 'h', 'a', 'i', 't', 'é', 'é', ' ', 's', "'", 'e', 'n', ' ',
-         'p', 'a', 'r', 't', 'i', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>']
+        [
+            '<SOS>', 's', 'i', ' ', 't', 'e', ' ', 'd', 'e', 's', 'e', 'n', 'i', 'v', 'e', 'r', 'a', 's', ' ', 'p', 'a',
+            'r', ' ', 'l', 'e', ' ', 'd', 'o', 'r', 'm', 'i', 'r', '<EOS>']
+        ,
+        [
+            '<SOS>', 'l', 'a', ' ', 'd', 'a', 'm', 'e', ' ', 'h', 'a', 'i', 't', 'e', 'e', ' ', 's', "'", 'e', 'n', ' ',
+            'p', 'a', 'r', 't', 'i', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>'
+        ]
     ]
 
     assert list(label_encoder.transcribe_batch(label_encoder.reverse_batch(x))) == [
-        "sitedeseníverasparledormir",
-        "Ladamehaitéés'enparti"
+        "sitedeseniverasparledormir",
+        "ladamehaitees'enparti"
     ]
 
     dumped = label_encoder.dump()

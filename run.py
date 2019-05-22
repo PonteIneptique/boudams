@@ -87,9 +87,9 @@ bigru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
 
 
 for settings, system, batch_size, train_dict in [
-    conv,
+    #conv,
     #gru,
-    #lstm,
+    lstm,
     #bigru
 ]:
     for lr in LRS:
