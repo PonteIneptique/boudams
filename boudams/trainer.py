@@ -26,9 +26,10 @@ from boudams.dataset import Dataset
 from boudams.tagger import Seq2SeqTokenizer, DEVICE
 from boudams.encoder import DatasetIterator
 import boudams.utils as utils
-
+import os
 
 INVALID = "<INVALID>"
+DEBUG = bool(os.getenv("DEBUG"))
 Score = namedtuple("Score", ["loss", "perplexity", "accuracy", "leven", "leven_per_char", "scorer"])
 
 
@@ -75,7 +76,7 @@ class Scorer(object):
         ):
             levenshteins.append(levenshtein(tr_true, tr_pred))
             leven_per_char.append(levenshteins[-1] / len(tr_true))
-            if random.random() < 0.05:
+            if DEBUG and random.random() < 0.05:
                 logging.debug("EXP:" + "".join(tr_true))
                 logging.debug("OUT:" + "".join(tr_pred))
                 logging.debug("---")

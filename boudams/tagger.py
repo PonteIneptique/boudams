@@ -1,6 +1,5 @@
 import torch
 import torch.cuda
-import dill
 
 from torchtext.data import ReversibleField, BucketIterator
 
@@ -11,7 +10,6 @@ import logging
 from typing import List, Tuple
 
 from .model import gru, lstm, bidir, conv
-from .dataset import build_vocab, CharacterField, TabularDataset as Dataset, get_datasets, InputDataset
 from . import utils
 
 from .encoder import LabelEncoder, DatasetIterator
@@ -220,8 +218,9 @@ class Seq2SeqTokenizer:
         self.model.eval()
         for sentence in texts:
 
-            tensor, sentence_length = self.vocabulary.tensorize(
-                [list(self.vocabulary.prepare(sentence))],
+            # it would be good at some point to keep and use order to batchify this
+            tensor, sentence_length, _ = self.vocabulary.pad_and_tensorize(
+                [self.vocabulary.inp_to_numerical(self.vocabulary.prepare(sentence))[0]],
                 device=self.device,
                 padding=self.out_max_sentence_length-len(sentence)
             )

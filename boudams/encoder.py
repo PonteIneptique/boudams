@@ -17,13 +17,16 @@ DEFAULT_UNK_TOKEN = "<UNK>"
 DEFAULT_MASK_TOKEN = "x"
 
 
+GT_PAIR = collections.namedtuple("GT", ("x", "x_length", "y", "y_length"))
+
+
 class DatasetIterator:
     def __init__(self, label_encoder: "LabelEncoder", file,
                  batch_size: int = 32,
                  randomized: bool = False):
         self._l_e = label_encoder
 
-        self.line_starts_offsets: List[int] = []
+        self.encoded: List[GT_PAIR] = []
         self.current_epoch: List[tuple, int] = []
         self.random = randomized
         self.file = file
@@ -54,14 +57,16 @@ class DatasetIterator:
     def __repr__(self):
         return "<DatasetIterator lines='{}' random='{}' \n" \
                "\t batches='{}' batch_size='{}'/>".format(
-                    len(self.line_starts_offsets),
+                    len(self),
                     self.random,
                     self.batch_count,
                     self.batch_size
                 )
 
     def __len__(self):
-        return len(self.line_starts_offsets)
+        """ Number of examples
+        """
+        return len(self.encoded)
 
     def _setup(self):
         """ The way this whole iterator works is pretty simple :
@@ -70,31 +75,24 @@ class DatasetIterator:
         is gonna cut utf-8 chars in the middle
         """
         logging.info("DatasetIterator reading indexes of lines")
-        with open(self.file, "rb") as fio:
-            offset = 0
-            for line in fio:
-                if line.strip():  # if line is not empty
-                    self.line_starts_offsets.append(offset)
-                offset += len(line)
+        with open(self.file, "r") as fio:
+            for line in fio.readlines():
+                x, y = self._l_e.readunit(line.strip())
+                self.encoded.append(
+                    GT_PAIR(
+                        *self._l_e.inp_to_numerical(x),
+                        *self._l_e.gt_to_numerical(y)
+                    )
+                )
 
-        logging.info("DatasetIterator found {} lines in {}".format(self.length, self.file))
+        logging.info("DatasetIterator found {} lines in {}".format(len(self), self.file))
 
         # Get the number of batch for TQDM
-        self.batch_count = self.length // self.batch_size + bool(self.length % self.batch_size)
-
-    @property
-    def length(self):
-        return len(self.line_starts_offsets)
+        self.batch_count = len(self) // self.batch_size + bool(len(self) % self.batch_size)
 
     def reset_batch_size(self, batch_size):
         self.batch_size = batch_size
-        self.batch_count = self.length // self.batch_size + bool(self.length % self.batch_size)
-
-    def get_line(self, *line_index):
-        with open(self.file, "rb") as fio:
-            for line_start in line_index:
-                fio.seek(line_start)
-                yield self._l_e.readunit(fio.readline().decode("utf-8").strip())
+        self.batch_count = len(self) // self.batch_size + bool(len(self) % self.batch_size)
 
     def get_epoch(self, device: str = DEVICE, batch_size: int = 32) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
         # If the batch size is not the original one (most probably is !)
@@ -102,7 +100,7 @@ class DatasetIterator:
             self.reset_batch_size(batch_size)
 
         # Create a list of lines
-        lines = [] + self.line_starts_offsets
+        lines = [] + self.encoded
 
         # If we need randomization, then DO randomization shuffle of lines
         if self.random is True:
@@ -113,17 +111,22 @@ class DatasetIterator:
                 xs, y_trues = [], []
                 max_len_x, max_len_y = 0, 0  # Needed for padding
 
-                for x, y in self.get_line(*lines[n:n+self.batch_size]):
-                    max_len_x = max(len(x), max_len_x)
-                    max_len_y = max(len(y), max_len_y)
-                    xs.append(x)
-                    y_trues.append(y)
+                for gt_pair in lines[n:n+self.batch_size]:
+                    max_len_x = max(gt_pair.x_length, max_len_x)
+                    max_len_y = max(gt_pair.y_length, max_len_y)
+                    xs.append(gt_pair.x)
+                    y_trues.append(gt_pair.y)
 
+                x_tensor, x_length, x_order = self._l_e.pad_and_tensorize(xs, padding=max_len_x, device=device)
                 yield (
-                    *self._l_e.tensorize(
-                        xs, padding=max_len_x, device=device),
-                    *self._l_e.tensorize(
-                        y_trues, padding=max_len_y, device=device, target=True)
+                    x_tensor,
+                    x_length,
+                    *self._l_e.pad_and_tensorize(
+                        y_trues,
+                        padding=max_len_y,
+                        device=device,
+                        reorder=x_order
+                    )[:-1]  # Remove ORDER
                 )
 
         return iterable
@@ -264,18 +267,18 @@ class LabelEncoder:
             x = unidecode.unidecode(x)
         return x
 
-    def tensorize(self,
-                  sentences: List[Sequence[str]],
-                  padding: Optional[int] = None,
-                  target: bool = False,
-                  device: str = DEVICE) -> Tuple[torch.Tensor, torch.Tensor]:
-        """ Transform a list of sentences into a batched Tensor with its tensor size
+    def pad_and_tensorize(
+            self,
+            sentences: List[List[int]],
+            padding: Optional[int] = None,
+            reorder: Optional[List[int]] = None,
+            device: str = DEVICE
+    ) -> Tuple[torch.Tensor, torch.Tensor, List[int]]:
+        """ Pad and turn into tensors batches
 
-        :param sentences: List of sentences where characters have been separated into a list
+        :param sentences: List of sentences where characters have been separated into a list and index encoded
         :param padding: padding required (None if every sentence in the same size)
-        :param batch_first: Whether we need [batch_size, sentence_len] instead of [sentence_len, batch_size]
         :param device: Torch device
-        :param target: Inform if the sequences to be transformed are ground truth
         :return: Transformed batch into tensor
         """
         max_len = (padding or len(sentences[0]))
@@ -285,33 +288,60 @@ class LabelEncoder:
         # shape [batch_size, len_sentence]
         tensor = []
         lengths = []
+        order = []
 
+        # If GT order was computer, we get it from there
+        if reorder:
+            sequences = [sentences[index] for index in reorder]
+        else:
+            sequences = sorted(sentences, key=lambda item: -len(item))
+
+        # Packed sequence need to be in decreasing size order
+        for current in sequences:
+            order.append(sentences.index(current))
+            tensor.append(current + [self.pad_token_index] * (max_len - len(current)))
+            lengths.append(len(tensor[-1]) - max(0, max_len - len(current)))
+
+        return torch.tensor(tensor).to(device), torch.tensor(lengths).to(device), order
+
+    def gt_to_numerical(self, sentence: Sequence[str]) -> Tuple[List[int], int]:
+        """ Transform GT to numerical
+
+        :param sentence: Sequence of characters (can be a straight string)
+        :return: List of character indexes
+        """
+        if not self.masked:
+            return self.inp_to_numerical(sentence)
+        else:
+            obligatory_tokens = int(self.use_init) + int(self.use_eos)  # Tokens for init and end of string
+            init = [self.init_token_index] if self.use_init else []
+            eos = [self.eos_token_index] if self.use_eos else []
+
+            return (
+                init + [self.mtoi[char] for char in sentence] + eos,
+                len(sentence) + obligatory_tokens
+            )
+
+    def inp_to_numerical(self, sentence: Sequence[str]) -> Tuple[List[int], int]:
+        """ Transform GT to numerical
+
+        :param sentence: Sequence of characters (can be a straight string)
+        :return: List of character indexes
+        """
         obligatory_tokens = int(self.use_init) + int(self.use_eos)  # Tokens for init and end of string
         init = [self.init_token_index] if self.use_init else []
         eos = [self.eos_token_index] if self.use_eos else []
 
-        src = self.stoi
-        if target and self.masked:
-            src = self.mtoi
+        return (
+            init + [self.stoi.get(char, self.unk_token_index) for char in sentence] + eos,
+            len(sentence) + obligatory_tokens
+        )
 
-        # Packed sequence need to be in decreasing size order
-        for current in sorted(sentences, key=lambda item: -len(item)):
-            tensor.append(
-                # A sentence start with an init token
-                init +
-                # It's followed by each char index in the vocabulary
-                [src.get(char, self.unk_token_index) for char in current] +
-                # Then we get the end of sentence milestone
-                eos +
-                # And we padd for what remains
-                [self.pad_token_index] * (max_len + obligatory_tokens - len(current))  # 2 = SOS token and EOS token
-            )
-            lengths.append(len(tensor[-1]) - max(0, max_len - len(current)))
-
-        return torch.tensor(tensor).to(device), torch.tensor(lengths).to(device)
-
-    def reverse_batch(self, batch: Union[list, torch.Tensor],
-                      ignore: Optional[Tuple[str, ...]] = None):
+    def reverse_batch(
+            self,
+            batch: Union[list, torch.Tensor],
+            ignore: Optional[Tuple[str, ...]] = None
+    ):
         # If dimension is [sentence_len, batch_size]
         if not isinstance(batch, list):
 
