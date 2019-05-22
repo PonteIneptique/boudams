@@ -356,30 +356,15 @@ class LabelEncoder:
 
                 with torch.cuda.device_of(masked):
                     masked = masked.tolist()
-            """
-            output = []
-            for sentence_index, sentence in enumerate(masked):
-                output_sentence = []
-                for char_index, char in enumerate(sentence):
-                    output_sentence.append(
-                        self.itos[char]
-                    )
 
-                    if batch[sentence_index][char_index] == self.space_token_index:
-                        output_sentence.append(self.space_token)
-                output.append(output_sentence)
-            return output
-            """
-
-            batch = [
+            return [
                 [
-                    char
-                    for src_char, mask_char in zip(batch_output, batch_input)
-                    for char in [self.itos[mask_char]] + ([" "] if src_char == self.space_token_index else [])
+                    tok
+                    for masked_token, mask_token in zip(masked_sentence, space_mask)
+                    for tok in [self.itos[masked_token]] + ([" "] if mask_token == self.space_token_index else [])
                 ]
-                for batch_output, batch_input in zip(batch, masked)
+                for masked_sentence, space_mask in zip(masked, batch)
             ]
-            return batch
 
         if ignore is True:
             batch = [
@@ -485,20 +470,40 @@ if __name__ == "__main__":
 
     dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", randomized=False)
 
-    epoch_batches = dataset.get_epoch(batch_size=2)()
+    epoch_batches = dataset.get_epoch(batch_size=5)()
     x, _, y, _ = next(epoch_batches)
 
     assert x.shape == y.shape, "OTHERWISE WE'RE SCREWED"
 
     # Somehow, although stuff IS padded and each sequence should have the same size, this is not the case...
     # I definitely need to spleep on it
-    assert list(label_encoder.reverse_batch(y, masked=x)) == [
-        [
-            '<SOS>', 's', 'i', ' ', 't', 'e', ' ', 'd', 'e', 's', 'e', 'n', 'i', 'v', 'e', 'r', 'a', 's', ' ', 'p', 'a',
-            'r', ' ', 'l', 'e', ' ', 'd', 'o', 'r', 'm', 'i', 'r', '<EOS>'
-        ],
-        [
-            '<SOS>', 'l', 'a', ' ', 'd', 'a', 'm', 'e', ' ', 'h', 'a', 'i', 't', 'e', 'e', ' ', 's', "'", 'e', 'n', ' ',
-            'p', 'a', 'r', 't', 'i', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>'
-        ]
+    reversed_data = list(label_encoder.reverse_batch(y, masked=x))
+
+    assert [
+               l
+               for l in list(map(lambda liste: len(liste)-liste.count(" "), reversed_data))
+               if l != len(reversed_data[0]) - reversed_data[0].count(" ")
+           ] == [], \
+        "All element should have the same size (length : %s) if we remove the spaces" % list(map(len, reversed_data))
+
+    assert reversed_data == [
+        ['<SOS>', 'e', ' ', 'd', 'e', 'u', 's', ' ', 't', 'u', 'n', 'e', 'i', 'r', 'e', ' ', 'e', ' ', 'p', 'l', 'u',
+         'i', 'e', ' ', 'm', 'e', 'r', 'v', 'e', 'i', 'l', 'l', 'u', 's', 'e', ' ', 'a', ' ', 'c', 'e', 'l', ' ', 'j',
+         'u', 'r', ' ', 'e', 'n', 'v', 'e', 'i', 'a', 'd', '<EOS>'],
+        ['<SOS>', 's', 'i', ' ', 't', 'e', ' ', 'd', 'e', 's', 'e', 'n', 'i', 'v', 'e', 'r', 'a', 's', ' ', 'p', 'a',
+         'r', ' ', 'l', 'e', ' ', 'd', 'o', 'r', 'm', 'i', 'r', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
+         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>'],
+        ['<SOS>', 'l', 'a', ' ', 'd', 'a', 'm', 'e', ' ', 'h', 'a', 'i', 't', 'e', 'e', ' ', 's', "'", 'e', 'n', ' ',
+         'p', 'a', 'r', 't', 'i', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
+         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
+         '<PAD>', '<PAD>'],
+        ['<SOS>', 'e', ' ', 'm', 'a', 'n', 'j', 'a', 'd', ' ', 'l', 'a', ' ', 'c', 'h', 'a', 'r',
+         ' ', 'o', 'd', ' ', 'l', 'e', ' ', 's', 'a', 'n', 'c', '<EOS>', '<PAD>', '<PAD>', '<PAD>',
+         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
+         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>'],
+        ['<SOS>', 'e', ' ', 'a', ' ', 's', 'u', 'n', ' ', 's', 'e', 'r', 'v', 'i', 's', 'e', ' ', 'l', 'e', 's', ' ',
+         'm', 'e', 't', 'r', 'a', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
+         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
+         '<PAD>', '<PAD>', '<PAD>']
     ]
+
