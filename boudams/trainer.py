@@ -149,7 +149,6 @@ class Trainer(object):
         self.tagger = tagger
         self.device = device
         self.debug = False
-        self.remove_first = self.tagger.system == "conv"
 
     def _temp_save(self, file_path: str, best_score: float, current_score: Score) -> float:
         if current_score.loss != float("inf") and current_score.loss < best_score:
@@ -163,7 +162,7 @@ class Trainer(object):
             lr_grace_periode: int = 10,  # Number of first iterations where we ignore lr_patience
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
             _seed: int = 1234, fpath: str = "model.tar",
-            mode="leven_per_char",
+            mode="loss",
             debug: Callable[[Seq2SeqTokenizer], None] = None
     ):
         random.seed(_seed)

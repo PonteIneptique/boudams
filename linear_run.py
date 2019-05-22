@@ -8,16 +8,15 @@ from boudams.encoder import LabelEncoder, DatasetIterator
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
-
+EPOCHS = 10
 TEST = "seints"
 RANDOM = True
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 100
 LOAD_VOCABULARY = True
-LRS = (0.0001, 0.0005, 0.00075)
 LRS = (0.0001, )
 # Masked should not work given the fact that out_token_embedding is gonna be screwed
-MASKED = False
+MASKED = True
 
 if TEST is "seints":
     train_path, dev_path, test_path = "data/seints/train.tsv", "data/seints/dev.tsv", "data/seints/test.tsv"
@@ -45,11 +44,6 @@ dev_dataset: DatasetIterator = vocabulary.get_dataset(dev_path, randomized=RANDO
 test_dataset: DatasetIterator = vocabulary.get_dataset(test_path, randomized=RANDOM)
 
 
-if MASKED:
-    train_dataset = train_dataset.get_masked()
-    dev_dataset = dev_dataset.get_masked()
-    test_dataset = test_dataset.get_masked()
-
 from pprint import pprint
 #pprint(vocabulary.vocab.freqs)
 print("-- Dataset informations --")
@@ -74,23 +68,18 @@ def examples(obj):
         logger.info("----")
 
 
-conv = (dict(hidden_size=512, emb_enc_dim=256, emb_dec_dim=256,
-          enc_n_layers=10, dec_n_layers=10,
-          enc_dropout=0.25, dec_dropout=0.25), "conv", 32,
-        dict(lr_grace_periode=2, lr_patience=2, lr=0.0001))
-gru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "gru", 32,
-        dict(lr_grace_periode=2, lr_patience=2))
-lstm = (dict(hidden_size=256, emb_enc_dim=256, emb_dec_dim=256, enc_n_layers=2, dec_n_layers=2), "lstm", 32,
-        dict(lr_grace_periode=2, lr_patience=2))
-bigru = (dict(hidden_size=256, emb_enc_dim=128, emb_dec_dim=128), "bi-gru", 32,
-         dict(lr_grace_periode=2, lr_patience=2))
+linear = (
+    dict(
+        hidden_size=512, emb_enc_dim=256, emb_dec_dim=256,
+        enc_n_layers=10, dec_n_layers=10,
+        enc_dropout=0.25, dec_dropout=0.25),
+    "linear", 32,
+    dict(lr_grace_periode=2, lr_patience=2, lr=0.0001)
+)
 
 
 for settings, system, batch_size, train_dict in [
-    conv,
-    #gru,
-    #lstm,
-    bigru
+    linear
 ]:
     for lr in LRS:
         device = DEVICE
@@ -101,7 +90,7 @@ for settings, system, batch_size, train_dict in [
         print()
         train_dict["lr"] = lr
         trainer.run(
-            train_dataset, dev_dataset, n_epochs=100,
+            train_dataset, dev_dataset, n_epochs=EPOCHS,
             fpath="models/"+system+str(datetime.datetime.today()).replace(" ", "--").split(".")[0]+"-"+str(lr)+".tar",
             batch_size=batch_size,
             debug=examples,

@@ -118,15 +118,17 @@ class DatasetIterator:
                     y_trues.append(gt_pair.y)
 
                 x_tensor, x_length, x_order = self._l_e.pad_and_tensorize(xs, padding=max_len_x, device=device)
+                y_tensor, y_length, y_order = self._l_e.pad_and_tensorize(
+                    y_trues,
+                    padding=max_len_y,
+                    device=device,
+                    reorder=x_order
+                )
                 yield (
                     x_tensor,
                     x_length,
-                    *self._l_e.pad_and_tensorize(
-                        y_trues,
-                        padding=max_len_y,
-                        device=device,
-                        reorder=x_order
-                    )[:-1]  # Remove ORDER
+                    y_tensor,
+                    y_length
                 )
 
         return iterable
@@ -157,11 +159,10 @@ class LabelEncoder:
         self.eos_token_index: int = 1
         self.pad_token_index: int = 2
         self.unk_token_index: int = 3
-        self.mask_token_index: int = 4
-        self.space_token_index: int = 5
+        self.space_token_index: int = 4
+        self.mask_token_index: int = 5
 
         self.max_len: Optional[int] = maximum_length
-        self.random = True
         self.lower = lower
         self.remove_diacriticals = remove_diacriticals
 
@@ -173,10 +174,10 @@ class LabelEncoder:
         }  # Id to string for reversal
 
         self.stoi: Dict[str, int] = {
-            init_token: self.init_token_index,
-            eos_token: self.eos_token_index,
-            pad_token: self.pad_token_index,
-            unk_token: self.unk_token_index
+            self.init_token: self.init_token_index,
+            self.eos_token: self.eos_token_index,
+            self.pad_token: self.pad_token_index,
+            self.unk_token: self.unk_token_index
         }  # String to ID
 
         # Mask dictionaries
@@ -184,7 +185,6 @@ class LabelEncoder:
             self.init_token_index: self.init_token,
             self.eos_token_index: self.eos_token,
             self.pad_token_index: self.pad_token,
-            self.unk_token_index: self.unk_token,
             self.mask_token_index: self.mask_token,
             self.space_token_index: self.space_token
         }
@@ -192,7 +192,6 @@ class LabelEncoder:
             self.init_token: self.init_token_index,
             self.eos_token: self.eos_token_index,
             self.pad_token: self.pad_token_index,
-            self.unk_token: self.unk_token_index,
             self.mask_token: self.mask_token_index,
             self.space_token: self.space_token_index
         }
@@ -238,6 +237,7 @@ class LabelEncoder:
 
         if debug:
             logging.debug(str(counter))
+            logging.debug(self.stoi)
 
     def readunit(self, line) -> Tuple[Tuple[str, ...], Tuple[str, ...]]:
         """ Read a single line
@@ -316,11 +316,13 @@ class LabelEncoder:
             obligatory_tokens = int(self.use_init) + int(self.use_eos)  # Tokens for init and end of string
             init = [self.init_token_index] if self.use_init else []
             eos = [self.eos_token_index] if self.use_eos else []
+            numericals = init + [
+                    self.mask_token_index if ngram[1] != " " else self.space_token_index
+                    for ngram in zip(*[sentence[i:] for i in range(2)])
+                    if ngram[0] != " "
+                ] + [self.mask_token_index] + eos
 
-            return (
-                init + [self.mtoi[char] for char in sentence] + eos,
-                len(sentence) + obligatory_tokens
-            )
+            return numericals, len(sentence) - sentence.count(" ") + obligatory_tokens
 
     def inp_to_numerical(self, sentence: Sequence[str]) -> Tuple[List[int], int]:
         """ Transform GT to numerical
@@ -340,7 +342,8 @@ class LabelEncoder:
     def reverse_batch(
             self,
             batch: Union[list, torch.Tensor],
-            ignore: Optional[Tuple[str, ...]] = None
+            ignore: Optional[Tuple[str, ...]] = None,
+            masked: Optional[Union[list, torch.Tensor]] = None
     ):
         # If dimension is [sentence_len, batch_size]
         if not isinstance(batch, list):
@@ -348,14 +351,40 @@ class LabelEncoder:
             with torch.cuda.device_of(batch):
                 batch = batch.tolist()
 
-        source = self.itos
-        if self.masked:
-            source = self.itom
+        if self.masked is True and masked is not None:
+            if not isinstance(masked, list):
 
-        if ignore:
+                with torch.cuda.device_of(masked):
+                    masked = masked.tolist()
+            """
+            output = []
+            for sentence_index, sentence in enumerate(masked):
+                output_sentence = []
+                for char_index, char in enumerate(sentence):
+                    output_sentence.append(
+                        self.itos[char]
+                    )
+
+                    if batch[sentence_index][char_index] == self.space_token_index:
+                        output_sentence.append(self.space_token)
+                output.append(output_sentence)
+            return output
+            """
+
             batch = [
                 [
-                    source[ind]
+                    char
+                    for src_char, mask_char in zip(batch_output, batch_input)
+                    for char in [self.itos[mask_char]] + ([" "] if src_char == self.space_token_index else [])
+                ]
+                for batch_output, batch_input in zip(batch, masked)
+            ]
+            return batch
+
+        if ignore is True:
+            batch = [
+                [
+                    self.itos[ind]
                     for ind in ex
                     if ind not in ignore
                 ]
@@ -364,7 +393,7 @@ class LabelEncoder:
         else:
             batch = [
                 [
-                    source[ind]
+                    self.itos[ind]
                     for ind in ex
                 ]
                 for ex in batch
@@ -448,3 +477,28 @@ if __name__ == "__main__":
     assert reloaded.reverse_batch(y) == label_encoder.reverse_batch(y)
 
     assert len(list(epoch_batches)) == 2, "There should be only to more batches"
+
+    # Masked
+    old_y = y
+    label_encoder = LabelEncoder(masked=True)
+    label_encoder.build(*glob.glob("test_data/*.tsv"), debug=True)
+
+    dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", randomized=False)
+
+    epoch_batches = dataset.get_epoch(batch_size=2)()
+    x, _, y, _ = next(epoch_batches)
+
+    assert x.shape == y.shape, "OTHERWISE WE'RE SCREWED"
+
+    # Somehow, although stuff IS padded and each sequence should have the same size, this is not the case...
+    # I definitely need to spleep on it
+    assert list(label_encoder.reverse_batch(y, masked=x)) == [
+        [
+            '<SOS>', 's', 'i', ' ', 't', 'e', ' ', 'd', 'e', 's', 'e', 'n', 'i', 'v', 'e', 'r', 'a', 's', ' ', 'p', 'a',
+            'r', ' ', 'l', 'e', ' ', 'd', 'o', 'r', 'm', 'i', 'r', '<EOS>'
+        ],
+        [
+            '<SOS>', 'l', 'a', ' ', 'd', 'a', 'm', 'e', ' ', 'h', 'a', 'i', 't', 'e', 'e', ' ', 's', "'", 'e', 'n', ' ',
+            'p', 'a', 'r', 't', 'i', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>'
+        ]
+    ]
