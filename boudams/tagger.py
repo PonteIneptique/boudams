@@ -231,26 +231,31 @@ class Seq2SeqTokenizer:
 
         return obj
 
-    def annotate(self, texts: List[str]):
+    def annotate(self, texts: List[str], batch_size=32):
         self.model.eval()
-        for sentence in texts:
+        for n in range(0, len(texts), batch_size):
+            batch = texts[n:n+batch_size]
+            xs = [
+                self.vocabulary.inp_to_numerical(self.vocabulary.prepare(s))
+                for s in batch
+            ]
+            logging.info("Dealing with batch %s " % (int(n/batch_size)+1))
+            tensor, sentence_length, order = self.vocabulary.pad_and_tensorize(
+                    [x for x, _ in xs],
+                    device=self.device,
+                    padding=max(list(map(lambda x: x[1], xs)))
+                )
 
-            # it would be good at some point to keep and use order to batchify this
-            tensor, sentence_length, _ = self.vocabulary.pad_and_tensorize(
-                [self.vocabulary.inp_to_numerical(self.vocabulary.prepare(sentence))[0]],
-                device=self.device,
-                padding=self.out_max_sentence_length-len(sentence)
-            )
-
-            from .model.base import pprint_2d
-            #pprint_2d(tensor.t())
-            #print(sentence_length)
-
-            logging.debug("Input Tensor {}".format(tensor.shape))
-            logging.debug("Input Positions tensor {}".format(sentence_length.shape))
-
-            translation = self.model.predict(
+            translations = self.model.predict(
                 tensor, sentence_length, label_encoder=self.vocabulary
             )
 
-            yield "".join(translation[0])
+            for index in range(len(batch)):
+                yield "".join(translations[order.index(index)])
+
+    def annotate_text(self, string, batch_size=32):
+        strings = [
+            string[n:n+self.out_max_sentence_length-10]
+            for n in range(0, len(string), self.out_max_sentence_length - 10)
+        ]
+        yield from self.annotate(strings, batch_size=batch_size)

@@ -103,7 +103,7 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         """
         out = self(src, src_len, None, teacher_forcing_ratio=0)
         logits = torch.argmax(out, 2)
-        return label_encoder.reverse_batch(logits, masked=src)
+        return label_encoder.reverse_batch(logits, masked=src, ignore=(self.pad_idx, self.eos_idx, self.sos_idx))
 
     def gradient(
         self,

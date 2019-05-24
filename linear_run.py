@@ -8,7 +8,7 @@ from boudams.encoder import LabelEncoder, DatasetIterator
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
-EPOCHS = 10
+EPOCHS = 100
 TEST = "seints"
 RANDOM = True
 DEVICE = "cuda"
