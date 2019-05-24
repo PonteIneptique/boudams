@@ -13,7 +13,13 @@ if TYPE_CHECKING:
     from ..trainer import Scorer
 
 
-from .conv import Encoder
+from .conv import Encoder as CNNEncoder
+
+
+class LinearEncoderCNN(CNNEncoder):
+    def forward(self, src):
+        out = super(LinearEncoderCNN, self).forward(src)
+        return out
 
 
 class LinearDecoder(nn.Module):
@@ -27,25 +33,29 @@ class LinearDecoder(nn.Module):
     """
     def __init__(self, enc_dim, out_dim, highway_layers=0, highway_act='relu'):
         super().__init__()
-
+        self.out_dim = out_dim
         # highway
         self.highway = None
         # decoder output
         self.decoder = nn.Linear(enc_dim, out_dim)
 
+        self.relu = True
+
     def forward(self, enc_outs):
         if self.highway is not None:
             enc_outs = self.highway(enc_outs)
+
         linear_out = self.decoder(enc_outs)
 
         return linear_out
 
 
-class Seq2Seq(BaseSeq2SeqModel):
+class LinearSeq2Seq(BaseSeq2SeqModel):
+    masked_only = True
 
     def __init__(
         self,
-        encoder: Encoder, decoder: LinearDecoder,
+        encoder: CNNEncoder, decoder: LinearDecoder,
         device: str,
         pad_idx: int, sos_idx: int, eos_idx: int,
         **kwargs
@@ -53,12 +63,17 @@ class Seq2Seq(BaseSeq2SeqModel):
         super().__init__()
 
         self.encoder = encoder
-        self.decoder = decoder
+        self.decoder: LinearDecoder = decoder
 
         self.pad_idx = pad_idx
         self.sos_idx = sos_idx
         self.eos_idx = eos_idx
         self.device = device
+
+        # nll weight
+        nll_weight = torch.ones(decoder.out_dim)
+        nll_weight[pad_idx] = 0.
+        self.register_buffer('nll_weight', nll_weight)
 
     def forward(self, src, src_len, trg, **kwargs):
         # src = [batch size, src sent len]
@@ -67,12 +82,14 @@ class Seq2Seq(BaseSeq2SeqModel):
         # calculate z^u (encoder_conved) and e (encoder_combined)
         # encoder_conved is output from final encoder conv. block
         # encoder_combined is encoder_conved plus (elementwise) src embedding plus positional embeddings
-        encoder_conved, encoder_combined = self.encoder(src)
-
+        if self.encoder is not None:
+            _, second_step = self.encoder(src)
+        else:
+            second_step = src
         # encoder_conved = [batch size, src sent len, emb dim]
         # encoder_combined = [batch size, src sent len, emb dim]
 
-        output, = self.decoder(encoder_conved.view(1, 0, 2))
+        output = self.decoder(second_step)
 
         return output
 
@@ -84,9 +101,9 @@ class Seq2Seq(BaseSeq2SeqModel):
         :param label_encoder: Encoder
         :return: Reversed Batch
         """
-        out = self(src, src_len, None, teacher_forcing_ratio=0)[0]
+        out = self(src, src_len, None, teacher_forcing_ratio=0)
         logits = torch.argmax(out, 2)
-        return label_encoder.reverse_batch(logits)
+        return label_encoder.reverse_batch(logits, masked=src)
 
     def gradient(
         self,
@@ -105,10 +122,10 @@ class Seq2Seq(BaseSeq2SeqModel):
         :param evaluate: Whether we are in eval mode
         :param kwargs:
         :return: tensor(batch_size x output_length)
-        """
 
-        output = self(src, src_len, trg[:, 1:])
-        print(out.shape)
+        """
+        output = self(src, src_len, trg)
+        # -> tensor(batch_size * sentence_length)
 
         # We register the current batch
         #  For this to work, we get ONLY the best score of output which mean we need to argmax
@@ -121,7 +138,8 @@ class Seq2Seq(BaseSeq2SeqModel):
 
         scorer.register_batch(
             torch.argmax(output, 2),
-            trg[:, 1:]
+            trg,
+            src
         )
 
         # trg = [trg sent len, batch size]
@@ -135,8 +153,22 @@ class Seq2Seq(BaseSeq2SeqModel):
         #   deepcopy.
 
         loss = criterion(
-            output.contiguous().view(-1, output.shape[-1]),
-            trg[:, 1:].contiguous().view(-1)
+            output.view(-1, self.decoder.out_dim),
+            trg.view(-1)
         )
 
         return loss
+
+    def get_loss(self, preds, truths):
+        """
+
+        :param preds:
+        :param truths:
+        :return:
+        """
+        return F.cross_entropy(
+            preds.view(-1, len(self.label_encoder)),
+            truths.view(-1),
+            weight=self.nll_weight, reduction="mean",
+            ignore_index=self.label_encoder.get_pad()
+        )

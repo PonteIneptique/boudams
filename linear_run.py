@@ -13,7 +13,7 @@ TEST = "seints"
 RANDOM = True
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 100
-LOAD_VOCABULARY = True
+LOAD_VOCABULARY = False
 LRS = (0.0001, )
 # Masked should not work given the fact that out_token_embedding is gonna be screwed
 MASKED = True
@@ -27,13 +27,13 @@ else:
 
 if LOAD_VOCABULARY:
     import json
-    with open("voc.json") as f:
+    with open("voc-2.json") as f:
         vocabulary = LabelEncoder.load(json.load(f))
 else:
     vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH, masked=MASKED)
     vocabulary.build(train_path, dev_path, test_path, debug=True)
     print(vocabulary.dump())
-    with open("voc.json", "w") as f:
+    with open("voc-2.json", "w") as f:
         f.write(vocabulary.dump())
 
 logging.info(vocabulary.stoi)
@@ -73,7 +73,7 @@ linear = (
         hidden_size=512, emb_enc_dim=256, emb_dec_dim=256,
         enc_n_layers=10, dec_n_layers=10,
         enc_dropout=0.25, dec_dropout=0.25),
-    "linear", 32,
+    "linear-conv", 32,
     dict(lr_grace_periode=2, lr_patience=2, lr=0.0001)
 )
 

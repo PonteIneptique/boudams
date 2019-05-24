@@ -9,7 +9,7 @@ import tarfile
 import logging
 from typing import List, Tuple
 
-from .model import gru, lstm, bidir, conv
+from .model import gru, lstm, bidir, conv, linear
 from . import utils
 
 from .encoder import LabelEncoder, DatasetIterator
@@ -84,7 +84,24 @@ class Seq2SeqTokenizer:
             "out_max_sentence_length": self.out_max_sentence_length
         }
 
-        if self.system == "conv":
+        if self.system.startswith("linear"):
+            self.enc: linear.CNNEncoder = linear.CNNEncoder(
+                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
+                    dropout=self.enc_dropout,
+                    device=self.device,
+                    kernel_size=self.enc_kernel_size,
+                    max_sentence_len=self.out_max_sentence_length
+                )
+            self.dec: linear.LinearDecoder = linear.LinearDecoder(
+                enc_dim=self.emb_enc_dim, out_dim=len(self.vocabulary.mtoi)
+            )
+            self.model: linear.LinearSeq2Seq = linear.LinearSeq2Seq(
+                self.enc, self.dec, **seq2seq_shared_params
+            ).to(device)
+            self.init_weights = None
+
+        elif self.system == "conv":
             self.enc: gru.Encoder = conv.Encoder(
                 self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
                 n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,

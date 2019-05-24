@@ -48,16 +48,18 @@ class Scorer(object):
     """
     Accumulate predictions over batches and compute evaluation scores
     """
-    def __init__(self, tagger: Seq2SeqTokenizer):
+    def __init__(self, tagger: Seq2SeqTokenizer, masked: bool = False):
         self.hypotheses = []
         self.targets = []
         self.tagger: Seq2SeqTokenizer = tagger
         self.tokens = []  # Should be trues as tokens
         self.trues = []
         self.preds = []
+        self.srcs = []
 
         self._score_tuple = namedtuple("scores", ["accuracy", "leven", "leven_per_char"])
         self.scores = None
+        self.masked: bool = masked
 
     def compute(self):
         accuracy = [
@@ -66,12 +68,15 @@ class Scorer(object):
         ]
         levenshteins = []
         leven_per_char = []
+
         for tr_true, tr_pred in zip(
             self.tagger.vocabulary.transcribe_batch(
-                self.tagger.vocabulary.reverse_batch(self.trues, ignore=(self.tagger.vocabulary.pad_token_index, ))
+                self.tagger.vocabulary.reverse_batch(self.trues, ignore=(self.tagger.vocabulary.pad_token_index, ),
+                                                     masked=self.srcs)
             ),
             self.tagger.vocabulary.transcribe_batch(
-                self.tagger.vocabulary.reverse_batch(self.preds, ignore=(self.tagger.vocabulary.pad_token_index, ))
+                self.tagger.vocabulary.reverse_batch(self.preds, ignore=(self.tagger.vocabulary.pad_token_index, ),
+                                                     masked=self.srcs)
             )
         ):
             levenshteins.append(levenshtein(tr_true, tr_pred))
@@ -100,7 +105,7 @@ class Scorer(object):
             self.compute()
         return self.scores.leven_per_char
 
-    def register_batch(self, hypotheses, targets):
+    def register_batch(self, hypotheses, targets, src):
         """
 
         :param hypotheses: tensor(batch size x sentence length)
@@ -110,10 +115,13 @@ class Scorer(object):
             out = hypotheses.tolist()
         with torch.cuda.device_of(targets):
             exp = targets.tolist()
+        with torch.cuda.device_of(src):
+                src = src.tolist()
 
-        for y_true, y_pred in zip(exp, out):
+        for y_true, y_pred, x in zip(exp, out, src):
             self.trues.append(y_true)
             self.preds.append(y_pred)
+            self.srcs.append(x)
 
 
 class LRScheduler(object):

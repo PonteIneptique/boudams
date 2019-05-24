@@ -158,9 +158,9 @@ class LabelEncoder:
         self.init_token_index: int = 0
         self.eos_token_index: int = 1
         self.pad_token_index: int = 2
-        self.unk_token_index: int = 3
-        self.space_token_index: int = 4
-        self.mask_token_index: int = 5
+        self.space_token_index: int = 3
+        self.mask_token_index: int = 4
+        self.unk_token_index: int = 5  # Put here because it isn't used in masked
 
         self.max_len: Optional[int] = maximum_length
         self.lower = lower
@@ -345,6 +345,7 @@ class LabelEncoder:
             ignore: Optional[Tuple[str, ...]] = None,
             masked: Optional[Union[list, torch.Tensor]] = None
     ):
+        ignore = ignore or ()
         # If dimension is [sentence_len, batch_size]
         if not isinstance(batch, list):
 
@@ -360,7 +361,7 @@ class LabelEncoder:
             return [
                 [
                     tok
-                    for masked_token, mask_token in zip(masked_sentence, space_mask)
+                    for masked_token, mask_token in zip(masked_sentence, space_mask) if masked_token not in ignore
                     for tok in [self.itos[masked_token]] + ([" "] if mask_token == self.space_token_index else [])
                 ]
                 for masked_sentence, space_mask in zip(masked, batch)

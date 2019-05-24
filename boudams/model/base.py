@@ -16,6 +16,7 @@ class BaseSeq2SeqModel(nn.Module):
 
     """
     remove_first = False
+    masked_only = False
 
     use_init: bool = True
     use_eos: bool = True

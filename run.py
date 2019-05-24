@@ -13,7 +13,7 @@ TEST = "seints"
 RANDOM = True
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 100
-LOAD_VOCABULARY = True
+LOAD_VOCABULARY = False
 LRS = (0.0001, 0.0005, 0.00075)
 LRS = (0.0001, )
 # Masked should not work given the fact that out_token_embedding is gonna be screwed

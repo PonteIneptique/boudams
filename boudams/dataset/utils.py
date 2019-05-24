@@ -2,9 +2,16 @@ import glob
 import os
 import os.path
 import random
-
+import re
 
 from typing import List, Tuple
+
+
+_space = re.compile("(\s+)")
+
+
+def normalize_space(string: str) -> str:
+    return _space.sub(" ", string)
 
 
 def untokenize(sentence: List[str]) -> Tuple[str, str]:
@@ -57,6 +64,7 @@ def convert(input_path: str, output_path: str, dict_reader: bool = True):
                 NOISE_CHAR_RANDOM = 0.2
                 MAX_NOISE_CHAR = 2
                 MAX_KEPT = 1
+                MAX_KEPT = 1
 
                 next_sequence = random.randint(MIN, MAX)
                 if dict_reader:
@@ -73,10 +81,10 @@ def convert(input_path: str, output_path: str, dict_reader: bool = True):
                         continue
 
                     if dict_reader:
-                        sequence.append(line[key])
+                        sequence.append(line[key].strip())
                     else:
-                        tokens = line.split("\t")
-                        sequence.append(tokens[0])
+                        tokens = line.strip().split("\t")
+                        sequence.append(tokens[0].strip())
 
                     char_length = len("".join(sequence))
 
