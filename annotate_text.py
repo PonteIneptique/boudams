@@ -19,7 +19,7 @@ EN la terre le conte de champaigne se croisa Gerniers li euesques de Troies ,%,%
 qui estoit senescaus de la tiere ,%.%.
 Robiers ses freres ,%.%. Gautiers de voignori ,%.%. Gautiers de Mombelyart ,%.%.
 Eustasces d'escouflans ,%.%. Guis dou plaissie %,%. et ses freres ,%% Henris D'ardillieres ,%.%. Ogiers de saint chienon ,%.%.""".replace(
-    "%", "").replace("\n", " ").replace(" ", "")
+    "%", "").replace("\n", " ")
 
 print(input_text)
 
@@ -30,4 +30,4 @@ logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 tokenizer = Seq2SeqTokenizer.load("/home/thibault/dev/boudams/models/linear-conv2019-05-24--14:08:58-0.0001.tar", device="cpu")
-print("".join(tokenizer.annotate_text(input_text)))
+print(" ".join(tokenizer.annotate_text(input_text.replace(" ", ""))))
