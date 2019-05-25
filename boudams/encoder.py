@@ -359,11 +359,19 @@ class LabelEncoder:
                 with torch.cuda.device_of(masked):
                     masked = masked.tolist()
 
+            if not isinstance(masked[0][0], str):
+                masked = [
+                    [
+                        self.itos[masked_token]
+                        for masked_token in sentence
+                    ]
+                    for sentence in masked
+                ]
             return [
                 [
                     tok
-                    for masked_token, mask_token in zip(masked_sentence, space_mask) if masked_token not in ignore
-                    for tok in [self.itos[masked_token]] + ([" "] if mask_token == self.space_token_index else [])
+                    for masked_token, mask_token in zip(masked_sentence, space_mask) if space_mask not in ignore
+                    for tok in [masked_token] + ([" "] if mask_token == self.space_token_index else [])
                 ]
                 for masked_sentence, space_mask in zip(masked, batch)
             ]

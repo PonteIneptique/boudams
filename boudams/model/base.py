@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-from typing import TYPE_CHECKING, List
+from typing import TYPE_CHECKING, List, Optional
 if TYPE_CHECKING:
     from ..trainer import Scorer
     from ..encoder import LabelEncoder
@@ -21,7 +21,8 @@ class BaseSeq2SeqModel(nn.Module):
     use_init: bool = True
     use_eos: bool = True
 
-    def predict(self, src, src_len, label_encoder: "LabelEncoder") -> List[List[str]]:
+    def predict(self, src, src_len, label_encoder: "LabelEncoder",
+                override_src: Optional[List[str]] = None) -> List[List[str]]:
         """ Predicts value for a given tensor
 
         :param src: tensor(batch size x sentence_length)

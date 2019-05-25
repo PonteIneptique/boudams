@@ -8,7 +8,7 @@ import random
 from .base import BaseSeq2SeqModel, pprint_2d, pprint_1d
 
 
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, Optional, List
 if TYPE_CHECKING:
     from ..trainer import Scorer
 
@@ -93,7 +93,8 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
 
         return output
 
-    def predict(self, src, src_len, label_encoder: "LabelEncoder") -> torch.Tensor:
+    def predict(self, src, src_len, label_encoder: "LabelEncoder",
+                override_src: Optional[List[str]] = None) -> torch.Tensor:
         """ Predicts value for a given tensor
 
         :param src: tensor(batch size x sentence_length)
@@ -103,7 +104,9 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         """
         out = self(src, src_len, None, teacher_forcing_ratio=0)
         logits = torch.argmax(out, 2)
-        return label_encoder.reverse_batch(logits, masked=src, ignore=(self.pad_idx, self.eos_idx, self.sos_idx))
+        return label_encoder.reverse_batch(logits,
+                                           masked=override_src or src,
+                                           ignore=(self.pad_idx, self.eos_idx, self.sos_idx))
 
     def gradient(
         self,

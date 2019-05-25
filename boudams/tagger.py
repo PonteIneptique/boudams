@@ -228,7 +228,8 @@ class Seq2SeqTokenizer:
                 )
 
             translations = self.model.predict(
-                tensor, sentence_length, label_encoder=self.vocabulary
+                tensor, sentence_length, label_encoder=self.vocabulary,
+                override_src=[batch[order_id] for order_id in order]
             )
             for index in range(len(translations)):
                 yield "".join(translations[order.index(index)])
