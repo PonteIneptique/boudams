@@ -233,7 +233,7 @@ class Seq2SeqTokenizer:
             for index in range(len(translations)):
                 yield "".join(translations[order.index(index)])
 
-    def annotate_text(self, string, splitter=r"(\W+)", batch_size=32):
+    def annotate_text(self, string, splitter=r"([⁊\W\d]+)", batch_size=32):
         splitter = re.compile(splitter)
         splits = splitter.split(string)
 
@@ -241,4 +241,20 @@ class Seq2SeqTokenizer:
         strings = ["".join(tempList[n:n + 2]) for n in range(0, len(splits), 2)]
         strings = list(filter(len, strings))
 
-        yield from self.annotate(strings, batch_size=batch_size)
+        treated = []
+        max_size = self.out_max_sentence_length - 5
+        for string in strings:
+            if len(string) > max_size:
+                treated.extend([
+                    "".join(string[n:n + max_size])
+                    for n in range(0, len(string), max_size)
+                ])
+            else:
+                treated.append(string)
+
+        for string in treated:
+            if len(string) > max_size:
+                print(len(string))
+                print(string)
+
+        yield from self.annotate(treated, batch_size=batch_size)

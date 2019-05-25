@@ -22,7 +22,6 @@ import tqdm
 from sklearn.metrics import accuracy_score
 from leven import levenshtein
 
-from boudams.dataset import Dataset
 from boudams.tagger import Seq2SeqTokenizer, DEVICE
 from boudams.encoder import DatasetIterator
 import boudams.utils as utils

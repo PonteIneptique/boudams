@@ -1,10 +1,6 @@
-matplotlib==3.0.3
-#numpy==1.16.3
-#pyparsing==2.4.0
-#python-dateutil==2.8.0
-#six==1.12.0
 torch>=1.0.1.post2
 torchtext==0.3.1
 tqdm>=4.31.1
 unidecode>=1.0.23
-leven
+leven==1.0.4
+click>=7.0,<=8.0
