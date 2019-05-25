@@ -1,12 +1,11 @@
 import torch
 import torch.cuda
 
-from torchtext.data import ReversibleField, BucketIterator
-
 import os
 import json
 import tarfile
 import logging
+import re
 from typing import List, Tuple
 
 from .model import gru, lstm, bidir, conv, linear
@@ -172,24 +171,6 @@ class Seq2SeqTokenizer:
     def eostoken(self):
         return self.vocabulary.eos_token_index
 
-    def tag(self, iterator: BucketIterator):
-        self.model.eval()
-        for i, batch in enumerate(iterator):
-            src, src_len = batch.src
-            output, attention = self.model(
-                src, src_len, trg=None,
-                teacher_forcing_ratio=0
-            )  # turn off teacher forcing
-
-            # trg = [trg sent len, batch size]
-            # output = [Maximum Sentence Length, Number of Sentence in batch, Number of possible characters]
-            _, ind = torch.topk(output, 1, dim=2)
-            # ind = [Maximum Sentence Length, Number of Sentences in Batch, One Result]
-
-            # output = output[1:].view(-1, output.shape[-1])
-
-            yield ind.squeeze().permute(1, 0)
-
     @property
     def settings(self):
         return {
@@ -249,13 +230,15 @@ class Seq2SeqTokenizer:
             translations = self.model.predict(
                 tensor, sentence_length, label_encoder=self.vocabulary
             )
-
-            for index in range(len(batch)):
+            for index in range(len(translations)):
                 yield "".join(translations[order.index(index)])
 
-    def annotate_text(self, string, batch_size=32):
-        strings = [
-            string[n:n+self.out_max_sentence_length-10]
-            for n in range(0, len(string), self.out_max_sentence_length - 10)
-        ]
+    def annotate_text(self, string, splitter=r"(\W+)", batch_size=32):
+        splitter = re.compile(splitter)
+        splits = splitter.split(string)
+
+        tempList = splits + [""] * 2
+        strings = ["".join(tempList[n:n + 2]) for n in range(0, len(splits), 2)]
+        strings = list(filter(len, strings))
+
         yield from self.annotate(strings, batch_size=batch_size)

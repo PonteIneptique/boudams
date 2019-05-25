@@ -200,6 +200,10 @@ def check(input_path, max_length=100):
 
 
 if __name__ == "__main__":
-    convert("/home/thibault/dev/LiSeinConfessorPandora/data/lemmatises/*.tsv", "/home/thibault/dev/boudams/data/seints")
-    split("/home/thibault/dev/boudams/data/seints/*")
-    check("/home/thibault/dev/boudams/data/seints/")
+    output = "/home/thibault/dev/boudams/data/seints"
+    output = "/home/thibault/dev/boudams/data/fro"
+    inp = "/home/thibault/dev/LiSeinConfessorPandora/data/lemmatises/*.tsv"
+    inp = "/home/thibault/dev/boudams/data/inp/*.tab"
+    convert(inp, output, dict_reader=True)
+    split(output + "/*")
+    check(output+"/")

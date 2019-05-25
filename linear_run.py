@@ -9,7 +9,7 @@ logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 EPOCHS = 100
-TEST = "seints"
+TEST = "fro"
 RANDOM = True
 DEVICE = "cuda"
 MAXIMUM_LENGTH = 100

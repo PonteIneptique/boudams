@@ -11,6 +11,13 @@ space and they are separated by tabs (`\t`, marked here as `<TAB>`).
 Things needs a little more tweaks here and there again, I'd like to see how Attention will perform. This model is 
 particulary built for OCR/HTR output from manuscripts where spaces are inconsistent.
 
+
+```text
+	Train Loss: 0.004 | Perplexity:   1.004 |  Acc.: 0.566 |  Lev.: 0.037 |  Lev. / char: 0.001
+	 Val. Loss: 0.066 | Perplexity:   1.069 |  Acc.: 0.585 |  Lev.: 0.272 |  Lev. / char: 0.009
+	 Test Loss: 0.057 | Perplexity:   1.059 |  Acc,: 0.586 |  Lev.: 0.235 |  Lev. / char: 0.008
+```
+
 ## Examples
 
 ### BiDirectional GRU with Attention

@@ -7,7 +7,7 @@ import collections
 import random
 import json
 import unidecode
-
+from operator import itemgetter
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 DEFAULT_INIT_TOKEN = "<SOS>"
@@ -299,6 +299,7 @@ class LabelEncoder:
         # Packed sequence need to be in decreasing size order
         for current in sequences:
             order.append(sentences.index(current))
+            sentences[order[-1]] = None  # We replace this index with nothing in case some segments are equals
             tensor.append(current + [self.pad_token_index] * (max_len - len(current)))
             lengths.append(len(tensor[-1]) - max(0, max_len - len(current)))
 
