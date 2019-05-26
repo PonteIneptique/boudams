@@ -14,5 +14,5 @@ import logging
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
-tokenizer = Seq2SeqTokenizer.load("/home/thibault/dev/boudams/models/linear-conv2019-05-24--14:08:58-0.0001.tar", device="cpu")
+tokenizer = Seq2SeqTokenizer.load("/home/thibault/dev/boudams/models/linear-conv2019-05-25--16:39:02-0.0001.tar", device="cpu")
 print(" ".join(tokenizer.annotate_text(input_text.replace(" ", ""))))

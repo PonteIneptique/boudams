@@ -30,7 +30,7 @@ if LOAD_VOCABULARY:
     with open("voc-2.json") as f:
         vocabulary = LabelEncoder.load(json.load(f))
 else:
-    vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH, masked=MASKED)
+    vocabulary = LabelEncoder(maximum_length=MAXIMUM_LENGTH, masked=MASKED, remove_diacriticals=False, lower=False)
     vocabulary.build(train_path, dev_path, test_path, debug=True)
     print(vocabulary.dump())
     with open("voc-2.json", "w") as f:

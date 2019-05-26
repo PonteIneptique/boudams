@@ -11,6 +11,28 @@ def cli():
     """ Boudams is a tokenizer built on deep learning. """
 
 
+@cli.command("template")
+@click.argument("filename", type=click.File(mode="w"))
+def template(filename):
+    """ Generates a template training model in file [FILENAME]"""
+    template = {
+        "max_sentence_size": 100,
+        "encoder": {  # Configuration of the encoder
+          'emb_enc_dim': 256,
+          'enc_n_layers': 10,
+          'enc_kernel_size': 3,
+          'enc_dropout': 0.25
+        },
+        "model": 'linear-conv',
+        "batch_size": 32,
+        "learner": {
+           'lr_grace_periode': 2,
+           'lr_patience': 2,
+           'lr': 0.0001
+        }
+    }
+
+
 @cli.command("train")
 def train():
     """ Train a model """
