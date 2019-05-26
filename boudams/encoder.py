@@ -367,10 +367,16 @@ class LabelEncoder:
                     ]
                     for sentence in masked
                 ]
+            else:
+                masked = [
+                    [self.init_token_index] + list(sentence) + [self.eos_token_index]
+                    for sentence in masked
+                ]
             return [
                 [
                     tok
-                    for masked_token, mask_token in zip(masked_sentence, space_mask) if space_mask not in ignore
+                    for masked_token, mask_token in zip(masked_sentence, space_mask)
+                    if space_mask not in ignore and masked_token not in ignore
                     for tok in [masked_token] + ([" "] if mask_token == self.space_token_index else [])
                 ]
                 for masked_sentence, space_mask in zip(masked, batch)
