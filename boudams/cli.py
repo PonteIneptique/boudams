@@ -1,6 +1,7 @@
 import click
 import re
 import tqdm
+import json
 
 
 from boudams.tagger import Seq2SeqTokenizer
@@ -29,8 +30,14 @@ def template(filename):
            'lr_grace_periode': 2,
            'lr_patience': 2,
            'lr': 0.0001
+        },
+        "datasets": {
+            "test": "./test.tsv",
+            "train": "./train.tsv",
+            "dev": "./dev.tsv"
         }
     }
+    json.dump(template, filename, indent=4, separators=(',', ': '))
 
 
 @cli.command("train")
