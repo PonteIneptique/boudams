@@ -172,7 +172,7 @@ class Trainer(object):
             mode="loss",
             debug: Callable[[Seq2SeqTokenizer], None] = None
     ):
-        if seed:
+        if _seed:
             random.seed(_seed)
             torch.manual_seed(_seed)
             torch.backends.cudnn.deterministic = True
