@@ -8,8 +8,8 @@ import logging
 import re
 from typing import List, Tuple
 
-from .model import gru, lstm, bidir, conv, linear
-from . import utils
+from boudams.model import gru, lstm, bidir, conv, linear
+from boudams import utils
 
 from .encoder import LabelEncoder, DatasetIterator
 
@@ -84,16 +84,25 @@ class Seq2SeqTokenizer:
         }
 
         if self.system.startswith("linear"):
-            self.enc: linear.CNNEncoder = linear.CNNEncoder(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout,
-                    device=self.device,
-                    kernel_size=self.enc_kernel_size,
-                    max_sentence_len=self.out_max_sentence_length
-                )
+            if self.system.endswith("-lstm"):
+                self.enc: linear.LSTMEncoder = linear.LinearLSTMEncoder(
+                        self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                        n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
+                        dropout=self.enc_dropout
+                    )
+                in_features = self.enc_hid_dim
+            else:
+                self.enc: linear.CNNEncoder = linear.LinearEncoderCNN(
+                        self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                        n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
+                        dropout=self.enc_dropout,
+                        device=self.device,
+                        kernel_size=self.enc_kernel_size,
+                        max_sentence_len=self.out_max_sentence_length
+                    )
+                in_features = self.emb_enc_dim
             self.dec: linear.LinearDecoder = linear.LinearDecoder(
-                enc_dim=self.emb_enc_dim, out_dim=len(self.vocabulary.mtoi)
+                enc_dim=in_features, out_dim=len(self.vocabulary.mtoi)
             )
             self.model: linear.LinearSeq2Seq = linear.LinearSeq2Seq(
                 self.enc, self.dec, **seq2seq_shared_params

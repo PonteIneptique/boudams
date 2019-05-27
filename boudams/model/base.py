@@ -35,6 +35,9 @@ class BaseSeq2SeqModel(nn.Module):
         logits = torch.argmax(out, 2)[1:].t()  # Remove SOS token
         return label_encoder.reverse_batch(logits)
 
+    def init_weights(self):
+        pass
+
     def gradient(
         self,
         src, src_len, trg=None,

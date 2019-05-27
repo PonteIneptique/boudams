@@ -14,12 +14,18 @@ if TYPE_CHECKING:
 
 
 from .conv import Encoder as CNNEncoder
+from .lstm import Encoder as LSTMEncoder
+from .bidir import Encoder as BiGruEncoder
 
 
 class LinearEncoderCNN(CNNEncoder):
     def forward(self, src):
         out = super(LinearEncoderCNN, self).forward(src)
         return out
+
+
+class LinearLSTMEncoder(LSTMEncoder):
+    """ Linear version of the LSTMEncoder """
 
 
 class LinearDecoder(nn.Module):
@@ -82,12 +88,20 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         # calculate z^u (encoder_conved) and e (encoder_combined)
         # encoder_conved is output from final encoder conv. block
         # encoder_combined is encoder_conved plus (elementwise) src embedding plus positional embeddings
-        if self.encoder is not None:
+        if isinstance(self.encoder, LinearEncoderCNN):
             _, second_step = self.encoder(src)
+        elif isinstance(self.encoder, LinearLSTMEncoder):
+            second_step, hidden, cell = self.encoder(src.t(), src_len)
+            # -> tensor(sentence size, batch size, hid dim * n directions)
+            second_step = second_step.transpose(1, 0)
+            # -> tensor(batch size, sentence size, hid dim * n directions)
+        elif isinstance(self.encoder, BiGruEncoder):
+            second_step, hidden, cell = self.encoder(src.t(), src_len)
+            # -> tensor(sentence size, batch size, hid dim * n directions)
+            second_step = second_step.transpose(1, 0)
+            # -> tensor(batch size, sentence size, hid dim * n directions)
         else:
-            second_step = src
-        # encoder_conved = [batch size, src sent len, emb dim]
-        # encoder_combined = [batch size, src sent len, emb dim]
+            raise AttributeError("The encoder is not recognized.")
 
         output = self.decoder(second_step)
 
@@ -104,9 +118,11 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         """
         out = self(src, src_len, None, teacher_forcing_ratio=0)
         logits = torch.argmax(out, 2)
-        return label_encoder.reverse_batch(logits,
-                                           masked=override_src or src,
-                                           ignore=(self.pad_idx, self.eos_idx, self.sos_idx))
+        return label_encoder.reverse_batch(
+            logits,
+            masked=override_src or src,
+            ignore=(self.pad_idx, self.eos_idx, self.sos_idx)
+        )
 
     def gradient(
         self,
