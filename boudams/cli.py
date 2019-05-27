@@ -2,9 +2,11 @@ import click
 import re
 import tqdm
 import json
-
+import datetime
 
 from boudams.tagger import Seq2SeqTokenizer
+from boudams.trainer import Trainer
+from boudams.encoder import LabelEncoder, DatasetIterator
 
 from boudams.dataset import conllu, base as dataset_base, plaintext
 
@@ -82,15 +84,15 @@ def generate(output_path, input_path, max_char_length, train_ratio, test_ratio):
 def template(filename):
     """ Generates a template training model in file [FILENAME]"""
     template = {
-        "max_sentence_size": 100,
-        "encoder": {  # Configuration of the encoder
+        "name": "model",
+        "max_sentence_size": 150,
+        "network": {  # Configuration of the encoder
           'emb_enc_dim': 256,
           'enc_n_layers': 10,
           'enc_kernel_size': 3,
           'enc_dropout': 0.25
         },
         "model": 'linear-conv',
-        "batch_size": 32,
         "learner": {
            'lr_grace_periode': 2,
            'lr_patience': 2,
@@ -103,16 +105,64 @@ def template(filename):
         "datasets": {
             "test": "./test.tsv",
             "train": "./train.tsv",
-            "dev": "./dev.tsv"
+            "dev": "./dev.tsv",
+            "random": True
         }
     }
     json.dump(template, filename, indent=4, separators=(',', ': '))
 
 
 @cli.command("train")
-def train():
+@click.argument("config_file", type=click.File("r"))
+@click.option("--epochs", type=int, default=100, help="Number of epochs to run")
+@click.option("--batch_size", type=int, default=32, help="Size of batches")
+@click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
+def train(config_file, epochs, batch_size, device):
     """ Train a model """
-    # ToDo: Have JSON configs here read into the train module
+    config = json.load(config_file)
+
+    masked = config["model"].startswith("linear")
+    train_path, dev_path, test_path = config["datasets"]["train"],\
+                                      config["datasets"]["dev"],\
+                                      config["datasets"]["test"]
+
+    vocabulary = LabelEncoder(
+        maximum_length=config["max_sentence_size"],
+        masked=masked,
+        remove_diacriticals=config["label_encoder"].get("normalize", True),
+        lower=config["label_encoder"].get("lower", True)
+    )
+    vocabulary.build(train_path, dev_path, test_path, debug=True)
+
+    # Get the datasets
+    train_dataset: DatasetIterator = vocabulary.get_dataset(
+        train_path, randomized=config["datasets"].get("random", True))
+    dev_dataset: DatasetIterator = vocabulary.get_dataset(
+        dev_path, randomized=config["datasets"].get("random", True))
+    test_dataset: DatasetIterator = vocabulary.get_dataset(
+        test_path, randomized=config["datasets"].get("random", True))
+
+    print("-- Dataset informations --")
+    print("Number of training examples: {}".format(len(train_dataset)))
+    print("Number of dev examples: {}".format(len(dev_dataset)))
+    print("Number of testing examples: {}".format(len(test_dataset)))
+    print("--------------------------")
+
+    tagger = Seq2SeqTokenizer(
+        vocabulary,
+        device=device, system=config["model"], out_max_sentence_length=config["max_sentence_size"],
+        **config["network"])
+    trainer = Trainer(tagger, device=device)
+    print(tagger.model)
+    print()
+
+    trainer.run(
+        train_dataset, dev_dataset, n_epochs=epochs,
+        fpath=config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0] + ".tar",
+        batch_size=batch_size, **config["learner"]
+    )
+
+    trainer.test(test_dataset, batch_size=batch_size)
 
 
 @cli.command("tag")

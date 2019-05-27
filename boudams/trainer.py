@@ -172,9 +172,10 @@ class Trainer(object):
             mode="loss",
             debug: Callable[[Seq2SeqTokenizer], None] = None
     ):
-        random.seed(_seed)
-        torch.manual_seed(_seed)
-        torch.backends.cudnn.deterministic = True
+        if seed:
+            random.seed(_seed)
+            torch.manual_seed(_seed)
+            torch.backends.cudnn.deterministic = True
 
         if self.tagger.init_weights is not None:
             self.tagger.model.apply(self.tagger.init_weights)
@@ -277,7 +278,7 @@ class Trainer(object):
 
         # create dir if necessary
         dirname = os.path.dirname(fpath)
-        if not os.path.isdir(dirname):
+        if dirname and not os.path.isdir(dirname):
             os.makedirs(dirname)
 
         if csv_content:
@@ -392,7 +393,7 @@ class Trainer(object):
 
         test_loss = self.evaluate(test_dataset, criterion, desc="Test", batch_size=batch_size)
 
-        print(f'| Test Loss: {test_loss.loss:.3f} | Test PPL: {test_loss.perplexity:7.3f} | '
-              f'Test Accuracy {test_loss.accuracy:.3f} | '
-              f'Test Levenshtein {test_loss.scorer.avg_levenshteins():.3f} | '
-              f'Test Levenshtein / Char {test_loss.leven_per_char:.3f}')
+        print(f' Test Loss: {test_loss.loss:.3f} | Perplexity: {test_loss.perplexity:7.3f} | '
+              f'Acc.: {test_loss.accuracy:.3f} | '
+              f'Lev.: {test_loss.scorer.avg_levenshteins():.3f} | '
+              f'Lev. / char: {test_loss.leven_per_char:.3f}')
