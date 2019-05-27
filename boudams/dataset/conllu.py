@@ -6,7 +6,7 @@ import csv
 
 from typing import Iterable, Union
 
-from boudams.dataset.base import write_sentence, check, split
+from boudams.dataset.base import write_sentence
 
 
 def convert(
@@ -32,8 +32,11 @@ def convert(
     :param noise_char_random: Probability to add [NOISE_CHAR] in between words
     :param max_noise_char: Maximum amount of [NOISE_CHAR] to add sequentially
     """
+    if isinstance(input_path, str):
+        data = glob.glob(input_path)
+    else:
+        data = input_path
 
-    data = glob.glob(input_path)
     for input_fp in data:
         output_fp = os.path.abspath(
             os.path.join(
@@ -107,10 +110,11 @@ def convert(
 
 
 if __name__ == "__main__":
+    from boudams.dataset.base import check, split
+
     output = "/home/thibault/dev/boudams/data/seints"
-    output = "/home/thibault/dev/boudams/data/fro"
     inp = "/home/thibault/dev/LiSeinConfessorPandora/data/lemmatises/*.tsv"
-    inp = "/home/thibault/dev/boudams/data/inp/*.tab"
+
     convert(inp, output, dict_reader=True)
     split(output + "/*")
     check(output + "/")

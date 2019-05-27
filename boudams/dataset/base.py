@@ -47,7 +47,12 @@ def write_sentence(io_file, sentence: List[str], max_chars: int = 150):
         io_file.write(formatter(sequence))
 
 
-def check(input_path, max_length=100):
+def check(input_path: str, max_length: int = 100):
+    """ Check train.tsv, dev.tsv and test.tsv in [INPUT_PATH] and print report
+
+    :param input_path: Directory containing train, dev and test
+    :param max_length: Maximum length of character for input or output
+    """
     files = ("test.tsv", "dev.tsv", "train.tsv")
     for file in files:
         max_chars, min_chars, min_words, max_words = 0, max_length, max_length, 0
@@ -80,28 +85,26 @@ def check(input_path, max_length=100):
             print("------")
 
 
-def split(input_path: Union[str, Iterable[str]], ratio: Tuple[float, float, float] = (0.8, 0.1, 0.1),
+def split(input_path: Union[str, Iterable[str]], output_path: str, ratio: Tuple[float, float, float] = (0.8, 0.1, 0.1),
           max_char_length: int = 150):
-    """
+    """ Split a corpus of files into train, dev and test set
 
-    :param input_path:
-    :param ratio:
-    :return:
+    :param input_path: List of path of Glib-Like path
+    :param ratio: Ratio (Train, Dev, Test)
+    :param max_char_length: Maximum length of input or output
     """
     max_char_length -= 2  # Remove SOS and EOS token
 
     train_ratio, dev_ratio, test_ratio = ratio
     if train_ratio + dev_ratio + test_ratio != 1.0:
-        raise AssertionError("Ratios sum should equal 1, got %s " % train_ratio + dev_ratio + test_ratio)
+        raise AssertionError("Ratios sum should equal 1, got %s " % (train_ratio + dev_ratio + test_ratio))
 
     if isinstance(input_path, str):
         input_path = glob.glob(input_path)
 
-    directory = os.path.dirname(input_path[0])
-
-    test_io = open(os.path.join(directory, "test.tsv"), "w")
-    dev_io = open(os.path.join(directory, "dev.tsv"), "w")
-    train_io = open(os.path.join(directory, "train.tsv"), "w")
+    test_io = open(os.path.join(output_path, "test.tsv"), "w")
+    dev_io = open(os.path.join(output_path, "dev.tsv"), "w")
+    train_io = open(os.path.join(output_path, "train.tsv"), "w")
 
     for file in input_path:
         if os.path.basename(file) in ("test.tsv", "dev.tsv", "train.tsv") or ".masked" in file:
@@ -135,4 +138,4 @@ def split(input_path: Union[str, Iterable[str]], ratio: Tuple[float, float, floa
                     continue
                 tgt.write(line)
 
-    print("[DONE] Files available at %s " % os.path.join(directory, "test.tsv"))
+    print("[DONE] Files available at %s " % output_path)

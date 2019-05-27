@@ -6,10 +6,75 @@ import json
 
 from boudams.tagger import Seq2SeqTokenizer
 
+from boudams.dataset import conllu, base as dataset_base, plaintext
+
 
 @click.group()
 def cli():
     """ Boudams is a tokenizer built on deep learning. """
+
+
+@cli.group("dataset")
+def dataset():
+    """ Dataset related functions """
+
+
+@dataset.command("convert")
+@click.argument("method", type=click.Choice(['tsv', 'tsv-header', 'plain-text']))
+@click.argument("output_path", type=click.Path(file_okay=False))
+@click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
+@click.option("--min_words", type=int, default=2, help="Minimum of words to build a line")
+@click.option("--max_words", type=int, default=10, help="Maximum number of words to build a line")
+@click.option("--min_char_length", type=int, default=7, help="Minimum amount of characters to build a line")
+@click.option("--max_char_length", type=int, default=100, help="Maximum amount of characters to build a line")
+@click.option("--random_keep", type=float, default=0.3, help="Probability to keep some words for the next sequence")
+@click.option("--max_kept", type=int, default=1, help="Maximum amount of words to be kept over next sequence")
+@click.option("--noise_char", type=str, default=".", help="Character to add between words for noise purposes")
+@click.option("--noise_char_random", type=float, default=0.2, help="Probability to add [NOISE_CHAR] in between words")
+@click.option("--max_noise_char", type=int, default=2, help="Maximum amount of [NOISE_CHAR] to add sequentially")
+def generate(method, output_path, input_path, min_words, max_words, min_char_length,
+             max_char_length, random_keep, max_kept, noise_char, noise_char_random, max_noise_char):
+    """ Build sequence training data using files with [METHOD] format in [INPUT_PATH] and saving the
+    converted format into [OUTPUT_PATH]
+
+    If you are using `tsv-header` as a method, columns containing tokens should be named "tokens" or "form"
+    """
+    if method.startswith("tsv"):
+        conllu.convert(
+            input_path, output_path, min_words=min_words, max_words=max_words,
+            min_char_length=min_char_length, max_char_length=max_char_length,
+            random_keep=random_keep, max_kept=max_kept, noise_char=noise_char,
+            noise_char_random=noise_char_random, max_noise_char=max_noise_char,
+            dict_reader=method.endswith("header")
+        )
+    else:
+        plaintext.convert(
+            input_path, output_path, min_words=min_words, max_words=max_words,
+            min_char_length=min_char_length, max_char_length=max_char_length,
+            random_keep=random_keep, max_kept=max_kept, noise_char=noise_char,
+            noise_char_random=noise_char_random, max_noise_char=max_noise_char
+        )
+
+
+@dataset.command("generate")
+@click.argument("output_path", type=click.Path(file_okay=False))
+@click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
+@click.option("--max_char_length", type=int, default=100, help="Maximum amount of characters to build a line")
+@click.option("--train", "train_ratio", type=float, default=0.8, help="Train ratio")
+@click.option("--test", "test_ratio", type=float, default=0.1, help="Test ratio")
+def generate(output_path, input_path, max_char_length, train_ratio, test_ratio):
+    """ Build sequence training data using files with [METHOD] format in [INPUT_PATH] and saving the
+    converted format into [OUTPUT_PATH]
+
+    If you are using `tsv-header` as a method, columns containing tokens should be named "tokens" or "form"
+    """
+    dev_ratio = 1.0 - train_ratio - test_ratio
+    if dev_ratio <= 0.0:
+        print("Train + Test cannot be greater or equal to 1.0")
+        return
+    dataset_base.split(input_path, output_path, max_char_length=max_char_length,
+                       ratio=(train_ratio, dev_ratio, test_ratio))
+    dataset_base.check(output_path, max_length=max_char_length)
 
 
 @cli.command("template")
@@ -31,6 +96,10 @@ def template(filename):
            'lr_patience': 2,
            'lr': 0.0001
         },
+        "label_encoder": {
+            "normalize": True,
+            "lower": True
+        },
         "datasets": {
             "test": "./test.tsv",
             "train": "./train.tsv",
@@ -49,7 +118,7 @@ def train():
 @cli.command("tag")
 @click.argument("model", type=click.Path(exists=True, file_okay=True, dir_okay=False))
 @click.argument("filename", nargs=-1, type=click.File("r"))
-#@click.option("device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
+@click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
 def tag(model, filename, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     print("Loading the model.")
