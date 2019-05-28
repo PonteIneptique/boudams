@@ -1,52 +1,55 @@
-Charles,par.lagracedeDieu,rois	Charles , par . la grace de Dieu , rois
-deFranceetde	de France et de
-Navarre.Savoirfaisonsàtouz,presens	Navarre . Savoir faisons à touz , presens
+Charles,parlagracedeDieu,roisde	Charles , par la grace de Dieu , rois de
+FranceetdeNavarre	France et de Navarre
+.Savoirfaisonsàtouz,	. Savoir faisons à touz ,
 presensetavenir,que	presens et avenir , que
-ilnousplaistetvoulonsetoctroionsànostre	il nous plaist et voulons et octroions à nostre
-améetfealAndrieudeLaval,chevalier	amé et feal Andrieu de Laval , chevalier
-,que,pourcausedeEustacede	, que , pour cause de Eustace de
+queilnous	que il nous
+plaistetvoulonsetoctroions	plaist et voulons et octroions
+octroionsànostre..	octroions à nostre . .
+.améetfealAndrieudeLaval,chevalier,	. amé et feal Andrieu de Laval , chevalier ,
+que,pourcausede.EustacedeBauçay	que , pour cause de . Eustace de Bauçay
 Bauçay,sacompaigne,	Bauçay , sa compaigne ,
-etdeses	et de ses
-sesanfens,	ses anfens ,
-leditchevalieretleshoirsetsuccesseursdelui	le dit chevalier et les hoirs et successeurs de lui
-etdesaditecompaignepreignent	et de sa dite compaigne preignent
-preignentetreçoiventdèsoreenavantneufcenzlivres	preignent et reçoivent dès ore en avant neuf cenz livres
-tournoisdeannuel	tournois de annuel
-rentesuslesemolumensde..nostrechastelleriede	rente sus les emolumens de . . nostre chastellerie de
-LangèsetdeChinon	Langès et de Chinon
-Chinon,parlamain	Chinon , par la main
-denostrereceveurdeTourainne,quiestà	de nostre receveur de Tourainne , qui est à
-presentetserapourletempsavenir	present et sera pour le temps avenir
-avenir,touzjoursmais,etquelesdiz	avenir , touz jours mais , et que les diz
-receveurs..les	receveurs . . les
-leurpaientpaisiblementchascunan,sanz	leur paient paisiblement chascun an , sanz
-nulledifficulté,.aussicommeledit	nulle difficulté , . aussi comme le dit
-chevalierlesaacoustuméàprendreetpercevoiret	chevalier les a acoustumé à prendre et percevoir et
-etleditreceveur	et le dit receveur
-àluipaieroutempspassépour	à lui paier ou temps passé pour
-lacausedessus	la cause dessus
-dessusdite..,jàsoitcequeceuls	dessus dite . . , jà soit ce que ceuls
-dontleditchevalieracausepourraisondesa	dont le dit chevalier a cause pour raison de sa
-ditecompaigneetdesenfanzla.preissentavantau	dite compaigne et des enfanz la . preissent avant au
-Tresor..	Tresor . .
-Laquelechosenouslifaisonsetoctroionsde	La quele chose nous li faisons et octroions de
-graceespecial.Sauf	grace especial . Sauf
-en..autreschosesnostre	en . . autres choses nostre
-droitetentoutes	droit et en toutes
-l'autrui.Etpourcequece	l ' autrui . Et pour ce que ce
-soit.ferme	soit . ferme
-choseetestableperpetuelment,	chose et estable perpetuelment ,
-nousavonsfaitmettrenostreseelen	nous avons fait mettre nostre seel en
-cespresenteslettres.	ces presentes lettres .
-DonnéesàParis,l	Données à Paris , l
-'andegrace	' an de grace
-milccc.xx.iiij.le	mil ccc . xx . iiij . le
-moisdedecembre.	mois de decembre .
-.Aliassignata	. Alias signata
-signata:Parleroyà..larelacion	signata : Par le roy à . . la relacion
+etdesesanfens,.	et de ses anfens , .
+leditchevalieretleshoirs	le dit chevalier et les hoirs
+hoirsetsuccesseursde	hoirs et successeurs de
+luietdesaditecompaignepreignentet	lui et de sa dite compaigne preignent et
+reçoiventdès	reçoivent dès
+oreenavantneuf	ore en avant neuf
+cenzlivrestournoisdeannuelrentesusles	cenz livres tournois de annuel rente sus les
+emolumensdenostrechastelleriedeLangèsetdeChinon,	emolumens de nostre chastellerie de Langès et de Chinon ,
+,parlamaindenostre	, par la main de nostre
+receveurde	receveur de
+Tourainne,quiestàpresentet	Tourainne , qui est à present et
+serapourletempsavenir	sera pour le temps avenir
+,touzjoursmais,	, touz jours mais ,
+,etquelesdizreceveursles	, et que les diz receveurs les
+leurpaientpaisiblement	leur paient paisiblement
+chascunan,sanznulle	chascun an , sanz nulle
+difficulté,aussicommele	difficulté , aussi comme le
+leditchevalierles	le dit chevalier les
+aacoustumé	a acoustumé
+acoustuméàprendre	acoustumé à prendre
+etpercevoiretleditreceveuràluipaierou	et percevoir et le dit receveur à lui paier ou
+tempspassépourlacausedessusdite,jà	temps passé pour la cause dessus dite , jà
+soitcequeceuls..	soit ce que ceuls . .
+.dontledit	. dont le dit
+ditchevalieracausepour.raison	dit chevalier a cause pour . raison
+desaditecompaigneetdes	de sa dite compaigne et des
+desenfanz..lapreissent	des enfanz . . la preissent
+preissentavantauTresor.Laquelechosenouslifaisons	preissent avant au Tresor . La quele chose nous li faisons
+etoctroionsdegraceespecial	et octroions de grace especial
+.Saufen	. Sauf en
+enautreschosesnostredroitet.en	en autres choses nostre droit et . en
+toutesl'autrui.Etpourcequece	toutes l ' autrui . Et pour ce que ce
+cesoitfermechoseetestableperpetuelment	ce soit ferme chose et estable perpetuelment
+,nousavonsfaitmettrenostreseel	, nous avons fait mettre nostre seel
+seelencespresenteslettres.DonnéesàParis	seel en ces presentes lettres . Données à Paris
+Paris,l'andegracemilccc.	Paris , l ' an de grace mil ccc .
+xx.iiij	xx . iiij
+.lemoisdedecembre.Aliassignata:Par	. le mois de decembre . Alias signata : Par
+leroyàlarelacionmons	le roy à la relacion mons
 mons.M.	mons . M .
-.deTrie,mareschaldeFrance	. de Trie , mareschal de France
-.H.deDompiere	. H . de Dompiere
-.Etpostmodum:Correctaetrenovatain	. Et postmodum : Correcta et renovata in
-CameraCompotorum	Camera Compotorum
-Compotorum.P.Julianus.	Compotorum . P . Julianus .
+...deTrie	. . . de Trie
+,mareschaldeFrance.H.deDompiere.	, mareschal de France . H . de Dompiere .
+Etpostmodum:Correctaetrenovata	Et postmodum : Correcta et renovata
+renovatainCamera	renovata in Camera
+CameraCompotorum.P.Julianus.	Camera Compotorum . P . Julianus .

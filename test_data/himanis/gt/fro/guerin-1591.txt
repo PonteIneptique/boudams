@@ -1,108 +1,123 @@
-Loys,etc.Savoirfaisonsàtous,presens	Loys , etc . Savoir faisons à tous , presens
-etavenir,Nousavoirreceuel..’	et avenir , Nous avoir receue l . . ’
-umblesupplicaciondenozchèresetbien	umble supplicacion de noz chères et bien
-améeslesreligieuses,abbesseetconvent..	amées les religieuses , abbesse et convent . .
-.delaSaincteTrinitédePoictiers,contenantqu’	. de la Saincte Trinité de Poictiers , contenant qu ’
-ellessontdamesdelaterre	elles sont dames de la terre
-etseigneuriedeNyeill’Espoir,lequel	et seigneurie de Nyeil l ’ Espoir , lequel
-lieudeNyeill’Espoirestassis	lieu de Nyeil l ’ Espoir est assis
-etsitué	et situé
-enpaïsbonetfertileet..yaffluent	en païs bon et fertile et . . y affluent
-etfrequententetèsenvironsgrantquantitédemarchans	et frequentent et ès environs grant quantité de marchans
-enplusieurssaisonsde	en plusieurs saisons de
-del’année,etenauroitencoresplus,	de l ’ année , et en auroit encores plus ,
-s’ilz..avoientlieuettempsdeterminezpoureulx	s ’ ilz . . avoient lieu et temps determinez pour eulx
-assembleretcommunicquer,	assembler et communicquer ,
-enNousrequeranthumblementqueattenducequeditest	en Nous requerant humblement que attendu ce que dit est
-etqueleditlieu	et que ledit lieu
-deNyeill’Espoirest	de Nyeil l ’ Espoir est
-estenlieumoultpropreetconvenablepourl’	est en lieu moult propre et convenable pour l ’
-assembléedesdizmarchans,	assemblée desdiz marchans ,
-et..ytenir	et . . y tenir
-quatrefoiresl’annéeàcertainsjourset	quatre foires l ’ année à certains jours et
-marchéàungjourdelasepmaine,il	marché à ung jour de la sepmaine , il
-Nousplaisesurcecreeretestablir	Nous plaise sur ce creer et establir
-auditlieudeNyeil	audit lieu de Nyeil
-l’Espoirquatrefoiresparchacunanet	l ’ Espoir quatre foires par chacun an et
-ungmarchélasepmaine	ung marché la sepmaine
-,c’estassavoir..lapremieredesdictesfoires	, c ’ est assavoir . . la premiere desdictes foires
-lejouret..festesainctGervais,lasecondele	le jour et . . feste sainct Gervais , la seconde le
-lendemaindelafeste	lendemain de la feste
-festedelaNativitéNostreDameenseptembre	feste de la Nativité Nostre Dame en septembre
-,latiercelejouretfeste	, la tierce le jour et feste
-festesainctClemensetlaquarte..le	feste sainct Clemens et la quarte . . le
-jouretfestesainct	jour et feste sainct
-Mathiasenfevrieretleditmarchéaujour	Mathias en fevrier et ledit marché au jour
-devendredipar	de vendredi par
-parchacunesepmaineetsurcenostregraceleur	par chacune sepmaine et sur ce nostre grace leur
-impartir.PourquoyNous,ceschosesconsiderées	impartir . Pourquoy Nous , ces choses considerées
-,desiranslecoursde..marchandiseestre	, desirans le cours de . . marchandise estre
-multipliéennostreroyaume,et	multiplié en nostre royaume , et
-etafind’	et afin d ’
-augmenterles	augmenter les
+Loys,etc	Loys , etc
+etc.Savoirfaisonsàtous,	etc . Savoir faisons à tous ,
+,presensetavenir,Nousavoirreceuel	, presens et avenir , Nous avoir receue l
+l’umblesupplicaciondenozchèresetbienaméesles	l ’ umble supplicacion de noz chères et bien amées les
+religieuses,abbesseet	religieuses , abbesse et
+conventdelaSaincteTrinitédePoictiers,contenantqu	convent de la Saincte Trinité de Poictiers , contenant qu
+’ellessont	’ elles sont
+sontdamesdelaterreetseigneuriedeNyeill	sont dames de la terre et seigneurie de Nyeil l
+’Espoir,lequellieude	’ Espoir , lequel lieu de
+deNyeill’Espoirestassisetsituéen	de Nyeil l ’ Espoir est assis et situé en
+enpaïsbonetfertileetyaffluentet	en païs bon et fertile et y affluent et
+etfrequententetèsenvironsgrantquantitéde	et frequentent et ès environs grant quantité de
+marchans..enplusieurssaisonsdel’année,et	marchans . . en plusieurs saisons de l ’ année , et
+enauroitencoresplus,s	en auroit encores plus , s
+’ilzavoientlieuettempsdeterminez	’ ilz avoient lieu et temps determinez
+poureulxassembleret	pour eulx assembler et
+communicquer,enNousrequeranthumblementqueattendu	communicquer , en Nous requerant humblement que attendu
+cequeditestetqueleditlieudeNyeil	ce que dit est et que ledit lieu de Nyeil
+l’Espoirestenlieumoultpropreetconvenable	l ’ Espoir est en lieu moult propre et convenable
+pourl’assemblée	pour l ’ assemblée
+desdizmarchans,et	desdiz marchans , et
+ytenirquatrefoires	y tenir quatre foires
+foiresl’annéeàcertainsjoursetmarché	foires l ’ année à certains jours et marché
+àungjourdelasepmaine,	à ung jour de la sepmaine ,
+ilNousplaisesurcecreer..etestabliraudit	il Nous plaise sur ce creer . . et establir audit
+lieudeNyeill’Espoir	lieu de Nyeil l ’ Espoir
+Espoirquatrefoiresparchacunanetungmarché	Espoir quatre foires par chacun an et ung marché
+lasepmaine,c’estassavoirlapremieredesdictes	la sepmaine , c ’ est assavoir la premiere desdictes
+desdictesfoiresle	desdictes foires le
+jouretfestesainctGervais,lasecondele	jour et feste sainct Gervais , la seconde le
+lelendemaindelafestede	le lendemain de la feste de
+laNativitéNostreDameenseptembre	la Nativité Nostre Dame en septembre
+,latiercelejouretfestesainct	, la tierce le jour et feste sainct
+Clemensetla.quarte	Clemens et la . quarte
+quartelejouretfestesainctMathiasenfevrier	quarte le jour et feste sainct Mathias en fevrier
+etleditmarchéaujourdevendredipar	et ledit marché au jour de vendredi par
+parchacunesepmaineetsurcenostregraceleurimpartir.	par chacune sepmaine et sur ce nostre grace leur impartir .
+PourquoyNous,	Pourquoy Nous ,
+ceschoses	ces choses
+chosesconsiderées,desiranslecoursdemarchandiseestremultiplié	choses considerées , desirans le cours de marchandise estre multiplié
+ennostreroyaume,et	en nostre royaume , et
+afind..’augmenter	afin d . . ’ augmenter
 lesdroizetdommainesdesdiz	les droiz et dommaines desdiz
-supplians,àcequ’elles	supplians , à ce qu ’ elles
-aientmieulxdequoyvivre,pourfairedire	aient mieulx de quoy vivre , pour faire dire
-etentretenirleservicedivindeuetaccoustuméestre	et entretenir le service divin deu et accoustumé estre
-estrefaitouditmonastèrequiest..,commeditest,	estre fait oudit monastère qui est . . , comme dit est ,
-fondédela	fondé de la
+supplians,àcequ	supplians , à ce qu
+qu’ellesaientmieulxdequoyvivre,pourfaire	qu ’ elles aient mieulx de quoy vivre , pour faire
+fairedireetentretenir	faire dire et entretenir
+entretenirleservicedivindeuet	entretenir le service divin deu et
+accoustuméestrefait	accoustumé estre fait
+ouditmonastèrequiest,.commedit	oudit monastère qui est , . comme dit
+est,fondédelaSaincte	est , fondé de la Saincte
 SaincteTrinité,	Saincte Trinité ,
-,etenfaveurdenostre	, et en faveur de nostre
-améetfealconseilleret	amé et feal conseiller et
-etchambellanet.grantmareschaldenozlogis	et chambellan et . grant mareschal de noz logis
-JehandeBlanchefort,chevalier,maire	Jehan de Blanchefort , chevalier , maire
-deBordeaulx.,freredeladicteabbesse,qui	de Bordeaulx . , frere de ladicte abbesse , qui
-quisurceNousapourlesdiz	qui sur ce Nous a pour lesdiz
-supplianssuppliéetrequis;	supplians supplié et requis ;
-;pourcescausesetautresàce	; pour ces causes et autres à ce
-ceNousmouvans,avons,denostrecertainescience,	ce Nous mouvans , avons , de nostre certaine science ,
-,grace..especial,plaine	, grace . . especial , plaine
-puissanceet	puissance et
-etauctoritéroyal,creéet	et auctorité royal , creé et
-establyetparcespresentes	estably et par ces presentes
-presentescreonsetestablissonsauditlieudeNyeill	presentes creons et establissons audit lieu de Nyeil l
-l’Espoirquatrefoires	l ’ Espoir quatre foires
-foiresparchacunanetungmarché..touteslessepmaines,	foires par chacun an et ung marché . . toutes les sepmaines ,
-,pouryestretenuesetexcercées,c’	, pour y estre tenues et excercées , c ’
-’estassavoir.lapremierefoireleditjouretfestesainct	’ est assavoir . la premiere foire ledit jour et feste sainct
-sainctGervais,lasecondelelendemaindelafeste	sainct Gervais , la seconde le lendemain de la feste
-festede..laNativitéNostreDameenseptembre,latierce	feste de . . la Nativité Nostre Dame en septembre , la tierce
-le..lendemain	le . . lendemain
-lendemaindujouretfestesainctClemens..etlaquartele	lendemain du jour et feste sainct Clemens . . et la quarte le
-jouretfeste..sainctMathias	jour et feste . . sainct Mathias
-enfevrier,etleditmarchéau	en fevrier , et ledit marché au
-aujour.de	au jour . de
-vendrediparchacunesepmaine.;	vendredi par chacune sepmaine . ;
-;ausquelzjourl’onpourravendreetachaptertoutes	; ausquelz jour l ’ on pourra vendre et achapter toutes
-toutesmanieresdemarchandiseslicitesethonnestes,comme	toutes manieres de marchandises licites et honnestes , comme
-l’onfait	l ’ on fait
-faitèsautresfoiresdenostredit	fait ès autres foires de nostre dit
-ditroyaume.	dit royaume .
-.SurlesquellesdenréesetmarchandisesNousdonnonspovoir	. Sur lesquelles denrées et marchandises Nous donnons povoir
-etauctoritéparcesdictes	et auctorité par cesdictes
-cesdictespresentesausdictessuppliansqu’ellespuissentetleur	cesdictes presentes ausdictes supplians qu ’ elles puissent et leur
-leurloisejoiretuserdetoutes	leur loise joir et user de toutes
-manieresde	manieres de
-coustumes,poix,aulnages	coustumes , poix , aulnages
-,privilleges,franchises,libertez	, privilleges , franchises , libertez
-libertez,prerogativesetpreeminences,ainsietparla	libertez , prerogatives et preeminences , ainsi et par la
-formeetmanierequeontacoustumé	forme et maniere que ont acoustumé
-dejoiretuserlesseigneursduditpaïsde	de joir et user les seigneurs dudit païs de
-Poictou,ouquelestassisleditlieudeNyeil,	Poictou , ouquel est assis ledit lieu de Nyeil ,
-ayansfoires	ayans foires
-foireset.marchezenleursterresetseigneuries	foires et . marchez en leurs terres et seigneuries
-.Sidonnonsen..mandementparcesmesmespresentesau	. Si donnons en . . mandement par ces mesmes presentes au
-seneschaldePoictou.	seneschal de Poictou .
-.etàtousnozautresjusticiers,etc.,	. et à tous noz autres justiciers , etc .,
-quedenozpresensgrace,creacionetestablissement,	que de noz presens grace , creacion et establissement ,
-etc..Etafin,etc.,Saufetc.	etc .. Et afin , etc ., Sauf etc .
-.DonnéàThouars,oumois	. Donné à Thouars , ou mois
-dejanvierl’andegrace	de janvier l ’ an de grace
-milcccc.quatrevingsetung,et	mil cccc . quatre vings et ung , et
-denostre	de nostre
-nostrerègnelavingtet	nostre règne la vingt et
-ungiesme.Ainsisigné:Parle	ungiesme . Ainsi signé : Par le
-leroy,les..	le roy , les . .
-evesquesd’AlbyetdeLombezet	evesques d ’ Alby et de Lombez et
-etautrespresens,Amys.—Visa.	et autres presens , Amys .— Visa .
-.Contentor.Texier.	. Contentor . Texier .
+,etenfaveur	, et en faveur
+denostre.amé	de nostre . amé
+améetfealconseilleretchambellanet	amé et feal conseiller et chambellan et
+etgrantmareschal	et grant mareschal
+denozlogisJehandeBlanchefort	de noz logis Jehan de Blanchefort
+,chevalier,	, chevalier ,
+mairedeBordeaulx,frerede	maire de Bordeaulx , frere de
+deladicteabbesse,quisurceNousa	de ladicte abbesse , qui sur ce Nous a
+pourlesdizsupplians	pour lesdiz supplians
+supplianssuppliéetrequis;pources	supplians supplié et requis ; pour ces
+cescausesetautresàceNous	ces causes et autres à ce Nous
+mouvans,avons..,denostrecertainescience,	mouvans , avons . . , de nostre certaine science ,
+,graceespecial,plainepuissanceetauctoritéroyal,creé	, grace especial , plaine puissance et auctorité royal , creé
+etestablyetparcespresentescreonsetestablissonsaudit	et estably et par ces presentes creons et establissons audit
+lieudeNyeill’Espoirquatrefoires.par	lieu de Nyeil l ’ Espoir quatre foires . par
+chacunan	chacun an
+etungmarchétoutesles.sepmaines,poury	et ung marché toutes les . sepmaines , pour y
+estretenuesetexcercées,	estre tenues et excercées ,
+,.c’estassavoir	, . c ’ est assavoir
+lapremierefoireleditjouretfestesainct	la premiere foire ledit jour et feste sainct
+Gervais,la	Gervais , la
+secondele	seconde le
+lendemain.de	lendemain . de
+lafestede	la feste de
+laNativitéNostreDameenseptembre,la	la Nativité Nostre Dame en septembre , la
+tiercele	tierce le
+lendemaindu	lendemain du
+jouretfestesainctClemenset	jour et feste sainct Clemens et
+laquartelejouretfestesainctMathiasen	la quarte le jour et feste sainct Mathias en
+enfevrier,etledit	en fevrier , et ledit
+marchéaujourdevendrediparchacunesepmaine;..ausquelz	marché au jour de vendredi par chacune sepmaine ; . . ausquelz
+jourl’onpourra	jour l ’ on pourra
+vendreetachaptertoutesmanieresdemarchandiseslicites	vendre et achapter toutes manieres de marchandises licites
+licitesethonnestes,.commel	licites et honnestes , . comme l
+’onfait	’ on fait
+faitèsautresfoiresde	fait ès autres foires de
+denostreditroyaume.Surlesquellesdenrées	de nostre dit royaume . Sur lesquelles denrées
+denréesetmarchandisesNousdonnonspovoiret	denrées et marchandises Nous donnons povoir et
+auctoritéparcesdictespresentesausdictes	auctorité par cesdictes presentes ausdictes
+ausdictessuppliansqu’ellespuissentetleurloisejoir	ausdictes supplians qu ’ elles puissent et leur loise joir
+etuserdetoutesmanieresde	et user de toutes manieres de
+coustumes..,poix,	coustumes . . , poix ,
+,aulnages,privilleges,franchises,libertez	, aulnages , privilleges , franchises , libertez
+,prerogativeset..	, prerogatives et . .
+.preeminences,ainsietpar	. preeminences , ainsi et par
+laformeet	la forme et
+maniereque	maniere que
+ontacoustumédejoiretuserlesseigneursdudit	ont acoustumé de joir et user les seigneurs dudit
+duditpaïsdePoictou.	dudit païs de Poictou .
+,ouquel.est	, ouquel . est
+estassisledit	est assis ledit
+lieudeNyeil,..ayansfoiresetmarchez	lieu de Nyeil , . . ayans foires et marchez
+marchezenleursterres..et	marchez en leurs terres . . et
+etseigneuries.Si	et seigneuries . Si
+donnons.en	donnons . en
+enmandementparcesmesmes	en mandement par ces mesmes
+presentesauseneschaldePoictou	presentes au seneschal de Poictou
+et.àtous	et . à tous
+nozautresjusticiers,	noz autres justiciers ,
+etc.,quedenozpresensgrace,creacion	etc ., que de noz presens grace , creacion
+creacionetestablissement	creacion et establissement
+establissement,etc..Etafin,etc.,	establissement , etc .. Et afin , etc .,
+.,Saufetc.DonnéàThouars,oumoisde	., Sauf etc . Donné à Thouars , ou mois de
+janvierl’ande	janvier l ’ an de
+gracemil	grace mil
+cccc.quatrevingsetung,	cccc . quatre vings et ung ,
+etdenostrerègnelavingt	et de nostre règne la vingt
+etungiesme.Ainsisigné:	et ungiesme . Ainsi signé :
+:Parleroy,lesevesquesd	: Par le roy , les evesques d
+’Albyet	’ Alby et
+etdeLombezetautrespresens,Amys.—Visa.	et de Lombez et autres presens , Amys .— Visa .
+Contentor.Texier.	Contentor . Texier .

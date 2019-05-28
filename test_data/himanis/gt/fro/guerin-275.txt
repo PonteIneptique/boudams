@@ -1,69 +1,57 @@
-Philippes,parlagrace.deDieu,roysde	Philippes , par la grace . de Dieu , roys de
-France.Savoirfaisons	France . Savoir faisons
-àtouz,presenzetavenir,que	à touz , presenz et avenir , que
-,àlasupplicaciondePerronnelled	, à la supplicacion de Perronnelle d
-d'Oreilly,damedelaGrisse,disant	d ' Oreilly , dame de la Grisse , disant
-disantqueellea	disant que elle a
-fondéouententàfoncier	fondé ou entent à foncier
-deuxchappelleniesperpetuelles,	deux chappellenies perpetuelles ,
-l'uneenl	l ' une en l
-'eglise	' eglise
-eglisedeNostre-	eglise de Nostre -
-DameduPyn.,assise	Dame du Pyn . , assise
-enladiocèsedeMaillezeis,	en la diocèse de Maillezeis ,
+Philippes,parlagracede	Philippes , par la grace de
+Dieu,roysdeFrance.Savoirfaisons	Dieu , roys de France . Savoir faisons
+faisonsàtouz,presenzetavenir,	faisons à touz , presenz et avenir ,
+,que,àlasupplicacion	, que , à la supplicacion
+dePerronnelled'Oreilly,	de Perronnelle d ' Oreilly ,
+,damedelaGrisse,disantqueelleafondé	, dame de la Grisse , disant que elle a fondé
+ouententàfoncierdeuxchappelleniesperpetuelles,l'	ou entent à foncier deux chappellenies perpetuelles , l '
+uneenl'eglisedeNostre	une en l ' eglise de Nostre
+-.DameduPyn,assiseenladiocèsede	- . Dame du Pyn , assise en la diocèse de
+Maillezeis,	Maillezeis ,
 etl'autre	et l ' autre
-enl'eglisedeSaint-HilairedeNyoul	en l ' eglise de Saint - Hilaire de Nyoul
-,enladiocèse	, en la diocèse
-diocèsedePoitiers,	diocèse de Poitiers ,
-etqueycelleschapellenieselle	et que ycelles chapellenies elle
-adouéesouvueilledouer,pouryfaire	a douées ou vueille douer , pour y faire
-célebrerle	célebrer le
-devinservice,de	devin service , de
-vintlivresderente,c	vint livres de rente , c
-c'estassavoirchascunede	c ' est assavoir chascune de
-dedizlivresparisis.derente	de diz livres parisis . de rente
-annueleetperpetuele;nous	annuele et perpetuele ; nous
-,consideranzsabonnedevocion,etpource	, consideranz sa bonne devocion , et pour ce
-aussiquenous,nostre	aussi que nous , nostre
-nostretrèschierecompaignelaroyne,etnozsuccesseurs,	nostre très chiere compaigne la royne , et noz successeurs ,
-,soionsparticipansdesmesses	, soions participans des messes
-,prieresetoroisonsquiyserontfaiteset	, prieres et oroisons qui y seront faites et
-dites,liavonsoctroyéetoctroyons,	dites , li avons octroyé et octroyons ,
-,degraceespecial,par	, de grace especial , par
-parceslettres,que	par ces lettres , que
-lesditeschapellenieselle	les dites chapellenies elle
-ellepuissedouerdelarente,sanzfiez	elle puisse douer de la rente , sanz fiez
-fiez..etsanz	fiez . . et sanz
-justice,et	justice , et
-que..leschapellains	que . . les chapellains
-quipourle..tempsseront	qui pour le . . temps seront
-serontestablizàdeservirycelleschapellenies	seront establiz à deservir ycelles chapellenies
-,puissenttenirettiengnentperpetuelmentet	, puissent tenir et tiengnent perpetuelment et
-etpaisiblement.laditerente,sanzceque	et paisiblement . la dite rente , sanz ce que
-queilsoientoupuissentestrecontrainsàlavendreou	que il soient ou puissent estre contrains à la vendre ou
-mettrehors	mettre hors
-horsdeleurmain	hors de leur main
-,commentquecesoit,et	, comment que ce soit , et
-senzenpaierànousouà	senz en paier à nous ou à
-nozsuccesseursaucune..finance,laquellefinance	noz successeurs aucune . . finance , la quelle finance
-financenousavonsquictié	finance nous avons quictié
-etremis,	et remis ,
-quictonsetremettonsàladitefonderesseet	quictons et remettons à la dite fonderesse et
-ausdizchapellains,denostreditegrace,et	aus diz chapellains , de nostre dite grace , et
-pource.aussyqu'ilsoientplus	pour ce . aussy qu ' il soient plus
-tenuzàprierDieupournous.etpourlebon	tenuz à prier Dieu pour nous . et pour le bon
-estatdenostreroyaume.Et	estat de nostre royaume . Et
-quecesoit	que ce soit
-chosefermeetestableàtouzjours,	chose ferme et estable à touz jours ,
-nousavonsfaitmettrenostreseelen	nous avons fait mettre nostre seel en
-cespresenteslettres	ces presentes lettres
-lettres.Saufnostredroitenautreschoses	lettres . Sauf nostre droit en autres choses
-etl'autrui	et l ' autrui
-autruientoutes..Donnéà	autrui en toutes . . Donné à
-LoncpontsouzMontlehery	Loncpont souz Montlehery
-Montlehery,l'andegracemil	Montlehery , l ' an de grace mil
-milcccquarante,oumoysde	mil ccc quarante , ou moys de
-janvier.Parleroy	janvier . Par le roy
-roy.Cordier.Sine	roy . Cordier . Sine
-financia,perlitteras	financia , per litteras
-regias.Datumprimadiejuliiccc.xlj.	regias . Datum prima die julii ccc . xlj .
+enl'eglisedeSaint	en l ' eglise de Saint
+-HilairedeNyoul,enladiocèse	- Hilaire de Nyoul , en la diocèse
+dePoitiers.,etqueycelleschapellenies	de Poitiers . , et que ycelles chapellenies
+elleadouéesouvueilledouer,pouryfaire	elle a douées ou vueille douer , pour y faire
+fairecélebrerledevinservice,devintlivresderente	faire célebrer le devin service , de vint livres de rente
+,c'estassavoirchascunedediz	, c ' est assavoir chascune de diz
+dizlivresparisisderenteannueleet	diz livres parisis de rente annuele et
+perpetuele;nous,consideranzsabonnedevocion.	perpetuele ; nous , consideranz sa bonne devocion .
+,etpourceaussi..quenous,nostretrès	, et pour ce aussi . . que nous , nostre très
+trèschierecompaignelaroyne,etnoz..successeurs,	très chiere compaigne la royne , et noz . . successeurs ,
+soionsparticipansdesmesses,priereset	soions participans des messes , prieres et
+etoroisonsquiyseront	et oroisons qui y seront
+serontfaitesetdites,liavonsoctroyéet	seront faites et dites , li avons octroyé et
+octroyons,degraceespecial,parces	octroyons , de grace especial , par ces
+lettres,que..lesditeschapellenies	lettres , que . . les dites chapellenies
+chapelleniesellepuissedouerdelarente,	chapellenies elle puisse douer de la rente ,
+sanzfiezet	sanz fiez et
+sanzjustice,etqueleschapellains	sanz justice , et que les chapellains
+chapellainsquipourletempsserontestablizàdeservir	chapellains qui pour le temps seront establiz à deservir
+ycelleschapellenies,puissent	ycelles chapellenies , puissent
+puissenttenirettiengnentperpetuelmentetpaisiblementladiterente	puissent tenir et tiengnent perpetuelment et paisiblement la dite rente
+rente,..sanzce	rente , . . sanz ce
+cequeilsoientoupuissentestrecontrainsàlavendre	ce que il soient ou puissent estre contrains à la vendre
+vendreoumettrehorsdeleurmain,comment..	vendre ou mettre hors de leur main , comment . .
+quecesoit,etsenzen	que ce soit , et senz en
+enpaierànousou	en paier à nous ou
+ouànozsuccesseursaucunefinance,laquellefinancenous	ou à noz successeurs aucune finance , la quelle finance nous
+nousavonsquictiéet	nous avons quictié et
+etremis,quictonsetremettonsàla	et remis , quictons et remettons à la
+laditefonderesseetaus	la dite fonderesse et aus
+dizchapellains,de	diz chapellains , de
+nostreditegrace,etpour	nostre dite grace , et pour
+ceaussyqu'ilsoientplustenuzà	ce aussy qu ' il soient plus tenuz à
+prierDieupournousetpourlebonestat	prier Dieu pour nous et pour le bon estat
+estatdenostreroyaume.Et.quecesoitchoseferme	estat de nostre royaume . Et . que ce soit chose ferme
+fermeetestableàtouzjours,nous.	ferme et estable à touz jours , nous .
+avonsfaitmettre	avons fait mettre
+nostreseelencespresenteslettres.Saufnostredroit	nostre seel en ces presentes lettres . Sauf nostre droit
+enautreschosesetl'autruien	en autres choses et l ' autrui en
+toutes.DonnéàLoncpontsouzMontlehery	toutes . Donné à Loncpont souz Montlehery
+,l'ande	, l ' an de
+gracemilccc	grace mil ccc
+quarante,oumoysdejanvier.Par	quarante , ou moys de janvier . Par
+leroy.Cordier.Sinefinancia,per	le roy . Cordier . Sine financia , per
+litterasregias...Datumprimadiejuliiccc.xlj	litteras regias . . . Datum prima die julii ccc . xlj
+xlj.Milo.	xlj . Milo .

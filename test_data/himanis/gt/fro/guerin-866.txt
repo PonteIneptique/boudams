@@ -1,227 +1,232 @@
-Charles,etc.Savoirfaisonsàtous..,	Charles , etc . Savoir faisons à tous . . ,
-presensetavenir,nousavoirreceue	presens et avenir , nous avoir receue
-receue.l’umblesupplicaciondesamis	receue . l ’ umble supplicacion des amis
-charnelzdeAndrieuHommet,bouchierdemourantà	charnelz de Andrieu Hommet , bouchier demourant à
-Loudun,	Loudun ,
-,aagiédexl.ansou	, aagié de xl . ans ou
-environ,chargié	environ , chargié
-demereaveugle,	de mere aveugle ,
-defemmeetd’unenfant.del’	de femme et d ’ un enfant . de l ’
-aaged’unanou..environ,contenantque	aage d ’ un an ou . . environ , contenant que
-quecomme,le	que comme , le
-secondlundiaprèslafestesaintMichiel	second lundi après la feste saint Michiel
-derrenierementpassée,leditAndrieufeust.alé	derrenierement passée , le dit Andrieu feust . alé
-aléenlavilledeSavignéLevesqueau,oudiocèse	alé en la ville de Savigné Levesqueau , ou diocèse
-dePoictiers,suresperanced’	de Poictiers , sur esperance d ’
-aleràlafoireà	aler à la foire à
-àMontmorillon,pourachetter	à Montmorillon , pour achetter
-desdenréesdesonmestierdeboucherie	des denrées de son mestier de boucherie
-,afind’	, afin d ’
-enavoiret	en avoir et
-trairelavieetsustentaciondeluietde	traire la vie et sustentacion de lui et de
-sesdismere	ses dis mere
-,femmeet	, femme et
-enfant,enlaquellevilledeSavignéleditAndrieu	enfant , en laquelle ville de Savigné le dit Andrieu
-Hommeteustreperé..enl’ostel	Hommet eust reperé . . en l ’ ostel
-d’unappellé..JehanPinaut	d ’ un appellé . . Jehan Pinaut
-Pinautetenlacompaigniede	Pinaut et en la compaignie de
-GuillaumeBarré,marchant,	Guillaume Barré , marchant ,
-,demourantàChoppesprèsdeMirebeau;etaprès	, demourant à Choppes près de Mirebeau ; et après
-cequele	ce que le
-ditAndrieuetBarré.eurentbeuetfurentmontez	dit Andrieu et Barré . eurent beu et furent montez
-montezàchevalpour	montez à cheval pour
-pouraleràladictefoire,vindrent	pour aler à la dicte foire , vindrent
-pardeversleditAndrieuHommetJehanLengeaisetGuillaume	par devers le dit Andrieu Hommet Jehan Lengeais et Guillaume
-Sorin,lesquelzavoient..amitiéetcongnoissanceavecqueslui,	Sorin , lesquelz avoient . . amitié et congnoissance avecques lui ,
-etparmaniered’esbatementle	et par maniere d ’ esbatement le
-dessendirentetmisdrentàterrede..	dessendirent et misdrent à terre de . .
-.dessussa	. dessus sa
-jument,lui	jument , lui
-osterentsontabartet	osterent son tabart et
-leporterentenlataverne,enl’ostel	le porterent en la taverne , en l ’ ostel
-duditPinaut,et	du dit Pinaut , et
-envoyerentsadictejumentenl’ostel	envoyerent sa dicte jument en l ’ ostel
-duditLengeaisparunenfant,etparce	du dit Lengeais par un enfant , et par ce
-sedepartid	se departi d
-’ilecleditBarréetlaissalesdessus	’ ilec le dit Barré et laissa les dessus
-dizAndrieuHommet,LengeaisetSorinbuvansensemble	diz Andrieu Hommet , Lengeais et Sorin buvans ensemble
-.Auquel	. Auquel
-jour,deverslesoir,yceulxAndrieuHommetet	jour , devers le soir , yceulx Andrieu Hommet et
-etJehanLengeaisalerentpar	et Jehan Lengeais alerent par
-accortsouperensembleen	accort souper ensemble en
-enl’osteldePerrotTassé,demourantou	en l ’ ostel de Perrot Tassé , demourant ou
-ditlieudeSavignéLevesquaut,auquel	dit lieu de Savigné Levesquaut , auquel
-auquelhostelilztrouverentleditPerrotTassé,	auquel hostel ilz trouverent le dit Perrot Tassé ,
-Illaire,safemme,.	Illaire , sa femme , .
-JehanTassé,sonfilz,Robine	Jehan Tassé , son filz , Robine
-,leurchamberiere,et	, leur chamberiere , et
-pluseursautres.,avecquestouslesquelx	pluseurs autres . , avecques tous lesquelx
-etàunetable	et à une table
+Charles,etc.	Charles , etc .
+Savoirfaisonsàtous,presens	Savoir faisons à tous , presens
+etavenir,nous	et avenir , nous
+avoirreceuel’umblesupplicacion	avoir receue l ’ umble supplicacion
+desamischarnelzde	des amis charnelz de
+deAndrieuHommet,bouchierdemourantàLoudun,aagié	de Andrieu Hommet , bouchier demourant à Loudun , aagié
+dexl.ans	de xl . ans
+ouenviron,chargiéde.	ou environ , chargié de .
+mereaveugle,defemmeetd’un	mere aveugle , de femme et d ’ un
+unenfantdel’aaged	un enfant de l ’ aage d
+’unanouenviron,contenantquecomme	’ un an ou environ , contenant que comme
+comme,le	comme , le
+secondlundi	second lundi
+lundiaprèslafestesaintMichielderrenierement	lundi après la feste saint Michiel derrenierement
+passée,le	passée , le
+ditAndrieufeust	dit Andrieu feust
+feustaléenlavilledeSavignéLevesqueau,	feust alé en la ville de Savigné Levesqueau ,
+oudiocèsedePoictiers	ou diocèse de Poictiers
+,suresperance	, sur esperance
+d’aleràla	d ’ aler à la
+lafoireàMontmorillon,pourachetter	la foire à Montmorillon , pour achetter
+achetterdesdenréesdesonmestierdeboucherie,afin	achetter des denrées de son mestier de boucherie , afin
+d’enavoirettrairelavieet	d ’ en avoir et traire la vie et
+etsustentaciondelui	et sustentacion de lui
+etdesesdismere	et de ses dis mere
+mere,.femmeetenfant,	mere , . femme et enfant ,
+,enlaquellevilledeSavigné	, en laquelle ville de Savigné
+SavignéleditAndrieuHommeteust	Savigné le dit Andrieu Hommet eust
+eustreperéenl’ostel	eust reperé en l ’ ostel
+d’un.appellé	d ’ un . appellé
+JehanPinautet	Jehan Pinaut et
+enlacompaigniedeGuillaume	en la compaignie de Guillaume
+Barré,marchant,demourantà	Barré , marchant , demourant à
+Choppesprès	Choppes près
+deMirebeau;etaprèsce	de Mirebeau ; et après ce
+cequeleditAndrieuetBarréeurentbeuet	ce que le dit Andrieu et Barré eurent beu et
+furentmontezàchevalpouraler	furent montez à cheval pour aler
+àladictefoire,vindrentpardeversledit	à la dicte foire , vindrent par devers le dit
+AndrieuHommetJehanLengeais	Andrieu Hommet Jehan Lengeais
+etGuillaumeSorin,lesquelzavoientamitié	et Guillaume Sorin , lesquelz avoient amitié
+etcongnoissance.avecqueslui	et congnoissance . avecques lui
+,etparmaniered’esbatementle	, et par maniere d ’ esbatement le
+dessendirentetmisdrent	dessendirent et misdrent
+misdrentàterrededessussa	misdrent à terre de dessus sa
+jument,luiosterentsontabartetle	jument , lui osterent son tabart et le
+porterentenla	porterent en la
+taverne,enl’ostelduditPinaut,	taverne , en l ’ ostel du dit Pinaut ,
+,etenvoyerent..	, et envoyerent . .
+.sadictejumentenl’	. sa dicte jument en l ’
+’ostelduditLengeais	’ ostel du dit Lengeais
+Lengeaisparunenfant,	Lengeais par un enfant ,
+etparcese.departid	et par ce se . departi d
+’ilecleditBarréet.	’ ilec le dit Barré et .
+laissalesdessusdizAndrieuHommet,Lengeais	laissa les dessus diz Andrieu Hommet , Lengeais
+etSorinbuvansensemble.Auqueljour.,deversle	et Sorin buvans ensemble . Auquel jour . , devers le
+soir,yceulxAndrieuHommetetJehan	soir , yceulx Andrieu Hommet et Jehan
+Lengeaisalerentparaccortsouperensemble	Lengeais alerent par accort souper ensemble
+enl’osteldePerrot	en l ’ ostel de Perrot
+PerrotTassé,demourantoudit.lieudeSavigné	Perrot Tassé , demourant ou dit . lieu de Savigné
+SavignéLevesquaut,auquelhostelilztrouverentleditPerrot	Savigné Levesquaut , auquel hostel ilz trouverent le dit Perrot
+Tassé,Illaire,safemme,JehanTassé,	Tassé , Illaire , sa femme , Jehan Tassé ,
+sonfilz,	son filz ,
+,Robine,	, Robine ,
+leurchamberiere,etpluseursautres,avecquestous	leur chamberiere , et pluseurs autres , avecques tous
+lesquelxetàunetable	lesquelx et à une table
 ilzs’assistrent	ilz s ’ assistrent
-etsouperent;etaprèssoupper	et souperent ; et après soupper
-leditJehanTassérequistaudit	le dit Jehan Tassé requist au dit
-Andrieuqueilvoulsistjoueràluiaujeudes	Andrieu que il voulsist jouer à lui au jeu des
-desquartes,lequelAndrieuensoyexcusantdistque	des quartes , lequel Andrieu en soy excusant dist que
-riensn’	riens n ’
-ensavoit,maisseàdeuxdezvouloitjouer	en savoit , mais se à deux dez vouloit jouer
-jouerpourunepintedevin	jouer pour une pinte de vin
-vin,àtroischances	vin , à trois chances
-chances,il..yjoueroitvoulentiers.Etlors	chances , il . . y joueroit voulentiers . Et lors
-leditJehanTassédemandaauditJehanLengeais	le dit Jehan Tassé demanda au dit Jehan Lengeais
-seeulxdeuxjoueroientetpartiroientensemblecontre	se eulx deux joueroient et partiroient ensemble contre
-le.ditAndrieu,lequelLengeaisleluiaccorda	le . dit Andrieu , lequel Lengeais le lui accorda
-accorda,etincontinentpristyceluiAndrieuensaboursedeux	accorda , et incontinent prist ycelui Andrieu en sa bourse deux
-dezetles	dez et les
-gectasur	gecta sur
-surlatable,dontilzseprinrent..àjouer,	sur la table , dont ilz se prinrent . . à jouer ,
-etgaignaleditJehanTasséune	et gaigna le dit Jehan Tassé une
-pintedevinduditAndrieu	pinte de vin du dit Andrieu
-Andrieu,la	Andrieu , la
-laquelleenlapresenceilluivoultfaire	la quelle en la presence il lui voult faire
-paier,maisyceluiAndrieule	paier , mais ycelui Andrieu le
-lecontredist,disantqu’il	le contredist , disant qu ’ il
-ilavoitassislesdezetque,.	il avoit assis les dez et que , .
-seleditLengeaisavecqueslequel	se le dit Lengeais avecques lequel
-ilpartoitnejouoitencontreledit.Andrieu,	il partoit ne jouoit encontre le dit . Andrieu ,
-ilnepaieroitriensqu’	il ne paieroit riens qu ’
-ileustperdu..LequelLengeaisseprint	il eust perdu . . Lequel Lengeais se print
-tantostàjoueretsuryceluiAndrieugaignauneautre	tantost à jouer et sur ycelui Andrieu gaigna une autre
-autrepintedevin,laquelle	autre pinte de vin , laquelle
-semblablement[voult]lui	semblablement [ voult ] lui
-fairepaierenlapresence,dontil	faire paier en la presence , dont il
-fureffusant.EtadoncquesdistyceluiJehan	fu reffusant . Et adoncques dist ycelui Jehan
-Tassé.auditAndrieuque	Tassé . au dit Andrieu que
-meilleur..estoit	meilleur . . estoit
-estoitdejouerentreluiet	estoit de jouer entre lui et
-yceluiAndrieu..àl	ycelui Andrieu . . à l
-’argentetbaillergaige	’ argent et bailler gaige
-gaige,etdesaboursetira	gaige , et de sa bourse tira
-leditJehanTasséunblancdedixdenierstournois	le dit Jehan Tassé un blanc de dix deniers tournois
-,lequelilbailla	, lequel il bailla
-engardeauditLengeais;etlorsyceluiAndrieu	en garde au dit Lengeais ; et lors ycelui Andrieu
-pristensabourseunblancdecinqdenierset	prist en sa bourse un blanc de cinq deniers et
-lebaillaengardeauditLengeais,	le bailla en garde au dit Lengeais ,
-etvoultjouer;maistantostleditJehanTassé	et voult jouer ; mais tantost ledit Jehan Tassé
-TassédistauditAndrieuque,s’il	Tassé dist au dit Andrieu que , s ’ il
-vouloitjouer	vouloit jouer
-,qu’ilbaillast	, qu ’ il baillast
-autreargent,cardublanc	autre argent , car du blanc
-blancqu’ilavoitbaillénejoueroitilpoint,	blanc qu ’ il avoit baillé ne joueroit il point ,
-,..ainçoisenseroitpaiéle	, . . ainçois en seroit paié le
-vinqu’il	vin qu ’ il
-avoitperdu.Etendisantces	avoit perdu . Et en disant ces
-parolles,leditLengeaisbaillaleditblancde	parolles , le dit Lengeais bailla le dit blanc de
-cinqdenierstournois	cinq deniers tournois
-auditPerrotTassé,lequel	au dit Perrot Tassé , lequel
-lequellebaillaà	lequel le bailla à
-àsafemme.Dontledit	à sa femme . Dont le dit
-Andrieusecourrouça,disantàyceluiLengeaistelz	Andrieu se courrouça , disant à ycelui Lengeais telz
-telzparollesousemblablesensubstance:«Rens	telz parolles ou semblables en substance :« Rens
-moymonblanc,car	moy mon blanc , car
-encoresn.’	encores n . ’
-estpasvenule..vinetàtoyn	est pas venu le . . vin et à toy n
-’appartientpointde	’ appartient point de
-fairemespaiemens».Au	faire mes paiemens ». Au
-quelAndrieules	quel Andrieu les
-lesdizPerrotetJehanTassérespondirentarrogamment	les diz Perrot et Jehan Tassé respondirent arrogamment
-arrogammentquedesonblancn	arrogamment que de son blanc n
-n’avoit	n ’ avoit
-avoitilriens,maisen..	avoit il riens , mais en . .
-seroit..paié	seroit . . paié
-levinqu’ilavoitperdu	le vin qu ’ il avoit perdu
-.Etlorsselevale	. Et lors se leva le
-ditAndrieuensonestant	dit Andrieu en son estant
-etderechief.,commemalmeuetcourroucé	et derechief . , comme mal meu et courroucé
-,distauditLengeaistelzmosousemblables:«	, dist au dit Lengeais telz mos ou semblables :«
-Rensmoymonblanc,oupar	Rens moy mon blanc , ou par
-lesancDieu,jete	le sanc Dieu , je te
-courrouceray».LequelLengeaisrespondiaudit	courrouceray ». Lequel Lengeais respondi au dit
-Andrieuque,seil	Andrieu que , se il
-ilestoittanthardidesoymouvoir,il	il estoit tant hardi de soy mouvoir , il
-seroitbatu.Aprèslaquellechoseainsi	seroit batu . Après laquelle chose ainsi
-dicte,yceluiAndrieuse	dicte , ycelui Andrieu se
-bessaetpristen	bessa et prist en
-lacheminéedudit	la cheminée du dit
-dithosteluntisonoufeuardant,	dit hostel un tison ou feu ardant ,
-disantauditLengeais:«	disant au dit Lengeais :«
-Ha,ribaut.,est	Ha , ribaut . , est
-estilàtoy	est il à toy
-demoymenacer	de moy menacer
-.»AquoyrespondiyceluiLengeaistelz	.» A quoy respondi ycelui Lengeais telz
-moseneffect..:«Commenttune	mos en effect . . :« Comment tu ne
-tebordespas...ParlesancDieu	te bordes pas . . . Par le sanc Dieu
-,.voirement	, . voirement
-seratu.batu,etencestenuit,	sera tu . batu , et en ceste nuit ,
-,setubouges!»	, se tu bouges !»
-!»EtadoncquesleditAndrieuqui	!» Et adoncques le dit Andrieu qui
-estoitseurprisdevinets’	estoit seurpris de vin et s ’
-’estoitmeuet..courroucédes	’ estoit meu et . . courroucé des
-desparollesqui[lui	des parolles qui [ lui
-]avoientesté..dictesetpar	] avoient esté . . dictes et par
-temptaciondel’..ennemi	temptacion de l ’ . . ennemi
-ennemi,haussaledittison	ennemi , haussa le dit tison
-,endisantauditLengeais:«	, en disant au dit Lengeais :«
-:«Afaulxribaut;parle	:« A faulx ribaut ; par le
-sancDieu,..vousle	sanc Dieu , . . vous le
-lecomparrezenpresent».Etence	le comparrez en present ». Et en ce
-conflit.feryyceluiLengeaisdu	conflit . fery ycelui Lengeais du
-dudittisonsurlateste	du dit tison sur la teste
-,audessusdela	, au dessus de la
-ladestreoreille,duquelcop	la destre oreille , du quel cop
-illuifistplaieettantqu	il lui fist plaie et tant qu
-’ilcheyaladenssurunefourme	’ il chey aladens sur une fourme
-oucelle,etasseztostaprèscheydu	ou celle , et assez tost après chey du
-toutàla	tout à la
-terre,dontilfurelevéet	terre , dont il fu relevé et
-couchacellenuytéeenl’osteldudit	coucha celle nuytée en l ’ ostel du dit
-PerrotTassé.Et	Perrot Tassé . Et
-dudithostelse	du dit hostel se
-fistleditLengeais,.lemardi	fist le dit Lengeais , . le mardi
-ensuivant,porter	ensuivant , porter
-ensamaison..,sans	en sa maison . . , sans
-faireveoirnevisiterparaucunsmiresne	faire veoir ne visiter par aucuns mires ne
-cirurgienssadicteplaie.Pouroccasion	cirurgiens sa dicte plaie . Pour occasion
-delaquellebateureetnavreuremorts’en	de laquelle bateure et navreure mort s ’ en
-ensuy,ledit	ensuy , le dit
-jourdemardi,environheuredeprime	jour de mardi , environ heure de prime
-,enlapersonnedudit	, en la personne du dit
-JehanLangeais.Parquoy	Jehan Langeais . Par quoy
-icellui.AndrieuHommet	icellui . Andrieu Hommet
-s’estrendu	s ’ est rendu
-fuitifetjamaisn’oseroitconverseroudit	fuitif et jamais n ’ oseroit converser ou dit
-ditpaïs,maisseroitenaventure	dit païs , mais seroit en aventure
-d’enestreexilléàtousjours	d ’ en estre exillé à tousjours
-,etqueses	, et que ses
-dizmere,	diz mere ,
-femmeetenfantendevenissent	femme et enfant en devenissent
-povresmendiens,separnousnelui	povres mendiens , se par nous ne lui
-estoitsurceimpartienostre	estoit sur ce impartie nostre
-grace.etmisericorde,sicommedient	grace . et misericorde , si comme dient
-lesdizsupplians,requerant	les diz supplians , requerant
-requeranthumblementque,commeleditAndrieuen	requerant humblement que , comme le dit Andrieu en
-tousautrescasaitestéet	tous autres cas ait esté et
-etsoitdebonnevieetrenommée,etquele	et soit de bonne vie et renommée , et que le
-leditcasadvintparfortune	le dit cas advint par fortune
-etdechaudecole,..sansaucunehayneprecedant	et de chaude cole , . . sans aucune hayne precedant
-,noussur	, nous sur
-surceleurvueillonsimpartirnostredictegrace	sur ce leur vueillons impartir nostre dicte grace
-et.misericorde.Pourquoynous,ceschosesconsiderées	et . misericorde . Pour quoy nous , ces choses considerées
-,auditAndrieuHommetavons	, au dit Andrieu Hommet avons
-ouditcasremis,	ou dit cas remis ,
-,quictiéetpardonné,etc.,parmicequ’	, quictié et pardonné , etc ., parmi ce qu ’
-’ilserapuni	’ il sera puni
-civilementselonsa.	civilement selon sa .
-.facultéettendraprison	. faculté et tendra prison
-ferméedeuxmois	fermée deux mois
-,etlerestituons,etc.Sidonnons	, et le restituons , etc . Si donnons
-donnonsenmandementparcespresentesaubaillideTouraine	donnons en mandement par ces presentes au bailli de Touraine
-etdesressorsetExempcionsd	et des ressors et Exempcions d
-’Anjou,	’ Anjou ,
-dePoitouetduMaine,et	de Poitou et du Maine , et
-àtousnozautresjusticiers	à tous noz autres justiciers
-,etc.DonnéàParis,oumoisde	, etc . Donné à Paris , ou mois de
-juilletl’andegracemiliiiicetiiii	juillet l ’ an de grace mil iiiic et iiii
-,etdenostre	, et de nostre
-regnelexxiiiie.Parleroy	regne le xxiiiie . Par le roy
-roy,àlarelacionduconseil	roy , à la relacion du conseil
+assistrentetsouperent;etaprès.soupperleditJehan	assistrent et souperent ; et après . soupper le dit Jehan
+TassérequistauditAndrieuqueilvoulsistjouer	Tassé requist au dit Andrieu que il voulsist jouer
+àluiaujeudesquartes,lequelAndrieuen	à lui au jeu des quartes , lequel Andrieu en
+ensoyexcusantdistqueriensn’ensavoit	en soy excusant dist que riens n ’ en savoit
+savoit,maisseàdeuxdezvouloitjouer	savoit , mais se à deux dez vouloit jouer
+jouerpourunepintedevin,àtroischances	jouer pour une pinte de vin , à trois chances
+,ilyjoueroitvoulentiers.Et	, il y joueroit voulentiers . Et
+lorsleditJehan	lors le dit Jehan
+JehanTassédemandaauditJehanLengeaisseeulx	Jehan Tassé demanda au dit Jehan Lengeais se eulx
+deuxjoueroientetpartiroientensemblecontrele	deux joueroient et partiroient ensemble contre le
+ditAndrieu,lequelLengeaisleluiaccorda,et	dit Andrieu , lequel Lengeais le lui accorda , et
+incontinentpristyceluiAndrieuensaboursedeuxdez	incontinent prist ycelui Andrieu en sa bourse deux dez
+etles.gectasurla	et les . gecta sur la
+latable,dontilzseprinrentà	la table , dont ilz se prinrent à
+jouer,etgaignaleditJehanTassé	jouer , et gaigna le dit Jehan Tassé
+unepintede	une pinte de
+vinduditAndrieu,laquelleenla	vin du dit Andrieu , la quelle en la
+presenceilluivoultfairepaier,mais	presence il lui voult faire paier , mais
+yceluiAndrieulecontredist	ycelui Andrieu le contredist
+contredist,disantqu	contredist , disant qu
+’ilavoitassislesdezet	’ il avoit assis les dez et
+etque,seledit	et que , se le dit
+Lengeaisavecqueslequelilpartoitnejouoitencontrele	Lengeais avecques lequel il partoit ne jouoit encontre le
+ledit.Andrieu,ilnepaieroitriensqu’	le dit . Andrieu , il ne paieroit riens qu ’
+ileustperdu.LequelLengeais	il eust perdu . Lequel Lengeais
+seprinttantostà	se print tantost à
+joueret	jouer et
+suryceluiAndrieugaignauneautrepintede	sur ycelui Andrieu gaigna une autre pinte de
+vin,laquellesemblablement[voult]luifaire	vin , laquelle semblablement [ voult ] lui faire
+paierenlapresence,	paier en la presence ,
+,dontilfu..reffusant.	, dont il fu . . reffusant .
+.Etadoncquesdist	. Et adoncques dist
+yceluiJehanTasséauditAndrieuque.meilleurestoitde	ycelui Jehan Tassé au dit Andrieu que . meilleur estoit de
+jouerentreluietyceluiAndrieuàl’	jouer entre lui et ycelui Andrieu à l ’
+’argentetbaillergaige,etdesaboursetira	’ argent et bailler gaige , et de sa bourse tira
+leditJehanTasséunblancdedixdeniers	le dit Jehan Tassé un blanc de dix deniers
+denierstournois,	deniers tournois ,
+,lequelilbaillaen	, lequel il bailla en
+gardeauditLengeais;etlorsyceluiAndrieuprist	garde au dit Lengeais ; et lors ycelui Andrieu prist
+ensabourseunblancde	en sa bourse un blanc de
+cinqdeniersetlebaillaengarde	cinq deniers et le bailla en garde
+auditLengeais	au dit Lengeais
+,etvoultjouer;	, et voult jouer ;
+maistantostleditJehan	mais tantost ledit Jehan
+TassédistauditAndrieuque,	Tassé dist au dit Andrieu que ,
+s’ilvouloitjouer	s ’ il vouloit jouer
+,qu’ilbaillastautreargent,	, qu ’ il baillast autre argent ,
+cardublancqu’ilavoitbaillé	car du blanc qu ’ il avoit baillé
+nejoueroitilpoint,	ne joueroit il point ,
+,ainçoisenseroitpaiélevinqu’ilavoit	, ainçois en seroit paié le vin qu ’ il avoit
+perdu.Eten	perdu . Et en
+disantcesparolles,le	disant ces parolles , le
+leditLengeaisbaillaleditblancdecinqdenierstournois	le dit Lengeais bailla le dit blanc de cinq deniers tournois
+tournois..auditPerrotTassé,lequellebaillaàsa	tournois . . au dit Perrot Tassé , lequel le bailla à sa
+femme.Dont	femme . Dont
+DontleditAndrieusecourrouça	Dont le dit Andrieu se courrouça
+courrouça,.disant	courrouça , . disant
+disantàyceluiLengeaistelzparollesousemblablesensubstance:«	disant à ycelui Lengeais telz parolles ou semblables en substance :«
+Rensmoymonblanc,car	Rens moy mon blanc , car
+carencoresn’est..pasvenule	car encores n ’ est . . pas venu le
+vinetàtoyn’appartientpoint	vin et à toy n ’ appartient point
+defairemes	de faire mes
+paiemens».	paiemens ».
+Au..quelAndrieulesdizPerrot	Au . . quel Andrieu les diz Perrot
+etJehanTassérespondirentarrogammentquedeson	et Jehan Tassé respondirent arrogamment que de son
+blancn’	blanc n ’
+’avoitilriens,maisen	’ avoit il riens , mais en
+seroitpaiélevinqu’ilavoitperdu	seroit paié le vin qu ’ il avoit perdu
+.EtlorsselevaleditAndrieu	. Et lors se leva le dit Andrieu
+ensonestant	en son estant
+etderechief.,commemal	et derechief . , comme mal
+malmeuetcourroucé,distaudit	mal meu et courroucé , dist au dit
+Lengeaistelzmosou	Lengeais telz mos ou
+semblables:«	semblables :«
+:«Rens..moymonblanc,ouparle	:« Rens . . moy mon blanc , ou par le
+lesancDieu,jetecourrouceray».	le sanc Dieu , je te courrouceray ».
+LequelLengeaisrespondiaudit	Lequel Lengeais respondi au dit
+Andrieuque,se	Andrieu que , se
+ilestoittanthardidesoymouvoir,ilseroit	il estoit tant hardi de soy mouvoir , il seroit
+batu.Aprèslaquellechoseainsi..dicte	batu . Après laquelle chose ainsi . . dicte
+,yceluiAndrieu	, ycelui Andrieu
+sebessa	se bessa
+etpristenlacheminéedudithosteluntison	et prist en la cheminée du dit hostel un tison
+oufeuardant	ou feu ardant
+ardant,disantauditLengeais:«	ardant , disant au dit Lengeais :«
+Ha,ribaut,estil	Ha , ribaut , est il
+àtoydemoymenacer.»A	à toy de moy menacer .» A
+quoyrespondiyceluiLengeaistelzmoseneffect:«	quoy respondi ycelui Lengeais telz mos en effect :«
+Commenttunetebordespas	Comment tu ne te bordes pas
+.ParlesancDieu,voirementsera	. Par le sanc Dieu , voirement sera
+seratubatu,etenceste	sera tu batu , et en ceste
+nuit,setubouges!»Etadoncquesle	nuit , se tu bouges !» Et adoncques le
+leditAndrieu..quiestoit	le dit Andrieu . . qui estoit
+seurprisdevinets’estoitmeuetcourroucé	seurpris de vin et s ’ estoit meu et courroucé
+courroucédesparolles.qui[lui	courroucé des parolles . qui [ lui
+]avoientestédictesetpartemptaciondel’	] avoient esté dictes et par temptacion de l ’
+’ennemi,haussaledit	’ ennemi , haussa le dit
+dittison..,endisant	dit tison . . , en disant
+disantauditLengeais:«Afaulxribaut;	disant au dit Lengeais :« A faulx ribaut ;
+parlesancDieu,vouslecomparrez	par le sanc Dieu , vous le comparrez
+comparrezenpresent».Etenceconflitfery	comparrez en present ». Et en ce conflit fery
+yceluiLengeaisdudittisonsurlateste,au	ycelui Lengeais du dit tison sur la teste , au
+audessusdeladestreoreille	au dessus de la destre oreille
+,duquelcopillui	, du quel cop il lui
+fistplaieettant	fist plaie et tant
+tantqu’ilcheyaladenssur	tant qu ’ il chey aladens sur
+unefourmeoucelle,etasseztost	une fourme ou celle , et assez tost
+aprèscheydutoutàla	après chey du tout à la
+terre,dont	terre , dont
+ilfurelevéetcouchacellenuytéeenl	il fu relevé et coucha celle nuytée en l
+l’ostelduditPerrotTassé.	l ’ ostel du dit Perrot Tassé .
+Etdudit	Et du dit
+hostelsefistle	hostel se fist le
+ditLengeais,lemardiensuivant,porteren	dit Lengeais , le mardi ensuivant , porter en
+samaison,	sa maison ,
+sansfaireveoir	sans faire veoir
+veoirnevisiterparaucunsmiresne	veoir ne visiter par aucuns mires ne
+necirurgienssadicteplaie.Pouroccasionde	ne cirurgiens sa dicte plaie . Pour occasion de
+delaquellebateure	de laquelle bateure
+etnavreuremorts’enensuy,ledit	et navreure mort s ’ en ensuy , le dit
+dit..jourdemardi	dit . . jour de mardi
+mardi,environheurede	mardi , environ heure de
+prime,en	prime , en
+lapersonnedu.ditJehanLangeais.Parquoy	la personne du . dit Jehan Langeais . Par quoy
+quoyicelluiAndrieuHommets’estrendufuitifetjamais	quoy icellui Andrieu Hommet s ’ est rendu fuitif et jamais
+jamaisn’oseroitconverser	jamais n ’ oseroit converser
+converserouditpaïs,maisseroitenaventured’	converser ou dit païs , mais seroit en aventure d ’
+enestreexilléàtousjours,etque	en estre exillé à tousjours , et que
+sesdizmere,femme	ses diz mere , femme
+etenfanten	et enfant en
+devenissentpovres	devenissent povres
+povresmendiens,separnousne	povres mendiens , se par nous ne
+luiestoitsur	lui estoit sur
+surceimpartienostregrace	sur ce impartie nostre grace
+graceetmisericorde,sicommedientlesdiz	grace et misericorde , si comme dient les diz
+supplians,requeranthumblementque,comme	supplians , requerant humblement que , comme
+commeleditAndrieuen	comme le dit Andrieu en
+entousautrescasaitestéet	en tous autres cas ait esté et
+etsoitdebonnevieetrenommée,	et soit de bonne vie et renommée ,
+et.queledit	et . que le dit
+casadvintpar.	cas advint par .
+fortuneetdechaudecole,sansaucune	fortune et de chaude cole , sans aucune
+hayneprecedant,noussurceleurvueillonsimpartir	hayne precedant , nous sur ce leur vueillons impartir
+nostredicte	nostre dicte
+graceetmisericorde.Pourquoynous,ces	grace et misericorde . Pour quoy nous , ces
+chosesconsiderées,auditAndrieuHommetavonsoudit	choses considerées , au dit Andrieu Hommet avons ou dit
+cas..remis	cas . . remis
+,quictiéetpardonné,etc.,parmice	, quictié et pardonné , etc ., parmi ce
+qu’ilserapunicivilementselonsafacultéet	qu ’ il sera puni civilement selon sa faculté et
+ettendra..prisonferméedeuxmois,etlerestituons	et tendra . . prison fermée deux mois , et le restituons
+,etc.Si	, etc . Si
+Sidonnons.enmandementparces	Si donnons . en mandement par ces
+presentesau	presentes au
+baillideTouraineetdesressors	bailli de Touraine et des ressors
+etExempcionsd’Anjou,dePoitou	et Exempcions d ’ Anjou , de Poitou
+etduMaine	et du Maine
+,etàtous	, et à tous
+tousnozautresjusticiers,etc.	tous noz autres justiciers , etc .
+DonnéàParis	Donné à Paris
+Paris,ou	Paris , ou
+moisdejuilletl	mois de juillet l
+’andegrace	’ an de grace
+miliiiicetiiii,etdenostre	mil iiiic et iiii , et de nostre
+regnelexxiiiie.	regne le xxiiiie .
+Parleroy,àlarelacionduconseil	Par le roy , à la relacion du conseil
 .Toreau.	. Toreau .

@@ -1,141 +1,136 @@
-Charles,parlagracedeDieu	Charles , par la grace de Dieu
-royde..France.	roy de . . France .
-Savoirfaisonsàtous,presenset	Savoir faisons à tous , presens et
-avenir,nousavoirreceuel’umble	avenir , nous avoir receue l ’ umble
-umblesupplicaciondenozbienamezlesdoyenet	umble supplicacion de noz bien amez les doyen et
-chappitredel	chappitre de l
-l’eglisecathedrale	l ’ eglise cathedrale
-deSaintPierre	de Saint Pierre
-PierreleGrantdePoictiers,contenantque	Pierre le Grant de Poictiers , contenant que
-,commepourleservicedeladicteeglise	, comme pour le service de la dicte eglise
-ilzaientaucunsserviteursappellezcoultres,	ilz aient aucuns serviteurs appellez coultres ,
-c’estassavoirThomasdelaBarre,	c ’ est assavoir Thomas de la Barre ,
-,JehanRegnault,ditMeriault,HerbertMaudouyn,André	, Jehan Regnault , dit Meriault , Herbert Maudouyn , André
-Galipeau,JehanCharpentieretJehanGaudonneau,	Galipeau , Jehan Charpentier et Jehan Gaudonneau ,
-,PierreFerrand,JehanGuyetJehanChanvillon	, Pierre Ferrand , Jehan Guy et Jehan Chanvillon
-,lesquelzsonttenuz,chacunàsontour,	, lesquelz sont tenuz , chacun à son tour ,
-desonnerlesclochesàtoutes	de sonner les cloches à toutes
-lesheuresquisedientenla	les heures qui se dient en la
-dicteeglise.	dicte eglise .
-...eticellegarderde	. . . et icelle garder de
-jouretdenuyt,	jour et de nuyt ,
-etàcestecauseeussenticeulxcoultresde	et à ceste cause eussent iceulx coultres de
-touteancienneté,quelquepartqu’ilz	toute ancienneté , quelque part qu ’ ilz
-ilzfeussentdemouransenlavilleetchastelleniedePoictiers	ilz feussent demourans en la ville et chastellenie de Poictiers
-,acoustumédeestre	, acoustumé de estre
-francs,quictes	francs , quictes
-quictesetexemps..de	quictes et exemps . . de
-toutesaides,	toutes aides ,
-tailles,subcidesetsubventionsquelxconques,pourquelconque	tailles , subcides et subventions quelxconques , pour quelconque
-causequ’ilzpeussentestremissus	cause qu ’ ilz peussent estre mis sus
-enladicteville,etaussi	en ladicte ville , et aussi
-aussidesguectzetgardes	aussi des guectz et gardes
-deportesenicelleville;ce	de portes en icelle ville ; ce
-nonobstant,lescollecteursdesparroissesoù	non obstant , les collecteurs des parroisses où
-lesdizcoultressont	les diz coultres sont
-demourans,sesontpuisnagueres	demourans , se sont puis nagueres
-efforcezetefforcentdejour	efforcez et efforcent de jour
-enjourdemectre,asseoiretimposericeulx.coultres	en jour de mectre , asseoir et imposer iceulx . coultres
+Charles,par	Charles , par
+parlagracedeDieuroyde	par la grace de Dieu roy de
+France.Savoirfaisonsàtous.,	France . Savoir faisons à tous . ,
+presensetavenir,nous	presens et avenir , nous
+nousavoirreceuel’	nous avoir receue l ’
+umblesupplicaciondenozbienamezles	umble supplicacion de noz bien amez les
+doyenetchappitredel’eglisecathedraledeSaint	doyen et chappitre de l ’ eglise cathedrale de Saint
+PierreleGrantdePoictiers,	Pierre le Grant de Poictiers ,
+contenantque,commepourleservicedeladicte	contenant que , comme pour le service de la dicte
+eglise..ilzaientaucunsserviteursappellez	eglise . . ilz aient aucuns serviteurs appellez
+appellezcoultres,	appellez coultres ,
+c’estassavoirThomasdelaBarre,Jehan	c ’ est assavoir Thomas de la Barre , Jehan
+Regnault,ditMeriault,HerbertMaudouyn,	Regnault , dit Meriault , Herbert Maudouyn ,
+,AndréGalipeau,	, André Galipeau ,
+,JehanCharpentieret	, Jehan Charpentier et
+JehanGaudonneau,	Jehan Gaudonneau ,
+PierreFerrand,	Pierre Ferrand ,
+,JehanGuyetJehanChanvillon,lesquelz	, Jehan Guy et Jehan Chanvillon , lesquelz
+lesquelzsonttenuz	lesquelz sont tenuz
+,chacunàsontour,de	, chacun à son tour , de
+sonnerles	sonner les
+clochesàtouteslesheuresqui..se	cloches à toutes les heures qui . . se
+dientenladicteegliseeticelle	dient en la dicte eglise et icelle
+icellegarderdejouretdenuyt,et	icelle garder de jour et de nuyt , et
+àcestecause	à ceste cause
+eussenticeulxcoultresdetouteancienneté,quelquepartqu	eussent iceulx coultres de toute ancienneté , quelque part qu
+qu’ilzfeussentdemouransenlavilleetchastellenie	qu ’ ilz feussent demourans en la ville et chastellenie
+dePoictiers..	de Poictiers . .
+,acoustumédeestrefrancs,	, acoustumé de estre francs ,
+quictesetexempsdetoutesaides,tailles,	quictes et exemps de toutes aides , tailles ,
+subcidesetsubventionsquelxconques,pourquelconque	subcides et subventions quelxconques , pour quelconque
+causequ’ilzpeussentestremis	cause qu ’ ilz peussent estre mis
+susenladicteville,etaussidesguectz	sus en ladicte ville , et aussi des guectz
+guectzetgardesdeportesenicelle..ville;	guectz et gardes de portes en icelle . . ville ;
+;cenonobstant,lescollecteursdes.parroisses	; ce non obstant , les collecteurs des . parroisses
+parroissesoùlesdizcoultressontdemourans,	parroisses où les diz coultres sont demourans ,
+sesontpuis	se sont puis
+nagueresefforcezetefforcent.dejouren	nagueres efforcez et efforcent . de jour en
+jourdemectre,asseoiret..imposericeulxcoultres	jour de mectre , asseoir et . . imposer iceulx coultres
 coultresetchascund’eulxèsdizaides,tailles	coultres et chascun d ’ eulx èsdiz aides , tailles
-etsubcides,etdeles	et subcides , et de les
-contraindreà..payer	contraindre à . . payer
-payerlestauxausquelxilavoientesté	payer les taux ausquelx il avoient esté
-estéimposez,etaussiles	esté imposez , et aussi les
-maireetautres	maire et autres
-autresofficiersdeladicteville,eulxentremettansduguet	autres officiers de la dicte ville , eulx entremettans du guet
-guetetgardedesportesd’icelle,	guet et garde des portes d ’ icelle ,
-,lesveullentpareillementcontraindreàfairelesdizguectz	, les veullent pareillement contraindre à faire les diz guectz
-guectzetgardes	guectz et gardes
-desportes,..	des portes , . .
-.lesquelleschosesontestéetsont	. lesquelles choses ont esté et sont
-faictesoutrèsgrantgrief,prejudiceetdommaige	faictes ou très grant grief , prejudice et dommaige
-deladicteegliseet	de la dicte eglise et
-etdesdizcoultres,etplusseroit,separ	et des diz coultres , et plus seroit , se par
-parnousneleur	par nous ne leur
-estoitsurcepourveudenostregracieulxet..convenable	estoit sur ce pourveu de nostre gracieulx et . . convenable
-convenableremede,sicommeilzdient	convenable remede , si comme ilz dient
-dient,ennoushumblementrequeranticelluy.Pour	dient , en nous humblement requerant icelluy . Pour
-Pourceestilquenous,ceschosesconsiderées,	Pour ce est il que nous , ces choses considerées ,
-,desiransdetoutnostrecueurleservice	, desirans de tout nostre cueur le service
-divinestre	divin estre
-faitetcelebréenla	fait et celebré en la
-dicteeglisedeSaintPierre	dicte eglise de Saint Pierre
-,avons,enfaveurdesdiz	, avons , en faveur des diz
-doyenetchappitred’	doyen et chappitre d ’
-’icelleeglisevouluetordonné,	’ icelle eglise voulu et ordonné ,
-voulonsetordonnonsquelesdizThomasdela	voulons et ordonnons que les diz Thomas de la
-Barre,Jehan	Barre , Jehan
-JehanRegnault,dit.Meriaut,HerbertMaudouyn	Jehan Regnault , dit . Meriaut , Herbert Maudouyn
-,AndréGalipeau,JehanCharpantier,Jehan	, André Galipeau , Jehan Charpantier , Jehan
-Gaudonneau,PierreFerrant,	Gaudonneau , Pierre Ferrant ,
-JehanGuyetSimonChanvillon,coultresdeladicte	Jehan Guy et Simon Chanvillon , coultres de la dicte
-eglisedeSaintPierrede	eglise de Saint Pierre de
-Poictiers,etautres	Poictiers , et autres
-autresquipourle	autres qui pour le
-tempsadvenirleseront,soient	temps advenir le seront , soient
-etdemeurentàjamaisfrancs,quicteset	et demeurent à jamais francs , quictes et
-exempsdetoutesaides,tailles,subcides	exemps de toutes aides , tailles , subcides
-etsubvencionsquelxconques,mises	et subvencions quelxconques , mises
-etàmettresusenladictevilledePoictiers	et à mettre sus en la dicte ville de Poictiers
-Poictiers,etaussi	Poictiers , et aussi
-desguetz	des guetz
-etgardesdesportesd’icelleville,des	et gardes des portes d ’ icelle ville , des
-desquelxnouslesavonsexemptezetaffranchiz	des quelx nous les avons exemptez et affranchiz
-,exemptonsetaffranchissons	, exemptons et affranchissons
-àtousjoursmaisparcespresentes.Sidonnons	à tousjours mais par ces presentes . Si donnons
-enmandement	en mandement
-ànostreaméetfealconseillier	à nostre amé et feal conseillier
-maistreRegnierdeBoulegny,generalconseilliersurle	maistre Regnier de Boulegny , general conseillier sur le
-faitetgouvernementdetoutesnoz	fait et gouvernement de toutes noz
-financesetautresgeneraulxconseilliersqui	finances et autres generaulx conseilliers qui
-quipourletempsadvenirseront	qui pour le temps advenir seront
-surlefaitetgouvernement	sur le fait et gouvernement
-gouvernementdenos	gouvernement de nos
-dictesfinances,	dictes finances ,
-auxesleuzet	aux esleuz et
-etcommissaires,commisetàcommettre,àmettre	et commissaires , commis et à commettre , à mettre
-,asseoir.	, asseoir .
-etimposerlesdiz	et imposer les diz
-aides,tailles	aides , tailles
-,subcideset	, subcides et
-subvencionsquelxconquesenla	subvencions quelxconques en la
-dictevilleetchastelleniedePoictiers,	dicte ville et chastellenie de Poictiers ,
-aumairepresentetavenir,etautresentremetteurs..de	au maire present et avenir , et autres entremetteurs . . de
-guetetgardesdesportesd’icelleville,	guet et gardes des portes d ’ icelle ville ,
-quedenostrepresentegrace,affranchissement,quictanceet	que de nostre presente grace , affranchissement , quictance et
-exempcionfacent,seuffrentetlaissentlesdessus	exempcion facent , seuffrent et laissent les dessus
-dessusdizcoultresdeSaintPierre	dessus diz coultres de Saint Pierre
-PierreleGrantdePoictiersetautresqui	Pierre le Grant de Poictiers et autres qui
-leserontoutempsadvenir	le seront ou temps advenir
-,demourans	, demourans
-enladictevilleetchastellenie.	en la dicte ville et chastellenie .
-dePoictiers,etchascund’eulx,joir	de Poictiers , et chascun d ’ eulx , joir
-joiretuseràtousjoursplainementet	joir et user à tousjours plainement et
-paisiblement,	paisiblement ,
-,.sansleurfaireoudonner,nesouffrir	, . sans leur faire ou donner , ne souffrir
-estrefait,	estre fait ,
-misoudonné,ne	mis ou donné , ne
-àaucun.d	à aucun . d
-’eulx,pour	’ eulx , pour
-occasionde	occasion de
-cequeditest,oresnepour	ce que dit est , ores ne pour
-pourletempsadvenir,aucunempeschementaucontraire,mais	pour le temps advenir , aucun empeschement au contraire , mais
-semisyestoit,	se mis y estoit ,
-lefacent	le facent
-incontinentoster	incontinent oster
-oster.Etaffinquecesoitchosefermeetestable	oster . Et affin que ce soit chose ferme et estable
-estableàtousjours,nousavonsfaitmettrenostreseelà	estable à tousjours , nous avons fait mettre nostre seel à
-cespresentes.Sauf	ces presentes . Sauf
-Saufenautreschosesnostredroit	Sauf en autres choses nostre droit
-etl’..autruy	et l ’ . . autruy
-autruyentoutes.DonnéàPoictiers,oumoys	autruy en toutes . Donné à Poictiers , ou moys
-moysd’avrill’	moys d ’ avril l ’
-andegracemilcccc.	an de grace mil cccc .
-.trenteetungaprèsPasques,etdenostreregne	. trente et ung après Pasques , et de nostre regne
-regneleneufviesme.Ainsi	regne le neufviesme . Ainsi
-signées:Parleroy	signées : Par le roy
-roy,vous,l’evesquede	roy , vous , l ’ evesque de
-Sées,les	Sées , les
-lessiresd’Argenton,	les sires d ’ Argenton ,
-,deMortemeretautrespresens.	, de Mortemer et autres presens .
-.Coingnet.Visa.	. Coingnet . Visa .
+tailleset..subcides,	tailles et . . subcides ,
+,etdelescontraindreàpayerlestauxausquelxil	, et de les contraindre à payer les taux ausquelx il
+avoientestéimposez,et	avoient esté imposez , et
+aussilesmaireetautresofficiersde	aussi les maire et autres officiers de
+dela..dicteville,eulxentremettansduguetetgarde	de la . . dicte ville , eulx entremettans du guet et garde
+gardedesportesd’icelle,lesveullentpareillementcontraindre	garde des portes d ’ icelle , les veullent pareillement contraindre
+àfairelesdizguectz	à faire les diz guectz
+guectzetgardesdesportes	guectz et gardes des portes
+,lesquelles	, lesquelles
+chosesontestéetsontfaictes	choses ont esté et sont faictes
+outrèsgrant	ou très grant
+grief,prejudiceetdommaigede	grief , prejudice et dommaige de
+deladicteeglise	de la dicte eglise
+etdesdizcoultres,	et des diz coultres ,
+etplusseroit	et plus seroit
+seroit,separnousneleurestoitsur	seroit , se par nous ne leur estoit sur
+cepourveudenostregracieulxetconvenableremede	ce pourveu de nostre gracieulx et convenable remede
+,sicommeilzdient,	, si comme ilz dient ,
+ennoushumblementrequeranticelluy.Pourceestil	en nous humblement requerant icelluy . Pour ce est il
+quenous,ces	que nous , ces
+chosesconsiderées,desiransdetoutnostre.cueurle	choses considerées , desirans de tout nostre . cueur le
+servicedivinestre	service divin estre
+fait.etcelebré	fait . et celebré
+enladicteeglisedeSaintPierre	en la dicte eglise de Saint Pierre
+,..avons,enfaveurdes	, . . avons , en faveur des
+dizdoyenet..	diz doyen et . .
+.chappitred’	. chappitre d ’
+icelleeglisevouluet	icelle eglise voulu et
+ordonné,voulonsetordonnonsquelesdiz	ordonné , voulons et ordonnons que les diz
+ThomasdelaBarre	Thomas de la Barre
+,JehanRegnault,ditMeriaut	, Jehan Regnault , dit Meriaut
+Meriaut,HerbertMaudouyn,AndréGalipeau,JehanCharpantier,	Meriaut , Herbert Maudouyn , André Galipeau , Jehan Charpantier ,
+JehanGaudonneau,PierreFerrant,Jehan..GuyetSimon	Jehan Gaudonneau , Pierre Ferrant , Jehan . . Guy et Simon
+Chanvillon..,coultresdela	Chanvillon . . , coultres de la
+dicteeglisedeSaintPierredePoictiers,	dicte eglise de Saint Pierre de Poictiers ,
+etautresquipour	et autres qui pour
+letemps	le temps
+advenirleseront,soientetdemeurentà	advenir le seront , soient et demeurent à
+àjamaisfrancs	à jamais francs
+,quictesetexempsdetoutesaides	, quictes et exemps de toutes aides
+,tailles,subcidesetsubvencionsquelxconques,	, tailles , subcides et subvencions quelxconques ,
+,misesetà	, mises et à
+àmettresusenla	à mettre sus en la
+ladictevilledePoictiers,etaussides.guetzet	la dicte ville de Poictiers , et aussi des . guetz et
+etgardesdesportesd	et gardes des portes d
+’icelleville,desquelxnouslesavonsexemptez	’ icelle ville , des quelx nous les avons exemptez
+exemptezetaffranchiz,exemptonsetaffranchissonsà..tousjoursmais	exemptez et affranchiz , exemptons et affranchissons à . . tousjours mais
+maisparcespresentes.Sidonnonsenmandementànostre	mais par ces presentes . Si donnons en mandement à nostre
+améetfealconseilliermaistreRegnierdeBoulegny,general	amé et feal conseillier maistre Regnier de Boulegny , general
+conseillier.surlefaitetgouvernement	conseillier . sur le fait et gouvernement
+detoutesnozfinances	de toutes noz finances
+etautresgeneraulx..conseilliersquipourletemps	et autres generaulx . . conseilliers qui pour le temps
+advenirserontsurlefaitetgouvernementdenosdictes	advenir seront sur le fait et gouvernement de nos dictes
+dictesfinances,auxesleuzetcommissaires.,commis	dictes finances , aux esleuz et commissaires . , commis
+etàcommettre,àmettre,	et à commettre , à mettre ,
+asseoiretimposerlesdizaides,tailles,subcides	asseoir et imposer les diz aides , tailles , subcides
+etsubvencionsquelxconquesenladicteville	et subvencions quelxconques en la dicte ville
+villeetchastelleniedePoictiers,aumairepresent	ville et chastellenie de Poictiers , au maire present
+etavenir,etautresentremetteursdeguetet	et avenir , et autres entremetteurs de guet et
+gardesdesportesd’icelleville,quede	gardes des portes d ’ icelle ville , que de
+denostrepresentegrace	de nostre presente grace
+grace,affranchissement,quictanceetexempcion.	grace , affranchissement , quictance et exempcion .
+.facent,seuffrentetlaissentlesdessusdizcoultres	. facent , seuffrent et laissent les dessus diz coultres
+coultresdeSaintPierreleGrantdePoictierset	coultres de Saint Pierre le Grant de Poictiers et
+autres..quileseront	autres . . qui le seront
+serontoutempsadvenir,demouransen	seront ou temps advenir , demourans en
+la.dictevilleet	la . dicte ville et
+et..chastelleniedePoictiers,etchascun	et . . chastellenie de Poictiers , et chascun
+d.’eulx,joiretuseràtousjours	d . ’ eulx , joir et user à tousjours
+plainementetpaisiblement,	plainement et paisiblement ,
+sansleurfaireoudonner,ne	sans leur faire ou donner , ne
+souffrirestrefait,misou	souffrir estre fait , mis ou
+donné,ne	donné , ne
+neàaucund’eulx,	ne à aucun d ’ eulx ,
+pouroccasiondece	pour occasion de ce
+quedit.est	que dit . est
+,oresnepourletempsadvenir	, ores ne pour le temps advenir
+,aucunempeschementaucontraire,maissemis	, aucun empeschement au contraire , mais se mis
+yestoit,le	y estoit , le
+facentincontinentoster.Etaffinquecesoitchose	facent incontinent oster . Et affin que ce soit chose
+fermeetestableàtousjours.	ferme et estable à tousjours .
+.,nousavonsfaitmettrenostreseel	. , nous avons fait mettre nostre seel
+àcespresentes.Saufen	à ces presentes . Sauf en
+autres.choses	autres . choses
+chosesnostredroit.etl’autruyen	choses nostre droit . et l ’ autruy en
+toutes.DonnéàPoictiers,oumoysd	toutes . Donné à Poictiers , ou moys d
+d’avrill’andegrace	d ’ avril l ’ an de grace
+milcccc.trenteetungaprès	mil cccc . trente et ung après
+Pasques,etdenostreregne	Pasques , et de nostre regne
+regneleneufviesme	regne le neufviesme
+.Ainsisignées:Parle	. Ainsi signées : Par le
+roy,vous,l	roy , vous , l
+’evesquedeSées,	’ evesque de Sées ,
+lessiresd’	les sires d ’
+Argenton,deMortemer	Argenton , de Mortemer
+etautrespresens.Coingnet...Visa.	et autres presens . Coingnet . . . Visa .

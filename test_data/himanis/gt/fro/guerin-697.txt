@@ -1,139 +1,132 @@
-Charles,etc.Savoirfaisonsàtouz	Charles , etc . Savoir faisons à touz
-,presens.	, presens .
-etavenir,que,oyelasupplicacionà	et avenir , que , oye la supplicacion à
-nousfaictedela	nous faicte de la
-partiedenozbien	partie de noz bien
-amezJehandeCramaut	amez Jehan de Cramaut
-,chevalier,etOrabledeMontleon	, chevalier , et Orable de Montleon
-,safemme,	, sa femme ,
-filledefeuRegnautdeMontleon	fille de feu Regnaut de Montleon
-,chevalier,jadiz	, chevalier , jadiz
-jadizsiredeToufouet..maistrede	jadiz sire de Toufou et . . maistre de
-nostrehostel,contenantque,outemps	nostre hostel , contenant que , ou temps
-quederrenierementle	que derrenierement le
-leprincedeGalestenoitleduchiéde	le prince de Gales tenoit le duchié de
-Guiennepour..	Guienne pour . .
-leroyd’Angleterre,sonpere,le	le roy d ’ Angleterre , son pere , le
-ditprincepour	dit prince pour
-cequeleditfeuRegnautdeMontleonestoit..	ce que le dit feu Regnaut de Montleon estoit . .
-.bonetloyalFrançois,fistprendreetemprisonnerycellui	. bon et loyal François , fist prendre et emprisonner ycellui
-ycelluideMontleon,etaprès	ycellui de Montleon , et après
-pluseursgransdommagesqu’il	pluseurs grans dommages qu ’ il
-luifistfairedesonproprecorps,donna	lui fist faire de son propre corps , donna
-donnalelieudeToufouet.	donna le lieu de Toufou et .
-lesappartenancesàunAngloisappelléJehand	les appartenances à un Anglois appellé Jehan d
-d’Angle,chevalier,ditle	d ’ Angle , chevalier , dit le
-bastartd	bastart d
-’Angle,quipovoitvaloirjusquesàiiic	’ Angle , qui povoit valoir jusques à iiic
-iiiclivrestournoisde..rente,auquel	iiic livres tournois de . . rente , auquel
-donconsentileditdeMontleon,etoultrece	don consenti le dit de Montleon , et oultre ce
-,letransporta	, le transporta
-,sicommel’en..	, si comme l ’ en . .
-dit,auditAnglois,pour	dit , au dit Anglois , pour
-pourdoubtedepis	pour doubte de pis
-avoir.Et	avoir . Et
-aussiJehan	aussi Jehan
-JehanYsoré,chevalierdupaïsdeTouraine,le	Jehan Ysoré , chevalier du païs de Touraine , le
-quelsedisoitavoirdroitaudit	quel se disoit avoir droit au dit
-ditlieuetappartenances,transportaau.ditAnglois	dit lieu et appartenances , transporta au . dit Anglois
-toutledroitqu’ilpovoitavoir	tout le droit qu ’ il povoit avoir
-auditlieu	au dit lieu
-lieuetappartenances.	lieu et appartenances .
-Toutevoiespartraitdetemps,c	Toutevoies par trait de temps , c
-’estassavoir	’ est assavoir
-assavoirquantlepaïs	assavoir quant le païs
-dePoitou,ouquelest	de Poitou , ou quel est
-estassiseladicte	est assise la dicte
-dicteterre,furetourné..àl’obeissancede	dicte terre , fu retourné . . à l ’ obeissance de
-monseigneur..leroy,	monseigneur . . le roy ,
-queDiexabsoille,etàlanostre,le	que Diex absoille , et à la nostre , le
+Charles,etc.Savoir	Charles , etc . Savoir
+faisonsàtouz	faisons à touz
+,presensetavenir,que	, presens et avenir , que
+,oyelasupplicacionànousfaictedelapartie	, oye la supplicacion à nous faicte de la partie
+denoz.bien	de noz . bien
+amezJehandeCramaut,chevalier,etOrablede	amez Jehan de Cramaut , chevalier , et Orable de
+Montleon,safemme,fille	Montleon , sa femme , fille
+defeuRegnaut	de feu Regnaut
+RegnautdeMontleon,chevalier,jadiz	Regnaut de Montleon , chevalier , jadiz
+siredeToufouet..maistredenostre	sire de Toufou et . . maistre de nostre
+hostel.,contenantque,outempsquederrenierementle	hostel . , contenant que , ou temps que derrenierement le
+princede	prince de
+Galestenoitleduchié..deGuiennepourleroy	Gales tenoit le duchié . . de Guienne pour le roy
+d’Angleterre,	d ’ Angleterre ,
+sonpere,leditprincepource	son pere , le dit prince pour ce
+cequeledit	ce que le dit
+feuRegnautdeMontleon	feu Regnaut de Montleon
+estoitbonetloyal	estoit bon et loyal
+François,	François ,
+fistprendreetemprisonnerycelluideMontleon,..	fist prendre et emprisonner ycellui de Montleon , . .
+etaprèspluseursgransdommagesqu’illui	et après pluseurs grans dommages qu ’ il lui
+fist..fairedesonpropre	fist . . faire de son propre
+proprecorps,donnalelieu	propre corps , donna le lieu
+deToufouetlesappartenancesàunAngloisappellé	de Toufou et les appartenances à un Anglois appellé
+appelléJehand’Angle.	appellé Jehan d ’ Angle .
+,chevalier,	, chevalier ,
+,.ditlebastart	, . dit le bastart
+d’Angle	d ’ Angle
+Angle,quipovoit..valoir	Angle , qui povoit . . valoir
+jusquesàiiiclivrestournoisde	jusques à iiic livres tournois de
+derente,auquel	de rente , auquel
+donconsentileditdeMontleon..,etoultre	don consenti le dit de Montleon . . , et oultre
+oultrece,..letransporta,sicommel	oultre ce , . . le transporta , si comme l
+l’.endit,auditAnglois,pour	l ’ . en dit , au dit Anglois , pour
+doubtedepisavoir...Etaussi	doubte de pis avoir . . . Et aussi
+JehanYsoré,chevalierdu	Jehan Ysoré , chevalier du
+païsdeTouraine	païs de Touraine
+,lequelse	, le quel se
+sedisoitavoirdroitau	se disoit avoir droit au
+ditlieuetappartenances,transportaauditAngloistout	dit lieu et appartenances , transporta au dit Anglois tout
+ledroit	le droit
+qu’ilpovoitavoirau	qu ’ il povoit avoir au
+ditlieuetappartenances	dit lieu et appartenances
+..Toutevoies	. . Toutevoies
+Toutevoiespartraitdetemps,c’est	Toutevoies par trait de temps , c ’ est
+assavoirquantlepaïsdePoitou	assavoir quant le païs de Poitou
+,ouquelestassisela	, ou quel est assise la
+dicteterre,furetournéàl’obeissance	dicte terre , fu retourné à l ’ obeissance
+obeissancedemonseigneurleroy,queDiexabsoille,et	obeissance de monseigneur le roy , que Diex absoille , et
+àlanostre,le	à la nostre , le
 ditdeMontleon	dit de Montleon
-repristycelleterreet	reprist ycelle terre et
-d’icelleajoy	d ’ icelle a joy
-etusépaisiblementjusquesaujourdeson	et usé paisiblement jusques au jour de son
-trespas;etaprès..le	trespas ; et après . . le
+repristycelle	reprist ycelle
+terreetd’icelle	terre et d ’ icelle
+ajoyetusépaisiblementjusquesaujour.de	a joy et usé paisiblement jusques au jour . de
+sontrespas;et	son trespas ; et
+aprèsle	après le
 ledittrespas,enajoyRegnautde	le dit trespas , en a joy Regnaut de
-Montleon,filetheritierduditfeu	Montleon , fil et heritier du dit feu
-Regnautde..Montleon,quidepuizl’a	Regnaut de . . Montleon , qui depuiz l ’ a
-bailliéàJehandeCramaut,chevalier,età	baillié à Jehan de Cramaut , chevalier , et à
-ladicteOrabledeMontleon	la dicte Orable de Montleon
-,safemme,	, sa femme ,
-,parcertaineformeetmaniereplusà	, par certaine forme et maniere plus à
-plaincontenueèslettressurcefaictes,	plain contenue ès lettres sur ce faictes ,
-etencoresle.ditJehan	et encores le . dit Jehan
-deCramautetsadictefemme,suerduditRegnaut	de Cramaut et sa dicte femme , suer dudit Regnaut
-Regnaut,..enjoissent	Regnaut , . . en joissent
-joissentsanzaucunempeschement.Maispource.que	joissent sanz aucun empeschement . Mais pour ce . que
-aucunspourroientdirequetoutcequiestoit	aucuns pourroient dire que tout ce qui estoit
-dudit..Jehand	dudit . . Jehan d
-’Angle.,quiestoitetmoruobeissant	’ Angle . , qui estoit et moru obeissant
-obeissantettenant..lepartidenostreadversaired	obeissant et tenant . . le parti de nostre adversaire d
-’Angleterre,nousfu	’ Angleterre , nous fu
-fuconfisquéet	fu confisqué et
-et.acquis,	et . acquis ,
-etnousdoitappartenir,et	et nous doit appartenir , et
-queainsiladicteterreest	que ainsi la dicte terre est
-nostreetnousappartientpar	nostre et nous appartient par
-laconfiscacion.dessuzdicte,sicommeparrigueur	la confiscacion . dessuz dicte , si comme par rigueur
-ilsepourroitfaireraisonnablement,	il se pourroit faire raisonnablement ,
-nous,consideré	nous , consideré
-cequeditestetque,enhayne	ce que dit est et que , en hayne
-duditmonseigneurqueDiexabsoilleetde	du dit monseigneur que Diex absoille et de
-nous,leditdeMontleonfu	nous , le dit de Montleon fu
-emprisonné,commedessuz	emprisonné , comme dessuz
-estditet	est dit et
-luiconvintconsentir	lui convint consentir
-audonetfaire..letransportdessuzdit	au don et faire . . le transport dessuz dit
-ditausdiz	dit aus diz
-dizJehandeCramautetOrable,	diz Jehan de Cramaut et Orable ,
-safemme,poureulz,leurshoirs	sa femme , pour eulz , leurs hoirs
-etsuccesseurs,avonsdonné,..quicté	et successeurs , avons donné , . . quicté
-etcedé,donnons,.quictons	et cedé , donnons , . quictons
-quictonsetcedonsoucas	quictons et cedons ou cas
-dessuzdit,.degraceespecialet	dessuz dit , . de grace especial et
-etdecertainescienceparcespresentes	et de certaine science par ces presentes
-le..ditban	le . . dit ban
-ettoutteldroitetactionquienycellui.nous	et tout tel droit et action qui en ycellui . nous
-puetetdoitappartenir,pour	puet et doit appartenir , pour
-pourcauseouoccasiondes	pour cause ou occasion des
-chosesdessuzdictes,àtenir	choses dessuz dictes , à tenir
-tenirycelluilieu..de	tenir ycellui lieu . . de
-Toufouetappartenancesparlesdizmariezperpetuelment,	Toufou et appartenances par les diz mariez perpetuelment ,
-commeleurproprechoseetheritage,touten	comme leur propre chose et heritage , tout en
-enlaforme	en la forme
-etmanierecommeleditfeu	et maniere comme le dit feu
-RegnautdeMontleon.	Regnaut de Montleon .
-lesavoitet	les avoit et
-tenoit.etpossidoit,aujourqu	tenoit . et possidoit , au jour qu
-qu’il.fu	qu ’ il . fu
-pris,etqu’ilalade	pris , et qu ’ il ala de
-vie..àtrespassement	vie . . à trespassement
-,commeditest.Sidonnons	, comme dit est . Si donnons
-enmandement,parces	en mandement , par ces
-mesmeslettres	mesmes lettres
-,ànozamez	, à noz amez
-amezetfeaulzlesgensdenozcomptesàParis,	amez et feaulz les gens de noz comptes à Paris ,
-aubaillideTouraineetà	au bailli de Touraine et à
-àtouznoz..justicierset	à touz noz . . justiciers et
-officiers,presensetavenir,etàchascund	officiers , presens et avenir , et à chascun d
-’eulz,sicommeàluiappartendra.	’ eulz , si comme à lui appartendra .
-,ouàleurslieuxtenans	, ou à leurs lieuxtenans
-,quedenostre	, que de nostre
-nostrepresentdonetgracefacentetlaissentjoiret	nostre present don et grace facent et laissent joir et
-etuserpaisiblement	et user paisiblement
-paisiblementlesdizmariezetchascun	paisiblement les diz mariez et chascun
-d’eulz,sanslesempeschierousouffrir.empeschier	d ’ eulz , sans les empeschier ou souffrir . empeschier
-empeschieraucontraire.Etquecesoitchose	empeschier au contraire . Et que ce soit chose
-ferme.et	ferme . et
-estableàtousjours,nousavonsfait	estable à tous jours , nous avons fait
-mettrenostreseelàcespresentes	mettre nostre seel à ces presentes
-lettres.Saufenautreschosesnostredroitetl	lettres . Sauf en autres choses nostre droit et l
-’autruientoutes.DonnéàParis	’ autrui en toutes . Donné à Paris
-,ennostrechastelduLouvre,..lexiiiie	, en nostre chastel du Louvre , . . le xiiiie
-jourdejanvier..l’ande	jour de janvier . . l ’ an de
-gracemilccc.iiiixxetsept,	grace mil ccc . iiiixx et sept ,
-,etdenostreregne	, et de nostre regne
-leviiime.Parleroy,messeigneursle	le viiime . Par le roy , messeigneurs le
-leducde	le duc de
-BerryetlecardinaldeLaon..presens.	Berry et le cardinal de Laon . . presens .
-.Bordes.	. Bordes .
+Montleon,	Montleon ,
+,.filetheritierdu	, . fil et heritier du
+duditfeuRegnautdeMontleon,quidepuizl	du dit feu Regnaut de Montleon , qui depuiz l
+’abailliéàJehandeCramaut,chevalier	’ a baillié à Jehan de Cramaut , chevalier
+chevalier,et.àladicte	chevalier , et . à la dicte
+dicteOrabledeMontleon,safemme,parcertaineforme	dicte Orable de Montleon , sa femme , par certaine forme
+etmaniereplusàplaincontenueèslettres	et maniere plus à plain contenue ès lettres
+surcefaictes,etencores	sur ce faictes , et encores
+encoresleditJehandeCramautetsadictefemme,	encores le dit Jehan de Cramaut et sa dicte femme ,
+,suerduditRegnaut	, suer dudit Regnaut
+,enjoissentsanzaucunempeschement.Maispource	, en joissent sanz aucun empeschement . Mais pour ce
+queaucunspourroientdirequetoutcequiestoitdudit	que aucuns pourroient dire que tout ce qui estoit dudit
+Jehand’Angle,quiestoit	Jehan d ’ Angle , qui estoit
+etmoruobeissantet.tenantle	et moru obeissant et . tenant le
+partide	parti de
+nostreadversaired’Angleterre,nousfuconfisqué	nostre adversaire d ’ Angleterre , nous fu confisqué
+etacquis,etnous	et acquis , et nous
+doitappartenir,etqueainsila	doit appartenir , et que ainsi la
+ladicteterreestnostreet.nousappartientparlaconfiscacion	la dicte terre est nostre et . nous appartient par la confiscacion
+dessuzdicte,sicommeparrigueurilse	dessuz dicte , si comme par rigueur il se
+pourroitfaireraisonnablement,nous	pourroit faire raisonnablement , nous
+,considerécequeditestetque	, consideré ce que dit est et que
+,enhayneduditmonseigneur.que	, en hayne du dit monseigneur . que
+Diexabsoilleetdenous,leditde	Diex absoille et de nous , le dit de
+deMontleonfuemprisonné,comme	de Montleon fu emprisonné , comme
+dessuzest	dessuz est
+estditetluiconvintconsentir	est dit et lui convint consentir
+audonet	au don et
+faireletransportdessuz.ditausdizJehandeCramaut	faire le transport dessuz . dit aus diz Jehan de Cramaut
+etOrable,safemme,poureulz	et Orable , sa femme , pour eulz
+,leurshoirsetsuccesseurs,avonsdonné,quicté	, leurs hoirs et successeurs , avons donné , quicté
+quictéetcedé,..donnons,quictonsetcedonsou	quicté et cedé , . . donnons , quictons et cedons ou
+casdessuzdit,de	cas dessuz dit , de
+graceespecialet	grace especial et
+decertainescienceparcespresentesleditbanet	de certaine science par ces presentes le dit ban et
+toutteldroitet.actionquienycelluinouspuet	tout tel droit et . action qui en ycellui nous puet
+etdoitappartenir,	et doit appartenir ,
+pourcause..ouoccasiondeschosesdessuzdictes	pour cause . . ou occasion des choses dessuz dictes
+,àtenirycelluilieu	, à tenir ycellui lieu
+deToufouet	de Toufou et
+appartenancesparlesdizmariez	appartenances par les diz mariez
+perpetuelment,commeleurproprechoseetheritage,tout	perpetuelment , comme leur propre chose et heritage , tout
+toutenlaformeetmanierecommeleditfeu	tout en la forme et maniere comme le dit feu
+RegnautdeMontleonlesavoitet	Regnaut de Montleon les avoit et
+ettenoitetpossidoit,aujourqu’il	et tenoit et possidoit , au jour qu ’ il
+fupris,etqu’ilaladevie	fu pris , et qu ’ il ala de vie
+àtrespassement	à trespassement
+,commeditest.Sidonnonsenmandement,	, comme dit est . Si donnons en mandement ,
+parcesmesmeslettres,ànoz	par ces mesmes lettres , à noz
+amezetfeaulz	amez et feaulz
+lesgensdenozcomptesà..Paris,aubailli	les gens de noz comptes à . . Paris , au bailli
+deTouraineetà	de Touraine et à
+àtouznozjusticiersetofficiers..,presenset	à touz noz justiciers et officiers . . , presens et
+etavenir,etàchascund’eulz,si	et avenir , et à chascun d ’ eulz , si
+commeàluiappartendra,ou	comme à lui appartendra , ou
+àleurslieuxtenans,que	à leurs lieuxtenans , que
+denostrepresentdon	de nostre present don
+etgrace	et grace
+facentetlaissentjoir.etuserpaisiblementles	facent et laissent joir . et user paisiblement les
+dizmariezetchascund’eulz,sans	diz mariez et chascun d ’ eulz , sans
+sanslesempeschierousouffrir	sans les empeschier ou souffrir
+empeschieraucontraire...Et	empeschier au contraire . . . Et
+Etquecesoitchosefermeetestableàtousjours	Et que ce soit chose ferme et estable à tous jours
+jours..,nous	jours . . , nous
+avonsfaitmettrenostreseel	avons fait mettre nostre seel
+àcespresenteslettres.Sauf	à ces presentes lettres . Sauf
+enautreschoses	en autres choses
+nostredroitetl’autruientoutes.Donné	nostre droit et l ’ autrui en toutes . Donné
+àParis,	à Paris ,
+ennostrechastelduLouvre,lexiiiie	en nostre chastel du Louvre , le xiiiie
+jourdejanvierl’ande	jour de janvier l ’ an de
+gracemilccc.iiiixxetsept,etde	grace mil ccc . iiiixx et sept , et de
+nostreregneleviiime.Parleroy,messeigneurs	nostre regne le viiime . Par le roy , messeigneurs
+leducdeBerryetlecardinaldeLaon	le duc de Berry et le cardinal de Laon
+Laonpresens.Bordes.	Laon presens . Bordes .

@@ -1,57 +1,51 @@
-Philippes,parla	Philippes , par la
-gracedeDieu,	grace de Dieu ,
-roisdeFrance.Savoirfaisons	rois de France . Savoir faisons
-àtouzpresenzetavenirque,	à touz presenz et avenir que ,
-commenouseussiens,de	comme nous eussiens , de
-graceespecial,donné	grace especial , donné
-etotroiéànostreaméSymondeMontbreton,.	et otroié à nostre amé Symon de Montbreton , .
-.chevalier,..unchasteldedeuscenslivrées	. chevalier , . . un chastel de deus cens livrées
-livréestournoisdeterre..paran	livrées tournois de terre . . par an
-,àsavietantseulement,et	, à sa vie tant seulement , et
-eussiensmandéetcommisà	eussiens mandé et commis à
-ànostreaméetfealchevalier,MoutondeBlenville	à nostre amé et feal chevalier , Mouton de Blenville
-Blenville,seneschald'	Blenville , seneschal d '
-'Agenois,que	' Agenois , que
-au..ditSymonpourveistdu	au . . dit Symon pourveist du
-duditchasteletliassistetassignast	du dit chastel et li assist et assignast
-lesdictesdeuscenslivréesdeterretournoisparan	les dictes deus cens livrées de terre tournois par an
-,nouscertainsetconfiansdelaloyautéetcircunspection	, nous certains et confians de la loyauté et circunspection
-d'iceliSymon,parl	d ' iceli Symon , par l
-'experiencedeses..	' experience de ses . .
-bonneseuvres	bonnes euvres
-etfaiz,considerezlesbons,	et faiz , considerez les bons ,
-loyausetaggreables	loyaus et aggreables
-servicesqu'	services qu '
-'ilnous	' il nous
-afaizlonguementet	a faiz longuement et
-faitencoredejourenjour,voulanslifaire	fait encore de jour en jour , voulans li faire
-recompensacioncondigne	recompensacion condigne
-condignedece,eue	condigne de ce , eue
-bonnedeliberacionsurce,avons,.degraceespecial	bonne deliberacion sur ce , avons , . de grace especial
-especialetdecertainescience,donnéetdonnons	especial et de certaine science , donné et donnons
-donnonsàlietà	donnons à li et à
-seshersetsuccesseurs,	ses hers et successeurs ,
-,àhéritageperpetuelment,centlivréesde	, à héritage perpetuelment , cent livrées de
-terretournoisàvaluedeterre,àluiestre	terre tournois à value de terre , à lui estre
-estre.assisesetassignéesen	estre . assises et assignées en
-laseneschauciedePoitou,	la seneschaucie de Poitou ,
-,leissantpourceànous	, leissant pour ce à nous
-lesdeus	les deus
-deuscenslivresdeterretournoisparanetle	deus cens livres de terre tournois par an et le
-chasteldessus	chastel dessus
-diz,quedonné	diz , que donné
-donnéliaviensàsavie	donné li aviens à sa vie
-,sicommeditest.Entesmoingde	, si comme dit est . En tesmoing de
-laquelle	la quelle
-chose.età	chose . et à
-cequece.soitperpetuelment	ce que ce . soit perpetuelment
-fermeetestable,nousavonsfaitmettrenostre	ferme et estable , nous avons fait mettre nostre
-nostreseelàcespresenteslettres.Donné	nostre seel à ces presentes lettres . Donné
-DonnéetfaitàSaint-	Donné et fait à Saint -
-GermainenLaye,..ou	Germain en Laye , . . ou
-moysdefevrierl'andegracemil	moys de fevrier l ' an de grace mil
-iiicettrente..	iii c et trente . .
-Parleroy	Par le roy
-,àla..relacionmons,leducdeBourbon	, à la . . relacion mons , le duc de Bourbon
-Bourbonfaiteàmoi,..ouditmois	Bourbon faite à moi , . . ou dit mois
-,ouLouvre.Vitri.	, ou Louvre . Vitri .
+Philippes,parlagracedeDieu,	Philippes , par la grace de Dieu ,
+,roisdeFrance.Savoirfaisonsàtouzpresenz	, rois de France . Savoir faisons à touz presenz
+etavenir	et avenir
+que,comme..nouseussiens,de	que , comme . . nous eussiens , de
+graceespecial,	grace especial ,
+donnéetotroiéànostre	donné et otroié à nostre
+améSymondeMontbreton,	amé Symon de Montbreton ,
+chevalier,un.	chevalier , un .
+.chasteldedeuscenslivréestournoisdeterre	. chastel de deus cens livrées tournois de terre
+paran,àsavietantseulement,et	par an , à sa vie tant seulement , et
+eussiensmandéet	eussiens mandé et
+commisànostreaméetfealchevalier,	commis à nostre amé et feal chevalier ,
+MoutondeBlenville,seneschald'Agenois	Mouton de Blenville , seneschal d ' Agenois
+Agenois,queauditSymonpourveistduditchastel	Agenois , que au dit Symon pourveist du dit chastel
+etliassistetassignastlesdictes	et li assist et assignast les dictes
+deuscenslivréesdeterretournoisparan	deus cens livrées de terre tournois par an
+,nouscertainsetconfiansde.	, nous certains et confians de .
+.laloyautéetcircunspectiond'iceli	. la loyauté et circunspection d ' iceli
+Symon,parl	Symon , par l
+'experiencedesesbonneseuvresetfaiz	' experience de ses bonnes euvres et faiz
+faiz,considerezlesbons,loyausetaggreables	faiz , considerez les bons , loyaus et aggreables
+aggreablesservicesqu'ilnousafaizlonguement	aggreables services qu ' il nous a faiz longuement
+etfaitencoredejouren	et fait encore de jour en
+enjour,voulanslifairerecompensacioncondignede	en jour , voulans li faire recompensacion condigne de
+ce,euebonne	ce , eue bonne
+deliberacionsurce,avons,degraceespecial	deliberacion sur ce , avons , de grace especial
+etdecertainescience,	et de certaine science ,
+,donnéetdonnonsàlietàses	, donné et donnons à li et à ses
+hersetsuccesseurs,àhéritageperpetuelment,	hers et successeurs , à héritage perpetuelment ,
+centlivréesdeterretournoisà	cent livrées de terre tournois à
+valuedeterre,àluiestre	value de terre , à lui estre
+assiseset	assises et
+assignéesenlaseneschauciedePoitou,leissantpour	assignées en la seneschaucie de Poitou , leissant pour
+pourceànouslesdeuscens	pour ce à nous les deus cens
+livres..deterre	livres . . de terre
+tournoisparanetlechasteldessusdiz	tournois par an et le chastel dessus diz
+diz,quedonnéliaviensà	diz , que donné li aviens à
+sa.vie,si	sa . vie , si
+commeditest.Entesmoingde	comme dit est . En tesmoing de
+laquelle.choseetàce	la quelle . chose et à ce
+quecesoitperpetuelmentfermeetestable	que ce soit perpetuelment ferme et estable
+,nousavonsfaitmettrenostre	, nous avons fait mettre nostre
+seelàcespresenteslettres	seel à ces presentes lettres
+lettres.DonnéetfaitàSaint..	lettres . Donné et fait à Saint . .
+-GermainenLaye	- Germain en Laye
+,oumoysdefevrierl'an	, ou moys de fevrier l ' an
+andegracemiliiicettrente	an de grace mil iii c et trente
+trente.Parleroy,	trente . Par le roy ,
+,àlarelacion	, à la relacion
+mons,leducdeBourbonfaiteàmoi	mons , le duc de Bourbon faite à moi
+moi,ouditmois,ouLouvre	moi , ou dit mois , ou Louvre

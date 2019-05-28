@@ -1,83 +1,88 @@
-Charles,parla	Charles , par la
-lagracede	la grace de
-Dieu,roydeFrance.	Dieu , roy de France .
-Savoirfaisonsàtous	Savoir faisons à tous
-tous,presenset	tous , presens et
-avenir,que,	avenir , que ,
-commeGuyotduJeu,escuier,lequelprenoit	comme Guyot du Jeu , escuier , le quel prenoit
-etdevoitprendrepar	et devoit prendre par
-parandixsetiersdeblé	par an dix setiers de blé
-,àlamesured'Angle,sur	, à la mesure d ' Angle , sur
-lechasteldeNeonetsurlesrevenuesetappartenances	le chastel de Neon et sur les revenues et appartenances
-appartenancesd'icellui,lequelchasteletappartenances	appartenances d ' icellui , le quel chastel et appartenances
-estoientetappartenoientàHuguetd'Aloigné,	estoient et appartenoient à Huguet d ' Aloigné ,
-,escuier,eustettenistleditchastel	, escuier , eust et tenist le dit chastel
-etenpreistet.receusttouteslesrevenueset	et en preist et . receust toutes les revenues et
-rentesd'icellui,tantpour	rentes d ' icellui , tant pour
-pourpaiementdesdisdixsetiersdeblécommepourla	pour paiement des dis dix setiers de blé comme pour la
-garded'icellui.enl	garde d ' icellui . en l
-l'obeissance	l ' obeissance
-denostreadversaired'Angleterre,	de nostre adversaire d ' Angleterre ,
-dontils'	dont il s '
-estoitparmichargiezparaccortfaitavecluiparle	estoit parmi chargiez par accort fait avec lui par le
-leditHuguetetsesamis	le dit Huguet et ses amis
-,duquel	, du quel
-nostreadversaireleditGuyotatenu	nostre adversaire le dit Guyot a tenu
-ettientle	et tient le
-partiencontrenousetnossubgiez,parquoyle	parti encontre nous et nos subgiez , par quoy le
-ditchasteletsesdictesappartenancesnous	dit chastel et ses dictes appartenances nous
+Charles,parlagracedeDieu,	Charles , par la grace de Dieu ,
+,roydeFrance.Savoirfaisonsàtous,presens	, roy de France . Savoir faisons à tous , presens
+etavenir,que..,comme	et avenir , que . . , comme
+GuyotduJeu,escuier,lequel	Guyot du Jeu , escuier , le quel
+prenoitetdevoitprendreparandixsetiersdeblé	prenoit et devoit prendre par an dix setiers de blé
+,àlamesured'Angle	, à la mesure d ' Angle
+,surlechastel	, sur le chastel
+deNeonet..	de Neon et . .
+surlesrevenues	sur les revenues
+revenuesetappartenancesd'	revenues et appartenances d '
+icellui,lequelchasteletappartenancesestoient	icellui , le quel chastel et appartenances estoient
+et.appartenoientà	et . appartenoient à
+Huguetd'Aloigné,	Huguet d ' Aloigné ,
+escuier,eust	escuier , eust
+ettenistleditchasteletenpreistetreceust	et tenist le dit chastel et en preist et receust
+receusttouteslesrevenueset	receust toutes les revenues et
+rentesd'icellui,tantpourpaiement	rentes d ' icellui , tant pour paiement
+paiementdesdisdixsetiersdeblécomme	paiement des dis dix setiers de blé comme
+pourlagarded'icelluienl'	pour la garde d ' icellui en l '
+obeissancedenostre	obeissance de nostre
+nostreadversaired'Angleterre	nostre adversaire d ' Angleterre
+,dontils'	, dont il s '
+estoitparmi	estoit parmi
+chargiezparaccortfaitavecluiparledit	chargiez par accort fait avec lui par le dit
+dit.Huguetetsesamis,duquelnostreadversairele	dit . Huguet et ses amis , du quel nostre adversaire le
+ditGuyotatenuettientlepartiencontre	dit Guyot a tenu et tient le parti encontre
+encontrenousetnossubgiez,par	encontre nous et nos subgiez , par
+parquoyle	par quoy le
+ditchasteletsesdictes	dit chastel et ses dictes
+dictesappartenancesnous	dictes appartenances nous
 sontacquisetvenusencommis,nous,	sont acquis et venus en commis , nous ,
-pourconsideraciondes	pour consideracion des
-bonsetloyauxservicesquenousafais	bons et loyaux services que nous a fais
-ennosguerresetfaitchascun	en nos guerres et fait chascun
-chascunjourPierreBauchier,escuierde	chascun jour Pierre Bauchier , escuier de
-deBretaingne,compaignondenostreamé	de Bretaingne , compaignon de nostre amé
-huissierd	huissier d
-d'armesJehandeKaeranloet,	d ' armes Jehan de Kaeranloet ,
-etàlarequesteduditJehan,	et à la requeste du dit Jehan ,
-avonsauditPierredonnéetoctroyé,denostre	avons au dit Pierre donné et octroyé , de nostre
-graceespecial,decertainescience	grace especial , de certaine science
-etauctoritéroyal,..	et auctorité royal , . .
-etparlateneur..deceslettrésdonnons	et par la teneur . . de ces lettrés donnons
-donnonsetoctroionslechasteldeNeondessusnommé..	donnons et octroions le chastel de Neon dessus nommé . .
-avecquessesdictesappartenances,soientterres,vignes	avecques ses dictes appartenances , soient terres , vignes
-vignes,prés,pastures,boys,rivieres,	vignes , prés , pastures , boys , rivieres ,
-,estans,pescheries,hommes,hommages	, estans , pescheries , hommes , hommages
+,pourconsideracion	, pour consideracion
+desbonsetloyauxservicesque	des bons et loyaux services que
+nousafais	nous a fais
+en.nosguerres	en . nos guerres
+guerresetfaitchascunjour	guerres et fait chascun jour
+jourPierreBauchier,escuierde	jour Pierre Bauchier , escuier de
+deBretaingne,compaignondenostreaméhuissierd.'	de Bretaingne , compaignon de nostre amé huissier d . '
+armesJehandeKaeranloet,et	armes Jehan de Kaeranloet , et
+àlarequeste	à la requeste
+duditJehan,avonsauditPierre	du dit Jehan , avons au dit Pierre
+donnéet..	donné et . .
+octroyé,denostregraceespecial,de	octroyé , de nostre grace especial , de
+decertainescienceetauctoritéroyal,etpar	de certaine science et auctorité royal , et par
+lateneurdeces..lettrés	la teneur de ces . . lettrés
+lettrésdonnonsetoctroions	lettrés donnons et octroions
+lechastelde	le chastel de
+Neon.dessusnomméavecquessesdictesappartenances,soientterres	Neon . dessus nommé avecques ses dictes appartenances , soient terres
+,vignes,.prés,	, vignes , . prés ,
+pastures,boys	pastures , boys
+,rivieres,estans,	, rivieres , estans ,
+pescheries,	pescheries ,
+hommes,.hommages	hommes , . hommages
 hommages,jurisdicionhaute	hommages , jurisdicion haute
-,moyenneetbasse	, moyenne et basse
-,cens,rentes	, cens , rentes
-etautresrevenuesquelconques,enquelconquevaleurque	et autres revenues quelconques , en quelconque valeur que
-ellessoient,àteniretpossiderparledit	elles soient , à tenir et possider par le dit
-ditPierreetparseshoirsetsuccesseurs,et	dit Pierre et par ses hoirs et successeurs , et
-ceulxquiaurontcausedelui	ceulx qui auront cause de lui
-,perpetuelmentetàtousjours	, perpetuelment et à tousjours
-.Sidonnonsenmandementauxseneschauxde	. Si donnons en mandement aux seneschaux de
-Poitou,deLymosinetde	Poitou , de Lymosin et de
-Xantongeetà..	Xantonge et à . .
-.touslesautresjusticiersdenostre	. tous les autres justiciers de nostre
-royaume,presensetavenir,ou	royaume , presens et avenir , ou
-àleurslieutenanset..àchascun	à leurs lieutenans et . . à chascun
-d'eulx,sicommeà	d ' eulx , si comme à
-luiappartendra,queleditPierremettentet	lui appartendra , que le dit Pierre mettent et
-tiennentenpossessionetsaisinedu	tiennent en possession et saisine du
-duchastelet..	du chastel et . .
-.desappartenancesdessusdictes,etl	. des appartenances dessus dictes , et l
-'.enfacent	' . en facent
-etlaissent,etsesdishoirsetsuccesseurs	et laissent , et ses dis hoirs et successeurs
-,etceulxquide	, et ceulx qui de
-luiaurontcause,joir	lui auront cause , joir
-joiretuserpaisiblementetperpetuelment	joir et user paisiblement et perpetuelment
-,cessanttoutempeschement	, cessant tout empeschement
-empeschement.Etquece	empeschement . Et que ce
-soitfermechoseet	soit ferme chose et
-etestableàtousjours,nousavonsfait	et estable à tousjours , nous avons fait
-mettrenostre	mettre nostre
-seelàceslettres	seel à ces lettres
-.Saufenautreschoses.nostredroitetl'	. Sauf en autres choses . nostre droit et l '
-'autruientoutes.Donnéà.Paris,le	' autrui en toutes . Donné à . Paris , le
-viiiejourdejuilletl	viiie jour de juillet l
-'andegrace	' an de grace
-milccc.	mil ccc .
-.lx.etdix,et	. lx . et dix , et
-leseptiesmedenostreregne..Parle	le septiesme de nostre regne . . Par le
-roy.Yvo	roy . Yvo
+,moyenneetbasse,cens,rentes	, moyenne et basse , cens , rentes
+rentesetautresrevenuesquelconques	rentes et autres revenues quelconques
+,enquelconque	, en quelconque
+valeurqueellessoient,àteniret	valeur que elles soient , à tenir et
+possiderparleditPierreet	possider par le dit Pierre et
+parseshoirsetsuccesseurs,etceulxquiauront	par ses hoirs et successeurs , et ceulx qui auront
+causede.lui,perpetuelment	cause de . lui , perpetuelment
+etàtousjours.Sidonnonsenmandement	et à tousjours . Si donnons en mandement
+mandement.auxseneschauxde	mandement . aux seneschaux de
+Poitou,deLymosinetdeXantonge	Poitou , de Lymosin et de Xantonge
+Xantongeetà	Xantonge et à
+touslesautresjusticiersdenostreroyaume	tous les autres justiciers de nostre royaume
+,presensetavenir.,ouà	, presens et avenir . , ou à
+leurslieutenansetàchascund'eulx	leurs lieutenans et à chascun d ' eulx
+,sicomme	, si comme
+àluiappartendra..,queleditPierremettentet	à lui appartendra . . , que le dit Pierre mettent et
+tiennentenpossessionetsaisineduchastel	tiennent en possession et saisine du chastel
+chasteletdesappartenancesdessusdictes,etl'	chastel et des appartenances dessus dictes , et l '
+enfacentetlaissent,etses	en facent et laissent , et ses
+sesdishoirsetsuccesseurs,etceulx	ses dis hoirs et successeurs , et ceulx
+quideluiaurontcause,joiret.user	qui de lui auront cause , joir et . user
+paisiblementetperpetuelment,cessanttout	paisiblement et perpetuelment , cessant tout
+empeschement.Etquecesoitferme	empeschement . Et que ce soit ferme
+choseetestableàtousjours,nousavons	chose et estable à tousjours , nous avons
+avonsfaitmettrenostreseel	avons fait mettre nostre seel
+àceslettres.Saufenautreschosesnostre	à ces lettres . Sauf en autres choses nostre
+droitet	droit et
+l'autrui	l ' autrui
+entoutes.DonnéàParis	en toutes . Donné à Paris
+Paris,leviiiejourdejuilletl'ande	Paris , le viiie jour de juillet l ' an de
+degracemilccc.lx.et	de grace mil ccc . lx . et
+dix,etleseptiesmede	dix , et le septiesme de
+nostreregne.Par	nostre regne . Par
+Parleroy.Yvo.	Par le roy . Yvo .

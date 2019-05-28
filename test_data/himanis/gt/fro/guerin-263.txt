@@ -1,43 +1,44 @@
-Philippes,parla	Philippes , par la
-gracedeDieu,roysdeFrance.	grace de Dieu , roys de France .
-Savoirfaisonsà	Savoir faisons à
-àtouzque	à touz que
-nous,euconsideracionausbonsetaggreablesservicesque.	nous , eu consideracion aus bons et aggreables services que .
-nostreaméRobertOudart,chevalier,nousafaiz	nostre amé Robert Oudart , chevalier , nous a faiz
-touzjoursennozguerresetfaitencores,et	touz jours en noz guerres et fait encores , et
-sesdevanciersnousontfaizbien	ses devanciers nous ont faiz bien
-etleaument	et leaument
-loyaumentoutempspassé	loyaument ou temps passé
-,avonsoctroieet	, avons octroie et
+Philippes,parlagracedeDieu.,	Philippes , par la grace de Dieu . ,
+roysdeFrance.Savoirfaisonsàtouz..quenous	roys de France . Savoir faisons à touz . . que nous
+nous,euconsideracionausbonset	nous , eu consideracion aus bons et
+aggreablesservicesquenostreaméRobertOudart,chevalier,	aggreables services que nostre amé Robert Oudart , chevalier ,
+nousafaiztouz	nous a faiz touz
+touzjoursennozguerres..etfait	touz jours en noz guerres . . et fait
+faitencores,etsesdevanciersnous	fait encores , et ses devanciers nous
+nousontfaizbienetleaumentloyaumentoutempspassé	nous ont faiz bien et leaument loyaument ou temps passé
+passé,avonsoctroie	passé , avons octroie
 etoctroionsdegraceespecial,decertainescience	et octroions de grace especial , de certaine science
-scienceetdenostreauctoritéroyal	science et de nostre auctorité royal
-,auditchevalier	, au dit chevalier
-,queilen	, que il en
-sesheritagesseanzau	ses heritages seanz au
-PetitPréetàlaBeulle,ès.paroissesde	Petit Pré et à la Beulle , ès . paroisses de
-deSaint-Vincentd'Oreur	de Saint - Vincent d ' Oreur
-OreuretdeSairre,oubailliagedeTouraine,puisse	Oreur et de Sairre , ou bailliage de Touraine , puisse
-puissefaireetconstruireàson	puisse faire et construire à son
-proffit,.sanzprejudiced'autruy,estancs	proffit , . sanz prejudice d ' autruy , estancs
-,etparfaireetachiverl'estanc	, et parfaire et achiver l ' estanc
-delaBeulle	de la Beulle
-etduPetitPré,noncontrestant	et du Petit Pré , non contrestant
-queilyait	que il y ait
-chemin,pourveuqu'ilfaceetlaisse	chemin , pourveu qu ' il face et laisse
-faireensaterreprofitablescheminspourlestrespassans.	faire en sa terre profitables chemins pour les trespassans .
-.Etpourcequece	. Et pour ce que ce
-soitfermechoseetestableà	soit ferme chose et estable à
-perpetuité,nous..avons	perpetuité , nous . . avons
-faitmettrenostre	fait mettre nostre
-nostreseelenceslettres.DonnéàCompiengne,l	nostre seel en ces lettres . Donné à Compiengne , l
-l'andegracemilccc.trenteetneuf	l ' an de grace mil ccc . trente et neuf
-neuf,oumoysd'octobre	neuf , ou moys d ' octobre
-.Parleroyà	. Par le roy à
-larelaciondemessiresM.Chamaillartet	la relacion de messires M . Chamaillart et
-L.deVaussemain..Henri.—	L . de Vaussemain . . Henri .—
-Sinefinancia	Sine financia
+et..denostre	et . . de nostre
+nostreauctoritéroyal,au	nostre auctorité royal , au
+ditchevalier,queilensesheritagesseanzau	dit chevalier , que il en ses heritages seanz au
+auPetitPréetàlaBeulle,èsparoissesde..	au Petit Pré et à la Beulle , ès paroisses de . .
+Saint-Vincent	Saint - Vincent
+d'Oreur.et	d ' Oreur . et
+deSairre,oubailliagedeTouraine,puissefaire	de Sairre , ou bailliage de Touraine , puisse faire
+faireetconstruireà.sonproffit,	faire et construire à . son proffit ,
+sanzprejudice..	sanz prejudice . .
+.d'autruy,estancs,etparfaireetachiver	. d ' autruy , estancs , et parfaire et achiver
+achiverl'estancdelaBeulleetdu.PetitPré	achiver l ' estanc de la Beulle et du . Petit Pré
+Pré,noncontrestantqueilyait	Pré , non contrestant que il y ait
+chemin,pourveuqu'ilfaceet	chemin , pourveu qu ' il face et
+laissefaireen..	laisse faire en . .
+saterre	sa terre
+terreprofitablescheminspourlestrespassans	terre profitables chemins pour les trespassans
+trespassans.Et..pour	trespassans . Et . . pour
+ce.quece	ce . que ce
+cesoitfermechose	ce soit ferme chose
+choseetestableàperpetuité	chose et estable à perpetuité
+perpetuité,nousavons	perpetuité , nous avons
+avonsfaitmettrenostreseel	avons fait mettre nostre seel
+enceslettres	en ces lettres
+.Donné..àCompiengne,l	. Donné . . à Compiengne , l
+'andegracemilccc.trenteetneuf	' an de grace mil ccc . trente et neuf
+,oumoysd'octobre.	, ou moys d ' octobre .
+Parleroy	Par le roy
+àlarelaciondemessiresM.ChamaillartetL	à la relacion de messires M . Chamaillart et L
+.deVaussemain.Henri.—Sinefinancia	. de Vaussemain . Henri .— Sine financia
 .Justice.Par	. Justice . Par
-Parleroyàlarelacion	Par le roy à la relacion
-demessiresM.ChamaillartetL	de messires M . Chamaillart et L
-.deVaussemain.Sinefinancia.Henri.Justice	. de Vaussemain . Sine financia . Henri . Justice
-Justice.	Justice .
+leroyàlarelaciondemessires	le roy à la relacion de messires
+messiresM.ChamaillartetL.	messires M . Chamaillart et L .
+.deVaussemain.Sine	. de Vaussemain . Sine
+Sinefinancia.Henri.Justice.	Sine financia . Henri . Justice .

@@ -1,351 +1,345 @@
 Philipes,parlagracedeDieu,roys	Philipes , par la grace de Dieu , roys
-roysdeFrance.Savoirfaisonsàtouz	roys de France . Savoir faisons à touz
-,presensetavenir,quenousavonsveuesles	, presens et avenir , que nous avons veues les
-lettres,dont	lettres , dont
-dontlesteneurss'	dont les teneurs s '
-ensuivent:Atouzceulz	ensuivent : A touz ceulz
-quices.presentes	qui ces . presentes
-lettresverront,Jehan	lettres verront , Jehan
-JehandeMilon,gardede.laprevostédeParis	Jehan de Milon , garde de . la prevosté de Paris
-,salut.Savoir.faisonsque,pardevantJehan	, salut . Savoir . faisons que , par devant Jehan
-leMireetAuberydeCrepon,clers,notaires	le Mire et Aubery de Crepon , clers , notaires
-jurezetestablisdeparnostreseigneurle	jurez et establis de par nostre seigneur le
-royou.Chastellet	roy ou . Chastellet
-ChastelletdeParis,aus..quiexnous	Chastellet de Paris , aus . . quiex nous
-nousadjoustonsfoyplainiereencecas	nous adjoustons foy plainiere en ce cas
-etenplus	et en plus
-grant,etquant.aus	grant , et quant . aus
-chosesci-dedenzcontenuesfaire,oïretà	choses ci - dedenz contenues faire , oïr et à
-nousrapporter,deparnouset.oulieu	nous rapporter , de par nous et . ou lieu
-denousespecialmentcommisetenvoiez.pource,fu	de nous especialment commis et envoiez . pour ce , fu
-personnelmentestablinoblehomme,monseigneurLoysdeThouart,	personnelment establi noble homme , monseigneur Loys de Thouart ,
-chevalier,siresdeMoneto,etaffermaque	chevalier , sires de Moneto , et afferma que
-ilautrefoiza	il autre foiz a
-voitdonnéàGuillaumeBaritaut,clerc	voit donné à Guillaume Baritaut , clerc
-,laMoteJoudoinetlesappartenances,enrecompensacion	, la Mote Joudoin et les appartenances , en recompensacion
-recompensaciondesbonsservicesqueleditGuillaume	recompensacion des bons services que le dit Guillaume
-liavoit	li avoit
-faiz;..tout	faiz ; . . tout
-toutle..quel	tout le . . quel
-dondeladite	don de la dite
-diteMoteJoudoinetles	dite Mote Joudoin et les
-appartenancesautre	appartenances autre
-foizfaitauditGuillaume,	foiz fait au dit Guillaume ,
-commedit	comme dit
-est..,iceluichevalier,consideré	est . . , icelui chevalier , consideré
-consideréetresgardélaperseverance,lesgranzprofiz	consideré et resgardé la perseverance , les granz profiz
-profizettrevailsque	profiz et trevails que
-leditGuillaumea	le dit Guillaume a
-faizpouryceluichevalier,pour	faiz pour ycelui chevalier , pour
-contemplaciond'iceuls,..toutyceluidonil	contemplacion d ' iceuls , . . tout ycelui don il
-voult,loua,grea,approuva,ratifia	voult , loua , grea , approuva , ratifia
-etconferma,etvoultexpresseementqueildemeure	et conferma , et voult expresseement que il demeure
-perpetuelmentàtouzjoursvalable..,et	perpetuelment à touz jours valable . . , et
-etencoresicelui	et encores icelui
-donilquitta,cessa,transporta	don il quitta , cessa , transporta
-etdutouten	et du tout en
-toutdelaissadesorendroitàtouz..	tout delaissa desorendroit à touz . .
-joursau.ditGuillaume,	jours au . dit Guillaume ,
-àseshoirsetàceuls	à ses hoirs et à ceuls
-quicauseaurontdelui	qui cause auront de lui
-,mettantettransportantàtouzjoursauditGuillaume	, mettant et transportant à touz jours au dit Guillaume
-Guillaume,en	Guillaume , en
-seshoirsetenceuls	ses hoirs et en ceuls
+roysdeFrance.Savoirfaisons	roys de France . Savoir faisons
+faisonsàtouz	faisons à touz
+,presensetavenir,quenous	, presens et avenir , que nous
+avonsveuesleslettres,dontlesteneurss'	avons veues les lettres , dont les teneurs s '
+'ensuivent:Atouz	' ensuivent : A touz
+touzceulzquicespresenteslettresverront,JehandeMilon	touz ceulz qui ces presentes lettres verront , Jehan de Milon
+Milon,gardedela	Milon , garde de la
+laprevostéde	la prevosté de
+deParis,salut.Savoirfaisonsque,pardevant	de Paris , salut . Savoir faisons que , par devant
+JehanleMireetAubery..deCrepon,	Jehan le Mire et Aubery . . de Crepon ,
+,clers,notairesjurezetestablisdepar..	, clers , notaires jurez et establis de par . .
+.nostreseigneurleroy	. nostre seigneur le roy
+ouChastellet.deParis	ou Chastellet . de Paris
+,ausquiex	, aus quiex
+quiexnousadjoustonsfoyplainiereencecasetenplus	quiex nous adjoustons foy plainiere en ce cas et en plus
+grant,etquantauschosesci	grant , et quant aus choses ci
+ci-dedenzcontenuesfaire,oïretànous	ci - dedenz contenues faire , oïr et à nous
+nousrapporter,	nous rapporter ,
+,deparnousetoulieudenous	, de par nous et ou lieu de nous
+nousespecialmentcommisetenvoiezpource,fu	nous especialment commis et envoiez pour ce , fu
+fupersonnelmentestablinoblehomme	fu personnelment establi noble homme
+homme,monseigneurLoys	homme , monseigneur Loys
+deThouart,chevalier,siresdeMoneto,et	de Thouart , chevalier , sires de Moneto , et
+affermaqueil	afferma que il
+autrefoizavoitdonnéàGuillaume	autre foiz a voit donné à Guillaume
+Baritaut,clerc,la	Baritaut , clerc , la
+MoteJoudoinetlesappartenances	Mote Joudoin et les appartenances
+appartenances,enrecompensaciondesbonsservicesquele	appartenances , en recompensacion des bons services que le
+ditGuillaumeliavoit	dit Guillaume li avoit
+faiz;tout..lequeldonde	faiz ; tout . . le quel don de
+laditeMoteJoudoinetles.	la dite Mote Joudoin et les .
+.appartenancesautrefoizfaitauditGuillaume,commedit	. appartenances autre foiz fait au dit Guillaume , comme dit
+est,iceluichevalier,consideréetresgardéla	est , icelui chevalier , consideré et resgardé la
+perseverance,lesgranzprofizettrevailsquele	perseverance , les granz profiz et trevails que le
+leditGuillaumeafaiz	le dit Guillaume a faiz
+pouryceluichevalier..,pourcontemplaciond'iceuls,	pour ycelui chevalier . . , pour contemplacion d ' iceuls ,
+toutyceluidonilvoult,loua,grea,	tout ycelui don il voult , loua , grea ,
+approuva,ratifiaetconferma,etvoultexpresseementque	approuva , ratifia et conferma , et voult expresseement que
+queildemeureperpetuelmentàtouzjours	que il demeure perpetuelment à touz jours
+valable,etencoresiceluidonilquitta	valable , et encores icelui don il quitta
+,cessa,transportaetdutout	, cessa , transporta et du tout
+entoutdelaissa.desorendroitàtouzjoursauditGuillaume	en tout delaissa . desorendroit à touz jours au dit Guillaume
+Guillaume,àseshoirsetà	Guillaume , à ses hoirs et à
+àceulsquicauseaurontdelui,mettant	à ceuls qui cause auront de lui , mettant
+ettransportantàtouzjoursauditGuillaume	et transportant à touz jours au dit Guillaume
+,enseshoirs..etenceulsqui	, en ses hoirs . . et en ceuls qui
 quicauseaurontdelui,	qui cause auront de lui ,
-touslesdroizdesaisine,deproprietéetautres	tous les droiz de saisine , de proprieté et autres
-autresquelconquesqueilavoit.et	autres quelconques que il avoit . et
+,touslesdroizdesaisine,deproprieté	, tous les droiz de saisine , de proprieté
+proprietéetautresquelconquesqueil	proprieté et autres quelconques que il
+avoitet	avoit et
 povoitavoir,comment.quecefust	povoit avoir , comment . que ce fust
-fust,enladiteMoteetappartenances..,	fust , en la dite Mote et appartenances . . ,
-etd'iceuls	et d ' iceuls
-Mote,appartenancesetdroizdessusdizil	Mote , appartenances et droiz dessus diz il
-sedevestietdesmist,etenvesti..	se devesti et desmist , et en vesti . .
-etmistensonlieuledit	et mist en son lieu le dit
-Guillaumeetceulsquicause	Guillaume et ceuls qui cause
-aurontdelui,etl'enfistprocurateur	auront de lui , et l ' en fist procurateur
-procurateur,acteuretfaiseur	procurateur , acteur et faiseur
-,commeen..	, comme en . .
-sachosepropre.Etpromistyceluichevalierenbonne	sa chose propre . Et promist ycelui chevalier en bonne
-veritéetparla	verité et par la
-lafoydesoncorps	la foy de son corps
-bailliepourceetcorporelmentès	baillie pour ce et corporelment ès
-mains.des	mains . des
-diz..notairesjurezquecontreleditdonnecontre	diz . . notaires jurez que contre le dit don ne contre
-aucunedeschoses.	aucune des choses .
-...contenuesencespresenteslettres	. . . contenues en ces presentes lettres
-iln'irane	il n ' ira ne
-nealersoufferra,commentquecesoit,parlui	ne aler soufferra , comment que ce soit , par lui
-luineparautres,jamais	lui ne par autres , jamais
-ànuljour,outemps	à nul jour , ou temps
-tempsavenir,ainçoizladiteMote..etappartenancesdessusdiz	temps avenir , ainçoiz la dite Mote . . et appartenances dessus diz
-,donnez	, donnez
-commeditest,garantira	comme dit est , garantira
-,delivreraetdeffendracontretouzetenverstouz,	, delivrera et deffendra contre touz et envers touz ,
-auditGuillaume	au dit Guillaume
-,àseshoirs	, à ses hoirs
-etàceulsquicauseaurontdelui,	et à ceuls qui cause auront de lui ,
-,enjugement	, en jugement
-jugementethors,perpetuelment,toutesfoizetquantesque	jugement et hors , perpetuelment , toutes foiz et quantes que
-mestierseraet..que	mestier sera et . . que
-ilenserarequisduporteurde	il en sera requis du porteur de
-ceslettres	ces lettres
-lettres,etque	lettres , et que
-ilrendraetpaiera	il rendra et paiera
-auditGuillaumeouauditporteur	au dit Guillaume ou au dit porteur
-touzdommagesetinterèsquifaizet	touz dommages et interès qui faiz et
-etsous-..	et sous - . .
-tenuzyseroientpardeffaut	tenuz y seroient par deffaut
-desagarantieouautrement,commentque	de sa garantie ou autrement , comment que
-quecefust,enaucunedes	que ce fust , en aucune des
-deschoses.dessusdites	des choses . dessus dites
-nonenterinéesetnonaemplies,enla	non enterinées et non aemplies , en la
-manierequepar	maniere que par
-pardessussontdevisées.	par dessus sont devisées .
-.Etquantàtout	. Et quant à tout
-cequedit	ce que dit
-esttenirfermementetloyaument	est tenir fermement et loyaument
-acomplir,leditchevalierobliga	acomplir , le dit chevalier obliga
-etsouzmist	et souzmist
-soy,seshoirsettouzsesbiens	soy , ses hoirs et touz ses biens
-,etdeseshoirs..,meubles	, et de ses hoirs . . , meubles
-etnonmeubles	et non meubles
-,presenzetavenir,quiex[et]	, presenz et avenir , quiex [ et ]
-oùqueilsoient,àjusticierparnouset	où que il soient , à justicier par nous et
-nozsuccesseurs,prevozdeParis,etpar	noz successeurs , prevoz de Paris , et par
-toutesautresjustices,souzquijurisdicionilseronttrouvez	toutes autres justices , souz qui jurisdicion il seront trouvez
-.Et..renonça	. Et . . renonça
-expresseementen	expresseement en
-en.cefaitparsafoyetparsonserement	en . ce fait par sa foy et par son serement
-à..toutelesion,decepcionetdecevance,àtoute	à . . toute lesion , decepcion et decevance , à toute
-aidedefaitetdedroit..escriptetnon	aide de fait et de droit . . escript et non
-escript,àcequeilpuissedireque	escript , à ce que il puisse dire que
-queautreaitestéfaiteouaccordée,àaccionen	que autre ait esté faite ou accordée , à accion en
-fait,àconvencion	fait , à convencion
-delieuetdejuge,	de lieu et de juge ,
-,etgeneralmentà	, et generalment à
-àtoutes..coustumes,constitucions,	à toutes . . coustumes , constitucions ,
-ordenances,loys,us,establissemens,àtoutes	ordenances , loys , us , establissemens , à toutes
-,excepcions	, excepcions
-excepcions,barres,raisons,	excepcions , barres , raisons ,
-deffensesetaides,defaitet	deffenses et aides , de fait et
-dedroit,	de droit ,
-etautreschosesquiaidieretvaloir	et autres choses qui aidier et valoir
-valoirluipourroient..àvenir	valoir lui pourroient . . à venir
-contrelateneurdeceslettres,oucontre	contre la teneur de ces lettres , ou contre
-contrelefaitcontenuenelles,mesmement	contre le fait contenu en elles , mesmement
-audroitdisantgeneralrenonciacionnonvaloir.En	au droit disant general renonciacion non valoir . En
-tesmoindece,nous,àlà	tesmoin de ce , nous , à là
-relaciondesdiznotairesjurez	relacion des diz notaires jurez
-jurez,avonsmisences	jurez , avons mis en ces
-lettresleseeldelaprevostédeParis	lettres le seel de la prevosté de Paris
-Paris,l'	Paris , l '
-'аndegracemilccc.xxxiij.,ledimanche	' аn de grace mil ccc . xxxiij ., le dimanche
-treziemejourde	trezieme jour de
-fevrier.Item	fevrier . Item
-..Atouzceuls	. . A touz ceuls
-quiverrontetorrontcespresenteslettres,nousLoys	qui verront et orront ces presentes lettres , nous Loys
-,vicontedeTouars,seigneur	, viconte de Touars , seigneur
-deTalemont,salut.Sachenttozque.	de Talemont , salut . Sachent toz que .
-nousvoulons,	nous voulons ,
-confermonset	confermons et
-ratefionstoutesetchascuneleschosesqueAmauri,	ratefions toutes et chascune les choses que Amauri ,
-,siresdeCraonetdeMaroil,	, sires de Craon et de Maroil ,
-adonnéesetoctroiéesàmonsseurGuillaumeBaritaut	a données et octroiées à monsseur Guillaume Baritaut
-,chevalier,etàseshoirs	, chevalier , et à ses hoirs
-etsuccesseurs,etvoulonset	et successeurs , et voulons et
-et..octroionsqueellessoientperpetuelmentfermesetestables,sanz	et . . octroions que elles soient perpetuelment fermes et estables , sanz
-sanzcequenous,noshoirsou	sanz ce que nous , nos hoirs ou
-successeurs,puissonsvenirencontre.Etenoutre,.	successeurs , puissons venir encontre . Et en outre , .
-donnonsetoctroionsauditmonsieur..Guillaume,	donnons et octroions au dit monsieur . . Guillaume ,
-àseshoirset	à ses hoirs et
-etàsessuccesseurs,l'ommage.	et à ses successeurs , l ' ommage .
-quenousavonsetlequelnousafait.monsieurHenri	que nous avons et lequel nous a fait . monsieur Henri
-HenriEncelon,chevalier,duherbergementdela	Henri Encelon , chevalier , du herbergement de la
-MoteFrolonetdesappartenances,ettransportons	Mote Frolon et des appartenances , et transportons
-transportonsetbaillons	transportons et baillons
-baillonsauditmonsieur	baillons au dit monsieur
-Guillaume,	Guillaume ,
-àseshoirsetà	à ses hoirs et à
-àsessuccesseurs,toutel'obeissance	à ses successeurs , toute l ' obeissance
-obeissance,rachazetautresdevoirsquenous	obeissance , rachaz et autres devoirs que nous
-avonsetavoirpovonssurleschosesdessus	avons et avoir povons sur les choses dessus
-ditesetpourraisond'icelles,	dites et pour raison d ' icelles ,
-,enaugmentacion	, en augmentacion
-etaccroissementdel'omage,lequel	et accroissement de l ' omage , lequel
+fust,enladiteMoteetappartenances	fust , en la dite Mote et appartenances
+,etd'iceulsMote,	, et d ' iceuls Mote ,
+,appartenancesetdroizdessusdizilsedevesti	, appartenances et droiz dessus diz il se devesti
+etdesmist,etenvestietmisten	et desmist , et en vesti et mist en
+sonlieuleditGuillaumeet	son lieu le dit Guillaume et
+ceulsquicauseaurontde	ceuls qui cause auront de
+delui,et	de lui , et
+l'enfistprocurateur,	l ' en fist procurateur ,
+acteuret	acteur et
+faiseur,commeensachosepropre.	faiseur , comme en sa chose propre .
+.Etpromistyceluichevalierenbonneveritéet	. Et promist ycelui chevalier en bonne verité et
+parlafoydesoncorpsbailliepourceet	par la foy de son corps baillie pour ce et
+corporelmentès	corporelment ès
+mainsdesdiznotairesjurezquecontrele	mains des diz notaires jurez que contre le
+ditdonne	dit don ne
+contreaucunedeschosescontenues	contre aucune des choses contenues
+encespresenteslettresil	en ces presentes lettres il
+n'iranealersoufferra,commentquece	n ' ira ne aler soufferra , comment que ce
+cesoit,parluineparautres	ce soit , par lui ne par autres
+,jamaisànuljour,outemps	, jamais à nul jour , ou temps
+tempsavenir,ainçoiz	temps avenir , ainçoiz
+ainçoizladiteMoteetappartenancesdessusdiz	ainçoiz la dite Mote et appartenances dessus diz
+,..donnezcommedit	, . . donnez comme dit
+ditest,garantira,delivreraet	dit est , garantira , delivrera et
+deffendracontretouz	deffendra contre touz
+etenverstouz,au	et envers touz , au
+ditGuillaume,àseshoirs	dit Guillaume , à ses hoirs
+etàceulsquicauseaurontdelui,en	et à ceuls qui cause auront de lui , en
+enjugementethors,perpetuelment,toutes	en jugement et hors , perpetuelment , toutes
+foizetquantesquemestierseraetqueilen	foiz et quantes que mestier sera et que il en
+serarequisdu.porteurdeceslettres,	sera requis du . porteur de ces lettres ,
+etqueilrendraetpaieraauditGuillaume	et que il rendra et paiera au dit Guillaume
+ouauditporteurtouzdommagesetinterèsquifaiz	ou au dit porteur touz dommages et interès qui faiz
+etsous-	et sous -
+tenuzyseroientpardeffaut.desa	tenuz y seroient par deffaut . de sa
+garantieouautrement,commentquece	garantie ou autrement , comment que ce
+fust,enaucunedeschosesdessus	fust , en aucune des choses dessus
+ditesnon..enterinées	dites non . . enterinées
+etnonaemplies,enlamaniere	et non aemplies , en la maniere
+quepardessussontdevisées.Etquantà	que par dessus sont devisées . Et quant à
+toutceque	tout ce que
+queditesttenirfermement	que dit est tenir fermement
+etloyaumentacomplir..,	et loyaument acomplir . . ,
+,leditchevalierobligaet	, le dit chevalier obliga et
+souzmistsoy,seshoirs..	souzmist soy , ses hoirs . .
+ettouzsesbiens	et touz ses biens
+,etdeseshoirs	, et de ses hoirs
+hoirs,meublesetnonmeubles,presenzetavenir,	hoirs , meubles et non meubles , presenz et avenir ,
+quiex[et]oùqueilsoient	quiex [ et ] où que il soient
+,..àjusticierparnouset	, . . à justicier par nous et
+nozsuccesseurs,prevoz	noz successeurs , prevoz
+prevozdeParis	prevoz de Paris
+,..etpartoutesautresjustices,	, . . et par toutes autres justices ,
+souzquijurisdicionilseronttrouvez.Etrenonça	souz qui jurisdicion il seront trouvez . Et renonça
+expresseementencefaitparsafoyetpar	expresseement en ce fait par sa foy et par
+sonserementàtoutelesion,decepcionetdecevance,	son serement à toute lesion , decepcion et decevance ,
+,àtouteaidedefait	, à toute aide de fait
+et.dedroit	et . de droit
+escriptetnonescript,à	escript et non escript , à
+àcequeil	à ce que il
+puissedirequeautreaitestéfaite	puisse dire que autre ait esté faite
+faiteouaccordée,àaccion	faite ou accordée , à accion
+accionenfait,àconvenciondelieuetde	accion en fait , à convencion de lieu et de
+dejuge,.etgeneralmentàtoutescoustumes,constitucions	de juge , . et generalment à toutes coustumes , constitucions
+,ordenances,loys..	, ordenances , loys . .
+,us,establissemens,àtoutes,excepcions,	, us , establissemens , à toutes , excepcions ,
+barres,raisons,deffensesetaides	barres , raisons , deffenses et aides
+,defait..et	, de fait . . et
+etdedroit,etautreschosesquiaidier	et de droit , et autres choses qui aidier
+aidieretvaloir	aidier et valoir
+luipourroientàvenircontrela..teneur	lui pourroient à venir contre la . . teneur
+deceslettres,oucontrelefait	de ces lettres , ou contre le fait
+contenuenelles,	contenu en elles ,
+,mesmementau	, mesmement au
+droitdisantgeneralrenonciacion	droit disant general renonciacion
+nonvaloir.Entesmoindece,	non valoir . En tesmoin de ce ,
+nous,àlàrelacion	nous , à là relacion
+desdiznotairesjurez,avons	des diz notaires jurez , avons
+misences	mis en ces
+lettresleseel	lettres le seel
+delaprevostédeParis,l'	de la prevosté de Paris , l '
+'аndegrace	' аn de grace
+gracemilccc.xxxiij...,	grace mil ccc . xxxiij . . .,
+ledimanchetreziemejour.	le dimanche trezieme jour .
+.defevrier.Item.	. de fevrier . Item .
+Atouzceulsqui	A touz ceuls qui
+verrontetorrontcespresenteslettres,nousLoys	verront et orront ces presentes lettres , nous Loys
+Loys,vicontedeTouars,	Loys , viconte de Touars ,
+,seigneurde	, seigneur de
+Talemont,salut..Sachenttozquenousvoulons	Talemont , salut . . Sachent toz que nous voulons
+,confermonsetratefionstoutesetchascuneles	, confermons et ratefions toutes et chascune les
+leschosesqueAmauri,siresdeCraonetde	les choses que Amauri , sires de Craon et de
+Maroil,adonnéesetoctroiéesàmonsseur	Maroil , a données et octroiées à monsseur
+GuillaumeBaritaut,chevalier	Guillaume Baritaut , chevalier
+chevalier,etàseshoirsetsuccesseurs,etvoulons	chevalier , et à ses hoirs et successeurs , et voulons
+voulonset..octroionsqueellessoientperpetuelmentfermes	voulons et . . octroions que elles soient perpetuelment fermes
+etestables,sanz	et estables , sanz
+cequenous,noshoirs	ce que nous , nos hoirs
+ousuccesseurs,puissonsvenirencontre.Etenoutre	ou successeurs , puissons venir encontre . Et en outre
+,donnonsetoctroions	, donnons et octroions
+octroionsauditmonsieurGuillaume,àseshoirs	octroions au dit monsieur Guillaume , à ses hoirs
+etàsessuccesseurs	et à ses successeurs
+successeurs,l.	successeurs , l .
+'ommage	' ommage
+quenousavonsetlequelnous	que nous avons et lequel nous
+afaitmonsieurHenriEncelon,chevalier	a fait monsieur Henri Encelon , chevalier
+chevalier,duherbergementdelaMoteFrolonetdes	chevalier , du herbergement de la Mote Frolon et des
+appartenances,ettransportonset	appartenances , et transportons et
+baillonsauditmonsieurGuillaume	baillons au dit monsieur Guillaume
+,àseshoirsetà	, à ses hoirs et à
+sessuccesseurs,.toutel'obeissance,rachazet	ses successeurs , . toute l ' obeissance , rachaz et
+autresdevoirsquenousavonsetavoirpovons	autres devoirs que nous avons et avoir povons
+surleschoses	sur les choses
+chosesdessusditesetpourraisond	choses dessus dites et pour raison d
+d'icelles,enaugmentacionetaccroissement	d ' icelles , en augmentacion et accroissement
+del'omage	de l ' omage
+,lequelnous	, lequel nous
 nousafaitleditmonsieurGuillaume	nous a fait le dit monsieur Guillaume
-deschosesqu'iltientdenous.,	des choses qu ' il tient de nous . ,
-àNoaillé,retenuànousetausnozla	à Noaillé , retenu à nous et aus noz la
-lasusereynetéetjustice	la susereyneté et justice
-quenousavionssurleschosesdessus	que nous avions sur les choses dessus
-dites.Etpromettonsenbonnefoyetsurl	dites . Et promettons en bonne foy et sur l
-'obligaciondenoz..hoirs	' obligacion de noz . . hoirs
-etdenozbiens,quenousne	et de noz biens , que nous ne
-nevendronscontreleschoses	ne vendrons contre les choses
-chosesdessusdites	choses dessus dites
-dites...Entesmoing	dites . . . En tesmoing
-de..ce,nousavons	de . . ce , nous avons
-seellé.ces	seellé . ces
-presenteslettresdenostre	presentes lettres de nostre
-seel.Donnéle	seel . Donné le
-dimencheaprès..laMagdaleine,	dimenche après . . la Magdaleine ,
-l'andegracemilccc...	l ' an de grace mil ccc . . .
-xl.etdeux	xl . et deux
-.Item.Atouzceulsquiverrontet	. Item . A touz ceuls qui verront et
-orrontces	orront ces
-presenteslettres,JouhanBarré,portantleseel	presentes lettres , Jouhan Barré , portant le seel
-seelroyalestabliàPoicters,salut...Sachenttouz	seel royal establi à Poicters , salut . . . Sachent touz
-que,establien..droitpersonaumentnoble	que , establi en . . droit personaument noble
-hommemonseigneurLoys,vicontedeThouars,	homme monseigneur Loys , viconte de Thouars ,
-seigneurdeThalemont	seigneur de Thalemont
-,chevalier	, chevalier
-,pardevantGuillotOgier,clerc	, par devant Guillot Ogier , clerc
-jurédelacourtdudit	juré de la court du dit
-seeletcommissaire,auquelnousadjoustonspleniere	seel et commissaire , au quel nous adjoustons pleniere
-plenierefoyencesteschoseset	pleniere foy en cestes choses et
-engreigneurs,leditmonseigneurLoys	en greigneurs , le dit monseigneur Loys
-Loys,vicontedeThouars,desa	Loys , viconte de Thouars , de sa
-bonnevolenté,cognutetconfessa.queil	bonne volenté , cognut et confessa . que il
-voulitetoctroiaàmonsieurGuillaume	voulit et octroia à monsieur Guillaume
-Baritaut,chevalier,etencelui	Baritaut , chevalier , et en celui
-tempsescuier,enconvenances	temps escuier , en convenances
-qu'ilfirentensamblequ'ilfu	qu ' il firent ensamble qu ' il fu
-sonseneschaldelavicontédeThouarset.de	son seneschal de la viconté de Thouars et . de
-Thalemondais,queleditmonsieurGuillaumepeust	Thalemondais , que le dit monsieur Guillaume peust
-acquerreentouteslesterres,fiezourerefiez	acquerre en toutes les terres , fiez ou rerefiez
-duditmonseigneurLoys,vicontedeThouars,	du dit monseigneur Loys , viconte de Thouars ,
-etquetoutesetchascunesles	et que toutes et chascunes les
-leschosesqu'ilacquerroitfussentet	les choses qu ' il acquerroit fussent et
-demourassentperpetuelmentau	demourassent perpetuelment au
-auditmonsieurGuillaumeBaritaut,chevalier	au dit monsieur Guillaume Baritaut , chevalier
-,seshoirs.etsuccesseurs,età	, ses hoirs . et successeurs , et à
-àceulsquide	à ceuls qui de
-luiaurontcause.	lui auront cause .
-Et.encores	Et . encores
-leditmonseigneurLoys	le dit monseigneur Loys
+deschoses..qu'iltient	des choses . . qu ' il tient
+tientdenous,àNoaillé,retenuà	tient de nous , à Noaillé , retenu à
+nousetausnozlasusereynetéet	nous et aus noz la susereyneté et
+justicequenousavionssurleschosesdessusdites.	justice que nous avions sur les choses dessus dites .
+.Etpromettonsen	. Et promettons en
+bonnefoyetsurl'obligaciondenozhoirs	bonne foy et sur l ' obligacion de noz hoirs
+et.denozbiens,	et . de noz biens ,
+,quenousne.vendronscontreles	, que nous ne . vendrons contre les
+chosesdessusdites.En	choses dessus dites . En
+tesmoingdece	tesmoing de ce
+,nousavonsseellécespresenteslettresdenostreseel	, nous avons seellé ces presentes lettres de nostre seel
+seel.Donnéledimencheaprès	seel . Donné le dimenche après
+laMagdaleine,l'	la Magdaleine , l '
+andegracemilccc.xl.et	an de grace mil ccc . xl . et
+deux.Item.Atouzceuls	deux . Item . A touz ceuls
+ceulsquiverrontetorront	ceuls qui verront et orront
+cespresenteslettres,JouhanBarré,portantleseel	ces presentes lettres , Jouhan Barré , portant le seel
+royalestabli	royal establi
+àPoicters,salut.	à Poicters , salut .
+Sachenttouz.que	Sachent touz . que
+que,establiendroit	que , establi en droit
+personaumentnoble	personaument noble
+hommemonseigneurLoys,vicontedeThouars	homme monseigneur Loys , viconte de Thouars
+Thouars,seigneurdeThalemont,chevalier,pardevant	Thouars , seigneur de Thalemont , chevalier , par devant
+GuillotOgier,clerc	Guillot Ogier , clerc
+jurédela..courtduditseeletcommissaire,	juré de la . . court du dit seel et commissaire ,
+auquelnousadjoustons	au quel nous adjoustons
+adjoustonsplenierefoyencesteschosesetengreigneurs,le	adjoustons pleniere foy en cestes choses et en greigneurs , le
+leditmonseigneur	le dit monseigneur
 Loys,vicontedeThouars,	Loys , viconte de Thouars ,
-perseverensenchousesdessus.	perseverens en chouses dessus .
-ditesetregardansqueleditmonsieurGuillaumeBaritaut,	dites et regardans que le dit monsieur Guillaume Baritaut ,
-sonseneschal,l'	son seneschal , l '
-abienetloyalmentservietque	a bien et loyalment servi et que
-ilasouffertmaintespaineset	il a souffert maintes paines et
-travailspourlui,entraictantetfaisantses..	travails pour lui , en traictant et faisant ses . .
-.besoignes,souffisanmentdeceuadcertené,	. besoignes , souffisanment de ceu adcertené ,
-voulit,acordaetoctroiaqueleditmonsieur	voulit , acorda et octroia que le dit monsieur
-GuillaumeBaritaut,sonseneschal,..puisseacquerre	Guillaume Baritaut , son seneschal , . . puisse acquerre
-entouteslesterres.,fiezou	en toutes les terres . , fiez ou
-ourerefiezduditmonseigneurLoys	ou rerefiez du dit monseigneur Loys
-,vicontedeThouars,et	, viconte de Thouars , et
-quetoutesleschosesqu'ilaacquisespar	que toutes les choses qu ' il a acquises par
-partitrededon,devendicion,de..permutacion,	par titre de don , de vendicion , de . . permutacion ,
-ouparquelconqueautretitrequecesoit,et	ou par quelconque autre titre que ce soit , et
-qu'ilacquerraoutempsavenir,èsfiez.	qu ' il acquerra ou temps avenir , ès fiez .
-,rerefiezetpovoirduditmonseigneurLoys	, rerefiez et povoir du dit monseigneur Loys
-,vicontedeThouars	, viconte de Thouars
-Thouars,soientetdemeurent..	Thouars , soient et demeurent . .
-perpetuelment,paisiblementetquittement	perpetuelment , paisiblement et quittement
-quittementaudit	quittement au dit
-monsieurGuillaumeBaritautetàseshoirsetsuccesseurs	monsieur Guillaume Baritaut et à ses hoirs et successeurs
-successeurs,etàceuxquide	successeurs , et à ceux qui de
-deluiaurontcause,	de lui auront cause ,
-sanzcequeledit	sanz ce que le dit
-ditmonseigneurLoys,vicontede	dit monseigneur Loys , viconte de
-de..Thouars,seshoirsetsuccesseurs	de . . Thouars , ses hoirs et successeurs
-,ouceulsqui	, ou ceuls qui
-deluiaurontcause,puissent,par	de lui auront cause , puissent , par
-pareulxou	par eulx ou
-parautres,	par autres ,
-outempsavenir,	ou temps avenir ,
-,mettrenefairemettreempeschementaudit	, mettre ne faire mettre empeschement au dit
-monsieurGuillaume.Baritaut,seshoirs	monsieur Guillaume . Baritaut , ses hoirs
-et..successeurs	et . . successeurs
-successeurs,ouceulxquide	successeurs , ou ceulx qui de
-luiaurontcauseèsditeschoses.Et	lui auront cause ès dites choses . Et
-seaucundroit,causeou	se aucun droit , cause ou
-demandeleditmonseigneurLoys,viconte	demande le dit monseigneur Loys , viconte
+,desabonnevolenté,cognut	, de sa bonne volenté , cognut
+etconfessaqueilvoulitetoctroia	et confessa que il voulit et octroia
+àmonsieurGuillaume.Baritaut,chevalier	à monsieur Guillaume . Baritaut , chevalier
+,etenceluitempsescuier,enconvenancesqu	, et en celui temps escuier , en convenances qu
+'..ilfirentensamble	' . . il firent ensamble
+ensamblequ'ilfusonseneschaldelavicontéde	ensamble qu ' il fu son seneschal de la viconté de
+deThouarsetdeThalemondais	de Thouars et de Thalemondais
+,queleditmonsieurGuillaumepeust	, que le dit monsieur Guillaume peust
+acquerreentouteslesterres,fiezourerefiezdu	acquerre en toutes les terres , fiez ou rerefiez du
+ditmonseigneurLoys,vicontedeThouars,	dit monseigneur Loys , viconte de Thouars ,
+,et..quetoutesetchascunes	, et . . que toutes et chascunes
+leschosesqu'il	les choses qu ' il
+acquerroitfussentet	acquerroit fussent et
+etdemourassentperpetuelment	et demourassent perpetuelment
+auditmonsieur	au dit monsieur
+GuillaumeBaritaut,chevalier,ses	Guillaume Baritaut , chevalier , ses
+hoirsetsuccesseurs,etàceuls	hoirs et successeurs , et à ceuls
+quideluiauront.cause.	qui de lui auront . cause .
+Etencores	Et encores
+encoresleditmonseigneurLoys,viconte.deThouars,perseverens	encores le dit monseigneur Loys , viconte . de Thouars , perseverens
+perseverensenchousesdessusditeset	perseverens en chouses dessus dites et
+regardansqueleditmonsieurGuillaumeBaritaut,son	regardans que le dit monsieur Guillaume Baritaut , son
+seneschal,l'abienetloyalmentservi	seneschal , l ' a bien et loyalment servi
+etqueilasouffertmaintespainesettravails	et que il a souffert maintes paines et travails
+travailspourlui,entraictantetfaisantsesbesoignes	travails pour lui , en traictant et faisant ses besoignes
+,souffisanmentdeceuadcertené,voulit	, souffisanment de ceu adcertené , voulit
+voulit,acordaetoctroiaqueledit	voulit , acorda et octroia que le dit
+monsieurGuillaumeBaritaut	monsieur Guillaume Baritaut
+,sonseneschal,puisseacquerreentouteslesterres	, son seneschal , puisse acquerre en toutes les terres
+,fiezourerefiezduditmonseigneurLoys	, fiez ou rerefiez du dit monseigneur Loys
+Loys,vicontedeThouars,etquetoutes	Loys , viconte de Thouars , et que toutes
+toutesleschosesqu.'ila	toutes les choses qu . ' il a
+acquises.partitrede	acquises . par titre de
+don,devendicion,.	don , de vendicion , .
+depermutacion,.oupar	de permutacion , . ou par
+quelconqueautretitrequecesoit,etqu'	quelconque autre titre que ce soit , et qu '
+ilacquerraoutempsavenir,èsfiez,rerefiez	il acquerra ou temps avenir , ès fiez , rerefiez
+etpovoirduditmonseigneurLoys,..viconte	et povoir du dit monseigneur Loys , . . viconte
+vicontedeThouars,soientetdemeurentperpetuelment,	viconte de Thouars , soient et demeurent perpetuelment ,
+paisiblementet	paisiblement et
+quittementauditmonsieurGuillaumeBaritautetàses	quittement au dit monsieur Guillaume Baritaut et à ses
+hoirsetsuccesseurs,et..àceux	hoirs et successeurs , et . . à ceux
+quideluiaurontcause,sanz	qui de lui auront cause , sanz
+cequele	ce que le
+ditmonseigneur	dit monseigneur
+Loys,viconte	Loys , viconte
+deThouars,seshoirsetsuccesseurs,ouceuls	de Thouars , ses hoirs et successeurs , ou ceuls
+quideluiauront	qui de lui auront
+aurontcause,puissent,pareulx	auront cause , puissent , par eulx
+ouparautres,outempsavenir,	ou par autres , ou temps avenir ,
+mettrenefairemettreempeschementauditmonsieurGuillaumeBaritaut	mettre ne faire mettre empeschement au dit monsieur Guillaume Baritaut
+Baritaut,seshoirsetsuccesseurs,ouceulxquide	Baritaut , ses hoirs et successeurs , ou ceulx qui de
+luiaurontcauseèsditeschoses.	lui auront cause ès dites choses .
+Etseaucundroit,causeou	Et se aucun droit , cause ou
+demandeleditmonseigneurLoys,	demande le dit monseigneur Loys ,
+viconte..de	viconte . . de
 deThouars,avoitoupovoit	de Thouars , avoit ou povoit
-avoir..,ou	avoir . . , ou
-ouquilipeust	ou qui li peust
-peustappartenirpar	peust appartenir par
-droit,usageetcoustume,	droit , usage et coustume ,
-ouparquelconqueautrecauseouparordenanceduroy	ou par quelconque autre cause ou par ordenance du roy
-deFranceoudesespredecesseurs,ou	de France ou de ses predecesseurs , ou
-d'autrespersonnes	d ' autres personnes
-personnes,faizetàfaire,..ouqu'il	personnes , faiz et à faire , . . ou qu ' il
-lesaitacquisesparpuissancedesonoffice,ou	les ait acquises par puissance de son office , ou
-ouparquelconque	ou par quelconque
-autrecauseet	autre cause et
-raisonque	raison que
-quecesoit,èsditeschosesacquises	que ce soit , ès dites choses acquises
-acquisesetàacquerreèsfiez,rerefiez	acquises et à acquerre ès fiez , rerefiez
-etpovoirduditmonseigneurLoys	et povoir du dit monseigneur Loys
-,..vicontede	, . . viconte de
-Thouars,duditmonsieurGuillaumeBaritaut,sonseneschal	Thouars , du dit monsieur Guillaume Baritaut , son seneschal
-,depuisletemps	, depuis le temps
-qu'ilfuenl	qu ' il fu en l
-'officedessusdit,	' office dessus dit ,
-,et.tantcommeil	, et . tant comme il
-ydemourra,illecessaettransporta,quitta	y demourra , il le cessa et transporta , quitta
-etdelessadutouten..	et delessa du tout en . .
-.toutauditmonsieurGuillaume,seshoirsetsuccesseurs	. tout au dit monsieur Guillaume , ses hoirs et successeurs
-successeurs,etceulsquideluiaurontcause	successeurs , et ceuls qui de lui auront cause
-.Etpromist	. Et promist
-promistleditmonseigneurLoys..,vicontedeThouars,	promist le dit monseigneur Loys . . , viconte de Thouars ,
-,leserementdesoncorpssurce	, le serement de son corps sur ce
-cedonné,tenir,garder,	ce donné , tenir , garder ,
-enterineretaccomplirlesditeschoses	enteriner et accomplir les dites choses
-,etqueilnevendranenefera	, et que il ne vendra ne ne fera
-venirparsoy,neparautre,encontre	venir par soy , ne par autre , encontre
-...Etàceobliga	. . . Et à ce obliga
-obligasoyetseshoirsetsuccesseurs	obliga soy et ses hoirs et successeurs
-,etsesbienspresenzetavenir,et	, et ses biens presenz et avenir , et
-etrenonciaàtouteexcepcion	et renoncia à toute excepcion
-,decepcion,circonvenciondemal,de	, decepcion , circonvencion de mal , de
-fraude,detricherie,età	fraude , de tricherie , et à
-touz.droiz,raisons,usagesetcoustumes	touz . droiz , raisons , usages et coustumes
-,ordenances,statuzfaiz,età	, ordenances , statuz faiz , et à
-faire,graces,privileges,donnésetàdonner	faire , graces , privileges , donnés et à donner
-,quipourroientestreobiciezouopposezcontre	, qui pourroient estre obiciez ou opposez contre
-lateneurdecestespresenteslettres	la teneur de cestes presentes lettres
-,lesquellesilvoulitqueelles	, lesquelles il voulit que elles
-eussentforce,vertuetfermetéentierement.Etfu	eussent force , vertu et fermeté entierement . Et fu
-fuleditmonseigneurLoys,..vicontedeThouars,	fu le dit monseigneur Loys , . . viconte de Thouars ,
-de[son]consentementet	de [ son ] consentement et
-àsarequeste	à sa requeste
-,jugiéetcondempné,parle	, jugié et condempné , par le
-lejugementde.lacourtduditseel,	le jugement de . la court du dit seel ,
-à.toutesetchascunes	à . toutes et chascunes
-leschosesdessusditesteniret	les choses dessus dites tenir et
-garderenterinement,par	garder enterinement , par
-leditGuillotOgier,juréetcommissaire,	le dit Guillot Ogier , juré et commissaire ,
-quideschosesdessusditesm'afaitplaine	qui des choses dessus dites m ' a fait plaine
-foyetrelacion,a	foy et relacion , a
+povoitavoir,ouquilipeustappartenir..pardroit	povoit avoir , ou qui li peust appartenir . . par droit
+,usageetcoustume,oupar	, usage et coustume , ou par
+quelconqueautrecauseouparordenanceduroydeFrance	quelconque autre cause ou par ordenance du roy de France
+Franceoudeses	France ou de ses
+predecesseurs..,	predecesseurs . . ,
+oud'autrespersonnes,faizetà	ou d ' autres personnes , faiz et à
+àfaire,ouqu	à faire , ou qu
+'illesait	' il les ait
+acquisespar	acquises par
+puissancedesonoffice,oupar	puissance de son office , ou par
+quelconqueautre.causeetraisonquece	quelconque autre . cause et raison que ce
+soit,ès..diteschosesacquises	soit , ès . . dites choses acquises
+etàacquerreèsfiez,rerefiez	et à acquerre ès fiez , rerefiez
+etpovoir	et povoir
+povoirduditmonseigneurLoys,vicontede	povoir du dit monseigneur Loys , viconte de
+Thouars,dudit	Thouars , du dit
+monsieurGuillaumeBaritaut,sonseneschal,depuis	monsieur Guillaume Baritaut , son seneschal , depuis
+letempsqu'ilfuenl'	le temps qu ' il fu en l '
+officedessusdit,ettant	office dessus dit , et tant
+commeilydemourra..,illecessaettransporta	comme il y demourra . . , il le cessa et transporta
+transporta,quittaetdelessa	transporta , quitta et delessa
+dutoutentoutauditmonsieurGuillaume,ses.	du tout en tout au dit monsieur Guillaume , ses .
+hoirsetsuccesseurs,etceulsqui	hoirs et successeurs , et ceuls qui
+quideluiaurontcause.Etpromistle	qui de lui auront cause . Et promist le
+ditmonseigneurLoys,vicontedeThouars,	dit monseigneur Loys , viconte de Thouars ,
+leserementdesoncorpssurcedonné,tenir	le serement de son corps sur ce donné , tenir
+,.garder,enterineretaccomplir	, . garder , enteriner et accomplir
+lesditeschoses,etqueilne	les dites choses , et que il ne
+vendranene..feravenirpar	vendra ne ne . . fera venir par
+soy,neparautre,	soy , ne par autre ,
+encontre.Etàceobligasoyetses	encontre . Et à ce obliga soy et ses
+seshoirsetsuccesseurs,etses	ses hoirs et successeurs , et ses
+bienspresenzetavenir,etrenonciaàtouteexcepcion	biens presenz et avenir , et renoncia à toute excepcion
+,decepcion	, decepcion
+decepcion,circonvenciondemal,.	decepcion , circonvencion de mal , .
+.defraude,detricherie,età	. de fraude , de tricherie , et à
+touzdroiz,raisons,usagesetcoustumes,ordenances	touz droiz , raisons , usages et coustumes , ordenances
+,..statuzfaiz,etàfaire	, . . statuz faiz , et à faire
+,graces,	, graces ,
+privileges..,	privileges . . ,
+donnés..et	donnés . . et
+àdonner,qui	à donner , qui
+quipourroientestreobiciezouopposezcontrelateneurdecestes	qui pourroient estre obiciez ou opposez contre la teneur de cestes
+presenteslettres,lesquellesilvoulitque	presentes lettres , lesquelles il voulit que
+elleseussentforce..,	elles eussent force . . ,
+vertuetfermetéentierement.Etfuleditmonseigneur	vertu et fermeté entierement . Et fu le dit monseigneur
+Loys,vicontedeThouars,	Loys , viconte de Thouars ,
+,de..[son]	, de . . [ son ]
+consentementetàsarequeste,jugié	consentement et à sa requeste , jugié
+etcondempné,parle	et condempné , par le
+jugementdelacourt	jugement de la court
+duditseel,àtoutesetchascunes	du dit seel , à toutes et chascunes
+chascunesleschosesdessusditesteniretgarderenterinement	chascunes les choses dessus dites tenir et garder enterinement
+,parleditGuillotOgier	, par le dit Guillot Ogier
+,juréetcommissaire	, juré et commissaire
+commissaire,quideschosesdessus	commissaire , qui des choses dessus
+ditesm'afaitplainefoy	dites m ' a fait plaine foy
+etrelacion,a	et relacion , a
 laquelleetrequestedesparties,et	laquelle et requeste des parties , et
-deleurconsentement.,ayences	de leur consentement . , ay en ces
-presenteslettresappouséleditseel,	presentes lettres appousé le dit seel ,
-,en.tesmoingdeverité.Donnéetfait,	, en . tesmoing de verité . Donné et fait ,
-presensetgarens	presens et garens
-àceappellezmonsieurGuillaume	à ce appellez monsieur Guillaume
-duBoys,prieurdeFeoulle,JehanBouquinet	du Boys , prieur de Feoulle , Jehan Bouquin et
-etColinetleLou,valletdechambredudit..noble	et Colinet le Lou , vallet de chambre du dit . . noble
-noble,lelundiaprèsfestedeTouzSainz,	noble , le lundi après feste de Touz Sainz ,
-l'andegrace	l ' an de grace
-milccc.quarante.Nousadecerteslesditeslettres	mil ccc . quarante . Nous adecertes les dites lettres
-ettoutesleschoses,etchascuned'	et toutes les choses , et chascune d '
-icelles,contenuesenicelles,aiansfermeset	icelles , contenues en icelles , aians fermes et
-etagreables,ycellesvoulons,greons	et agreables , ycelles voulons , greons
-,loons,	, loons ,
-ratifionsetdegraceespecial,parla..teneurde	ratifions et de grace especial , par la . . teneur de
-ceslettres,confermons.	ces lettres , confermons .
-Etquecesoitfermeetestableà.touz	Et que ce soit ferme et estable à . touz
-jours,nousavonsfaitmettre	jours , nous avons fait mettre
-nostreseelenceslettres.	nostre seel en ces lettres .
-Saufenautres	Sauf en autres
-choses.nostredroiteten	choses . nostre droit et en
-entoutesl'	en toutes l '
-'autrui.DonnéàSaintGermain.en	' autrui . Donné à Saint Germain . en
-Laye,.l'andegrace	Laye , . l ' an de grace
-milccc.xl.ettrois	mil ccc . xl . et trois
-,oumoisde	, ou mois de
-novembre.Par..le	novembre . Par . . le
-leroy,àvostrerelacion	le roy , à vostre relacion
-.Clavel.Noncadit	. Clavel . Non cadit
-financia.R.deBaleham.	financia . R . de Baleham .
+deleurconsentement	de leur consentement
+,ayences	, ay en ces
+presenteslettresappouséledit.seel,entesmoingde	presentes lettres appousé le dit . seel , en tesmoing de
+verité.Donné	verité . Donné
+etfait,..presenset	et fait , . . presens et
+etgarensàceappellez	et garens à ce appellez
+monsieurGuillaumeduBoys,prieurdeFeoulle	monsieur Guillaume du Boys , prieur de Feoulle
+Feoulle,JehanBouquinetColinetleLou,valletde	Feoulle , Jehan Bouquin et Colinet le Lou , vallet de
+chambreduditnoble,.lelundiaprèsfeste	chambre du dit noble , . le lundi après feste
+deTouzSainz,l	de Touz Sainz , l
+'andegracemil	' an de grace mil
+ccc.quarante.Nousadecerteslesditeslettreset	ccc . quarante . Nous adecertes les dites lettres et
+toutesleschoses	toutes les choses
+,etchascuned'icelles	, et chascune d ' icelles
+,contenuesenicelles,aiansfermesetagreables,	, contenues en icelles , aians fermes et agreables ,
+,ycellesvoulons,greons,loons,ratifionsetde	, ycelles voulons , greons , loons , ratifions et de
+graceespecial,parlateneurdeceslettres	grace especial , par la teneur de ces lettres
+,confermons.Et	, confermons . Et
+quecesoitfermeetestableàtouz	que ce soit ferme et estable à touz
+jours,nousavonsfait	jours , nous avons fait
+mettrenostreseelenceslettres...Sauf	mettre nostre seel en ces lettres . . . Sauf
+Saufenautreschosesnostredroitetentoutesl'..	Sauf en autres choses nostre droit et en toutes l ' . .
+autrui..DonnéàSaintGermainenLaye	autrui . . Donné à Saint Germain en Laye
+,l'andegracemilccc	, l ' an de grace mil ccc
+.xl.ettrois,	. xl . et trois ,
+oumoisdenovembre.Par	ou mois de novembre . Par
+leroy,à	le roy , à
+vostrerelacion.Clavel.Noncaditfinancia.	vostre relacion . Clavel . Non cadit financia .
+R.deBaleham	R . de Baleham

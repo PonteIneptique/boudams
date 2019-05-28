@@ -1,42 +1,37 @@
-Philippes,parlagrâcedeDieu,rois	Philippes , par la grâce de Dieu , rois
-roisdeFrance,ànostreaméet	rois de France , à nostre amé et
-fealleviscontedeTouars.,salutetbon	feal le visconte de Touars . , salut et bon
-amour.Commenos	amour . Comme nos
-nosannemiset	nos annemis et
-rebellesdeFlandress'efforcentdeplus	rebelles de Flandres s ' efforcent de plus
-plusenplus	plus en plus
-àgreverdejour	à grever de jour
-enjournousetnostreroiaume,	en jour nous et nostre roiaume ,
-,etaientjànostre	, et aient jà nostre
-villedeLisle	ville de Lisle
-Lisleassegiéetpourprisàgrantpartiedupaïsenviron	Lisle assegié et pourpris à grant partie du païs environ
-,savoirvousfaisonsquenous,pourcontraitierà	, savoir vous faisons que nous , pour contraitier à
-àleurmauveseemprise,..avonsordenéàestre	à leur mauvese emprise , . . avons ordené à estre
-,sanznuldeffaut,àAraz,àla	, sanz nul deffaut , à Araz , à la
-laquinzainnede.la	la quinzainne de . la
-lamiaoust..	la mi aoust . .
-prochaine,	prochaine ,
-,etavons..fait	, et avons . . fait
-faitfairegénéralsemonseparnostreroyaume,	fait faire général semonse par nostre royaume ,
-parbanetpar	par ban et par
-arriere..ban	arriere . . ban
-ban,audiz	ban , au diz
-dizjouretlieupournous,etaffectuosementvous	diz jour et lieu pour nous , et affectuosement vous
-vousprionsetrequerons,etsurlafealté	vous prions et requerons , et sur la fealté
-etsurl'amourquevousavezànous	et sur l ' amour que vous avez à nous
-etauroiaume,estroitementmandonsquevous,	et au roiaume , estroitement mandons que vous ,
-asjouret	as jour et
-etlieudessus	et lieu dessus
-diz.,auplustart	diz . , au plus tart
-,soiezsanz	, soiez sanz
-nuldeffautavecnous	nul deffaut avec nous
-,siconvenablement	, si convenablement
-appareilliezdegenzd	appareilliez de genz d
-'armeset..dechevausquenous	' armes et . . de chevaus que nous
-nousnousendoionstenirpourpaiezetvoussavoir	nous nous en doions tenir pour paiez et vous savoir
-bongré,etvousguerredonnervostrebon	bon gré , et vous guerredonner vostre bon
-servise.	servise .
-Donné..àSaint-	Donné . . à Saint -
--Germainen	- Germain en
-enLaie,viii.die	en Laie , viii . die
-dieaugusti.	die augusti .
+Philippes,parlagrâce	Philippes , par la grâce
+deDieu,rois	de Dieu , rois
+deFrance,ànostreamé	de France , à nostre amé
+améetfealleviscontede	amé et feal le visconte de
+Touars,salutetbonamour.Commenosannemis	Touars , salut et bon amour . Comme nos annemis
+etrebellesdeFlandress'efforcentde.plus	et rebelles de Flandres s ' efforcent de . plus
+enplusàgreverdejourenjournouset	en plus à grever de jour en jour nous et
+nostreroiaume,etaientjànostre	nostre roiaume , et aient jà nostre
+villedeLisleassegiéetpourprisàgrantpartiedu	ville de Lisle assegié et pourpris à grant partie du
+païsenviron,	païs environ ,
+,savoirvousfaisons	, savoir vous faisons
+faisonsquenous,pourcontraitieràleur	faisons que nous , pour contraitier à leur
+mauveseemprise,avonsordené	mauvese emprise , avons ordené
+àestre,..sanznuldeffaut,	à estre , . . sanz nul deffaut ,
+àAraz,àlaquinzainnedelamiaoust	à Araz , à la quinzainne de la mi aoust
+prochaine,et	prochaine , et
+avonsfaitfairegénéralsemonsepar	avons fait faire général semonse par
+nostreroyaume,parbanet	nostre royaume , par ban et
+pararriereban,au	par arriere ban , au
+dizjouret..lieupournous	diz jour et . . lieu pour nous
+nous,etaffectuosement	nous , et affectuosement
+vousprions	vous prions
+etrequerons,etsurlafealtéetsur	et requerons , et sur la fealté et sur
+l'..amourquevousavezànouset	l ' . . amour que vous avez à nous et
+auroiaume,estroitementmandonsque..vous,	au roiaume , estroitement mandons que . . vous ,
+,asjouretlieu	, as jour et lieu
+dessusdiz,auplustart,soiez	dessus diz , au plus tart , soiez
+sanznuldeffautavecnous	sanz nul deffaut avec nous
+,siconvenablementappareilliezde.genzd	, si convenablement appareilliez de . genz d
+d'armeset..de	d ' armes et . . de
+chevausque..nousnous	chevaus que . . nous nous
+endoionstenirpourpaiezet	en doions tenir pour paiez et
+voussavoirbon	vous savoir bon
+gré,etvousguerredonner	gré , et vous guerredonner
+guerredonnervostrebonservise	guerredonner vostre bon servise
+servise.DonnéàSaint-GermainenLaie,	servise . Donné à Saint - Germain en Laie ,
+viii.dieaugusti..	viii . die augusti . .

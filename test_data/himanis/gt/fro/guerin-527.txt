@@ -1,224 +1,236 @@
-Charles,parlagracedeDieuroydeFrance	Charles , par la grace de Dieu roy de France
-.Savoirfaisonsàtous,presensetavenir,	. Savoir faisons à tous , presens et avenir ,
-nousavoirveuleslettresdenostretreschieret	nous avoir veu les lettres de nostre tres chier et
-etaméfrereleducde	et amé frere le duc de
-Berryetd'	Berry et d '
-'Auvergne,contedePoitou,deXanctongeetde	' Auvergne , conte de Poitou , de Xanctonge et de
-Angolmoysetnostrelieutenant	Angolmoys et nostre lieutenant
-lieutenantèsdizpaysetenpluseursautres,sainnes	lieutenant ès diz pays et en pluseurs autres , sainnes
-etentieresetseelléesde..	et entieres et seellées de . .
-sonseel.	son seel .
-enlasdesoyeeten	en las de soye et en
-cirevert,nonvicieuses,noncancelléesen	cire vert , non vicieuses , non cancellées en
-aucunemaniere,contenanslaformequis'	aucune maniere , contenans la forme qui s '
-'ensuit:Jehan,filzderoy	' ensuit : Jehan , filz de roy
-deFrance,ducdeBerryetd'	de France , duc de Berry et d '
-'Auvergne,contedeMasconnois,	' Auvergne , conte de Masconnois ,
-,dePoitou,	, de Poitou ,
-deXaintongeetdeEngolmoys.,etlieutenantdemonseigneur	de Xaintonge et de Engolmoys . , et lieutenant de monseigneur
-leroyès	le roy ès
-dispaysetèspaïsdes	dis pays et ès païs des
-Montaingnesd'Auvergne,deForoys,	Montaingnes d ' Auvergne , de Foroys ,
-,deBourbonnois,deSaulaugne,deTouraine	, de Bourbonnois , de Saulaugne , de Touraine
-,d'Anjou	, d ' Anjou
-,duMainneetdeNormandied'entre	, du Mainne et de Normandie d ' entre
-lesrivieresdeSainneet	les rivieres de Sainne et
-etdeLaire,deLyonnoiset	et de Laire , de Lyonnois et
-deMasconnois,savoirfaisons	de Masconnois , savoir faisons
-faisonsàtous,presenset	faisons à tous , presens et
-avenir,quenous,consideransles	avenir , que nous , considerans les
-bonsetagreablesservicesquenostrebienaméAlain	bons et agreables services que nostre bien amé Alain
-AlaindeTaillecoul.,autrement	Alain de Taillecoul . , autrement
-ditabbédeMallepaie,escuierd'escuieriede	dit abbé de Mallepaie , escuier d ' escuierie de
-monseigneurleroy,a..	monseigneur le roy , a . .
-fait..àmonditseigneur	fait . . à mon dit seigneur
-etànousensesguerresou	et à nous en ses guerres ou
-outempspassé,faitdejourenjour,	ou temps passé , fait de jour en jour ,
-dontparexperiencenous	dont par experience nous
-estapparuetappart	est apparu et appart
-appartevidenment,enlapresenteconqueste.dupaïsde	appart evidenment , en la presente conqueste . du païs de
-Guienne,etesperonsqu	Guienne , et esperons qu
-qu'il[.face	qu ' il [ . face
-]outempsavenir,àycelluiAlain	] ou temps avenir , à ycellui Alain
-avonsdonnéetoctroié,etparlateneur	avons donné et octroié , et par la teneur
-deceslettres	de ces lettres
-donnonsetoctroions,de	donnons et octroions , de
-nostregraceespecialetcertainescience,	nostre grace especial et certaine science ,
-etdel'auctoritédemondit	et de l ' auctorité de mon dit
-dit..seigneurle	dit . . seigneur le
-roy..,delaquellenoususons	roy . . , de la quelle nous usons
-encestepartie	en ceste partie
-,lesbiensmeublesetheritaigesqueThomelinHautebourne	, les biens meubles et heritaiges que Thomelin Hautebourne
-,Willeloing	, Willeloing
-etWillehalle,delanaciond'Angleterre	et Willehalle , de la nacion d ' Angleterre
-,tenoientet	, tenoient et
-possidoientoupaysde.Poitou	possidoient ou pays de . Poitou
-,paravant	, par avant
-avantcequeleditpaysvenistà	avant ce que le dit pays venist à
+Charles,parlagracedeDieu	Charles , par la grace de Dieu
+roydeFrance.Savoirfaisonsà	roy de France . Savoir faisons à
+tous,presens	tous , presens
+etavenir,nousavoirveuleslettres	et avenir , nous avoir veu les lettres
+lettresdenostretreschieretaméfrere	lettres de nostre tres chier et amé frere
+leducde	le duc de
+Berryetd'Auvergne,conte	Berry et d ' Auvergne , conte
+dePoitou,de	de Poitou , de
+deXanctongeetde	de Xanctonge et de
+deAngolmoysetnostre.	de Angolmoys et nostre .
+.lieutenantèsdizpayset	. lieutenant ès diz pays et
+etenpluseursautres,sainnes	et en pluseurs autres , sainnes
+etentieresetseelléesdesonseel	et entieres et seellées de son seel
+enlasde..	en las de . .
+soyeetencirevert,nonvicieuses,non	soye et en cire vert , non vicieuses , non
+cancelléesenaucunemaniere,contenanslaformequis	cancellées en aucune maniere , contenans la forme qui s
+'ensuit:Jehan	' ensuit : Jehan
+,filzderoydeFrance	, filz de roy de France
+,duc..deBerryetd	, duc . . de Berry et d
+d'Auvergne,contedeMasconnois,..	d ' Auvergne , conte de Masconnois , . .
+dePoitou,deXaintongeetde	de Poitou , de Xaintonge et de
+Engolmoys,etlieutenant	Engolmoys , et lieutenant
+demonseigneurle	de monseigneur le
+royèsdispays	roy ès dis pays
+etèspaïsdesMontaingnesd'Auvergne,de	et ès païs des Montaingnes d ' Auvergne , de
+deForoys,deBourbonnois,deSaulaugne	de Foroys , de Bourbonnois , de Saulaugne
+,deTouraine,d'Anjou	, de Touraine , d ' Anjou
+,du..MainneetdeNormandied'	, du . . Mainne et de Normandie d '
+entrelesrivieresdeSainneet.de	entre les rivieres de Sainne et . de
+Laire,.deLyonnois	Laire , . de Lyonnois
+etdeMasconnois,	et de Masconnois ,
+savoirfaisons	savoir faisons
+àtous,presensetavenir,quenous,	à tous , presens et avenir , que nous ,
+consideransles	considerans les
+bonsetagreablesservicesquenostrebienamé	bons et agreables services que nostre bien amé
+Alainde.	Alain de .
+Taillecoul,autrementditabbédeMallepaie,	Taillecoul , autrement dit abbé de Mallepaie ,
+escuierd'	escuier d '
+'escuieriedemonseigneurleroy,a	' escuierie de monseigneur le roy , a
+faitàmonditseigneuretà	fait à mon dit seigneur et à
+ànousensesguerresou	à nous en ses guerres ou
+tempspassé,faitdejourenjour,	temps passé , fait de jour en jour ,
+,dontpar.experiencenousestapparuetappart	, dont par . experience nous est apparu et appart
+evidenment,enlapresenteconquestedupaïs	evidenment , en la presente conqueste du païs
+païsdeGuienne	païs de Guienne
+,etesperonsqu	, et esperons qu
+'il[face]outempsavenir	' il [ face ] ou temps avenir
+,àycelluiAlain	, à ycellui Alain
+avonsdonnéetoctroié,etparlateneurde	avons donné et octroié , et par la teneur de
+ceslettresdonnonsetoctroions,denostre	ces lettres donnons et octroions , de nostre
+graceespecialetcertainescience	grace especial et certaine science
+,etdel'	, et de l '
+'auctoritédemonditseigneurleroy,de	' auctorité de mon dit seigneur le roy , de
+laquelle	la quelle
+noususonsencestepartie,lesbiensmeubles	nous usons en ceste partie , les biens meubles
+meublesetheritaigesque	meubles et heritaiges que
+queThomelinHautebourne,WilleloingetWillehalle.	que Thomelin Hautebourne , Willeloing et Willehalle .
+,delanaciond	, de la nacion d
+'Angleterre,tenoientetpossidoient	' Angleterre , tenoient et possidoient
+oupaysdePoitou,paravantce	ou pays de Poitou , par avant ce
+queleditpaysvenistàl	que le dit pays venist à l
 l'obeissancedemondit	l ' obeissance de mon dit
-seigneuretdenous,appartenans	seigneur et de nous , appartenans
-appartenansetavenusenforfaitureà	appartenans et avenus en forfaiture à
-àmonditseigneuretànousparl'ennemistié	à mon dit seigneur et à nous par l ' ennemistié
-ennemistiéetrebelliondesdessusdiz,tenansleparti	ennemistié et rebellion des dessus diz , tenans le parti
-denosennemis,ettousleurs..biensmeublesqu	de nos ennemis , et tous leurs . . biens meubles qu
-'ilzavoientouditpaysdePoitou	' ilz avoient ou dit pays de Poitou
-,c'estassavoir	, c ' est assavoir
-lesdishrritages,tantterres,	les dis hrritages , tant terres ,
-vignes,	vignes ,
-cens,rentes,revenues,drois,devoirs,	cens , rentes , revenues , drois , devoirs ,
-,fiez,rerefiez	, fiez , rerefiez
-,hommes,hommages,justicehaute	, hommes , hommages , justice haute
-,moienneetbasse,juridicions,usaiges	, moienne et basse , juridicions , usaiges
-,boys,garennes,prés,rivieres,	, boys , garennes , prés , rivieres ,
-salines,	salines ,
-estancs,moulins,maisonsetediffices,comme	estancs , moulins , maisons et ediffices , comme
-autreschosesquelconquesappartenans	autres choses quelconques appartenans
-pourlorsaus..	pour lors aus . .
-.dessusdisetqueilz	. dessus dis et que ilz
-ilzavoientettenoientpourlorsouditpaïsde	ilz avoient et tenoient pour lors ou dit païs de
-dePoitou,jusquesàlavaleurdetroyscenslivres	de Poitou , jusques à la valeur de troys cens livres
-derenteàl'	de rente à l '
-'assieteetselon.lacoustume	' assiete et selon . la coustume
-coustumedupays,etlesbiensmeubles	coustume du pays , et les biens meubles
-jusquesà.lavaleurde	jusques à . la valeur de
-centlivrestournois	cent livres tournois
-pourunefoys,àtenir,	pour une foys , à tenir ,
-avoiretpossiderlesdisheritaigesparleditAlain	avoir et possider les dis heritaiges par le dit Alain
-,seshoirs,successeursetaians	, ses hoirs , successeurs et aians
-aianscausedeluiàtous	aians cause de lui à tous
-joursmais	jours mais
-,commeleur	, comme leur
-leurpropre.demainne	leur propre . demainne
-demainneoupatremoinned'ancienté,desquelxnous	demainne ou patremoinne d ' ancienté , des quelx nous
-nousluiavonsdelivréetdelivronslapossession	nous lui avons delivré et delivrons la possession
-etsaisineparl'octroydeces	et saisine par l ' octroy de ces
-lettres.Sidonnonsenmandementparlateneur	lettres . Si donnons en mandement par la teneur
-d'icelles	d ' icelles
-auseneschal.de	au seneschal . de
-Poitouetàtouslesautresjusticiersdemon	Poitou et à tous les autres justiciers de mon
-ditseigneur	dit seigneur
-seigneuretdenous,presens	seigneur et de nous , presens
-presensetavenir,etàchascund'eulx	presens et avenir , et à chascun d ' eulx
-eulx,sicommeàluiappartendra,ou	eulx , si comme à lui appartendra , ou
-àleurslieuxtenans.	à leurs lieuxtenans .
-,queledit	, que le dit
-ditAlainou	dit Alain ou
-sonprocureurpour	son procureur pour
-luimettentetinstituentroyalmentet.de	lui mettent et instituent royalment et . de
-faitensaisineetpossession	fait en saisine et possession
-possessioncorporeledeschoses	possession corporele des choses
-dessusdictesetdechascuned'	dessus dictes et de chascune d '
-'icelles,etenfacentetseuffrentjoiret	' icelles , et en facent et seuffrent joir et
-userpaisiblementàtousjoursmès.,lui,	user paisiblement à tous jours mès . , lui ,
-seshoirs,successeursetaianscause,commede	ses hoirs , successeurs et aians cause , comme de
-leurpropreheritage,.sens	leur propre heritage , . sens
-senslesfaireousouffrirenceempescheroudestourberen	sens les faire ou souffrir en ce empescher ou destourber en
-enaucunemanierequelconque,oresne	en aucune maniere quelconque , ores ne
-pourletempsavenir;et	pour le temps avenir ; et
-auxgensdescomptes	aux gens des comptes
-comptesdemonditseigneurleroyà	comptes de mon dit seigneur le roy à
-Paris..,aux	Paris . . , aux
-auxnostreset	aux nostres et
-àchascund'eulx,pourtant.	à chascun d ' eulx , pour tant .
-commeàliappartendra,	comme à li appartendra ,
-quenostrepresentdonetoctroy	que nostre present don et octroy
-ilzenregistrentetexpedientenla.manierequ'	ilz enregistrent et expedient en la . maniere qu '
-'ilappartient.Car	' il appartient . Car
-Carainsinousplaistilestre	Car ainsi nous plaist il estre
-fait,nonobstant	fait , non obstant
-quenagairespar	que nagaires par
-par..nosautreslettresnousaions	par . . nos autres lettres nous aions
-donnéauditAlain,saviedurant,la	donné au dit Alain , sa vie durant , la
-terred'Andilliavec	terre d ' Andilli avec
-lepetitfiefleRoy	le petit fief le Roy
-,enclaveenpartiedela	, enclave en partie de la
-terredeDamperreenAunis,siet	terre de Damperre en Aunis , si et
-enlamaniere	en la maniere
-manierequemessireGuichartd'Angle,chevalier,	maniere que messire Guichart d ' Angle , chevalier ,
-lasouloittenir	la souloit tenir
+seigneuretdenous,appartenans.	seigneur et de nous , appartenans .
+etavenusenforfaitureàmonditseigneuretà	et avenus en forfaiture à mon dit seigneur et à
+nousparl'ennemistiéetrebelliondes	nous par l ' ennemistié et rebellion des
+desdessusdiz,	des dessus diz ,
+,tenanslepartidenosennemis,ettous	, tenans le parti de nos ennemis , et tous
+leursbiensmeublesqu'ilzavoientoudit	leurs biens meubles qu ' ilz avoient ou dit
+ditpaysdePoitou,c'est	dit pays de Poitou , c ' est
+estassavoirlesdishrritages,tant	est assavoir les dis hrritages , tant
+terres,vignes,cens,rentes,revenues	terres , vignes , cens , rentes , revenues
+revenues,drois,devoirs,fiez,rerefiez,	revenues , drois , devoirs , fiez , rerefiez ,
+hommes,	hommes ,
+hommages,justicehaute,moienneet	hommages , justice haute , moienne et
+etbasse,	et basse ,
+,juridicions,usaiges,.	, juridicions , usaiges , .
+boys..,garennes,prés,rivieres,salines,	boys . . , garennes , prés , rivieres , salines ,
+estancs,moulins	estancs , moulins
+moulins,maisonsetediffices	moulins , maisons et ediffices
+,commeautreschosesquelconquesappartenanspourlorsausdessus	, comme autres choses quelconques appartenans pour lors aus dessus
+disetqueilzavoientettenoientpour	dis et que ilz avoient et tenoient pour
+lorsoudit	lors ou dit
+païsdePoitou	païs de Poitou
+,jusquesà	, jusques à
+àlavaleurdetroyscenslivres	à la valeur de troys cens livres
+derenteàl'assiete..	de rente à l ' assiete . .
+etselonlacoustumedupays,	et selon la coustume du pays ,
+,etlesbiens	, et les biens
+biensmeublesjusquesàlavaleur.decentlivrestournois	biens meubles jusques à la valeur . de cent livres tournois
+pourunefoys,àtenir,avoiretpossider	pour une foys , à tenir , avoir et possider
+lesdisheritaigesparleditAlain,	les dis heritaiges par le dit Alain ,
+seshoirs,successeursetaianscause	ses hoirs , successeurs et aians cause
+deluiàtousjoursmais,	de lui à tous jours mais ,
+commeleurpropredemainneoupatremoinne	comme leur propre demainne ou patremoinne
+patremoinned'	patremoinne d '
+'ancienté,desquelxnouslui	' ancienté , des quelx nous lui
+avons.delivréetdelivronsla	avons . delivré et delivrons la
+possessionet	possession et
+etsaisinepar..l'octroydeceslettres.Si	et saisine par . . l ' octroy de ces lettres . Si
+donnonsenmandementparlateneur	donnons en mandement par la teneur
+d'icellesauseneschaldePoitouet	d ' icelles au seneschal de Poitou et
+àtousles	à tous les
+autresjusticiersdemondit	autres justiciers de mon dit
+seigneuret	seigneur et
+etdenous,presens	et de nous , presens
+etavenir,et..àchascund'eulx	et avenir , et . . à chascun d ' eulx
+,sicommeàluiappartendra,ouàleurs	, si comme à lui appartendra , ou à leurs
+lieuxtenans,queleditAlain	lieuxtenans , que le dit Alain
+Alainousonprocureur	Alain ou son procureur
+pourluimettent	pour lui mettent
+mettentet..instituentroyalment	mettent et . . instituent royalment
+etdefaitensaisine	et de fait en saisine
+saisineetpossession	saisine et possession
+corporeledeschosesdessusdictesetdechascune	corporele des choses dessus dictes et de chascune
+d'icelles,etenfacentetseuffrentjoir	d ' icelles , et en facent et seuffrent joir
+etuserpaisiblementà	et user paisiblement à
+tousjoursmès,lui,	tous jours mès , lui ,
+seshoirs,successeurset	ses hoirs , successeurs et
+aianscause,commede	aians cause , comme de
+leurpropreheritage,senslesfaireousouffriren	leur propre heritage , sens les faire ou souffrir en
+ceempescheroudestourberenaucune	ce empescher ou destourber en aucune
+manierequelconque,oresnepourle	maniere quelconque , ores ne pour le
+tempsavenir;	temps avenir ;
+;et.auxgens	; et . aux gens
+descomptesdemonditseigneurleroy	des comptes de mon dit seigneur le roy
+àParis,	à Paris ,
+auxnostresetà..chascund'eulx,pour	aux nostres et à . . chascun d ' eulx , pour
+pourtantcommeàli..appartendra,quenostrepresentdon	pour tant comme à li . . appartendra , que nostre present don
+donetoctroy	don et octroy
+ilzenregistrent	ilz enregistrent
+enregistrentetexpedientenlamanierequ'il	enregistrent et expedient en la maniere qu ' il
+appartient.Carainsinousplaist	appartient . Car ainsi nous plaist
+ilestrefait,nonobstantquenagaires	il estre fait , non obstant que nagaires
+parnosautres	par nos autres
+autreslettresnousaionsdonnéauditAlain,sa	autres lettres nous aions donné au dit Alain , sa
+viedurant,laterred'Andilli	vie durant , la terre d ' Andilli
+aveclepetitfief	avec le petit fief
+leRoy,enclaveenpartiede	le Roy , enclave en partie de
+delaterredeDamperreenAunis	de la terre de Damperre en Aunis
+,sietenla	, si et en la
+manierequemessireGuichart	maniere que messire Guichart
+d'Angle	d ' Angle
+Angle,chevalier,lasouloitteniren	Angle , chevalier , la souloit tenir en
 enlavaleurdecincqcenslivresderente,	en la valeur de cincq cens livres de rente ,
-,etaussinonobstantque	, et aussi non obstant que
-nagairesparnos..autreslettres	nagaires par nos . . autres lettres
-nousliaionsaussidonnéà.heritagelesbiens	nous li aions aussi donné à . heritage les biens
-meublesetheritagesquemessireJehandeLuddan,	meubles et heritages que messire Jehan de Luddan ,
-prestredelanaciond'Angleterre,tenoitnagaires	prestre de la nacion d ' Angleterre , tenoit nagaires
-etpossidoit	et possidoit
-possidoitàDampierreenAunis,avecunhostelqu'..	possidoit à Dampierre en Aunis , avec un hostel qu ' . .
-ilavoitenlavilledelaRochelle	il avoit en la ville de la Rochelle
-Rochelle,toutenla	Rochelle , tout en la
-valeurdecincqcenslivréesde	valeur de cincq cens livrées de
-terrequantàheritage	terre quant à heritage
-heritageetàdeuxcenslivresquantaux	heritage et à deux cens livres quant aux
-auxmeubles,etautreschosesadcecontraires.Et	aux meubles , et autres choses ad ce contraires . Et
-quecesoitfermechoseetestableà	que ce soit ferme chose et estable à
-tousjours,nousavonsfait	tous jours , nous avons fait
-mettrenostreseelà	mettre nostre seel à
-àceslettres.Sauf	à ces lettres . Sauf
-Saufenautres[choses]ledroit	Sauf en autres [ choses ] le droit
-demonditseigneur	de mon dit seigneur
-leroy,lenostreetl'autrui	le roy , le nostre et l ' autrui
-entoutes.Donnéà	en toutes . Donné à
-àPoitiers,leviiejourd'	à Poitiers , le viie jour d '
-aoustl'	aoust l '
-andegrace.miltroiscenssoixanteet	an de grace . mil trois cens soixante et
-douze.Les.quelleslettresdessustranscripteset	douze . Les . quelles lettres dessus transcriptes et
-toutlecontenu.enicellesnous	tout le contenu . en icelles nous
-nous,aiansfermes,establesetagreables	nous , aians fermes , estables et agreables
-,ycelles,toutainssicomme..ellessont	, ycelles , tout ainssi comme . . elles sont
-contenues,specifiéesetesclarcies	contenues , specifiées et esclarcies
-esclarciesèslettresdenostreditfrereplusàplain	esclarcies ès lettres de nostre dit frere plus à plain
-,voulons,greons,ratiffionsetparla	, voulons , greons , ratiffions et par la
-lateneurdecespresenteslettres	la teneur de ces presentes lettres
-confermons,et,sebesoings	confermons , et , se besoings
-oumestierest,lesdonnonsde.nouvelà	ou mestier est , les donnons de . nouvel à
-nostreditescuier	nostre dit escuier
-,denostre	, de nostre
-nostrecertainescienceetgraceespecial	nostre certaine science et grace especial
-.Sidonnons	. Si donnons
-enmandement	en mandement
-auseneschaldePoitouetàtous	au seneschal de Poitou et à tous
-lesautresjusticiersetofficiersdenostreroyaume,	les autres justiciers et officiers de nostre royaume ,
-ouàleurslieux	ou à leurs lieux
-tenans,presensetavenir,etàchascund	tenans , presens et avenir , et à chascun d
-'eulx,sicomme	' eulx , si comme
-à.luiappartendra,quele	à . lui appartendra , que le
-ditnostreescuierousonprocureur	dit nostre escuier ou son procureur
-pourluimettentetinstituentroyaulmentet	pour lui mettent et instituent royaulment et
-defaitensaisineetpossessiondetouteset	de fait en saisine et possession de toutes et
-chascunesles	chascunes les
-chosesdessusdictes,circonstancesetdeppendencesd'	choses dessus dictes , circonstances et deppendences d '
-icelles,etenfacentetseuffrent	icelles , et en facent et seuffrent
-doresenavantnostreditescuieretseshoirs	dores en avant nostre dit escuier et ses hoirs
-etsuccesseurs	et successeurs
-successeursjoiretuserpaisiblementàtousjoursmès,jusquesau	successeurs joir et user paisiblement à tousjours mès , jusques au
-aupris,valeuretestimaciondessusdiz	au pris , valeur et estimacion dessus diz
-diz.,ettoutselonla	diz . , et tout selon la
-formeetteneurdeslettres	forme et teneur des lettres
-lettresdenostredit	lettres de nostre dit
-freredessustranscriptes;	frere dessus transcriptes ;
-carainsilevoulonsnousestrefait,nonobstant	car ainsi le voulons nous estre fait , non obstant
-quelconquesautresdonsfaisparnous,nostredit	quelconques autres dons fais par nous , nostre dit
-ditfrereouautres..	dit frere ou autres . .
-.,deschoses[dessus]dictes,depuisla	. , des choses [ dessus ] dictes , depuis la
-datedeslettres..denostreditfrere,à	date des lettres . . de nostre dit frere , à
-quelconquesautrespersonnesquecesoient,	quelconques autres personnes que ce soient ,
-soubzquelconqueformede.paroles	soubz quelconque forme de . paroles
-,neaussidonspar	, ne aussi dons par
-parnousounostredit	par nous ou nostre dit
-frereautresfoisfaizà	frere autres fois faiz à
-nostreditescuier,etqueenceslettres	nostre dit escuier , et que en ces lettres
-n'ensoitfaiteexpressemencion,	n ' en soit faite expresse mencion ,
-ordenances,mandemensoudeffenses	ordenances , mandemens ou deffenses
-àcecontraires.Etquecesoit	à ce contraires . Et que ce soit
-fermechoseetestableàtousjours	ferme chose et estable à tousjours
-,nousavonsfait	, nous avons fait
-faitmettrenostreseel	fait mettre nostre seel
-seelàcespresentes.Sauf	seel à ces presentes . Sauf
-enautreschosesnostredroitet	en autres choses nostre droit et
-etentoutesl'autrui.Donné	et en toutes l ' autrui . Donné
-ennostrechastelduLouvrelèsParis	en nostre chastel du Louvre lès Paris
-,leviiiejourdedecembre,	, le viiie jour de decembre ,
-l'andegrace	l ' an de grace
-gracemilccc.lxxii,	grace mil ccc . lxxii ,
-etdenostreregneleixe.Parle	et de nostre regne le ixe . Par le
-roy.J.deVernon.	roy . J . de Vernon .
+,etaussinon	, et aussi non
+obstantquenagairesparnosautreslettresnousli..	obstant que nagaires par nos autres lettres nous li . .
+aionsaussi..donnéà	aions aussi . . donné à
+heritageles.biensmeublesetheritagesquemessireJehande	heritage les . biens meubles et heritages que messire Jehan de
+Luddan,prestre	Luddan , prestre
+dela..nacion	de la . . nacion
+d'Angleterre	d ' Angleterre
+,tenoitnagairesetpossidoitàDampierreenAunis	, tenoit nagaires et possidoit à Dampierre en Aunis
+,avecunhostelqu'.il	, avec un hostel qu ' . il
+ilavoitenlaville	il avoit en la ville
+delaRochelle	de la Rochelle
+,toutenlavaleurdecincqcenslivrées	, tout en la valeur de cincq cens livrées
+deterrequantàheritageetàdeuxcenslivres	de terre quant à heritage et à deux cens livres
+quantauxmeubles	quant aux meubles
+,etautreschosesadcecontraires.	, et autres choses ad ce contraires .
+Etquecesoitfermechoseet	Et que ce soit ferme chose et
+estableàtousjours,	estable à tous jours ,
+nousavonsfaitmettrenostre	nous avons fait mettre nostre
+nostreseelàceslettres.Saufen	nostre seel à ces lettres . Sauf en
+autres[choses]	autres [ choses ]
+ledroitdemonditseigneurle	le droit de mon dit seigneur le
+roy,lenostreetl	roy , le nostre et l
+l'autruientoutes.Donné	l ' autrui en toutes . Donné
+DonnéàPoitiers,leviiejourd'aoust.l	Donné à Poitiers , le viie jour d ' aoust . l
+'andegrace	' an de grace
+miltroiscenssoixanteet	mil trois cens soixante et
+douze.Lesquelleslettresdessustranscripteset	douze . Les quelles lettres dessus transcriptes et
+toutlecontenuenicellesnous,	tout le contenu en icelles nous ,
+aiansfermes,estableset	aians fermes , estables et
+etagreables,ycelles,toutainssi	et agreables , ycelles , tout ainssi
+commeellessont	comme elles sont
+contenues,specifiéesetesclarciesèslettresdenostredit	contenues , specifiées et esclarcies ès lettres de nostre dit
+ditfrereplusàplain,voulons,greons,	dit frere plus à plain , voulons , greons ,
+ratiffionset..par	ratiffions et . . par
+lateneurdecespresenteslettresconfermons,et	la teneur de ces presentes lettres confermons , et
+,sebesoingsoumestierest,	, se besoings ou mestier est ,
+,lesdonnonsdenouvelànostredit	, les donnons de nouvel à nostre dit
+escuier,	escuier ,
+,denostrecertainescienceetgraceespecial.	, de nostre certaine science et grace especial .
+Sidonnonsenmandementau	Si donnons en mandement au
+auseneschaldePoitouetàtousles	au seneschal de Poitou et à tous les
+autresjusticierset	autres justiciers et
+etofficiersde	et officiers de
+denostreroyaume,ouàleurslieuxtenans	de nostre royaume , ou à leurs lieux tenans
+tenans,presensetavenir,..	tenans , presens et avenir , . .
+.etàchascund'eulx,si	. et à chascun d ' eulx , si
+sicommeà	si comme à
+luiappartendra,queleditnostreescuier.	lui appartendra , que le dit nostre escuier .
+ousonprocureurpourlui	ou son procureur pour lui
+mettentetinstituentroyaulmentetde	mettent et instituent royaulment et de
+faitensaisine	fait en saisine
+saisineetpossession	saisine et possession
+detoutesetchascunesleschoses	de toutes et chascunes les choses
+chosesdessusdictes,circonstancesetdeppendences	choses dessus dictes , circonstances et deppendences
+deppendencesd'	deppendences d '
+icelles,et	icelles , et
+enfacentetseuffrentdoresenavant	en facent et seuffrent dores en avant
+nostredit	nostre dit
+escuieretseshoirsetsuccesseursjoiretuser	escuier et ses hoirs et successeurs joir et user
+paisiblementàtousjoursmès,jusquesau	paisiblement à tousjours mès , jusques au
+pris,valeuret	pris , valeur et
+etestimaciondessusdiz,ettoutselon	et estimacion dessus diz , et tout selon
+laformeetteneurdeslettresdenostredit	la forme et teneur des lettres de nostre dit
+freredessustranscriptes	frere dessus transcriptes
+;carainsilevoulonsnous.estrefait,	; car ainsi le voulons nous . estre fait ,
+nonobstant	non obstant
+quelconquesautresdonsfais..parnous	quelconques autres dons fais . . par nous
+,nostreditfrereou	, nostre dit frere ou
+autres,deschoses[dessus]dictes,	autres , des choses [ dessus ] dictes ,
+depuisladatedeslettresdenostre	depuis la date des lettres de nostre
+ditfrere..	dit frere . .
+,àquelconquesautrespersonnesquecesoient,soubz	, à quelconques autres personnes que ce soient , soubz
+quelconqueformedeparoles,neaussidons	quelconque forme de paroles , ne aussi dons
+parnousounostreditfrereautresfoisfaizà	par nous ou nostre dit frere autres fois faiz à
+nostreditescuier,etqueences	nostre dit escuier , et que en ces
+lettres..n'ensoitfaiteexpressemencion,	lettres . . n ' en soit faite expresse mencion ,
+ordenances,mandemensoudeffensesàcecontraires.	ordenances , mandemens ou deffenses à ce contraires .
+Etquece.	Et que ce .
+soitferme.choseetestableàtousjours,nous	soit ferme . chose et estable à tousjours , nous
+avonsfaitmettrenostre	avons fait mettre nostre
+seelàcespresentes.Saufen	seel à ces presentes . Sauf en
+autreschoses..nostre	autres choses . . nostre
+nostredroitetentoutesl'autrui	nostre droit et en toutes l ' autrui
+.Donnéen	. Donné en
+nostrechastelduLouvre.	nostre chastel du Louvre .
+.lèsParis,le	. lès Paris , le
+viiiejourdedecembre,l	viiie jour de decembre , l
+'andegrace	' an de grace
+milccc.lxxii,etde	mil ccc . lxxii , et de
+denostreregnele..ixe.Par	de nostre regne le . . ixe . Par
+leroy.J	le roy . J
+.deVernon.	. de Vernon .

@@ -1,55 +1,62 @@
-Charles,parlagracedeDieuroydeFrance	Charles , par la grace de Dieu roy de France
-France,ànozamezetfeaulxgensdenozcomptes	France , à noz amez et feaulx gens de noz comptes
-,salutet	, salut et
-etdilection.De	et dilection . De
-lapartiedenostreaméet	la partie de nostre amé et
-fealconseilleretmaistredenostrehostel,RegnaultGirard	feal conseiller et maistre de nostre hostel , Regnault Girard
-,chevalier,	, chevalier ,
-seigneurdeBasogesetdeMoric	seigneur de Basoges et de Moric
-,nousaestéexposéque	, nous a esté exposé que
-,commeleditlieudeMoricsoit	, comme ledit lieu de Moric soit
-assissurlarivièredeLoy	assis sur la rivière de Loy
-prèsdelamer,et	près de la mer , et
-d’illecpouraleretvenirpareauede	d ’ illec pour aler et venir par eaue de
-toutesparsetnacionspour	toutes pars et nacions pour
-marchander.,etmesmesdesyslesdeRé,Oleron	marchander . , et mesmes des ysles de Ré , Oleron
-etMarenne,etaussidesvillesdelaRochelle	et Marenne , et aussi des villes de la Rochelle
-,Marantetautreslieux….,auquel	, Marant et autres lieux …., auquel
-auquellieuquiesten	auquel lieu qui est en
-enpaysfertilnostreditconseillera.droitdechastel	en pays fertil nostre dit conseiller a . droit de chastel
-etchastellenie,ettoutejusticehaulte	et chastellenie , et toute justice haulte
-,commeseigneurchastellain,etseroitlebien	, comme seigneur chastellain , et seroit le bien
-etprouffitdenouset	et prouffit de nous et
-etdelachose	et de la chose
-chosepublique,	chose publique ,
-duditexposant..etdesautres	dudit exposant . . et des autres
-autreshabitansqueauditlieudeMoriceustmarché	autres habitans que audit lieu de Moric eust marché
-unefoyslasepmaine..,c’est	une foys la sepmaine . . , c ’ est
-estassavoirchascunjourdevendredi,sicomme	est assavoir chascun jour de vendredi , si comme
-ildit,sy	il dit , sy
-synousahumblementfaitsupplierqueledit	sy nous a humblement fait supplier que ledit
-leditmarchéluyvueillonsoctroyer.Pourquoynous,	ledit marché luy vueillons octroyer . Pour quoy nous ,
-ceschosesconsiderées,vous	ces choses considerées , vous
-mandonsqueparcertaincommissaire,ydoineetsouffisant,	mandons que par certain commissaire , ydoine et souffisant ,
-vous,appellénostreprocureurennostreseneschausséedePoictou	vous , appellé nostre procureur en nostre seneschaussée de Poictou
-,faictesdiligemmentenquerirduprouffitoudommage	, faictes diligemment enquerir du prouffit ou dommage
-dommagequis’ensuyvroit,	dommage qui s ’ ensuyvroit ,
-seleditmarchiéestoitauditexposantoctroyé	se ledit marchié estoit audit exposant octroyé
-,etseseroitleprejudice	, et se seroit le prejudice
-d’icelluy;et	d ’ icelluy ; et
-l’informacion	l ’ informacion
-quifaicte	qui faicte
-serasurcefaictesapporterpardeversvous,et	sera sur ce faictes apporter par devers vous , et
-,icellepar	, icelle par
-parvousveue,pourveezauditexposant,ainsique	par vous veue , pourveez audit exposant , ainsi que
-verrezestre.	verrez estre .
-àfaireparraison.Carainsi	à faire par raison . Car ainsi
-nousplaistilestrefait,	nous plaist il estre fait ,
-etauditexposantl’avons	et audit exposant l ’ avons
-octroyéet	octroyé et
-octroyons,degraceespecial,parcespresentes	octroyons , de grace especial , par ces presentes
-.DonnéàSaincteKatherinedeFreboys,.le	. Donné à Saincte Katherine de Freboys , . le
-lexvejourd	le xve jour d
-’avrill’	’ avril l ’
-andegracemilcccc.cinquanteavantPasques,	an de grace mil cccc . cinquante avant Pasques ,
-etdenostrerègnelexxixe.	et de nostre règne le xxixe .
+Charles,parlagracedeDieu	Charles , par la grace de Dieu
+roydeFrance	roy de France
+,ànozamezetfeaulxgensdenozcomptes	, à noz amez et feaulx gens de noz comptes
+,salutetdilection.Delapartiedenostre	, salut et dilection . De la partie de nostre
+améetfeal	amé et feal
+conseilleretmaistredenostrehostel,RegnaultGirard,.	conseiller et maistre de nostre hostel , Regnault Girard , .
+chevalier,seigneurdeBasoges	chevalier , seigneur de Basoges
+etdeMoric	et de Moric
+,nousaesté	, nous a esté
+exposéque,	exposé que ,
+commeleditlieudeMoricsoitassissurla	comme ledit lieu de Moric soit assis sur la
+rivièredeLoyprèsdelamer	rivière de Loy près de la mer
+,etd’illec	, et d ’ illec
+illecpouraleretvenirpareauedetoutes	illec pour aler et venir par eaue de toutes
+parsetnacions	pars et nacions
+pourmarchander,	pour marchander ,
+,etmesmesdesyslesdeRé,Oleronet	, et mesmes des ysles de Ré , Oleron et
+Marenne,	Marenne ,
+etaussidesvillesdelaRochelle,.	et aussi des villes de la Rochelle , .
+Marantetautreslieux….,auquel	Marant et autres lieux …., auquel
+auquellieuquiestenpaysfertilnostredit	auquel lieu qui est en pays fertil nostre dit
+conseilleradroitdechasteletchastellenie,ettoute	conseiller a droit de chastel et chastellenie , et toute
+justicehaulte,commeseigneurchastellain	justice haulte , comme seigneur chastellain
+chastellain,et	chastellain , et
+seroitlebienetprouffitde	seroit le bien et prouffit de
+denousetde	de nous et de
+delachosepublique,duditexposantet..des	de la chose publique , dudit exposant et . . des
+autreshabitansqueauditlieudeMoriceustmarchéune	autres habitans que audit lieu de Moric eust marché une
+foyslasepmaine,	foys la sepmaine ,
+c’estassavoirchascun	c ’ est assavoir chascun
+jourdevendredi,	jour de vendredi ,
+,sicommeildit,synousa	, si comme il dit , sy nous a
+ahumblementfaitsupplierqueleditmarchéluyvueillons	a humblement fait supplier que ledit marché luy vueillons
+octroyer.Pourquoynous,ces	octroyer . Pour quoy nous , ces
+chosesconsiderées,vousmandonsqueparcertain	choses considerées , vous mandons que par certain
+commissaire,ydoineetsouffisant,vous,appellénostre	commissaire , ydoine et souffisant , vous , appellé nostre
+procureurennostreseneschausséedePoictou,faictesdiligemment	procureur en nostre seneschaussée de Poictou , faictes diligemment
+enquerirduprouffitoudommagequis’ensuyvroit,	enquerir du prouffit ou dommage qui s ’ ensuyvroit ,
+seleditmarchiéestoitauditexposant	se ledit marchié estoit audit exposant
+octroyé,..et	octroyé , . . et
+seseroitleprejudiced’icelluy;et	se seroit le prejudice d ’ icelluy ; et
+l’informacionquifaicte.serasurcefaictes	l ’ informacion qui faicte . sera sur ce faictes
+apporterpardeversvous,et,icelleparvous	apporter par devers vous , et , icelle par vous
+veue,pourveezaudit..	veue , pourveez audit . .
+exposant,ainsi	exposant , ainsi
+queverrez	que verrez
+verrezestreàfairepar	verrez estre à faire par
+parraison.Car	par raison . Car
+ainsinousplaist	ainsi nous plaist
+ilestrefait,.etauditexposantl	il estre fait , . et audit exposant l
+’avonsoctroyé	’ avons octroyé
+etoctroyons,de	et octroyons , de
+graceespecial..,	grace especial . . ,
+parcespresentes.	par ces presentes .
+DonnéàSaincte	Donné à Saincte
+KatherinedeFreboys	Katherine de Freboys
+,lexvejourd’	, le xve jour d ’
+’avrill	’ avril l
+’andegracemilcccc.cinquanteavantPasques	’ an de grace mil cccc . cinquante avant Pasques
+Pasques,et	Pasques , et
+etdenostrerègnele	et de nostre règne le
+lexxixe.	le xxixe .

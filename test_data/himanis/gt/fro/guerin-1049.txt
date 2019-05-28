@@ -1,195 +1,191 @@
-Charles,..	Charles , . .
-etc.Savoirfaisons,etc.nousavoir	etc . Savoir faisons , etc . nous avoir
-receul’umblesupplicaciondeGermainChabot	receu l ’ umble supplicacion de Germain Chabot
-etLyonChabot,freres,escuiers,contenant	et Lyon Chabot , freres , escuiers , contenant
-contenant.que,	contenant . que ,
-,neufou	, neuf ou
-dixansaouenviron	dix ans a ou environ
-,soubzumbreoucouleurdecequefeu	, soubz umbre ou couleur de ce que feu
-feuJaquesChabot,leurfrere..,disoitet	feu Jaques Chabot , leur frere . . , disoit et
-maintenoitquefeu.	maintenoit que feu .
-.GuillaumeBarbastre,ensonvivantescuier	. Guillaume Barbastre , en son vivant escuier
-,lorsestantàlaRochesur	, lors estant à la Roche sur
-surYon,	sur Yon ,
-avoit.congneuecharnellementuneleurparenteetàcausede	avoit . congneue charnellement une leur parente et à cause de
-celuivouloitmal	ce lui vouloit mal
-demort,	de mort ,
-leditLyon,estantlors	ledit Lyon , estant lors
-aveceten	avec et en
-lacompaignieduditfeuJaques,sonfrere,	la compaignie dudit feu Jaques , son frere ,
-voulantluicomplaireetdecelevengier,donna	voulant lui complaire et de ce le vengier , donna
-donna,enhayne	donna , en hayne
-decequedit	de ce que dit
-est,enlavillede	est , en la ville de
-laRochesurYon,ungcoupdedague	la Roche sur Yon , ung coup de dague
-dagueauditBarbastre,	dague audit Barbastre ,
-parlemoyenduquelil	par le moyen duquel il
-alapoud’	ala pou d ’
-ilecaprèsde	ilec après de
-vieàtrespassement.Etaussi	vie à trespassement . Et aussi
-furentlesdizGermainetLyon,	furent les diz Germain et Lyon ,
-supplians,àcertaine..	supplians , à certaine . .
-assembléequeledit..	assemblée que ledit . .
-...feuJaques	. . . feu Jaques
-,leurfrere,fist,	, leur frere , fist ,
-unganet	ung an et
-etdemya	et demy a
-ouenviron,..auditlieudelaRoche	ou environ , . . audit lieu de la Roche
-surYon,dexx	sur Yon , de xx
-.àxxv.hommesdeguerre,	. à xxv . hommes de guerre ,
-,armezetembastonnezd’	, armez et embastonnez d ’
-’espées,d’arcsetjavelines	’ espées , d ’ arcs et javelines
-,quifurentpareulxmenez..	, qui furent par eulx menez . .
-.àlaMotedeBauçayoupaïsdeLodunoys	. à la Mote de Bauçay ou païs de Lodunoys
-,eteulx.	, et eulx .
-saichansqueFrançoisde	saichans que François de
-deChaunoy,escuier,seigneurduditlieu	de Chaunoy , escuier , seigneur dudit lieu
-lieudelaMote,.	lieu de la Mote , .
-.estoitabsentdudit	. estoit absent dudit
-chastelde..laMotedeBauçay	chastel de . . la Mote de Bauçay
-,entrerentdenuitpareschiellesenla	, entrerent de nuit par eschielles en la
-bassecourtdudit	basse court dudit
-duditchastel,etenicelle	dudit chastel , et en icelle
-s’embuscherentetaumatin,	s ’ embuscherent et au matin ,
-,aupointdujour,aprèsl’ouverture	, au point du jour , après l ’ ouverture
-faicteduditchastel,sebouterent	faicte dudit chastel , se bouterent
-bouterentdedans;	bouterent dedans ;
-etillecques	et illecques
-illecquesprintetravyleditfeuJaquesparforce	illecques print et ravy ledit feu Jaques par force
-etviolenceAgnettedeChaunoy	et violence Agnette de Chaunoy
-,filleduditFrançoisetde	, fille dudit François et de
+Charles,.	Charles , .
+.etc.Savoirfaisons,etc	. etc . Savoir faisons , etc
+.nousavoir	. nous avoir
+avoirreceul’umblesupplicaciondeGermainChabot	avoir receu l ’ umble supplicacion de Germain Chabot
+ChabotetLyonChabot,freres,	Chabot et Lyon Chabot , freres ,
+escuiers,contenantque,neufoudixans	escuiers , contenant que , neuf ou dix ans
+aouenviron	a ou environ
+environ,soubzumbreoucouleurdeceque	environ , soubz umbre ou couleur de ce que
+feuJaquesChabot,leurfrere,disoitet	feu Jaques Chabot , leur frere , disoit et
+maintenoitquefeuGuillaumeBarbastre,ensonvivant	maintenoit que feu Guillaume Barbastre , en son vivant
+escuier,lorsestantàlaRochesurYon,	escuier , lors estant à la Roche sur Yon ,
+,avoit.congneuecharnellementuneleurparente	, avoit . congneue charnellement une leur parente
+parenteetàcausedecelui	parente et à cause de ce lui
+vouloitmaldemort,leditLyon,estant	vouloit mal de mort , ledit Lyon , estant
+lorsavecetenla	lors avec et en la
+compaignieduditfeu	compaignie dudit feu
+feuJaques,sonfrere,	feu Jaques , son frere ,
+,voulantluicomplaire	, voulant lui complaire
+etdecelevengier,donna,en.	et de ce le vengier , donna , en .
+.haynedecequedit	. hayne de ce que dit
+ditest,enlaville.delaRochesur	dit est , en la ville . de la Roche sur
+surYon,ungcoup	sur Yon , ung coup
+dedague..auditBarbastre	de dague . . audit Barbastre
+Barbastre,par	Barbastre , par
+lemoyenduquel	le moyen duquel
+ilalapoud’ilecaprès	il ala pou d ’ ilec après
+devieà.trespassement.Et	de vie à . trespassement . Et
+aussifurent	aussi furent
+lesdizGermainetLyon,	les diz Germain et Lyon ,
+supplians,àcertaineassemblée	supplians , à certaine assemblée
+queleditfeuJaques,	que ledit feu Jaques ,
+,leurfrere,fist	, leur frere , fist
+,unganetdemyaouenviron	, ung an et demy a ou environ
+,auditlieudela	, audit lieu de la
+laRochesurYon,dexx.	la Roche sur Yon , de xx .
+àxxv.hommes.	à xxv . hommes .
+deguerre,armezetembastonnezd’	de guerre , armez et embastonnez d ’
+espées,d.’	espées , d . ’
+arcsetjavelines,qui	arcs et javelines , qui
+quifurentpareulxmenezà.laMotedeBauçay	qui furent par eulx menez à . la Mote de Bauçay
+oupaïsde	ou païs de
+deLodunoys,et..	de Lodunoys , et . .
+eulxsaichansqueFrançoisdeChaunoy	eulx saichans que François de Chaunoy
+Chaunoy,escuier,seigneurdudit	Chaunoy , escuier , seigneur dudit
+lieudela	lieu de la
+Mote,estoitabsentduditchasteldela	Mote , estoit absent dudit chastel de la
+laMotede	la Mote de
+Bauçay,entrerentdenuitpareschiellesenlabasse	Bauçay , entrerent de nuit par eschielles en la basse
+courtduditchastel,eten..icelles’embuscherent	court dudit chastel , et en . . icelle s ’ embuscherent
+etaumatin	et au matin
+,aupointdu	, au point du
+jour,après	jour , après
+l’ouverturefaicteduditchastel	l ’ ouverture faicte dudit chastel
+,sebouterent	, se bouterent
+dedans;etillecquesprintet	dedans ; et illecques print et
+ravyleditfeu	ravy ledit feu
+JaquesparforceetviolenceAgnette	Jaques par force et violence Agnette
+AgnettedeChaunoy,filleduditFrançoiset	Agnette de Chaunoy , fille dudit François et
 deKatherinedelaRochefoucault,safemme,lors	de Katherine de la Rochefoucault , sa femme , lors
-estantcouchéeensonlictavecquesladicteKatherine	estant couchée en son lict avecques ladicte Katherine
-Katherine,samere,eticelleparforce	Katherine , sa mere , et icelle par force
-et..violence,oultrelegré	et . . violence , oultre le gré
-etvoulenté	et voulenté
-voulentéd’icelleAgnetteet	voulenté d ’ icelle Agnette et
-desadictemere,lafistmonter	de sa dicte mere , la fist monter
-sursonchevalderrierelui,et	sur son cheval derriere lui , et
-lamena..auditlieudelaRochesurYon	la mena . . audit lieu de la Roche sur Yon
-Yon,etouditlieu,cinqousix	Yon , et oudit lieu , cinq ou six
-joursaprèsl’espousa..	jours après l ’ espousa . .
-.Etlejourmeismesdesdictesespousailles	. Et le jour meismes desdictes espousailles
-espousailles,lamenaouchastel	espousailles , la mena ou chastel
-deBransurlamerennostrepaïs	de Bran sur la mer en nostre païs
-païsdePoictou,oùil	païs de Poictou , où il
-illadetintparaucuntemps;etdepuis	il la detint par aucun temps ; et depuis
-latransportadelieuenautre,pourdoubtequ	la transporta de lieu en autre , pour doubte qu
-’ellefeusttrouvée.etsurluirecouvrée	’ elle feust trouvée . et sur lui recouvrée
-recouvréeparjustice	recouvrée par justice
-justiceouparlesparens	justice ou par les parens
-etamisd’icelleAgnette.	et amis d ’ icelle Agnette .
-.Ausquelleschoses..faictespar	. Ausquelles choses . . faictes par
-leditfeuJaquesChabot,	ledit feu Jaques Chabot ,
-lesdizGermainet	les diz Germain et
-Lyon,supplians,furentpresensetl	Lyon , supplians , furent presens et l
-l’acompaignerent,conforcerentetfavoriserent,	l ’ acompaignerent , conforcerent et favoriserent ,
-soubzumbrede	soubz umbre de
-cequeledit.feuJaques	ce que le dit . feu Jaques
-Jaquesdisoitqueentrelui.etleditdeChaunoy,	Jaques disoit que entre lui . et le dit de Chaunoy ,
-peredeladicteAgnette,avoiteu	pere de la dicte Agnette , avoit eu
-parolesettraictiédemariagedesdizfeu..JaquesChabotet	paroles et traictié de mariage desdiz feu . . Jaques Chabot et
-Agnette,etquedepuisluiavoit.esté	Agnette , et que depuis lui avoit . esté
-rapporté..queleditde	rapporté . . que le dit de
-deChaunoy,	de Chaunoy ,
-peredeladicteAgnette	pere de la dicte Agnette
-Agnette..,vouloiticellemarierà	Agnette . . , vouloit icelle marier à
-ungautrehomme,et	ung autre homme , et
-lefrusterduditmariage.Etavecquescefurent	le fruster dudit mariage . Et avecques ce furent
-lesdizsupplians,certaintempsa,en	lesdiz supplians , certain temps a , en
-enlacompaigniedeFrançoisdeMontcatin,capitainedudit	en la compaignie de François de Montcatin , capitaine dudit
-lieudelaRochesurYon,duditfeu	lieu de la Roche sur Yon , dudit feu
-JaquesChabotetautresarmezetembastonnez,àcourir	Jaques Chabot et autres armez et embastonnez , à courir
-susparvoyedefaitetmainforcéeà	sus par voye de fait et main forcée à
-nostreaméet.fealGuyd’Auxigny	nostre amé et . feal Guy d ’ Auxigny
-,chevalier,.	, chevalier , .
-.lorsnostrelieutenant..oupaïsdePoictou,	. lors nostre lieutenant . . ou païs de Poictou ,
-èsmarchesdedeçala	ès marches de deça la
-rivieredeLoire,etàsesgens..quilà	riviere de Loire , et à ses gens . . qui là
-estoientvenuzrequerir	estoient venuz requerir
-nostreaméetfealGeffroy	nostre amé et feal Geffroy
-LeFerron,l’undenoz	Le Ferron , l ’ un de noz
-noztresoriers,lors.	noz tresoriers , lors .
-prisonnierou	prisonnier ou
-ditchasteldelaRochesurYon,et	dit chastel de la Roche sur Yon , et
-etqueou..conflict	et que ou . . conflict
-avoientesté	avoient esté
-tuezdeux.hommesdes	tuez deux . hommes des
-gensduditd	gens dudit d
-’Auxigny.Pouroccasion	’ Auxigny . Pour occasion
-desquelzcasetautresgranset	desquelz cas et autres grans et
-enormesexcèset.deliz,plusà	enormes excès et . deliz , plus à
-àplaindeclairezencertaine.	à plain declairez en certaine .
-sentence.,	sentence . ,
-puisnagueres	puis nagueres
-nagueresdonnéeparlesgenslaizde	nagueres donnée par les gens laiz de
-nostregrandconseil	nostre grand conseil
-conseiletaucuns	conseil et aucuns
-desgensdenostrecourtdeParlement,	des gens de nostre court de Parlement ,
-leditJaquesChabotaestéexecuté	le dit Jaques Chabot a esté executé
-parjustice.	par justice .
-Etpource,lesdizsupplians,sesfreres	Et pour ce , les diz supplians , ses freres
-,doubtans	, doubtans
-que,pouravoirestéavecqueseten	que , pour avoir esté avecques et en
-sacompaignieà	sa compaignie à
-faireetcommettreleschosesdessusdictes..,onvueille	faire et commettre les choses dessus dictes . . , on vueille
-semblablementcontre.	semblablement contre .
-eulxrigoureusementprocederparjustice	eulx rigoureusement proceder par justice
-,sesontabsentezdupaïs,ouilz	, se sont absentez du païs , ou ilz
-ilzfaisoientleur	ilz faisoient leur
-demeureetn’yoseroient	demeure et n ’ y oseroient
-jamaisretourner,conversernerepairer,	jamais retourner , converser ne repairer ,
-senozgraceetmisericordene	se noz grace et misericorde ne
-leurestoient	leur estoient
-surceimparties,humblementrequeransque,	sur ce imparties , humblement requerans que ,
-,attenduqu’ilz.ne	, attendu qu ’ ilz . ne
-firentpaslesdictes	firent pas les dictes
-dictesassemblées,noises	dictes assemblées , noises
-etdebasdessusdiz,nen’estoitpas.	et debas dessus diz , ne n ’ estoit pas .
-pour.leur	pour . leur
-fait,etquece	fait , et que ce
-cequ’ilzenontfait	ce qu ’ ilz en ont fait
-etcommisaestépour	et commis a esté pour
-complaireauditfeuJaquesChabot,leurfrere,	complaire audit feu Jaques Chabot , leur frere ,
-quidece	qui de ce
-lesrequist,cequeautrementilzn’eussent	les requist , ce que autrement ilz n ’ eussent
-jamaisfait,qu	jamais fait , qu
-qu’ilzsontgensnoblesetdebonhostel,	qu ’ ilz sont gens nobles et de bon hostel ,
-etnousontlongtemps	et nous ont long temps
-servy,eulxetleursparensou	servy , eulx et leurs parens ou
-faitdenoz	fait de noz
-nozguerresetautrement,en	noz guerres et autrement , en
-endiversesmanieres,queentousautrescasilzont	en diverses manieres , que en tous autres cas ilz ont
-tousjoursestégensdebongouvernementethonneste	tousjours esté gens de bon gouvernement et honneste
-conversacion,sansoncquesmaisavoiresté	conversacion , sans oncques mais avoir esté
-actaintouconvaincuzd’aucuns	actaint ou convaincuz d ’ aucuns
-autresvillainscas,blasmesoureprouches,ilnous	autres villains cas , blasmes ou reprouches , il nous
-plaiseleurimpartiricelles.Pour	plaise leur impartir icelles . Pour
-Pourquoynous,ceschosesconsiderées	Pour quoy nous , ces choses considerées
-consideréesetlesbonsetagreablesservicesquelesdiz	considerées et les bons et agreables services que les diz
-suppliansnousontpar	supplians nous ont par
-longtempsfaizoufait	long temps faiz ou fait
-faitdenozguerresetautrement	fait de noz guerres et autrement
-autremententournous,enplusieurs	autrement entour nous , en plusieurs
-plusieursetmaintesmanieres,voulanspource	plusieurs et maintes manieres , voulans pour ce
-cemisericorde..estre	ce misericorde . . estre
-preferéeen	preferée en
-cestepartieàrigueurdejustice,àiceulx	ceste partie à rigueur de justice , à iceulx
-GermainChabotetLyon	Germain Chabot et Lyon
-Chabot,	Chabot ,
-freres,supplians,etàchascund	freres , supplians , et à chascun d
-d’eulx,	d ’ eulx ,
-avonsquicté,remis	avons quicté , remis
-etpardonné,etc.Sidonnonsenmandementpar	et pardonné , etc . Si donnons en mandement par
-cesmesmespresentesauseneschaldePoictou	ces mesmes presentes au seneschal de Poictou
-etàtousnozautresjusticiers,etc.Donné	et à tous noz autres justiciers , etc . Donné
-DonnéàChinon,oumoisd’avril	Donné à Chinon , ou mois d ’ avril
-l’andegracemil.cccc.	l ’ an de grace mil . cccc .
-xlvi,et	xlvi , et
-denostreregnelexxiiiie.Ainsisigné	de nostre regne le xxiiiie . Ainsi signé
-signé:Parleroy,	signé : Par le roy ,
-lessiresde	les sires de
-delaVarenne,dePrecignyetdeBlainville,messire	de la Varenne , de Precigny et de Blainville , messire
-RegnaultduDresnayetautres.presens.DeLa	Regnault du Dresnay et autres . presens . De La
-Loere.—Visa.Contentor.P.Le	Loere .— Visa . Contentor . P . Le
-LePicart.	Le Picart .
+estantcouchée	estant couchée
+couchéeensonlictavecquesladicteKatherine,samere	couchée en son lict avecques ladicte Katherine , sa mere
+,eticelleparforceetviolence,oultrele	, et icelle par force et violence , oultre le
+gréetvoulentéd’icelleAgnette	gré et voulenté d ’ icelle Agnette
+Agnetteetdesadictemere,lafistmontersur	Agnette et de sa dicte mere , la fist monter sur
+sur.sonchevalderrierelui,etla	sur . son cheval derriere lui , et la
+lamenaauditlieudelaRochesurYon,	la mena audit lieu de la Roche sur Yon ,
+,et..ouditlieu,cinqousixjours	, et . . oudit lieu , cinq ou six jours
+joursaprèsl’espousa.Etlejourmeismesdesdictes	jours après l ’ espousa . Et le jour meismes desdictes
+desdictesespousailles,lamenaouchastelde.Bransurla	desdictes espousailles , la mena ou chastel de . Bran sur la
+lamerennostrepaïsdePoictou,oùil	la mer en nostre païs de Poictou , où il
+ladetintparaucuntemps.;etdepuisla	la detint par aucun temps . ; et depuis la
+latransportade	la transporta de
+lieuen.autre	lieu en . autre
+,pourdoubte	, pour doubte
+qu’ellefeusttrouvée	qu ’ elle feust trouvée
+trouvéeetsurluirecouvréeparjustice	trouvée et sur lui recouvrée par justice
+ouparlesparensetamis.d	ou par les parens et amis . d
+’icelleAgnette	’ icelle Agnette
+.AusquelleschosesfaictesparleditfeuJaquesChabot,	. Ausquelles choses faictes par ledit feu Jaques Chabot ,
+lesdizGermainetLyon,	les diz Germain et Lyon ,
+supplians,furentpresenset	supplians , furent presens et
+l’acompaignerent,conforcerentetfavoriserent	l ’ acompaignerent , conforcerent et favoriserent
+favoriserent,soubzumbre.	favoriserent , soubz umbre .
+deceque	de ce que
+queledit..feuJaques	que le dit . . feu Jaques
+disoitque.entre	disoit que . entre
+luietle	lui et le
+ditdeChaunoy,perede	dit de Chaunoy , pere de
+ladicte..Agnette,avoiteuparoles	la dicte . . Agnette , avoit eu paroles
+ettraictiédemariagedesdizfeuJaques	et traictié de mariage desdiz feu Jaques
+ChabotetAgnette,et	Chabot et Agnette , et
+etquedepuisluiavoitestérapporté	et que depuis lui avoit esté rapporté
+queleditdeChaunoy,pere.dela	que le dit de Chaunoy , pere . de la
+ladicteAgnette	la dicte Agnette
+,vouloiticellemarieràungautrehomme,	, vouloit icelle marier à ung autre homme ,
+etlefrusterduditmariage.Etavecques	et le fruster dudit mariage . Et avecques
+avecquescefurentlesdizsupplians,certaintemps..a	avecques ce furent lesdiz supplians , certain temps . . a
+,enlacompaignie	, en la compaignie
+deFrançoisdeMontcatin,capitaineduditlieu	de François de Montcatin , capitaine dudit lieu
+lieu..dela	lieu . . de la
+Roche.surYon,	Roche . sur Yon ,
+,duditfeuJaquesChabotet	, dudit feu Jaques Chabot et
+etautresarmezetembastonnez,àcourir	et autres armez et embastonnez , à courir
+courirsusparvoyedefait	courir sus par voye de fait
+etmainforcéeànostre	et main forcée à nostre
+améetfealGuyd’Auxigny,chevalier,	amé et feal Guy d ’ Auxigny , chevalier ,
+lorsnostrelieutenantoupaïsde	lors nostre lieutenant ou païs de
+Poictou,èsmarches	Poictou , ès marches
+marchesdedeçalarivieredeLoire,	marches de deça la riviere de Loire ,
+,etàsesgensquilàestoientvenuzrequerirnostre	, et à ses gens qui là estoient venuz requerir nostre
+nostreaméetfealGeffroyLeFerron,l’	nostre amé et feal Geffroy Le Ferron , l ’
+’undenoztresoriers,lorsprisonnierou	’ un de noz tresoriers , lors prisonnier ou
+ditchastel	dit chastel
+delaRochesurYon,etque	de la Roche sur Yon , et que
+queouconflictavoient	que ou conflict avoient
+estétuezdeuxhommes.des	esté tuez deux hommes . des
+gensduditd’Auxigny.Pouroccasiondesquelz	gens dudit d ’ Auxigny . Pour occasion desquelz
+casetautresgranset	cas et autres grans et
+enormesexcèsetdeliz,plusà	enormes excès et deliz , plus à
+àplaindeclairezencertainesentence	à plain declairez en certaine sentence
+,puisnagueresdonnéeparlesgenslaiz	, puis nagueres donnée par les gens laiz
+denostre	de nostre
+nostregrandconseilet	nostre grand conseil et
+aucunsdesgensdenostrecourt	aucuns des gens de nostre court
+courtdeParlement,ledit	court de Parlement , le dit
+JaquesChabotaestéexecutéparjustice...Etpour	Jaques Chabot a esté executé par justice . . . Et pour
+ce,lesdizsupplians,	ce , les diz supplians ,
+sesfreres,doubtansque,pour	ses freres , doubtans que , pour
+pouravoirestéavecquesetensacompaignie	pour avoir esté avecques et en sa compaignie
+compaignieàfaireet	compaignie à faire et
+etcommettreleschosesdessusdictes,onvueillesemblablement	et commettre les choses dessus dictes , on vueille semblablement
+contreeulxrigoureusement.procederpar	contre eulx rigoureusement . proceder par
+parjustice,sesontabsentezdupaïs,ou	par justice , se sont absentez du païs , ou
+ilzfaisoientleurdemeureetn’.yoseroientjamais	ilz faisoient leur demeure et n ’ . y oseroient jamais
+retourner,	retourner ,
+,..converserne	, . . converser ne
+repairer,senozgraceet	repairer , se noz grace et
+etmisericordene..leur	et misericorde ne . . leur
+estoientsurceimparties,humblementrequeransque	estoient sur ce imparties , humblement requerans que
+,attenduqu’ilznefirentpaslesdictes	, attendu qu ’ ilz ne firent pas les dictes
+assemblées,noises	assemblées , noises
+etdebasdessusdiz,ne	et debas dessus diz , ne
+nen’estoitpaspourleur	ne n ’ estoit pas pour leur
+leurfait,etquecequ	leur fait , et que ce qu
+’ilzenontfaitetcommisaesté	’ ilz en ont fait et commis a esté
+estépourcomplaire	esté pour complaire
+complaireauditfeu	complaire audit feu
+JaquesChabot,leurfrere,quidece	Jaques Chabot , leur frere , qui de ce
+lesrequist,cequeautrementilz..n	les requist , ce que autrement ilz . . n
+’eussent	’ eussent
+jamaisfait,qu’ilzsontgensnobleset.	jamais fait , qu ’ ilz sont gens nobles et .
+debon..hostel,	de bon . . hostel ,
+,etnousontlongtempsservy,eulx	, et nous ont long temps servy , eulx
+eulxetleurs.parens	eulx et leurs . parens
+parensoufaitdenozguerres	parens ou fait de noz guerres
+etautrement,endiversesmanieres,queentous	et autrement , en diverses manieres , que en tous
+autrescas	autres cas
+casilzont	cas ilz ont
+onttousjoursestégensdebongouvernementet	ont tousjours esté gens de bon gouvernement et
+ethonnesteconversacion,sansoncquesmaisavoirestéactaint..	et honneste conversacion , sans oncques mais avoir esté actaint . .
+ouconvaincuzd’aucunsautresvillainscas,blasmes	ou convaincuz d ’ aucuns autres villains cas , blasmes
+oureprouches,ilnousplaiseleur	ou reprouches , il nous plaise leur
+impartiricelles.Pourquoy	impartir icelles . Pour quoy
+nous,ceschosesconsideréesetlesbonset	nous , ces choses considerées et les bons et
+agreablesservicesquelesdiz.suppliansnousontpar	agreables services que les diz . supplians nous ont par
+parlongtempsfaizoufaitde	par long temps faiz ou fait de
+denozguerresetautremententournous	de noz guerres et autrement entour nous
+,enplusieurs	, en plusieurs
+plusieursetmaintesmanieres,voulans	plusieurs et maintes manieres , voulans
+pourcemisericordeestrepreferéeen	pour ce misericorde estre preferée en
+encestepartie	en ceste partie
+àrigueurdejustice,àiceulxGermain	à rigueur de justice , à iceulx Germain
+ChabotetLyonChabot,freres,supplians,	Chabot et Lyon Chabot , freres , supplians ,
+etàchascund’eulx	et à chascun d ’ eulx
+,avonsquicté,remisetpardonné	, avons quicté , remis et pardonné
+pardonné,etc.Sidonnonsen	pardonné , etc . Si donnons en
+enmandementparcesmesmes	en mandement par ces mesmes
+presentesauseneschaldePoictou	presentes au seneschal de Poictou
+etàtousnozautresjusticiers,	et à tous noz autres justiciers ,
+,etc.DonnéàChinon,ou.moisd’	, etc . Donné à Chinon , ou . mois d ’
+avrill’andegracemil	avril l ’ an de grace mil
+cccc.xlvi,etdenostreregne	cccc . xlvi , et de nostre regne
+le.xxiiiie	le . xxiiiie
+...Ainsisigné:Par	. . . Ainsi signé : Par
+Parleroy,lessires	Par le roy , les sires
+delaVarenne,de	de la Varenne , de
+dePrecignyet	de Precigny et
+deBlainville,messireRegnaultduDresnay	de Blainville , messire Regnault du Dresnay
+etautrespresens.DeLa	et autres presens . De La
+Loere.—Visa.Contentor	Loere .— Visa . Contentor
+.P.LePicart.	. P . Le Picart .

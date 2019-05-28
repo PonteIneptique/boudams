@@ -1,125 +1,130 @@
-Charles,etc.Savoirfaisonsà	Charles , etc . Savoir faisons à
-àtous,presenset	à tous , presens et
-avenir,nousavoir..receu	avenir , nous avoir . . receu
-l’umble	l ’ umble
-umblesupplicaciondeJulienFoucheron,	umble supplicacion de Julien Foucheron ,
-povrehommelaboureurdebras,chargédejeune	povre homme laboureur de bras , chargé de jeune
-femme..etde	femme . . et de
-petitenfant	petit enfant
-,del’aagedexxx.	, de l ’ aage de xxx .
-.ansouenviron,	. ans ou environ ,
-contenantque	contenant que
-comme..,septansaouenviron	comme . . , sept ans a ou environ
-,feufrereJehanChappeau,.outempsqu’	, feu frere Jehan Chappeau , . ou temps qu ’
-ilvivoitprieurdeBussiere,quiestoudit	il vivoit prieur de Bussiere , qui est ou dit
-païsdePoictou,lequelestoitrenommezou	païs de Poictou , lequel estoit renommez ou
-ditpaïsd.’estrebrigueux	dit païs d . ’ estre brigueux
-,rioteuxetravisseur	, rioteux et ravisseur
-defemmes,printetadmenade	de femmes , print et admena de
-faitetparforcelafemmedeJehanEffroy	fait et par force la femme de Jehan Effroy
-enycelui	en ycelui
-tempsensadicteprieuré	temps en sa dicte prieuré
-deBussiere	de Bussiere
-Bussiere,etilleclatintl’espacede	Bussiere , et illec la tint l ’ espace de
-dedeuxmoisouenviron,pendantlesquelz	de deux mois ou environ , pendant les quelz
-quelz..deuxmois	quelz . . deux mois
-leditJehanEffroy,maryd’icellefemme	le dit Jehan Effroy , mary d ’ icelle femme
-,requistetfistrequerir.auditprieur	, requist et fist requerir . au dit prieur
-qu’illui	qu ’ il lui
-luivoulsistrendresadictefemme,dontdecefaire	lui voulsist rendre sa dicte femme , dont de ce faire
-faireilenfureffusant.Pourlaquellechosele	faire il en fu reffusant . Pour la quelle chose le
-leditJehanEffroy,enycelui	le dit Jehan Effroy , en ycelui
-yceluitemps,	ycelui temps ,
-secomplaignydeceauserourgedesadicte	se complaigny de ce au serourge de sa dicte
-femmeetaus	femme et aus
-autresamiset.	autres amis et .
-parensd’icellefemme;lesquelzfurenttant	parens d ’ icelle femme ; lesquelz furent tant
-duravissementcommedelaretenuemoultcourroucez.	du ravissement comme de la retenue moult courroucez .
-DontpourceleditJehanEffroy	Dont pour ce le dit Jehan Effroy
-Effroy,leditserourgedesadicte	Effroy , le dit serourge de sa dicte
-dictefemme,accompaignezd’autrescompaignons,	dicte femme , accompaignez d ’ autres compaignons ,
-,en..laquelle	, en . . laquelle
-compaignieestoit	compaignie estoit
-leditsuppliant,	le dit suppliant ,
-alerentenyceluitempsenladicteprieurédudit	alerent en ycelui temps en la dicte prieuré dudit
-duditprieuretfirenttantqu’ilzle	dudit prieur et firent tant qu ’ ilz le
-letrouverent.AuquelprieurleditJehan	le trouverent . Auquel prieur le dit Jehan
-Effroydist.:«Tunem’	Effroy dist . :« Tu ne m ’
-asvoulurendremafemme,etl	as voulu rendre ma femme , et l
-’astenueettiensoultre	’ as tenue et tiens oultre
-mongréetvolunté;tufaismal	mon gré et volunté ; tu fais mal
-».Lequelprieurluirespondi	». Lequel prieur lui respondi
-moultorguilleusementqu’iln’.en	moult orguilleusement qu ’ il n ’ . en
-feroitqueàsavolunté	feroit que à sa volunté
-.Dontdeceledit	. Dont de ce le dit
-serourged’icellefemmeetaucuns	serourge d ’ icelle femme et aucuns
-aucunsautrescompaignonsd’icellecompaigniefurentindignezetcourroucez	aucuns autres compaignons d ’ icelle compaignie furent indignez et courroucez
-courroucezd’icelleresponse,etpourcebatirentet	courroucez d ’ icelle response , et pour ce batirent et
-navrerentdebastonsferrezyceluiprieur	navrerent de bastons ferrez ycelui prieur
+Charles,	Charles ,
+,etc.Savoir	, etc . Savoir
+Savoirfaisonsàtous,.presensetavenir,	Savoir faisons à tous , . presens et avenir ,
+nousavoirreceul’umblesupplicaciondeJulienFoucheron	nous avoir receu l ’ umble supplicacion de Julien Foucheron
+,povrehommelaboureurdebras,	, povre homme laboureur de bras ,
+chargédejeunefemme	chargé de jeune femme
+etdepetitenfant,del’aage	et de petit enfant , de l ’ aage
+dexxx.ansouenviron,contenantque	de xxx . ans ou environ , contenant que
+comme,sept	comme , sept
+ansaouenviron,feu	ans a ou environ , feu
+frereJehanChappeau,outempsqu’il	frere Jehan Chappeau , ou temps qu ’ il
+vivoitprieur	vivoit prieur
+deBussiere,.quiestouditpaïsde	de Bussiere , . qui est ou dit païs de
+Poictou,lequelestoit	Poictou , lequel estoit
+estoitrenommezouditpaïsd	estoit renommez ou dit païs d
+’estrebrigueux	’ estre brigueux
+brigueux,rioteuxetravisseurde	brigueux , rioteux et ravisseur de
+femmes,print	femmes , print
+etadmenade	et admena de
+faitetparforcelafemme	fait et par force la femme
+deJehanEffroyenyceluitemps	de Jehan Effroy en ycelui temps
+ensadicte	en sa dicte
+prieuréde..Bussiere,etilleclatint	prieuré de . . Bussiere , et illec la tint
+l’espacededeuxmoisou	l ’ espace de deux mois ou
+environ,pendantlesquelzdeuxmoisleditJehan	environ , pendant les quelz deux mois le dit Jehan
+Effroy,maryd’	Effroy , mary d ’
+icellefemme,requistetfistrequerir	icelle femme , requist et fist requerir
+requerir..auditprieurqu’	requerir . . au dit prieur qu ’
+’il..luivoulsist	’ il . . lui voulsist
+rendresadictefemme,dontdecefaire	rendre sa dicte femme , dont de ce faire
+faireilenfureffusant.	faire il en fu reffusant .
+PourlaquellechoseleditJehanEffroy,en	Pour la quelle chose le dit Jehan Effroy , en
+enyceluitemps,se	en ycelui temps , se
+complaignydeceauserourgedesadictefemme	complaigny de ce au serourge de sa dicte femme
+etausautresamisetparensd..’	et aus autres amis et parens d . . ’
+’icellefemme	’ icelle femme
+;lesquelzfurenttant	; lesquelz furent tant
+duravissementcommedelaretenuemoultcourroucez.Dont	du ravissement comme de la retenue moult courroucez . Dont
+pourceleditJehanEffroy..	pour ce le dit Jehan Effroy . .
+.,leditserourgedesadictefemme,	. , le dit serourge de sa dicte femme ,
+,accompaignezd’autrescompaignons,	, accompaignez d ’ autres compaignons ,
+enlaquellecompaignieestoitleditsuppliant,alerenten	en laquelle compaignie estoit le dit suppliant , alerent en
+yceluitempsenla	ycelui temps en la
+dicteprieuréduditprieuret..firenttantqu	dicte prieuré dudit prieur et . . firent tant qu
+qu’ilzletrouverent.	qu ’ ilz le trouverent .
+Auquelprieur	Auquel prieur
+leditJehanEffroydist:«Tu	le dit Jehan Effroy dist :« Tu
+nem’asvoulu	ne m ’ as voulu
+rendremafemme,etl	rendre ma femme , et l
+’astenueettiensoultremongré	’ as tenue et tiens oultre mon gré
+etvolunté;tufaismal».	et volunté ; tu fais mal ».
+Lequelprieurluirespondimoultorguilleusement	Lequel prieur lui respondi moult orguilleusement
+qu.’iln’	qu . ’ il n ’
+’enferoitqueàsavolunté.Dontdece	’ en feroit que à sa volunté . Dont de ce
+leditserourged’	le dit serourge d ’
+icellefemmeet	icelle femme et
+aucunsautrescompaignonsd’	aucuns autres compaignons d ’
+icellecompaigniefurentindignezetcourroucezd’	icelle compaignie furent indignez et courroucez d ’
+’icelleresponse,etpourcebatirentetnavrerentde	’ icelle response , et pour ce batirent et navrerent de
+bastonsferrezyceluiprieur	bastons ferrez ycelui prieur
 depluseurscops,dont	de pluseurs cops , dont
-dontmorts’en.ensuyasseztost	dont mort s ’ en . ensuy assez tost
-aprèsenlapersonneduditprieur;etdepuis.	après en la personne du dit prieur ; et depuis .
-legetterentenuneeaueestantenycelui	le getterent en une eaue estant en ycelui
-prieuré.Etàce	prieuré . Et à ce
-faitfaire,jasoitce	fait faire , jasoit ce
-quele.ditsuppliantfeusten	que le . dit suppliant feust en
-enleurdicte	en leur dicte
-compaignie,sinebationcquesleditsuppliantne	compaignie , si ne bati oncques le dit suppliant ne
-navraleditprieur	navra le dit prieur
-,neluifist	, ne lui fist
-aucunmal,mais	aucun mal , mais
-destourboitdetoutsonpouvoir	destourboit de tout son pouvoir
-pouvoirlemalàfaire,	pouvoir le mal à faire ,
-endisantàeulx	en disant à eulx
-:«PourDieu,beauxseigneurs,jevous..prie	:« Pour Dieu , beaux seigneurs , je vous . . prie
-quevousneletuezpas	que vous ne le tuez pas
-pas,ne.aussineluifaites	pas , ne . aussi ne lui faites
-aucunmal»,neoncquesnemistmain	aucun mal », ne oncques ne mist main
-àlegetteren	à le getter en
-la.dicteeaue	la . dicte eaue
-eaue;maiscenon	eaue ; mais ce non
-obstant,pourdoubtederigueurdejustice,n	obstant , pour doubte de rigueur de justice , n
+morts’enensuyasseztostaprès	mort s ’ en ensuy assez tost après
+aprèsenlapersonnedudit	après en la personne du dit
+prieur.;et	prieur . ; et
+etdepuislegetterentenuneeaueestant	et depuis le getterent en une eaue estant
+estantenyceluiprieuré	estant en ycelui prieuré
+prieuré.Età	prieuré . Et à
+àcefaitfaire,	à ce fait faire ,
+jasoitce	jasoit ce
+queleditsuppliantfeustenleur	que le dit suppliant feust en leur
+leur.dictecompaignie,si	leur . dicte compaignie , si
+nebationcquesledit	ne bati oncques le dit
+suppliantnenavraledit	suppliant ne navra le dit
+ditprieur,neluifistaucunmal,mais	dit prieur , ne lui fist aucun mal , mais
+destourboitdetoutsonpouvoir..	destourboit de tout son pouvoir . .
+lemalàfaire	le mal à faire
+,endisant	, en disant
+àeulx:«Pour.Dieu,beauxseigneurs,je	à eulx :« Pour . Dieu , beaux seigneurs , je
+vouspriequevousneletuezpas,	vous prie que vous ne le tuez pas ,
+,neaussi	, ne aussi
+neluifaitesaucunmal»,neoncques	ne lui faites aucun mal », ne oncques
+nemistmainàle	ne mist main à le
+getterenladicteeaue;maiscenonobstant	getter en la dicte eaue ; mais ce non obstant
+,pourdoubte.derigueurdejustice,	, pour doubte . de rigueur de justice ,
 n’oseseurementdemourer,converserne	n ’ ose seurement demourer , converser ne
-habiterouditpaïs,nejamaisn	habiter oudit païs , ne jamais n
-n’osera,separnous,	n ’ osera , se par nous ,
-,neluiestsurcefaicte	, ne lui est sur ce faicte
-etextenduenostregraceetmisericorde,	et extendue nostre grace et misericorde ,
-sicommeildit.Ennoushumblementsuppliantque	si comme il dit . En nous humblement suppliant que
-,commetouslesjoursdesavie	, comme tous les jours de sa vie
-ilaitestéetencoressoithommedebonnevie	il ait esté et encores soit homme de bonne vie
-vie,renomméeethonnesteconversacion	vie , renommée et honneste conversacion
-conversacion,sans..avoiresté	conversacion , sans . . avoir esté
-repris,attaintneconvaincud’aucun	repris , attaint ne convaincu d ’ aucun
-autrevilaincas,	autre vilain cas ,
-blasmeoureprouche,	blasme ou reprouche ,
-,etqu’ilasept.ansouenviron	, et qu ’ il a sept . ans ou environ
-environqueleditfaitadvint,etaussique	environ que le dit fait advint , et aussi que
-oncquesleditsuppliant	oncques le dit suppliant
-nebati,bleçanenavraledit	ne bati , bleça ne navra le dit
-ditprieur,ne	dit prieur , ne
-fistaucunmal,neaussine	fist aucun mal , ne aussi ne
-nemistoncques	ne mist oncques
-mainàle	main à le
-lejetterenladicteeaue,maisdestourboitle	le jetter en la dicte eaue , mais destourboit le
-lemalàfairede	le mal à faire de
-toutson	tout son
-povoir,commedit	povoir , comme dit
-ditestdessus,noussurceluivueillionsimpartirnostre	dit est dessus , nous sur ce lui vueillions impartir nostre
-dictegraceet	dicte grace et
-misericorde.Nous.,ceschosesconsiderées,etc	misericorde . Nous . , ces choses considerées , etc
-etc.,auditsuppliantoucasdessusdit	etc ., au dit suppliant ou cas dessus dit
-avonsquicté,..remiset	avons quicté , . . remis et
-etpardonné,etc.Si	et pardonné , etc . Si
-donnonsenmandementaubaillide	donnons en mandement au bailli de
-Touraineetdesressorset..ExempcionsdeTouraine	Touraine et des ressors et . . Exempcions de Touraine
-Touraine,d’Anjou	Touraine , d ’ Anjou
-,duMaineetdu	, du Maine et du
-duPoictou,	du Poictou ,
-,etàtousnozautresjusticiers,etc.	, et à tous noz autres justiciers , etc .
-Donnéà.Paris	Donné à . Paris
-Paris,oumoisdemars	Paris , ou mois de mars
-l’andegrace	l ’ an de grace
+habiterouditpaïs,nejamaisn’	habiter oudit païs , ne jamais n ’
+osera,separnous,neluiestsur	osera , se par nous , ne lui est sur
+cefaicteetextenduenostre	ce faicte et extendue nostre
+nostregraceetmisericorde,si	nostre grace et misericorde , si
+sicommeildit.Ennous	si comme il dit . En nous
+humblementsuppliant	humblement suppliant
+que,commetouslesjoursdesavieil	que , comme tous les jours de sa vie il
+aitesté.	ait esté .
+.etencoressoithommedebonnevie,renomméeet	. et encores soit homme de bonne vie , renommée et
+honnesteconversacion,sansavoiresté	honneste conversacion , sans avoir esté
+estérepris,attaintneconvaincud’	esté repris , attaint ne convaincu d ’
+’aucunautrevilaincas	’ aucun autre vilain cas
+,blasmeoureprouche	, blasme ou reprouche
+,etqu’il	, et qu ’ il
+aseptansouenvironqueleditfaitadvint	a sept ans ou environ que le dit fait advint
+,..etaussiqueoncquesleditsuppliant	, . . et aussi que oncques le dit suppliant
+nebati,bleça.	ne bati , bleça .
+nenavraledit	ne navra le dit
+prieur,..nefist	prieur , . . ne fist
+aucunmal,	aucun mal ,
+,neaussine	, ne aussi ne
+nemistoncquesmainàle.jetterenladicte	ne mist oncques main à le . jetter en la dicte
+eaue,maisdestourboit.lemal	eaue , mais destourboit . le mal
+malàfaire	mal à faire
+detoutsonpovoir,commeditestdessus,	de tout son povoir , comme dit est dessus ,
+noussurce	nous sur ce
+celuivueillionsimpartirnostredictegraceetmisericorde	ce lui vueillions impartir nostre dicte grace et misericorde
+.Nous,ceschosesconsiderées,etc	. Nous , ces choses considerées , etc
+etc.,au	etc ., au
+auditsuppliantoucas	au dit suppliant ou cas
+casdessusdit	cas dessus dit
+ditavonsquicté,	dit avons quicté ,
+,remisetpardonné,etc.Sidonnonsenmandement	, remis et pardonné , etc . Si donnons en mandement
+mandementaubaillide	mandement au bailli de
+TouraineetdesressorsetExempcionsdeTouraine,	Touraine et des ressors et Exempcions de Touraine ,
+,d’Anjou,duMaine	, d ’ Anjou , du Maine
+MaineetduPoictou	Maine et du Poictou
+,etàtous	, et à tous
+nozautresjusticiers	noz autres justiciers
+justiciers,etc.DonnéàParis,oumoisde	justiciers , etc . Donné à Paris , ou mois de
+demarsl’andegrace	de mars l ’ an de grace
 gracemilcccc.etcinq,etde	grace mil cccc . et cinq , et de
-nostreregnelexxvie.Parle	nostre regne le xxvie . Par le
-roy,àla	roy , à la
-relacionduconseil.Philippus.	relacion du conseil . Philippus .
+denostre..regnelexxvie.Parleroy	de nostre . . regne le xxvie . Par le roy
+,àlarelacionduconseil	, à la relacion du conseil
+conseil.Philippus.	conseil . Philippus .

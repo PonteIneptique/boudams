@@ -1,138 +1,126 @@
-Philippes,par	Philippes , par
-lagracedeDieu,roys..de	la grace de Dieu , roys . . de
-deFrance.	de France .
-Savoirfaisonsàtouspresensetavenirque	Savoir faisons à tous presens et avenir que
-nousavonsveuuneslettres..	nous avons veu unes lettres . .
-debonnememoireRichart,jadis	de bonne memoire Richart , jadis
-royd'Engleterre,sainesetentieres,non	roy d ' Engleterre , saines et entieres , non
-cancelléesouvicieusesenaucunepartied'icelles,	cancellées ou vicieuses en aucune partie d ' icelles ,
-,seelléesen.cirevert	, seellées en . cire vert
-etlas..de	et las . . de
-soie,desquelesla..teneurest	soie , des queles la . . teneur est
-esttele:Ricardus,Deigracia,rexAnglie,	est tele : Ricardus , Dei gracia , rex Anglie ,
-duxNormannieet	dux Normannie et
-Aquitanie,comes.Andegavie	Aquitanie , comes . Andegavie
-,archiepiscopis,episcopis,abbatibus,	, archiepiscopis , episcopis , abbatibus ,
-comitibus,	comitibus ,
-baronibus,	baronibus ,
-justiciariis,	justiciariis ,
-senescallis,prepositiset	senescallis , prepositis et
-etomnibusbaillivisetfidelibus	et omnibus baillivis et fidelibus
-suistociusterresue,salutem	suis tocius terre sue , salutem
-.Sciatisnosprosaluteanimenostre	. Sciatis nos pro salute anime nostre
-etanimarumantecessorumnostrorumetsuccessorum,	et animarum antecessorum nostrorum et successorum ,
-concessisseetpresenticartanostraconfirmasseabbacie	concessisse et presenti carta nostra confirmasse abbacie
-nostredeLoco-Dei	nostre de Loco - Dei
-Dei,quamfundavimusad	Dei , quam fundavimus ad
-adhonoremDeietbealeMarie,matris	ad honorem Dei et beale Marie , matris
+Philippes,parlagracedeDieu	Philippes , par la grace de Dieu
+Dieu,roysdeFrance.Savoirfaisonsàtous	Dieu , roys de France . Savoir faisons à tous
+presens.etavenirque	presens . et avenir que
+nousavonsveuunes	nous avons veu unes
+lettresdebonne	lettres de bonne
+memoireRichart,	memoire Richart ,
+jadisroy	jadis roy
+d'Engleterre,..	d ' Engleterre , . .
+.saineset	. saines et
+entieres,noncancelléesouvicieuses	entieres , non cancellées ou vicieuses
+vicieusesenaucunepartied'	vicieuses en aucune partie d '
+icelles,seelléesencirevert	icelles , seellées en cire vert
+vertetlasdesoie,des	vert et las de soie , des
+queleslateneuresttele:Ricardus,Deigracia	queles la teneur est tele : Ricardus , Dei gracia
+,rexAnglie,..duxNormannieetAquitanie,comes	, rex Anglie , . . dux Normannie et Aquitanie , comes
+Andegavie,archiepiscopis.,episcopis,abbatibus,	Andegavie , archiepiscopis . , episcopis , abbatibus ,
+,comitibus,baronibus,justiciariis,senescallis.,prepositiset	, comitibus , baronibus , justiciariis , senescallis . , prepositis et
+etomnibusbailliviset	et omnibus baillivis et
+fidelibussuistociusterresue	fidelibus suis tocius terre sue
+sue,salutem.Sciatisnosprosaluteanimenostre	sue , salutem . Sciatis nos pro salute anime nostre
+nostreetanimarumantecessorumnostrorumet	nostre et animarum antecessorum nostrorum et
+etsuccessorum,concessisse..etpresenti	et successorum , concessisse . . et presenti
+presenticartanostraconfirmasseabbacie..nostrede	presenti carta nostra confirmasse abbacie . . nostre de
+Loco-Dei,quamfundavimusad.honoremDeiet	Loco - Dei , quam fundavimus ad . honorem Dei et
+bealeMarie,matris	beale Marie , matris
 ejus,in	ejus , in
-innemoredeJart.	in nemore de Jart .
-,inliberam,purametperpetuamelemosinam,totum	, in liberam , puram et perpetuam elemosinam , totum
-predictumnemus	predictum nemus
-deJartetquicquidjuris.ineo	de Jart et quicquid juris . in eo
-eopossidebamus,et	eo possidebamus , et
-totamterramqueprius	totam terram que prius
-terraComitissenuncupabatur	terra Comitisse nuncupabatur
-nuncupabatur,cujus..unaparsestcirca	nuncupabatur , cujus . . una pars est circa
-prefatum.nemus,pars	prefatum . nemus , pars
-aliaapud	alia apud
-Cursoniumetpars.aliain	Cursonium et pars . alia in
-invillaquediciturlaChampionnerecumomnibushominibus	in villa que dicitur la Championnere cum omnibus hominibus
-hominibusineahabitantibus,etcumomnibuspertinenciis	hominibus in ea habitantibus , et cum omnibus pertinenciis
-etlibertatibuset	et libertatibus et
-liberisconsuetudinibus	liberis consuetudinibus
-suis.Dedimuseciamprefateabbacieterramquamhabebamusin	suis . Dedimus eciam prefate abbacie terram quam habebamus in
-interritorioRoche	in territorio Roche
-,quesimiliter	, que similiter
-similiterterraComitissevocabatur,cumomnibushominibus	similiter terra Comitisse vocabatur , cum omnibus hominibus
-etpertinenciissuis	et pertinenciis suis
-,etcumomnijure	, et cum omni jure
-quodinea	quod in ea
-eapossidebamus.Preterea.	ea possidebamus . Preterea .
-dedimusei	dedimus ei
-partem..forestequeestjuxtaRocham,	partem . . foreste que est juxta Rocham ,
-,ubipredictaabbacia..fuitprimofundata.Et	, ubi predicta abbacia . . fuit primo fundata . Et
-insuper,	insuper ,
-inpartenostranemoris..prenominati,concessimuseiusum	in parte nostra nemoris . . prenominati , concessimus ei usum
+nemorede	nemore de
+Jart,inliberam,puramet.	Jart , in liberam , puram et .
+perpetuamelemosinam,totumpredictumnemusdeJart	perpetuam elemosinam , totum predictum nemus de Jart
+etquicquidjuris	et quicquid juris
+ineopossidebamus,ettotamterramquepriusterra	in eo possidebamus , et totam terram que prius terra
+Comitissenuncupabatur,cujusuna	Comitisse nuncupabatur , cujus una
+unaparsestcircaprefatumnemus,parsaliaapudCursonium	una pars est circa prefatum nemus , pars alia apud Cursonium
+etparsaliainvillaquedicitur	et pars alia in villa que dicitur
+diciturlaChampionnerecumomnibushominibusin	dicitur la Championnere cum omnibus hominibus in
+eahabitantibus,etcum	ea habitantibus , et cum
+omnibuspertinenciis..etlibertatibusetliberis	omnibus pertinenciis . . et libertatibus et liberis
+consuetudinibussuis.Dedimuseciamprefateabbacie	consuetudinibus suis . Dedimus eciam prefate abbacie
+terramquamhabebamusinterritorio	terram quam habebamus in territorio
+territorioRoche,quesimiliterterra	territorio Roche , que similiter terra
+terraComitissevocabatur,cumomnibushominibusetpertinenciissuis	terra Comitisse vocabatur , cum omnibus hominibus et pertinenciis suis
+,etcumomni	, et cum omni
+omnijurequodin	omni jure quod in
+eapossidebamus.	ea possidebamus .
+PretereadedimuseipartemforestequeestjuxtaRocham,	Preterea dedimus ei partem foreste que est juxta Rocham ,
+ubipredictaabbaciafuitprimofundata	ubi predicta abbacia fuit primo fundata
+.Etinsuper	. Et insuper
+,inpartenostranemorisprenominati	, in parte nostra nemoris prenominati
+,concessimuseiusum	, concessimus ei usum
 lignorumadconstruendasdomosproprias	lignorum ad construendas domos proprias
-etadcomburendumetadalia	et ad comburendum et ad alia
-necessaria,	necessaria ,
-,.etadpasturagium	, . et ad pasturagium
-pasturagiumanimalibussuis	pasturagium animalibus suis
-suis.Contulimuseciamillicomplantumvinearum	suis . Contulimus eciam illi complantum vinearum
-,quodpossidebamusapudRocham,.et	, quod possidebamus apud Rocham , . et
-etannonamquamrecipiebamusinterraDanpiereetquasdamempciones	et annonam quam recipiebamus in terra Danpiere et quasdam empciones
-terrarum,	terrarum ,
-,quasibifecimusadopus	, quas ibi fecimus ad opus
-abbaciepredicte,terramscilicetdeTornequailereet	abbacie predicte , terram scilicet de Tornequailere et
-terramdelaBitosere..,etterram	terram de la Bitosere . . , et terram
-quamemimusdeGaudebaucum.bosco	quam emimus de Gaudebau cum . bosco
-,etcentum..vigintisalinas,quasemimusapud	, et centum . . viginti salinas , quas emimus apud
-Insulas...Dedimus	Insulas . . . Dedimus
-eciameitrigintaquinquesolidos..decensibusnostris	eciam ei triginta quinque solidos . . de censibus nostris
-,quospossidebamus	, quos possidebamus
-possidebamusinmaresiisdeLongavilla,ad	possidebamus in maresiis de Longavilla , ad
-faciendumcommutacionemcum	faciendum commutacionem cum
+etadcomburendumetadalia.necessaria,etad	et ad comburendum et ad alia . necessaria , et ad
+pasturagiumanimalibussuis.Contulimuseciamillicomplantumvinearum,	pasturagium animalibus suis . Contulimus eciam illi complantum vinearum ,
+,quodpossidebamusapudRocham,etannonam	, quod possidebamus apud Rocham , et annonam
+quamrecipiebamusinterraDanpiere	quam recipiebamus in terra Danpiere
+Danpiereetquasdamempcionesterrarum,	Danpiere et quasdam empciones terrarum ,
+quasibifecimusadopusabbaciepredicte,	quas ibi fecimus ad opus abbacie predicte ,
+terramscilicetdeTornequailereetterramdela	terram scilicet de Tornequailere et terram de la
+laBitosere,etterramquamemimus	la Bitosere , et terram quam emimus
+emimusdeGaudebaucumbosco,etcentumviginti	emimus de Gaudebau cum bosco , et centum viginti
+vigintisalinas,quasemimus	viginti salinas , quas emimus
+apudInsulas.Dedimuseciameitrigintaquinquesolidos	apud Insulas . Dedimus eciam ei triginta quinque solidos
+decensibusnostris..,quos	de censibus nostris . . , quos
+possidebamusinmaresiisde	possidebamus in maresiis de
+Longavilla,ad	Longavilla , ad
+adfaciendumcommutacionemcum	ad faciendum commutacionem cum
 monachismonasteriorumproquadamterra,quepredictedomuiadjacens	monachis monasteriorum pro quadam terra , que predicte domui adjacens
-erat.Dedimus..	erat . Dedimus . .
-eciampredicteabbaciepartemillam	eciam predicte abbacie partem illam
-piscaturequam	piscature quam
-accipiebamusin	accipiebamus in
-portuOlone,etpartem	portu Olone , et partem
-feodivinearum	feodi vinearum
-quodinOlonapossidebamus.Dedimuseciamillitotampartem	quod in Olona possidebamus . Dedimus eciam illi totam partem
-partemnostrampratorum,quaminterritorioTalemundi..habebamuset	partem nostram pratorum , quam in territorio Talemundi . . habebamus et
-maresiumnostrumapudMaraant,liberumabomnipasquerioet	maresium nostrum apud Maraant , liberum ab omni pasquerio et
-etabomnibusaliisconsuetudinibus	et ab omnibus aliis consuetudinibus
-.Quarevolumusetfirmiterprecimus	. Quare volumus et firmiter precimus
-preci[pi]lmusquod	preci [ pi ] lmus quod
-predictaabbaciaetcanonici	predicta abbacia et canonici
-canoniciineaDeo	canonici in ea Deo
-servientesomniapredictahabeantetteneant	servientes omnia predicta habeant et teneant
-inperpetuumliberèetquietè,plenariè	inperpetuum liberè et quietè , plenariè
-etintegrè,	et integrè ,
-pacificèethonorificè,cumomnibuspertinenciiset	pacificè et honorificè , cum omnibus pertinenciis et
-etlibertatibusetliberisconsuetudinibussuis.Concessimuseciamet	et libertatibus et liberis consuetudinibus suis . Concessimus eciam et
-etvolumusquodomneshominesejusdemabbacie	et volumus quod omnes homines ejusdem abbacie
-sint.liberiab	sint . liberi ab
-abomniexpedicioneangariaetseculariexactione	ab omni expedicione angaria et seculari exactione
-exactione.Pretereaconcessimusabbaciepredicte	exactione . Preterea concessimus abbacie predicte
-etcanonicisibidemDeoservientibus.quod,sialiquamterram	et canonicis ibidem Deo servientibus . quod , si aliquam terram
-velaliuddefeodonostroracionabiliter	vel aliud de feodo nostro racionabiliter
-acquisierint,siveempcione,.sivedonoalicujus,	acquisierint , sive empcione , . sive dono alicujus ,
-eandeminomnibuslibertatemin	eandem in omnibus libertatem in
+adjacenserat.Dedimuseciampredicteabbaciepartemillampiscaturequam	adjacens erat . Dedimus eciam predicte abbacie partem illam piscature quam
+accipiebamusin.portuOlone,et	accipiebamus in . portu Olone , et
+partemfeodivinearumquodin	partem feodi vinearum quod in
+Olonapossidebamus.	Olona possidebamus .
+Dedimuseciamillitotampartemnostram	Dedimus eciam illi totam partem nostram
+pratorum,quaminterritorioTalemundi	pratorum , quam in territorio Talemundi
+habebamusetmaresiumnostrum	habebamus et maresium nostrum
+apudMaraant,liberumabomnipasquerioetab	apud Maraant , liberum ab omni pasquerio et ab
+abomnibusaliisconsuetudinibus.Quarevolumusetfirmiter	ab omnibus aliis consuetudinibus . Quare volumus et firmiter
+precimuspreci[pi]lmus	precimus preci [ pi ] lmus
+lmusquodpredictaabbaciaetcanoniciineaDeoservientes	lmus quod predicta abbacia et canonici in ea Deo servientes
+servientesomniapredictahabeantetteneantinperpetuum	servientes omnia predicta habeant et teneant inperpetuum
+inperpetuumliberèetquietè,plenarièet	inperpetuum liberè et quietè , plenariè et
+integrè,	integrè ,
+pacificèethonorificè,cumomnibuspertinenciis	pacificè et honorificè , cum omnibus pertinenciis
+etlibertatibusetliberisconsuetudinibus	et libertatibus et liberis consuetudinibus
+consuetudinibussuis.Concessimuseciamet	consuetudinibus suis . Concessimus eciam et
+etvolumusquodomneshomines	et volumus quod omnes homines
+ejusdemabbaciesintliberiab	ejusdem abbacie sint liberi ab
+omniexpedicioneangariaetseculariexactione.Pretereaconcessimus	omni expedicione angaria et seculari exactione . Preterea concessimus
+abbaciepredicteetcanonicis	abbacie predicte et canonicis
+ibidemDeoservientibusquod,sialiquam	ibidem Deo servientibus quod , si aliquam
+terramvel.aliudde	terram vel . aliud de
+feodonostroracionabiliteracquisierint..,siveempcione,sivedono	feodo nostro racionabiliter acquisierint . . , sive empcione , sive dono
+alicujus,eandemin	alicujus , eandem in
+omnibuslibertatem	omnibus libertatem
 interrailla,siveinalioacquisita	in terra illa , sive in alio acquisita
-acquisita,habeant,quamin	acquisita , habeant , quam in
-ceteristerriseorum,quaseicontulimus	ceteris terris eorum , quas ei contulimus
-contulimus.Concessimuseciameisnealiquisofficialiumnostrorumpresumant	contulimus . Concessimus eciam eis ne aliquis officialium nostrorum presumant
-homineseorumplacitaresineapertaracionabiliquecausa.TestibusWillelmo	homines eorum placitare sine aperta racionabilique causa . Testibus Willelmo
-WillelmodeStagno,Gaufridode	Willelmo de Stagno , Gaufrido de
-Cella,senescalloPictavie,magistro	Cella , senescallo Pictavie , magistro
-magistroRadulpho..,	magistro Radulpho . . ,
-,capellano,magistroGarnerio,magistroRosilino,	, capellano , magistro Garnerio , magistro Rosilino ,
-GuillelmoBoscherio,BenedictoJudeo	Guillelmo Boscherio , Benedicto Judeo
-etpluribusaliis.Datumper	et pluribus aliis . Datum per
-permanumEustachiiElien,	per manum Eustachii Elien ,
-electi,tunc	electi , tunc
-tunc..agentisvicemcancellarii,quartadienovembris,apudTalemundum	tunc . . agentis vicem cancellarii , quarta die novembris , apud Talemundum
-Talemundumannooctavo	Talemundum anno octavo
-octavonostriregni.Etnous.toutesles	octavo nostri regni . Et nous . toutes les
-chosescidessuscontenues	choses ci dessus contenues
-etchascune..	et chascune . .
-.d'icellesloons,ratefionset	. d ' icelles loons , ratefions et
-approuvons,et	approuvons , et
-denostreauctorité	de nostre auctorité
-royalet	royal et
-decertainescienceconfermons.Etpourceque	de certaine science confermons . Et pour ce que
-cesoitfermechose	ce soit ferme chose
-choseetestableàtousjours	chose et estable à tous jours
-jours,nousavons	jours , nous avons
-faitmettreencespresentes	fait mettre en ces presentes
-lettresnostreseel.Saufnostredroit	lettres nostre seel . Sauf nostre droit
-etl'autruy.DonnéàChastiaunuefsusLoyre	et l ' autruy . Donné à Chastiaunuef sus Loyre
-,ledishuitimejourde	, le dis huitime jour de
-fevrier,l'	fevrier , l '
-andegracemiltroiscenstrenteetdeux...	an de grace mil trois cens trente et deux . . .
-Parleroy	Par le roy
-,àlarelaciondel'avouédeTherouanne.	, à la relacion de l ' avoué de Therouanne .
-..Verberie.	. . Verberie .
+,habeant,quam	, habeant , quam
+inceteristerriseorum,quasei	in ceteris terris eorum , quas ei
+eicontulimus.Concessimuseciameis	ei contulimus . Concessimus eciam eis
+eisnealiquisofficialiumnostrorumpresumanthomineseorumplacitare	eis ne aliquis officialium nostrorum presumant homines eorum placitare
+sineapertaracionabiliquecausa.TestibusWillelmode	sine aperta racionabilique causa . Testibus Willelmo de
+deStagno,GaufridodeCella,	de Stagno , Gaufrido de Cella ,
+senescalloPictavie,	senescallo Pictavie ,
+magistroRadulpho,capellano,magistro..Garnerio,magistroRosilino	magistro Radulpho , capellano , magistro . . Garnerio , magistro Rosilino
+,GuillelmoBoscherio,BenedictoJudeoet	, Guillelmo Boscherio , Benedicto Judeo et
+etpluribusaliis.	et pluribus aliis .
+DatumpermanumEustachii	Datum per manum Eustachii
+Elien,electi	Elien , electi
+,tuncagentisvicemcancellarii,quartadienovembris,	, tunc agentis vicem cancellarii , quarta die novembris ,
+apudTalemundumannooctavonostriregni.	apud Talemundum anno octavo nostri regni .
+Etnoustoutes	Et nous toutes
+leschosescidessus	les choses ci dessus
+contenuesetchascuned'icellesloons	contenues et chascune d ' icelles loons
+,ratefionsetapprouvons,etde	, ratefions et approuvons , et de
+nostreauctoritéroyaletdecertainescience	nostre auctorité royal et de certaine science
+scienceconfermons.Et..pour	science confermons . Et . . pour
+cequecesoit	ce que ce soit
+fermechoseet	ferme chose et
+estableà	estable à
+tousjours,nousavons	tous jours , nous avons
+avonsfaitmettreences.presenteslettresnostre	avons fait mettre en ces . presentes lettres nostre
+seel.Saufnostredroitetl'autruy.	seel . Sauf nostre droit et l ' autruy .
+DonnéàChastiaunuefsus	Donné à Chastiaunuef sus
+susLoyre,ledishuitimejourdefevrier.,	sus Loyre , le dis huitime jour de fevrier . ,
+,l'andegracemiltrois	, l ' an de grace mil trois
+trois.censtrenteetdeux.	trois . cens trente et deux .
+.Parleroy,àla	. Par le roy , à la
+relaciondel'avoué	relacion de l ' avoué
+avouédeTherouanne.Verberie.	avoué de Therouanne . Verberie .

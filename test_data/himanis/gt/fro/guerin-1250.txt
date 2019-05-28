@@ -1,140 +1,133 @@
-Charles,par.lagracede	Charles , par . la grace de
-DieuroydeFrance.Savoirfaisonsàtous,	Dieu roy de France . Savoir faisons à tous ,
-presensetavenir.,nousavoirreceuel'umble	presens et avenir . , nous avoir receue l ' umble
-supplicaciondePierreDaindre,povrejeunehomme,	supplicacion de Pierre Daindre , povre jeune homme ,
-chargédefemmeet	chargé de femme et
-etd'enfans,demourantetnatifde	et d ' enfans , demourant et natif de
-delaville	de la ville
-villedeThalemontennostrepaysdePoictou,	ville de Thalemont en nostre pays de Poictou ,
-contenantque,quatre	contenant que , quatre
-quatreansaouenviron,leditsuppliant	quatre ans a ou environ , ledit suppliant
-quiestmareschal,bonouvrierdesonmestier	qui est mareschal , bon ouvrier de son mestier
-,..futmariéavecques	, . . fut marié avecques
-unejeunefillede	une jeune fille de
-del'aagedexviii.	de l ' aage de xviii .
-ansouenviron	ans ou environ
-,.etaprès	, . et après
-leditmariage,s'	ledit mariage , s '
-enalademourerprèslamaisond	en ala demourer près la maison d
-'un..nomméNicolasMaynnart,aussimareschal.	' un . . nommé Nicolas Maynnart , aussi mareschal .
-LequelMaynnart,quiestoitfortsedicieux	Lequel Maynnart , qui estoit fort sedicieux
-etplainde	et plain de
-demauvaislengaige,s'estoitvantépar	de mauvais lengaige , s ' estoit vanté par
-parplusieursfoizetvantoit	par plusieurs foiz et vantoit
-publiquementetnotoirementenladictevilledeThalemontqu'	publiquement et notoirement en ladicte ville de Thalemont qu '
-ilavoithabité.et	il avoit habité . et
-congneucharnelementlafemmeduditsuppliantetenfaisoità	congneu charnelement la femme dudit suppliant et en faisoit à
-sonplaisirtoutesetquantesfoizquebonlui	son plaisir toutes et quantes foiz que bon lui
-luisembloit.Desquelleschosesledit	lui sembloit . Desquelles choses ledit
-leditsuppliantfutadvertietenfuttrès	ledit suppliant fut adverti et en fut très
-desplaisant..,doulantetcourrouciéàrencontreduditMaynnart	desplaisant . . , doulant et courroucié à rencontre dudit Maynnart
-Maynnart;lequel,ungcertainjourdu	Maynnart ; lequel , ung certain jour du
-moisd'aoustderrenierpassé,environl'	mois d ' aoust derrenier passé , environ l '
-'euredemydi,leditsupplianttrouvahorsladicteville	' eure de mydi , ledit suppliant trouva hors ladicte ville
-deThalemont,prèsungrusseau..	de Thalemont , près ung russeau . .
-.d'eaueappellé	. d ' eaue appellé
-GuyRobert,ainsiqueicelluisuppliant	Guy Robert , ainsi que icellui suppliant
-suppliantaloitquerirduferpoursonmestierà	suppliant aloit querir du fer pour son mestier à
-l'ostel	l ' ostel
-deEspinayeprèsd'	de Espinaye près d '
-ilec;et	ilec ; et
-demandaleditsuppliantauditMaynnarts	demanda ledit suppliant audit Maynnart s
-'ilvouloitmaintenir	' il vouloit maintenir
-lesdictesparollesdiffamatoires..qu'ilavoitainsidictes	les dictes parolles diffamatoires . . qu ' il avoit ainsi dictes
-de.sadicte	de . sadicte
-femme,en	femme , en
-enlesluirecitant	en les lui recitant
-commeillesavoitdictes.	comme il les avoit dictes .
-.LequelMaynnartluirespondit	. Lequel Maynnart lui respondit
-defeloncouraigequ'ilavoiteucompaigniecharnelle	de felon couraige qu ' il avoit eu compaignie charnelle
-desadictefemme..	de sadicte femme . .
-toutàson	tout à son
-apetit,etqueen	apetit , et que en
-cefaisantelleluiavoitprinsetosté	ce faisant elle lui avoit prins et osté
-l'argentdesabourse.Etce	l ' argent de sa bourse . Et ce
-veant,leditsupplianttoutesmeueteschauffédece	veant , ledit suppliant tout esmeu et eschauffé de ce
-cequeditest,se	ce que dit est , se
-seprintauditMaynnartetilec	se print audit Maynnart et ilec
-s'entredesmentirentetdirentplusieurs	s ' entredesmentirent et dirent plusieurs
-parollesinjurieuses,etenfinleditsuppliant.getaledit	parolles injurieuses , et enfin ledit suppliant . geta ledit
-Maynnartparterre,etincontinent	Maynnart par terre , et incontinent
-d'unbastondehoux	d ' un baston de houx
-qu'ilavoitlefrappasurlatestetellement	qu ' il avoit le frappa sur la teste tellement
-que,.ainsicommeil	que , . ainsi comme il
-secuidoitrelever,	se cuidoit relever ,
-,pourl'..	, pour l ' . .
-estourdissementduditcoupilrechey	estourdissement dudit coup il rechey
-àterre,	à terre ,
-,maiscenonobstantensoy	, mais ce non obstant en soy
-soycuidantrelever,continuoittousjourset	soy cuidant relever , continuoit tousjours et
+Charles,parlagrace	Charles , par la grace
+grace.deDieuroydeFrance.	grace . de Dieu roy de France .
+.Savoirfaisonsàtous,	. Savoir faisons à tous ,
+presensetavenir,nous	presens et avenir , nous
+nousavoirreceuel'umblesupplicaciondePierreDaindre,	nous avoir receue l ' umble supplicacion de Pierre Daindre ,
+povrejeunehomme,chargé	povre jeune homme , chargé
+defemmeetd'enfans	de femme et d ' enfans
+,demourantetnatifde	, demourant et natif de
+delavillede.	de la ville de .
+Thalemontennostrepays	Thalemont en nostre pays
+paysdePoictou,	pays de Poictou ,
+contenantque..,quatreansaouenviron,ledit	contenant que . . , quatre ans a ou environ , ledit
+suppliantquiestmareschal	suppliant qui est mareschal
+,bonouvrierdesonmestier,fut.	, bon ouvrier de son mestier , fut .
+mariéavecquesunejeune..filledel	marié avecques une jeune . . fille de l
+l'aagede	l ' aage de
+xviii.ans	xviii . ans
+ouenviron	ou environ
+,etaprèsleditmariage,	, et après ledit mariage ,
+s'enala	s ' en ala
+demourerprès	demourer près
+prèslamaisond'unnomméNicolasMaynnart,	près la maison d ' un nommé Nicolas Maynnart ,
+,aussimareschal.Lequel	, aussi mareschal . Lequel
+Maynnart,qui	Maynnart , qui
+estoitfortsedicieuxetplaindemauvaislengaige,	estoit fort sedicieux et plain de mauvais lengaige ,
+s'estoitvantéparplusieursfoizet	s ' estoit vanté par plusieurs foiz et
+vantoitpubliquementetnotoirementen.ladictevilledeThalemont	vantoit publiquement et notoirement en . ladicte ville de Thalemont
+Thalemontqu'ilavoithabité	Thalemont qu ' il avoit habité
+etcongneucharnelementlafemmedudit	et congneu charnelement la femme dudit
+suppliantetenfaisoitàsonplaisir	suppliant et en faisoit à son plaisir
+toutesetquantes..foiz	toutes et quantes . . foiz
+quebonluisembloit	que bon lui sembloit
+sembloit.Desquelleschosesleditsuppliant	sembloit . Desquelles choses ledit suppliant
+futadvertieten.	fut adverti et en .
+futtrèsdesplaisant,doulantetcourrouciéà	fut très desplaisant , doulant et courroucié à
+rencontreduditMaynnart;lequel,ungcertain	rencontre dudit Maynnart ; lequel , ung certain
+jourdumois.	jour du mois .
+.d'aoustderrenier.passé	. d ' aoust derrenier . passé
+,environl'euredemydi,ledit	, environ l ' eure de mydi , ledit
+leditsupplianttrouvahorsladictevilledeThalemont,prèsung	ledit suppliant trouva hors ladicte ville de Thalemont , près ung
+ungrusseaud.'eaueappelléGuyRobert,ainsique	ung russeau d . ' eaue appellé Guy Robert , ainsi que
+icelluisuppliantaloitquerir	icellui suppliant aloit querir
+duferpoursonmestierà	du fer pour son mestier à
+l'ostelde	l ' ostel de
+Espinayeprèsd'ilec;etdemandaledit	Espinaye près d ' ilec ; et demanda ledit
+suppliantauditMaynnarts'ilvouloit.maintenir	suppliant audit Maynnart s ' il vouloit . maintenir
+lesdictesparolles	les dictes parolles
+diffamatoiresqu'ilavoitainsidictes	diffamatoires qu ' il avoit ainsi dictes
+desadicte..femme,enles	de sadicte . . femme , en les
+luirecitantcommeillesavoit.dictes.	lui recitant comme il les avoit . dictes .
+LequelMaynnartluiresponditdefeloncouraigequ'	Lequel Maynnart lui respondit de felon couraige qu '
+ilavoiteucompaigniecharnelledesadictefemmetout	il avoit eu compaignie charnelle de sadicte femme tout
+àsonapetit,etqueen	à son apetit , et que en
+cefaisantelleluiavoitprinsetostél	ce faisant elle lui avoit prins et osté l
+'argentdesabourse.	' argent de sa bourse .
+Etceveant,ledit	Et ce veant , ledit
+supplianttoutesmeueteschauffédecequeditest	suppliant tout esmeu et eschauffé de ce que dit est
+est,seprint	est , se print
+auditMaynnart	audit Maynnart
+etilecs'entredesmentirent	et ilec s ' entredesmentirent
+etdirent..plusieursparollesinjurieuses	et dirent . . plusieurs parolles injurieuses
+injurieuses,etenfinleditsuppliantgetaledit	injurieuses , et enfin ledit suppliant geta ledit
+Maynnartparterre,etincontinentd	Maynnart par terre , et incontinent d
+'unbastondehouxqu'ilavoitle	' un baston de houx qu ' il avoit le
+frappasurlateste	frappa sur la teste
+tellementque,ainsi	tellement que , ainsi
+commeilsecuidoitrelever,pour	comme il se cuidoit relever , pour
+l'estourdissementduditcoupilrechey	l ' estourdissement dudit coup il rechey
+àterre.,maisce	à terre . , mais ce
+nonobstantensoycuidantrelever,continuoittousjours	non obstant en soy cuidant relever , continuoit tousjours
 etdisoiten	et disoit en
-reprouchantauditsuppliantles	reprouchant audit suppliant les
-parollesdessusescriptes	parolles dessus escriptes
-escriptes.desadicte	escriptes . de sadicte
-femme.Etadoncleditsuppliantquinepovoitplus	femme . Et adonc ledit suppliant qui ne povoit plus
-plusendurercequeluidisoitleditMaynnart,et	plus endurer ce que lui disoit ledit Maynnart , et
-aussipourdoubtequ	aussi pour doubte qu
-'ilneserelevast	' il ne se relevast
-relevastpourlegrever	relevast pour le grever
-greveretendommaigerdesapersonne,lefrappaplusieurscoups	grever et endommaiger de sa personne , le frappa plusieurs coups
-coupsduditbastondehoux	coups dudit baston de houx
-parlateste,bras,jambeset	par la teste , bras , jambes et
-autrespartiesducorps,tellement	autres parties du corps , tellement
-queicelluiMaynnartdemouraillec	que icellui Maynnart demoura illec
-tombéàterre	tombé à terre
-paraucuneespacedetemps,	par aucune espace de temps ,
-etaprèssereleva	et après se releva
-ets'enalaenladictevillede	et s ' en ala en ladicte ville de
-deThalemont,jusques.prèsdelamaison	de Thalemont , jusques . près de la maison
-d'un..nommé	d ' un . . nommé
-JaninBourdet,et	Janin Bourdet , et
-illeccheyderechiefàterre,	illec chey de rechief à terre ,
-etfutprisetemmené.parsafemme	et fut pris et emmené . par sa femme
-etautresensamaison,oùil	et autres en sa maison , où il
-ilfutconfessé	il fut confessé
-etreceuttoussessacremens,et	et receut tous ses sacremens , et
-tantostaprès,cejourmesmes.,aladevie	tantost après , ce jour mesmes . , ala de vie
-àtrespas.	à trespas .
-Al'.occasionduquelcas	A l ' . occasion duquel cas
-,leditsuppliant,doubtantrigueurdejustice	, ledit suppliant , doubtant rigueur de justice
-justice,semistenfranchiseàl'	justice , se mist en franchise à l '
-'abbayedudit	' abbaye dudit
-lieudeThalemontoùil..s	lieu de Thalemont où il . . s
-s'esttenuparaucuntemps,..	s ' est tenu par aucun temps , . .
-etaprèss.'estabsentéet	et après s . ' est absenté et
-n'oseroitconverserseurementaupays..	n ' oseroit converser seurement au pays . .
-,senostregraceetmisericordeneluiestoit	, se nostre grace et misericorde ne lui estoit
-estoitsurceimpartie;humblementrequerant	estoit sur ce impartie ; humblement requerant
-requerantque,attenducequedit.est	requerant que , attendu ce que dit . est
-etqueleditsuppliantaestémeu	et que ledit suppliant a esté meu
-dejustedouleurpar.lesparollesque	de juste douleur par . les parolles que
-queleditMaynnartluidisoitdesadictefemme,etque	que ledit Maynnart lui disoit de sadicte femme , et que
-cequ'il..afaitce	ce qu ' il . . a fait ce
-aestéparchaudecolleetesmeudesdictes	a esté par chaude colle et esmeu desdictes
+reprouchantauditsuppliantlesparollesdessusescriptes	reprouchant audit suppliant les parolles dessus escriptes
+desadictefemme.Et	de sadicte femme . Et
+adoncleditsuppliantquinepovoitplus.endurerce	adonc ledit suppliant qui ne povoit plus . endurer ce
+cequeluidisoitleditMaynnart	ce que lui disoit ledit Maynnart
+Maynnart,etaussipourdoubtequ'ilne	Maynnart , et aussi pour doubte qu ' il ne
+serelevastpourlegreveretendommaigerdesapersonne	se relevast pour le grever et endommaiger de sa personne
+personne,lefrappaplusieurscoupsduditbastondehoux..	personne , le frappa plusieurs coups dudit baston de houx . .
+parlateste,bras,jambes	par la teste , bras , jambes
+etautrespartiesducorps,	et autres parties du corps ,
+tellementqueicelluiMaynnart	tellement que icellui Maynnart
+Maynnartdemouraillectombéàterreparaucuneespacedetemps	Maynnart demoura illec tombé à terre par aucune espace de temps
+temps,etaprèsserelevaet.s'enala	temps , et après se releva et . s ' en ala
+enladictevilledeThalemont,jusquesprès	en ladicte ville de Thalemont , jusques près
+dela..maison	de la . . maison
+d'un.nommé	d ' un . nommé
+nomméJaninBourdet,etillecchey	nommé Janin Bourdet , et illec chey
+derechiefàterre,etfutprisetemmené	de rechief à terre , et fut pris et emmené
+parsafemmeetautresen	par sa femme et autres en
+samaison,oùil.	sa maison , où il .
+futconfesséetreceuttoussessacremens,	fut confessé et receut tous ses sacremens ,
+ettantostaprès,cejourmesmes,	et tantost après , ce jour mesmes ,
+aladevieàtrespas.Al'occasion	ala de vie à trespas . A l ' occasion
+duquelcas,leditsuppliant,doubtantrigueurdejustice	duquel cas , ledit suppliant , doubtant rigueur de justice
+,semistenfranchiseàl'abbaye	, se mist en franchise à l ' abbaye
+duditlieudeThalemontoùils'esttenu	dudit lieu de Thalemont où il s ' est tenu
+paraucuntemps,	par aucun temps ,
+,etaprèss'est	, et après s ' est
+estabsentéetn'oseroitconverserseurementaupays	est absenté et n ' oseroit converser seurement au pays
+,senostregraceetmisericordenelui	, se nostre grace et misericorde ne lui
+luiestoitsurceimpartie;humblementrequerantque,	lui estoit sur ce impartie ; humblement requerant que ,
+attenduce	attendu ce
+cequeditestetqueleditsupplianta	ce que dit est et que ledit suppliant a
+estémeudejustedouleurparles	esté meu de juste douleur par les
+parollesqueleditMaynnartluidisoitde	parolles que ledit Maynnart lui disoit de
+desadictefemme,etque	de sadicte femme , et que
+cequ'il	ce qu ' il
+afaitce	a fait ce
+ceaestéparchaudecolleetesmeudesdictesparolles	ce a esté par chaude colle et esmeu desdictes parolles
 parollesetreprouclies	parolles et reprouclies
-reproucliesàluifaictesparicelluiMaynnart,etque	reprouclies à lui faictes par icellui Maynnart , et que
-entoutesautreschosesledit	en toutes autres choses ledit
-leditsuppliantatousjoursestébienfaméetrenommé	ledit suppliant a tousjours esté bien famé et renommé
-renommé,etc.,	renommé , etc .,
-.,ilnousplaiseluiimpartiricelles.Pour	., il nous plaise lui impartir icelles . Pour
-ceest.il	ce est . il
-ilquenous,	il que nous ,
-,ceschosesconsiderées,	, ces choses considerées ,
-,voulansmisericordeprefereràrigueurdejustice,audit	, voulans misericorde preferer à rigueur de justice , audit
-suppliantavonsremis,quicté	suppliant avons remis , quicté
-etpardonné,etc.	et pardonné , etc .
-Sidonnonsenmandement,parcespresentes	Si donnons en mandement , par ces presentes
-,auxsenescliaulx	, aux senescliaulx
-senescliaulxdePoictouetdeXantongeetgouverneurdelaRochelle	senescliaulx de Poictou et de Xantonge et gouverneur de la Rochelle
-Rochelle..,etàtous	Rochelle . . , et à tous
-nozautresjusticiers,etc..Donné	noz autres justiciers , etc . . Donné
-à.Chinon	à . Chinon
-Chinon,oumoys	Chinon , ou moys
-d'aoustl'andegracemilcccc	d ' aoust l ' an de grace mil cccc
-.cinquanteneuf	. cinquante neuf
-,etdenostrerègnelexxxviime.Ainsi	, et de nostre règne le xxxviime . Ainsi
-signé:Par	signé : Par
-Parleroy	Par le roy
-,àlarelaciondu	, à la relacion du
-conseil.DePuigirault.—Visa.Contentor.	conseil . De Puigirault .— Visa . Contentor .
-J.DuBan.	J . Du Ban .
+à..luifaictesparicelluiMaynnart,et	à . . lui faictes par icellui Maynnart , et
+etqueen	et que en
+toutesautreschosesleditsupplianta..tousjours	toutes autres choses ledit suppliant a . . tousjours
+tousjoursestébienfaméetrenommé,etc.,	tousjours esté bien famé et renommé , etc .,
+.,ilnousplaiseluiimpartiricelles.Pource	., il nous plaise lui impartir icelles . Pour ce
+estilquenous,	est il que nous ,
+ceschosesconsiderées,voulansmisericorde	ces choses considerées , voulans misericorde
+prefereràrigueurdejustice,audit	preferer à rigueur de justice , audit
+suppliantavonsremis,quictéetpardonné,etc.	suppliant avons remis , quicté et pardonné , etc .
+Sidonnons.	Si donnons .
+enmandement,parcespresentes,auxsenescliaulx	en mandement , par ces presentes , aux senescliaulx
+dePoictouetdeXantongeetgouverneurdela	de Poictou et de Xantonge et gouverneur de la
+laRochelle,etàtousnozautres	la Rochelle , et à tous noz autres
+justiciers,etc.DonnéàChinon,oumoys	justiciers , etc . Donné à Chinon , ou moys
+d'aoustl'andegracemil	d ' aoust l ' an de grace mil
+cccc.cinquanteneuf	cccc . cinquante neuf
+,etde..nostre	, et de . . nostre
+règnelexxxviime.Ainsisigné:	règne le xxxviime . Ainsi signé :
+Parleroy..,	Par le roy . . ,
+,àlarelacionduconseil.	, à la relacion du conseil .
+DePuigirault	De Puigirault
+.—Visa.Contentor.J	.— Visa . Contentor . J
+J.DuBan	J . Du Ban

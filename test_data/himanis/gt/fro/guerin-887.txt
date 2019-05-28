@@ -1,266 +1,274 @@
-Charles,etc.Savoir	Charles , etc . Savoir
-faisonsàtous,presenset	faisons à tous , presens et
-avenir,nousavoirreceue	avenir , nous avoir receue
-receuel’umblesupplicaciondeJehanBastart,povrehomme	receue l ’ umble supplicacion de Jehan Bastart , povre homme
-,laboureurdebrazdupaïsdePoitou	, laboureur de braz du païs de Poitou
-,chargiéde	, chargié de
-femmeetd’enfens,contenantcomme,huit	femme et d ’ enfens , contenant comme , huit
-huitjoursavantlaMagdalenederrenierement	huit jours avant la Magdalene derrenierement
-derrenierementpasséeouenviron,de	derrenierement passée ou environ , de
-jours,unnomméJehanCibout	jours , un nommé Jehan Cibout
-,ditPetitJehan,acompaignédesafemme	, dit Petit Jehan , acompaigné de sa femme
+Charles,etc.Savoirfaisonsàtous,	Charles , etc . Savoir faisons à tous ,
+presensetavenir,..nousavoir	presens et avenir , . . nous avoir
+avoirreceuel’umblesupplicaciondeJehan	avoir receue l ’ umble supplicacion de Jehan
+Bastart,	Bastart ,
+povrehomme,laboureur.	povre homme , laboureur .
+debrazdu	de braz du
+païsdePoitou,chargiédefemmeetd	païs de Poitou , chargié de femme et d
+’enfens,contenantcomme,.	’ enfens , contenant comme , .
+huitjours..avant	huit jours . . avant
+laMagdalenederrenierementpasséeouenviron,de	la Magdalene derrenierement passée ou environ , de
+jours,unnommé	jours , un nommé
+JehanCibout,dit	Jehan Cibout , dit
+PetitJehan,acompaignédesa	Petit Jehan , acompaigné de sa
 femme,son	femme , son
-filzetd’	filz et d ’
-’unesiennefillastre,	’ une sienne fillastre ,
-fillede	fille de
-sadictefemme,.sefeussenttransportezen	sa dicte femme , . se feussent transportez en
-enunchamp	en un champ
-vulgaumentappellélechampde	vulgaument appellé le champ de
-laNouhe,assis	la Nouhe , assis
-assisauprèsduvillage	assis au près du village
-deMorennesen	de Morennes en
-Poitou,etaudedans	Poitou , et au dedans
-desfinsetmettesdufiefcommundenostreamé	des fins et mettes du fief commun de nostre amé
-etfealconseillerl’evesquedeLuçonen	et feal conseiller l ’ evesque de Luçon en
-Poitouetdenostreaméetfealchevalier	Poitou et de nostre amé et feal chevalier
-GuillaumedeVivonne,àcause	Guillaume de Vivonne , à cause
-desesenfans,appartenantauditexposanten	de ses enfans , appartenant au dit exposant en
-partie,etlàsefeussent	partie , et là se feussent
-assemblezpourcueilliretamasserleblé	assemblez pour cueillir et amasser le blé
-quiestoitaudedansd’icelluichamp	qui estoit au dedans d ’ icellui champ
-,combienqueicelluiblé	, combien que icellui blé
-nefeustmiepour	ne feust mie pour
-lorsattempséneassaissonnépourcueillirvalablement,etaussi..	lors attempsé ne assaissonné pour cueillir valablement , et aussi . .
-.qu’ilznel’	. qu ’ ilz ne l ’
-avoientaucunementlabouré	avoient aucunement labouré
-nefaitlabourer	ne fait labourer
-,mesmement	, mesmement
-qu’ilneleur..	qu ’ il ne leur . .
-duisoitneappartenoitenriens	duisoit ne appartenoit en riens
-.Etparleurforceetpuissancedesordonnée,et	. Et par leur force et puissance desordonnée , et
-contrele..gréet	contre le . . gré et
-voulentéduditexposantetd’unnomméColinChaumart	voulenté dudit exposant et d ’ un nommé Colin Chaumart
-,quiaussiadroit	, qui aussi a droit
-enycelluichamp,	en ycellui champ ,
-,eussentjàcueillicertainegrantpartie	, eussent jà cueilli certaine grant partie
-d’icelluibléetjàdesplacéd	d ’ icellui blé et jà desplacé d
-’icellui	’ icellui
-icelluichamppluseursgerbes,sans.	icellui champ pluseurs gerbes , sans .
-aucunementavoirappellélesseigneursfeodauxenquelterraige	aucunement avoir appellé les seigneurs feodaux en quel terraige
-ycelluichamp	ycellui champ
-champestassis,pourvenirveoir	champ est assis , pour venir veoir
-terragerleditblé,pourenprendre	terrager le dit blé , pour en prendre
-prendre,choisiretaceptertout	prendre , choisir et acepter tout
-teldroitqu’illeurenappartenoit	tel droit qu ’ il leur en appartenoit
-,quel’ensoultàappelleren	, que l ’ en soult à appeller en
-telcasparlacoustumedupaïs	tel cas par la coustume du païs
-dePoitouoùledit	de Poitou où le dit
-champestassiz.Etcependantd’	champ est assiz . Et ce pendant d ’
+filzetd’unesiennefillastre,fille	filz et d ’ une sienne fillastre , fille
+desadicte	de sa dicte
+femme,sefeussenttransportez	femme , se feussent transportez
+transportezenunchamp	transportez en un champ
+vulgaumentappellélechampdelaNouhe,	vulgaument appellé le champ de la Nouhe ,
+assisauprès.duvillagedeMorennes	assis au près . du village de Morennes
+enPoitou,etaudedansdesfinsetmettes	en Poitou , et au dedans des fins et mettes
+dufiefcommun	du fief commun
+denostreaméet	de nostre amé et
+etfealconseillerl’evesquedeLuçonenPoitouet.	et feal conseiller l ’ evesque de Luçon en Poitou et .
+denostreaméetfealchevalierGuillaumedeVivonne,.	de nostre amé et feal chevalier Guillaume de Vivonne , .
+..àcausede	. . à cause de
+sesenfans,appartenantau	ses enfans , appartenant au
+ditexposant..enpartie,et	dit exposant . . en partie , et
+làsefeussentassemblezpourcueilliret	là se feussent assemblez pour cueillir et
+amasserlebléquiestoitaudedansd	amasser le blé qui estoit au dedans d
+’icelluichamp,combienqueicellui	’ icellui champ , combien que icellui
+icelluiblénefeust	icellui blé ne feust
+miepourlorsattempséneassaissonné	mie pour lors attempsé ne assaissonné
+pourcueillirvalablement,etaussiqu	pour cueillir valablement , et aussi qu
+qu’ilzne	qu ’ ilz ne
+l’avoientaucunementlabouré	l ’ avoient aucunement labouré
+labourénefaitlabourer	labouré ne fait labourer
+labourer,mesmementqu’ilneleurduisoitne	labourer , mesmement qu ’ il ne leur duisoit ne
+appartenoitenriens	appartenoit en riens
+.Etparleurforceetpuissancedesordonnée,	. Et par leur force et puissance desordonnée ,
+,etcontrelegréetvoulentéduditexposantetd	, et contre le gré et voulenté dudit exposant et d
+d’unnomméColinChaumart,qui	d ’ un nommé Colin Chaumart , qui
+quiaussiadroitenycelluichamp	qui aussi a droit en ycellui champ
+,eussent..jàcueilli	, eussent . . jà cueilli
+certainegrantpartied’..icelluiblé	certaine grant partie d ’ . . icellui blé
+etjàdesplacéd	et jà desplacé d
+’icellui.champpluseursgerbes,sans	’ icellui . champ pluseurs gerbes , sans
+aucunementavoirappellé	aucunement avoir appellé
+lesseigneursfeodauxen	les seigneurs feodaux en
+quelterraigeycelluichampestassis,pour	quel terraige ycellui champ est assis , pour
+venirveoir.terragerledit	venir veoir . terrager le dit
+ditblé,pouren	dit blé , pour en
+prendre,choisiretaceptertouttel	prendre , choisir et acepter tout tel
+droitqu	droit qu
+’..illeurenappartenoit,	’ . . il leur en appartenoit ,
+quel’ensoult	que l ’ en soult
+soultàappellerentelcasparlacoustumedu	soult à appeller en tel cas par la coustume du
+dupaïsdePoitouoù..leditchampestassiz.	du païs de Poitou où . . le dit champ est assiz .
+Etcependantd’aventure	Et ce pendant d ’ aventure
 aventureunenomméeCatin	aventure une nommée Catin
-Chaumarde,femmeduditJehan	Chaumarde , femme du dit Jehan
-JehanBastart,ducostédelaquelleicelluichamp	Jehan Bastart , du costé de la quelle icellui champ
-delaNoueheestoit..,et	de la Nouehe estoit . . , et
-estdeson	est de son
-vrayheritage,etavoitaussimisgrantpeine	vray heritage , et avoit aussi mis grant peine
-peineàfairecultivericelluichamp	peine à faire cultiver icellui champ
-,feustlàseurvenueeteustveuiceulx	, feust là seurvenue et eust veu iceulx
-malfeteursfaisanslesexplois	malfeteurs faisans les explois
-dessusdizenleurditchampetqueonles	dessus diz en leur dit champ et que on les
-lesdespointoitdeleurditbléoùilavoient	les despointoit de leur dit blé où il avoient
-avoientmoultgrandementtraveilliéàlecultiver	avoient moult grandement traveillié à le cultiver
-etlabourer,commeditest,	et labourer , comme dit est ,
-sienfumoult	si en fu moult
-dolente.Etcommecourrocie,pouraucunementresister	dolente . Et comme courrocie , pour aucunement resister
-resisteràlafoleemprinsed	resister à la fole emprinse d
-’.iceulx	’ . iceulx
-iceulxmalfeteurs,..tandansafinqu	iceulx malfeteurs , . . tandans afin qu
-’ilznefeussentaucunementdespointezde	’ ilz ne feussent aucunement despointez de
-leurdit	leur dit
-blé,sis..’enaffouymoulthativement	blé , si s . . ’ en affouy moult hativement
-encertains.champsquisontassisentre	en certains . champs qui sont assis entre
-Morenneset.laGouppilliere,où	Morennes et . la Gouppilliere , où
+Chaumarde,	Chaumarde ,
+femmeduditJehanBastart	femme du dit Jehan Bastart
+,ducostédelaquelleicelluichampdela	, du costé de la quelle icellui champ de la
+Noueheestoit,etestdesonvrayheritage,	Nouehe estoit , et est de son vray heritage ,
+,etavoitaussimis.grantpeine	, et avoit aussi mis . grant peine
+peineà.fairecultivericelluichamp,feust	peine à . faire cultiver icellui champ , feust
+làseurvenue	là seurvenue
+eteustveu	et eust veu
+veuiceulxmalfeteursfaisanslesexploisdessusdizenleur	veu iceulx malfeteurs faisans les explois dessus diz en leur
+ditchampet..que	dit champ et . . que
+onlesdespointoitdeleurditbléoùil	on les despointoit de leur dit blé où il
+avoientmoultgrandement	avoient moult grandement
+traveilliéàlecultiveretlabourer	traveillié à le cultiver et labourer
+,commeditest,sien	, comme dit est , si en
+fumoult.dolente	fu moult . dolente
+dolente.Etcommecourrocie,pouraucunementresisteràla	dolente . Et comme courrocie , pour aucunement resister à la
+foleemprinsed’iceulxmalfeteurs..,	fole emprinse d ’ iceulx malfeteurs . . ,
+,tandansafinqu’ilz	, tandans afin qu ’ ilz
+nefeussentaucunementdespointez	ne feussent aucunement despointez
+despointezdeleurditblé,si	despointez de leur dit blé , si
+sis’enaffouymoult	si s ’ en affouy moult
+hativementencertainschamps	hativement en certains champs
+quisontassisentreMorenneset	qui sont assis entre Morennes et
+etlaGouppilliere,	et la Gouppilliere ,
+,oùillec	, où illec
 illecelletrouva	illec elle trouva
-trouvaetaprehandalesdizexposant..etColin	trouva et aprehanda les diz exposant . . et Colin
-,ausquelzelledistcesparollesou	, ausquelz elle dist ces parolles ou
-semblablesensubstance	semblables en substance
-:«Vousseiezlesblezpouruncostéet	:« Vous seiez les blez pour un costé et
-ilzseyent	ilz seyent
-lesblezpourunautrecosté	les blez pour un autre costé
-costé»,enleurdisantoultrequePetit	costé », en leur disant oultre que Petit
-PetitJehanetsatanteavoientsaiéetcueillylefroment	Petit Jehan et sa tante avoient saié et cueilly le froment
-deleurchampdelaNouheetl’en	de leur champ de la Nouhe et l ’ en
-enemportoientgerbeavant,autreaprès.Lesquelles	en emportoient gerbe avant , autre après . Lesquelles
-Lesquelleschosesainsiàluietau	Lesquelles choses ainsi à lui et au
-ditColinChaumartrapportéesetracontéespar	dit Colin Chaumart rapportées et racontées par
-ladictefemme,	la dicte femme ,
-sifuicelluiexposantetChaumart	si fu icellui exposant et Chaumart
-Chaumartmoultdoulentementcourroucez	Chaumart moult doulentement courroucez
-courroucezdontonles..despointoitainsideleurdicte	courroucez dont on les . . despointoit ainsi de leur dicte
-terreetcueillettedeblefz,dontilzdevoient	terre et cueillette de blefz , dont ilz devoient
-devoient..vivre,leursfemmesetenfans,	devoient . . vivre , leurs femmes et enfans ,
-lecoursdel’an,et	le cours de l ’ an , et
-commetrèsardamment..courrociezet	comme très ardamment . . courrociez et
+etaprehandalesdizexposantetColin	et aprehanda les diz exposant et Colin
+,..ausquelz	, . . ausquelz
+ausquelzelledistcesparolles	ausquelz elle dist ces parolles
+ousemblablesen	ou semblables en
+substance:«	substance :«
+:«Vousseiezlesblezpourun	:« Vous seiez les blez pour un
+uncostéetilzseyentles.blez	un costé et ilz seyent les . blez
+blezpourun..autrecosté	blez pour un . . autre costé
+»,enleurdisantoultreque	», en leur disant oultre que
+PetitJehanet.	Petit Jehan et .
+satante..avoientsaiéet	sa tante . . avoient saié et
+cueillylefromentde.leur	cueilly le froment de . leur
+champde	champ de
+laNouheetl’en	la Nouhe et l ’ en
+enemportoientgerbe	en emportoient gerbe
+gerbeavant,autreaprès.Lesquelleschosesainsià	gerbe avant , autre après . Lesquelles choses ainsi à
+luietauditColinChaumartrapportées	lui et au dit Colin Chaumart rapportées
+etracontéesparla	et racontées par la
+dictefemme,sifuicelluiexposantetChaumartmoult	dicte femme , si fu icellui exposant et Chaumart moult
+doulentementcourroucezdont	doulentement courroucez dont
+onlesdespointoit	on les despointoit
+ainsideleurdicteterreetcueillettede	ainsi de leur dicte terre et cueillette de
+blefz,dont	blefz , dont
+dontilzdevoientvivre,leurs.femmeset	dont ilz devoient vivre , leurs . femmes et
+enfans,lecoursdel’an,et	enfans , le cours de l ’ an , et
+commetrèsardamment..courrociez	comme très ardamment . . courrociez
 etmarriz,setransportaicelluiexposant	et marriz , se transporta icellui exposant
 etColin	et Colin
-etfouyrentmoulthativementauditchamp,où	et fouyrent moult hativement audit champ , où
-oùlàilztrouverentetapprehenderentlesdizJehanCibout	où là ilz trouverent et apprehenderent les diz Jehan Cibout
-,safemme,leur	, sa femme , leur
-ditfilzet	dit filz et
-fille,ou	fille , ou
-quesoit.la	que soit . la
-filled’icellefemme,	fille d ’ icelle femme ,
-ettrouverent..en	et trouverent . . en
-enconclusionquetoutlebléestoitseyéetcueilly,	en conclusion que tout le blé estoit seyé et cueilly ,
-etl’enemportoientetdesplaçoientjà	et l ’ en emportoient et desplaçoient jà
-jàd’icellui	jà d ’ icellui
-champ,sansaucunementavoirpaiéle	champ , sans aucunement avoir paié le
-terraged’	terrage d ’
-icelluibléquisedevoitpaierausdiz	icellui blé qui se devoit paier aus diz
-seigneursfeodaulx,quel’endevoitavoir	seigneurs feodaulx , que l ’ en devoit avoir
-avoirappellezàcestefin	avoir appellez à ceste fin
-,commeditest,pour	, comme dit est , pour
-icelluichoisiretaccepterpreablement(sic),donticeulx	icellui choisir et accepter preablement ( sic ), dont iceulx
-malfeteursn’avoientriens..	malfeteurs n ’ avoient riens . .
-.fait.Etsitoust	. fait . Et si toust
-toust.queicelluiColinfuarrivéauditchamp,	toust . que icellui Colin fu arrivé au dit champ ,
-,ilcommançaà	, il commança à
-parleraudit	parler au dit
-Cibout,enluidisantcesparollesou	Cibout , en lui disant ces parolles ou
-semblablesen	semblables en
-substance:«Pourquoyestresimauvais	substance :« Pour quoy estre si mauvais
-quetuenporteleblédemonfrereet	que tu en porte le blé de mon frere et
-demoy?Tunousafaizmoultd’	de moy ? Tu nous a faiz moult d ’
-autresdommaigesailleurs».LorsicelluiCibout	autres dommaiges ailleurs ». Lors icellui Cibout
-Ciboutluirespondimoult	Cibout lui respondi moult
-haultementetdespiteusementqu.	haultement et despiteusement qu .
-’ilenavoitemporté,encoresen	’ il en avoit emporté , encores en
-en.porteroitledemourant,	en . porteroit le demourant ,
-etenperseveranttousjoursensonmauvaiset	et en perseverant tousjours en son mauvais et
-dampnablepropos,sereprentencoresàemporter	dampnable propos , se reprent encores à emporter
-etenfaireemportericellesgerbes,..	et en faire emporter icelles gerbes , . .
-.commeilavoitfaitparavant	. comme il avoit fait paravant
-.Ledit.Colin	. Le dit . Colin
-veantlaforce..queicelluiCibout	veant la force . . que icellui Cibout
-etlesautres	et les autres
-dessusnommezleuravoientjà	dessus nommez leur avoient jà
-jàfaitets’efforçoientdeplusavant	jà fait et s ’ efforçoient de plus avant
-lefaire,	le faire ,
-,sifupluscourrociéetplusardammentqueparavant	, si fu plus courrocié et plus ardamment que par avant
-avant,etestvrayqueenlachaleuroù	avant , et est vray que en la chaleur où
-icelluiColinestoitleva	icellui Colin estoit leva
-unbatonetenfrappaicelluiCiboutparmiles	un baton et en frappa icellui Cibout par mi les
-leschevillesetcheutauxjambesd’	les chevilles et cheut aux jambes d ’
-icelluiColin.EtpuisserelevaicelluiCiboutet	icellui Colin . Et puis se releva icellui Cibout et
-ettiraunsiencouteauqu’il	et tira un sien couteau qu ’ il
-avoittoutnuet.s	avoit tout nu et . s
-s’encouruparmilechamp	s ’ en couru parmi le champ
-etencourant	et en courant
-courantsirencontracontrele	courant si rencontra contre le
-leditsuppliantquiavoitaussiunbastonenlamain	le dit suppliant qui avoit aussi un baston en la main
-main,eticelluiCibouttenoittousjoursaussilecousteaunu	main , et icellui Cibout tenoit tousjours aussi le cousteau nu
-nuenlamainets’efforçad	nu en la main et s ’ efforça d
-d’enfrapper	d ’ en frapper
+etfouyrentmoult..hativement	et fouyrent moult . . hativement
+hativementauditchamp,	hativement audit champ ,
+oùlàilztrouverentet	où là ilz trouverent et
+etapprehenderentlesdizJehanCibout,safemme,leur	et apprehenderent les diz Jehan Cibout , sa femme , leur
+leurditfilzetfille	leur dit filz et fille
+fille,ouquesoit	fille , ou que soit
+soitlafilled’icellefemme,ettrouverent	soit la fille d ’ icelle femme , et trouverent
+enconclusionquetout	en conclusion que tout
+lebléestoitseyéetcueilly,etl	le blé estoit seyé et cueilly , et l
+’enemportoient	’ en emportoient
+etdesplaçoient..jà	et desplaçoient . . jà
+d’icelluichamp	d ’ icellui champ
+,sansaucunementavoirpaiéleterraged’	, sans aucunement avoir paié le terrage d ’
+icelluiblé.	icellui blé .
+quisedevoit	qui se devoit
+devoitpaieraus	devoit paier aus
+ausdizseigneursfeodaulx,quel’endevoitavoir	aus diz seigneurs feodaulx , que l ’ en devoit avoir
+appellezàceste	appellez à ceste
+fin,commeditest,pouricellui	fin , comme dit est , pour icellui
+icelluichoisiretaccepterpreablement(sic),dont..iceulx	icellui choisir et accepter preablement ( sic ), dont . . iceulx
+malfeteursn’	malfeteurs n ’
+’avoientriensfait.EtsitoustqueicelluiColin	’ avoient riens fait . Et si toust que icellui Colin
+fuarrivéau	fu arrivé au
+ditchamp,il.commança	dit champ , il . commança
+àparlerauditCibout.,	à parler au dit Cibout . ,
+,enluidisantcesparollesousemblablesensubstance	, en lui disant ces parolles ou semblables en substance
+:«Pourquoy	:« Pour quoy
+estresimauvaisquetu	estre si mauvais que tu
+enporteleblédemonfrereetdemoy	en porte le blé de mon frere et de moy
+?Tu.nous	? Tu . nous
+afaizmoult..	a faiz moult . .
+d’autresdommaigesailleurs».Lors	d ’ autres dommaiges ailleurs ». Lors
+icelluiCiboutluirespondimoulthaultement	icellui Cibout lui respondi moult haultement
+etdespiteusementqu’ilenavoit..emporté,encores	et despiteusement qu ’ il en avoit . . emporté , encores
+enporteroitledemourant,et	en porteroit le demourant , et
+enperseveranttousjoursensonmauvais.etdampnable	en perseverant tousjours en son mauvais . et dampnable
+propos,sereprentencoresà	propos , se reprent encores à
+emporteretenfaireemportericellesgerbes,comme	emporter et en faire emporter icelles gerbes , comme
+ilavoitfaitparavant.	il avoit fait paravant .
+.LeditColinveantlaforcequeicelluiCibout..	. Le dit Colin veant la force que icellui Cibout . .
+etlesautresdessusnommezleuravoientjàfait	et les autres dessus nommez leur avoient jà fait
+faitets’efforçoientdeplusavantlefaire	fait et s ’ efforçoient de plus avant le faire
+,sifupluscourrocié	, si fu plus courrocié
+etplusardammentqueparavant,etest	et plus ardamment que par avant , et est
+vrayqueenla	vray que en la
+chaleuroùicelluiColinestoitlevaunbatonet	chaleur où icellui Colin estoit leva un baton et
+etenfrappaicelluiCiboutparmileschevilleset	et en frappa icellui Cibout par mi les chevilles et
+cheutauxjambesd..	cheut aux jambes d . .
+’icelluiColin.Etpuissereleva	’ icellui Colin . Et puis se releva
+icelluiCiboutettiraunsiencouteauqu	icellui Cibout et tira un sien couteau qu
+’ilavoittoutnuets	’ il avoit tout nu et s
+’encouruparmilechampetencourantsi	’ en couru parmi le champ et en courant si
+sirencontracontrele	si rencontra contre le
+ditsuppliantqui	dit suppliant qui
+avoitaussiunbastonenlamain..	avoit aussi un baston en la main . .
+,eticelluiCibouttenoittousjoursaussilecousteaunu	, et icellui Cibout tenoit tousjours aussi le cousteau nu
+enlamainets’	en la main et s ’
+’efforçad’.en	’ efforça d ’ . en
 frappericelluisuppliant.Etincontinant	frapper icellui suppliant . Et incontinant
-incontinanticelluisuppliant,pourresisteràicelluiCibout	incontinant icellui suppliant , pour resister à icellui Cibout
-qu’iln’	qu ’ il n ’
-envillenastdudit	en villenast du dit
-ditcousteau..,	dit cousteau . . ,
-seprintaucorsdu	se print au cors du
-ditCibout	dit Cibout
-Cibout,lafemmeduquelCybout	Cibout , la femme duquel Cybout
-Cyboutceveant,quitenoitlorsune	Cybout ce veant , qui tenoit lors une
-faucilleensamain,vintcontreleditsuppliant..	faucille en sa main , vint contre le dit suppliant . .
-.etluideustcreverlesyeulxd	. et lui deust crever les yeulx d
-d’icellefaucille...Etsemblablementaussise	d ’ icelle faucille . . . Et semblablement aussi se
-prindrentleursenfansaudit	prindrent leurs enfans au dit
-ditsuppliantet	dit suppliant et
+incontinanticelluisuppliant,pourresisteràicelluiCiboutqu	incontinant icellui suppliant , pour resister à icellui Cibout qu
+’iln’envillenastdu	’ il n ’ en villenast du
+ditcousteau,se	dit cousteau , se
+printaucorsduditCibout	print au cors du dit Cibout
+,.lafemmeduquel	, . la femme duquel
+duquelCyboutceveant,quitenoitlorsune	duquel Cybout ce veant , qui tenoit lors une
+faucilleen	faucille en
+samain,	sa main ,
+vintcontre.leditsuppliantet	vint contre . le dit suppliant et
+luideust	lui deust
+creverlesyeulxd	crever les yeulx d
+’icellefaucille.Etsemblablementaussiseprindrentleurs	’ icelle faucille . Et semblablement aussi se prindrent leurs
+enfansaudit..suppliant	enfans au dit . . suppliant
 etlechargerenttantqu’ilzleruerent	et le chargerent tant qu ’ ilz le ruerent
-dessoubzeuxauplatdelaterre	dessoubz eux au plat de la terre
-pourlecuiderenvillenirdesoncorps	pour le cuider envillenir de son corps
-.LequelColin,veantqueiceulxCibout	. Lequel Colin , veant que iceulx Cibout
-etsafemmeetleurmainieavoientjàaterré	et sa femme et leur mainie avoient jà aterré
-leditsuppliant	le dit suppliant
-suppliant,sonfrere,pourlecuidier	suppliant , son frere , pour le cuidier
-envillenirdesoncorps,sienfuplusdolentement	envillenir de son corps , si en fu plus dolentement
-dolentementcourrociezque	dolentement courrociez que
-paravantetdel	par avant et de l
-’ardantchaleurde	’ ardant chaleur de
-courrouxqu’ilavoit	courroux qu ’ il avoit
-lors,secouru	lors , secouru
-telementau	telement au
-au..ditsuppliant	au . . dit suppliant
-qu’ilserelevadedessoubzlesdiz	qu ’ il se releva de dessoubz les diz
-Cibout,safemmeetsamainie,etest	Cibout , sa femme et sa mainie , et est
-estvrayque	est vray que
-queausecoursqueicelluiColinfistauditsuppliant,	que au secours que icellui Colin fist au dit suppliant ,
-sonfrere,	son frere ,
-,icelluiCiboutcheutàterred	, icellui Cibout cheut à terre d
-’uncopqueicelluiColinluibailla.	’ un cop que icellui Colin lui bailla .
-Etaprèsceleditsuppliant	Et après ce le dit suppliant
-serelevaetpuis	se releva et puis
-refrappaleditCiboutparmilesjambesau	refrappa le dit Cibout parmi les jambes au
-dedans.dugenoilet	dedans . du genoil et
-etailleurs,et..atantlelaisserentenpaix	et ailleurs , et . . atant le laisserent en paix
-paix.Etpuisserelevaicellui	paix . Et puis se releva icellui
-Ciboutets’en	Cibout et s ’ en
-enalad’	en ala d ’
-ilecensonhostel,oùenvironsept	ilec en son hostel , où environ sept
-septjoursaprès,ilaladevieà	sept jours après , il ala de vie à
-trespassement.Pourlequelcasetaussipour	trespassement . Pour lequel cas et aussi pour
-cequeicelluisuppliant	ce que icellui suppliant
-etColin.avoientparavant	et Colin . avoient par avant
-avantasseuréleditCiboutenl’	avant asseuré le dit Cibout en l ’
-’assisede.PalluyaenPoitou,s’est	’ assise de . Palluya en Poitou , s ’ est
-absentédupaïs,ou.	absenté du païs , ou .
-.quelpourdoubtederigueurdejusticeiln	. quel pour doubte de rigueur de justice il n
-’osaoncquespuisneoseroitretournerne	’ osa oncques puis ne oseroit retourner ne
-converser,etparce	converser , et par ce
-estenavantured’estredutout	est en avanture d ’ estre du tout
-àtousjoursmais	à tousjours mais
-desertetsa	desert et sa
-sadictefemme	sa dicte femme
-etenfanspouvresetmandiens.,se	et enfans pouvres et mandiens . , se
-parnousneluiestsurce	par nous ne lui est sur ce
-impartienostregrace.Ennoushumblementsuppliantque,	impartie nostre grace . En nous humblement suppliant que ,
-commeicellebapteuren’aitpasesté	comme icelle bapteure n ’ ait pas esté
-faicted’aguetapenséou	faicte d ’ aguet apensé ou
-cogitacionmauvaiseprecedent,mais	cogitacion mauvaise precedent , mais
-maisparacident	mais par acident
-etchaleuràluisoubdainement	et chaleur à lui soubdainement
-avenuz,dontilaestéetencores	avenuz , dont il a esté et encores
-esttrèsdolentementcourrociezet	est très dolentement courrociez et
-marriz,etnecuidoitmietantnavrericellui	marriz , et ne cuidoit mie tant navrer icellui
-Ciboust,	Ciboust ,
-etaussi..que	et aussi . . que
-entouzautrescasil..aesté	en touz autres cas il . . a esté
-estéetencoresesthomme	esté et encores est homme
-debonnevie,renomméeethonnesteconvercacion,	de bonne vie , renommée et honneste convercacion ,
-sansoncquesmaisavoirestéattains,	sans oncques mais avoir esté attains ,
-reprinsneconvaincud’	reprins ne convaincu d ’
+dessoubzeuxau	dessoubz eux au
+auplatdelaterrepourlecuiderenvillenir	au plat de la terre pour le cuider envillenir
+envillenirdesoncorps.LequelColin,veantqueiceulx	envillenir de son corps . Lequel Colin , veant que iceulx
+Ciboutet..	Cibout et . .
+.safemmeetleurmainieavoient	. sa femme et leur mainie avoient
+avoientjàaterréleditsuppliant,son	avoient jà aterré le dit suppliant , son
+sonfrere,pourlecuidier	son frere , pour le cuidier
+cuidierenvillenirdesoncorps,	cuidier envillenir de son corps ,
+sien..fuplusdolentementcourrociez	si en . . fu plus dolentement courrociez
+queparavantetdel’ardantchaleur	que par avant et de l ’ ardant chaleur
+decourrouxqu’ilavoit	de courroux qu ’ il avoit
+lors,secourutelementauditsuppliant	lors , secouru telement au dit suppliant
+qu’il.se	qu ’ il . se
+relevade.dessoubz	releva de . dessoubz
+dessoubzlesdizCibout,safemmeet	dessoubz les diz Cibout , sa femme et
+samainie,etestvrayqueau	sa mainie , et est vray que au
+secoursque	secours que
+icelluiColinfistauditsuppliant,son	icellui Colin fist au dit suppliant , son
+frere,icellui	frere , icellui
+Ciboutcheutàterred’uncopqueicellui	Cibout cheut à terre d ’ un cop que icellui
+icelluiColin.luibailla.Etaprès	icellui Colin . lui bailla . Et après
+celedit	ce le dit
+suppliantserelevaetpuisrefrappaleditCiboutparmi	suppliant se releva et puis refrappa le dit Cibout parmi
+lesjambesaudedansdugenoiletailleurs,et	les jambes au dedans du genoil et ailleurs , et
+atant..lelaisserentenpaix.	atant . . le laisserent en paix .
+Etpuisse	Et puis se
+relevaicelluiCibout	releva icellui Cibout
+Ciboutets’enalad’	Cibout et s ’ en ala d ’
+’ilecensonhostel,oùenvironsept	’ ilec en son hostel , où environ sept
+joursaprès,ilaladevieàtrespassement	jours après , il ala de vie à trespassement
+.Pourlequelcaset	. Pour lequel cas et
+aussipource	aussi pour ce
+queicelluisuppliantet	que icellui suppliant et
+Colinavoientparavantasseuré	Colin avoient par avant asseuré
+asseuréleditCiboutenl’assisede	asseuré le dit Cibout en l ’ assise de
+dePalluyaenPoitou,s’estabsentédu	de Palluya en Poitou , s ’ est absenté du
+païs,ou	païs , ou
+quelpourdoubtederigueurdejusticeil	quel pour doubte de rigueur de justice il
+n’osaoncques.	n ’ osa oncques .
+puisne..oseroitretourner	puis ne . . oseroit retourner
+neconverser,etparceesten	ne converser , et par ce est en
+enavantured’estredu	en avanture d ’ estre du
+tout.àtousjoursmais	tout . à tousjours mais
+desertetsadictefemmeetenfanspouvreset	desert et sa dicte femme et enfans pouvres et
+mandiens,separ	mandiens , se par
+parnousneluiestsur	par nous ne lui est sur
+ceimpartienostregrace..Ennoushumblementsuppliant	ce impartie nostre grace . . En nous humblement suppliant
+que.,commeicellebapteure	que . , comme icelle bapteure
+n’aitpasestéfaicted’aguet	n ’ ait pas esté faicte d ’ aguet
+aguetapensé.oucogitacionmauvaiseprecedent,maispar	aguet apensé . ou cogitacion mauvaise precedent , mais par
+acidentetchaleuràluisoubdainementavenuz,dontil	acident et chaleur à lui soubdainement avenuz , dont il
+aestéetencoresest	a esté et encores est
+trèsdolentementcourrociezetmarriz	très dolentement courrociez et marriz
+,etnecuidoitmietantnavrericelluiCiboust,	, et ne cuidoit mie tant navrer icellui Ciboust ,
+etaussi	et aussi
+queentouz	que en touz
+autrescasilaestéetencores..	autres cas il a esté et encores . .
+.esthommedebonnevie,renomméeethonnesteconvercacion	. est homme de bonne vie , renommée et honneste convercacion
+convercacion,sansoncquesmaisavoirestéattains	convercacion , sans oncques mais avoir esté attains
+,reprinsneconvaincud’	, reprins ne convaincu d ’
 aucunautrevillainblasmeoureprouche,nouslui	aucun autre villain blasme ou reprouche , nous lui
-lui..vueillonsicellenostregraceimpartir	lui . . vueillons icelle nostre grace impartir
-impartir.Pourquoynous,ces	impartir . Pour quoy nous , ces
-ceschosesconsiderées,inclinansà	ces choses considerées , inclinans à
-sasupplicacionetenl’onneur	sa supplicacion et en l ’ onneur
-et..reverance	et . . reverance
-de.lasaintesepmaineoù	de . la sainte sepmaine où
-noussommes,	nous sommes ,
-àicelluisuppliantouditcasavonsquicté	à icellui suppliant oudit cas avons quicté
-,remisetpardonné	, remis et pardonné
-,etc.Sidonnonsenmandementparces	, etc . Si donnons en mandement par ces
-presentesaubaillide	presentes au bailli de
-deTourraineetdesressorsetExempcionsd	de Tourraine et des ressors et Exempcions d
-’Anjou,duMaine.etdePoitouet	’ Anjou , du Maine . et de Poitou et
-àtousnozautresjusticiers,.etc.Donné	à tous noz autres justiciers , . etc . Donné
-DonnéàParis,	Donné à Paris ,
-lexiiiejour	le xiiie jour
-d’avrill’andegracemilcccc	d ’ avril l ’ an de grace mil cccc
-.etseptavantPasques,	. et sept avant Pasques ,
-etdenostreregnelexxviiie.Es	et de nostre regne le xxviiie . Es
-requestespar.voustenuesducommandement	requestes par . vous tenues du commandement
-duroy,èsquelesl’arcevesquede	du roy , èsqueles l ’ arcevesque de
-Sens,lesevesquesdeNoyon,deLimoges	Sens , les evesques de Noyon , de Limoges
-Limoges,deSaintFlouretdeGap	Limoges , de Saint Flour et de Gap
-etautresestoient.Charron.—Trousseau.	et autres estoient . Charron .— Trousseau .
-.SemblablepourColin	. Semblable pour Colin
-Chaumartetpareillementsignée.	Chaumart et pareillement signée .
+lui.vueillonsicellenostre	lui . vueillons icelle nostre
+nostregraceimpartir.Pourquoynous,	nostre grace impartir . Pour quoy nous ,
+ceschosesconsiderées,inclinansàsasupplicacionet	ces choses considerées , inclinans à sa supplicacion et
+enl’onneuretreverancede	en l ’ onneur et reverance de
+delasaintesepmaineoùnoussommes,à	de la sainte sepmaine où nous sommes , à
+àicelluisuppliantoudit..casavonsquicté,	à icellui suppliant oudit . . cas avons quicté ,
+remisetpardonné,etc	remis et pardonné , etc
+etc.Sidonnonsenmandementparcespresentesau..bailli	etc . Si donnons en mandement par ces presentes au . . bailli
+deTourraine	de Tourraine
+TourraineetdesressorsetExempcionsd’Anjou,du	Tourraine et des ressors et Exempcions d ’ Anjou , du
+MaineetdePoitouetàtousnoz	Maine et de Poitou et à tous noz
+nozautresjusticiers,etc.Donné	noz autres justiciers , etc . Donné
+àParis,.	à Paris , .
+lexiiiejourd’avrill’ande	le xiiie jour d ’ avril l ’ an de
+gracemilcccc.	grace mil cccc .
+etseptavantPasques,et	et sept avant Pasques , et
+denostreregnelexxviiie.	de nostre regne le xxviiie .
+Esrequestes	Es requestes
+parvoustenues	par vous tenues
+ducommandementdu..roy,	du commandement du . . roy ,
+,èsquelesl’arcevesquedeSens,lesevesquesde	, èsqueles l ’ arcevesque de Sens , les evesques de
+Noyon,de	Noyon , de
+Limoges,deSaintFlouretde	Limoges , de Saint Flour et de
+deGapetautres	de Gap et autres
+autresestoient.Charron.—Trousseau.Semblable	autres estoient . Charron .— Trousseau . Semblable
+pourColinChaumartetpareillementsignée.	pour Colin Chaumart et pareillement signée .

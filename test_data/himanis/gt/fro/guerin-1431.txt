@@ -1,113 +1,119 @@
-Loys,par	Loys , par
-lagrace.deDieuroy	la grace . de Dieu roy
-deFrance.Savoir..faisonsàtous,presenset	de France . Savoir . . faisons à tous , presens et
-avenir,commepuisnaguères	avenir , comme puis naguères
-nostreameetfeal	nostre ame et feal
-cousin,conseilleretchambellan,Loysseigneur	cousin , conseiller et chambellan , Loys seigneur
-deBelleville,nous	de Belleville , nous
-nousaitbailléet..laissé,pournouset	nous ait baillé et . . laissé , pour nous et
-nozsuccesseursperpetuellementetàtousjours,lesville	noz successeurs perpetuellement et à tous jours , les ville
-,chastel,baronnie,	, chastel , baronnie ,
-terreetseigneurie..deMontaguenPoictou,avecses	terre et seigneurie . . de Montagu en Poictou , avec ses
-appartenances,appendancesetdeppendancesquelxconques	appartenances , appendances et deppendances quelxconques
-quelxconques,moyennantetparmyceque,poureten	quelxconques , moyennant et parmy ce que , pour et en
-recompensedece,nousluiayons,	recompense de ce , nous lui ayons ,
-,entreautres	, entre autres
-autreschoses,promiset	autres choses , promis et
-etaccordéluidonner,bailler	et accordé lui donner , bailler
-bailler,ceder,quicter,transporteret	bailler , ceder , quicter , transporter et
-et.delaisser,	et . delaisser ,
-pourlui,seshoirsetayanscauseà	pour lui , ses hoirs et ayans cause à
-tousjoursmès,nostredroitdetraictequeavons	tousjours mès , nostre droit de traicte que avons
-avonsacoustuméd’.avoir	avons acoustumé d ’ . avoir
-,prandre,cueillir	, prandre , cueillir
+Loys,.par	Loys , . par
+lagracedeDieuroydeFrance.Savoir	la grace de Dieu roy de France . Savoir
+faisonsàtous,.presensetavenir,	faisons à tous , . presens et avenir ,
+,commepuisnaguèresnostre	, comme puis naguères nostre
+ameetfealcousin,conseilleretchambellan,	ame et feal cousin , conseiller et chambellan ,
+Loysseigneur	Loys seigneur
+deBelleville	de Belleville
+,..nousaitbailléetlaissé,	, . . nous ait baillé et laissé ,
+pournousetnozsuccesseursperpetuellementetàtousjours	pour nous et noz successeurs perpetuellement et à tous jours
+,lesville	, les ville
+,chastel,	, chastel ,
+baronnie,terreetseigneuriedeMontaguenPoictou,	baronnie , terre et seigneurie de Montagu en Poictou ,
+avecsesappartenances,appendancesetdeppendancesquelxconques,	avec ses appartenances , appendances et deppendances quelxconques ,
+moyennantet..	moyennant et . .
+parmyce	parmy ce
+que,pouretenrecompensedece	que , pour et en recompense de ce
+ce,nouslui.	ce , nous lui .
+ayons,entre	ayons , entre
+autreschoses	autres choses
+,promisetaccordé	, promis et accordé
+accordéluidonner,bailler,ceder	accordé lui donner , bailler , ceder
+ceder,quicter,transporteretdelaisser,pourlui	ceder , quicter , transporter et delaisser , pour lui
+,seshoirsetayanscauseàtousjours	, ses hoirs et ayans cause à tousjours
+mès,nostre	mès , nostre
+nostredroitdetraictequeavons	nostre droit de traicte que avons
+acoustuméd	acoustumé d
+’avoir,prandre,cueillir	’ avoir , prandre , cueillir
 etleverauportdeCaunac,	et lever au port de Caunac ,
-etdelesen	et de les en
-fairejoirpaisiblement.;pour	faire joir paisiblement . ; pour
-quoy..nous,ces	quoy . . nous , ces
-chosesconsiderées,voulans	choses considerées , voulans
-acomplirnostredictepromesse,ainsiqueraisonest,	acomplir nostre dicte promesse , ainsi que raison est ,
-avonspourcescauses,denostre	avons pour ces causes , de nostre
-certainescience,graceespecial,plaine.puissance	certaine science , grace especial , plaine . puissance
-etauctoritéroyal,	et auctorité royal ,
-,donné,cedé,quicté	, donné , cedé , quicté
-,transportéetdelaissé,donnons,cedons,quictons	, transporté et delaissé , donnons , cedons , quictons
-,transportonsetdelaissons,parcespresentes	, transportons et delaissons , par ces presentes
-presentes,ànostreditcousin,leseigneurdeBelleville	presentes , à nostredit cousin , le seigneur de Belleville
-,pourlui,ses	, pour lui , ses
-hoirs,successeurs	hoirs , successeurs
-successeursetayanscauseperpetuelment	successeurs et ayans cause perpetuelment
-etàtousjours,parmanièreet	et à tousjours , par manière et
-etpourpartiedesarecompensedesditesville,chastel	et pour partie de sa recompense desdites ville , chastel
-,baronnie,terreet	, baronnie , terre et
-etseigneuriedeMontagu,qu’il	et seigneurie de Montagu , qu ’ il
-nousanaguèresbailléesetdelaissées	nous a naguères baillées et delaissées
-delaissées,commeditest,nostreditdroit	delaissées , comme dit est , nostre dit droit
-detraictequeavonsacoustumé	de traicte que avons acoustumé
-d’avoir,	d ’ avoir ,
-prandre,cueilliretleveraudit.portdeCaunac	prandre , cueillir et lever audit . port de Caunac
-,avectoutes	, avec toutes
-sesappartenances	ses appartenances
-,appendences.etdeppendencesquelxconques,sansaucunechoseen	, appendences . et deppendences quelxconques , sans aucune chose en
-reserverànousneà	reserver à nous ne à
-nozsuccesseurs	noz successeurs
-,pouricelluidroitdetraicteavoir,tenir	, pour icellui droit de traicte avoir , tenir
-etexploicteretenjoiretuserparnostredit	et exploicter et en joir et user par nostre dit
-ditcousinleseigneurdeBelleville,sesdizhoirs,	dit cousin le seigneur de Belleville , sesdiz hoirs ,
+etdelesenfairejoir	et de les en faire joir
+joirpaisiblement;pourquoy..nous,ceschoses	joir paisiblement ; pour quoy . . nous , ces choses
+considerées,	considerées ,
+voulansacomplirnostredictepromesse,ainsiqueraison	voulans acomplir nostre dicte promesse , ainsi que raison
+est,avonspourcescauses	est , avons pour ces causes
+causes,denostrecertainescience,grace	causes , de nostre certaine science , grace
+especial,	especial ,
+,plainepuissanceetauctoritéroyal,donné,cedé	, plaine puissance et auctorité royal , donné , cedé
+cedé,quicté,transporté..etdelaissé,donnons,cedons	cedé , quicté , transporté . . et delaissé , donnons , cedons
+cedons,quictons,	cedons , quictons ,
+,transportonsetdelaissons.,parces	, transportons et delaissons . , par ces
+presentes,ànostredit	presentes , à nostredit
+cousin,le	cousin , le
+seigneurde.Belleville,	seigneur de . Belleville ,
+pourlui,seshoirs	pour lui , ses hoirs
+hoirs,successeurset	hoirs , successeurs et
+ayanscauseperpetuelmentetàtousjours,parmanièreet	ayans cause perpetuelment et à tousjours , par manière et
+etpourpartiedesa	et pour partie de sa
+recompensedesditesville,chastel,baronnie	recompense desdites ville , chastel , baronnie
+,terreetseigneuriedeMontagu	, terre et seigneurie de Montagu
+Montagu,qu’ilnous	Montagu , qu ’ il nous
+anaguèresbailléeset	a naguères baillées et
+delaissées,commeditest,nostredit	delaissées , comme dit est , nostre dit
+droitdetraictequeavonsacoustumé	droit de traicte que avons acoustumé
+d’avoir,prandre,cueilliretlever	d ’ avoir , prandre , cueillir et lever
+auditportdeCaunac,avectoutessesappartenances,	audit port de Caunac , avec toutes ses appartenances ,
+appendencesetdeppendencesquelxconques,sans	appendences et deppendences quelxconques , sans
+aucunechoseenreserverà	aucune chose en reserver à
+ànousneànozsuccesseurs,pouricelluidroit	à nous ne à noz successeurs , pour icellui droit
+detraicteavoir,teniretexploicter	de traicte avoir , tenir et exploicter
+exploicteretenjoiretuserpar	exploicter et en joir et user par
+nostreditcousinleseigneurde	nostre dit cousin le seigneur de
+Belleville.,sesdizhoirs,	Belleville . , sesdiz hoirs ,
 successeursetayanscausedoresenavant	successeurs et ayans cause doresenavant
 perpetuelmentetàtousjours,commeditest,et	perpetuelment et à tousjours , comme dit est , et
-autrementenfaireetdisposer..àleur	autrement en faire et disposer . . à leur
-bonplaisiret	bon plaisir et
-volenté.,commedeleurproprechoseetheritage,	volenté . , comme de leur propre chose et heritage ,
-enfaisantetpaiantles	en faisant et paiant les
-droizetdevoirsancienset	droiz et devoirs anciens et
-acoustumezoùetainsiqu’ilappartiendra.	acoustumez où et ainsi qu ’ il appartiendra .
-Sidonnonsenmandement,	Si donnons en mandement ,
-,parcesdictespresentes,ànozamezetfeaulx	, par cesdictes presentes , à noz amez et feaulx
-conseillerslesgens	conseillers les gens
-denostrecourtdeParlement,denozComptes	de nostre court de Parlement , de noz Comptes
-ettresoriersàParis,auseneschal	et tresoriers à Paris , au seneschal
-deXaintongeetàtousnozautres	de Xaintonge et à tous noz autres
-autresjusticiersetofficiers,ouàleurslieuxtenans,presens	autres justiciers et officiers , ou à leurs lieuxtenans , presens
-etavenir,etàchacund.’eulx	et avenir , et à chacun d . ’ eulx
-,sicommeàluiappartiendra,quedenoz.	, si comme à lui appartiendra , que de noz .
-.presensdon,	. presens don ,
-cession,quictanceettransportetdelaissementilz.facent,	cession , quictance et transport et delaissement ilz . facent ,
-,seuffrentetlaissentnostreditcousin,lesire	, seuffrent et laissent nostredit cousin , le sire
-siredeBellevilleetsesdizhoirs,successeurset	sire de Belleville et sesdiz hoirs , successeurs et
-ayanscausejoiretuserplainementetpaisiblement,en	ayans cause joir et user plainement et paisiblement , en
-luibaillantou	lui baillant ou
-faisant.bailleretdelivrer,	faisant . bailler et delivrer ,
-ouàsonprocureurou.commisquantàce,	ou à son procureur ou . commis quant à ce ,
-,lapossessionreelle	, la possession reelle
-etjoyssanceplanièredudit	et joyssance planière dudit
-droitdetraicteetsesdeppendances,..sans	droit de traicte et ses deppendances , . . sans
-luifaire,mettreoudonner,ne	lui faire , mettre ou donner , ne
-souffrirestrefait	souffrir estre fait
-fait,misoudonnéaucundestourbierouempeschement	fait , mis ou donné aucun destourbier ou empeschement
-empeschementaucontraire,etces	empeschement au contraire , et ces
-presentesfacentlire	presentes facent lire
-,publieretenregistrer	, publier et enregistrer
-enregistrerpartousleslieux.	enregistrer par tous les lieux .
-.oùmestiersera	. où mestier sera
-.Carainsinousplaistilestrefait,	. Car ainsi nous plaist il estre fait ,
-nonobstantqueleditdroitdetraicte	nonobstant que ledit droit de traicte
-soitdenostreanciendommaine,qued’icellui	soit de nostre ancien dommaine , que d ’ icellui
-nedoyonsaucunechosealienernetransporter,que	ne doyons aucune chose aliener ne transporter , que
-lavalleurd’icelluy	la valleur d ’ icelluy
-icelluynesoitycyaucunement	icelluy ne soit ycy aucunement
-declaréenespeciffiée,qued’..icelle	declarée ne speciffiée , que d ’ . . icelle
-icellevalleurne	icelle valleur ne
-nesoitlevée	ne soit levée
-deschargepar	descharge par
-parlechangeurdenostretresor,et	par le changeur de nostre tresor , et
-etquelxconquesordonnances,mandemensou	et quelxconques ordonnances , mandemens ou
-deffencesàce..contraires.Etafinquecesoit	deffences à ce . . contraires . Et afin que ce soit
-choseferme,etc.,Sauf,etc.	chose ferme , etc ., Sauf , etc .
-DonnéàSablé	Donné à Sablé
-,oumoysd’aoustl	, ou moys d ’ aoust l
-’andegrace	’ an de grace
-milcccc.soixantetreize.,et	mil cccc . soixante treize . , et
-etdenostrerègneletreizeiesme.Ainsisigné:Loys	et de nostre règne le treizeiesme . Ainsi signé : Loys
-Loys.—Par..le	Loys .— Par . . le
-roy,Tilhart.Visa.	roy , Tilhart . Visa .
+autrementenfaireetdisposeràleurbonplaisir	autrement en faire et disposer à leur bon plaisir
+etvolenté	et volenté
+volenté,commede	volenté , comme de
+leurproprechoseetheritage	leur propre chose et heritage
+heritage,enfaisantet	heritage , en faisant et
+etpaiantlesdroizetdevoirsanciens	et paiant les droiz et devoirs anciens
+anciensetacoustumezoù..etainsi	anciens et acoustumez où . . et ainsi
+qu’ilappartiendra	qu ’ il appartiendra
+.Sidonnons..enmandement,par	. Si donnons . . en mandement , par
+cesdictespresentes,ànozamezetfeaulxconseillers	cesdictes presentes , à noz amez et feaulx conseillers
+lesgensdenostrecourtde	les gens de nostre court de
+Parlement,denozComptesettresoriersàParis,	Parlement , de noz Comptes et tresoriers à Paris ,
+,auseneschaldeXaintongeetàtousnoz	, au seneschal de Xaintonge et à tous noz
+autresjusticiersetofficiers,ouàleurslieuxtenans	autres justiciers et officiers , ou à leurs lieuxtenans
+,presenset	, presens et
+etavenir,etàchacund’.eulx,	et avenir , et à chacun d ’ . eulx ,
+sicommeàluiappartiendra	si comme à lui appartiendra
+appartiendra,quedenozpresensdon,cession,quictance	appartiendra , que de noz presens don , cession , quictance
+quictanceettransportetdelaissement	quictance et transport et delaissement
+ilz.facent,seuffrentetlaissent	ilz . facent , seuffrent et laissent
+laissentnostreditcousin,le	laissent nostredit cousin , le
+siredeBellevilleetsesdizhoirs,successeursetayans	sire de Belleville et sesdiz hoirs , successeurs et ayans
+ayanscausejoiret	ayans cause joir et
+userplainementetpaisiblement	user plainement et paisiblement
+paisiblement,enluibaillant	paisiblement , en lui baillant
+oufaisantbailleretdelivrer,ouà.son	ou faisant bailler et delivrer , ou à . son
+procureurou.commis	procureur ou . commis
+quantàce,lapossession	quant à ce , la possession
+reelleetjoyssanceplanièreduditdroitdetraicteetses	reelle et joyssance planière dudit droit de traicte et ses
+deppendances,sans	deppendances , sans
+luifaire	lui faire
+,mettreoudonner,	, mettre ou donner ,
+nesouffrirestrefait,	ne souffrir estre fait ,
+misoudonné	mis ou donné
+donnéaucundestourbierou	donné aucun destourbier ou
+empeschementaucontraire,etcespresentesfacent	empeschement au contraire , et ces presentes facent
+lire,publieretenregistrerpartousleslieux	lire , publier et enregistrer par tous les lieux
+oùmestiersera...Carainsinousplaistilestre	où mestier sera . . . Car ainsi nous plaist il estre
+estrefait,nonobstantqueleditdroitdetraictesoit	estre fait , nonobstant que ledit droit de traicte soit
+soitdenostreancien	soit de nostre ancien
+dommaine,qued’icelluinedoyons	dommaine , que d ’ icellui ne doyons
+doyonsaucunechosealienernetransporter,que	doyons aucune chose aliener ne transporter , que
+lavalleurd’icelluynesoitycyaucunementdeclarée	la valleur d ’ icelluy ne soit ycy aucunement declarée
+nespeciffiée,qued’icellevalleurnesoit	ne speciffiée , que d ’ icelle valleur ne soit
+soitlevéedeschargeparlechangeur	soit levée descharge par le changeur
+denostre..tresor	de nostre . . tresor
+,etquelxconquesordonnances,mandemensoudeffences	, et quelxconques ordonnances , mandemens ou deffences
+àcecontraires	à ce contraires
+.Etafin.quecesoitchoseferme,	. Et afin . que ce soit chose ferme ,
+etc.,Sauf,etc	etc ., Sauf , etc
+etc.DonnéàSablé,oumoysd	etc . Donné à Sablé , ou moys d
+’aoustl’an	’ aoust l ’ an
+degracemilcccc.soixantetreize,et	de grace mil cccc . soixante treize , et
+denostrerègneletreizeiesme.Ainsisigné	de nostre règne le treizeiesme . Ainsi signé
+:Loys.—Parle	: Loys .— Par le
+leroy,Tilhart.Visa.	le roy , Tilhart . Visa .

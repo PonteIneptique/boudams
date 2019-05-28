@@ -1,103 +1,91 @@
-Charles,	Charles ,
-,etc.Savoir	, etc . Savoir
-faisons,etc.nousavoir	faisons , etc . nous avoir
-receuel’umble	receue l ’ umble
-umblesupplicaciondenostrechieretbien	umble supplicacion de nostre chier et bien
-améJehan.dela	amé Jehan . de la
-laBrunetiere,escuier,contenantque	la Brunetiere , escuier , contenant que
-,unganetdemyaouenviron,quoy	, ung an et demy a ou environ , quoy
-quesoit,durant	que soit , durant
-letempsqueestionsès	le temps que estions ès
-marchesdeLorraine,	marches de Lorraine ,
-nostreaméetfealchevalier,Guy	nostre amé et feal chevalier , Guy
-d’Auxigny,seigneurdeTreves,	d ’ Auxigny , seigneur de Treves ,
-vintavecpuissancedegens	vint avec puissance de gens
-etàportd’armesdevantlaplaceet	et à port d ’ armes devant la place et
-etforteressedelaRochesurYon,oùledit	et forteresse de la Roche sur Yon , où le dit
-ditdelaBrunetiereestoitlorsdemourant,pouricelleplace	dit de la Brunetiere estoit lors demourant , pour icelle place
-placeetforteresseassaillir	place et forteresse assaillir
-,..commel’endisoit.	, . . comme l ’ en disoit .
-Al’encontre	A l ’ encontre
-encontreduqueld’AuxignyFrançoisdeMontcatin.,capitainede	encontre duquel d ’ Auxigny François de Montcatin . , capitaine de
-ladicteforteresse,fist	la dicte forteresse , fist
-unesaillie,	une saillie ,
-,enlacompaignieduquel	, en la compaignie duquel
-deMontcatinestoitleditdelaBrunetiere,et	de Montcatin estoit ledit de la Brunetiere , et
-àicellesailliefuttuéunghommedela	à icelle saillie fut tué ung homme de la
-compaigniedudit	compaignie dudit
-duditd’Auxigny;lequeldelaBrunetierene	dudit d ’ Auxigny ; lequel de la Brunetiere ne
-letuanefrappa	le tua ne frappa
-frappa,neparluimorut	frappa , ne par lui morut
-,maisseulement	, mais seulement
-futenlacompagnieduditde	fut en la compagnie dudit de
-deMontcatin.	de Montcatin .
-Alaquellecauseildoubteque,	A la quelle cause il doubte que ,
-pourletemps	pour le temps
-avenir,onne..	avenir , on ne . .
-luiendonne,encorpsouen	lui en donne , en corps ou en
-biens,aucundestourbierouempeschement	biens , aucun destourbier ou empeschement
-,etpourcenousafaitrequerirque,	, et pour ce nous a fait requerir que ,
-,commele	, comme le
-letempspasséil	le temps passé il
-il.nousaitservyàl’	il . nous ait servy à l ’
-encontre.denozennemys	encontre . de noz ennemys
-,oufaitdenozguerres,àl’	, ou fait de noz guerres , à l ’
-occasiondesquellesil	occasion desquelles il
-ilaitesté	il ait esté
-parplusieursfoiz	par plusieurs foiz
-prisonnieretmispar..	prisonnier et mis par . .
-.eulxàgrossesetexcessivesraençons,	. eulx à grosses et excessives raençons ,
-aussiqu’ilnefut	aussi qu ’ il ne fut
-pascausede	pas cause de
-ladictesaillieneduditmeurdre,mais	la dicte saillie ne dudit meurdre , mais
-seulementestoit..enlacompaignie	seulement estoit . . en la compaignie
+Charles,etc.Savoirfaisons,	Charles , etc . Savoir faisons ,
+etc.nous	etc . nous
+avoirreceuel’umblesupplicacionde	avoir receue l ’ umble supplicacion de
+nostrechieret	nostre chier et
+bienamé	bien amé
+JehandelaBrunetiere,escuier,contenantque,	Jehan de la Brunetiere , escuier , contenant que ,
+unganetdemyaouenviron,quoy	ung an et demy a ou environ , quoy
+quesoit,durantletempsqueestionsès	que soit , durant le temps que estions ès
+èsmarchesdeLorraine,..nostreamé	ès marches de Lorraine , . . nostre amé
+etfealchevalier,Guy..	et feal chevalier , Guy . .
+d’.Auxigny,seigneurdeTreves	d ’ . Auxigny , seigneur de Treves
+,vintavec..	, vint avec . .
+puissancede	puissance de
+degensetàportd’armesdevantlaplace	de gens et à port d ’ armes devant la place
+etforteressedelaRochesurYon	et forteresse de la Roche sur Yon
+,oùleditdela	, où le dit de la
+Brunetiereestoitlorsdemourant,pouricelleplaceetforteresse	Brunetiere estoit lors demourant , pour icelle place et forteresse
+assaillir,commel’endisoit.	assaillir , comme l ’ en disoit .
+Al’..encontre	A l ’ . . encontre
+duqueld’AuxignyFrançoisdeMontcatin	duquel d ’ Auxigny François de Montcatin
+,capitainedeladicteforteresse,fist	, capitaine de la dicte forteresse , fist
+unesaillie,enlacompaignieduqueldeMontcatin	une saillie , en la compaignie duquel de Montcatin
+estoitleditdelaBrunetiere.,	estoit ledit de la Brunetiere . ,
+,etàicelle	, et à icelle
+sailliefuttuéunghommede..lacompaigniedudit	saillie fut tué ung homme de . . la compaignie dudit
+d’Auxigny;lequeldelaBrunetierenele	d ’ Auxigny ; lequel de la Brunetiere ne le
+tuanefrappa,nepar	tua ne frappa , ne par
+parluimorut,maisseulementfutenlacompagniedudit	par lui morut , mais seulement fut en la compagnie dudit
+deMontcatin.Ala	de Montcatin . A la
+quellecauseildoubteque,pourletemps	quelle cause il doubte que , pour le temps
+avenir,on	avenir , on
+onneluiendonne,encorpsou	on ne lui en donne , en corps ou
+ouenbiens,aucun	ou en biens , aucun
+destourbierou	destourbier ou
+empeschement,et..pour	empeschement , et . . pour
+cenousa	ce nous a
+afaitrequerirque,commeletempspasséilnous	a fait requerir que , comme le temps passé il nous
+nousaitservyàl’encontre..denoz	nous ait servy à l ’ encontre . . de noz
+ennemys,oufaitdenozguerres,à	ennemys , ou fait de noz guerres , à
+l’occasion.desquelles	l ’ occasion . desquelles
+ilaitestéparplusieurs	il ait esté par plusieurs
+plusieursfoizprisonnieretmispar	plusieurs foiz prisonnier et mis par
+pareulxàgrossesetexcessivesraençons,aussi	par eulx à grosses et excessives raençons , aussi
+aussiqu’il.	aussi qu ’ il .
+.nefutpas	. ne fut pas
+causedela.dicte	cause de la . dicte
+sailliene	saillie ne
+duditmeurdre,maisseulement	dudit meurdre , mais seulement
+estoitenla	estoit en la
 compaignieduditdeMontcatin,comme	compaignie dudit de Montcatin , comme
-ditest,	dit est ,
-etqueentousautrescasilaestéhomme	et que en tous autres cas il a esté homme
-debonne	de bonne
-bonnevie,renommée	bonne vie , renommée
-renomméeet..honnesteconversacion,sansjamaisavoir	renommée et . . honneste conversacion , sans jamais avoir
-estéactaintd’aucunvilain	esté actaint d ’ aucun vilain
-vilaincas,blasmeou	vilain cas , blasme ou
-reprouche,ilnousplaise.surcelui	reprouche , il nous plaise . sur ce lui
-luiimpartirnostre	lui impartir nostre
-grace.Pourquoynous,ces	grace . Pour quoy nous , ces
-chosesconsideréesetlesbonsservicesque	choses considerées et les bons services que
-nousafaizennosdictesguerres	nous a faiz en nos dictes guerres
-guerresleditdelaBrunetiere	guerres le dit de la Brunetiere
-,lesgranspeineset	, les grans peines et
-miseresqu’ilaeues	miseres qu ’ il a eues
-etsoustenuesèsdictes..prisons,et	et soustenues ès dictes . . prisons , et
-lesgransetexcessives	les grans et excessives
-excessivesraençonsquenosdizennemisontàceste	excessives raençons que nos diz ennemis ont à ceste
-causedeluiexigées,ainsiqu	cause de lui exigées , ainsi qu
-’ilnousafaitremonstrer	’ il nous a fait remonstrer
-remonstrer,voulanspourcescauses	remonstrer , voulans pour ces causes
-causesetenfaveuraussidenostretrèschieret	causes et en faveur aussi de nostre très chier et
-ettrèsaménepveuleducdeBretaigne,quide	et très amé nepveu le duc de Bretaigne , qui de
-decenousarequis	de ce nous a requis
-requis,misericorde	requis , misericorde
-prefereràrigueurdejustice,	preferer à rigueur de justice ,
-,àicelluidelaBrunetiere,suppliant	, à icellui de la Brunetiere , suppliant
-suppliant,avonsou	suppliant , avons ou
-ditcasquicté,remisetpardonné,	dit cas quicté , remis et pardonné ,
-etc.Sidonnonsenmandementparcespresentes	etc . Si donnons en mandement par ces presentes
-auxseneschaldePoictouetbaillide	aux seneschal de Poictou et bailli de
-deTouraineetdesressorset	de Touraine et des ressors et
-etExempcionsd’Anjouetdu	et Exempcions d ’ Anjou et du
-Maine,etàtousnozautresjusticiers,etc	Maine , et à tous noz autres justiciers , etc
-.Donnéà	. Donné à
-RazilléprèsChinon,oumois	Razillé près Chinon , ou mois
-moisdemayl.’an	mois de may l . ’ an
-andegrace	an de grace
-gracemil..cccc	grace mil . . cccc
-cccc.xlvi,etde	cccc . xlvi , et de
-nostreregnele..xxiiiime	nostre regne le . . xxiiiime
-.Ainsisigné:	. Ainsi signé :
-:Parleroy,monseigneurledaulphin,monseigneur	: Par le roy , monseigneur le daulphin , monseigneur
-leduc.de	le duc . de
-Bretaigne,vous,les	Bretaigne , vous , les
-siresdelaVarenne,de	sires de la Varenne , de
-dePressigny,..deBlanvilleetplusieursautrespresens.Giraudeau	de Pressigny , . . de Blanville et plusieurs autres presens . Giraudeau
-.—Visa.Contentor.P	.— Visa . Contentor . P
-.LePicart.	. Le Picart .
+ditest,etqueentous	dit est , et que en tous
+tousautres.casilaestéhomme	tous autres . cas il a esté homme
+debonnevie	de bonne vie
+vie,renomméeet	vie , renommée et
+ethonnesteconversacion,sansjamaisavoir	et honneste conversacion , sans jamais avoir
+avoirestéactaintd’	avoir esté actaint d ’
+’aucunvilaincas,blasmeoureprouche,il	’ aucun vilain cas , blasme ou reprouche , il
+ilnousplaisesurceluiimpartirnostregrace	il nous plaise sur ce lui impartir nostre grace
+grace.Pour	grace . Pour
+quoynous,ceschosesconsideréeset	quoy nous , ces choses considerées et
+lesbonsservicesquenousafaizennos	les bons services que nous a faiz en nos
+nosdictesguerresle..ditdelaBrunetiere,les	nos dictes guerres le . . dit de la Brunetiere , les
+lesgranspeinesetmiseresqu’	les grans peines et miseres qu ’
+ilaeuesetsoustenuesèsdictesprisons	il a eues et soustenues ès dictes prisons
+prisons,etlesgransetexcessivesraençonsquenos.	prisons , et les grans et excessives raençons que nos .
+diz.ennemisontàcestecausede	diz . ennemis ont à ceste cause de
+deluiexigées,ainsiqu’	de lui exigées , ainsi qu ’
+ilnousafaitremonstrer,voulanspourcescauses	il nous a fait remonstrer , voulans pour ces causes
+etenfaveurausside	et en faveur aussi de
+nostretrèschierettrèsaménepveule	nostre très chier et très amé nepveu le
+ducdeBretaigne,quidece	duc de Bretaigne , qui de ce
+nousarequis,	nous a requis ,
+,misericordeprefereràrigueurdejustice,àicellui	, misericorde preferer à rigueur de justice , à icellui
+delaBrunetiere,suppliant,avonsou	de la Brunetiere , suppliant , avons ou
+ditcasquicté,remiset	dit cas quicté , remis et
+pardonné,etc.Sidonnons	pardonné , etc . Si donnons
+enmandementparcespresentesauxseneschaldePoictou	en mandement par ces presentes aux seneschal de Poictou
+PoictouetbaillideTouraineetdesressorset	Poictou et bailli de Touraine et des ressors et
+Exempcionsd’AnjouetduMaine	Exempcions d ’ Anjou et du Maine
+,etàtousnozautres.justiciers,etc.	, et à tous noz autres . justiciers , etc .
+Donnéà.RazilléprèsChinon,	Donné à . Razillé près Chinon ,
+,oumoisdemay	, ou mois de may
+l’andegracemilcccc.	l ’ an de grace mil cccc .
+xlvi,et	xlvi , et
+denostreregnele	de nostre regne le
+xxiiiime.Ainsisigné:Parleroy,	xxiiiime . Ainsi signé : Par le roy ,
+monseigneurledaulphin,monseigneur..leducde	monseigneur le daulphin , monseigneur . . le duc de
+deBretaigne,vous,lessires	de Bretaigne , vous , les sires
+delaVarenne,..dePressigny,deBlanvilleet	de la Varenne , . . de Pressigny , de Blanville et
+plusieursautrespresens.Giraudeau.—Visa.Contentor	plusieurs autres presens . Giraudeau .— Visa . Contentor
+Contentor.P.LePicart..	Contentor . P . Le Picart . .

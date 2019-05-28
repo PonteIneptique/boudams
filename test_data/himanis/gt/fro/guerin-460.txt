@@ -1,94 +1,98 @@
 Charles,etc.Savoirfaisonsàtous	Charles , etc . Savoir faisons à tous
-,presensetavenir	, presens et avenir
-avenir,que.comme	avenir , que . comme
-JehanBelon,chevalier,nagairescapitaine	Jehan Belon , chevalier , nagaires capitaine
-duchastelde.	du chastel de .
-laRochesur	la Roche sur
-Yon,aitvenduetdelivréfaussement.et	Yon , ait vendu et delivré faussement . et
-etmauveisementauzennemis	et mauveisement auz ennemis
-ennemisdenouset..de	ennemis de nous et . . de
-nostreroyaumeleditchastel,	nostre royaume le dit chastel ,
-etaittenuetencorestiengnelapartie..	et ait tenu et encores tiengne la partie . .
-denozdis	de noz dis
-ennemiscontrenousetnostredit	ennemis contre nous et nostre dit
-royaume,encommettantcrimedelesemajesté	royaume , en commettant crime de lese majesté
-,pourquoyilafourfaitsoncorps	, pour quoy il a fourfait son corps
-ettouzsesbiensmeublezetheritages.	et touz ses biens meublez et heritages .
-,etnoussont	, et nous sont
-acquissesdizbienscommecommisetconfisquezpar..	acquis ses diz biens comme commis et confisquez par . .
-.sadicteforfaiture,sicommel'	. sa dicte forfaiture , si comme l '
-endit,et	en dit , et
-etyceluiJehanBeloneust,autampsqu'	et ycelui Jehan Belon eust , au tamps qu '
-il..commistleditcrime,	il . . commist le dit crime ,
-,unemaisonenlaville	, une maison en la ville
-d'Angers,outertreSaintLaurent,	d ' Angers , ou tertre Saint Laurent ,
-,avecquespluseursbiensmueblez,lezquiexnoussontescheus	, avecques pluseurs biens mueblez , lez quiex nous sont escheus
-escheusetànousappartiennentpourla	escheus et à nous appartiennent pour la
-causedessusdicte,comeditest	cause dessus dicte , come dit est
-.Nous,pour..	. Nous , pour . .
-consideraciondesbons	consideracion des bons
-etaggreablesservicezqueJehandeLaBarre,	et aggreables servicez que Jehan de La Barre ,
-,clerc,nousa	, clerc , nous a
-faisetesperons	fais et esperons
-queilnousfaceancoresoutemps	que il nous face ancores ou temps
-avenir,àyceluiJehandeLaBarre	avenir , à ycelui Jehan de La Barre
-,pourlui,sezhoirsetceulx	, pour lui , sez hoirs et ceulx
-quideluiaurontcauseàtousjours	qui de lui auront cause à tousjours
-tousjoursmais,avonsdonnéet	tousjours mais , avons donné et
-etdonnonsparcezpresentes,denostreauctoritéroyal	et donnons par cez presentes , de nostre auctorité royal
-,denostre	, de nostre
-certainescienceetgrace	certaine science et grace
-especial,laditemaisonaveclezappartenances	especial , la dite maison avec lez appartenances
-etlezbiensmueblezestansenycelle	et lez biens mueblez estans en ycelle
-ycellemaison,autampsdu	ycelle maison , au tamps du
-mesfaitdessusdit,à	mesfait dessus dit , à
-nousainsiappartenans,etescheuspourlacausedessus.	nous ainsi appartenans , et escheus pour la cause dessus .
-dite,come	dite , come
-ditest,àtenir	dit est , à tenir
-etpossiderladite.maison,ensamblesez	et possider la dite . maison , ensamble sez
-sezappartenances,parleditJehandeLaBarreet	sez appartenances , par le dit Jehan de La Barre et
-sezhoirs	sez hoirs
-etayanscause	et ayans cause
-delui,commeleurpropre	de lui , comme leur propre
-heritageàtousjoursmez.	heritage à tous jours mez .
-Sidonnonsen	Si donnons en
-enmandement,	en mandement ,
-,parcespresentes,auseneschaletaureceveurd	, par ces presentes , au seneschal et au receveur d
-'Anjou,ouàleurslieux	' Anjou , ou à leurs lieux
-tenans,	tenans ,
-etàchascund'eulx,	et à chascun d ' eulx ,
-quedeladitemaisonavecquessesappartenances,s	que de la dite maison avecques ses appartenances , s
-s'ilest	s ' il est
-ainsicommeditest,mettent	ainsi comme dit est , mettent
-ou..facentmettreenpossessionetsaisineledit	ou . . facent mettre en possession et saisine le dit
-Jehan.deLaBarre,etd'	Jehan . de La Barre , et d '
-ycellelessentetfacentuseret	ycelle lessent et facent user et
-joyrluiet	joyr lui et
-seshoirs,commedeleur	ses hoirs , comme de leur
-propreheritage,àtous	propre heritage , à tous
-tousjoursmez,etaveccelidelivrent,sans	tous jours mez , et avec ce li delivrent , sans
-contreditetautremandementattendre,les	contredit et autre mandement attendre , les
-dizbiensmueblesquiestoientdedens	diz biens muebles qui estoient dedens
-ycelle,au	ycelle , au
-tampsduditcrimecommiset	tamps du dit crime commis et
-perpetré,commeditest.Toutevoie..	perpetré , comme dit est . Toutevoie . .
-,n..'estpas	, n . . ' est pas
-pasnostreententeque,sepour..	pas nostre entente que , se pour . .
-aucuneschosesilavenoitque	aucunes choses il avenoit que
-nousrendissionsoufeissionsrendre	nous rendissions ou feissions rendre
-laditemaisonetsezappartenancesau	la dite maison et sez appartenances au
-ditJehanBelon	dit Jehan Belon
-Belon,nousfussions	Belon , nous fussions
-derienstenus	de riens tenus
-àenfairerecompensacion	à en faire recompensacion
-aucuneau	aucune au
-ditJehandeLaBarreouàsez	dit Jehan de La Barre ou à sez
-hoirs,ouayanscausedelui.Et.	hoirs , ouayans cause de lui . Et .
-.quecesoitferme,etc.Sauf,etc	. que ce soit ferme , etc . Sauf , etc
+,presensetavenir,quecomme	, presens et avenir , que comme
+commeJehanBelon,	comme Jehan Belon ,
+chevalier,nagairescapitaine	chevalier , nagaires capitaine
+duchastelde..laRochesur	du chastel de . . la Roche sur
+Yon,aitvenduetdelivréfaussementetmauveisementauz	Yon , ait vendu et delivré faussement et mauveisement auz
+ennemisdenousetdenostreroyaumeledit	ennemis de nous et de nostre royaume le dit
+chastel,..etaittenuetencores	chastel , . . et ait tenu et encores
+tiengnelapartiedenoz	tiengne la partie de noz
+nozdisennemiscontrenousetnostreditroyaume	noz dis ennemis contre nous et nostre dit royaume
+,encommettantcrime	, en commettant crime
+delesemajesté,	de lese majesté ,
+pourquoyilafourfaitsoncorpsettouz	pour quoy il a fourfait son corps et touz
+touzsesbiensmeublez	touz ses biens meublez
+etheritages,etnoussont	et heritages , et nous sont
+acquissesdizbienscommecommis	acquis ses diz biens comme commis
+commisetconfisquezparsadicteforfaiture,si	commis et confisquez par sa dicte forfaiture , si
+commel'	comme l '
+endit,etyceluiJehanBelon	en dit , et ycelui Jehan Belon
+eust,autampsqu'ilcommist	eust , au tamps qu ' il commist
+leditcrime	le dit crime
+,unemaisonenla	, une maison en la
+lavilled'Angers,outertreSaintLaurent	la ville d ' Angers , ou tertre Saint Laurent
+,avecquespluseursbiensmueblez,lezquiexnous	, avecques pluseurs biens mueblez , lez quiex nous
+noussontescheuset.	nous sont escheus et .
+ànousappartiennentpourlacausedessusdicte,	à nous appartiennent pour la cause dessus dicte ,
+comeditest.Nous.,pour	come dit est . Nous . , pour
+pourconsideraciondesbonset	pour consideracion des bons et
+aggreablesservicez	aggreables servicez
+queJehan	que Jehan
+JehandeLaBarre,clerc,nousafaiset	Jehan de La Barre , clerc , nous a fais et
+etesperonsque.ilnousface	et esperons que . il nous face
+ancoresoutempsavenir,àycelui	ancores ou temps avenir , à ycelui
+yceluiJehandeLaBarre,pour	ycelui Jehan de La Barre , pour
+pourlui,sezhoirs	pour lui , sez hoirs
+hoirsetceulx	hoirs et ceulx
+ceulxquide	ceulx qui de
+deluiaurontcause	de lui auront cause
+àtousjoursmais	à tousjours mais
+mais,avonsdonnéetdonnonsparcezpresentes,de..	mais , avons donné et donnons par cez presentes , de . .
+.nostreauctoritéroyal,	. nostre auctorité royal ,
+denostrecertainescience	de nostre certaine science
+etgraceespecial..,laditemaisonaveclezappartenances	et grace especial . . , la dite maison avec lez appartenances
+etlezbiens	et lez biens
+mueblezestans..enycellemaison,	mueblez estans . . en ycelle maison ,
+autampsdumesfaitdessus	au tamps du mesfait dessus
+dessusdit,ànousainsiappartenans	dessus dit , à nous ainsi appartenans
+appartenans,etescheuspourlacausedessusdite,come	appartenans , et escheus pour la cause dessus dite , come
+comeditest,àtenir	come dit est , à tenir
+etpossiderla	et possider la
+ditemaison,.ensamblesez	dite maison , . ensamble sez
+appartenances,parleditJehandeLaBarreet	appartenances , par le dit Jehan de La Barre et
+sezhoirsetayanscause..	sez hoirs et ayans cause . .
+delui,comme	de lui , comme
+leurpropreheritageàtousjoursmez.Sidonnons	leur propre heritage à tous jours mez . Si donnons
+enmandement,parcespresentes	en mandement , par ces presentes
+presentes,auseneschaletaureceveurd	presentes , au seneschal et au receveur d
+d'Anjou,ouà	d ' Anjou , ou à
+leurslieuxtenans,etàchascun	leurs lieux tenans , et à chascun
+chascund'eulx,quedeladitemaisonavecques.	chascun d ' eulx , que de la dite maison avecques .
+sesappartenances,s'ilest	ses appartenances , s ' il est
+ainsicommeditest,mettent..ou	ainsi comme dit est , mettent . . ou
+oufacentmettre	ou facent mettre
+mettreenpossessionetsaisineleditJehandeLa	mettre en possession et saisine le dit Jehan de La
+Barre,etd'ycellelessentet..facentuser	Barre , et d ' ycelle lessent et . . facent user
+etjoyrluietses	et joyr lui et ses
+hoirs,commedeleur	hoirs , comme de leur
+propre.heritage,à	propre . heritage , à
+tousjoursmez,etavec	tous jours mez , et avec
+celidelivrent	ce li delivrent
+,sanscontreditetautremandement	, sans contredit et autre mandement
+attendre,	attendre ,
+lesdizbiensmueblesquiestoientdedensycelle,au	les diz biens muebles qui estoient dedens ycelle , au
+autampsduditcrimecommisetperpetré,commedit	au tamps du dit crime commis et perpetré , comme dit
+est.Toutevoie	est . Toutevoie
+,n'estpas	, n ' est pas
+pas.nostreententeque,se	pas . nostre entente que , se
+pouraucuneschosesilavenoitquenousrendissionsou	pour aucunes choses il avenoit que nous rendissions ou
+oufeissionsrendrela.ditemaison	ou feissions rendre la . dite maison
+etsezappartenances	et sez appartenances
+auditJehan..Belon,nous	au dit Jehan . . Belon , nous
+nousfussionsde.	nous fussions de .
+riens..tenusà	riens . . tenus à
+enfairerecompensacionaucuneaudit.Jehande	en faire recompensacion aucune au dit . Jehan de
+LaBarreou	La Barre ou
+ouàsezhoirs,ouayans	ou à sez hoirs , ouayans
+causedelui	cause de lui
+.Etquecesoitferme,etc.	. Et que ce soit ferme , etc .
+.Sauf,etc	. Sauf , etc
 .Donnéàl'abbayede	. Donné à l ' abbaye de
-Jumeges,lexxxiiiiejourd'aoust,l	Jumeges , le xxxiiiie jour d ' aoust , l
-'andegrace	' an de grace
-miltroiscenssoixanteneuf,	mil trois cens soixante neuf ,
-,etlesisiesmedenostreregne.	, et le sisiesme de nostre regne .
-Parleroy	Par le roy
-roy.P.Blanchet.	roy . P . Blanchet .
+Jumeges,lexxxiiiiejour	Jumeges , le xxxiiiie jour
+d'aoust,l	d ' aoust , l
+'andegracemiltroiscens	' an de grace mil trois cens
+censsoixanteneuf,	cens soixante neuf ,
+,etlesisiesme	, et le sisiesme
+denostreregne.Parle	de nostre regne . Par le
+leroy.P	le roy . P
+P.Blanchet.	P . Blanchet .

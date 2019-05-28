@@ -1,131 +1,136 @@
-Charles,etc.Savoir	Charles , etc . Savoir
-faisons..,	faisons . . ,
-etc.,nous	etc ., nous
-avoirreceu	avoir receu
-l'umblesupplicaciondesparensetamischarnelzde	l ' umble supplicacion des parens et amis charnelz de
-GuillaumeCado,natif..de	Guillaume Cado , natif . . de
-ChasteauGontieroudiocèsed'Angiers,jeune	Chasteau Gontier ou diocèse d ' Angiers , jeune
-compaignon,aagéde	compaignon , aagé de
-devintansouenviron,sellier,	de vint ans ou environ , sellier ,
-demourantàLezignen,chargédefemme,à	demourant à Lezignen , chargé de femme , à
-presentdetenuprisonnierennozprisonsà	present detenu prisonnier en noz prisons à
-Poictiers,contenantque,	Poictiers , contenant que ,
-environlafestedesaintJehanBaptiste	environ la feste de saint Jehan Baptiste
-derrenierementpassée,leditGuillaumefutconjoinctparmariageavecques	derrenierement passée , ledit Guillaume fut conjoinct par mariage avecques
-avecquesFleurRigouronne,fillede	avecques Fleur Rigouronne , fille de
-feuOlivier..Rigouron	feu Olivier . . Rigouron
-,ensonvivantdemourantàPoictiers.	, en son vivant demourant à Poictiers .
-.Depuislequelmariageetenvironlasaint	. Depuis lequel mariage et environ la saint
-saintMichielaussiderrenierementpassée,icelluiGuillaume..alademoureraudit	saint Michiel aussi derrenierement passée , icellui Guillaume . . ala demourer audit
-auditlieudeLezignen,oùil	audit lieu de Lezignen , où il
-ilavoitdemouréautresfoiz,en	il avoit demouré autresfoiz , en
-enentenciondegaingnersavieetde	en entencion de gaingner sa vie et de
-desadictefemme	de sadicte femme
-.Etpourcequeaudit	. Et pour ce que audit
-lieudeLezignenneàPoictiers,ilnepovoit	lieu de Lezignen ne à Poictiers , il ne povoit
-bonnementgangnersavienedesadicte	bonnement gangner sa vie ne de sadicte
-femme,dontilestoittrèsmarry	femme , dont il estoittrès marry
-etdesplaisant..,pourpensaen	et desplaisant . . , pourpensa en
-ensoncouragequ'illuifailloitavoirdel	en son courage qu ' il lui failloit avoir de l
-l'argentpourvivre	l ' argent pour vivre
-vivreetentretenirson	vivre et entretenir son
-mesnageetmestier.Etde	mesnage et mestier . Et de
-fait...aouenviron,	fait ... a ou environ ,
-ungjourdedimenche	ung jour de dimenche
-dimenche,icelluyGuillaumesepartitdulieudeLezignen	dimenche , icelluy Guillaume se partit du lieu de Lezignen
-Lezignenetprintsesturquoisesàlui	Lezignen et print ses turquoises à lui
-luinecessairesensonditmestierdesellier,et	lui necessaires en son dit mestier de sellier , et
-etvintauditPoictiers,enentencionde	et vint audit Poictiers , en entencion de
-desroberHussonNouvelleprebstre	desrober Husson Nouvelle prebstre
-,demourant	, demourant
-oubourgSaintHillaire,quiavoitnom	ou bourg Saint Hillaire , qui avoit nom
-nomd'..estreriche	nom d ' . . estre riche
-hommeetenl'ostel	homme et en l ' ostel
-duquelilavoitautresfoiz	duquel il avoit autresfoiz
-esté,parlemoiend'une	esté , par le moien d ' une
-unechamberièredu	une chamberière du
-dupaïsd'Anjou	du païs d ' Anjou
-AnjouqueleditHussonavoit,	Anjou que ledit Husson avoit ,
-quil'avoitmenéboire	qui l ' avoit mené boire
-boireoudithostel;etluiestant..auditPoictiers,	boire oudit hostel ; et lui estant . . audit Poictiers ,
-couchacellenuytavecquessafemme,enl'	coucha celle nuyt avecques sa femme , en l '
-osteldelamèred	ostel de la mère d
+Charles,etc.Savoirfaisons,etc	Charles , etc . Savoir faisons , etc
+etc.,..nousavoirreceul'umblesupplicaciondes	etc ., . . nous avoir receu l ' umble supplicacion des
+parensetamischarnelz	parens et amis charnelz
+deGuillaumeCado,natifdeChasteau	de Guillaume Cado , natif de Chasteau
+Gontieroudiocèsed'Angiers,	Gontier ou diocèse d ' Angiers ,
+,jeunecompaignon,aagédevintansou	, jeune compaignon , aagé de vint ans ou
+environ,sellier,demourant	environ , sellier , demourant
+demourantà..Lezignen,chargé	demourant à . . Lezignen , chargé
+defemme,à.presentdetenuprisonnierennozprisons	de femme , à . present detenu prisonnier en noz prisons
+àPoictiers,contenantque,environlafestede	à Poictiers , contenant que , environ la feste de
+saintJehanBaptistederrenierementpassée.,ledit	saint Jehan Baptiste derrenierement passée . , ledit
+Guillaumefutconjoinctpar	Guillaume fut conjoinct par
+mariageavecques	mariage avecques
+FleurRigouronne	Fleur Rigouronne
+,..fillede	, . . fille de
+feuOlivierRigouron,ensonvivantdemourant	feu Olivier Rigouron , en son vivant demourant
+àPoictiers...	à Poictiers . . .
+DepuislequelmariageetenvironlasaintMichielaussi	Depuis lequel mariage et environ la saint Michiel aussi
+derrenierementpassée,icelluiGuillaumeala	derrenierement passée , icellui Guillaume ala
+demourerauditlieudeLezignen,oùilavoit	demourer audit lieu de Lezignen , où il avoit
+demouréautresfoiz..	demouré autresfoiz . .
+.,enentenciondegaingnersavie	. , en entencion de gaingner sa vie
+vieetdesadictefemme.Etpource	vie et de sadicte femme . Et pour ce
+queauditlieudeLezignenneàPoictiers	que audit lieu de Lezignen ne à Poictiers
+Poictiers,..ilne	Poictiers , . . il ne
+nepovoitbonnementgangnersavienedesadictefemme	ne povoit bonnement gangner sa vie ne de sadicte femme
+femme,dontilestoittrèsmarryetdesplaisant,	femme , dont il estoittrès marry et desplaisant ,
+,pourpensaensoncouragequ'il	, pourpensa en son courage qu ' il
+luifailloitavoirdel	lui failloit avoir de l
+'argentpourvivreetentretenirsonmesnageet	' argent pour vivre et entretenir son mesnage et
+mestier.Et	mestier . Et
+defait....a	de fait . ... a
+aouenviron,ungjourdedimenche,	a ou environ , ung jour de dimenche ,
+icelluy..GuillaumesepartitdulieudeLezignenet	icelluy . . Guillaume se partit du lieu de Lezignen et
+etprintsesturquoisesàluinecessairesenson	et print ses turquoises à lui necessaires en son
+dit.mestier	dit . mestier
+desellier,etvintauditPoictiers,en	de sellier , et vint audit Poictiers , en
+en..entenciondedesrober	en . . entencion de desrober
+desroberHussonNouvelleprebstre,demourant	desrober Husson Nouvelle prebstre , demourant
+ou..bourgSaintHillaire,qui	ou . . bourg Saint Hillaire , qui
+quiavoitnomd'estre	qui avoit nom d ' estre
+richehommeetenl'ostelduquel	riche homme et en l ' ostel duquel
+duquelilavoitautresfoizesté,par	duquel il avoit autresfoiz esté , par
+lemoiend'une	le moien d ' une
+chamberièredu	chamberière du
+païsd'Anjou	païs d ' Anjou
+AnjouqueleditHussonavoit,qui	Anjou que ledit Husson avoit , qui
+quil'avoitmenéboireoudithostel	qui l ' avoit mené boire oudit hostel
+;..etluiestant	; . . et lui estant
+auditPoictiers,	audit Poictiers ,
+couchacellenuytavecquessafemme,en	coucha celle nuyt avecques sa femme , en
+enl'osteldelamèred'	en l ' ostel de la mère d '
 'icelle.	' icelle .
-Etlelendemainquifutjourdelundi	Et le lendemain qui fut jour de lundi
-,leditGuillaumeenvenantdeSaintHilaireleGrant	, ledit Guillaume en venant de Saint Hilaire le Grant
-duditPoictiers..,setransporta	dudit Poictiers . . , se transporta
-enl'ostel	en l ' ostel
-duditHusson,etpardessus	dudit Husson , et par dessus
-le..murdelacourtestantau	le . . mur de la court estant au
-audevantd	au devant d
-'icelleentraenla	' icelle entra en la
-lagalleriedeladitemaison,etluiestant	la gallerie de ladite maison , et lui estant
-estantenladitegallerievitqu'iln'	estant en ladite gallerie vit qu ' il n '
-yavoitpersonne.en	y avoit personne . en
-icellemaison,	icelle maison ,
-ouvritàsesditesturquoises	ouvrit à sesdites turquoises
-lachambreduditHussonetentraenicelle,en	la chambre dudit Husson et entra en icelle , en
-laquelleiltrouvadeux	laquelle il trouva deux
-coffresappartenans	coffres appartenans
-auditHusson,lesquelzde	audit Husson , lesquelz de
-desesditesturquoisesil..ouvristetrompit	de sesdites turquoises il . . ouvrist et rompit
-lesserrures,ettrouvaenl'	les serrures , et trouva en l '
-'undesdiz	' un desdiz
-coffreslasommedeseptescuz	coffres la somme de sept escuz
-,etenl'autrelasommedecent	, et en l ' autre la somme de cent
-centescuzd'orneufzetungpetit	cent escuz d ' or neufz et ung petit
-tissuetunepetite	tissu et une petite
-sainturegarnied'argent,	sainture garnie d ' argent ,
-,cinqtassesettroiscuillersd	, cinq tasses et trois cuillers d
-'argent;lesquelzsommes	' argent ; lesquelz sommes
-etchosesdessusdictesilprintetemporta	et choses dessus dictes il print et emporta
-emporta,etprèsl'estangduditSaint	emporta , et près l ' estang dudit Saint
-Hilaire,encertainlieuoùnehabité	Hilaire , en certain lieu où ne habité
-guèrespersonnelesmussadedens	guères personne les mussa dedens
-terre,..forsseulementcinq	terre , . . fors seulement cinq
-escuzd'orqu	escuz d ' or qu
-qu'il..retintpardeverslui;	qu ' il . . retint par devers lui ;
-;.lesquelzilfistchanger	; . lesquelz il fist changer
-etd'..iceulx	et d ' . . iceulx
-achettadesmorsdebridesetdesestrivières,lesquelles	achetta des mors de brides et des estrivières , lesquelles
-lesquellesleditjourilportaauditlieu	lesquelles ledit jour il porta audit lieu
-lieudeLezignen.Et	lieu de Lezignen . Et
-certainjouraprèsretournaquerirlesditeschosesaulieu	certain jour après retourna querir lesdites choses au lieu
-oùillesavoitmussées,etlesemportaaudit	où il les avoit mussées , et les emporta audit
-lieudeLezignen.Etdepuisnaguères,	lieu de Lezignen . Et depuis naguères ,
-parsuspeçonouautrement,àl'occasiondudit	par suspeçon ou autrement , à l ' occasion dudit
-dudit.cas,il	dudit . cas , il
-ilaestéprinset	il a esté prins et
-etconstituéprisonnier	et constitué prisonnier
-ennosditesprisonsoùilestde	en nos dites prisons où il est de
-depresent,etaconfesséavoircommisleditcaspar	de present , et a confessé avoir commis ledit cas par
-lamanièrequeditest.Etdoubtequeon..vueille	la manière que ditest . Et doubte que on . . vueille
-vueillecontreluiprocederpar	vueille contre lui proceder par
-parrigueurdejusticeetlepugnircorporellement,	par rigueur de justice et le pugnir corporellement ,
-senozgraceetmisericordeneluiestoient	se noz grace et misericorde ne lui estoient
-surceimparties,	sur ce imparties ,
-humblement..requerantque,attenducequedit	humblement . . requerant que , attendu ce que dit
-estetqueleditGuillaumeparneccessité	est et que ledit Guillaume par neccessité
-acommisleditcas,etqueen	a commis ledit cas , et que en
-tousautrescasilestbienfamé	tous autres cas il est bien famé
-etrenommé,de	et renommé , de
-bonnevieethonnesteconversacion,nonactaintne	bonne vie et honneste conversacion , non actaint ne
-convaincu.d'	convaincu . d '
-aucunautrevilaincas,blasmeet	aucun autre vilain cas , blasme et
-etreprouche,ilnousplaise	et reprouche , il nous plaise
-plaiseluiimpartiricelles	plaise lui impartir icelles
-.Pour..quoynous,ceschosesconsiderées	. Pour . . quoy nous , ces choses considerées
-,voulansmisericordeprefereràrigueurdejustice,	, voulans misericorde preferer à rigueur de justice ,
-,auditGuillaumeavonsouditcasquicté,remisetpardonné	, audit Guillaume avons oudit cas quicté , remis et pardonné
-pardonné,etc..Sidonnonsenmandement,parces	pardonné , etc . . Si donnons en mandement , par ces
-cesmesmespresentes,auseneschaldePoictou.età	ces mesmes presentes , au seneschal de Poictou . et à
-àtousnozautresjusticiers,etc.Donné	à tous noz autres justiciers , etc . Donné
-DonnéàLyonsur	Donné à Lyon sur
-leRosne,oumoys	le Rosne , ou moys
-moysd'avril	moys d ' avril
-l'andegracemilcccc	l ' an de grace mil cccc
-.cinquantesixavantPasques,etdenostrerègne	. cinquante six avant Pasques , et de nostre règne
-lexxxvme	le xxxvme
-.Ainsisigné:Parleroy	. Ainsi signé : Par le roy
-,àlarelacionduconseil.Gauvigneau	, à la relacion du conseil . Gauvigneau
+Etlelendemain	Et le lendemain
+quifut.jour	qui fut . jour
+delundi,leditGuillaume	de lundi , ledit Guillaume
+envenantde	en venant de
+SaintHilaireleGrantdudit	Saint Hilaire le Grant dudit
+Poictiers,setransportaenl	Poictiers , se transporta en l
+'ostelduditHusson,et	' ostel dudit Husson , et
+pardessus	par dessus
+lemurdelacourtestantaudevantd	le mur de la court estant au devant d
+'icelleentraenlagalleriedeladitemaison,	' icelle entra en la gallerie de ladite maison ,
+etluiestantenladitegallerievitqu	et lui estant en ladite gallerie vit qu
+'iln'yavoit	' il n ' y avoit
+personneenicelle..maison,ouvritàsesdites	personne en icelle . . maison , ouvrit à sesdites
+turquoiseslachambre	turquoises la chambre
+duditHussonetentraenicelle,	dudit Husson et entra en icelle ,
+,enlaquelleiltrouvadeuxcoffresappartenansaudit	, en laquelle il trouva deux coffres appartenans audit
+auditHusson,lesquelz	audit Husson , lesquelz
+lesquelzdesesditesturquoises.ilouvristetrompit	lesquelz de sesdites turquoises . il ouvrist et rompit
+lesserrures,ettrouvaenl..	les serrures , et trouva en l . .
+.'undesdiz	. ' un desdiz
+desdizcoffreslasommedeseptescuz,	desdiz coffres la somme de sept escuz ,
+etenl'autre	et en l ' autre
+lasommede	la somme de
+centescuzd	cent escuz d
+'orneufzetungpetittissu.etune	' or neufz et ung petit tissu . et une
+petitesainturegarnied'argent	petite sainture garnie d ' argent
+argent,.cinqtassesettrois	argent , . cinq tasses et trois
+cuillers..d'argent;lesquelz	cuillers . . d ' argent ; lesquelz
+sommesetchoses..dessusdictesil	sommes et choses . . dessus dictes il
+printetemporta,etprèsl'estangdudit	print et emporta , et près l ' estang dudit
+duditSaintHilaire,encertainlieu	dudit Saint Hilaire , en certain lieu
+oùnehabitéguèrespersonne	où ne habité guères personne
+lesmussadedensterre,	les mussa dedens terre ,
+forsseulementcinqescuzd'or..	fors seulement cinq escuz d ' or . .
+qu'ilretintpar	qu ' il retint par
+deverslui;lesquelzil	devers lui ; lesquelz il
+fistchanger	fist changer
+etd'iceulx	et d ' iceulx
+achettadesmorsdebridesetdesestrivières	achetta des mors de brides et des estrivières
+,lesquellesleditjourilportaauditlieude	, lesquelles ledit jour il porta audit lieu de
+deLezignen.Etcertainjouraprès..	de Lezignen . Et certain jour après . .
+retournaquerirlesditeschoses	retourna querir lesdites choses
+aulieuoù	au lieu où
+illesavoitmussées,etles	il les avoit mussées , et les
+lesemportaauditlieudeLezignen.Etdepuis	les emporta audit lieu de Lezignen . Et depuis
+depuisnaguères,parsuspeçonou	depuis naguères , par suspeçon ou
+autrement,àl.'	autrement , à l . '
+'occasionduditcas,ila	' occasion dudit cas , il a
+aestéprinsetconstituéprisonnierennosditesprisonsoù	a esté prins et constitué prisonnier en nos dites prisons où
+ilestdepresent,etaconfesséavoir	il est de present , et a confessé avoir
+commisleditcasparlamanièrequeditest	commis ledit cas par la manière que ditest
+ditest.Etdoubte.queonvueillecontreluiprocederpar	ditest . Et doubte . que on vueille contre lui proceder par
+rigueurdejusticeetle	rigueur de justice et le
+pugnircorporellement,senozgrace	pugnir corporellement , se noz grace
+etmisericordeneluiestoientsur	et misericorde ne lui estoient sur
+ceimparties,humblement..	ce imparties , humblement . .
+requerantque,attenducequedit	requerant que , attendu ce que dit
+ditestetqueleditGuillaumepar	dit est et que ledit Guillaume par
+neccessitéacommisledit	neccessité a commis ledit
+leditcas,	ledit cas ,
+etqueentousautrescasil	et que en tous autres cas il
+estbien.faméetrenommé,de	est bien . famé et renommé , de
+bonnevieet	bonne vie et
+ethonnesteconversacion,non	et honneste conversacion , non
+nonactaintneconvaincu	non actaint ne convaincu
+d'aucun	d ' aucun
+autrevilaincas,blasmeet	autre vilain cas , blasme et
+etreprouche,ilnousplaiseluiimpartiricelles	et reprouche , il nous plaise lui impartir icelles
+.Pourquoynous,ceschoses.considerées	. Pour quoy nous , ces choses . considerées
+,voulansmisericordeprefereràrigueurdejustice	, voulans misericorde preferer à rigueur de justice
+,auditGuillaumeavonsoudit	, audit Guillaume avons oudit
+casquicté,	cas quicté ,
+,remisetpardonné,	, remis et pardonné ,
+etc.Sidonnonsenmandement,parces	etc . Si donnons en mandement , par ces
+cesmesmespresentes,auseneschaldePoictou	ces mesmes presentes , au seneschal de Poictou
+etàtousnoz	et à tous noz
+nozautresjusticiers,etc.DonnéàLyonsur	noz autres justiciers , etc . Donné à Lyon sur
+leRosne,..oumoysd'avrill'	le Rosne , . . ou moys d ' avril l '
+'andegracemilcccc..cinquante	' an de grace mil cccc . . cinquante
+cinquantesixavantPasques,etdenostrerègnelexxxvme	cinquante six avant Pasques , et de nostre règne le xxxvme
+.Ainsisigné:Par	. Ainsi signé : Par
+leroy,àlarelacionduconseil.Gauvigneau	le roy , à la relacion du conseil . Gauvigneau
 .—Visa.Contentor.Duban.	.— Visa . Contentor . Duban .

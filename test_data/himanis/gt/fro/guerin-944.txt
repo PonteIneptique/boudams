@@ -1,159 +1,161 @@
 Charles,etc.Savoirfaisonsàtous,	Charles , etc . Savoir faisons à tous ,
-presenset	presens et
-avenir,à	avenir , à
-nousavoirestéexposé	nous avoir esté exposé
-delapartiedeNicolasChaignea,povrehomme	de la partie de Nicolas Chaignea , povre homme
-homme,chargiéde	homme , chargié de
-jeunefemme,del’aage	jeune femme , de l ’ aage
-dexxv.àxxx.	de xxv . à xxx .
+presensetavenir,ànousavoirestéexposéde	presens et avenir , à nous avoir esté exposé de
+lapartiedeNicolas	la partie de Nicolas
+Chaignea,povrehomme..,chargiédejeunefemme,	Chaignea , povre homme . . , chargié de jeune femme ,
+,del’aagedexxv.àxxx.	, de l ’ aage de xxv . à xxx .
 ansouenviron	ans ou environ
-environ,etdecinqpetisenfansmineursd	environ , et de cinq petis enfans mineurs d
-’aage,demourans.au	’ aage , demourans . au
-lieudeSaintJehandeBuignéou	lieu de Saint Jehan de Buigné ou
-oupaïsdePoictou,	ou païs de Poictou ,
-quecomme,ledymenchecinquiesmejourdejuillet	que comme , le dymenche cinquiesme jour de juillet
-juilletl’an	juillet l ’ an
-miliiiic.xvi.derrenierementpasséouenviron	mil iiiic . xvi . derrenierement passé ou environ
-environ,environheuredevespres,un	environ , environ heure de vespres , un
-appelléJehanMarchant	appellé Jehan Marchant
-,laboureurdebras,demourant	, laboureur de bras , demourant
-aussi,outempsqu’ilvivoit,au	aussi , ou temps qu ’ il vivoit , au
-ditlieudeBuigné,lequel	dit lieu de Buigné , lequel
-estoit..homme	estoit . . homme
-hommededeshonnestevie,rioteuretbateurdegens	homme de deshonneste vie , rioteur et bateur de gens
-,et..estoitcoustumierdefrequentertavernes	, et . . estoit coustumier de frequenter tavernes
-,malfaméet	, mal famé et
-malrenomméoudit..païs,rancontraettrouvaen	mal renommé ou dit . . païs , rancontra et trouva en
-un..carrefour	un . . carrefour
-ouditlieu.deBuignéunappellé	ou dit lieu . de Buigné un appellé
-appelléNicolasSaimbiaut,hommedetrèspetiteetfoiblecorpulance	appellé Nicolas Saimbiaut , homme de très petite et foible corpulance
-etdebonne.etraisonnablevie	et de bonne . et raisonnable vie
-vie,auquelicelluiMarchantdistpluseursinjuresetvillenies	vie , auquel icellui Marchant dist pluseurs injures et villenies
-,etsifist	, et si fist
-ilàlafemmeduditSaimbaut,	il à la femme du dit Saimbaut ,
-làpresente,.sansce	là presente , . sans ce
-ce.qu’ilz	ce . qu ’ ilz
-luimesfissentnemesdeissentaucunement.Etaprèsqu	lui mesfissent ne mesdeissent aucunement . Et après qu
-’illes..otainsiinjuriezdeparolesmauvaiseset	’ il les . . ot ainsi injuriez de paroles mauvaises et
-villennes,ilqui	villennes , il qui
-estoitgrant,fort	estoit grant , fort
-etpuissantdecorps,seprinsttrès	et puissant de corps , se prinst très
-impetueusementausdizSaimbautetsafemme,et	impetueusement aus diz Saimbaut et sa femme , et
-parespecialauditSaimbiautetlegectacontreterre	par especial au dit Saimbiaut et le gecta contre terre
-,enlefrappant	, en le frappant
-despoingsetlefoulantdes..genouxtant	des poings et le foulant des . . genoux tant
-tantqu’ilpovoit	tant qu ’ il povoit
-,tenantun	, tenant un
-cousteautoutnuensamain,etdisantqu	cousteau tout nu en sa main , et disant qu
-’ilrenyoitDieus’ilne	’ il renyoit Dieu s ’ il ne
-tuoitlesdizSaimbiautetsa	tuoit les diz Saimbiaut et sa
-safemme.	sa femme .
-EtainsiqueleditMarchantbatoitetfrappoit	Et ainsi que le dit Marchant batoit et frappoit
-surleditSaimbiautqu’il	sur le dit Saimbiaut qu ’ il
-tenoitsoubz.	tenoit soubz .
-lui,commeditest,..	lui , comme dit est , . .
-.etquiestoitetestcousin	. et qui estoit et est cousin
-duditexposant,l’enraportaà	du dit exposant , l ’ en raporta à
-icelluiexposantestantlorsensamaison	icellui exposant estant lors en sa maison
-,auditlieudeBuigné,laquele	, au dit lieu de Buigné , la quele
-disteduditcarrefour..d’untraitd’arbalestre	diste dudit carrefour . . d ’ un trait d ’ arbalestre
-ouenviron,queleditMarchanttuoitle	ou environ , que le dit Marchant tuoit le
-ditSaimbaut	dit Saimbaut
-,soncousin.Lequelexposant,commetoutcourroucié	, son cousin . Lequel exposant , comme tout courroucié
-courrouciéetesmeudece,prinstunmarteau	courroucié et esmeu de ce , prinst un marteau
-àmaçonemmanché	à maçon emmanché
+,etdecinq	, et de cinq
+petisenfansmineursd’aage,	petis enfans mineurs d ’ aage ,
+,demouransaulieudeSaintJehandeBuignéou	, demourans au lieu de Saint Jehan de Buigné ou
+païsdePoictou,quecomme,ledymenchecinquiesme	païs de Poictou , que comme , le dymenche cinquiesme
+cinquiesmejourdejuilletl’	cinquiesme jour de juillet l ’
+anmiliiiicxvi.derrenierementpasséou	an mil iiiic xvi . derrenierement passé ou
+environ,environheuredevespres,	environ , environ heure de vespres ,
+unappelléJehanMarchant,laboureurdebras,	un appellé Jehan Marchant , laboureur de bras ,
+demourantaussi,outemps	demourant aussi , ou temps
+qu’ilvivoit,audit	qu ’ il vivoit , au dit
+lieudeBuigné,lequelestoithommededeshonneste	lieu de Buigné , lequel estoit homme de deshonneste
+vie,rioteuretbateur	vie , rioteur et bateur
+degens,	de gens ,
+etestoitcoustumierdefrequentertavernes	et estoit coustumier de frequenter tavernes
+,malfaméetmalrenomméoudit	, mal famé et mal renommé ou dit
+païs,rancontra	païs , rancontra
+ettrouvaenuncarrefourouditlieude	et trouva en un carrefour ou dit lieu de
+deBuignéunappelléNicolasSaimbiaut	de Buigné un appellé Nicolas Saimbiaut
+Saimbiaut,hommedetrèspetiteet	Saimbiaut , homme de très petite et
+foiblecorpulance..etdebonne	foible corpulance . . et de bonne
+bonneetraisonnable..vie,auquelicelluiMarchant	bonne et raisonnable . . vie , auquel icellui Marchant
+distpluseursinjuresetvillenies	dist pluseurs injures et villenies
+villenies,etsifistilàlafemmedu	villenies , et si fist il à la femme du
+duditSaimbaut,làpresente,sanscequ	du dit Saimbaut , là presente , sans ce qu
+’ilzlui	’ ilz lui
+mesfissentnemesdeissentaucunement.Etaprèsqu’	mesfissent ne mesdeissent aucunement . Et après qu ’
+illesotainsiinjuriez	il les ot ainsi injuriez
+deparolesmauvaisesetvillennes,ilquiestoit	de paroles mauvaises et villennes , il qui estoit
+estoitgrant,fortetpuissant	estoit grant , fort et puissant
+decorps,se	de corps , se
+prinsttrèsimpetueusement	prinst très impetueusement
+impetueusementausdizSaimbautetsafemme,etpar	impetueusement aus diz Saimbaut et sa femme , et par
+especialau	especial au
+ditSaimbiautetlegectacontreterre	dit Saimbiaut et le gecta contre terre
+terre,enlefrappantdespoingset	terre , en le frappant des poings et
+lefoulantdesgenouxtantqu’il	le foulant des genoux tant qu ’ il
+ilpovoit,tenantuncousteautoutnuensa	il povoit , tenant un cousteau tout nu en sa
+samain,etdisant	sa main , et disant
+disantqu’ilrenyoitDieus’ilnetuoit	disant qu ’ il renyoit Dieu s ’ il ne tuoit
+lesdizSaimbiautet	les diz Saimbiaut et
+safemme.Etainsiqueledit	sa femme . Et ainsi que le dit
+MarchantbatoitetfrappoitsurleditSaimbiautqu’	Marchant batoit et frappoit sur le dit Saimbiaut qu ’
+iltenoitsoubzlui,commedit.est,	il tenoit soubz lui , comme dit . est ,
+etquiestoitetestcousin	et qui estoit et est cousin
+duditexposant,l’en	du dit exposant , l ’ en
+enraportaàicelluiexposantestantlorsensamaison	en raporta à icellui exposant estant lors en sa maison
+,auditlieudeBuigné	, au dit lieu de Buigné
+,laquele	, la quele
+disteduditcarrefourd’untraitd’arbalestre	diste dudit carrefour d ’ un trait d ’ arbalestre
+arbalestreouenviron,	arbalestre ou environ ,
+queleditMarchanttuoit	que le dit Marchant tuoit
+tuoitledit	tuoit le dit
+Saimbaut,soncousin.Lequelexposant	Saimbaut , son cousin . Lequel exposant
+,commetoutcourrouciéet	, comme tout courroucié et
+etesmeudece,prinstunmarteauàmaçon	et esmeu de ce , prinst un marteau à maçon
 emmanchélong,ainsiquechascunaen	emmanché long , ainsi que chascun a en
-samaison	sa maison
-poursoydefendre,semestierestoit	pour soy defendre , se mestier estoit
-,despillarsetgensd’	, des pillars et gens d ’
-armesquifaisoientouditpaïsguerreetencoresfont	armes qui faisoient ou dit païs guerre et encores font
-font,s’	font , s ’
-’enalaauditcarrefouroù	’ en ala au dit carrefour où
-oùiltrouvaleditMarchantainsibatantleditSaimbiaut	où il trouva le dit Marchant ainsi batant le dit Saimbiaut
-,soncousin,etestantsurlui	, son cousin , et estant sur lui
-,commeditest,croyantledit	, comme dit est , croyant le dit
-exposantqu’il.	exposant qu ’ il .
-levoulsisttueretmurdrir.Etpour	le voulsist tuer et murdrir . Et pour
-celeditexposant,voyantcequedit	ce le dit exposant , voyant ce que dit
-estetmeud’	est et meu d ’
-amournaturele,etquele	amour naturele , et que le
-ditMarchantainsiavoitenormementbatuson	dit Marchant ainsi avoit enormement batu son
-ditcousinetencoresbatoit,etcuidant	dit cousin et encores batoit , et cuidant
-certainementqu’ill’eusttué,s	certainement qu ’ il l ’ eust tué , s
-s’ill’eustgueresplustenu	s ’ il l ’ eust gueres plus tenu
-soubzlui,frappadudit	soubz lui , frappa du dit
-marteauuntoutseulcouple	marteau un tout seul coup le
-dit.Marchantsurla	dit . Marchant sur la
-lateste;lequellaissalorsledit	la teste ; lequel laissa lors le dit
-Saimbaut.Etcefait,leditMarchantqui	Saimbaut . Et ce fait , le dit Marchant qui
-estoittoutyvreetembeudemoura	estoit tout yvre et embeu demoura
-demouralàparaucuneespacedetemps,etaprès	demoura là par aucune espace de temps , et après
+samaisonpoursoy	sa maison pour soy
+defendre,semestierestoit,despillarset.	defendre , se mestier estoit , des pillars et .
+gensd’armes	gens d ’ armes
+armesquifaisoientoudit	armes qui faisoient ou dit
+païsguerreetencoresfont,s	païs guerre et encores font , s
 s’enala	s ’ en ala
-alaou,quoyque	ala ou , quoy que
-soit,fuemportéouemmenéàsamaison	soit , fu emporté ou emmené à sa maison
-maisonauditlieudeBuigné.Du	maison au dit lieu de Buigné . Du
-quelcoupouautrementetdeshordonnancedu	quel coup ou autrement et deshordonnance du
-ditMarchant,quiestoitcoustumier	dit Marchant , qui estoit coustumier
-coustumierdesoyenyvrerchascun.jouretquinevouloit	coustumier de soy enyvrer chascun . jour et qui ne vouloit
-pointquel	point que l
-l’enpourveustàsasanté	l ’ en pourveust à sa santé
-santéetgarison,ilestalé	santé et garison , il est alé
-alédevieàtrespassement	alé de vie à trespassement
-neufjoursentiersaprèsicelluicop	neuf jours entiers après icellui cop
-donné.Etdit..l’encommunement,au	donné . Et dit . . l ’ en communement , au
-ditlieudeBuignéetenviron,qu’il	dit lieu de Buigné et environ , qu ’ il
-n’enfeust	n ’ en feust
-jàmort,s’ileusteubongouvernement	jà mort , s ’ il eust eu bon gouvernement
-gouvernement.Pouroccasionduquel	gouvernement . Pour occasion duquel
-duquelfait,le	duquel fait , le
-leditexposant,doubtantrigueurdejustice,	le dit exposant , doubtant rigueur de justice ,
-sefeustetsoitabsentédu	se feust et soit absenté du
-duditpaïs,delaissiezsesdictejeunefemmeet	du dit païs , delaissiez ses dicte jeune femme et
-etpetisenfans,quisontenaventurede	et petis enfans , qui sont en aventure de
-cheoirentrèsgrantnecessitéetpovretéetd	cheoir en très grant necessité et povreté et d
-d’alermendiantçàetlàleur	d ’ aler mendiant çà et là leur
-povrevie	povre vie
-,.etpardevers	, . et par devers
-lesquelzneouditpaïs	lesquelz ne ou dit païs
-le..ditexposantn’	le . . dit exposant n ’
-’oseroitjamaisretournernedemourer	’ oseroit jamais retourner ne demourer
-,sansavoirsurce,..	, sans avoir sur ce , . .
-avanttouteeuvre,	avant toute euvre ,
-nostregraceetmisericorde,sicommeildit,..	nostre grace et misericorde , si comme il dit , . .
-ennoushumblement	en nous humblement
-suppliantque,	suppliant que ,
-commeleditfaitsoitavenupar	comme le dit fait soit avenu par
-parchaleuretgrantcourroux	par chaleur et grant courroux
-,etpourl’amournaturelequele	, et pour l ’ amour naturele que le
-ditsuppliantavoitàsondit..cousin	dit suppliant avoit à son dit . . cousin
-,ouautrement	, ou autrement
-partemptacionde.l’ennemi,	par temptacion de . l ’ ennemi ,
-etnonpasd’aguetprecogité,etque	et non pas d ’ aguet precogité , et que
-enautrescasleditsuppliantatousjoursesté..	en autres cas le dit suppliant a tousjours esté . .
-.etestpersonne	. et est personne
-paisible,debonnevie	paisible , de bonne vie
-,renommée,etc.,etaussique	, renommée , etc ., et aussi que
-lesparensetamischarnelzdudit	les parens et amis charnelz du dit
-suppliantontjàcontentéetfaitsatisfactionàla	suppliant ont jà contenté et fait satisfaction à la
-vefveetparensdudit	vefve et parens du dit
-trespassé,sicommel’endit,.	trespassé , si comme l ’ en dit , .
-noussurceluivueillonsimpartiret	nous sur ce lui vueillons impartir et
-eslargirnostregraceetmisericorde.Pour	eslargir nostre grace et misericorde . Pour
-Pourquoynous,ceschosesconsiderées	Pour quoy nous , ces choses considerées
-considerées,.etc.,au	considerées , . etc ., au
-auditNicolasChaigneau,suppliant.,oucasdessusdit	au dit Nicolas Chaigneau , suppliant . , ou cas dessus dit
-dit,avons	dit , avons
-avonsremis,quictéetpardonné,etc.Sidonnons	avons remis , quicté et pardonné , etc . Si donnons
-enmandementparcespresentes	en mandement par ces presentes
-aubaillidesressorsetExempcionsde	au bailli des ressors et Exempcions de
-Touraine,d	Touraine , d
-’Anjou,duditpaïsde	’ Anjou , du dit païs de
-PoictouetduMaine,ouà	Poictou et du Maine , ou à
-sonlieutenant,etàtous	son lieutenant , et à tous
-nozautresjusticiers,etc.	noz autres justiciers , etc .
-DonnéàParis,oumoisde	Donné à Paris , ou mois de
-juilletl’andegracemilcccc.et	juillet l ’ an de grace mil cccc . et
+auditcarrefour	au dit carrefour
+carrefouroùiltrouvaleditMarchantainsi	carrefour où il trouva le dit Marchant ainsi
+batantledit	batant le dit
+Saimbiaut,soncousin,etestantsurlui	Saimbiaut , son cousin , et estant sur lui
+lui,comme.ditest,	lui , comme . dit est ,
+croyantleditexposantqu’illevoulsisttuer	croyant le dit exposant qu ’ il le voulsist tuer
+etmurdrir.Etpourceleditexposant,	et murdrir . Et pour ce le dit exposant ,
+voyantcequeditestetmeud’	voyant ce que dit est et meu d ’
+amournaturele,etqueledit	amour naturele , et que le dit
+Marchantainsiavoit	Marchant ainsi avoit
+avoit..enormementbatuson	avoit . . enormement batu son
+ditcousinetencores	dit cousin et encores
+batoit,etcuidant	batoit , et cuidant
+certainementqu’ill’eusttué,	certainement qu ’ il l ’ eust tué ,
+,s’ill’eustgueresplustenu	, s ’ il l ’ eust gueres plus tenu
+soubzlui,frappadudit	soubz lui , frappa du dit
+marteauuntoutseulcouple..ditMarchant	marteau un tout seul coup le . . dit Marchant
+surlateste;	sur la teste ;
+lequellaissa.lorsle	lequel laissa . lors le
+leditSaimbaut.Etcefait	le dit Saimbaut . Et ce fait
+,leditMarchant	, le dit Marchant
+Marchantquiestoittoutyvre	Marchant qui estoit tout yvre
+etembeudemouralàparaucuneespacede	et embeu demoura là par aucune espace de
+detemps,etaprèss’	de temps , et après s ’
+enalaou,quoyque	en ala ou , quoy que
+quesoit,	que soit ,
+fuemportéouemmenéàsa	fu emporté ou emmené à sa
+maisonauditlieu	maison au dit lieu
+deBuigné.Duquel..coupouautrementetdeshordonnance	de Buigné . Du quel . . coup ou autrement et deshordonnance
+duditMarchant,quiestoit	du dit Marchant , qui estoit
+coustumierdesoyenyvrerchascunjouret	coustumier de soy enyvrer chascun jour et
+etquinevouloitpointquel’	et qui ne vouloit point que l ’
+enpourveustàsasantéetgarison	en pourveust à sa santé et garison
+,ilestalédevieà	, il est alé de vie à
+trespassementneufjoursentiersaprèsicelluicopdonné...	trespassement neuf jours entiers après icellui cop donné . . .
+Etditl’encommunement,audit	Et dit l ’ en communement , au dit
+lieudeBuignéet	lieu de Buigné et
+environ,qu’iln’enfeustjà	environ , qu ’ il n ’ en feust jà
+mort,s’	mort , s ’
+ileust.eubongouvernement.	il eust . eu bon gouvernement .
+Pouroccasionduquelfait,leditexposant	Pour occasion duquel fait , le dit exposant
+,doubtantrigueurde	, doubtant rigueur de
+justice,.sefeustetsoitabsentédu	justice , . se feust et soit absenté du
+duditpaïs	du dit païs
+païs,delaissiezsesdictejeunefemmeetpetisenfans	païs , delaissiez ses dicte jeune femme et petis enfans
+,quisont	, qui sont
+enaventuredecheoirentrèsgrantnecessité	en aventure de cheoir en très grant necessité
+etpovretéetd’alermendiantçàet	et povreté et d ’ aler mendiant çà et
+etlàleurpovrevie,et	et là leur povre vie , et
+pardeverslesquelzneou	par devers lesquelz ne ou
+ditpaïsleditexposantn’oseroitjamaisretourner	dit païs le dit exposant n ’ oseroit jamais retourner
+nedemourer,sansavoir	ne demourer , sans avoir
+surce,avanttouteeuvre,nostregraceet	sur ce , avant toute euvre , nostre grace et
+etmisericorde,sicommeildit	et misericorde , si comme il dit
+dit,ennoushumblementsuppliantque,commeledit	dit , en nous humblement suppliant que , comme le dit
+ditfaitsoitavenuparchaleur	dit fait soit avenu par chaleur
+chaleuret.grantcourroux,etpourl’	chaleur et . grant courroux , et pour l ’
+amournaturelequeledit	amour naturele que le dit
+suppliantavoitàsondit	suppliant avoit à son dit
+cousin,ouautrementpartemptaciondel	cousin , ou autrement par temptacion de l
+l’ennemi,etnon	l ’ ennemi , et non
+pasd’aguetprecogité,etqueenautres	pas d ’ aguet precogité , et que en autres
+casleditsuppliantatousjoursestéetestpersonne	cas le dit suppliant a tousjours esté et est personne
+personnepaisible,debonnevie,renommée,etc.,	personne paisible , de bonne vie , renommée , etc .,
+et.aussiquelesparensetamischarnelz	et . aussi que les parens et amis charnelz
+duditsuppliantontjàcontenté	du dit suppliant ont jà contenté
+etfaitsatisfactionàlavefveet.parensdu	et fait satisfaction à la vefve et . parens du
+dudittrespassé,sicommel’	du dit trespassé , si comme l ’
+’endit,noussurcelui	’ en dit , nous sur ce lui
+vueillonsimpartiret	vueillons impartir et
+eteslargirnostregraceetmisericorde.Pourquoynous,	et eslargir nostre grace et misericorde . Pour quoy nous ,
+ceschosesconsiderées..,etc	ces choses considerées . . , etc
+.,auditNicolasChaigneau	., au dit Nicolas Chaigneau
+Chaigneau,suppliant,ou	Chaigneau , suppliant , ou
+casdessusdit,avonsremis,	cas dessus dit , avons remis ,
+quictéet	quicté et
+pardonné,etc.Sidonnonsenmandement	pardonné , etc . Si donnons en mandement
+parcespresentes	par ces presentes
+presentesaubaillidesressorsetExempcionsde	presentes au bailli des ressors et Exempcions de
+Touraine,d’Anjou,	Touraine , d ’ Anjou ,
+duditpaïs	du dit païs
+dePoictouet	de Poictou et
+duMaine	du Maine
+,ouàsonlieutenant,etàtousnoz	, ou à son lieutenant , et à tous noz
+autresjusticiers	autres justiciers
+,etc...Donné	, etc . . . Donné
+àParis,	à Paris ,
+oumoisde	ou mois de
+dejuilletl’andegracemilcccc.et	de juillet l ’ an de grace mil cccc . et
 dixsept,etdenostreregne	dix sept , et de nostre regne
-lexxxviie.	le xxxviie .
-Parleroy,àlarelacionduconseil.	Par le roy , à la relacion du conseil .
-Montfort.	Montfort .
+lexxxviie.Parle	le xxxviie . Par le
+roy,àla	roy , à la
+relacionduconseil.Montfort.	relacion du conseil . Montfort .

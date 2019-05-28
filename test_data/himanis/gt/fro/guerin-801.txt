@@ -1,298 +1,278 @@
-Charles,etc.Savoir	Charles , etc . Savoir
-faisonsàtouz	faisons à touz
-touz,presensetavenir,	touz , presens et avenir ,
-nousavoirveules	nous avoir veu les
-lettresdesquelles	lettres des quelles
-lateneurs'	la teneur s '
-'ensuit:A	' ensuit : A
-Atousceulz	A tous ceulz
-ceulzquiceslettresverrontetorront,Jehan	ceulz qui ces lettres verront et orront , Jehan
-leBaener,grenetieràLavalGuion,etGuillaume	le Baener , grenetier à Laval Guion , et Guillaume
-Guerin,commissairesdeparleroynostresire	Guerin , commissaires de par le roy nostre sire
-sireèspays	sire ès pays
-deTouraine,AnjouetduMainesur	de Touraine , Anjou et du Maine sur
-lefaitdesfinancesdesacquisitionsfaictespargensd..	le fait des finances des acquisitions faictes par gens d . .
-.'egliseetpersonnes	. ' eglise et personnes
-nonnobles	non nobles
-nobles..,salut.Commepar	nobles . . , salut . Comme par
-parleslettresroyaulxduroynostre	par les lettres royaulx du roy nostre
-sire.puetapparoir	sire . puet apparoir
-apparoir,dont	apparoir , dont
-lateneurs'ensuit	la teneur s ' ensuit
-:Charles	: Charles
-,parlagracedeDieuroydeFrance,	, par la grace de Dieu roy de France ,
-àGuillaumeBouchart,Jehanle	à Guillaume Bouchart , Jehan le
-leBanier,	le Banier ,
-grenetierde	grenetier de
-LavalGuion.,etàGuillaumeGuerin,salut	Laval Guion . , et à Guillaume Guerin , salut
-.Comme.nousjàpieça,par	. Comme . nous jà pieça , par
-ladeliberaciondenoz	la deliberacion de noz
-amezetfeaulx..tresoriersàParis	amez et feaulx . . tresoriers à Paris
-,etparnosautreslettres,vouseussionscommis	, et par nos autres lettres , vous eussions commis
-etordenezetchascundevous	et ordenez et chascun de vous
-àvacqueretprocederetentendresurlefaitdes	à vacquer et proceder et entendre sur le fait des
-nouveauxacquèsfaizpargens..d	nouveaux acquès faiz par gens . . d
-d'egliseetpersonnesnon	d ' eglise et personnes non
-noblesèspaïsdeTouraine,d'Anjou	nobles ès païs de Touraine , d ' Anjou
-AnjouetduMaine,etèsmettesetressorsd	Anjou et du Maine , et ès mettes et ressors d
-'iceulxpaïz	' iceulx païz
-,tanten	, tant en
-regales,fiezenclavez	regales , fiez enclavez
-commedehors,	comme dehors ,
-,confiansàplaindevossens,loyaultezet	, confians à plain de vos sens , loyaultez et
-bonnes..diligences,	bonnes . . diligences ,
-etaussiàlarelacionde	et aussi à la relacion de
-nosdiz.tresoriers,vous	nos diz . tresoriers , vous
-avonscommisetordenez,etparcespresentescommettons	avons commis et ordenez , et par ces presentes commettons
-,ordenonsetestablissonscommissairessurleditfaitès	, ordenons et establissons commissaires sur le dit fait ès
-dizpaïs.Sivous.mandons,ouauxdeux	diz païs . Si vous . mandons , ou aux deux
-devous,oucas	de vous , ou cas
-casqueles	cas que les
-troisn'.y	trois n ' . y
-ypourroientvacquer,oul	y pourroient vacquer , ou l
-l'unseroit	l ' un seroit
-empeschiéd'autres	empeschié d ' autres
-besongnes,	besongnes ,
-queouditfaitprocedezetentendezdiligenment,	que ou dit fait procedez et entendez diligenment ,
-etparcespresentesvous	et par ces presentes vous
-vousavonsdonnéetdonnons,aux	vous avons donné et donnons , aux
-troizou..deux	troiz ou . . deux
-devous,	de vous ,
-plainpouvoirdefineretcomposer	plain pouvoir de finer et composer
-avecquestousnon	avecques tous non
-nonnoblesetgens	non nobles et gens
-d'eglise.,quinousdoiventoupourrontdevoir	d ' eglise . , qui nous doivent ou pourront devoir
-aucunefinanceàcausedesfiezouchosesnobles	aucune finance à cause des fiez ou choses nobles
-pareulxfaizetacquis,	par eulx faiz et acquis ,
-èsdizpaïsetèsmetteset	ès diz païs et ès mettes et
-etressorsd'iceulx,depersonnes	et ressors d ' iceulx , de personnes
-personnesnoblesouenfiefznobles,pourveu	personnes nobles ou en fiefz nobles , pourveu
-quelesgensd'egliselesaient	que les gens d ' eglise les aient
-acquisesenleurs	acquises en leurs
-leurspropresetpriveznoms,	leurs propres et privez noms ,
-selonlajuste	selon la juste
-justevaleurd'iceulxetlesinstructionssurce	juste valeur d ' iceulx et les instructions sur ce
-cefaictesàvousenvoyées	ce faictes à vous envoyées
-envoyées,etdelescontraindreà	envoyées , et de les contraindre à
-ce,etaussitoutesgensd'egliseà	ce , et aussi toutes gens d ' eglise à
-mettrehorsdeleursmains,tantreligieux	mettre hors de leurs mains , tant religieux
+Charles,.etc.	Charles , . etc .
+.Savoirfaisonsàtouz,presensetavenir,nous	. Savoir faisons à touz , presens et avenir , nous
+avoirveuleslettresdes	avoir veu les lettres des
+quelleslateneurs'ensuit:Atousceulz	quelles la teneur s ' ensuit : A tous ceulz
+quiceslettresverrontetorront,Jehanle	qui ces lettres verront et orront , Jehan le
+Baener,grenetieràLavalGuion,etGuillaumeGuerin	Baener , grenetier à Laval Guion , et Guillaume Guerin
+,..commissairesde	, . . commissaires de
+deparleroynostresireèspaysdeTouraine	de par le roy nostre sire ès pays de Touraine
+,AnjouetduMainesur	, Anjou et du Maine sur
+le..faitdesfinancesdesacquisitionsfaictes	le . . fait des finances des acquisitions faictes
+pargensd'egliseet.personnesnon	par gens d ' eglise et . personnes non
+nobles,salut.Comme..parles	nobles , salut . Comme . . par les
+lettresroyaulxduroynostresire	lettres royaulx du roy nostre sire
+sirepuetapparoir,dontlateneurs	sire puet apparoir , dont la teneur s
+s'ensuit:Charles.	s ' ensuit : Charles .
+,parlagracedeDieu	, par la grace de Dieu
+roydeFrance,	roy de France ,
+,àGuillaumeBouchart,JehanleBanier,grenetierde	, à Guillaume Bouchart , Jehan le Banier , grenetier de
+LavalGuion,etàGuillaumeGuerin,salut.	Laval Guion , et à Guillaume Guerin , salut .
+Commenousjàpieça,par	Comme nous jà pieça , par
+ladeliberaciondenozamezetfeaulxtresoriers	la deliberacion de noz amez et feaulx tresoriers
+àParis,etparnosautreslettres,	à Paris , et par nos autres lettres ,
+,vous..eussionscommisetordenez	, vous . . eussions commis et ordenez
+etchascundevousàvacqueretprocederetentendre	et chascun de vous à vacquer et proceder et entendre
+surlefait	sur le fait
+desnouveauxacquèsfaizpar	des nouveaux acquès faiz par
+gensd'egliseetpersonnesnonnoblesès	gens d ' eglise et personnes non nobles ès
+païsdeTouraine,d.'	païs de Touraine , d . '
+'Anjouet	' Anjou et
+duMaine,etèsmettes	du Maine , et ès mettes
+metteset.ressors	mettes et . ressors
+ressorsd'iceulx	ressors d ' iceulx
+païz,tanten..regales,	païz , tant en . . regales ,
+fiezenclavezcommedehors	fiez enclavez comme dehors
+,..confiansàplain	, . . confians à plain
+devossens,loyaultezetbonnes	de vos sens , loyaultez et bonnes
+diligences,etaussiàlarelacionde	diligences , et aussi à la relacion de
+nosdiztresoriers,..vousavonscommisetordenez,	nos diz tresoriers , . . vous avons commis et ordenez ,
+etparcespresentescommettons,ordenonsetestablissons	et par ces presentes commettons , ordenons et establissons
+commissairessurleditfaitèsdizpaïs.Si	commissaires sur le dit fait ès diz païs . Si
+vousmandons,.	vous mandons , .
+.ouauxdeuxdevous,oucasque	. ou aux deux de vous , ou cas que
+quelestroisn	que les trois n
+'ypourroientvacquer,ou	' y pourroient vacquer , ou
+l'unseroitempeschiéd'autres	l ' un seroit empeschié d ' autres
+besongnes,queouditfait	besongnes , que ou dit fait
+procedezet	procedez et
+entendez..diligenment	entendez . . diligenment
+diligenment,etparces	diligenment , et par ces
+presentesvousavonsdonnéetdonnons	presentes vous avons donné et donnons
+donnons,auxtroizoudeuxdevous,plainpouvoir	donnons , aux troiz ou deux de vous , plain pouvoir
+pouvoirdefineretcomposeravecquestousnon	pouvoir de finer et composer avecques tous non
+noblesetgensd'eglise,qui	nobles et gens d ' eglise , qui
+nousdoiventoupourrontdevoiraucunefinanceàcausedes	nous doivent ou pourront devoir aucune finance à cause des
+fiezouchosesnoblespar..eulx	fiez ou choses nobles par . . eulx
+faizetacquis	faiz et acquis
+,èsdizpaïset	, ès diz païs et
+èsmettes..etressorsd'iceulx,de	ès mettes . . et ressors d ' iceulx , de
+personnesnoblesouenfiefz	personnes nobles ou en fiefz
+nobles,pourveuquelesgensd	nobles , pourveu que les gens d
+'egliseles	' eglise les
+aientacquises..enleurspropres	aient acquises . . en leurs propres
+etpriveznoms	et privez noms
+,selonlajuste	, selon la juste
+justevaleurd'iceulxet	juste valeur d ' iceulx et
+lesinstructionssurcefaictesàvousenvoyées,	les instructions sur ce faictes à vous envoyées ,
+etdelescontraindreàce	et de les contraindre à ce
+,et.aussitoutesgensd	, et . aussi toutes gens d
+'egliseàmettrehorsdeleursmains,tant	' eglise à mettre hors de leurs mains , tant
 religieuxcommeautres,	religieux comme autres ,
-età..baillerpardeclaracionlesdons,	et à . . bailler par declaracion les dons ,
-lais,augmentacionsetacquestspareulxfaiz	lais , augmentacions et acquests par eulx faiz
-faizèsdizpaisetèsmettes	faiz ès diz pais et ès mettes
-mettesetressorsd'iceulx,par	mettes et ressors d ' iceulx , par
-partoutesvoieset	par toutes voies et
-manieresdeuesetraisonnablesetqu	manieres deues et raisonnables et qu
-qu'ilestacoustuméàfaire	qu ' il est acoustumé à faire
+etàbaillerpardeclaracionlesdons,lais,	et à bailler par declaracion les dons , lais ,
+augmentacionsetacquestspareulxfaizèsdizpais	augmentacions et acquests par eulx faiz ès diz pais
+etèsmettesetressorsd'iceulx,	et ès mettes et ressors d ' iceulx ,
+,partoutesvoiesetmanieresdeueset	, par toutes voies et manieres deues et
+raisonnablesetqu'ilest	raisonnables et qu ' il est
+acoustuméàfaire	acoustumé à faire
 faireentelcas.Etlescomposicionsquevousaurez	faire en tel cas . Et les composicions que vous aurez
-faictes,baillezaureceveursur	faictes , baillez au receveur sur
-ceordené,pourlesfaireparluileveret	ce ordené , pour les faire par lui lever et
-exploictierànostreproufit.	exploictier à nostre proufit .
-Etvoulonsetnousplaistquetousceulzqui	Et voulons et nous plaist que tous ceulz qui
-aurontfinéetcomposéavecquesvous,	auront finé et composé avecques vous ,
-lesdeuxoulestroisdevous,	les deux ou les trois de vous ,
-,parlamanierequedit.	, par la maniere que dit .
-est,à.causedesdiznouveaux	est , à . cause des diz nouveaux
-acquès,..ensoientetdemeurentetlesaians	acquès , . . en soient et demeurent et les aians
-aianscaused	aians cause d
-d'eulxà	d ' eulx à
-tousjoursmais	tousjours mais
-quictesetpaisibles,et	quictes et paisibles , et
-dèsàpresent	dès à present
-lesenquictons	les en quictons
-enrapportantlettresdesdiz.commissairesetquictancedupaiement	en rapportant lettres des diz . commissaires et quictance du paiement
-desdictesfinancesdudit..receveur	des dictes finances du dit . . receveur
-.Etneantmoins,pource	. Et neantmoins , pour ce
-cequeparlesregistresdestabellionsjurezèsdiz	ce que par les registres des tabellions jurez ès diz
-païsvouspourraapparoirde	païs vous pourra apparoir de
-pluseursacquisicionsfaictes.par	pluseurs acquisicions faictes . par
-gensd'eglise	gens d ' eglise
-etpersonnesnonnobles,dontfinancenousestdeue	et personnes non nobles , dont finance nous est deue
-,lesquellesacquisicionsparaventurepourroientestrereceléespar..	, lesquelles acquisicions par aventure pourroient estre recelées par . .
-ceulzquilespossident,.nous	ceulz qui les possident , . nous
-mandonsetestroictementenjoignonsàtouslestabellionsdes	mandons et estroictement enjoignons à tous les tabellions des
-dizlieuxetpaïsquiontesté	diz lieux et païs qui ont esté
-etsont,et	et sont , et
-quipourle	qui pour le
-letempsavenir,durantvostrecommission,yseront	le temps avenir , durant vostre commission , y seront
-seront,qu'ilzvousfacentostencionetlecturede	seront , qu ' ilz vous facent ostencion et lecture de
-leursregistres,semestierest	leurs registres , se mestier est
-est,etparvousensont	est , et par vous en sont
-ouserontrequis,	ou seront requis ,
-afind'..en	afin d ' . . en
-en.extrairecequipournous	en . extraire ce qui pour nous
-vousseranecessaire.Etse	vous sera necessaire . Et se
-aucunsvoussontdesobeissansourefusans,ouà	aucuns vous sont desobeissans ou refusans , ou à
-vozcommisetdeputez,	voz commis et deputez ,
-adjournezlesoufaictesadjourner..,àcertainet	adjournez les ou faictes adjourner . . , à certain et
-competantjour,pardevantnos..diztresoriers,à	competant jour , par devant nos . . diz tresoriers , à
-àcomparoirpersonnelment	à comparoir personnelment
-etàrespondreànostreprocureur..surceque	et à respondre à nostre procureur . . sur ce que
-quepouroccasion..deces	que pour occasion . . de ces
-ceschoses,lescirconstancesetdeppendencesd	ces choses , les circonstances et deppendences d
-'icelles,leurvouldrarequerir	' icelles , leur vouldra requerir
-requeriretdemander,etprocederenoultreselonraison	requerir et demander , et proceder en oultre selon raison
-raison.Ettellementprocedezetentendezou	raison . Et tellement procedez et entendez ou
-dit..faitquedebonnediligencevousen	dit . . fait que de bonne diligence vous en
-doiezestrerecommandez,etque..leditfaitsoit	doiez estre recommandez , et que . . le dit fait soit
-briefmentparvostrebonnediligencemisàfin	briefment par vostre bonne diligence mis à fin
-etàdeue	et à deue
-deueconclusion.Saichansque	deue conclusion . Saichans que
-que,seainsile.faictes,vous	que , se ainsi le . faictes , vous
-delapeineetdespenseque	de la peine et despense que
-vousyferésnousvousferons	vous y ferés nous vous ferons
-telement.remunererquevous	telement . remunerer que vous
-vousendevrésestrecontens,en	vous en devrés estre contens , en
-certiffiantsouffisanmentsur	certiffiant souffisanment sur
-cenosdiztresoriersdetoutceque	ce nos diz tresoriers de tout ce que
-faitoufaitfaireaurezencestepartie.De..	fait ou fait faire aurez en ceste partie . De . .
-cefaire	ce faire
-vousdonnons	vous donnons
-donnonspouvoir,	donnons pouvoir ,
-,mandonsetcommandonsàtousnos	, mandons et commandons à tous nos
-justiciers,officiersetsubgiezqueàvous	justiciers , officiers et subgiez que à vous
-ouaux..deuxdevous	ou aux . . deux de vous
-,età..vos	, et à . . vos
-voscommisobeissentdiligenmentetentendent	vos commis obeissent diligenment et entendent
-,etvousprestentconseil,confortetaide	, et vous prestent conseil , confort et aide
-,..semestierestetparvous	, . . se mestier est et par vous
-ensontrequis.DonnéàParis,	en sont requis . Donné à Paris ,
-le..XIIIe	le . . XIIIe
-jourd..'aoust	jour d . . ' aoust
-l'andegrace	l ' an de grace
-gracemilCCCquatrevinset	grace mil CCC quatre vins et
-quinze,etleXVe.	quinze , et le XVe .
-denostreregne.—Ainsisigné	de nostre regne .— Ainsi signé
-:Parles	: Par les
-trésoriers.G.Millerat	trésoriers . G . Millerat
-.Parvertudesquelleslettresroyaulx	. Par vertu desquelles lettres royaulx
-dessustranscriptes..etdupovoirànousdonnépar	dessus transcriptes . . et du povoir à nous donné par
-ycelles,	ycelles ,
-,nousavonsfaitappelleretconvenirpardevantnous	, nous avons fait appeller et convenir par devant nous
-nousTassinScolin,demourantàSaintEstiennede	nous Tassin Scolin , demourant à Saint Estienne de
-Sarigné,.pournousapporteretbailler	Sarigné , . pour nous apporter et bailler
-pardeclaraciontouteset	par declaracion toutes et
-chacuneslesrentes,	chacunes les rentes ,
-,possessionset.chosesqueiltient,acquisesparlui	, possessions et . choses que il tient , acquises par lui
-ou..parses	ou . . par ses
-predecesseursdepersonnesnobles,ouquifontpartiesde	predecesseurs de personnes nobles , ou qui font parties de
-fiefsnobles,depuisle	fiefs nobles , depuis le
-letempscontenuèsinstructions	le temps contenu ès instructions
-royaulx,afinqu'ilfeusttenud	royaulx , afin qu ' il feust tenu d
-d'enfairefinanceauroynostreditseigneur	d ' en faire finance au roy nostre dit seigneur
-,selonle	, selon le
-contenudesdictesinstructions.LequelTassinScolindisoità	contenu des dictes instructions . Lequel Tassin Scolin disoit à
-sadeffenseetproposoitpar..devant	sa deffense et proposoit par . . devant
-nousenjugementquetenun	nous en jugement que tenu n
-n'estoitd'enpaiernefaireaucunefinance	n ' estoit d ' en paier ne faire aucune finance
-auroy,par	au roy , par
-cequ'ilestnoblepersonnedu	ce qu ' il est noble personne du
-ducostéetlignedeparsonpereetné	du costé et ligne de par son pere et né
-etextrait	et extrait
-denoblelignée..,offrantleditTassin	de noble lignée . . , offrant le dit Tassin
-Scolin..deceschosesprouveretenseignersouffisanment	Scolin . . de ces choses prouver et enseigner souffisanment
-souffisanment.Lequelpropos	souffisanment . Lequel propos
-parluifaitnousluinyasmesàtoutesfins	par lui fait nous lui nyasmes à toutes fins
-fins,et	fins , et
-surceassignasmes	sur ce assignasmes
-jourauditTassin,	jour au dit Tassin ,
-pourprouverdesanoblesseetenseignercommeen	pour prouver de sa noblesse et enseigner comme en
-tel.casappartenoit.Auqueljour	tel . cas appartenoit . Auqueljour
-AuqueljourleditTassin	Auqueljour le dit Tassin
-Tassinaproduitetamenépardevantnous	Tassin a produit et amené par devant nous
-certainstesmoings,desquelxles.nomss'ensuivent,	certains tesmoings , desquelx les . noms s ' ensuivent ,
-c'estassavoir	c ' est assavoir
-assavoirPierredeMausson,	assavoir Pierre de Mausson ,
-,chevalier,messireGuillaumedeCoué,	, chevalier , messire Guillaume de Coué ,
-chevalier,..messireFouchier	chevalier , . . messire Fouchier
-deMellay	de Mellay
-Mellay,chevalier,	Mellay , chevalier ,
-Derrenne(sic)deMons	Derrenne ( sic ) de Mons
-,JehandeSaintPonçain,escuiers	, Jehan de Saint Ponçain , escuiers
-,GuillaumeLuillieretJehanLuillier,lesquielx	, Guillaume Luillier et Jehan Luillier , les quielx
-quielxtesmoingsnousavons	quielx tesmoings nous avons
-avonsfaitjurersolempnelmentetdiligenmentexaminez	avons fait jurer solempnelment et diligenment examinez
-,etleurdeposicion	, et leur deposicion
-misepar	mise par
-escriptetretenuepardeversnous;	escript et retenue par devers nous ;
-parladeposicion	par la deposicion
-desquielxtesmoingsnousavons	desquielx tesmoings nous avons
-trouvéetsommessouffisanmentinformezqueledit	trouvé et sommes souffisanment informez que le dit
-ditTassin..Scolin	dit Tassin . . Scolin
-est..noble	est . . noble
-noblepersonneetqu	noble personne et qu
-'ilajoyetuséentouscaset	' il a joy et usé en tous cas et
-entoutesmanieresdu	en toutes manieres du
-previlegedenoblesse,etses.	previlege de noblesse , et ses .
-.predecesseursparavantlui.Surladeposiciondesquielxtesmoingsnous.	. predecesseurs paravant lui . Sur la deposicion desquielx tesmoings nous .
-.a..estérequis	. a . . esté requis
-requisograntinstance,delapartie	requis o grant instance , de la partie
-duditTassin..,	du dit Tassin . . ,
-,queparnousdroitetjugementluifeust	, que par nous droit et jugement lui feust
-faitsurce.Etpartant,	fait sur ce . Et partant ,
-veuetconsideréladeposiciondes	veu et consideré la deposicion des
-diztesmoings,avons	diz tesmoings , avons
-ditetprononciépar..jugementetsentenceque	dit et prononcié par . . jugement et sentence que
-le..ditTassinabienet	le . . dit Tassin a bien et
-deuementprouvé	deuement prouvé
-sesententes,etqu'ilest	ses ententes , et qu ' il est
-estnoblepersonne	est noble personne
-,néetextraitdenoble	, né et extrait de noble
-noblelignée,etl'enavonsenvoié	noble lignée , et l ' en avons envoié
-etenvoyons	et envoyons
-sansjouretsans	sans jour et sans
-terme,etsansfairefinance,etabsolt	terme , et sans faire finance , et absolt
-absoltparjugementdelademande	absolt par jugement de la demande
-etpeticiondessusdicte	et peticion dessus dicte
-.Entesmoingdesquelleschoses	. En tesmoing des quelles choses
-choses,nousavonsmisnozseaulx	choses , nous avons mis noz seaulx
-àcespresentes,età	à ces presentes , et à
-greigneurconfirmacion,nousànostre	greigneur confirmacion , nous à nostre
-requesteyavonsfaitmettreetapposerleseel	requeste y avons fait mettre et apposer le seel
-descontrats	des contrats
-deFayelaVinouse.Donnéà	de Faye la Vinouse . Donné à
-Lengès,soubznoz	Lengès , soubz noz
-signezmanuelz,leXXejourd'octobrel	signez manuelz , le XXe jour d ' octobre l
-'anmilCCCIIIIXXetquinze.—Ainsisigné	' an mil CCC IIIIXX et quinze .— Ainsi signé
-:Banier,Guerin.Lesquelles	: Banier , Guerin . Les quelles
-lettresdessustranscriptesettouteset	lettres dessus transcriptes et toutes et
-etchascunesleschoses.contenuesenycellesnousavonsfermes	et chascunes les choses . contenues en ycelles nous avons fermes
-,establesetagreables,ycellesvoulons,louons,..	, estables et agreables , ycelles voulons , louons , . .
-.approvons,ratifionset..parla	. approvons , ratifions et . . par la
-lateneurde	la teneur de
-cespresentes,denostregrace	ces presentes , de nostre grace
-especial,plainepuissanceetauctoritéroyal	especial , plaine puissance et auctorité royal
-royallesconfermons,entantqu'ellesontjustement	royal les confermons , en tant qu ' elles ont justement
-etdeuementestéfaictesetpasséesenforce	et deuement esté faictes et passées en force
-forcede..chosejugée.	force de . . chose jugée .
-Sidonnonsenmandementparces.mesmespresentesaubailli	Si donnons en mandement par ces . mesmes presentes au bailli
-baillideTouraineetdesressorset..Exempcions	bailli de Touraine et des ressors et . . Exempcions
-d'Anjou	d ' Anjou
-Anjou,dePoitouetdu	Anjou , de Poitou et du
-Maine,etàtousnozautresjusticiers	Maine , et à tous noz autres justiciers
-etofficiers,presens	et officiers , presens
-etavenir,ou	et avenir , ou
-ouàleurslieuxtenansetàchascund'eulx	ou à leurs lieux tenans et à chascun d ' eulx
-,si..comme	, si . . comme
-àluiappartendra,queThassinScolin	à lui appartendra , que Thassin Scolin
-Scolin,nommé..	Scolin , nommé . .
-.èsdicteslettres,.facent,sueffrent	. ès dictes lettres , . facent , sueffrent
-sueffrentetlaissent	sueffrent et laissent
-laissentjoiretuserpaisiblementdenostrepresenteconfirmacion,sans	laissent joir et user paisiblement de nostre presente confirmacion , sans
-lemolesterneempescher,	le molester ne empescher ,
-nesouffrirestremolestéou	ne souffrir estre molesté ou
-empeschéenaucune	empesché en aucune
-maniereaucontraire.Et	maniere au contraire . Et
-afinquece	afin que ce
-soitfermechoseetestableàtousjours	soit ferme chose et estable à tousjours
-,nous.àces	, nous . à ces
+aurezfaictes,baillezaureceveursurce.ordené	aurez faictes , baillez au receveur sur ce . ordené
+,pourles	, pour les
+faireparluileveret	faire par lui lever et
+exploictierànostreproufit.Et	exploictier à nostre proufit . Et
+voulonsetnousplaist.quetousceulzquiauront	voulons et nous plaist . que tous ceulz qui auront
+finéetcomposéavecquesvous..,lesdeuxou	finé et composé avecques vous . . , les deux ou
+oulestroisdevous,par	ou les trois de vous , par
+lamanierequeditest,àcause	la maniere que dit est , à cause
+desdiz..nouveauxacquès,en	des diz . . nouveaux acquès , en
+ensoientetdemeurentetlesaians	en soient et demeurent et les aians
+aianscaused'eulx	aians cause d ' eulx
+eulxàtousjoursmaisquictesetpaisibles,etdès	eulx à tousjours mais quictes et paisibles , et dès
+àpresentlesenquictonsen	à present les en quictons en
+rapportantlettresdesdizcommissaireset	rapportant lettres des diz commissaires et
+quictancedupaiementdesdictesfinancesdudit	quictance du paiement des dictes finances du dit
+receveur.Etneantmoins,pourcequepar	receveur . Et neantmoins , pour ce que par
+lesregistresdes	les registres des
+tabellionsjurezèsdiz	tabellions jurez ès diz
+païsvouspourraapparoir.	païs vous pourra apparoir .
+depluseursacquisicionsfaictes..	de pluseurs acquisicions faictes . .
+pargensd'eglise..et	par gens d ' eglise . . et
+etpersonnesnonnobles,dontfinancenousestdeue,	et personnes non nobles , dont finance nous est deue ,
+lesquellesacquisicionsparaventurepourroientestre	lesquelles acquisicions par aventure pourroient estre
+receléesparceulzquilespossident,	recelées par ceulz qui les possident ,
+nousmandonsetestroictementenjoignons	nous mandons et estroictement enjoignons
+enjoignonsàtouslestabellionsdesdizlieuxetpaïsqui	enjoignons à tous les tabellions des diz lieux et païs qui
+quiontesté	qui ont esté
+etsont,etquipourletempsavenir,	et sont , et qui pour le temps avenir ,
+,durantvostrecommission,yseront,qu	, durant vostre commission , y seront , qu
+'ilzvousfacentostencion	' ilz vous facent ostencion
+etlecturede	et lecture de
+leursregistres,se	leurs registres , se
+mestierest,etparvousensont	mestier est , et par vous en sont
+ouseront	ou seront
+serontrequis,afind'enextrairecequipour	seront requis , afin d ' en extraire ce qui pour
+nousvousseranecessaire.Et	nous vous sera necessaire . Et
+seaucunsvoussontdesobeissans	se aucuns vous sont desobeissans
+ourefusans,ouàvozcommisetdeputez	ou refusans , ou à voz commis et deputez
+,adjournez	, adjournez
+lesoufaictesadjourner,àcertain	les ou faictes adjourner , à certain
+etcompetantjour	et competant jour
+jour,pardevantnosdiztresoriers,àcomparoir	jour , par devant nos diz tresoriers , à comparoir
+personnelmentetàrespondre	personnelment et à respondre
+respondreànostreprocureursurcequepouroccasiondeces	respondre à nostre procureur sur ce que pour occasion de ces
+ceschoses,lescirconstanceset	ces choses , les circonstances et
+deppendencesd'icelles,leurvouldrarequeriret	deppendences d ' icelles , leur vouldra requerir et
+demander.,et	demander . , et
+procederenoultreselonraison.Et	proceder en oultre selon raison . Et
+tellementprocedezetentendezouditfaitquede	tellement procedez et entendez ou dit fait que de
+bonnediligencevousendoiez	bonne diligence vous en doiez
+estrerecommandez,et	estre recommandez , et
+etqueleditfaitsoitbriefmentparvostrebonne	et que le dit fait soit briefment par vostre bonne
+diligencemis	diligence mis
+misàfinetàdeueconclusion.Saichans	mis à fin et à deue conclusion . Saichans
+Saichansque,seainsilefaictes,vousdela	Saichans que , se ainsi le faictes , vous de la
+peineetdespenseque	peine et despense que
+quevousyferés.	que vous y ferés .
+.nousvousferons	. nous vous ferons
+feronstelementremunererquevousendevrésestre..contens	ferons telement remunerer que vous en devrés estre . . contens
+,encertiffiantsouffisanment..surcenosdiztresoriersde	, en certiffiant souffisanment . . sur ce nos diz tresoriers de
+toutcequefaitoufaitfaireaurezenceste	tout ce que fait ou fait faire aurez en ceste
+ceste..partie.Decefaire	ceste . . partie . De ce faire
+vousdonnonspouvoir,mandonset	vous donnons pouvoir , mandons et
+commandonsàtousnosjusticiers,officierset	commandons à tous nos justiciers , officiers et
+etsubgiezque	et subgiez que
+àvousouauxdeuxde	à vous ou aux deux de
+vous,etàvoscommisobeissentdiligenmentet	vous , et à vos commis obeissent diligenment et
+etentendent,etvousprestentconseil,confort	et entendent , et vous prestent conseil , confort
+et.aide,	et . aide ,
+semestierestet..par	se mestier est et . . par
+vousensontrequis.DonnéàParis,	vous en sont requis . Donné à Paris ,
+leXIIIejourd'aoustl	le XIIIe jour d ' aoust l
+'andegracemilCCCquatrevinset	' an de grace mil CCC quatre vins et
+quinze,etle	quinze , et le
+XVedenostreregne.—Ainsisigné	XVe de nostre regne .— Ainsi signé
+:Parlestrésoriers.G.Millerat..	: Par les trésoriers . G . Millerat . .
+.Parvertudesquelleslettresroyaulxdessus	. Par vertu desquelles lettres royaulx dessus
+dessustranscripteset..dupovoirànousdonnéparycelles	dessus transcriptes et . . du povoir à nous donné par ycelles
+,nousavonsfaitappeller	, nous avons fait appeller
+etconvenirpardevant	et convenir par devant
+nousTassinScolin,	nous Tassin Scolin ,
+demourantàSaint	demourant à Saint
+EstiennedeSarigné,pournousapporteret	Estienne de Sarigné , pour nous apporter et
+etbaillerpar..declaraciontoutesetchacuneslesrentes,	et bailler par . . declaracion toutes et chacunes les rentes ,
+possessionsetchosesqueiltient,acquises	possessions et choses que il tient , acquises
+parluiou.parses	par lui ou . par ses
+predecesseursdepersonnesnobles,ouqui	predecesseurs de personnes nobles , ou qui
+quifontparties	qui font parties
+defiefsnobles,depuisletempscontenu	de fiefs nobles , depuis le temps contenu
+èsinstructionsroyaulx..,	ès instructions royaulx . . ,
+,afinqu'ilfeusttenud'enfaire	, afin qu ' il feust tenu d ' en faire
+financeauroynostreditseigneur,selon.le	finance au roy nostre dit seigneur , selon . le
+contenudesdictesinstructions.	contenu des dictes instructions .
+.LequelTassin	. Lequel Tassin
+Scolindisoitàsadeffense	Scolin disoit à sa deffense
+etproposoitpardevantnousen	et proposoit par devant nous en
+jugementquetenun.	jugement que tenu n .
+'estoitd'enpaiernefaireaucunefinance	' estoit d ' en paier ne faire aucune finance
+auroy,par.cequ	au roy , par . ce qu
+'ilestnoble	' il est noble
+personneducostéetlignedepar	personne du costé et ligne de par
+sonpereetnéet	son pere et né et
+extraitdenoble	extrait de noble
+lignée,..offrant	lignée , . . offrant
+offrantleditTassin	offrant le dit Tassin
+Scolindeceschoses	Scolin de ces choses
+chosesprouveretenseignersouffisanment.	choses prouver et enseigner souffisanment .
+Lequelproposparluifaitnous	Lequel propos par lui fait nous
+nousluinyasmesà	nous lui nyasmes à
+àtoutesfins,	à toutes fins ,
+,etsurceassignasmes	, et sur ce assignasmes
+jourauditTassin,pourprouverdesanoblesse	jour au dit Tassin , pour prouver de sa noblesse
+noblesseetenseignercommeentelcas	noblesse et enseigner comme en tel cas
+appartenoit.	appartenoit .
+AuqueljourleditTassinaproduitetamenépardevant	Auqueljour le dit Tassin a produit et amené par devant
+nouscertainstesmoings,desquelxlesnoms	nous certains tesmoings , desquelx les noms
+s'ensuivent,c'estassavoirPierrede	s ' ensuivent , c ' est assavoir Pierre de
+deMausson,chevalier,messireGuillaumedeCoué,chevalier	de Mausson , chevalier , messire Guillaume de Coué , chevalier
+chevalier,.messireFouchierdeMellay,chevalier,Derrenne	chevalier , . messire Fouchier de Mellay , chevalier , Derrenne
+(sic)deMons,JehandeSaintPonçain	( sic ) de Mons , Jehan de Saint Ponçain
+,.escuiers,Guillaume	, . escuiers , Guillaume
+LuillieretJehanLuillier,les	Luillier et Jehan Luillier , les
+quielxtesmoingsnousavonsfaitjurersolempnelment	quielx tesmoings nous avons fait jurer solempnelment
+etdiligenmentexaminez,	et diligenment examinez ,
+etleurdeposicionmiseparescriptetretenuepardevers	et leur deposicion mise par escript et retenue par devers
+nous;parladeposiciondesquielxtesmoingsnousavonstrouvé	nous ; par la deposicion desquielx tesmoings nous avons trouvé
+trouvéetsommessouffisanmentinformezquele	trouvé et sommes souffisanment informez que le
+leditTassinScolinestnoblepersonneetqu'	le dit Tassin Scolin est noble personne et qu '
+ilajoyetusé	il a joy et usé
+entouscasetentoutesmanieres	en tous cas et en toutes manieres
+duprevilegede	du previlege de
+denoblesse,etsespredecesseursparavant	de noblesse , et ses predecesseurs paravant
+lui.Surla	lui . Sur la
+deposiciondesquielxtesmoings..	deposicion desquielx tesmoings . .
+.nousaestérequis	. nous a esté requis
+ograntinstance	o grant instance
+,dela..partiedudit	, de la . . partie du dit
+Tassin,queparnousdroit.etjugementluifeust	Tassin , que par nous droit . et jugement lui feust
+faitsur	fait sur
+ce.Etpartant	ce . Et partant
+,veuetconsideréladeposiciondesdiztesmoings	, veu et consideré la deposicion des diz tesmoings
+,avonsdit	, avons dit
+etprononciéparjugementet.sentencequele	et prononcié par jugement et . sentence que le
+ditTassinabienet	dit Tassin a bien et
+etdeuementprouvésesententes,etqu'il	et deuement prouvé ses ententes , et qu ' il
+estnoblepersonne,néet	est noble personne , né et
+extraitdenoblelignée,etl'en	extrait de noble lignée , et l ' en
+avonsenvoié	avons envoié
+etenvoyonssans	et envoyons sans
+jouretsans	jour et sans
+terme,etsansfaire	terme , et sans faire
+fairefinance,etabsoltpar	faire finance , et absolt par
+parjugementdelademande	par jugement de la demande
+etpeticiondessusdicte.Entesmoingdesquelleschoses	et peticion dessus dicte . En tesmoing des quelles choses
+,nousavonsmisnozseaulxàcespresentes,	, nous avons mis noz seaulx à ces presentes ,
+etàgreigneurconfirmacion,nous	et à greigneur confirmacion , nous
+ànostrerequesteyavonsfaitmettreetapposerle	à nostre requeste y avons fait mettre et apposer le
+seeldescontratsdeFayelaVinouse	seel des contrats de Faye la Vinouse
+Vinouse.DonnéàLengès	Vinouse . Donné à Lengès
+,soubznozsignez	, soubz noz signez
+manuelz,leXXejourd	manuelz , le XXe jour d
+d'octobrel'anmilCCC	d ' octobre l ' an mil CCC
+CCCIIIIXXetquinze.—Ainsisigné:	CCC IIIIXX et quinze .— Ainsi signé :
+Banier,Guerin.Lesquelleslettresdessustranscripteset	Banier , Guerin . Les quelles lettres dessus transcriptes et
+toutesetchascunesleschosescontenuesen	toutes et chascunes les choses contenues en
+enycellesnousavonsfermes,.establesetagreables	en ycelles nous avons fermes , . estables et agreables
+,ycellesvoulons,louons,approvons,	, ycelles voulons , louons , approvons ,
+ratifionsetparlateneurdecespresentes,	ratifions et par la teneur de ces presentes ,
+,denostregraceespecial,	, de nostre grace especial ,
+plainepuissance	plaine puissance
+etauctoritéroyallesconfermons,en	et auctorité royal les confermons , en
+tantqu'ellesontjustementet	tant qu ' elles ont justement et
+deuementestéfaictesetpasséesenforcedechosejugée	deuement esté faictes et passées en force de chose jugée
+.Sidonnonsenmandementparcesmesmespresentesau	. Si donnons en mandement par ces mesmes presentes au
+aubaillideTouraineetdesressorsetExempcionsd	au bailli de Touraine et des ressors et Exempcions d
+'Anjou,dePoitouetdu	' Anjou , de Poitou et du
+duMaine,etàtousnozautresjusticiers	du Maine , et à tous noz autres justiciers
+etofficiers,presenset	et officiers , presens et
+etavenir.,	et avenir . ,
+ouàleurslieuxtenansetà	ou à leurs lieux tenans et à
+chascund'eulx,si	chascun d ' eulx , si
+commeàluiappartendra,queThassinScolin,	comme à lui appartendra , que Thassin Scolin ,
+nomméèsdicteslettres,facent,sueffrent	nommé ès dictes lettres , facent , sueffrent
+sueffrentetlaissentjoiret..userpaisiblementdenostre	sueffrent et laissent joir et . . user paisiblement de nostre
+presenteconfirmacion,sanslemolester.ne	presente confirmacion , sans le molester . ne
+empescher,nesouffrirestre	empescher , ne souffrir estre
+estremolestéouempeschéenaucunemaniereaucontraire	estre molesté ou empesché en aucune maniere au contraire
+.Etafinquecesoit	. Et afin que ce soit
+fermechoseetestableàtousjours.	ferme chose et estable à tousjours .
+,nousàces	, nous à ces
 cespresenteslettresavonsfaitmettrenostre	ces presentes lettres avons fait mettre nostre
-nostreseel,saufenautreschoses	nostre seel , sauf en autres choses
-nostredroitetl	nostre droit et l
-'autruyentoutes.DonnéàParis	' autruy en toutes . Donné à Paris
-,oumois	, ou mois
-demarsl'an	de mars l ' an
-andegracemilCCCIIIIXXetXVI,et	an de grace mil CCC IIIIXX et XVI , et
-etdenostreregneleXVIIe...Parleroy,	et de nostre regne le XVIIe . . . Par le roy ,
-àlarelacionduconseil	à la relacion du conseil
-conseil.Mercier	conseil . Mercier
+seel,saufenautreschosesnostredroitetl	seel , sauf en autres choses nostre droit et l
+l'autruyen	l ' autruy en
+toutes...	toutes . . .
+.DonnéàParis,oumoisdemarsl'	. Donné à Paris , ou mois de mars l '
+'ande.grace	' an de . grace
+gracemil.CCC	grace mil . CCC
+IIIIXXetXVI	IIIIXX et XVI
+,etdenostreregneleXVIIe.Parle	, et de nostre regne le XVIIe . Par le
+leroy,.àlarelacionduconseil	le roy , . à la relacion du conseil
+conseil.Mercier.	conseil . Mercier .

@@ -1,53 +1,58 @@
-Charles,.par	Charles , . par
-lagracedeDieu,roys	la grace de Dieu , roys
-roysdeFranceetdeNavarre.Atouzceuxqui	roys de France et de Navarre . A touz ceux qui
+Charles,parlagracedeDieu,roys	Charles , par la grace de Dieu , roys
+deFranceetdeNavarre.Atouzceux	de France et de Navarre . A touz ceux
 quiverrontcespresenteslettres,	qui verront ces presentes lettres ,
-salut.Sachent..	salut . Sachent . .
-.tuitquenous,degraceespecialet	. tuit que nous , de grace especial et
-decertainescience	de certaine science
-,avonsdonnéet	, avons donné et
-donnonsànostre	donnons à nostre
-amévarlet	amé varlet
-RobertFretartetàseshoirsperpetuelment	Robert Fretart et à ses hoirs perpetuelment
-,etàtouz	, et à touz
-touzceuxquide	touz ceux qui de
-euxaurontcause,pourlesbons	eux auront cause , pour les bons
-etagreablesservicesqueleditRobertnousa	et agreables services que le dit Robert nous a
-fait,lemanoirquel'enditla	fait , le manoir que l ' en dit la
-laRobichoniereetlesappartenances	la Robichoniere et les appartenances
-toutesseanzou	toutes seanz ou
-oubailliagedeToureine,lequelmanoir	ou bailliage de Toureine , le quel manoir
-etappartenancesnoussontavenuesparla	et appartenances nous sont avenues par la
-laforfaituredefeuPinceclo.Lequelmanoiret	la forfaiture de feu Pinceclo . Lequel manoir et
-appartenancestenoientdenousàfermeFouquet	appartenances tenoient de nous à ferme Fouquet
-etEstieneGarriaux,freres	et Estiene Garriaux , freres
-,bourgoisdeTours,pour	, bourgois de Tours , pour
-neuflivresdetournoischascunanderente,	neuf livres de tournois chascun an de rente ,
-à.poierlamoitiéàlaNativitéNostre	à . poier la moitié à la Nativité Nostre
-Seigneuretl'autremoitiéà	Seigneur et l ' autre moitié à
-laNativitésaintJehanBaptiste	la Nativité saint Jehan Baptiste
-Baptisteensuivant,laquellefermeetrentelemanoiret	Baptiste ensuivant , la quelle ferme et rente le manoir et
-appartenancesdessusdiznousdeleissonsetbaillons	appartenances dessus diz nous deleissons et baillons
-parvertududit	par vertu dudit
-donauditRobertetàseshoirsetà	don audit Robert et à ses hoirs et à
-àtouzceuxquideeulxaurontcause	à touz ceux qui de eulx auront cause
-.Eten.quictons	. Et en . quictons
-etclamonsquicteàtouzjourslesdizFouquet	et clamons quicte à touz jours les diz Fouquet
-FouquetetEstieneetleurshoirset	Fouquet et Estiene et leurs hoirs et
-touzceuxquideeulxaurontcause	touz ceux qui de eulx auront cause
-.Etvoulons	. Et voulons
-queleditRobertetseshoirs.etceuxqui	que le dit Robert et ses hoirs . et ceux qui
-deeulxaurontcause,depuisladate	de eulx auront cause , depuis la date
-datedeceslettres,en..puissentpaisiblement	date de ces lettres , en . . puissent paisiblement
-joiretusersanznul.empeschement,commedeleur	joir et user sanz nul . empeschement , comme de leur
-proprechose.Etpourcequecesoit	propre chose . Et pour ce que ce soit
-perpetuelmentfermeetestable,nousavonsfait	perpetuelment ferme et estable , nous avons fait
-mettrenostreseelencespresentes	mettre nostre seel en ces presentes
-lettres.DonnéàChastiaunuefsus	lettres . Donné à Chastiaunuef sus
-Laire,l'andegrace	Laire , l ' an de grace
-gracemiltroiscenzvintet	grace mil trois cenz vint et
-etcinc,	et cinc ,
-oumoisdeseptembre	ou mois de septembre
-.Parleroy,àlarelacionmons	. Par le roy , à la relacion mons
-.Alfons	. Alfons
-.Remigius.	. Remigius .
+,salut..Sachent	, salut . . Sachent
+tuitquenous,degraceespecial	tuit que nous , de grace especial
+etdecertainescience,avonsdonnéetdonnonsà	et de certaine science , avons donné et donnons à
+nostreamévarletRobertFretart	nostre amé varlet Robert Fretart
+etàseshoirsperpetuelment,età	et à ses hoirs perpetuelment , et à
+touzceux	touz ceux
+ceuxquideeuxaurontcause	ceux qui de eux auront cause
+,..pourlesbonsetagreablesservicesque	, . . pour les bons et agreables services que
+leditRobertnousafait,le	le dit Robert nous a fait , le
+lemanoirquel'	le manoir que l '
+'enditlaRobichoniereetlesappartenancestoutesseanzou	' en dit la Robichoniere et les appartenances toutes seanz ou
+bailliagedeToureine,lequelmanoiretappartenances	bailliage de Toureine , le quel manoir et appartenances
+noussont.avenues	nous sont . avenues
+parlaforfaituredefeuPinceclo.	par la forfaiture de feu Pinceclo .
+.Lequelmanoiret	. Lequel manoir et
+appartenances.tenoientdenousà	appartenances . tenoient de nous à
+fermeFouquetetEstieneGarriaux,	ferme Fouquet et Estiene Garriaux ,
+,.freres,bourgois	, . freres , bourgois
+deTours,pourneuflivresdetournoischascunan	de Tours , pour neuf livres de tournois chascun an
+derente,	de rente ,
+àpoierlamoitiéàlaNativitéNostreSeigneuret	à poier la moitié à la Nativité Nostre Seigneur et
+l'autremoitié	l ' autre moitié
+moitiéàlaNativitésaintJehanBaptisteensuivant,laquelle	moitié à la Nativité saint Jehan Baptiste ensuivant , la quelle
+quellefermeetrentelemanoiretappartenancesdessus	quelle ferme et rente le manoir et appartenances dessus
+diznousdeleissonsetbaillonsparvertu	diz nous deleissons et baillons par vertu
+vertududitdonauditRobertetàses	vertu dudit don audit Robert et à ses
+hoirsetàtouz	hoirs et à touz
+ceuxqui	ceux qui
+quideeulxaurontcause.Et	qui de eulx auront cause . Et
+Etenquictonsetclamonsquicteàtouzjours	Et en quictons et clamons quicte à touz jours
+jourslesdizFouquetetEstieneetleurshoirs	jours les diz Fouquet et Estiene et leurs hoirs
+ettouzceuxquideeulx	et touz ceux qui de eulx
+aurontcause.Et	auront cause . Et
+voulonsqueleditRobert	voulons que le dit Robert
+etseshoirset	et ses hoirs et
+ceuxquideeulxaurontcause	ceux qui de eulx auront cause
+,depuisladate	, depuis la date
+deceslettres,enpuissent	de ces lettres , en puissent
+paisiblementjoiret	paisiblement joir et
+usersanznulempeschement,comme	user sanz nul empeschement , comme
+deleurpropre	de leur propre
+chose.Etpourcequece	chose . Et pour ce que ce
+soitperpetuelment..fermeetestable,nousavonsfait	soit perpetuelment . . ferme et estable , nous avons fait
+faitmettrenostre	fait mettre nostre
+nostreseelencespresenteslettres.	nostre seel en ces presentes lettres .
+Donné..àChastiaunuef	Donné . . à Chastiaunuef
+susLaire,l..	sus Laire , l . .
+'an..degrace	' an . . de grace
+miltrois	mil trois
+cenzvintetcinc,	cenz vint et cinc ,
+,.oumoisdeseptembre.	, . ou mois de septembre .
+Parleroy,à	Par le roy , à
+àlarelacionmons.	à la relacion mons .
+Alfons.	Alfons .
+Remigius.	Remigius .

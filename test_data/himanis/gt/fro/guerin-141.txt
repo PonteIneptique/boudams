@@ -1,42 +1,40 @@
-Philippes,parlagracedeDieu,rois	Philippes , par la grace de Dieu , rois
-deFrance	de France
-France.Savoirfaisonsàtouzpresenzetavenirque..	France . Savoir faisons à touz presenz et avenir que . .
-,commenostre	, comme nostre
-nostreaméetfeal	nostre amé et feal
-fealchevalieretchambellain,RobertFrétart	feal chevalier et chambellain , Robert Frétart
-Frétart,aitvolentéetententedefonder	Frétart , ait volenté et entente de fonder
-fonderunechapellaniepourle	fonder une chapellanie pour le
-saludes	salu de s
-'ameetde	' ame et de
-ladoer.de	la doer . de
-dizlivresderenteàtornoisoude.renteannuel	diz livres de rente à tornois ou de . rente annuel
-etperpetuel,nous,àsasupplicacion,octroions	et perpetuel , nous , à sa supplicacion , octroions
-parceslettres..degraceespecialetpourconsideracion	par ces lettres . . de grace especial et pour consideracion
-du.bonservise	du . bon servise
-queilnousafaitlonguementetloyaumentet	que il nous a fait longuement et loyaument et
-faitchascunjour,que	fait chascun jour , que
-quela.dite	que la . dite
-ditechappellanie,quelquepartqu'illiplera	dite chappellanie , quelque part qu ' il li plera
-pleraàlafonder,	plera à la fonder ,
-ilpuissedoerdesdites	il puisse doer des dites
-ditesdizlivresdeterreourenteà	dites diz livres de terre ou rente à
-assise.depaïs,	assise . de païs ,
-,etquele	, et que le
-chappellainquipourletemps	chappellain qui pour le temps
-yseraestablizpourla	y sera establiz pour la
-ladeserviraitettiengeperpetuelmentet	la deservir ait et tienge perpetuelment et
-paisiblement.ennomde	paisiblement . en nom de
-deladitechappellanieladiteterreourente	de la dite chappellanie la dite terre ou rente
-,sanzcequ'	, sanz ce qu '
-'ilsoitcontrainzàlavendreoumettrehorsde	' il soit contrainz à la vendre ou mettre hors de
-samain,etsanz	sa main , et sanz
-paierfinancequelequeellesoit	paier finance quele que elle soit
-soit.Etàperpetuelfermetédecestechouse	soit . Et à perpetuel fermeté de ceste chouse
-,nousavonsfaitmettrenostreseel	, nous avons fait mettre nostre seel
-enceslettres.	en ces lettres .
-.Sauvenostredroitenautres..chouses	. Sauve nostre droit en autres . . chouses
-etl'autruientoutes.Donnéà	et l ' autrui en toutes . Donné à
-àParis,.l'andegracemil	à Paris , . l ' an de grace mil
-ccc.vintethuyt,oumoysde	ccc . vint et huyt , ou moys de
-janvier.Parle	janvier . Par le
-leroy.Barriere..	le roy . Barriere . .
+Philippes,parlagracede	Philippes , par la grace de
+Dieu,roisdeFrance.	Dieu , rois de France .
+Savoirfaisonsàtouzpresenzetavenirque,comme	Savoir faisons à touz presenz et avenir que , comme
+nostreamé	nostre amé
+etfealchevalier	et feal chevalier
+etchambellain,RobertFrétart,aitvolentéetentente	et chambellain , Robert Frétart , ait volenté et entente
+defonderunechapellaniepourlesalude	de fonder une chapellanie pour le salu de
+s'ameet	s ' ame et
+deladoer	de la doer
+dedizlivres	de diz livres
+derenteàtornois	de rente à tornois
+ouderenteannueletperpetuel,	ou de rente annuel et perpetuel ,
+nous,àsasupplicacion,octroionspar	nous , à sa supplicacion , octroions par
+ceslettresdegraceespecial..et	ces lettres de grace especial . . et
+pourconsideraciondubonservisequeil	pour consideracion du bon servise que il
+nousafaitlonguementetloyaumentetfaitchascunjour	nous a fait longuement et loyaument et fait chascun jour
+,queladitechappellanie,quelquepart	, que la dite chappellanie , quelque part
+qu'illipleraàlafonder,il	qu ' il li plera à la fonder , il
+puissedoerdesditesdiz..	puisse doer des dites diz . .
+livresdeterreourente	livres de terre ou rente
+àassise	à assise
+depaïs,	de païs ,
+,etquelechappellainquipour	, et que le chappellain qui pour
+letempsysera	le temps y sera
+establizpourladeserviraitettiengeperpetuelment	establiz pour la deservir ait et tienge perpetuelment
+perpetuelmentetpaisiblementennomdeladite	perpetuelment et paisiblement en nom de la dite
+chappellanieladiteterreou..rente,sanz	chappellanie la dite terre ou . . rente , sanz
+cequ'il	ce qu ' il
+ilsoitcontrainzàlavendreoumettre	il soit contrainz à la vendre ou mettre
+mettrehorsdesamain,et	mettre hors de sa main , et
+sanzpaierfinancequeleque	sanz paier finance quele que
+ellesoit.Etàperpetuelfermetédecestechouse	elle soit . Et à perpetuel fermeté de ceste chouse
+,nousavonsfaitmettrenostre	, nous avons fait mettre nostre
+nostreseelenceslettres	nostre seel en ces lettres
+.Sauvenostredroitenautreschousesetl	. Sauve nostre droit en autres chouses et l
+l'autruientoutes.DonnéàParis,	l ' autrui en toutes . Donné à Paris ,
+l'andegracemilccc.vintet	l ' an de grace mil ccc . vint et
+huyt,ou	huyt , ou
+oumoysdejanvier.Parleroy..	ou moys de janvier . Par le roy . .
+.Barriere	. Barriere

@@ -1,251 +1,262 @@
-Loys,parlagracedeDieu	Loys , par la grace de Dieu
-roydeFrance	roy de France
-France.Savoirfaisons	France . Savoir faisons
-àtous,presensetavenir	à tous , presens et avenir
-,nousavoirreceuel’umblesupplicacionde	, nous avoir receue l ’ umble supplicacion de
-JehanGadart,hostellier,demourant	Jehan Gadart , hostellier , demourant
-àSaintMarsdela	à Saint Mars de la
-RouerteoudiocèsedeLuçonetenlavicontéde	Rouerte ou diocèse de Luçon et en la viconté de
-deThouars,contenant	de Thouars , contenant
-que,ledimanchexxvejour	que , le dimanche xxve jour
-jourdumoys	jour du moys
-d’avrilderrenierpassé	d ’ avril derrenier passé
-,leditsuppliantestant	, ledit suppliant estant
-ensamaisonàsouper	en sa maison à souper
-etensacompaignieungnomméMedartBridonneau	et en sa compaignie ung nommé Medart Bridonneau
-Bridonneauetung	Bridonneau et ung
-ungbrigandinierduquelilnescetlenom,sur	ung brigandinier duquel il ne scet le nom , sur
-surlafindesonsoupersurvindrentungnomméPierreNorrisson	sur la fin de son souper survindrent ung nommé Pierre Norrisson
-,ditCaffart,lorsfrancarcher,demourantau	, dit Caffart , lors franc archer , demourant au
-villagedeLespau..enlaparroisse	village de Lespau . . en la parroisse
-parroissedeSaintMichieldeMontmarcus,	parroisse de Saint Michiel de Montmarcus ,
-etJehanDenis,ditdeBretaigne..	et Jehan Denis , dit de Bretaigne . .
-.,cousturier,lesquelssemisdrentà	. , cousturier , lesquels se misdrent à
-latable,	la table ,
-beurentetmengèrentdecequiy	beurent et mengèrent de ce qui y
-yestoit,etdeladite	y estoit , et de ladite
-tableselevaleditsuppliant	table se leva ledit suppliant
-quiavoitsouppé,pours’en	qui avoit souppé , pour s ’ en
-alleresbatreensonjardin	aller esbatre en son jardin
-jardinestantenderrièredesamaison	jardin estant en derrière de sa maison
-etlaissalesdizfrancarcher	et laissa lesdiz franc archer
-etJehanDenis	et Jehan Denis
-ditdeBretaigneetautresàladitetable.	dit de Bretaigne et autres à ladite table .
-.Etquantilzeurentsoupé,setindrentdevantet	. Et quant ilz eurent soupé , se tindrent devant et
-auprèsd’icellemaisonjusquesenvironjourcouché:	auprès d ’ icelle maison jusques environ jour couché :
-pendantlequeltempsungmarchant,nomméPierreDuchesne.,	pendant lequel temps ung marchant , nommé Pierre Duchesne . ,
-,dulieudeMauleon	, du lieu de Mauleon
-,survintetselogeaet.ungcheval	, survint et se logea et . ung cheval
-àpoilrouge	à poil rouge
-etunejument	et une jument
-jumentfauveaudithostel;surlequel..chevalleditfranc	jument fauve audit hostel ; sur lequel . . cheval ledit franc
-archer,oultrele..gré	archer , oultre le . . gré
-etvoulenté	et voulenté
+Loys,par	Loys , par
+lagracedeDieuroydeFrance.Savoir	la grace de Dieu roy de France . Savoir
+faisons.àtous,presensetavenir,nous	faisons . à tous , presens et avenir , nous
+nousavoirreceue	nous avoir receue
+l.’umble	l . ’ umble
+supplicacionde	supplicacion de
+deJehanGadart,hostellier,demourantàSaintMars	de Jehan Gadart , hostellier , demourant à Saint Mars
+MarsdelaRouerteoudiocèsedeLuçonetenla	Mars de la Rouerte ou diocèse de Luçon et en la
+vicontédeThouars,contenantque,	viconté de Thouars , contenant que ,
+ledimanchexxvejourdumoys	le dimanche xxve jour du moys
+moysd’avrilderrenierpassé	moys d ’ avril derrenier passé
+,leditsuppliantestantensamaisonàsouperet	, ledit suppliant estant en sa maison à souper et
+etensacompaignieungnomméMedartBridonneauetung	et en sa compaignie ung nommé Medart Bridonneau et ung
+brigandinierduquel.	brigandinier duquel .
+ilnescetle..nom,sur	il ne scet le . . nom , sur
+surlafindesonsoupersurvindrentung	sur la fin de son souper survindrent ung
+nomméPierreNorrisson,ditCaffart	nommé Pierre Norrisson , dit Caffart
+,lorsfrancarcher,	, lors franc archer ,
+demourantauvillagedeLespauenlaparroissede.	demourant au village de Lespau en la parroisse de .
+.SaintMichiel	. Saint Michiel
+deMontmarcus,etJehan.Denis,	de Montmarcus , et Jehan . Denis ,
+ditdeBretaigne,cousturier,lesquelssemisdrent..à	dit de Bretaigne , cousturier , lesquels se misdrent . . à
+latable,beurentetmengèrentdece	la table , beurent et mengèrent de ce
+cequiyestoit,etdeladitetablese	ce qui y estoit , et de ladite table se
+selevaleditsuppliantquiavoitsouppé,pours	se leva ledit suppliant qui avoit souppé , pour s
+s’enalleresbatre	s ’ en aller esbatre
+ensonjardinestanten.derrièredesamaisonet	en son jardin estant en . derrière de sa maison et
+laissalesdizfrancarcheretJehan	laissa lesdiz franc archer et Jehan
+JehanDenisditdeBretaigneetautresàladitetable	Jehan Denis dit de Bretaigne et autres à ladite table
+.Etquant	. Et quant
+quantilzeurentsoupé,setindrentdevantetauprèsd	quant ilz eurent soupé , se tindrent devant et auprès d
+’icellemaisonjusquesenvironjourcouché:pendantlequel	’ icelle maison jusques environ jour couché : pendant lequel
+tempsung	temps ung
+ungmarchant,nomméPierre	ung marchant , nommé Pierre
+Duchesne,dulieudeMauleon	Duchesne , du lieu de Mauleon
+,survint..	, survint . .
+etselogeaetungchevalà	et se logea et ung cheval à
+poilrougeetunejumentfauve	poil rouge et une jument fauve
+audithostel;surlequelchevalledit	audit hostel ; sur lequel cheval ledit
+franc..archer,oultrele	franc . . archer , oultre le
+gréetvoulenté	gré et voulenté
 d’icelluiDuchesne,montaetle	d ’ icellui Duchesne , monta et le
-fisttroterau	fist troter au
-longlarueetailleursoudit	long la rue et ailleurs oudit
-ouditbourg,endisanttellesparollesousemblablesen	oudit bourg , en disant telles parolles ou semblables en
+fisttroter	fist troter
+aulonglarueet	au long la rue et
+etailleursoudit	et ailleurs oudit
+bourg,en	bourg , en
+endisanttellesparollesousemblablesensubstance	en disant telles parolles ou semblables en substance
 substance:«ParlesangDieu	substance :« Par le sang Dieu
-,s’estcequ	, s ’ est ce qu
-’ilmefaultpourmeneràlaguerre	’ il me fault pour mener à la guerre
-guerre;jeluymenerayqui	guerre ; je luy meneray qui
-quelaveuille	que la veuille
-veoir.»Etincontinent	veoir .» Et incontinent
-qu’.ilfutdescendu,	qu ’ . il fut descendu ,
-,icelluiDuchesne	, icellui Duchesne
-Duchesne,marchant,	Duchesne , marchant ,
-laprinstetmistenl’estableduditsuppliant	la prinst et mist en l ’ estable dudit suppliant
-etl’atacha..	et l ’ atacha . .
-prèsladitejument,etcefait,s	près ladite jument , et ce fait , s
-’enallasoupper.Etcevoyantpar	’ en alla soupper . Et ce voyant par
-parleditfrancarcherqueicellui	par ledit franc archer que icellui
-Duchesnequiavoitlaisséenl’	Duchesne qui avoit laissé en l ’
-uysdel’establelaclef	uys de l ’ estable la clef
-etqu’il	et qu ’ il
-souppoit,fermaledithuysdeladiteestableà	souppoit , ferma ledit huys de ladite estable à
-laclef,enlaquelle	la clef , en laquelle
-leditchevalestoitetprinticelleclefensa	ledit cheval estoit et print icelle clef en sa
-samain.et	sa main . et
-etsetinsttousjoursauprèsde	et se tinst tousjours auprès de
-deladitemaison.Et	de ladite maison . Et
-cependantungnomméGuillaumeBernier,serviteurdudit	ce pendant ung nommé Guillaume Bernier , serviteur dudit
-suppliant,ainsiqu’ilvenoitdes	suppliant , ainsi qu ’ il venoit des
-deschampsdemenerpaistrelesbestesappartenansaudit	des champs de mener paistre les bestes appartenans audit
-auditsuppliant,pourveniroudithostel	audit suppliant , pour venir oudit hostel
-rencontra..au	rencontra . . au
-aucheminPerrine	au chemin Perrine
-PerrineGirondelle,voisineduditsuppliant..,quiluiditqu	Perrine Girondelle , voisine dudit suppliant . . , qui lui dit qu
-qu’elle	qu ’ elle
-avoitveuqueleditNorrisson,	avoit veu que ledit Norrisson ,
-francarcher,avoitfermé	franc archer , avoit fermé
-l’establede	l ’ estable de
-sonditmaistreàlaclefeticelle	sondit maistre à la clef et icelle
-clefavoitversluietavoitoyregnierDieu	clef avoit vers lui et avoit oy regnier Dieu
-Dieuqu’ilenmeneroitleditchevaletquele	Dieu qu ’ il enmeneroit ledit cheval et que le
-lepremierquisemettroitaudevant	le premier qui se mettroit au devant
-devantpourl’	devant pour l ’
-empescherqu’	empescher qu ’
-illetueroit	il le tueroit
-.Lequelserviteur,luiarrivéenl’ostel	. Lequel serviteur , lui arrivé en l ’ ostel
-duditsuppliantson.maistre,recitacequeditest	dudit suppliant son . maistre , recita ce que dit est
-àJaquetteMarronne,samaistresseetfemmedudit	à Jaquette Marronne , sa maistresse et femme dudit
-suppliant,l	suppliant , l
-l’advertissantqu’	l ’ advertissant qu ’
-elles’endonnast	elle s ’ en donnast
-garde.Etincontinenticellesamaistressedemandaà	garde . Et incontinent icelle sa maistresse demanda à
-àPerrineGardate,saniepce,par.fixionet	à Perrine Gardate , sa niepce , par . fixion et
-pourrecouvrerlaclefd’icelleestablequeicellui	pour recouvrer la clef d ’ icelle estable que icellui
-francarcheravoitainsiprinse,s’elleavoit	franc archer avoit ainsi prinse , s ’ elle avoit
-avoitmisoutoit..lesoisons,quilui	avoit mis ou toit . . les oisons , qui lui
-responditquenon.Etallors.yalla,	respondit que non . Et allors . y alla ,
-,ensacompaignie.lesdizDuchesne	, en sa compaignie . lesdiz Duchesne
-DuchesneetBernieretprinstlesclefzqueleditfrancarcher	Duchesne et Bernier et prinst les clefz que ledit franc archer
-avoitainsiprinsesetouvryl	avoit ainsi prinses et ouvry l
-’estableenlaquelleellemistles	’ estable en laquelle elle mist les
-dizoysonsenungpetittoitouquel	diz oysons en ung petit toit ouquel
-ilzavoientacoustuméestremis.En	ilz avoient acoustumé estre mis . En
-Enlaquelleestableicelluifrancarcherentra	En laquelle estable icellui franc archer entra
-ets’efforça	et s ’ efforça
-devouloirosteràicellePerrinelesdites	de vouloir oster à icelle Perrine lesdites
-clefz,àquoy	clefz , à quoy
-,parlemoiend’iceulx	, par le moien d ’ iceulx
-BernieretDuchesneelle..	Bernier et Duchesne elle . .
-resista,..etpourcequ’ilnevouloit	resista , . . et pour ce qu ’ il ne vouloit
-vouloitystred’	vouloit ystre d ’
-’icelleestable,	’ icelle estable ,
-icellePerrine,femmeduditsuppliant,	icelle Perrine , femme dudit suppliant ,
-tiral’uysàelleeten	tira l ’ uys à elle et en
-fermaicelluifranc	ferma icellui franc
-archer,Duchesne..et	archer , Duchesne . . et
-Bernier,sonserviteur.Et	Bernier , son serviteur . Et
-ce..voyant	ce . . voyant
-voyantleditfrancarcherdestachaleditchevalet	voyant ledit franc archer destacha ledit cheval et
-ets’efforçalemettrehorsde	et s ’ efforça le mettre hors de
-laditeestablepourlecuider	ladite estable pour le cuider
-cuiderenmener,cequeleditDuchesnemarchant,quiavoit	cuider enmener , ce que ledit Duchesne marchant , qui avoit
-amenéleditcheval,empescha	amené ledit cheval , empescha
-etprinstpareillementaudit..collierettirèrentlesungs	et prinst pareillement audit . . collier et tirèrent les ungs
-ungscontrelesautres,etpourcequ	ungs contre les autres , et pour ce qu
-’ilvitqu	’ il vit qu
-qu’ilnelepouvoitmettrehorspourl	qu ’ il ne le pouvoit mettre hors pour l
-’empeschementquelesdizmarchantetBernier	’ empeschement que les diz marchant et Bernier
-luyfaisoient	luy faisoient
-,icelluyfrancarchertiraunggrantcousteau	, icelluy franc archer tira ung grant cousteau
-qu’ilavoit	qu ’ il avoit
-penduaucosté,duquelilbaillaauditmarchantplusieurs	pendu au costé , duquel il bailla audit marchant plusieurs
-coupsduplattellementqu	coups du plat tellement qu
-’..ilfutcontrainct	’ . . il fut contrainct
-delaschersaprinse..etlefisttumber,au	de lascher sa prinse . . et le fist tumber , au
-moiendesdiz	moien desdiz
-coups,.à	coups , . à
-terre,etleditBernier,serviteurdudit	terre , et ledit Bernier , serviteur dudit
-duditsuppliant,	dudit suppliant ,
-quantilvittumber	quant il vit tumber
-leditmarchant,s’enfouymuceroufoing	ledit marchant , s ’ en fouy mucer ou foing
-.Etcefait,setiraledit..francarcher	. Et ce fait , se tira ledit . . franc archer
-droitàlaporte,pourcuiderystre,tenant	droit à la porte , pour cuider ystre , tenant
-enunemainleditchevaletenl’	en une main ledit cheval et en l ’
-’autresonditcousteau;	’ autre sondit cousteau ;
-laquelleportelafemmedudit	laquelle porte la femme dudit
-supplianttenoitaubaroilpardehors,pourempescherqu	suppliant tenoit au baroil par dehors , pour empescher qu
-qu’ilnemist	qu ’ il ne mist
-misthorsleditcheval.Pour	mist hors ledit cheval . Pour
-Pourlaquelleresistance	Pour laquelle resistance
-resistancesemeutgrantbruyt,parcequ’il	resistance se meut grant bruyt , parce qu ’ il
-ils’..efforçoitromprel’uysde	il s ’ . . efforçoit rompre l ’ uys de
-laditeestable,ettellement	ladite estable , et tellement
-queicelluisuppliantquiestoitensamaisonoùil	que icellui suppliant qui estoit en sa maison où il
-iln’yavoitpasgrantdistancejusques	il n ’ y avoit pas grant distance jusques
-àsonestable,oysadicte	à son estable , oy sadicte
-femmequis’escrieetà	femme qui s ’ escrie et à
-cecryprint	ce cry print
-printoufoyerune	print ou foyer une
-palle.deferenmanchéedeboysets	palle . de fer enmanchée de boys et s
-s’enparty	s ’ en party
-pourallerà	pour aller à
-àl’estableettrouvasaditefemmetenantle	à l ’ estable et trouva sadite femme tenant le
-varroil,à	varroil , à
-laquelleildemandatouteschaufféqu’ilyavoit	laquelle il demanda tout eschauffé qu ’ il y avoit
-.Aquoyelle..luyresponditquec’estoit	. A quoy elle . . luy respondit que c ’ estoit
-leditNourrissonfranc	ledit Nourrisson franc
-archer,quivouloitenmenerlechevalduditmarchant	archer , qui vouloit enmener le cheval dudit marchant
-,leurhoste,et	, leur hoste , et
-qu’ill’	qu ’ il l ’
-’avoitmoultbatu.etoultragédesonpenart;	’ avoit moult batu . et oultragé de son penart ;
-lequelsuppliantdistàsaditefemmequ’	lequel suppliant dist à sadite femme qu ’
-ellelaissastleverroul,cequ’.ellefist	elle laissast le verroul , ce qu ’ . elle fist
-fist.Etincontinant	fist . Et incontinant
-icelluifrancarcher	icellui franc archer
-sortit,aiantsonditcousteauoupoingenrenyantDieu	sortit , aiant sondit cousteau ou poing en renyant Dieu
-commedessusqu’ilenmeneroitledit	comme dessus qu ’ il enmeneroit ledit
-leditcheval,et	ledit cheval , et
-etsileditsuppliant,semettoitaudevantpour	et si ledit suppliant , se mettoit au devant pour
-levouloirempescher	le vouloir empescher
-qu’illetueroit	qu ’ il le tueroit
-.Aquoyicelluysuppliant,tenantensa	. A quoy icelluy suppliant , tenant en sa
-mainladitepallede	main ladite palle de
-fer,luydistqu’ilne	fer , luy dist qu ’ il ne
-nel’enmeneroitpointet	ne l ’ enmeneroit point et
-qu’iln’avoitnullecausepour	qu ’ il n ’ avoit nulle cause pour
-cefaire.Et	ce faire . Et
-encedisant	en ce disant
-,leditfrancarchers	, ledit franc archer s
-’avançacontreicelluysuppliantetluycuydadonner	’ avança contre icelluy suppliant et luy cuyda donner
-duditgrantcousteau	dudit grant cousteau
-àtraversducorpsd’	à travers du corps d ’
-’unestocqu’illuyruaetl’	’ un estoc qu ’ il luy rua et l ’
-eusttué,sen’eustesté	eust tué , se n ’ eust esté
-lafemmeduditsuppliant	la femme dudit suppliant
-quisegetasurleditfrancarcher	qui se geta sur ledit franc archer
-archer.etleprintaubraset	archer . et le print au bras et
-aucollet.Etnon	au collet . Et non
-contentdece,poursuyvyencores	content de ce , poursuyvy encores
-encoresicelluysuppliantpourlevouloir	encores icelluy suppliant pour le vouloir
-vouloir..tuer;voyantlaquellepoursuicte,doubtantparleditsuppliant	vouloir . . tuer ; voyant laquelle poursuicte , doubtant par ledit suppliant
-suppliantqueicelluyquiestoitmalfaméetrenomméetdangereux	suppliant que icelluy qui estoit mal famé et renommé et dangereux
-defrapper,se	de frapper , se
-mistendeffence	mist en deffence
-deffenceetluyruaungcoup	deffence et luy rua ung coup
-surlatestedeladitepalleducostésenestre	sur la teste de ladite palle du costé senestre
-tellementqu’il	tellement qu ’ il
-tumbaàterre.	tumba à terre .
-.Etàcefaitledit..suppliants	. Et à ce fait ledit . . suppliant s
-s’enala	s ’ en ala
-ensamaisonetledit	en sa maison et ledit
-leditfrancarcher	ledit franc archer
-futenmenéparlafemmeduditsuppliant	fut enmené par la femme dudit suppliant
-etJehan.	et Jehan .
-Denisenl’ostelduditDenis,ouquel	Denis en l ’ ostel dudit Denis , ouquel
-ouquelildemoura	ouquel il demoura
-pourcelle	pour celle
-nuytetcouchatout	nuyt et coucha tout
-vestu,sansvouloir	vestu , sans vouloir
-sefaire..penser	se faire . . penser
-penser.Etluyestantoudithostel,.futconfesséet	penser . Et luy estant oudit hostel , . fut confessé et
-pardonnaauditsuppliantet	pardonna audit suppliant et
-environdix	environ dix
-heuresdumatinaladevieàtrespas.	heures du matin ala de vie à trespas .
-.Pouroccasionduquelcasainsiadvenu	. Pour occasion duquel cas ainsi advenu
-queditest,leditsuppliantdoubtantrigueurde	que dit est , ledit suppliant doubtant rigueur de
-justices’estabsentéde	justice s ’ est absenté de
-samaisonetn	sa maison et n
-’yoseroit	’ y oseroit
-allerneconverser,ennous	aller ne converser , en nous
-humblementrequerantque,attenducequeditest	humblement requerant que , attendu ce que dit est
-etqueledit	et que ledit
-suppliantnefutjamaisactaintne	suppliant ne fut jamais actaint ne
-convaincud	convaincu d
-’aucunautrevillaincas,blasmeou	’ aucun autre villain cas , blasme ou
-reproucheetqueleditdeffunct	reprouche et que ledit deffunct
-deffunctaestéaggresseur	deffunct a esté aggresseur
-,ilnousplaiseluy	, il nous plaise luy
-impartir.surcenostre	impartir . sur ce nostre
-nostregraceetmisericorde.Pourquoy,etc	nostre grace et misericorde . Pour quoy , etc
-.,auseneschal..de	., au seneschal . . de
-Poictou,àsonsiègedeThouars,etc...	Poictou , à son siège de Thouars , etc . . .
-.DonnéàNemours,oumoysdejuingl	. Donné à Nemours , ou moys de juing l
-’andegracemilcccc.lxxix	’ an de grace mil cccc . lxxix
-lxxix,.etdenostreregne	lxxix , . et de nostre regne
-lexviiie.Ainsisigné:Parle	le xviiie . Ainsi signé : Par le
-roy,àlarelacionduConseil.Forlet	roy , à la relacion du Conseil . Forlet
-.—Visa.Contentor.—Registrata.	.— Visa . Contentor .— Registrata .
+Dieu,s..’estce	Dieu , s . . ’ est ce
+qu’ilmefaultpourmeneràla	qu ’ il me fault pour mener à la
+guerre;jeluy	guerre ; je luy
+menerayquiquelaveuilleveoir	meneray qui que la veuille veoir
+veoir.»Etincontinentqu’ilfutdescendu	veoir .» Et incontinent qu ’ il fut descendu
+,icelluiDuchesne,marchant,laprinst	, icellui Duchesne , marchant , la prinst
+etmisten	et mist en
+l’estableduditsuppliantetl	l ’ estable dudit suppliant et l
+’atachaprèsladitejument,etcefait	’ atacha près ladite jument , et ce fait
+,s’enalla.	, s ’ en alla .
+soupper.Et	soupper . Et
+Etcevoyantparleditfrancarcher	Et ce voyant par ledit franc archer
+que..icelluiDuchesnequiavoit	que . . icellui Duchesne qui avoit
+avoitlaisséenl’uysde	avoit laissé en l ’ uys de
+l’establelaclefetqu’il	l ’ estable la clef et qu ’ il
+ilsouppoit,fermaledithuysdeladiteestableà	il souppoit , ferma ledit huys de ladite estable à
+laclef,enlaquelleleditchevalestoitet	la clef , en laquelle ledit cheval estoit et
+printicelleclefen..samainetsetinsttousjours	print icelle clef en . . sa main et se tinst tousjours
+auprèsdeladitemaison.	auprès de ladite maison .
+EtcependantungnomméGuillaumeBernier,	Et ce pendant ung nommé Guillaume Bernier ,
+serviteurduditsuppliant,ainsi	serviteur dudit suppliant , ainsi
+qu’ilvenoitdeschamps	qu ’ il venoit des champs
+demenerpaistreles	de mener paistre les
+bestesappartenansauditsuppliant,pourveniroudit	bestes appartenans audit suppliant , pour venir oudit
+hostelrencontraaucheminPerrineGirondelle,	hostel rencontra au chemin Perrine Girondelle ,
+voisineduditsuppliant	voisine dudit suppliant
+,quiluiditqu’elleavoit	, qui lui dit qu ’ elle avoit
+veuqueleditNorrisson,francarcher,avoitfermé	veu que ledit Norrisson , franc archer , avoit fermé
+l’establedesonditmaistreàlaclef	l ’ estable de sondit maistre à la clef
+clefeticelleclefavoitversluiet	clef et icelle clef avoit vers lui et
+avoit.oy	avoit . oy
+oyregnierDieuqu’ilenmeneroit	oy regnier Dieu qu ’ il enmeneroit
+enmeneroitleditchevalet	enmeneroit ledit cheval et
+etque..lepremier	et que . . le premier
+quisemettroit	qui se mettroit
+audevant	au devant
+devantpourl’empescherqu’	devant pour l ’ empescher qu ’
+ille.tueroit.	il le . tueroit .
+Lequelserviteur	Lequel serviteur
+,luiarrivéenl’ostelduditsuppliantson	, lui arrivé en l ’ ostel dudit suppliant son
+sonmaistre,	son maistre ,
+recitaceque	recita ce que
+ditestàJaquette	dit est à Jaquette
+JaquetteMarronne,samaistresseetfemmedudit	Jaquette Marronne , sa maistresse et femme dudit
+duditsuppliant,l’advertissantqu	dudit suppliant , l ’ advertissant qu
+’elles’endonnast.	’ elle s ’ en donnast .
+garde.Etincontinenticellesa	garde . Et incontinent icelle sa
+samaistresse..demandaàPerrineGardate,sa	sa maistresse . . demanda à Perrine Gardate , sa
+niepce.,	niepce . ,
+parfixionetpourrecouvrerlaclef	par fixion et pour recouvrer la clef
+d’icelleestablequeicellui	d ’ icelle estable que icellui
+icellui.francarcheravoitainsiprinse,s	icellui . franc archer avoit ainsi prinse , s
+s.’elleavoit	s . ’ elle avoit
+misoutoitlesoisons	mis ou toit les oisons
+,quilui..	, qui lui . .
+responditquenon.Et	respondit que non . Et
+allorsyalla	allors y alla
+alla,en.	alla , en .
+sacompaignielesdizDuchesneet	sa compaignie lesdiz Duchesne et
+etBernieretprinst	et Bernier et prinst
+prinstlesclefzqueleditfrancarcheravoitainsiprinses	prinst les clefz que ledit franc archer avoit ainsi prinses
+et..ouvry	et . . ouvry
+ouvryl’estableenlaquelleellemistlesdizoysons	ouvry l ’ estable en laquelle elle mist les diz oysons
+enungpetittoit	en ung petit toit
+toitouquelilzavoientacoustuméestre	toit ouquel ilz avoient acoustumé estre
+mis.Enlaquelle	mis . En laquelle
+laquelleestable..icelluifrancarcherentra	laquelle estable . . icellui franc archer entra
+ets’efforçade	et s ’ efforça de
+devouloirosteràicellePerrinelesditesclefz,à	de vouloir oster à icelle Perrine lesdites clefz , à
+àquoy,parlemoien	à quoy , par le moien
+moiend’iceulx	moien d ’ iceulx
+BernieretDuchesneelleresista,	Bernier et Duchesne elle resista ,
+etpource.qu’	et pour ce . qu ’
+ilnevouloit	il ne vouloit
+ystred’	ystre d ’
+icelleestable,icellePerrine,	icelle estable , icelle Perrine ,
+femmeduditsuppliant	femme dudit suppliant
+,tiral’	, tira l ’
+uysàelleeten	uys à elle et en
+fermaicelluifrancarcher,	ferma icellui franc archer ,
+DuchesneetBernier,sonserviteur..	Duchesne et Bernier , son serviteur . .
+.Etcevoyantledit	. Et ce voyant ledit
+franc.archer	franc . archer
+destachaleditchevalets’efforçalemettrehors	destacha ledit cheval et s ’ efforça le mettre hors
+horsdeladiteestablepourlecuiderenmener,ceque	hors de ladite estable pour le cuider enmener , ce que
+leditDuchesne	ledit Duchesne
+marchant,	marchant ,
+quiavoitamenéleditcheval,empescha	qui avoit amené ledit cheval , empescha
+etprinstpareillementauditcollierettirèrentlesungscontre	et prinst pareillement audit collier et tirèrent les ungs contre
+lesautres,et..pour	les autres , et . . pour
+cequ’il	ce qu ’ il
+vitqu’il	vit qu ’ il
+nelepouvoitmettrehorspourl’empeschementque	ne le pouvoit mettre hors pour l ’ empeschement que
+lesdizmarchantet..Bernier	les diz marchant et . . Bernier
+Bernierluyfaisoient,icelluyfrancarchertira	Bernier luy faisoient , icelluy franc archer tira
+tiraunggrant	tira ung grant
+grantcousteauqu’ilavoit	grant cousteau qu ’ il avoit
+penduaucosté.,duquelilbailla	pendu au costé . , duquel il bailla
+baillaauditmarchantplusieurs	bailla audit marchant plusieurs
+coupsduplattellementqu’..ilfutcontrainctde	coups du plat tellement qu ’ . . il fut contrainct de
+delaschersaprinseetlefisttumber,	de lascher sa prinse et le fist tumber ,
+aumoiendesdizcoups.,à	au moien desdiz coups . , à
+terre,etleditBernier,serviteur	terre , et ledit Bernier , serviteur
+dudit..suppliant,quant	dudit . . suppliant , quant
+ilvittumber	il vit tumber
+leditmarchant,s’en..fouymucer	ledit marchant , s ’ en . . fouy mucer
+oufoing.Etcefait,	ou foing . Et ce fait ,
+setiraleditfrancarcherdroit..à	se tira ledit franc archer droit . . à
+laporte,pourcuider	la porte , pour cuider
+ystre,tenantenunemain	ystre , tenant en une main
+mainleditchevaletenl’	main ledit cheval et en l ’
+’autresonditcousteau;laquelleportela	’ autre sondit cousteau ; laquelle porte la
+femmeduditsupplianttenoitaubaroilpardehors,	femme dudit suppliant tenoit au baroil par dehors ,
+pourempescherqu’ilnemisthorsleditcheval	pour empescher qu ’ il ne mist hors ledit cheval
+cheval.Pourlaquelleresistance	cheval . Pour laquelle resistance
+resistancesemeutgrantbruyt,parcequ	resistance se meut grant bruyt , parce qu
+qu’ils’efforçoit	qu ’ il s ’ efforçoit
+efforçoitromprel	efforçoit rompre l
+l’uysdeladiteestable	l ’ uys de ladite estable
+,ettellement	, et tellement
+queicelluisuppliantqui	que icellui suppliant qui
+estoiten	estoit en
+samaisonoùiln’y	sa maison où il n ’ y
+avoitpasgrantdistancejusquesàsonestable,	avoit pas grant distance jusques à son estable ,
+,oysadictefemmequis’escrieet	, oy sadicte femme qui s ’ escrie et
+àcecryprint	à ce cry print
+printoufoyerunepalledeferenmanchéedeboys	print ou foyer une palle de fer enmanchée de boys
+boysets’enpartypourallerà	boys et s ’ en party pour aller à
+àl’estableettrouvasaditefemmetenantlevarroil	à l ’ estable et trouva sadite femme tenant le varroil
+,àlaquelleildemandatouteschauffé	, à laquelle il demanda tout eschauffé
+eschaufféqu’ilyavoit.	eschauffé qu ’ il y avoit .
+Aquoyelleluy	A quoy elle luy
+responditquec’estoit..leditNourrissonfrancarcher,	respondit que c ’ estoit . . ledit Nourrisson franc archer ,
+quivouloitenmenerlecheval.duditmarchant	qui vouloit enmener le cheval . dudit marchant
+,..leurhoste,	, . . leur hoste ,
+,etqu’il	, et qu ’ il
+l’avoitmoultbatuetoultragédesonpenart	l ’ avoit moult batu et oultragé de son penart
+penart;lequelsuppliantdistàsadite	penart ; lequel suppliant dist à sadite
+saditefemmequ’ellelaissastleverroul,ce	sadite femme qu ’ elle laissast le verroul , ce
+qu’ellefist.Etincontinanticellui	qu ’ elle fist . Et incontinant icellui
+francarchersortit	franc archer sortit
+sortit,aiantsonditcousteauoupoingenrenyantDieucomme	sortit , aiant sondit cousteau ou poing en renyant Dieu comme
+dessusqu’ilenmeneroitleditcheval,et	dessus qu ’ il enmeneroit ledit cheval , et
+sileditsuppliant,semettoit	si ledit suppliant , se mettoit
+audevantpourlevouloirempescherqu	au devant pour le vouloir empescher qu
+’illetueroit.Aquoy..icelluysuppliant,	’ il le tueroit . A quoy . . icelluy suppliant ,
+tenantensamainladitepalledefer,	tenant en sa main ladite palle de fer ,
+luydistqu’ilnel’enmeneroit	luy dist qu ’ il ne l ’ enmeneroit
+pointetqu	point et qu
+’iln’avoit	’ il n ’ avoit
+avoitnullecausepourcefaire.Etencedisant	avoit nulle cause pour ce faire . Et en ce disant
+,ledit..francarchers’avançacontreicelluysuppliant	, ledit . . franc archer s ’ avança contre icelluy suppliant
+etluycuydadonnerduditgrant	et luy cuyda donner dudit grant
+grantcousteauàtraversducorpsd	grant cousteau à travers du corps d
+’unestoc	’ un estoc
+qu’illuyrua	qu ’ il luy rua
+etl’eusttué,	et l ’ eust tué ,
+sen..’eustestélafemmeduditsuppliantqui	se n . . ’ eust esté la femme dudit suppliant qui
+quise..getasur	qui se . . geta sur
+surleditfrancarcheret	sur ledit franc archer et
+leprintaubrasetaucollet.	le print au bras et au collet .
+Etnoncontentdece,	Et non content de ce ,
+,poursuyvyencoresicelluysuppliantpourle	, poursuyvy encores icelluy suppliant pour le
+levouloirtuer;voyant	le vouloir tuer ; voyant
+voyantlaquellepoursuicte,doubtantparleditsuppliant..que	voyant laquelle poursuicte , doubtant par ledit suppliant . . que
+queicelluyqui..estoitmalfaméetrenommé	que icelluy qui . . estoit mal famé et renommé
+renomméetdangereuxdefrapper,semisten	renommé et dangereux de frapper , se mist en
+deffenceetluyrua	deffence et luy rua
+ruaungcoup	rua ung coup
+surlateste	sur la teste
+deladitepalledu..	de ladite palle du . .
+costésenestretellementqu	costé senestre tellement qu
+’iltumba	’ il tumba
+àterre.Età	à terre . Et à
+cefaitleditsuppliant	ce fait ledit suppliant
+s’.enala	s ’ . en ala
+alaensamaisonetleditfrancarcher	ala en sa maison et ledit franc archer
+futenmenéparlafemme	fut enmené par la femme
+femmeduditsuppliantetJehanDenisen	femme dudit suppliant et Jehan Denis en
+enl’ostel	en l ’ ostel
+ostelduditDenis	ostel dudit Denis
+Denis,ouquelil	Denis , ouquel il
+ildemourapourcellenuytetcouchatoutvestu,	il demoura pour celle nuyt et coucha tout vestu ,
+sansvouloirsefairepenser.Etluy	sans vouloir se faire penser . Et luy
+estantoudithostel,futconfessé	estant oudit hostel , fut confessé
+et.pardonnaaudit	et . pardonna audit
+suppliantet..environdixheuresdumatinaladevie	suppliant et . . environ dix heures du matin ala de vie
+àtrespas.Pouroccasionduquel	à trespas . Pour occasion duquel
+duquelcasainsiadvenuqueditest	duquel cas ainsi advenu que dit est
+,leditsuppliant	, ledit suppliant
+doubtantrigueur..	doubtant rigueur . .
+de..justice	de . . justice
+s’estabsentédesamaisonet	s ’ est absenté de sa maison et
+n’y.oseroitallerne	n ’ y . oseroit aller ne
+converser,.ennoushumblement	converser , . en nous humblement
+requerantque,attendu.	requerant que , attendu .
+cequeditestetqueleditsuppliantnefut..	ce que dit est et que ledit suppliant ne fut . .
+.jamaisactaintneconvaincud’aucun	. jamais actaint ne convaincu d ’ aucun
+aucunautre.villaincas	aucun autre . villain cas
+cas,blasmeoureproucheetqueleditdeffunct	cas , blasme ou reprouche et que ledit deffunct
+aestéaggresseur,ilnousplaiseluy	a esté aggresseur , il nous plaise luy
+luyimpartir..surcenostregrace	luy impartir . . sur ce nostre grace
+etmisericorde.Pourquoy	et misericorde . Pour quoy
+quoy,etc.	quoy , etc .
+.,auseneschaldePoictou,àsonsiègede	., au seneschal de Poictou , à son siège de
+Thouars,	Thouars ,
+etc.DonnéàNemours,oumoysde	etc . Donné à Nemours , ou moys de
+juingl’an	juing l ’ an
+degracemilcccc.lxxix	de grace mil cccc . lxxix
+,etdenostreregne	, et de nostre regne
+regnelexviiie.Ainsisigné:Par	regne le xviiie . Ainsi signé : Par
+leroy,à	le roy , à
+larelacionduConseil..Forlet.—Visa.	la relacion du Conseil . . Forlet .— Visa .
+Contentor.—Registrata.	Contentor .— Registrata .

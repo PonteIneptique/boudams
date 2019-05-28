@@ -1,103 +1,113 @@
-Charles,etc	Charles , etc
-etc.Savoirfaisons,etc,que,	etc . Savoir faisons , etc , que ,
-commeleseigneur..deBugnonetsa	comme le seigneur . . de Bugnon et sa
-safemme,SymonSymes,JehanBouchet,AymeryBouchier	sa femme , Symon Symes , Jehan Bouchet , Aymery Bouchier
-,chevalier,etsafille	, chevalier , et sa fille
-fille,Jehan	fille , Jehan
-JehandeSainteFleur	Jehan de Sainte Fleur
-Fleur,chevalier,etsafille	Fleur , chevalier , et sa fille
-,..sesoient	, . . se soient
-soientrendusnozrebellesetennemiz,en	soient rendus noz rebelles et ennemiz , en
-entenantleparti	en tenant le parti
-deEdwartd'AngleterreetdeEdwartde	de Edwart d ' Angleterre et de Edwart de
-Gales,sonfilzainsné.,	Gales , son filz ainsné . ,
-,quiontcommenciéetfontguerreouvertecontre	, qui ont commencié et font guerre ouverte contre
-nousetnozsubgiez,pourquoytousles	nous et noz subgiez , pour quoy tous les
-biens..meublesetheritagesdesdessusnommés	biens . . meubles et heritages des dessus nommés
-seanzenl'isledeBouhain	seanz en l ' isle de Bouhain
-etailleursennostreroyaume,noussontacquiset	et ailleurs en nostre royaume , nous sont acquis et
-confisquezparlaforfaiture	confisquez par la forfaiture
-forfaituredesdessusdis,	forfaiture des dessus dis ,
-lesquiexsontdemouransenGuienneavec	les quiex sont demourans en Guienne avec
-avecnozdisennemis,	avec noz dis ennemis ,
-enleurdonnanttoutleconfortetaydequ'	en leur donnant tout le confort et ayde qu '
-ilzpuentcontre	ilz puent contre
-nousetnoz	nous et noz
-nozsubgiez,encommettant	noz subgiez , en commettant
-crimedelesemajestéenversnous;lesquielz	crime de lese majesté envers nous ; les quielz
-biensmeublesetheritages	biens meubles et heritages
-puentbienvaloircinq	puent bien valoir cinq
-cinqcenslivréesdeterreou	cinq cens livrées de terre ou
-renteparanautournois	rente par an au tournois
-tournoisouenviron,sicommel'	tournois ou environ , si comme l '
-endit.Nous,pour	en dit . Nous , pour
-pourconsideraciondesbonsetagreables	pour consideracion des bons et agreables
-servicesquenostreaméetfealchevalier	services que nostre amé et feal chevalier
-,feuGerart,sirede	, feu Gerart , sire de
-Rays,nousa	Rays , nous a
-faizensonvivanten	faiz en son vivant en
+Charles,etc.Savoir	Charles , etc . Savoir
+faisons,etc,que,commele.seigneurde	faisons , etc , que , comme le . seigneur de
+Bugnonetsafemme,	Bugnon et sa femme ,
+,SymonSymes,JehanBouchet,AymeryBouchier	, Symon Symes , Jehan Bouchet , Aymery Bouchier
+,chevalier,etsafille,JehandeSainte	, chevalier , et sa fille , Jehan de Sainte
+Fleur.,chevalier,	Fleur . , chevalier ,
+,etsafille,sesoient	, et sa fille , se soient
+rendus..nozrebelleset	rendus . . noz rebelles et
+ennemiz,entenant	ennemiz , en tenant
+lepartideEdwartd'Angleterre	le parti de Edwart d ' Angleterre
+etde.EdwartdeGales,sonfilz	et de . Edwart de Gales , son filz
+ainsné,quiontcommencié	ainsné , qui ont commencié
+etfontguerreouvertecontrenousetnozsubgiez,	et font guerre ouverte contre nous et noz subgiez ,
+pourquoytouslesbiensmeubleset	pour quoy tous les biens meubles et
+heritagesdes	heritages des
+dessusnommésseanzenl'isle	dessus nommés seanz en l ' isle
+deBouhainetailleursennostreroyaume,nous	de Bouhain et ailleurs en nostre royaume , nous
+sontacquisetconfisquez	sont acquis et confisquez
+parlaforfaituredes	par la forfaiture des
+dessusdis,lesquiexsontdemouransen	dessus dis , les quiex sont demourans en
+enGuienneavec.nozdis	en Guienne avec . noz dis
+disennemis,enleurdonnanttoutleconfortet	dis ennemis , en leur donnant tout le confort et
+aydequ'ilzpuent	ayde qu ' ilz puent
+contrenousetnozsubgiez,en	contre nous et noz subgiez , en
+commettantcrimedelesemajesté	commettant crime de lese majesté
+majestéenversnous;	majesté envers nous ;
+lesquielzbiensmeublesetheritagespuentbienvaloir	les quielz biens meubles et heritages puent bien valoir
+cinqcenslivrées	cinq cens livrées
+livréesdeterreou.renteparanautournoisou	livrées de terre ou . rente par an au tournois ou
+ouenviron..,si	ou environ . . , si
+commel'	comme l '
+endit.Nous,pourconsideraciondesbons	en dit . Nous , pour consideracion des bons
+et..agreablesservicesquenostreaméetfealchevalier	et . . agreables services que nostre amé et feal chevalier
+chevalier,feuGerart,	chevalier , feu Gerart ,
+siredeRays.	sire de Rays .
+.,nousafaizensonvivantennoz	. , nous a faiz en son vivant en noz
 nozpresentesguerres,à	noz presentes guerres , à
 nostrebienaméeJehannedeRays,nagairesseur	nostre bien amée Jehanne de Rays , nagaires seur
-denostreditchevalier,pourelle	de nostre dit chevalier , pour elle
-elle,seshoirset	elle , ses hoirs et
-qui.deli	qui . de li
-aurontcauseàtousjours	auront cause à tousjours
-tousjoursmais,avonsdonnéet	tousjours mais , avons donné et
-octroyé,donnonsetoctroionsparcespresentes,	octroyé , donnons et octroions par ces presentes ,
-de..nostre	de . . nostre
-nostreauctoritéroyal,certainescienceetgraceespecial	nostre auctorité royal , certaine science et grace especial
-especial,lesbiensmeublesetheritages..des	especial , les biens meubles et heritages . . des
-desdessusnommez,estansèsdislieuxet	des dessus nommez , estans ès dis lieux et
-partoutailleursennostre.royaume,qui	partout ailleurs en nostre . royaume , qui
-noussont.etpuentestreadvenus	nous sont . et puent estre advenus
-etconfisquiezparlaforfaituredesdessusnommez,comme	et confisquiez par la forfaiture des dessus nommez , comme
-commeditest,jusquesà	comme dit est , jusques à
-lavaluedescinqcenslivréestournois	la value des cinq cens livrées tournois
-deterreourentepar	de terre ou rente par
-an,commeditest,	an , comme dit est ,
-,àteniretpossideretenleverlesfruis	, à tenir et possider et en lever les fruis
-fruis,prouffizetrevenuesparladicteJehanne,..	fruis , prouffiz et revenues par la dicte Jehanne , . .
-seshoirsetquide	ses hoirs et qui de
-liaurontcauseàtousjoursmes,desonpropre	li auront cause à tousjours mes , de son propre
-heritage.Sidonnonsenmandementpar	heritage . Si donnons en mandement par
-parcespresentesauseneschald'AnjouetduMayne	par ces presentes au seneschal d ' Anjou et du Mayne
-,etàtousnozautresofficiers	, et à tous noz autres officiers
-officiers,presensetavenir,ou	officiers , presens et avenir , ou
-àleurslieustenans,etàchascund'	à leurs lieus tenans , et à chascun d '
-'eulx,commeàliappartendra,quedes	' eulx , comme à li appartendra , que des
-desbiensetheritagesdessusdisjusquesà	des biens et heritages dessus dis jusques à
-lavalue..desdictescinqcens	la value . . des dictes cinq cens
-livréesdeterreourente,.ànous	livrées de terre ou rente , . à nous
-ainsiadvenueset	ainsi advenues et
-etappartenans,commedit	et appartenans , comme dit
-ditest,mettentoufacentmettretantost.	dit est , mettent ou facent mettre tantost .
-etsansdelay,ceslettresveues.	et sans delay , ces lettres veues .
-.,enpossessionet	. , en possession et
-saisineladicteJehanneousonprocureurpour	saisine la dicte Jehanne ou son procureur pour
-elle,etd	elle , et d
-'iceuxfacentetsueffrentjoiret	' iceux facent et sueffrent joir et
-etuserpaisiblement,perpetuelmentethereditablement,	et user paisiblement , perpetuelment et hereditablement ,
-elle,seshoirsetquideliaurontcause	elle , ses hoirs et qui de li auront cause
-,sansleurmettrene	, sans leur mettre ne
-souffrirestremisenceaucunempeschement,	souffrir estre mis en ce aucun empeschement ,
-non.[obstant	non . [ obstant
-]quecedeustestreappliquiéet	] que ce deust estre appliquié et
-mizennostre	miz en nostre
-demaine.etdenostrecouronnedeFrance,et	demaine . et de nostre couronne de France , et
-etordenancesquelconquesàcecontraires	et ordenances quelconques à ce contraires
-.Toutesvoiesn	. Toutes voies n
-'estpasnostreententeque	' est pas nostre entente que
-,sepouraucunecauseiladvenoitquenousrendissions	, se pour aucune cause il advenoit que nous rendissions
-rendissionsoufaissionsrendrelesbienset	rendissions ou faissions rendre les biens et
-etheritagesdessus	et heritages dessus
-disauxdessusnommez,nous	dis aux dessus nommez , nous
-noussoionstenuzd'enfaireaucunerecompensacionàla	nous soions tenuz d ' en faire aucune recompensacion à la
-dicteJehanne,seshoirsouaians..deli	dicte Jehanne , ses hoirs ou aians . . de li
-cause.Etquecesoitfermechose,etc	cause . Et que ce soit ferme chose , etc
-.Sauf,etc.DonnéàParisen	. Sauf , etc . Donné à Paris en
-ennostrehostellezSaintPol,	en nostre hostel lez Saint Pol ,
-letiersjourdenovembrel'andegrace	le tiers jour de novembre l ' an de grace
-milccc.soixanteetonze,.etde	mil ccc . soixante et onze , . et de
-nostreregnelehuitiesme.Parle	nostre regne le huitiesme . Par le
-roy.J.de	roy . J . de
-Vernon.—Visa.	Vernon .— Visa .
+seurdenostreditchevalier,pourelle,	seur de nostre dit chevalier , pour elle ,
+seshoirs	ses hoirs
+hoirsetquideliaurontcauseàtousjours	hoirs et qui de li auront cause à tousjours
+mais,..avonsdonnéet	mais , . . avons donné et
+octroyé,..	octroyé , . .
+donnonsetoctroionspar	donnons et octroions par
+parcespresentes,de	par ces presentes , de
+nostreauctorité	nostre auctorité
+royal,certainescience	royal , certaine science
+etgraceespecial,lesbiens	et grace especial , les biens
+meublesetheritagesdesdessusnommez,	meubles et heritages des dessus nommez ,
+estansès..dislieuxet	estans ès . . dis lieux et
+partoutailleurs	partout ailleurs
+ennostreroyaume,	en nostre royaume ,
+quinoussontetpuentestreadvenus	qui nous sont et puent estre advenus
+etconfisquiezparla	et confisquiez par la
+forfaituredes..dessusnommez	forfaiture des . . dessus nommez
+nommez,commeditest,jusquesàla	nommez , comme dit est , jusques à la
+valuedescinqcenslivrées	value des cinq cens livrées
+livréestournoisde	livrées tournois de
+terreourenteparan,comme	terre ou rente par an , comme
+ditest,	dit est ,
+àteniretpossideretenleverlesfruis	à tenir et possider et en lever les fruis
+fruis,prouffizetrevenuesparladicte	fruis , prouffiz et revenues par la dicte
+Jehanne.,seshoirs	Jehanne . , ses hoirs
+hoirsetqui	hoirs et qui
+deliaurontcause	de li auront cause
+causeàtousjoursmes,desonpropre.heritage.Si	cause à tousjours mes , de son propre . heritage . Si
+donnonsenmandementparcespresentesauseneschald	donnons en mandement par ces presentes au seneschal d
+'AnjouetduMayne,et	' Anjou et du Mayne , et
+àtousnozautresofficiers..,presensetavenir,	à tous noz autres officiers . . , presens et avenir ,
+ouàleurslieustenans,etàchascund	ou à leurs lieus tenans , et à chascun d
+d'eulx,comme	d ' eulx , comme
+commeàli	comme à li
+appartendra,quedesbiens	appartendra , que des biens
+etheritages	et heritages
+dessusdisjusques	dessus dis jusques
+àlavalue	à la value
+desdictescinqcenslivrées	des dictes cinq cens livrées
+deterreourente,à	de terre ou rente , à
+ànousainsiadvenuesetappartenans,commeditest	à nous ainsi advenues et appartenans , comme dit est
+,mettentoufacentmettretantostetsans	, mettent ou facent mettre tantost et sans
+delay,ceslettres	delay , ces lettres
+lettresveues..,	lettres veues . . ,
+,enpossessionetsaisine	, en possession et saisine
+ladicteJehanneousonprocureurpourelle,et	la dicte Jehanne ou son procureur pour elle , et
+d'iceux	d ' iceux
+iceuxfacentetsueffrentjoiret	iceux facent et sueffrent joir et
+userpaisiblement.,perpetuelmentethereditablement,elle,	user paisiblement . , perpetuelment et hereditablement , elle ,
+,seshoirsetquideliaurontcause	, ses hoirs et qui de li auront cause
+,sansleurmettrenesouffrirestremis	, sans leur mettre ne souffrir estre mis
+enceaucunempeschement,non[obstant	en ce aucun empeschement , non [ obstant
+]quecedeustestreappliquiéetmiz	] que ce deust estre appliquié et miz
+ennostredemaineetde	en nostre demaine et de
+nostrecouronne	nostre couronne
+deFrance,etordenancesquelconquesà	de France , et ordenances quelconques à
+cecontraires.	ce contraires .
+Toutesvoiesn'estpasnostreententeque,	Toutes voies n ' est pas nostre entente que ,
+sepouraucune	se pour aucune
+aucunecauseiladvenoitquenousrendissionsoufaissions	aucune cause il advenoit que nous rendissions ou faissions
+rendrelesbiensetheritagesdessusdisauxdessusnommez	rendre les biens et heritages dessus dis aux dessus nommez
+nommez,nous	nommez , nous
+soionstenuzd'enfaireaucunerecompensacion	soions tenuz d ' en faire aucune recompensacion
+àladicte..Jehanne	à la dicte . . Jehanne
+,ses.hoirsouaians	, ses . hoirs ou aians
+delicause.Etquece	de li cause . Et que ce
+soitfermechose,etc.	soit ferme chose , etc .
+Sauf,etc...	Sauf , etc . . .
+DonnéàParis	Donné à Paris
+ennostre	en nostre
+hostellezSaintPol,le..tiers	hostel lez Saint Pol , le . . tiers
+tiersjourdenovembrel'andegracemilccc	tiers jour de novembre l ' an de grace mil ccc
+ccc.soixanteetonze,etdenostre	ccc . soixante et onze , et de nostre
+regnelehuitiesme.Parleroy	regne le huitiesme . Par le roy
+.J.deVernon	. J . de Vernon

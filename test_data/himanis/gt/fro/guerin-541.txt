@@ -1,5 +1,6 @@
-ItemunepareillenobilitationpourJehanBigot	Item une pareille nobilitation pour Jehan Bigot
-,àpresentmaireetbourgois	, à present maire et bourgois
-denostrevilleetcitédePoitiers	de nostre ville et cité de Poitiers
-...Signéet	. . . Signé et
-donnécommedessus.	donné comme dessus .
+ItemunepareillenobilitationpourJehanBigot,àpresent	Item une pareille nobilitation pour Jehan Bigot , à present
+presentmaireetbourgois.	present maire et bourgois .
+denostreville	de nostre ville
+etcitéde	et cité de
+dePoitiers.	de Poitiers .
+.Signéetdonnécomme	. Signé et donné comme

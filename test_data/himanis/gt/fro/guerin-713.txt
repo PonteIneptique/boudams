@@ -1,71 +1,74 @@
-Charles,etc	Charles , etc
-.Savoirfaisonsàtouz,presenset	. Savoir faisons à touz , presens et
-avenir,	avenir ,
-delapartiedesamischarnelzdeSymon	de la partie des amis charnelz de Symon
-Sabourin,laboureurdebraz,delaparroisse	Sabourin , laboureur de braz , de la parroisse
-d’AzayenPoytou,povreetmiserablepersonne	d ’ Azay en Poytou , povre et miserable personne
-,chargié	, chargié
+Charles,etc.Savoirfaisonsàtouz	Charles , etc . Savoir faisons à touz
+,presensetavenir,dela	, presens et avenir , de la
+partiedesamischarnelz	partie des amis charnelz
+deSymonSabourin,laboureurdebraz,	de Symon Sabourin , laboureur de braz ,
+delaparroisse	de la parroisse
+parroissed’AzayenPoytou,povreetmiserablepersonne	parroisse d ’ Azay en Poytou , povre et miserable personne
+personne,chargiéde	personne , chargié de
 defemmeetdedeuxenfans,à	de femme et de deux enfans , à
-nousavoirestéhumblementexposéque,environlemoys	nous avoir esté humblement exposé que , environ le moys
-d’octobrederrainementpassé	d ’ octobre derrainement passé
-eustunan..,autrementdu	eust un an . . , autrement du
-journ’estrecors,	jour n ’ est recors ,
-leditexposantestantenlavilled’Azay	le dit exposant estant en la ville d ’ Azay
-,avecpluseurs	, avec pluseurs
-autresdeladicte	autres de la dicte
-villeetd’ailleurs,survinten	ville et d ’ ailleurs , survint en
-la.compagnie	la . compagnie
-desdessusdizunhommeappelléJehanLevrier,laboureur	des dessus diz un homme appellé Jehan Levrier , laboureur
-laboureurdebrazdelaville	laboureur de braz de la ville
-deSaintMexant,leur	de Saint Mexant , leur
-leurami,voisinetaffin,	leur ami , voisin et affin ,
-lequeldistetanunça,	le quel dist et anunça ,
-auxdessusdiz..assistans,en	aux dessus diz . . assistans , en
-soygriefmentcomplaignant,queunhommeappelléTruppelin,	soy griefment complaignant , que un homme appellé Truppelin ,
-lierres,robeur,pilleuretrançonneurde	lierres , robeur , pilleur et rançonneur de
-genz,lui	genz , lui
-avoitfreschementostéet	avoit freschement osté et
-toluparforcesajument,etenoultrece	tolu par force sa jument , et en oultre ce
-ce,pourcequ’illapoursuivoit,	ce , pour ce qu ’ il la poursuivoit ,
-,l’avoit	, l ’ avoit
-volutueretmurdrir,ausquellesparollesdictesestoientpresens	volu tuer et murdrir , ausquelles parolles dictes estoient presens
-JehanJoulinetJehanPajerot,laboureursdebraz,	Jehan Joulin et Jehan Pajerot , laboureurs de braz ,
-quidisdrentenaudience	qui disdrent en audience
-desassistansquesemblablementavoitledit	des assistans que semblablement avoit le dit
-ditTruppelinnagueresbatuetnavrélesfemmesdesdiz	dit Truppelin nagueres batu et navré les femmes des diz
-Joulinet	Joulin et
-brulélabarbe	brulé la barbe
-duditPajerot,poureulxrançonner	du dit Pajerot , pour eulx rançonner
-;adonclesassistansauditlieu,comme	; adonc les assistans au dit lieu , comme
-commecourrouciezetesmeuzdes	comme courrouciez et esmeuz des
-desdictespilleries,roberiesetvillenies,	des dictes pilleries , roberies et villenies ,
-quefaictesleuravoitledit	que faictes leur avoit le dit
-Truppelin,etfaisoitchascunjour,	Truppelin , et faisoit chascun jour ,
-eulxtouzensamble,leditexposantavec	eulx touz ensamble , le dit exposant avec
-eulx,d’uncommunaccortet	eulx , d ’ un commun accort et
-etassentement,enentenciondetrouverledit	et assentement , en entencion de trouver le dit
-Truppelin,etpourravoircequ’ilavoit	Truppelin , et pour ravoir ce qu ’ il avoit
-sureulxextorqué,	sur eulx extorqué ,
-alerenten	alerent en
-enlaville	en la ville
-deLeignes,prèsduditlieu	de Leignes , près du dit lieu
+ànousavoirestéhumblement	à nous avoir esté humblement
+exposéque,environlemoysd’	exposé que , environ le moys d ’
+’octobrederrainementpasséeust	’ octobre derrainement passé eust
+unan,autrementdu	un an , autrement du
+journ’estrecors,le	jour n ’ est recors , le
+ditexposantestantenlavilled	dit exposant estant en la ville d
+’Azay,avec	’ Azay , avec
+pluseursautresdeladictevilleetd	pluseurs autres de la dicte ville et d
+d’ailleurs,survinten	d ’ ailleurs , survint en
+enlacompagniedesdessusdizunhommeappelléJehan	en la compagnie des dessus diz un homme appellé Jehan
+Levrier,laboureurdebrazdela	Levrier , laboureur de braz de la
+lavillede	la ville de
+SaintMexant,leurami,voisinet.affin,	Saint Mexant , leur ami , voisin et . affin ,
+lequeldistetanunça.	le quel dist et anunça .
+,auxdessusdizassistans,ensoygriefmentcomplaignant	, aux dessus diz assistans , en soy griefment complaignant
+,queunhommeappelléTruppelin,lierres,	, que un homme appellé Truppelin , lierres ,
+robeur,pilleuretrançonneurdegenz	robeur , pilleur et rançonneur de genz
+,luiavoitfreschementostéettolu	, lui avoit freschement osté et tolu
+toluparforcesa	tolu par force sa
+jument,eten	jument , et en
+oultrece,pour	oultre ce , pour
+ce..qu’il	ce . . qu ’ il
+lapoursuivoit,l’avoit	la poursuivoit , l ’ avoit
+volutueretmurdrir,ausquellesparolles.	volu tuer et murdrir , ausquelles parolles .
+dictesestoientpresensJehanJoulinetJehanPajerot	dictes estoient presens Jehan Joulin et Jehan Pajerot
+,laboureursdebraz,quidisdrentenaudience	, laboureurs de braz , qui disdrent en audience
+desassistansquesemblablementavoitleditTruppelinnagueres	des assistans que semblablement avoit le dit Truppelin nagueres
+batuetnavré	batu et navré
+lesfemmes	les femmes
+desdizJoulinetbrulélabarbedudit	des diz Joulin et brulé la barbe du dit
+ditPajerot,pour	dit Pajerot , pour
+eulxrançonner;adonclesassistansauditlieu,	eulx rançonner ; adonc les assistans au dit lieu ,
+commecourrouciezet..esmeuzdesdictespilleries,	comme courrouciez et . . esmeuz des dictes pilleries ,
+roberiesetvillenies	roberies et villenies
+,quefaictesleuravoitleditTruppelin,et	, que faictes leur avoit le dit Truppelin , et
+faisoitchascunjour,eulxtouzensamble,ledit	faisoit chascun jour , eulx touz ensamble , le dit
+exposantaveceulx,d’un	exposant avec eulx , d ’ un
+uncommun.accortetassentement	un commun . accort et assentement
+assentement,en..	assentement , en . .
+entenciondetrouver	entencion de trouver
+leditTruppelin,etpour	le dit Truppelin , et pour
+ravoircequ’ilavoitsur	ravoir ce qu ’ il avoit sur
+eulxextorqué,alerent	eulx extorqué , alerent
+enlavilledeLeignes	en la ville de Leignes
+,prèsdu..ditlieu	, près du . . dit lieu
 d’Azay,etlàletrouverent,	d ’ Azay , et là le trouverent ,
-ettantostqu’ilzl’apperceurent,comme	et tantost qu ’ ilz l ’ apperceurent , comme
-commeesmeuzparchaleur,luicoururentsusetlebatirent	comme esmeuz par chaleur , lui coururent sus et le batirent
-d’espéesetbastonstelement	d ’ espées et bastons telement
-que,unoudeuxjoursaprès	que , un ou deux jours après
-,morts’enensuy	, mort s ’ en ensuy
-ensuyenlapersonne	ensuy en la personne
-personneduditTruppelin	personne du dit Truppelin
-Truppelin.Pouroccasion,etc.Si	Truppelin . Pour occasion , etc . Si
-donnonsen	donnons en
-enmandementaubaillidesExempcionsde	en mandement au bailli des Exempcions de
-Touraine,d’Anjou	Touraine , d ’ Anjou
-,duMaineetdePoytou,etc…	, du Maine et de Poytou , etc …
-DonnéàParis,ou.mois	Donné à Paris , ou . mois
-moisd’aoust	mois d ’ aoust
-l’andegracemilccc.iiiixxet	l ’ an de grace mil ccc . iiiixx et
-ix,etde	ix , et de
-nostreregneleixe.Esrequestes	nostre regne le ixe . Es requestes
-del’ostel.L.	de l ’ ostel . L .
-Benoit.—Tristran.	Benoit .— Tristran .
+ettantostqu	et tantost qu
+’ilzl’apperceurent,commeesmeuzpar	’ ilz l ’ apperceurent , comme esmeuz par
+chaleur,..luicoururentsus	chaleur , . . lui coururent sus
+etlebatirentd’espéeset	et le batirent d ’ espées et
+bastonstelementque	bastons telement que
+que,unou	que , un ou
+deuxjoursaprès	deux jours après
+,morts’enensuyenlapersonnedu	, mort s ’ en ensuy en la personne du
+duditTruppelin.Pouroccasion,	du dit Truppelin . Pour occasion ,
+etc.SidonnonsenmandementaubaillidesExempcions	etc . Si donnons en mandement au bailli des Exempcions
+deTouraine	de Touraine
+,d’Anjou,duMaineetdePoytou	, d ’ Anjou , du Maine et de Poytou
+,..etc…Donné	, . . etc … Donné
+àParis,oumoisd’aoust	à Paris , ou mois d ’ aoust
+aoustl’andegracemilccc.iiiixx	aoust l ’ an de grace mil ccc . iiiixx
+etix,etdenostreregneleixe	et ix , et de nostre regne le ixe
+ixe.Esrequestesdel	ixe . Es requestes de l
+l’ostel.L.Benoit	l ’ ostel . L . Benoit
+.—Tristran	.— Tristran
+Tristran.	Tristran .

@@ -1,85 +1,83 @@
-Philippes,	Philippes ,
-parlagracedeDieu,roysde	par la grace de Dieu , roys de
-France.Savoirfaisonsàtouz	France . Savoir faisons à touz
-,presenzet..avenir,nousavoir	, presenz et . . avenir , nous avoir
-veuleslettresdenostretrèschierseigneur	veu les lettres de nostre très chier seigneur
+Philippes,parlagracedeDieu,	Philippes , par la grace de Dieu ,
+,roysdeFrance.Savoirfaisonsàtouz,presenz	, roys de France . Savoir faisons à touz , presenz
+etavenir,	et avenir ,
+nousavoirveuleslettresdenostretrèschierseigneur	nous avoir veu les lettres de nostre très chier seigneur
 etoncleleroyPhilippe,que	et oncle le roy Philippe , que
-Dieuxabsoille,contenans	Dieux absoille , contenans
-lafourmequis	la fourme qui s
-'ensuit:Philippus,Deigracia	' ensuit : Philippus , Dei gracia
-,Francorumrex,senescalloPictavensi,salutem.Cum	, Francorum rex , senescallo Pictavensi , salutem . Cum
-CumGuillelmusdeBarbastre,latorpresentium	Cum Guillelmus de Barbastre , lator presentium
-,conquereturcoramnobissupereoquoddicebatquod	, conqueretur coram nobis super eo quod dicebat quod
-gentesnostre	gentes nostre
-ipsumdenovoimpediunt	ipsum de novo impediunt
-etperturbantinpossessione,inquadicebat	et perturbant in possessione , in qua dicebat
-seetpredecessoressuoshactenusfuisse,ex	se et predecessores suos hactenus fuisse , ex
-exdonopredecessorumnostrorumetpercartamsuperhoceisconcessam	ex dono predecessorum nostrorum et per cartam super hoc eis concessam
-,percipiendiunumdenariumracionetaillidequibuslibet	, percipiendi unum denarium racione tailli de quibus libet
-trigintasolidiscujuscunque	triginta solidis cujuscunque
-monete,quandocuditurincomitatuPictavensi,et,	monete , quando cuditur in comitatu Pictavensi , et ,
-visacarta.predictaauditisquegentibusnostris	visa carta . predicta auditisque gentibus nostris
-superhoc	super hoc
-,cognitoeciamusuipsiussuperpercepcionedenarii	, cognito eciam usu ipsius super percepcione denarii
-supradicti,	supradicti ,
-,inventumsitipsuminpossessionepredictaremaneredebere,	, inventum sit ipsum in possessione predicta remanere debere ,
-mandamusvobisquatinusin	mandamus vobis quatinus in
-inpossessionesuapredictaservanteseundem,predictumdenarium	in possessione sua predicta servantes eundem , predictum denarium
-,utdictumest	, ut dictum est
-est..,eidemdeliberari	est . . , eidem deliberari
-faciatis,impedimentumquod	faciatis , impedimentum quod
-superhocinjusteapposituminveneretis	super hoc injuste appositum inveneretis
-,decetero,proutjustum.fuerit	, de cetero , prout justum . fuerit
-,amoventes.ActumParisius,diesabbati	, amoventes . Actum Parisius , die sabbati
-invigiliabeatiLaurencii,annoDominimillesimo	in vigilia beati Laurencii , anno Domini millesimo
+Dieuxabsoille,contenanslafourme	Dieux absoille , contenans la fourme
+fourmequis	fourme qui s
+s'ensuit:Philippus,	s ' ensuit : Philippus ,
+Dei..gracia	Dei . . gracia
+,.Francorumrex	, . Francorum rex
+rex,senescalloPictavensi,salutem.CumGuillelmusdeBarbastre	rex , senescallo Pictavensi , salutem . Cum Guillelmus de Barbastre
+,latorpresentium,conquereturcoramnobissupereoquod	, lator presentium , conqueretur coram nobis super eo quod
+dicebatquodgentesnostreipsumde	dicebat quod gentes nostre ipsum de
+novoimpediuntetperturbantinpossessione,inqua	novo impediunt et perturbant in possessione , in qua
+quadicebatse	qua dicebat se
+seetpredecessores	se et predecessores
+predecessoressuoshactenusfuisse,ex	predecessores suos hactenus fuisse , ex
+donopredecessorumnostrorumetpercartamsuper	dono predecessorum nostrorum et per cartam super
+superhoceisconcessam,percipiendiunumdenariumracione.	super hoc eis concessam , percipiendi unum denarium racione .
+taillidequibuslibettriginta	tailli de quibus libet triginta
+solidiscujuscunquemonete,quandocuditur..	solidis cujuscunque monete , quando cuditur . .
+incomitatuPictavensi,et	in comitatu Pictavensi , et
+,visacartapredictaauditisquegentibusnostrissuperhoc	, visa carta predicta auditisque gentibus nostris super hoc
+,cognitoeciam	, cognito eciam
+usuipsius	usu ipsius
+superpercepcionedenariisupradicti..,	super percepcione denarii supradicti . . ,
+,inventumsitipsuminpossessionepredictaremaneredebere,mandamus	, inventum sit ipsum in possessione predicta remanere debere , mandamus
+vobisquatinusinpossessionesuapredictaservanteseundem,predictum	vobis quatinus in possessione sua predicta servantes eundem , predictum
+denarium,utdictum.est,eidem	denarium , ut dictum . est , eidem
+deliberarifaciatis.,	deliberari faciatis . ,
+impedimentumquod	impedimentum quod
+superhocinjusteapposituminveneretis,de	super hoc injuste appositum inveneretis , de
+decetero,	de cetero ,
+proutjustumfuerit,amoventes.ActumParisius,die	prout justum fuerit , amoventes . Actum Parisius , die
+sabbatiinvigiliabeatiLaurencii,annoDominimillesimo	sabbati in vigilia beati Laurencii , anno Domini millesimo
 ccmooctogesimo	cc mo octogesimo
 primo.Et	primo . Et
-EtmestreGuillaumeCoinde,bourgoisdePoitiers,commeaians	Et mestre Guillaume Coinde , bourgois de Poitiers , comme aians
-aianscausedeshoirsduditfeu	aians cause des hoirs du dit feu
-GuillaumedeRabastre(sic	Guillaume de Rabastre ( sic
-)etestantennozfoiet..	) et estant en noz foi et . .
-homageàcause	homage à cause
-dudittailletdesproffiz	du dit taill et des proffiz
-proffizetemolumenzd'yceluy,nousaitsuppliéque	proffiz et emolumenz d ' yceluy , nous ait supplié que
+mestreGuillaumeCoinde,bourgoisdePoitiers	mestre Guillaume Coinde , bourgois de Poitiers
+Poitiers,commeaianscausedes	Poitiers , comme aians cause des
+hoirsdu..	hoirs du . .
+ditfeuGuillaumede..Rabastre(	dit feu Guillaume de . . Rabastre (
+(sic)etestantennozfoiet	( sic ) et estant en noz foi et
+homage.à	homage . à
+causedudittailletdesproffizet	cause du dit taill et des proffiz et
+etemolumenzd'yceluy,nousaitsuppliéqueles	et emolumenz d ' yceluy , nous ait supplié que les
 leschosescontenuesèsditeslettres	les choses contenues ès dites lettres
-livoussissiensconfermeret	li voussissiens confermer et
-luylessierjoiretuserpaisiblement,en	luy lessier joir et user paisiblement , en
-lamaniere	la maniere
-dessusescripte,de.lasaisine	dessus escripte , de . la saisine
-dudittail	du dit tail
-etdesproffizet	et des proffiz et
-etemolumenzd'	et emolumenz d '
-'iceluy,etosterl'empeschementquiliestoit	' iceluy , et oster l ' empeschement qui li estoit
-mizparles	miz par les
-genzdenoz	genz de noz
-monnoies,nous,enclinanzàlasupplicacion	monnoies , nous , enclinanz à la supplicacion
-supplicacionduditmestreGuillaume	supplicacion du dit mestre Guillaume
-Coinde,li	Coinde , li
-ostonsparcespresenteslettresleditempeschement	ostons par ces presentes lettres le dit empeschement
-,etvoulonsquede..lasaisinedu	, et voulons que de . . la saisine du
-dittailetdesproffizetemolumenzd'icely	dit tail et des proffiz et emolumenz d ' icely
-icelyilet	icely il et
-sessuccesseurs..usentetjoissent	ses successeurs . . usent et joissent
-doresenavant,ou	dores en avant , ou
-tempsavenir,paisiblement,enla	temps avenir , paisiblement , en la
-fourmeetmanierecontenue	fourme et maniere contenue
-èsditeslettrescidessusencorporées,lesquelleset	ès dites lettres ci dessus encorporées , les quelles et
-leschosescontenuesenycellesnous	les choses contenues en ycelles nous
-louons,greons,ratifionsetapprouvons,et,	louons , greons , ratifions et approuvons , et ,
-,denostreauctoritéroyaletdegraceespecial,	, de nostre auctorité royal et de grace especial ,
-confermons.Saufenautreschosesnostredroit	confermons . Sauf en autres choses nostre droit
-etl'autrui..	et l ' autrui . .
-entoutes.Etpourceque	en toutes . Et pour ce que
-cesoitfermechoseetestableàtouz	ce soit ferme chose et estable à touz
-jours..enperpetuité,nousavons	jours . . en perpetuité , nous avons
-faitmettrenostre	fait mettre nostre
-nostreseelencespresenteslettres	nostre seel en ces presentes lettres
-lettres..Donnéà	lettres . . Donné à
-Paris,ou	Paris , ou
-moysdemay,l'an	moys de may , l ' an
-degracemilccc.trenteetsept.	de grace mil ccc . trente et sept .
-Parleroy,àlarelacion	Par le roy , à la relacion
-relaciondemesseigneursJ	relacion de messeigneurs J
-.dePrez	. de Prez
-etMauriceCham[aillart]...H.	et Maurice Cham [ aillart ]. . . H .
+livoussissiensconfermeretluylessierjoiretuserpaisiblement	li voussissiens confermer et luy lessier joir et user paisiblement
+,enlamaniere	, en la maniere
+dessusescripte,dela	dessus escripte , de la
+saisinedudittailetdesproffizetemolumenz	saisine du dit tail et des proffiz et emolumenz
+emolumenzd'iceluy,etosterl'empeschementqui	emolumenz d ' iceluy , et oster l ' empeschement qui
+liestoitmizparlesgenzde	li estoit miz par les genz de
+nozmonnoies,nous,enclinanzàlasupplicacion	noz monnoies , nous , enclinanz à la supplicacion
+duditmestre.	du dit mestre .
+GuillaumeCoinde,liostonspar	Guillaume Coinde , li ostons par
+cespresenteslettresleditempeschement,et	ces presentes lettres le dit empeschement , et
+etvoulonsquedelasaisinedudittail	et voulons que de la saisine du dit tail
+tailetdesproffizetemolumenzd	tail et des proffiz et emolumenz d
+'icelyil	' icely il
+etsessuccesseursusentetjoissentdoresen	et ses successeurs usent et joissent dores en
+enavant,outempsavenir,paisiblement.	en avant , ou temps avenir , paisiblement .
+,enlafourmeet	, en la fourme et
+manierecontenueèsditeslettrescidessusencorporées,	maniere contenue ès dites lettres ci dessus encorporées ,
+lesquellesetleschosescontenues	les quelles et les choses contenues
+enycelles.	en ycelles .
+nouslouons,greons,	nous louons , greons ,
+ratifionsetapprouvons,et,denostreauctoritéroyal	ratifions et approuvons , et , de nostre auctorité royal
+royaletdegraceespecial,confermons	royal et de grace especial , confermons
+.Saufenautreschosesnostredroitet	. Sauf en autres choses nostre droit et
+et..l'autruientoutes.Et	et . . l ' autrui en toutes . Et
+pourcequecesoitfermechoseetestableà	pour ce que ce soit ferme chose et estable à
+touzjoursenperpetuité,	touz jours en perpetuité ,
+,nousavonsfaitmettrenostreseelencespresentes	, nous avons fait mettre nostre seel en ces presentes
+lettres.DonnéàParis	lettres . Donné à Paris
+,oumoys	, ou moys
+demay,l'andegrace	de may , l ' an de grace
+milccc...trenteet	mil ccc . . . trente et
+sept.Par	sept . Par
+Parleroy,à.larelacionde	Par le roy , à . la relacion de
+demesseigneursJ.	de messeigneurs J .
+de.PrezetMaurice	de . Prez et Maurice
+Cham[aillart].H.	Cham [ aillart ]. H .
 .Martin.	. Martin .

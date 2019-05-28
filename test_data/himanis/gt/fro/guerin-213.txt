@@ -1,38 +1,31 @@
-Philippes,parlagrace	Philippes , par la grace
-gracedeDieu,roy.de	grace de Dieu , roy . de
-FranceetdeNavarre.Anosamez	France et de Navarre . A nos amez
-leshabitanzdelaviledeParisPoytiers	les habitanz de la vile de Paris Poytiers
-Poytiers,salutetdilection.Commenousentendons	Poytiers , salut et dilection . Comme nous entendons
-entendonsàordener	entendons à ordener
-ordenersuslefetdesmonoiesetsus	ordener sus le fet des monoies et sus
-plusieursautres	plusieurs autres
-besoignesquitouchentnousetl'estatduroyaume	besoignes qui touchent nous et l ' estat du royaume
-deFrance,lecomun	de France , le comun
-comununproffitetlebonestatdesbonnesvileset	comun un proffit et le bon estat des bonnes viles et
-etdetouznossubgiez,	et de touz nos subgiez ,
-lequel..nous	lequel . . nous
-nousdesironsmout	nous desirons mout
-,sicommenous..ysommes	, si comme nous . . y sommes
-sommestenuz,èsquelesbesoignesnousvoulons	sommes tenuz , ès queles besoignes nous voulons
-avoirvostreconseilh,duquelnousnousfions	avoir vostre conseilh , du quel nous nous fions
-mout,..commede	mout , . . comme de
-deceusenquinous	de ceus en qui nous
-nousetnospredecesseurs	nous et nos predeces seurs
-seursavons.touzjourstrouvéferme	seurs avons . touzjours trouvé ferme
-loiauté,	loiauté ,
-nousvousmandonsquevousenvoiezversnous	nous vous mandons que vous envoiez vers nous
-àParisBourges,àcesteprochainequinzeinnedesbrandons	à Paris Bourges , à ceste prochaine quinzeinne des brandons
-brandonscestespasquesflories,personnessouffisanz	brandons cestes pasques flories , personnes souffisanz
-etsaiges,àquinouspuissonsavoirconseilh	et saiges , à qui nous puissons avoir conseilh
-etquiaportentaveceus	et qui aportent avec eus
-eussouffisantpovoirde	eus souffisant povoir de
-devous,pourquoycequiserafetaveceus	de vous , pour quoy ce qui sera fet avec eus
-etavecles	et avec les
-lesautresbonnesviles	les autres bonnes viles
-soitfermeetestable,pourle	soit ferme et estable , pour le
-communprofit.	commun profit .
-,suslesditesbesoigneset	, sus les dites besoignes et
-etsusautrestouchanzlecommunprofitduroiaume	et sus autres touchanz le commun profit du roiaume
-roiaume.DonnéàParis,lexxvij.	roiaume . Donné à Paris , le xxvij .
-.jourdejanvier	. jour de janvier
-l'anmilccc.	l ' an mil ccc .
+Philippes,parlagracedeDieu,..	Philippes , par la grace de Dieu , . .
+.roydeFranceetde.Navarre.	. roy de France et de . Navarre .
+AnosamezleshabitanzdelaviledeParis	A nos amez les habitanz de la vile de Paris
+ParisPoytiers,salutetdilection.Commenousentendons	Paris Poytiers , salut et dilection . Comme nous entendons
+entendonsàordenersuslefetdesmonoiesetsus	entendons à ordener sus le fet des monoies et sus
+plusieursautresbesoignesquitouchentnouset	plusieurs autres besoignes qui touchent nous et
+l'estatduroyaumede	l ' estat du royaume de
+France,lecomunun	France , le comun un
+proffitetlebon	proffit et le bon
+estatdes.bonnes	estat des . bonnes
+vilesetdetouznos.subgiez,lequelnousdesirons	viles et de touz nos . subgiez , lequel nous desirons
+mout,si	mout , si
+comme.nousysommestenuz,èsquelesbesoignesnous	comme . nous y sommes tenuz , ès queles besoignes nous
+voulonsavoirvostreconseilh.,duquelnousnousfions	voulons avoir vostre conseilh . , du quel nous nous fions
+mout,commedeceusenquinous	mout , comme de ceus en qui nous
+etnospredecesseursavonstouzjours	et nos predeces seurs avons touzjours
+touzjourstrouvéfermeloiauté,nousvous	touzjours trouvé ferme loiauté , nous vous
+mandonsquevousenvoiezversnousàParisBourges	mandons que vous envoiez vers nous à Paris Bourges
+,àcesteprochainequinzeinnedesbrandonscestes	, à ceste prochaine quinzeinne des brandons cestes
+pasquesflories	pasques flories
+,personnes.souffisanzetsaiges,	, personnes . souffisanz et saiges ,
+àquinouspuissonsavoir	à qui nous puissons avoir
+conseilhetquiaportentaveceussouffisantpovoirde	conseilh et qui aportent avec eus souffisant povoir de
+vous,pourquoycequi	vous , pour quoy ce qui
+serafet.avec	sera fet . avec
+eusetaveclesautresbonnesvilessoit.	eus et avec les autres bonnes viles soit .
+.fermeetestable,pourlecommunprofit,sus	. ferme et estable , pour le commun profit , sus
+lesditesbesoignesetsusautrestouchanzlecommun	les dites besoignes et sus autres touchanz le commun
+communprofitduroiaume.Donnéà	commun profit du roiaume . Donné à
+àParis,lexxvij.jourdejanvier	à Paris , le xxvij . jour de janvier
+l'anmilccc.etseze	l ' an mil ccc . et seze

@@ -1,60 +1,58 @@
-Philippes,	Philippes ,
-,parlagracede	, par la grace de
-deDieu..,roys	de Dieu . . , roys
-deFrance.Savoirfaisonsàtouzpresensetavenir	de France . Savoir faisons à touz presens et avenir
-quenous,considerans	que nous , considerans
-lesbons,loyausetagreablesservices	les bons , loyaus et agreables services
-,quenostreaméetfeal..clersetconseilliers	, que nostre amé et feal . . clers et conseilliers
-,maistre.Nichole	, maistre . Nichole
-leBlanc	le Blanc
-,..chanoine	, . . chanoine
-chanoine.dePoytiers,afaisou	chanoine . de Poytiers , a fais ou
-outempspassé,tantànous	ou temps passé , tant à nous
+Philippes,parlagracedeDieu,	Philippes , par la grace de Dieu ,
+,roys..deFrance.Savoirfaisons	, roys . . de France . Savoir faisons
+àtouzpresensetavenirquenous,considerans	à touz presens et avenir que nous , considerans
+lesbons,loyaus	les bons , loyaus
+etagreablesservices	et agreables services
+,quenostre..améetfealclers	, que nostre . . amé et feal clers
+clersetconseilliers,maistre..NicholeleBlanc,	clers et conseilliers , maistre . . Nichole le Blanc ,
+,chanoinedePoytiers,afaisoutempspassé,	, chanoine de Poytiers , a fais ou temps passé ,
+tantànous	tant à nous
 queànoztrèschiersseigneursetcousinsPhelipe	que à noz très chiers seigneurs et cousins Phelipe
-etCharle,jadizroisdeFrance,..les	et Charle , jadiz rois de France , . . les
-lesquelsDieuxabsoille,oïelasupplicacionduditmaistre	les quels Dieux absoille , oïe la supplicacion du dit maistre
-Nichole,liavonsoctroiéet	Nichole , li avons octroié et
-encoreslioctroions,.denostreauctoritéroyaletde	encores li octroions , . de nostre auctorité royal et de
-graceespecial,queilpuisseacquerreetachateren	grace especial , que il puisse acquerre et achater en
-ennozfiezou.arrerefiezoucensives,ouès	en noz fiez ou . arrerefiez ou censives , ou ès
-fiezouarrerefiezdeseglises,siet	fiez ou arrerefiez des eglises , si et
-entantcommeilnousappartient,sans	en tant comme il nous appartient , sans
-sanshaute.etmoyennejustice	sans haute . et moyenne justice
-,vintlivresde	, vint livres de
-deannuelleetperpetuellerenteàtournois,seloncl'	de annuelle et perpetuelle rente à tournois , selonc l '
-assiete.etcoustume	assiete . et coustume
-depaïs,etquelesditesrentes,se	de païs , et que les dites rentes , se
-illesajà	il les a jà
-acquisesoupartied'icelles	acquises ou partie d ' icelles
-,ilpuisseconvertir,donneret	, il puisse convertir , donner et
-appliqueràsainteeglise,ensembleouparparties	appliquer à sainte eglise , ensemble ou par parties
-,etenfonder	, et en fonder
-fonderetdonnerchapellenies,	fonder et donner chapellenies ,
-et.enautrementordenerenlieussains	et . en autrement ordener en lieus sains
-sains,pourlesalutdes'	sains , pour le salut de s '
-ameetdesesparens,sansce	ame et de ses parens , sans ce
-queillespuisse	que il les puisse
-puissevendrene	puisse vendre ne
-transporteralleurs;etque.lespersonnesetlieussains	transporter alleurs ; et que . les personnes et lieus sains
-,ausquelsildonrralesditesrentes,les	, aus quels il donrra les dites rentes , les
-puissenttenirperpetuelment,paisiblement,	puissent tenir perpetuelment , paisiblement ,
-sanzcequeil	sanz ce que il
-puissentestrecontraint.parnousnepar	puissent estre contraint . par nous ne par
-nozsuccesseurs,roysde	noz successeurs , roys de
-France,	France ,
-lesmettre..	les mettre . .
-horsde..leurs	hors de . . leurs
-leursmains,nepourraisonde	leurs mains , ne pour raison de
-ceàenfairefinancequellequeelle..	ce à en faire finance quelle que elle . .
-soit.Etquecesoitfermechose.etestable	soit . Et que ce soit ferme chose . et estable
-,nousavonsfaitmettrenostreseel..	, nous avons fait mettre nostre seel . .
-àcespresenteslettres.Saufenautreschosesnostre	à ces presentes lettres . Sauf en autres choses nostre
-droiteten	droit et en
-entoutesl'autruy.Donnéàl'	en toutes l ' autruy . Donné à l '
-abbeyeduVal-Nostre-Dame,	abbeye du Val - Nostre - Dame ,
-l'andegracemil	l ' an de grace mil
-ccc.trente,	ccc . trente ,
-oumoisde	ou mois de
-mars.Parleroy	mars . Par le roy
-,àlarelacionmons.GuillaumeBertran.	, à la relacion mons . Guillaume Bertran .
+PhelipeetCharle	Phelipe et Charle
+,jadiz..roisdeFrance,lesquelsDieux	, jadiz . . rois de France , les quels Dieux
+absoille,.oïelasupplicacionduditmaistreNichole	absoille , . oïe la supplicacion du dit maistre Nichole
+,liavonsoctroiéetencores.li	, li avons octroié et encores . li
+octroions,denostreauctoritéroyaletdegraceespecial	octroions , de nostre auctorité royal et de grace especial
+,..queilpuisseacquerreet	, . . que il puisse acquerre et
+achaterennozfiezouarrerefiezoucensives,ou	achater en noz fiez ou arrerefiez ou censives , ou
+èsfiezou	ès fiez ou
+arrerefiezdeseglises,	arrerefiez des eglises ,
+sietentantcommeilnousappartient,..sans	si et en tant comme il nous appartient , . . sans
+hauteetmoyenne	haute et moyenne
+moyennejustice,vintlivresdeannuelleetperpetuellerente	moyenne justice , vint livres de annuelle et perpetuelle rente
+renteàtournois,seloncl'assiete	rente à tournois , selonc l ' assiete
+etcoustumedepaïs,etquelesdites	et coustume de païs , et que les dites
+rentes,seillesa	rentes , se il les a
+jàacquisesoupartied'icelles,il	jà acquises ou partie d ' icelles , il
+puisseconvertir,donneretappliquerà	puisse convertir , donner et appliquer à
+sainteeglise,ensembleou	sainte eglise , ensemble ou
+parparties	par parties
+parties,etenfonderetdonnerchapellenies,et	parties , et en fonder et donner chapellenies , et
+enautrementordenerenlieussains,	en autrement ordener en lieus sains ,
+pourle..salutdes'ame	pour le . . salut de s ' ame
+ameetde	ame et de
+sesparens,sanscequeil	ses parens , sans ce que il
+lespuissevendrenetransporteralleurs;etque	les puisse vendre ne transporter alleurs ; et que
+quelespersonnesetlieussains,aus	que les personnes et lieus sains , aus
+quelsildonrralesditesrentes,les	quels il donrra les dites rentes , les
+lespuissenttenirperpetuelment.	les puissent tenir perpetuelment .
+,paisiblement,sanzcequeil	, paisiblement , sanz ce que il
+ilpuissentestrecontraintparnous	il puissent estre contraint par nous
+neparnoz	ne par noz
+successeurs,roys	successeurs , roys
+de.France,	de . France ,
+,lesmettrehorsdeleursmains,	, les mettre hors de leurs mains ,
+nepourraisonde	ne pour raison de
+deceàenfairefinancequelleque	de ce à en faire finance quelle que
+ellesoit	elle soit
+.Etquece	. Et que ce
+soitfermechoseetestable,nousavonsfaitmettre	soit ferme chose et estable , nous avons fait mettre
+nostreseelàcespresenteslettres.	nostre seel à ces presentes lettres .
+.Saufenautreschosesnostredroiteten	. Sauf en autres choses nostre droit et en
+toutesl'autruy.Donnéà.l'	toutes l ' autruy . Donné à . l '
+abbeyeduVal-Nostre	abbeye du Val - Nostre
+-Dame,l'ande	- Dame , l ' an de
+gracemilccc.trente,oumoisdemars	grace mil ccc . trente , ou mois de mars
+.Par..leroy,à	. Par . . le roy , à
+àlarelacionmons.GuillaumeBertran.	à la relacion mons . Guillaume Bertran .
 P.Fortis.	P . Fortis .

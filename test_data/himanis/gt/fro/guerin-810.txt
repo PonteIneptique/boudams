@@ -1,169 +1,179 @@
-Charles..,etc	Charles . . , etc
-etc.Savoirfaisonsàtous,presens	etc . Savoir faisons à tous , presens
-presensetavenir,nousavoir	presens et avenir , nous avoir
-receuel'umblesupplicaciondenostreamé	receue l ' umble supplicacion de nostre amé
-PierredeBreneain,escuier,capitainedelaRoche	Pierre de Breneain , escuier , capitaine de la Roche
-surIonpournostreaméet.fealle	sur Ion pour nostre amé et . feal le
-lesiredeClichon,contenantque,commeenvironla	le sire de Clichon , contenant que , comme environ la
-mikaresmel'anmilCCCIIIIXX	mi karesme l ' an mil CCC IIIIXX
-etXVI,le	et XVI , le
-ditsuppliantetsa	dit suppliant et sa
-femmefeussent..venusduditlieudela	femme feussent . . venus du dit lieu de la
-Rocheaulieude.MinièreslezSaumeurenAnjou	Roche au lieu de . Minières lez Saumeur en Anjou
-Anjou,veoirlameredela	Anjou , veoir la mere de la
-femmed'icelluisuppliant,quipourlorsestoit	femme d ' icellui suppliant , qui pour lors estoit
-estoitmalade,etaussi	estoit malade , et aussi
-certainsheritaigesetpossessionsqu'ilz	certains heritaiges et possessions qu ' ilz
-ilzavoientprezduditlieudeSaumur	ilz avoient prez du dit lieu de Saumur
-Saumur,desquelxheritaigesJehandeLezenet,parentdu	Saumur , desquelx heritaiges Jehan de Lezenet , parent du
-ditsuppliant,avoiteu	dit suppliant , avoit eu
-eulagardeetgouvernementparaucuntemps.	eu la garde et gouvernement par aucun temps .
-Etpendantquele	Et pendant que le
-ditsuppliantet..safemmedemourerentouditpaïs	dit suppliant et . . sa femme demourerent ou dit païs
-païs,leditLezenet,	païs , le dit Lezenet ,
-acompaigniédepluseurscompaignonsarmés,prindrent	acompaignié de pluseurs compaignons armés , prindrent
-prindrentdefaitThiphaineduFou,niepcede	prindrent de fait Thiphaine du Fou , niepce de
-JehanduFou,elleestant	Jehan du Fou , elle estant
-enlacompaigniedudit	en la compaignie du dit
-JehanduFou,desafemme.	Jehan du Fou , de sa femme .
-etautresgens,lesquelxs'	et autres gens , lesquelx s '
-efforcerentde	efforcerent de
-deresqueureladicteThiphaine,etpourcefurent,	de resqueure la dicte Thiphaine , et pour ce furent ,
-sicommel'endit,navrezetbatus	si comme l ' en dit , navrez et batus
-batusparleditdeLezenetet..ceulxdesa	batus parle dit de Lezenet et . . ceulx de sa
-compaignie,quienmenerentde	compaignie , qui enmenerent de
-faitladicteTiphaineenunlieuappellélaFontenelle	fait la dicte Tiphaine en un lieu appellé la Fontenelle
-,àdemielieueprezdumanoirde	, à demie lieue prez du manoir de
-Minières,appartenantaudit	Minières , appartenant au dit
-suppliant.Ou.quellieu	suppliant . Ou . quel lieu
-leditdeLezenet	le dit de Lezenet
-Lezenetenvoyaquérirycelluisuppliant,qui	Lezenet envoya quérir ycellui suppliant , qui
-alaouditlieudeFontenelle,oùiltrouva	ala ou dit lieu de Fontenelle , où il trouva
-ycelleThiphaineavecleditdeLizenet,quilui	ycelle Thiphaine avec ledit de Lizenet , qui lui
-luidistquec'	lui dist que c '
-estoitsafemme.Etlors	estoit sa femme . Et lors
-lorsle.ditsuppliantrespondiqu'ill'en	lors le . dit suppliant respondi qu ' il l ' en
-amoitmieulxetluifistbonnechiere	amoit mieulx et lui fist bonne chiere
-.Ettantostaprès,.	. Et tantost après , .
-s'enretournale	s ' en retourna le
-ditsuppliantauditlieudeMinieres	dit suppliant au dit lieu de Minieres
-Minieres..oùsadictefemmeestoit,etsepartirent	Minieres . . où sa dicte femme estoit , et se partirent
-partirentpouralerauditlieudelaRoche,où	partirent pour aler au dit lieu de la Roche , où
-ilztrouverent	ilz trouverent
-leditdeLezelet(sic)et	le dit de Lezelet ( sic ) et
-ladicteTiphaine	la dicte Tiphaine
-quisedisoitestresafiancée.Ausquelxle	qui se disoit estre sa fiancée . Aus quelx le
-leditsuppliant,	le dit suppliant ,
-,safemme,parensetamisfirenttrèsbonnechierre	, sa femme , parens et amis firent très bonne chierre
-,etauxcompaignons	, et aux compaignons
-compaignons,tantauditlieudelaRochequeou	compaignons , tant au dit lieu de la Roche que ou
-païsd'environ	païs d ' environ
-environ.,par	environ . , par
-l'espacede..huitjours	l ' espace de . . huit jours
-ouenviron,depuisceque	ou environ , depuis ce que
-queleditLezenet	que ledit Lezenet
+Charles,etc	Charles , etc
+.Savoirfaisonsàtous,presens	. Savoir faisons à tous , presens
+etavenir,nousavoirreceue	et avenir , nous avoir receue
+l'umblesupplicaciondenostreamé	l ' umble supplicacion de nostre amé
+Pierrede	Pierre de
+Breneain,escuier..,capitainedelaRoche	Breneain , escuier . . , capitaine de la Roche
+surIonpournostreaméetfealle	sur Ion pour nostre amé et feal le
+siredeClichon,contenantque,	sire de Clichon , contenant que ,
+,commeenvironlamikaresme	, comme environ la mi karesme
+l'anmil	l ' an mil
+milCCCIIIIXXetXVI,ledit	mil CCC IIIIXX et XVI , le dit
+suppliantet	suppliant et
+safemmefeussentvenusdu	sa femme feussent venus du
+duditlieudelaRocheaulieudeMinières	du dit lieu de la Roche au lieu de Minières
+MinièreslezSaumeurenAnjou,veoir	Minières lez Saumeur en Anjou , veoir
+lamerede	la mere de
+lafemmed'icelluisuppliant,qui	la femme d ' icellui suppliant , qui
+pourlorsestoitmalade,etaussi	pour lors estoit malade , et aussi
+aussi.certainsheritaigesetpossessionsqu'ilz	aussi . certains heritaiges et possessions qu ' ilz
+ilzavoientprez	ilz avoient prez
+prezdudit	prez du dit
+ditlieudeSaumur,desquelxheritaiges	dit lieu de Saumur , desquelx heritaiges
+Jehande	Jehan de
+Lezenet,parentduditsuppliant,avoit	Lezenet , parent du dit suppliant , avoit
+eulagardeetgouvernementparaucuntemps	eu la garde et gouvernement par aucun temps
+temps.Etpendantqueleditsuppliantetsa	temps . Et pendant que le dit suppliant et sa
+femmedemourerentouditpaïs,leditLezenet,	femme demourerent ou dit païs , le dit Lezenet ,
+acompaigniédepluseurscompaignonsarmés,prindrentde	acompaignié de pluseurs compaignons armés , prindrent de
+defaitThiphainedu	de fait Thiphaine du
+Fou,niepce	Fou , niepce
+niepcedeJehanduFou,..elle	niepce de Jehan du Fou , . . elle
+estantenlacompaignieduditJehanduFou	estant en la compaignie du dit Jehan du Fou
+,desafemmeet	, de sa femme et
+autresgens,lesquelxs'	autres gens , lesquelx s '
+efforcerentderesqueureladicteThiphaine	efforcerent de resqueure la dicte Thiphaine
+,.etpourcefurent	, . et pour ce furent
+furent,sicommel	furent , si comme l
+'endit,navrezetbatus	' en dit , navrez et batus
+parleditdeLezenetetceulxdesa	parle dit de Lezenet et ceulx de sa
+compaignie,qui	compaignie , qui
+enmenerentdefaitladicteTiphaineenunlieu	enmenerent de fait la dicte Tiphaine en un lieu
+appellélaFontenelle,	appellé la Fontenelle ,
+àdemielieueprezdu..manoirdeMinières	à demie lieue prez du . . manoir de Minières
+,appartenantauditsuppliant.Ouquellieule	, appartenant au dit suppliant . Ou quel lieu le
+ditdeLezenetenvoyaquérir	dit de Lezenet envoya quérir
+ycelluisuppliant.	ycellui suppliant .
+,quialaou	, qui ala ou
+ditlieudeFontenelle	dit lieu de Fontenelle
+Fontenelle,oùiltrouva	Fontenelle , où il trouva
+trouvaycelleThiphaineavecledit	trouva ycelle Thiphaine avec ledit
+deLizenet,quiluidistque	de Lizenet , qui lui dist que
+c'estoitsafemme.Etlorsle	c ' estoit sa femme . Et lors le
+leditsuppliant	le dit suppliant
+respondiqu'ill'enamoit	respondi qu ' il l ' en amoit
+mieulxetluifistbonnechiere.Ettantost	mieulx et lui fist bonne chiere . Et tantost
+après,s	après , s
+'enretournaleditsuppliant	' en retourna le dit suppliant
+suppliantauditlieudeMinieresoùsadictefemme	suppliant au dit lieu de Minieres où sa dicte femme
+estoit,etse	estoit , et se
+partirentpouralerauditlieude	partirent pour aler au dit lieu de
+laRoche,oùilztrouverentleditde	la Roche , où ilz trouverent le dit de
+Lezelet(sic)	Lezelet ( sic )
+etladicteTiphainequisedisoitestre	et la dicte Tiphaine qui se disoit estre
+safiancée.Ausquelxleditsuppliant	sa fiancée . Aus quelx le dit suppliant
+,safemme,parenset.amisfirent	, sa femme , parens et . amis firent
+trèsbonne	très bonne
+chierre,etauxcompaignons	chierre , et aux compaignons
+,tantau	, tant au
+au..ditlieudelaRoche	au . . dit lieu de la Roche
+queoupaïsd'environ,	que ou païs d ' environ ,
+,parl'espacede.	, par l ' espace de .
+.huitjoursouenviron,depuiscequeleditLezenet	. huit jours ou environ , depuis ce que ledit Lezenet
 luiotdit	lui ot dit
-lamanieredu.	la maniere du .
-.faitdessusdit.Etaprez	. fait dessus dit . Et aprez
-aprezce,leditde.LezenetetladicteTiphaine	aprez ce , le dit de . Lezenetet la dicte Tiphaine
-separtirent	se partirent
-pouralerenBretaignedeverslespereetmere	pour aler en Bretaigne devers les pere et mere
-duditdeLezenet,afindeespouserl	du dit de Lezenet , afin de espouser l
-'unl'autre.etfairelessolempnitez	' un l ' autre . et faire les solempnitez
-solempnitezetnoces,commeacoustuméestdefaireen	solempnitez et noces , comme acoustumé est de faire en
+ditlamanieredufaitdessusdit.	dit la maniere du fait dessus dit .
+.Etaprezce,le	. Et aprez ce , le
+ditdeLezenetetladicteTiphainesepartirentpouraler	dit de Lezenetet la dicte Tiphaine se partirent pour aler
+enBretaignedeverslespereetmereduditde	en Bretaigne devers les pere et mere du dit de
+Lezenet,afin	Lezenet , afin
+deespouserl'unl'autreetfaire	de espouser l ' un l ' autre et faire
+fairelessolempnitezetnoces,commeacoustuméestde	faire les solempnitez et noces , comme acoustumé est de
+faireen..	faire en . .
 telcas,	tel cas ,
-sicommeleditdeLezenetdisoit.Et	si comme le dit de Lezenet disoit . Et
-depuisce,nostretrèschiereetaméetantela	depuis ce , nostre très chiere et amée tante la
-roynedeJehrusalemetde	royne de Jehrusalem et de
-Secille.eustrescript	Secille . eust rescript
-auditsuppliantcommentlefaitdessusditavoit	au dit suppliant comment le fait dessus dit avoit
-estécommisetperpetré	esté commis et perpetré
-ensonpaïsd'Anjouetqu'	en son païs d ' Anjou et qu '
-'ilfeistdiligencedesavoiret	' il feist diligence de savoir et
-enqueriroùestoitladicteThiphaine,	enquerir où estoit la dicte Thiphaine ,
-etques'	et que s '
-illapovoittrouver,il	il la povoit trouver , il
-lapreistetadmenastpardeverselleàAngiers	la preist et admenast par devers elle à Angiers
-,etlesdicteslettresreceues,sefeust	, et les dictes lettres receues , se feust
-leditsuppliantacompaignié	le dit suppliant acompaignié
-depluseurs	de pluseurs
-personnesetpartipouralerouditpaisdeBretaigne	personnes et parti pour aler ou dit pais de Bretaigne
-,poursavoirs'	, pour savoir s '
-ilpourroittrouverladicteThiphaine	il pourroit trouver la dicte Thiphaine
-,laquelleiltrouvaen	, laquelle il trouva en
-enlavilleduBourcd'Auguen,à	en la ville du Bourc d ' Auguen , à
-quatrelieues	quatre lieues
-prez.deJosselinenBretaigne	prez . de Josselin en Bretaigne
-,etycellepristet	, et ycelle prist et
-etmenaengardeauditlieude	et mena en garde au dit lieu de
-Josselin,aveclafemmeducapitainedudit.lieu,	Josselin , avec la femme du capitaine dudit . lieu ,
-oùillalaissa	où il la laissa
-,pourdoubteque	, pour doubte que
-elleneluifeustrescousseetostée,	elle ne lui feust rescousse et ostée ,
-etvintleditsuppliantpardeversnostredicte	et vint le dit suppliant par devers nostre dicte
-tanteau	tante au
-ditlieud'Angiers,luidireladiligence	dit lieu d ' Angiers , lui dire la diligence
-diligencequ'ilavoitfaicte	diligence qu ' il avoit faicte
-etlelieuoùilavoit	et le lieu où il avoit
-laisséeladicteThiphaine.Ettantostaprès,	laissée la dicte Thiphaine . Et tantost après ,
-,nostredictetanterenvoialeditsuppliantavec.son	, nostre dicte tante renvoia le dit suppliant avec . son
-soncappitaineduchasteldudit	son cappitaine du chastel du dit
-lieud'Angiers	lieu d ' Angiers
-etautres	et autres
-autressesgensau	autres ses gens au
-ditlieudeJosselin,querirladicte	dit lieu de Josselin , querir la dicte
-dicteThiphaine;laquelleil.admenerentpar	dicte Thiphaine ; laquelle il . admenerent par
-deversnostredictetante,..	devers nostre dicte tante , . .
-quiycelleadepuisrendueà	qui ycelle a depuis rendue à
-àsesparensetamis,et	à ses parens et amis , et
-aesté..mariée,sicommel'	a esté . . mariée , si comme l '
-endit.Pouroccasionduquelfait	en dit . Pour occasion du quel fait
-,lesbiensd'icellui.suppliantont	, les biens d ' icellui . suppliant ont
-ontestéprinsetmisen	ont esté prins et mis en
-nostremain,etavecce	nostre main , et avec ce
-aestéadjournéàcomparoir	a esté adjourné à comparoir
-enpersonneetde	en personne et de
-mainmiseennostre	main mise en nostre
-courtde	court de
-Parlement,pourrespondre	Parlement , pour respondre
-àGuillemetLaignel,soy	à Guillemet Laignel , soy
-disanttuteuretcurateurdudit	disant tuteur et curateur du dit
-dit.(sic)	dit . ( sic )
-)JehandeMargie,	) Jehan de Margie ,
-,ànostreprocureur	, à nostre procureur
-généraletàautresqui.parties'	général et à autres qui . partie s '
-envouldrontfaire.Etpource,ledit	en vouldront faire . Et pour ce , le dit
-ditsuppliantdoubtantrigueurdejustice,nousa	dit suppliant doubtant rigueur de justice , nous a
-humblementsupplié.quesur	humblement supplié . que sur
-surceluivueillonsimpartirnostregrace.Pourquoynous,	sur celui vueillons impartir nostre grace . Pour quoy nous ,
-attenducequeditestetquele	attendu ce que dit est et que le
-leditsupplianta	le dit suppliant a
-tousjoursestédebonnevie,renomméeethonnesteconversacion	tousjours esté de bonne vie , renommée et honneste conversacion
-,sansce	, sans ce
-qu'ilfeustoncquesreprins,convaincu	qu ' il feust oncques reprins , convaincu
-neattaintd'aucunvilaincas,etnous	ne attaint d ' aucun vilain cas , et nous
-agrandementservioufait..denoz	a grandement servi ou fait . . de noz
-nozguerres,etqueparsa	noz guerres , et que par sa
-bonnediligence,ladicte	bonne diligence , la dicte
-dicteThiphaineaestérendueàsesparenset	dicte Thiphaine a esté rendue à ses parens et
-etamissaineetentiere	et amis saine et entiere
-,etsansavoirestécorompuene..violéeparle	, et sans avoir esté corompue ne . . violée par le
-leditdeLezenet,neautredela	le dit de Lezenet , ne autre de la
-lacompaignie,et.	la compaignie , et .
-.aestédepuisetestbienetgrandementmariée,	. a esté depuis et est bien et grandement mariée ,
-,sicommeondit,etpourcontemplaciondudit	, si comme on dit , et pour contemplacion du dit
-siredeCliçondont	sire de Cliçon dont
-leditsuppliantest	le dit suppliant est
-famillier,etc.,lefait	famillier , etc ., le fait
-faitetcasdessusdit,etc	fait et cas dessus dit , etc
-etc.,luiavonspardonné	etc ., lui avons pardonné
-,quictéetremis,etc.Sidonnonsen	, quicté et remis , etc . Si donnons en
-mandementànozamez	mandement à noz amez
-etfeaulx.conseillerstenansnostrepresentParlement	et feaulx . conseillers tenans nostre present Parlement
-etàtous	et à tous
-tousnozautresjusticiers,etc.DonnéàParisou	tous noz autres justiciers , etc . Donné à Paris ou
-moisd'avril.l'andegrace	mois d ' avril . l ' an de grace
-gracemilCCCIIIIXXetXVIII,etde	grace mil CCC IIIIXX et XVIII , et de
-denostreregneleXVIIIe.Par	de nostre regne le XVIIIe . Par
-leroy,àlarelacion	le roy , à la relacion
-duconseil.Chaligaut.	du conseil . Chaligaut .
+sicommeleditdeLezenetdisoit	si comme le dit de Lezenet disoit
+disoit.Etdepuisce,nostretrèschiereetamée	disoit . Et depuis ce , nostre très chiere et amée
+tantelaroynedeJehrusalemetdeSecilleeust	tante la royne de Jehrusalem et de Secille eust
+rescriptauditsuppliantcomment	rescript au dit suppliant comment
+lefaitdessusdit	le fait dessus dit
+avoitestécommis	avoit esté commis
+etperpetré	et perpetré
+ensonpaïs	en son païs
+païsd'Anjou	païs d ' Anjou
+etqu'il	et qu ' il
+ilfeistdiligencedesavoir	il feist diligence de savoir
+etenqueriroù	et enquerir où
+oùestoitladicteThiphaine,etques'il	où estoit la dicte Thiphaine , et que s ' il
+la..povoittrouver,illapreistetadmenast	la . . povoit trouver , il la preist et admenast
+admenastpardevers	admenast par devers
+elleàAngiers	elle à Angiers
+,etlesdicteslettresreceues,sefeustle	, et les dictes lettres receues , se feust le
+ditsuppliantacompaigniédepluseurspersonnesetparti	dit suppliant acompaignié de pluseurs personnes et parti
+partipouralerouditpaisdeBretaigne	parti pour aler ou dit pais de Bretaigne
+,poursavoirs'ilpourroittrouver	, pour savoir s ' il pourroit trouver
+trouverladicteThiphaine,laquelleiltrouvaenlaville	trouver la dicte Thiphaine , laquelle il trouva en la ville
+duBourcd'Auguen,àquatre	du Bourc d ' Auguen , à quatre
+lieuesprezde	lieues prez de
+JosselinenBretaigne,etycellepristet	Josselin en Bretaigne , et ycelle prist et
+mena..engarde	mena . . en garde
+auditlieudeJosselin,avec..	au dit lieu de Josselin , avec . .
+.lafemmeducapitaineduditlieu	. la femme du capitaine dudit lieu
+,oùillalaissa,pourdoubte	, où il la laissa , pour doubte
+doubtequeelle..ne	doubte que elle . . ne
+luifeust	lui feust
+feustrescousse.etostée,etvintleditsuppliant	feust rescousse . et ostée , et vint le dit suppliant
+pardeversnostre	par devers nostre
+nostredictetanteauditlieud.'Angiers,lui	nostre dicte tante au dit lieu d . ' Angiers , lui
+direladiligence	dire la diligence
+diligencequ'il	diligence qu ' il
+avoitfaicteetlelieuoùilavoitlaissée	avoit faicte et le lieu où il avoit laissée
+ladicteThiphaine.Ettantostaprès	la dicte Thiphaine . Et tantost après
+,nostredictetanterenvoialeditsuppliantavecson	, nostre dicte tante renvoia le dit suppliant avec son
+soncappitaineduchasteldudit.	son cappitaine du chastel du dit .
+lieud'Angierset	lieu d ' Angiers et
+autressesgensauditlieudeJosselin,	autres ses gens au dit lieu de Josselin ,
+,querirladicte	, querir la dicte
+Thiphaine;laquelle	Thiphaine ; laquelle
+iladmenerent	il admenerent
+pardeversnostredictetante	par devers nostre dicte tante
+tante,quiycelleadepuis	tante , qui ycelle a depuis
+rendueàsesparenset	rendue à ses parens et
+amis,et..	amis , et . .
+aestémariée,sicommel'en	a esté mariée , si comme l ' en
+dit.Pouroccasionduquelfait,les	dit . Pour occasion du quel fait , les
+biensd'icelluisuppliantontestéprinsetmis	biens d ' icellui suppliant ont esté prins et mis
+ennostremain,etavec.	en nostre main , et avec .
+ceaestéadjournéàcomparoirenpersonneet	ce a esté adjourné à comparoir en personne et
+demainmiseennostrecourtdeParlement	de main mise en nostre court de Parlement
+,pourrespondreàGuillemetLaignel,soy	, pour respondre à Guillemet Laignel , soy
+disanttuteuretcurateurdudit(	disant tuteur et curateur du dit (
+sic)JehandeMargie,	sic ) Jehan de Margie ,
+ànostreprocureur	à nostre procureur
+généraletà	général et à
+àautresquiparties'envouldrontfaire.Et	à autres qui partie s ' en vouldront faire . Et
+pource,	pour ce ,
+,leditsuppliantdoubtant	, le dit suppliant doubtant
+doubtantrigueurdejustice,nousahumblementsuppliéque	doubtant rigueur de justice , nous a humblement supplié que
+surceluivueillonsimpartirnostregrace.Pour	sur celui vueillons impartir nostre grace . Pour
+quoynous,attenduceque	quoy nous , attendu ce que
+queditestetqueleditsuppliant	que dit est et que le dit suppliant
+suppliantatousjoursestédebonnevie	suppliant a tousjours esté de bonne vie
+,renomméeethonnesteconversacion,sanscequ'	, renommée et honneste conversacion , sans ce qu '
+ilfeustoncquesreprins,convaincuneattaintd	il feust oncques reprins , convaincu ne attaint d
+'aucunvilaincas,etnousa	' aucun vilain cas , et nous a
+grandementservioufaitdenozguerres,et	grandement servi ou fait de noz guerres , et
+queparsa	que par sa
+bonnediligence,ladicteThiphainea	bonne diligence , la dicte Thiphaine a
+estérendueàsesparens	esté rendue à ses parens
+etamissaineetentiere,etsans	et amis saine et entiere , et sans
+avoiresté	avoir esté
+estécorompuenevioléeparleditde	esté corompue ne violée par le dit de
+Lezenet,neautredelacompaignie,eta	Lezenet , ne autre de la compaignie , et a
+aestédepuis	a esté depuis
+depuisetestbien	depuis et est bien
+etgrandementmariée,sicommeondit,et	et grandement mariée , si comme on dit , et
+etpourcontemplacion	et pour contemplacion
+duditsirede.Cliçondont	du dit sire de . Cliçon dont
+leditsuppliantestfamillier,etc.,le	le dit suppliant est famillier , etc ., le
+lefaitetcasdessusdit,etc	le fait et cas dessus dit , etc
+etc.,luiavonspardonné,quictéet	etc ., lui avons pardonné , quicté et
+remis,etc	remis , etc
+.Sidonnonsenmandementànozamezet	. Si donnons en mandement à noz amez et
+feaulxconseillerstenansnostrepresent	feaulx conseillers tenans nostre present
+Parlementetàtousnozautresjusticiers,etc	Parlement et à tous noz autres justiciers , etc
+.DonnéàParisou.moisd	. Donné à Paris ou . mois d
+'avrill'andegracemilCCC	' avril l ' an de grace mil CCC
+CCCIIIIXXetXVIII,	CCC IIIIXX et XVIII ,
+etdenostreregnele	et de nostre regne le
+leXVIIIe.	le XVIIIe .
+Parleroy,àlarelacionduconseil	Par le roy , à la relacion du conseil
+conseil.Chaligaut.	conseil . Chaligaut .

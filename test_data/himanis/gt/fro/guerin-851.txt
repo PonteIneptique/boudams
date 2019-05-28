@@ -1,203 +1,211 @@
-Charles,	Charles ,
-etc.Savoirfaisonsàtous,presensetavenir	etc . Savoir faisons à tous , presens et avenir
-avenir,nous	avenir , nous
-avoir..receul	avoir . . receu l
-l'umble.supplicaciondesamischarnel	l ' umble . supplicacion des amis charnel
-deJaques	de Jaques
-deSaintGelays,deJehanRogre,filzde	de Saint Gelays , de Jehan Rogre , filz de
-feuJehan	feu Jehan
-Rogre,deBieaulieu,escuiers,etJehanle	Rogre , de Bieaulieu , escuiers , et Jehan le
-Gaschier,autrementditJaquart,contenant	Gaschier , autrement dit Jaquart , contenant
-quecomme[entre]unappelleMathelin	que comme [ entre ] un appelle Mathelin
-Mathelinde.Gascoignoleet	Mathelin de . Gascoignole et
-leditJehanGaschierse	le dit Jehan Gaschier se
-feussentmeucertaindebatsur.etpourcausedece	feussent meu certain debat sur . et pour cause de ce
-queledit	que le dit
-Mathelindisoitavoirvenduàicellui..JehanGaschier	Mathelin disoit avoir vendu à icellui . . Jehan Gaschier
-certaine.quantitédevins	certaine . quantité de vins
-etde.blé,dontilluienavoitbaillié	et de . blé , dont il lui en avoit baillié
-bailliéoufaitbaillierunepartie	baillié ou fait baillier une partie
-partie,etl'autrepartieestoitprestde	partie , et l ' autre partie estoit prest de
-luibaillerparmicequeledit	lui bailler parmi ce que le dit
-JehanGraschier	Jehan Graschier
-luipaiastauprisauquelillelui	lui paiast au pris auquel il le lui
-avoitvendu.A	avoit vendu . A
-quoyrespondoiticelluiJehan.Gaschierquevoulentierslepaieroitde	quoy respondoit icellui Jehan . Gaschier que voulentiers le paieroit de
-decequ'illuiavoitestébaillié	de ce qu ' il lui avoit esté baillié
-etlivré,mais	et livré , mais
-auregartdecequ'..il	au regart de ce qu ' . . il
-n'avoiteu,disoitque	n ' avoit eu , disoit que
-queplusne	que plus ne
-nelerecevroitneaucunechosen'en	ne le recevroit ne aucune chose n ' en
-paieroitauditMathelin,atenduquebaillier..[ou	paieroit au dit Mathelin , atendu que baillier . . [ ou
-]..livrerleluidevoit	] . . livrer le lui devoit
-devoitdedenscertain	devoit dedens certain
-certaintemps,cequeiln'avoitpasfait	certain temps , ce que il n ' avoit pas fait
-,donticelluiGaschieravoitestéetestoitgrandementendommaigié	, dont icellui Gaschier avoit esté et estoit grandement endommaigié
-,ettant	, et tant
-futprocedé	fut procedé
-ouditdebatqueenhayneetcontent	ou dit debat que en hayne et content
-decequeditest,ouautrement,	de ce que dit est , ou autrement ,
-icelluiMathelindonnapluseursgransmenaces	icellui Mathelin donna pluseurs grans menaces
-auditGaschierdelebatreetvillener	au dit Gaschier de le batre et villener
-villener,s'illepovoitrencontrer	villener , s ' il le povoit rencontrer
-àsonavantaige.Pourlesquellesmenaces	à son avantaige . Pour lesquelles menaces
-,icelluiGaschierfumoltespoantezettelement..	, icellui Gaschier fu molt espoantez et telement . .
-qu'iln'osoitalerseurementà	qu ' il n ' osoit aler seurement à
-sesbesongnes	ses besongnes
-etaffaires,ainsiqu'	et affaires , ainsi qu '
-ilavoitaccoustumépar.avant,pourdoubted'	il avoit accoustumé par . avant , pour doubte d '
-icelluiMathelinquiestoitgrantet	icellui Mathelin qui estoit grant et
-puissantdecorps,	puissant de corps ,
-attenduaussiqu'	attendu aussi qu '
-ilestoitdemauvaiserenomméeetdegranthardementde	il estoit de mauvaise renommée et de grant hardement de
-defoleentreprise,etquivolontiers	de fole entreprise , et qui volontiers
-procedoitpar	procedoit par
-parvoyedefait,etmesmementqu'	par voye de fait , et mesmement qu '
-ilavoitoccis	il avoit occis
-unhommeenvironMelle,etavec	un homme environ Melle , et avec
-avecceavoitbatuet	avec ce avoit batu et
-villenéaucunsgentilzhommesd	villené aucuns gentilz hommes d
-'..iceluipays,et	' . . icelui pays , et
-aloitaussicontinuelmentgarnyd'espéeetde	aloit aussi continuelment garny d ' espée et de
+Charles,etc.Savoirfaisonsà	Charles , etc . Savoir faisons à
+àtous,presensetavenir,nousavoirreceu	à tous , presens et avenir , nous avoir receu
+l'umblesupplicacion..desamis	l ' umble supplicacion . . des amis
+charneldeJaquesdeSaintGelays,	charnel de Jaques de Saint Gelays ,
+deJehanRogre,filzdefeu	de Jehan Rogre , filz de feu
+feuJehanRogre,	feu Jehan Rogre ,
+de..Bieaulieu,	de . . Bieaulieu ,
+escuiers,etJehanleGaschier,autrementdit	escuiers , et Jehan le Gaschier , autrement dit
+Jaquart,contenantquecomme[entre]un	Jaquart , contenant que comme [ entre ] un
+appelleMathelinde..	appelle Mathelin de . .
+Gascoignoleetle.ditJehanGaschiersefeussent	Gascoignole et le . dit Jehan Gaschier se feussent
+meucertaindebatsur.etpour	meu certain debat sur . et pour
+causedecequele	cause de ce que le
+ditMathelindisoitavoirvenduà	dit Mathelin disoit avoir vendu à
+àicelluiJehanGaschiercertainequantitédevinsetde	à icellui Jehan Gaschier certaine quantité de vins et de
+blé,dontilluien	blé , dont il lui en
+avoitbailliéou	avoit baillié ou
+oufaitbaillierunepartie,etl'autre	ou fait baillier une partie , et l ' autre
+partieestoitprestdelui	partie estoit prest de lui
+baillerparmicequeleditJehanGraschier	bailler parmi ce que le dit Jehan Graschier
+luipaiastauprisauquelil	lui paiast au pris auquel il
+leluiavoitvendu.Aquoyrespondoit	le lui avoit vendu . A quoy respondoit
+icelluiJehan	icellui Jehan
+Gaschierque.	Gaschier que .
+.voulentierslepaieroitde..	. voulentiers le paieroit de . .
+cequ'il	ce qu ' il
+illuiavoitestébailliéetlivré,maisau	il lui avoit esté baillié et livré , mais au
+regartdecequ'iln'avoit	regart de ce qu ' il n ' avoit
+eu,disoitqueplus..nele	eu , disoit que plus . . ne le
+recevroitne	recevroit ne
+neaucunechosen'	ne aucune chose n '
+enpaieroitauditMathelin,	en paieroit au dit Mathelin ,
+,atenduquebaillier[	, atendu que baillier [
+ou]livrerle	ou ] livrer le
+luidevoitdedens	lui devoit dedens
+dedenscertaintemps,cequeiln'	dedens certain temps , ce que il n '
+avoitpas.	avoit pas .
+fait,donticelluiGaschier	fait , dont icellui Gaschier
+Gaschieravoitestéetestoitgrandementendommaigié..,ettant	Gaschier avoit esté et estoit grandement endommaigié . . , et tant
+futprocedé.	fut procedé .
+.ouditdebatqueenhayne	. ou dit debat que en hayne
+hayneetcontentdecequeditest,ou	hayne et content de ce que dit est , ou
+autrement,icelluiMathelin	autrement , icellui Mathelin
+donnapluseursgransmenacesauditGaschierdelebatre	donna pluseurs grans menaces au dit Gaschier de le batre
+etvillener,	et villener ,
+s'illepovoit..rencontrerà	s ' il le povoit . . rencontrer à
+àsonavantaige.Pourlesquellesmenaces.,icelluiGaschierfu	à son avantaige . Pour lesquelles menaces . , icellui Gaschier fu
+moltespoantezettelementqu'iln'osoit	molt espoantez et telement qu ' il n ' osoit
+osoitalerseurementàsesbesongnesetaffaires,	osoit aler seurement à ses besongnes et affaires ,
+ainsiqu'ilavoitaccoustuméparavant	ainsi qu ' il avoit accoustumé par avant
+,pour.doubted	, pour . doubte d
+d'icelluiMathelin.qui	d ' icellui Mathelin . qui
+estoitgrantetpuissantdecorps,attendu	estoit grant et puissant de corps , attendu
+attenduaussiqu'il	attendu aussi qu ' il
+estoitdemauvaiserenommée..etdegranthardement	estoit de mauvaise renommée . . et de grant hardement
+hardementdefoleentreprise,etquivolontiersprocedoitpar.	hardement de fole entreprise , et qui volontiers procedoit par .
+voyedefait	voye de fait
+fait,..etmesmement	fait , . . et mesmement
+mesmementqu'il	mesmement qu ' il
+avoitoccis	avoit occis
+unhommeenviron	un homme environ
+environMelle,etavecceavoitbatuet	environ Melle , et avec ce avoit batu et
+etvillenéaucunsgentilzhommesd'iceluipays,	et villené aucuns gentilz hommes d ' icelui pays ,
+etaloitaussicontinuelment	et aloit aussi continuelment
+garnyd'espéeet	garny d ' espée et
 dedague.Siadvintque	de dague . Si advint que
-iceluiJehanGaschiertrouvaleditJaques	icelui Jehan Gaschier trouva le dit Jaques
-àBrueillebon,le	à Brueillebon , le
-jeudiavantlafeste	jeudi avant la feste
-desaintJehanBaptistederrenierementpassée,ouquellieusurvint	de saint Jehan Baptiste derrenierement passée , ouquel lieu survint
-leditJehanRogre,	le dit Jehan Rogre ,
-freredela	frere de la
-femmedu..ditGaschier,	femme du . . dit Gaschier ,
-et.laquellefemmed'iceluiGaschierestoitet	et . laquelle femme d ' icelui Gaschier estoit et
-estprouchaineparentedela	est prouchaine parente de la
-femmed.'icelui	femme d . ' icelui
-Jaques.;ausquelxJaquesetRogreleditGaschier	Jaques . ; aus quelx Jaques et Rogre le dit Gaschier
-Gaschier,pourl'affinitéqu'il	Gaschier , pour l ' affinité qu ' il
-ilavoitàeulxpour	il avoit à eulx pour
-causeduparentédessus	cause du parenté dessus
-dit,exposasoncas,enlespriant	dit , exposa son cas , en les priant
-priantqu'ilzluifeussentaidablesàresister	priant qu ' ilz lui feussent aidables à resister
-resisteràlamauvaise	resister à la mauvaise
-volontéduditMathelin	volonté du dit Mathelin
-Mathelin,affinqueplusyceluiGaschierne	Mathelin , affin que plus ycelui Gaschier ne
-feustendoubtedelui	feust en doubte de lui
-;carautrementilnepourroitestreasseurdeson	; car autrement il ne pourroit estre asseur de son
-soncorps.,	son corps . ,
-,pourdoubted'iceluiMathelin.	, pour doubte d ' icelui Mathelin .
-LaquellechoseyceulxJaquesetRogreluiaccorderent	La quelle chose yceulx Jaques et Rogre lui accorderent
-accorderentets'enalerentensemble	accorderent et s ' en alerent ensemble
-,leditjourde	, le dit jour de
-dejeudi,àcouchieràTernentueil,	de jeudi , à couchier à Ternentueil ,
-,enl'osteldudit	, en l ' ostel du dit
-JehanRogre,etlevenrediensuivant,	Jehan Rogre , et le venredi ensuivant ,
-veilledeladicte	veille de la dicte
-dictefestedesaintJehan,environlepointdu	dicte feste de saint Jehan , environ le point du
-jour,separtirenttoustroisduditlieude	jour , se partirent tous trois du dit lieu de
-Ternentueil,garnizc'	Ternentueil , garniz c '
-estassavoirleditJaquesd'unecote	est assavoir le dit Jaques d ' une cote
-defer,d'	de fer , d '
-'uneespée..	' une espée . .
-etd'unbaston	et d ' un baston
-,etleditJehanGaschierd'un	, et le dit Jehan Gaschier d ' un
-unbazelaireetd'	un bazelaire et d '
-unautrebaston,etalerentvers	un autre baston , et alerent vers
-l'osteldelaTailléeprès	l ' ostel de la Taillée près
-duvillaged'Androullet,oùdemouroit	du village d ' Androullet , où demouroit
-yceluiMathelin,	ycelui Mathelin ,
-etpasserentpardevantledit	et passerent par devant le dit
-hostelet.alerentjusquesauprèsd'un	hostel et . alerent jusques auprès d ' un
-moulinappellélemoulindeRoches,eten	moulin appellé le moulin de Roches , et en
-eulx:tournant.	eulx : tournant .
-,rencontrerentleditMathelin	, rencontrerent le dit Mathelin
-,auquelil	, au quel il
-distrentqu.'il	distrent qu . ' il
-sedeffendist	se deffendist
-;lequelsachaune.espéequ	; lequel sacha une . espée qu
-qu'ilavoitpour	qu ' il avoit pour
-soydefendred'euls.EtlorsleditJaques	soy defendre d ' euls . Et lors ledit Jaques
-assemblaàluietle	assembla à lui et le
-voultferirdesonbastonsurlateste;	voult ferir de son baston sur la teste ;
-;maisleditMathelinprintsadicte	; mais le dit Mathelin print sa dicte
-espéeàdeux	espée à deux
-mainsetengettaun	mains et en getta un
-sigrantcopcontrele	si grant cop contre le
-bastonduditJaques.	baston du dit Jaques .
-qu'ilcouppa	qu ' il couppa
-leditbastonetferyycelui	le dit baston et fery ycelui
-Jaquesparmi	Jaques parmi
-lebras,	le bras ,
-tantqu'il	tant qu ' il
-luifistunegrantplayeouditbras	lui fist une grant playe ou dit bras
-.LequelJaquesveantqu'il	. Lequel Jaques veant qu ' il
-ilestoitainsiblecié,.	il estoit ainsi blecié , .
-setrayunpouarriereet	se tray un pou arriere et
-printunepierre,laquelleilgetta	print une pierre , laquelle il getta
-versleditMathelinet	vers le dit Mathelin et
-l'enattaingnyparmilatestetantqu'	l ' en attaingny parmi la teste tant qu '
-ille.fistcheoir	il le . fist cheoir
-àterre.Laquellechosefaicte,	à terre . Laquelle chose faicte ,
-,..lesdessus	, . . les dessus
-nommez,esmeuz	nommez , esmeuz
-etcourciezplusque	et courciez plus que
-devantdela	devant de la
-bleceurequeiceluiMathelinavoit	bleceure que icelui Mathelin avoit
-faicteaudit..Jaques	faicte au dit . . Jaques
-,lebatirentetnavrerentde..leursdizbastonset	, le batirent et navrerent de . . leurs diz bastons et
-espées,etluiosterentson	espées , et lui osterent son
-espéeetsadague,	espée et sa dague ,
-,etlegetterentenla	, et le getterent en la
-rivieredelaSoyvrequiestoitjoingnantd'	riviere de la Soyvre qui estoit joingnant d '
-illec,ettellementlebatirent	illec , et tellement le batirent
-etnavrerentquepour	et navrerent que pour
-occasiondeladictebateureet	occasion de la dicte bateure et
-etnavreureil	et navreure il
-iltrespassalelendemainensuivant	il trespassa le lendemain ensuivant
-ensuivant,jourde	ensuivant , jour de
-festesaintJehan.Maisavantqu'	feste saint Jehan . Mais avant qu '
-il..trespassast,ilfu	il . . trespassast , il fu
-confezetparlajusquesassezprèsdesontrespassement.	confez et parla jusques assez près de son trespassement .
-PourcauseduquelcaslesdizJaques,	Pour cause du quel cas les diz Jaques ,
-RogreetGaschierontestéappeliezausdroiz	Rogre et Gaschier ont esté appeliez aus droiz
-dejustice,etpourcesesontabsentez	de justice , et pour ce se sont absentez
-dupaïs,etjamaisn'	du païs , et jamais n '
-'yoseroientretourner,ainçoisseroientenaventure	' y oseroient retourner , ainçois seroient en aventure
-d'en.estre	d ' en . estre
-estreexiliez,etqueeulx	estre exiliez , et que eulx
-etlesfemmesdesdizJehanGaschieretJaques	et les femmes des diz Jehan Gaschier et Jaques
-deSaintGelaiz	de Saint Gelaiz
-Gelaizfeussentdesers..à	Gelaiz feussent desers . . à
-tousjours,separnousneleurestoitsur	tousjours , se par nous ne leur estoit sur
-ceimpartienostregrace.Ennoushumblementrequerant	ce impartie nostre grace . En nous humblement requerant
-que,..consideré	que , . . consideré
-lesbonset	les bons et
-aggreablesservicesqueiceluiJaques	aggreables services que icelui Jaques
-etsespredecesseursontfaitànousetànoz	et ses predecesseurs ont fait à nous et à noz
-predecesseurs,oufaitet	predecesseurs , ou fait et
-exercicedenozguerres,oùilzont	exercice de noz guerres , où ilz ont
-ontfrayéetdespendulaplusgrantpartiedeleurschevances	ont frayé et despendu la plus grant partie de leurs chevances
-,etquelesdizJaques,	, et que les diz Jaques ,
-RogreetGaschiern'avoientpas	Rogre et Gaschier n ' avoient pas
-volonténeentencionde	volonté ne entencion de
-tueryceluiMathelin,nous	tuer ycelui Mathelin , nous
-vueillons.envers	vueillons . envers
-eulxestrepiteablesetmisericors.Pourquoy	eulx estre piteables et misericors . Pour quoy
-quoynous,.attenduce	quoy nous , . attendu ce
-queditest	que dit est
-,etlarequesteetpryeredenostre	, et la requeste et pryere de nostre
-trèschierettrèsaméfrerele	très chier et très amé frere le
-ducd'Orléans	duc d ' Orléans
-,quidecenousafaittrèshumblement	, qui de ce nous a fait très humblement
-humblementsupplieretrequerir,ausdizJaques	humblement supplier et requerir , aus diz Jaques
-JaquesdeSaintGelais,JehanRogre.etJehanGaschier	Jaques de Saint Gelais , Jehan Rogre . et Jehan Gaschier
+queiceluiJehanGaschiertrouvale	que icelui Jehan Gaschier trouva le
+ditJaquesàBrueillebon,lejeudiavant	dit Jaques à Brueillebon , le jeudi avant
+lafestedesaintJehan.Baptistederrenierementpassée,	la feste de saint Jehan . Baptiste derrenierement passée ,
+ouquellieusurvintledit	ouquel lieu survint le dit
+ditJehanRogre,freredela	dit Jehan Rogre , frere de la
+femmeduditGaschier,etlaquellefemmed	femme du dit Gaschier , et laquelle femme d
+'iceluiGaschierestoitet	' icelui Gaschier estoit et
+estprouchaine	est prouchaine
+parentede..la	parente de . . la
+femmed'iceluiJaques;ausquelxJaqueset	femme d ' icelui Jaques ; aus quelx Jaques et
+RogreleditGaschier,pourl	Rogre le dit Gaschier , pour l
+'affinitéqu'ilavoit	' affinité qu ' il avoit
+àeulxpour.causeduparenté	à eulx pour . cause du parenté
+dessusdit,	dessus dit ,
+exposasoncas,..	exposa son cas , . .
+enlespriantqu'ilzlui	en les priant qu ' ilz lui
+feussentaidablesàresister	feussent aidables à resister
+resisteràlamauvaisevolonté	resister à la mauvaise volonté
+duditMathelin,affinqueplus	du dit Mathelin , affin que plus
+plusyceluiGaschier	plus ycelui Gaschier
+nefeustendoubtedelui	ne feust en doubte de lui
+;carautrementilnepourroitestreasseurde	; car autrement il ne pourroit estre asseur de
+soncorps	son corps
+corps,pourdoubted'iceluiMathelin.La	corps , pour doubte d ' icelui Mathelin . La
+quellechoseyceulxJaquesetRogreluiaccorderentet	quelle chose yceulx Jaques et Rogre lui accorderent et
+s'enalerentensemble,ledit	s ' en alerent ensemble , le dit
+ditjourdejeudi,	dit jour de jeudi ,
+àcouchier	à couchier
+àTernentueil,enl'.osteldu	à Ternentueil , en l ' . ostel du
+ditJehanRogre,etlevenrediensuivant	dit Jehan Rogre , et le venredi ensuivant
+ensuivant,veillede	ensuivant , veille de
+ladictefestedesaintJehan,environlepoint	la dicte feste de saint Jehan , environ le point
+dujour,.	du jour , .
+separtirenttoustroisduditlieudeTernentueil	se partirent tous trois du dit lieu de Ternentueil
+,garnizc	, garniz c
+'estassavoir	' est assavoir
+leditJaques..d'unecotedefer,	le dit Jaques . . d ' une cote de fer ,
+d'uneespéeetd'unbaston,	d ' une espée et d ' un baston ,
+,etledit	, et le dit
+ditJehan.Gaschierd	dit Jehan . Gaschier d
+'unbazelaireet	' un bazelaire et
+d'unautrebaston,etalerentversl	d ' un autre baston , et alerent vers l
+l'osteldelaTaillée	l ' ostel de la Taillée
+prèsduvillaged'Androullet.	près du village d ' Androullet .
+.,oùdemouroityceluiMathelin,et	. , où demouroit ycelui Mathelin , et
+etpasserentpardevantledit..hosteletalerentjusques	et passerent par devant le dit . . hostel et alerent jusques
+auprèsd'unmoulinappellélemoulinde	auprès d ' un moulin appellé le moulin de
+Roches,..	Roches , . .
+eteneulx:tournant,rencontrerentleditMathelin	et en eulx : tournant , rencontrerent le dit Mathelin
+Mathelin..,au	Mathelin . . , au
+quelildistrentqu	quel il distrent qu
+'ilsedeffendist	' il se deffendist
+;lequelsachaune	; lequel sacha une
+espéequ'ilavoitpoursoydefendred'	espée qu ' il avoit pour soy defendre d '
+euls.Et	euls . Et
+lorsleditJaquesassemblaàluietlevoult	lors ledit Jaques assembla à lui et le voult
+ferirdesonbaston..surlateste;	ferir de son baston . . sur la teste ;
+;maisledit	; mais le dit
+ditMathelinprintsadicteespée	dit Mathelin print sa dicte espée
+espéeàdeuxmainsetengettaunsigrant..cop	espée à deux mains et en getta un si grant . . cop
+contrelebastondu	contre le baston du
+dit.Jaques	dit . Jaques
+Jaquesqu'ilcouppa	Jaques qu ' il couppa
+leditbastonet	le dit baston et
+etferyyceluiJaques	et fery ycelui Jaques
+Jaquesparmilebras	Jaques parmi le bras
+bras,tantqu'il	bras , tant qu ' il
+luifistunegrantplayeou	lui fist une grant playe ou
+ouditbras	ou dit bras
+.LequelJaquesveantqu'	. Lequel Jaques veant qu '
+'ilestoitainsiblecié,	' il estoit ainsi blecié ,
+setray..unpouarriere	se tray . . un pou arriere
+etprintunepierre,laquelle.ilgettaversle	et print une pierre , laquelle . il getta vers le
+ditMathelinetl'	dit Mathelin et l '
+'enattaingnyparmilateste..tantqu'	' en attaingny parmi la teste . . tant qu '
+illefist	il le fist
+cheoiràterre.Laquellechosefaicte,les	cheoir à terre . Laquelle chose faicte , les
+lesdessusnommez,esmeuzetcourciez	les dessus nommez , esmeuz et courciez
+courciezplusquedevantdela..bleceureque	courciez plus que devant de la . . bleceure que
+iceluiMathelinavoitfaicteauditJaques,	icelui Mathelin avoit faicte au dit Jaques ,
+lebatirentetnavrerentde	le batirent et navrerent de
+leursdizbastonsetespées,etluiosterentson	leurs diz bastons et espées , et lui osterent son
+sonespéeet	son espée et
+etsadague..,etle	et sa dague . . , et le
+legetterenten	le getterent en
+larivieredelaSoyvrequiestoitjoingnant	la riviere de la Soyvre qui estoit joingnant
+joingnantd'illec,	joingnant d ' illec ,
+ettellementlebatirentet..navrerent	et tellement le batirent et . . navrerent
+quepouroccasiondeladictebateure	que pour occasion de la dicte bateure
+bateureetnavreureiltrespassalelendemain	bateure et navreure il trespassa le lendemain
+lendemain..ensuivant,jourde	lendemain . . ensuivant , jour de
+festesaintJehan.Maisavant.qu'il	feste saint Jehan . Mais avant . qu ' il
+trespassast,ilfuconfezetparlajusques	trespassast , il fu confez et parla jusques
+jusquesassezprèsdeson	jusques assez près de son
+trespassement...Pour	trespassement . . . Pour
+Pourcauseduquelcas.lesdiz	Pour cause du quel cas . les diz
+dizJaques,Rogre	diz Jaques , Rogre
+et.Gaschier	et . Gaschier
+Gaschieront.estéappeliezausdroizde	Gaschier ont . esté appeliez aus droiz de
+justice,etpource	justice , et pour ce
+cesesontabsentez..dupaïs	ce se sont absentez . . du païs
+,etjamais	, et jamais
+jamaisn'y	jamais n ' y
+oseroientretourner,	oseroient retourner ,
+ainçoisseroientenaventured	ainçois seroient en aventure d
+'enestreexiliez..,et	' en estre exiliez . . , et
+etqueeulxetlesfemmesdesdizJehanGaschieret	et que eulx et les femmes des diz Jehan Gaschier et
+Jaquesde	Jaques de
+SaintGelaiz.feussentdesers	Saint Gelaiz . feussent desers
+àtousjours,.separnousneleurestoit	à tousjours , . se par nous ne leur estoit
+surceimpartienostregrace.Ennous	sur ce impartie nostre grace . En nous
+noushumblementrequerantque,consideréles	nous humblement requerant que , consideré les
+bonsetaggreablesservicesqueiceluiJaquesetsespredecesseurs	bons et aggreables services que icelui Jaques et ses predecesseurs
+predecesseursontfaitànousetànozpredecesseurs,ou	predecesseurs ont fait à nous et à noz predecesseurs , ou
+faitet..exercice	fait et . . exercice
+denozguerres,	de noz guerres ,
+,oùilzontfrayéetdespendulaplusgrantpartie	, où ilz ont frayé et despendu la plus grant partie
+deleurschevances,et	de leurs chevances , et
+etquelesdizJaques,RogreetGaschiern'	et que les diz Jaques , Rogre et Gaschier n '
+'avoientpasvolonté	' avoient pas volonté
+neentencion.de	ne entencion . de
+detueryceluiMathelin,nousvueillonsenvers.eulxestre	de tuer ycelui Mathelin , nous vueillons envers . eulx estre
+piteablesetmisericors.Pourquoynous,	piteables et misericors . Pour quoy nous ,
+,attenduce	, attendu ce
+cequeditest,et	ce que dit est , et
+larequesteet	la requeste et
+etpryeredenostretrès	et pryere de nostre très
+chierettrèsaméfrerele	chier et très amé frere le
+ducd'Orléans,qui..	duc d ' Orléans , qui . .
+decenousafait..trèshumblement	de ce nous a fait . . très humblement
+humblementsupplieretrequerir,ausdizJaquesde	humblement supplier et requerir , aus diz Jaques de
+SaintGelais,JehanRogreetJehanGaschier,	Saint Gelais , Jehan Rogre et Jehan Gaschier ,
 ,etàchascund'eulx,ou	, et à chascun d ' eulx , ou
-casdessusdit,avonsquicté,remisetpardonné,	cas dessusdit , avons quicté , remis et pardonné ,
-,etc.Sidonnonsenmandementparla	, etc . Si donnons en mandement par la
-teneurdeces.présentes	teneur de ces . présentes
-présentesauseneschaldeXanctongeetà	présentes au seneschal de Xanctonge et à
-tousnozautresjusticiers,etc.Donnéà	tous noz autres justiciers , etc . Donné à
-àParis,oumoisdejuillet	à Paris , ou mois de juillet
-juilletl'andegracemilCCCCet	juillet l ' an de grace mil CCCC et
-deux,etdenostreregneleXXIIe.Par	deux , et de nostre regne le XXIIe . Par
-leroy,messireGuillaumeMartel,lesirede	le roy , messire Guillaume Martel , le sire de
-Chambrilhatet	Chambrilhat et
-autrespresens.R.	autres presens . R .
+casdessusdit,avonsquicté,remis	cas dessusdit , avons quicté , remis
+et..pardonné	et . . pardonné
+,etc.Sidonnonsenmandement	, etc . Si donnons en mandement
+parlateneurdecesprésentesauseneschal	par la teneur de ces présentes au seneschal
+deXanctongeetàtousnozautres	de Xanctonge et à tous noz autres
+autresjusticiers,	autres justiciers ,
+etc.Donnéà..	etc . Donné à . .
+.Paris,oumoisdejuilletl'ande..	. Paris , ou mois de juillet l ' an de . .
+.gracemilCCCCetdeux,etdenostre..regne	. grace mil CCCC et deux , et de nostre . . regne
+leXXIIe	le XXIIe
+XXIIe.Parleroy,messireGuillaumeMartel	XXIIe . Par le roy , messire Guillaume Martel
+,lesiredeChambrilhatetautrespresens.R	, le sire de Chambrilhat et autres presens . R

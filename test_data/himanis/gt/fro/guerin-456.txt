@@ -1,91 +1,85 @@
-Charles,etc.Savoir	Charles , etc . Savoir
-faisons,etc.,que,oye	faisons , etc ., que , oye
-lasupplicaciondePlotartdePieux..	la supplicacion de Plotart de Pieux . .
-,chevalier,	, chevalier ,
-,sire..de	, sire . . de
-Briente,requerantque,comme	Briente , requerant que , comme
-ilvoyantlaguerre	il voyant la guerre
-guerrequeEdowartd'Angleterreet	guerre que Edowart d ' Angleterre et
-EdowartdeGales	Edowart de Gales
-,sonainsnéfils,nousontnaguerescommenciéet	, son ainsné fils , nous ont nagueres commencié et
-voulantgardersalealtéenversnouset	voulant garder sa lealté envers nous et
-etnousservir,sesoit..misavecunsien	et nous servir , se soit . . mis avec un sien
-sienchastelappelléFlach,ouquelestsafemme	sien chastel appellé Flach , ou quel est sa femme
-femmeetsesenfans,ennostreobeissance	femme et ses enfans , en nostre obeissance
-,etaitbailliéun	, et ait baillié un
-autresienchastel,	autre sien chastel ,
-,appelléSodunsurCreuse,	, appellé Sodun sur Creuse ,
-enlamaindenostremareschal	en la main de nostre mareschal
-deSancerre,..pourlefairegarder	de Sancerre , . . pour le faire garder
-deparnous,quelesgens	de par nous , que les gens
-duditEdouart	du dit Edouart
-deGalesontdepuisoccuppé,etainsi	de Gales ont depuis occuppé , et ainsi
-est..perdupourleditchevalier	est . . perdu pour le dit chevalier
-avecsesappartenances,	avec ses appartenances ,
-etJehandePommiers	et Jehan de Pommiers
-,chevalier,siredeArgentieresetdeSommerart(	, chevalier , sire de Argentieres et de Sommerart (
-(sic),assisenBerryetenBourbonnoys,près	( sic ), assis en Berry et en Bourbonnoys , près
-deMontluçon,subgetetobeissantdu	de Montluçon , subget et obeissant du
-ditEdouartetnostrerebelleet	dit Edouart et nostre rebelle et
-ennemy,tiengnelesdictesseignouries	ennemy , tiengne les dictes seignouries
-etleurappendences,	et leur appendences ,
-,àcausedesafemme,	, à cause de sa femme ,
-,desqueleslavaleurpuetmonteràc.livres	, des queles la valeur puet monter à c . livres
-livrestournoisderente	livres tournois de rente
-par.an,ou	par . an , ou
-ouenviron;.lesquelesaveclesautres	ou environ ; . les queles avec les autres
-biensmeublesetheritages	biens meubles et heritages
-duditJehanseansen	du dit Jehan seans en
-nostreroyaumenoussontpourceacquiset	nostre royaume nous sont pour ce acquis et
-venusencommis.	venus en commis .
-Nousvueillansau	Nous vueillans au
-auditsuppliantycellessegnouriesetappartenancesdonner	au dit suppliant ycelles segnouries et appartenances donner
-,pourconsideration	, pour consideration
-deceschoseset	de ces choses et
-desserviceset	des services et
-meritesduditsuppliantetdeses	merites du dit suppliant et de ses
-sesdictespertes	ses dictes pertes
-etdomages,luiavonsdonnéet	et domages , lui avons donné et
-octroiédegraceespecial,	octroié de grace especial ,
-denostreauctoritéroyal	de nostre auctorité royal
-royaletpleinepuissance,etdonnons	royal et pleine puissance , et donnons
+Charles,etc.	Charles , etc .
+Savoirfaisons,	Savoir faisons ,
+etc.,que,	etc ., que ,
+oyelasupplicaciondePlotartdePieux,chevalier,	oye la supplicacion de Plotart de Pieux , chevalier ,
+siredeBriente,requerantque,commeilvoyant	sire de Briente , requerant que , comme il voyant
+laguerrequeEdowartd	la guerre que Edowart d
+'Angleterreet	' Angleterre et
+EdowartdeGales,son	Edowart de Gales , son
+sonainsnéfils,nousontnaguerescommenciéetvoulantgarder	son ainsné fils , nous ont nagueres commencié et voulant garder
+gardersalealtéenversnousetnousservir,	garder sa lealté envers nous et nous servir ,
+sesoitmis	se soit mis
+misavecun..	mis avec un . .
+sienchastelappellé	sien chastel appellé
+Flach,ouquel	Flach , ou quel
+estsafemme	est sa femme
+etsesenfans..	et ses enfans . .
+,ennostre	, en nostre
+obeissance,etaitbailliéunautresienchastel,	obeissance , et ait baillié un autre sien chastel ,
+appelléSodunsur	appellé Sodun sur
+surCreuse,enlamaindenostre	sur Creuse , en la main de nostre
+mareschaldeSancerre,pourlefairegarderdepar	mareschal de Sancerre , pour le faire garder de par
+parnous,quelesgensdudit	par nous , que les gens du dit
+ditEdouartdeGalesontdepuisoccuppé,etainsi	dit Edouart de Gales ont depuis occuppé , et ainsi
+estperdupourleditchevalieravecsesappartenances,	est perdu pour le dit chevalier avec ses appartenances ,
+etJehandePommiers,chevalier,siredeArgentieres	et Jehan de Pommiers , chevalier , sire de Argentieres
+ArgentieresetdeSommerart(sic),assis	Argentieres et de Sommerart ( sic ), assis
+enBerryetenBourbonnoys	en Berry et en Bourbonnoys
+Bourbonnoys,prèsde	Bourbonnoys , près de
+deMontluçon,subgetetobeissantduditEdouartetnostre	de Montluçon , subget et obeissant du dit Edouart et nostre
+rebelleetennemy,tiengnelesdictesseignourieset	rebelle et ennemy , tiengne les dictes seignouries et
+leurappendences	leur appendences
+appendences,àcausedesa	appendences , à cause de sa
+safemme,desqueles..lavaleurpuetmonter	sa femme , des queles . . la valeur puet monter
+monter..àc.	monter . . à c .
+livrestournoisderentepar	livres tournois de rente par
+paran,ouenviron;les	par an , ou environ ; les
+quelesaveclesautresbiensmeublesetheritagesdu.dit	queles avec les autres biens meubles et heritages du . dit
+Jehanseansennostre	Jehan seans en nostre
+royaumenoussont	royaume nous sont
+pour..ceacquis	pour . . ce acquis
+etvenusencommis.Nous	et venus en commis . Nous
+vueillansaudit	vueillans au dit
+suppliantycellessegnouriesetappartenancesdonner,	suppliant ycelles segnouries et appartenances donner ,
+,pourconsiderationdeces	, pour consideration de ces
+chosesetdesservicesetmerites	choses et des services et merites
+duditsuppliantetdesesdictespertes	du dit suppliant et de ses dictes pertes
+pertesetdomages,lui	pertes et domages , lui
+avonsdonnéet..	avons donné et . .
+octroiédegraceespecial,denostreauctoritéroyal	octroié de grace especial , de nostre auctorité royal
+etpleine	et pleine
+puissance,etdonnons	puissance , et donnons
 etoctroionsparceslettreslessegneurieset	et octroions par ces lettres les segneuries et
-appendencesdessusdictes,en	appendences dessus dictes , en
-la..valeurdessus	la . . valeur dessus
-dicte,àtenir.etpossider	dicte , à tenir . et possider
-parlui,parses	par lui , par ses
-seshoirsetsuccesseurs	ses hoirs et successeurs
-etceulxquideluiaurontcause,paisiblementet..	et ceulx qui de lui auront cause , paisiblement et . .
-.perpetuelment,	. perpetuelment ,
-ainsitoutevoiesque,separ	ainsi toutevoies que , se par
-partraictiéouparautre	par traictié ou par autre
-voienousconvenoit	voie nous convenoit
-fairerendreetdelivrerlesdicteschosesainsi	faire rendre et delivrer les dictes choses ainsi
-données.,	données . ,
-,nousnenozsuccesseursneseronstenusd	, nous ne noz successeurs ne serons tenus d
-d'enfaireaucunerecompensacion.Si.donnonsenmandement	d ' en faire aucune recompensacion . Si . donnons en mandement
-parceslettres,	par ces lettres ,
-ausbaillisdeSaintPereleMoustieret	aus baillis de Saint Pere le Moustier et
-deBourges,	de Bourges ,
-etàtouslesautresjusticiersdenostre	et à tous les autres justiciers de nostre
-royaume,	royaume ,
-ouàleurslieuxtenansetchascund'	ou à leurs lieux tenans et chascun d '
+etappendencesdessusdictes,enlavaleurdessusdicte,	et appendences dessus dictes , en la valeur dessus dicte ,
+àteniretpossiderparlui,par	à tenir et possider par lui , par
+parseshoirsetsuccesseursetceulxqui	par ses hoirs et successeurs et ceulx qui
+quideluiaurontcause,	qui de lui auront cause ,
+paisiblementetperpetuelment,ainsitoutevoiesque,separ	paisiblement et perpetuelment , ainsi toutevoies que , se par
+traictiéoupar	traictié ou par
+parautrevoienousconvenoit	par autre voie nous convenoit
+convenoitfairerendre	convenoit faire rendre
+etdelivrerlesdicteschoses	et delivrer les dictes choses
+chosesainsidonnées,nousne	choses ainsi données , nous ne
+nozsuccesseursne	noz successeurs ne
+seronstenusd'enfaireaucunerecompensacion	serons tenus d ' en faire aucune recompensacion
+recompensacion.Sidonnonsenmandementparceslettres,	recompensacion . Si donnons en mandement par ces lettres ,
+ausbaillisdeSaint..PereleMoustier	aus baillis de Saint . . Pere le Moustier
+etdeBourges,et..àtous	et de Bourges , et . . à tous
+touslesautresjusticiersdenostre	tous les autres justiciers de nostre
+royaume,ouàleurslieuxtenansetchascund	royaume , ou à leurs lieux tenans et chascun d
 'eulx,si	' eulx , si
-sicommeàluiappartendra,queleditPlotartmettent	si comme à lui appartendra , que le dit Plotart mettent
-oufacentmettre,ouson	ou facent mettre , ou son
-sonprocureurpourlui,enpossessionet	son procureur pour lui , en possession et
-saisinedesdictes	saisine des dictes
-chosesdonnées,	choses données ,
-etd'icelleslefacent	et d ' icelles le facent
-etsesdiz	et ses diz
-hoirset	hoirs et
-successeursjoiretuserpaisiblementetperpetuelment.	successeurs joir et user paisiblement et perpetuelment .
-Et.quecesoitfermeetestable,	Et . que ce soit ferme et estable ,
-etc.,nous	etc ., nous
-avons,etc.Sauf,	avons , etc . Sauf ,
-,etc.Donné.àParis,lexvie	, etc . Donné . à Paris , le xvie
+commeàluiappartendra,	comme à lui appartendra ,
+queleditPlotartmettentoufacentmettre,	que le dit Plotart mettent ou facent mettre ,
+ousonprocureurpourlui,enpossession	ou son procureur pour lui , en possession
+etsaisinedesdicteschosesdonnées,etd'	et saisine des dictes choses données , et d '
+icelleslefacentetsesdizhoirset	icelles le facent et ses diz hoirs et
+successeursjoiretuser	successeurs joir et user
+userpaisiblementetperpetuelment	user paisiblement et perpetuelment
+.Etquecesoitfermeetestable	. Et que ce soit ferme et estable
+,etc.,nous	, etc ., nous
+avons,etc.Sauf,etc	avons , etc . Sauf , etc
+..DonnéàParis,lexvie	. . Donné à Paris , le xvie
 xviejourdejuilletl'anmccc.lxix	xvie jour de juillet l ' an mccc . lxix
-lxix.etle	lxix . et le
-viedenostre	vie de nostre
-regne.Parleroy,present	regne . Par le roy , present
-l'evesquedeParis	l ' evesque de Paris
+lxix..etleviedenostre	lxix . . et le vie de nostre
+regne...Parleroy,presentl'evesque	regne . . . Par le roy , present l ' evesque
+evesquedeParis.Yvo.	evesque de Paris . Yvo .

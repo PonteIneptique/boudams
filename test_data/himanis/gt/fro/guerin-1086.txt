@@ -1,202 +1,203 @@
-Charles,etc	Charles , etc
-.Savoirfaisons,etc.,nousavoir	. Savoir faisons , etc ., nous avoir
-avoirreceuel’umblesupplicaciondeJehanBloyn	avoir receue l ’ umble supplicacion de Jehan Bloyn
-Bloyn,laboureur,chargiédefemmeetdeplusieurs..petis	Bloyn , laboureur , chargié de femme et de plusieurs . . petis
-enfans,contenant..queledit	enfans , contenant . . que ledit
-leditsuppliantestantensonhostel,situé	ledit suppliant estant en son hostel , situé
-etassisoubourgdeSaintHilairedela	et assis ou bourg de Saint Hilaire de la
-Clayeoupaysde	Claye ou pays de
-dePoictou,avoitettenoiten	de Poictou , avoit et tenoit en
-enlarivièreduLoy,laquellepasseprèsdeson	en la rivière du Loy , laquelle passe près de son
-dit.hosteletèsmaroisjoignans	dit . hostel et ès marois joignans
-icellerivière,certainsinstrumens	icelle rivière , certains instrumens
-etenginspourpeschierpoisson.,	et engins pour peschier poisson . ,
-,nommezetappellez	, nommez et appellez
-appellezborgnesouborgnons,.etavoitacoustumé	appellez borgnes ou borgnons , . et avoit acoustumé
-leditBloinlesmettreet	le dit Bloin les mettre et
-asseoirsouventenladicterivièreetèsdizmarois,	asseoir souvent en ladicte rivière et ès diz marois ,
-pourprendredupoissonpourlui,safemme	pour prendre du poisson pour lui , sa femme
-etsesenfans...Etpourceque	et ses enfans . . . Et pour ce que
-ungnomméJehanFestineau,demourant	ung nommé Jehan Festineau , demourant
-demourantàungquartdelieueduditBloynouenviron	demourant à ung quart de lieue dudit Bloyn ou environ
-environ,estoitcoustumier	environ , estoit coustumier
-de.leverlesborgnes	de . lever les borgnes
-borgnesetenginsdu	borgnes et engins du
-duditBloyn..et	du dit Bloyn . . et
-enprendrelepoissonàsondesceu,.ledit	en prendre le poisson à son desceu , . le dit
-suppliantluideffenditetdistplusieurs	suppliant lui deffendit et dist plusieurs
-foiz..qu’	foiz . . qu ’
-ilneluiemblastpoint	il ne lui emblast point
-neprensistlepoissondeses	ne prensist le poisson de ses
-borgnesouengins,cars	borgnes ou engins , car s
-’illetrouvoit..ence	’ il le trouvoit . . en ce
-faisantille	faisant il le
-gecteroiten	gecteroit en
-larivière;etque,	la rivière ; et que ,
-lemardidevantPasquesfleuriesderrenierement	le mardi devant Pasques fleuries derrenierement
-passées,ledit	passées , ledit
-ledit.suppliantestantauportde	ledit . suppliant estant au port de
-laClaye,avecquesautres,	la Claye , avecques autres ,
-environdixheuresdumatin,vitetapparceut	environ dix heures du matin , vit et apparceut
-que.ledit	que . ledit
-JehanFestineauetdeuxautres,	Jehan Festineau et deux autres ,
-estansenungpetitvaisseausurladicte	estans en ung petit vaisseau sur ladicte
-rivière,levoientlesborgnonsetenginsduditsuppliant	rivière , levoient les borgnons et engins du dit suppliant
-etenprenoient	et en prenoient
-prenoientlepoisson;lequellieuduportdela	prenoient le poisson ; lequel lieu du port de la
-laClayeestoitdistantdulieuoùestoientlesdizborgnons	la Claye estoit distant du lieu où estoient lesdiz borgnons
-dedeuxtraiz	de deux traiz
-traizd’arc	traiz d ’ arc
-ouenviron;	ou environ ;
-etpourceprint	et pour ce print
-printicelluisuppliantungpetitvaissel,qui..estoitau	print icellui suppliant ung petit vaissel , qui . . estoit au
-ditportdela	dit port de la
-Claye,et..se	Claye , et . . se
-mistdedanspouralerjusquesaulieuouquelleditFestineau	mist dedans pour aler jusques au lieu ouquel ledit Festineau
-etlesdessusdizprenoientsonpoisson	et les dessus diz prenoient son poisson
-;lesquelzFestineauet	; les quelz Festineau et
-lesdeuxautresestans	les deux autres estans
-ensacompaignie	en sa compaignie
-,voyansque	, voyans que
-leditsuppliantaloitàeulxetdoubtansqu’	ledit suppliant aloit à eulx et doubtans qu ’
-illeurcourust	il leur courust
-sus,tirerentàluietprindrentdesperchesou	sus , tirerent à lui et prindrent des perches ou
-forchazqu’ilzavoienten..leurvaisseau	forchaz qu ’ ilz avoient en . . leur vaisseau
-,poureulx	, pour eulx
-enaleretfouyrdevantluiès	en aler et fouyr devant lui ès
-dizmaroiz,afinqu	diz maroiz , afin qu
-’ilneleurostastson	’ il ne leur ostast son
-ditpoisson	dit poisson
-poisson..;etpource	poisson . . ; et pour ce
-qu’ilavoitbien	qu ’ il avoit bien
-peud’eaueèsdiz	peu d ’ eaue ès diz
-dizmaroisetqueleditvaisseaunepovoit	diz marois et que ledit vaisseau ne povoit
-plusalerpardefaultd	plus aler par default d
-’eaue,les.deuxcompaignonsquiestoientouvaisseau	’ eaue , les . deux compaignons qui estoient ou vaisseau
+Charles,etc.Savoir	Charles , etc . Savoir
+faisons,.	faisons , .
+etc.,nousavoir	etc ., nous avoir
+receue.l’umblesupplicaciondeJehanBloyn,	receue . l ’ umble supplicacion de Jehan Bloyn ,
+,laboureur,chargiédefemmeet	, laboureur , chargié de femme et
+deplusieurspetisenfans	de plusieurs petis enfans
+enfans,contenantque	enfans , contenant que
+leditsuppliantestanten	ledit suppliant estant en
+sonhostel,situéetassisoubourgde	son hostel , situé et assis ou bourg de
+SaintHilairedela	Saint Hilaire de la
+Clayeou..pays	Claye ou . . pays
+dePoictou	de Poictou
+,avoitettenoitenlarivièredu	, avoit et tenoit en la rivière du
+Loy,laquellepasseprèsdesondit..	Loy , laquelle passe près de son dit . .
+.hosteletèsmaroisjoignansicellerivière,	. hostel et ès marois joignans icelle rivière ,
+,certainsinstrumensetenginspour	, certains instrumens et engins pour
+peschierpoisson,nommezet	peschier poisson , nommez et
+appellezborgnesouborgnons,etavoitacoustuméle	appellez borgnes ou borgnons , et avoit acoustumé le
+ditBloinlesmettreetasseoirsouventenladicterivière	dit Bloin les mettre et asseoir souvent en ladicte rivière
+etèsdizmarois,pourprendredu	et ès diz marois , pour prendre du
+poissonpourlui,safemme.etsesenfans.	poisson pour lui , sa femme . et ses enfans .
+Etpour..ce	Et pour . . ce
+queungnomméJehanFestineau,demourantà	que ung nommé Jehan Festineau , demourant à
+àungquart	à ung quart
+delieuedudit	de lieue dudit
+Bloynouenviron..,	Bloyn ou environ . . ,
+estoitcoustumierdeleverlesborgnesetenginsdudit	estoit coustumier de lever les borgnes et engins du dit
+Bloyn.eten	Bloyn . et en
+prendrele	prendre le
+poissonàsondesceu	poisson à son desceu
+desceu,le.ditsuppliantluideffenditetdistplusieursfoiz	desceu , le . dit suppliant lui deffendit et dist plusieurs foiz
+foizqu’ilneluiemblastpoint	foiz qu ’ il ne lui emblast point
+neprensistlepoisson	ne prensist le poisson
+desesborgnes	de ses borgnes
+ouengins,cars’illetrouvoiten	ou engins , car s ’ il le trouvoit en
+cefaisantille	ce faisant il le
+legecteroitenlarivière;et	le gecteroit en la rivière ; et
+que,lemardidevantPasques.	que , le mardi devant Pasques .
+fleuriesderrenierementpassées,leditsuppliant	fleuries derrenierement passées , ledit suppliant
+suppliantestantauportdelaClaye	suppliant estant au port de la Claye
+Claye,avecquesautres,environdixheuresdumatin	Claye , avecques autres , environ dix heures du matin
+,vitetapparceutqueleditJehanFestineauet	, vit et apparceut que ledit Jehan Festineau et
+deuxautres,estansenungpetitvaisseau	deux autres , estans en ung petit vaisseau
+vaisseausurladicterivière,levoientlesborgnonset	vaisseau sur ladicte rivière , levoient les borgnons et
+enginsduditsupplianteten	engins du dit suppliant et en
+prenoientlepoisson;lequellieudu.port	prenoient le poisson ; lequel lieu du . port
+delaClayeestoitdistantdu..lieuoùestoientlesdiz	de la Claye estoit distant du . . lieu où estoient lesdiz
+lesdizborgnonsdedeuxtraizd’arcou	lesdiz borgnons de deux traiz d ’ arc ou
+environ;etpource	environ ; et pour ce
+printicelluisuppliantungpetitvaissel,	print icellui suppliant ung petit vaissel ,
+quiestoitauditportdelaClaye,	qui estoit au dit port de la Claye ,
+etsemistdedans	et se mist dedans
+dedanspouralerjusquesau	dedans pour aler jusques au
+lieuouquelleditFestineauetles	lieu ouquel ledit Festineau et les
+dessusdiz..prenoientsonpoisson;les	dessus diz . . prenoient son poisson ; les
+quelzFestineau	quelz Festineau
+Festineauetlesdeux	Festineau et les deux
+autresestans	autres estans
+ensa.compaignie,voyansque	en sa . compaignie , voyans que
+leditsuppliantaloitàeulxetdoubtans	ledit suppliant aloit à eulx et doubtans
+qu’illeur	qu ’ il leur
+courustsus,tirerentàluiet	courust sus , tirerent à lui et
+prindrentdesperchesouforchazqu’ilz	prindrent des perches ou forchaz qu ’ ilz
+avoientenleur	avoient en leur
+leurvaisseau,	leur vaisseau ,
+poureulx..enaleretfouyrdevantluiès	pour eulx . . en aler et fouyr devant lui ès
+dizmaroiz,.afinqu	diz maroiz , . afin qu
+’il.neleur	’ il . ne leur
+ostastsonditpoisson;	ostast son dit poisson ;
+etpourcequ	et pour ce qu
+’ilavoitbien	’ il avoit bien
+bienpeud’eaueèsdizmaroisetque	bien peu d ’ eaue ès diz marois et que
+leditvaisseaunepovoitplus	ledit vaisseau ne povoit plus
+plusalerpardefaultd’eaue,les	plus aler par default d ’ eaue , les
+deuxcompaignonsquiestoient	deux compaignons qui estoient
+estoientouvaisseauavec	estoient ou vaisseau avec
 avecleditJehanFestineausaillirenthorsduditvaisseau	avec ledit Jehan Festineau saillirent hors dudit vaisseau
-pourfouyrpar..	pour fouyr par . .
-lesdizmarois	les diz marois
-,etlaisserentleditJehanFestineauaveclepoissonqu	, et laisserent ledit Jehan Festineau avec le poisson qu
-’ilz.avoient	’ ilz . avoient
-avoientprinsèsdizborgnons..;etfist	avoient prins ès diz borgnons . . ; et fist
-tantleditsuppliantqu’ilapproucha	tant ledit suppliant qu ’ il approucha
-levaisseauouquelilestoitjusquesau	le vaisseau ouquel il estoit jusques au
-auvaisseaududitFestineau,etquantilfut	au vaisseau du dit Festineau , et quant il fut
-joignantlevaisseaududit	joignant le vaisseau du dit
-ditFestineau,illuidistqu	dit Festineau , il lui dist qu
-’ilfaisoitquemauvaishommedeluiprendre	’ il faisoit que mauvais homme de lui prendre
-etembler	et embler
-sonpoisson,etqueautrefoiz..illuiavoitdefendu	son poisson , et que autrefoiz . . il lui avoit defendu
-defenduqu’ilneleprensist	defendu qu ’ il ne le prensist
-;etprintleditsuppliantsonpoissonqu’	; et print ledit suppliant son poisson qu ’
-iltrouvaauditvaisseaududitFestineau,etavecce	il trouva audit vaisseau dudit Festineau , et avec ce
-,desplaisantdudit	, desplaisant dudit
-duditlarrecinqueluiavoitfaitleditFestineau,	dudit larrecin que lui avoit fait le dit Festineau ,
-lorsetautresfoiz,printleditFestineauàla	lors et autresfoiz , print ledit Festineau à la
-larobeetlegectadedanslarivièreoùil	la robe et le gecta dedans la rivière où il
-n’avoitquedemypiéd’eaueou	n ’ avoit que demy pié d ’ eaue ou
-environ,sanslefrapperdepiéne	environ , sans le frapper de pié ne
-nedemainneautrement.	ne de main ne autrement .
-LequelFestineauincontinentaprèsseremist	Lequel Festineau incontinent après se remist
-ensonvaisseau,maisleditsuppliantlegecta	en son vaisseau , mais ledit suppliant le gecta
-gectaetremistderechiefenl’eaue,et	gecta et remist derechief en l ’ eaue , et
-neluivoultpoint.aidieràsoyleverde	ne lui voult point . aidier à soy lever de
-l’eaue,et	l ’ eaue , et
-ets’enala	et s ’ en ala
-alaensamaison	ala en sa maison
+pourfouyrparlesdizmarois,etlaisserentledit	pour fouyr par les diz marois , et laisserent ledit
+JehanFestineauaveclepoissonqu’ilzavoientprins	Jehan Festineau avec le poisson qu ’ ilz avoient prins
+èsdizborgnons;et	ès diz borgnons ; et
+etfisttantleditsuppliantqu’	et fist tant ledit suppliant qu ’
+ilapprouchalevaisseauouquelilestoit	il approucha le vaisseau ouquel il estoit
+jusquesauvaisseaududitFestineau,etquantil	jusques au vaisseau du dit Festineau , et quant il
+futjoignantle.	fut joignant le .
+vaisseaududitFestineau	vaisseau du dit Festineau
+,illuidistqu	, il lui dist qu
+’ilfaisoitquemauvaishomme	’ il faisoit que mauvais homme
+deluiprendreetemblersonpoisson,etque	de lui prendre et embler son poisson , et que
+queautrefoizilluiavoit	que autrefoiz il lui avoit
+defenduqu’.ilnele	defendu qu ’ . il ne le
+leprensist;etprintleditsuppliantsonpoisson	le prensist ; et print ledit suppliant son poisson
+qu’iltrouva	qu ’ il trouva
+trouvaauditvaisseaududitFestineau,	trouva audit vaisseau dudit Festineau ,
+etavecce,desplaisantdudit..larrecin	et avec ce , desplaisant dudit . . larrecin
+larrecinqueluiavoitfaitleditFestineau,	larrecin que lui avoit fait le dit Festineau ,
+lorsetautresfoiz,print	lors et autresfoiz , print
+printleditFestineauàlarobeet	print ledit Festineau à la robe et
+legectadedans..la	le gecta dedans . . la
+larivièreoùiln’avoitquedemy	la rivière où il n ’ avoit que demy
+piéd’eaueou	pié d ’ eaue ou
+ouenviron,sanslefrapperdepiénedemain	ou environ , sans le frapper de pié ne de main
+neautrement.LequelFestineauincontinentaprèsse	ne autrement . Lequel Festineau incontinent après se
+remistensonvaisseau,maisleditsuppliantle	remist en son vaisseau , mais ledit suppliant le
+gectaetremist	gecta et remist
+remistderechiefenl’eaue,etnelui	remist derechief en l ’ eaue , et ne lui
+voultpointaidieràsoyleverdel’	voult point aidier à soy lever de l ’
+eaue,ets’enalaensa	eaue , et s ’ en ala en sa
+maisonet	maison et
 etlelaissadedansl	et le laissa dedans l
-’eaue;dontleditFestineausetiraetyssi	’ eaue ; dont ledit Festineau se tira et yssi
-yssi.Etlelendemain,ledit	yssi . Et le lendemain , ledit
-Festineaugardaaveclespastoreaulxses	Festineau garda avec les pastoreaulx ses
-sesbœufzetlesjoursensuivanssemaintintetgouvernatout	ses bœufz et les jours ensuivans se maintint et gouverna tout
-ainsiqu’ilavoitacoustumédefaire,	ainsi qu ’ il avoit acoustumé de faire ,
-,le..temps	, le . . temps
-passé.Lequel	passé . Lequel
-Festineauestoitmaladifetdetenud’	Festineau estoit maladif et detenu d ’
-unegriefvemaladieetavoitesté	une griefve maladie et avoit esté
-enlangueur	en langueur
-sixansavoitetplus.Depuis	six ans avoit et plus . Depuis
-lesquelleschoses,leditFestineauvesquidixseptjours	lesquelles choses , ledit Festineau vesqui dix sept jours
-joursentiers,	jours entiers ,
-alaetvintàlamesseetàsesautres	ala et vint à la messe et à ses autres
-autresaffaires.,ainsiqu’ilavoitacoustumédefaire	autres affaires . , ainsi qu ’ il avoit acoustumé de faire
-faire,etlexviiejourledit	faire , et le xviie jour ledit
-Festineau,àl’occasiondela	Festineau , à l ’ occasion de la
-dictemaladiequ’ilavoitlonguementportée,ou	dicte maladie qu ’ il avoit longuement portée , ou
-oud’autre	ou d ’ autre
-quiluisurvint,ouautrement,ala..devie	qui lui survint , ou autrement , ala . . de vie
-vieàtrespassement.Etpource.	vie à trespassement . Et pour ce .
-queleditsuppliant,	que ledit suppliant ,
-àcausede	à cause de
-sonlabouraige,peineettravail,avoitassez	son labouraige , peine et travail , avoit assez
-bonnesouffisancedebiens,nozofficiersluibailloient	bonne souffisance de biens , noz officiers lui bailloient
-bailloientlescommissionspourlevernoztaillesmisessuset	bailloient les commissions pour lever noz tailles mises sus et
-imposées.deparnoussurlesmananset	imposées . de par nous sur les manans et
-ethabitansenlavilleetparroisse	et habitans en la ville et parroisse
-duditlieudeSaintHilairedelaClaye,	dudit lieu de Saint Hilaire de la Claye ,
-et..àcestecauseleditsuppliantavoitplusieurs	et . . à ceste cause le dit suppliant avoit plusieurs
-plusieurshayneuxetmalvueillansenladictéparoisse,lesquelz	plusieurs hayneux et malvueillans en ladicté paroisse , lesquelz
-luiimposerentqu’ilavoitestéetestoit	lui imposerent qu ’ il avoit esté et estoit
-estoitcausedelamortduditfeu	estoit cause de la mort dudit feu
-JehanFestineau,..etledirentetrevelerent	Jehan Festineau , . . et le dirent et revelerent
-àJaquesRoyrand,..	à Jaques Royrand , . .
-seigneurduditlieu	seigneur dudit lieu
-delaClaye.	de la Claye .
-,etàsesofficiers.	, et à ses officiers .
-LequelRoyrandcommandaàsesdizofficiers	Lequel Royrand commanda à ses diz officiers
-officiersprendreleditsuppliant..etlemettreendureet	officiers prendre ledit suppliant . . et le mettre en dure et
-estroicte.prison	estroicte . prison
-;pourdoubtedelaquelleprinseetemprisonnement,	; pour doubte de laquelle prinse et emprisonnement ,
-,leditsuppliant	, ledit suppliant
-suppliantseabsentadupays	suppliant se absenta du pays
-.Depuisl’absenceduquel,leditJaquesRoyrand	. Depuis l ’ absence duquel , ledit Jaques Royrand
-Royrandprinttousles..biensmeublesduditsuppliantmontansà	Royrand print tous les . . biens meubles dudit suppliant montans à
-àgrantestimacionetvaleur,etlemenace	à grant estimacion et valeur , et le menace
-menaceque,s	menace que , s
-’.illepuet	’ . il le puet
-tenir,qu..	tenir , qu . .
-’illemettraen	’ il le mettra en
-trèsestroictes	très estroictes
-estroictesprisons,etletraictera	estroictes prisons , et le traictera
-traicterarigoureusement.	traictera rigoureusement .
-Pourdoubtedesquelleschosesledit	Pour doubte desquelles choses ledit
-leditsuppliant,doubtant	ledit suppliant , doubtant
-rigueurdejustice,n’oseroitjamaisretourner.	rigueur de justice , n ’ oseroit jamais retourner .
-aupays,senozgrace..et	au pays , se noz grace . . et
-misericordeneluiestoientsurceimparties,	misericorde ne lui estoient sur ce imparties ,
-humblementrequerantque,	humblement requerant que ,
-,attenduqueleditBloynatousjoursestéetest	, attendu que ledit Bloyn a tousjours esté et est
-hommepaisible..,de	homme paisible . . , de
-bonnevie,renommée	bonne vie , renommée
-ethonneste..conversacion	et honneste . . conversacion
-conversacion,etc.,etnele	conversacion , etc ., et ne le
-lefrappanebati,etlegectaenlarivière	le frappa ne bati , et le gecta en la rivière
-,delagrantdesplaisance	, de la grant desplaisance
-qu’ilavoitdecequ..’	qu ’ il avoit de ce qu . . ’
-’illuiembloitsonpoisson,etc.,et	’ il lui embloit son poisson , etc ., et
-ilestàcroirequ.’	il est à croire qu . ’
-iln’estpas..	il n ’ est pas . .
-mortdece	mort de ce
-qu’illui	qu ’ il lui
-fist..,maisà	fist . . , mais à
-àl’occasionde.	à l ’ occasion de .
-lamaladiequ’ilavoitparavant,ilnous	la maladie qu ’ il avoit paravant , il nous
-plaiseluiimpartiricelles.Pourquoynous,	plaise lui impartir icelles . Pour quoy nous ,
-attenducequeditest,voulansmisericordeprefererà	attendu ce que dit est , voulans misericorde preferer à
-àrigueurdejustice,	à rigueur de justice ,
-,auditsuppliant	, audit suppliant
-avonsoucasdessusdit,remis,	avons ou cas dessus dit , remis ,
-quictéetpardonné,etc.Si	quicté et pardonné , etc . Si
-donnonsenmandement	donnons en mandement
-parcespresentesauxseneschalde	par ces presentes aux seneschal de
-Poictou..etdeXanctongeetgouverneur	Poictou . . et de Xanctonge et gouverneur
-dela.Rochelle,et	de la . Rochelle , et
-etàtousnozautresjusticiers,etc.	et à tous noz autres justiciers , etc .
-DonnéàBourges,oumoisdeseptembrel	Donné à Bourges , ou mois de septembre l
+’eaue;dontleditFestineausetiraet	’ eaue ; dont ledit Festineau se tira et
+etyssi.Etlelendemain,leditFestineaugardaavec	et yssi . Et le lendemain , ledit Festineau garda avec
+aveclespastoreaulxsesbœufzetles	avec les pastoreaulx ses bœufz et les
+lesjoursensuivans	les jours ensuivans
+ensuivans..semaintintetgouvernatoutainsiqu’	ensuivans . . se maintint et gouverna tout ainsi qu ’
+’ilavoit	’ il avoit
+acoustumédefaire,letempspassé	acoustumé de faire , le temps passé
+passé.LequelFestineauestoitmaladifetdetenu	passé . Lequel Festineau estoit maladif et detenu
+d’unegriefvemaladie	d ’ une griefve maladie
+etavoitestéenlangueursixansavoitetplus	et avoit esté en langueur six ans avoit et plus
+.Depuis	. Depuis
+Depuislesquelleschoses..,ledit	Depuis lesquelles choses . . , ledit
+Festineauvesquidixseptjoursentiers,alaetvint	Festineau vesqui dix sept jours entiers , ala et vint
+àla.messeet	à la . messe et
+etàsesautres	et à ses autres
+affaires,ainsiqu’ilavoitacoustumédefaire	affaires , ainsi qu ’ il avoit acoustumé de faire
+,etlexviiejourledit	, et le xviie jour ledit
+Festineau,àl	Festineau , à l
+’occasiondeladictemaladie	’ occasion de la dicte maladie
+maladiequ’ilavoitlonguementportée,oud	maladie qu ’ il avoit longuement portée , ou d
+’autrequilui	’ autre qui lui
+luisurvint,ou	lui survint , ou
+ouautrement,ala..devieà	ou autrement , ala . . de vie à
+trespassement.Etpourceque	trespassement . Et pour ce que
+queleditsuppliant,àcausedesonlabouraige,	que ledit suppliant , à cause de son labouraige ,
+,peineettravail,avoitassezbonne	, peine et travail , avoit assez bonne
+souffisancedebiens,nozofficierslui..	souffisance de biens , noz officiers lui . .
+.bailloientlescommissions	. bailloient les commissions
+pourlevernoztailles	pour lever noz tailles
+misessusetimposéesdeparnoussur	mises sus et imposées de par nous sur
+surlesmanansethabitansenla	sur les manans et habitans en la
+lavilleet	la ville et
+parroisseduditlieudeSaintHilairede..	parroisse dudit lieu de Saint Hilaire de . .
+laClaye,etàcestecause	la Claye , et à ceste cause
+causeleditsuppliantavoitplusieurshayneuxetmalvueillansen	cause le dit suppliant avoit plusieurs hayneux et malvueillans en
+ladictéparoisse,lesquelzluiimposerentqu’ilavoit..	ladicté paroisse , lesquelz lui imposerent qu ’ il avoit . .
+estéetestoitcausedelamortduditfeu	esté et estoit cause de la mort dudit feu
+feuJehanFestineau,etledirentetrevelerent	feu Jehan Festineau , et le dirent et revelerent
+àJaques	à Jaques
+Royrand,seigneurduditlieudela	Royrand , seigneur dudit lieu de la
+Claye,etàsesofficiers	Claye , et à ses officiers
+officiers.LequelRoyrandcommandaàsesdizofficiers	officiers . Lequel Royrand commanda à ses diz officiers
+officiersprendreleditsuppliantet	officiers prendre ledit suppliant et
+lemettreendureetestroicteprison;pourdoubte	le mettre en dure et estroicte prison ; pour doubte
+doubtedelaquelle	doubte de laquelle
+prinseetemprisonnement,leditsuppliantseabsentadupays	prinse et emprisonnement , ledit suppliant se absenta du pays
+...Depuis	. . . Depuis
+l’absence	l ’ absence
+duquel,leditJaquesRoyrandprinttousles	duquel , ledit Jaques Royrand print tous les
+lesbiensmeublesduditsuppliant	les biens meubles dudit suppliant
+montansàgrantestimacion	montans à grant estimacion
+etvaleur,	et valeur ,
+etlemenaceque,s’illepuet	et le menace que , s ’ il le puet
+puettenir,qu’illemettraentrèsestroictes	puet tenir , qu ’ il le mettra en très estroictes
+prisons,etletraicterarigoureusement.Pourdoubtedesquelles	prisons , et le traictera rigoureusement . Pour doubte desquelles
+chosesleditsuppliant,	choses ledit suppliant ,
+doubtantrigueurdejustice.,n’oseroitjamais	doubtant rigueur de justice . , n ’ oseroit jamais
+retourneraupays,se	retourner au pays , se
+senoz.graceetmisericordeneluiestoientsurce	se noz . grace et misericorde ne lui estoient sur ce
+ceimparties,humblementrequerantque,attenduqueleditBloyn	ce imparties , humblement requerant que , attendu que ledit Bloyn
+a..tousjoursestéetest	a . . tousjours esté et est
+esthommepaisible,debonnevie,renomméeethonneste	est homme paisible , de bonne vie , renommée et honneste
+honnesteconversacion,etc.,etnelefrappa	honneste conversacion , etc ., et ne le frappa
+frappanebati	frappa ne bati
+,etlegecta.	, et le gecta .
+.enlarivière,delagrant	. en la rivière , de la grant
+desplaisancequ..	desplaisance qu . .
+.’ilavoitdecequ’illuiembloit	. ’ il avoit de ce qu ’ il lui embloit
+sonpoisson,etc.,etil	son poisson , etc ., et il
+estàcroirequ’	est à croire qu ’
+iln’estpasmortde	il n ’ est pas mort de
+decequ’illuifist,mais	de ce qu ’ il lui fist , mais
+maisàl’occasiondelamaladiequ	mais à l ’ occasion de la maladie qu
+’ilavoitparavant,ilnousplaise	’ il avoit paravant , il nous plaise
+luiimpartiricelles.Pourquoynous	lui impartir icelles . Pour quoy nous
+nous,attendu	nous , attendu
+cequedit	ce que dit
+est,.voulans	est , . voulans
+misericordeprefereràrigueurde	misericorde preferer à rigueur de
+justice,auditsuppliantavons	justice , audit suppliant avons
+oucasdessusdit,remis,quictéet	ou cas dessus dit , remis , quicté et
+pardonné,	pardonné ,
+etc.Sidonnonsenmandementparces	etc . Si donnons en mandement par ces
+presentesauxseneschaldePoictouetdeXanctongeetgouverneur	presentes aux seneschal de Poictou et de Xanctonge et gouverneur
+gouverneurdelaRochelle,etàtousnozautres	gouverneur de la Rochelle , et à tous noz autres
+justiciers,etc...Donnéà	justiciers , etc . . . Donné à
+Bourges,oumoisdeseptembre	Bourges , ou mois de septembre
 l’andegrace	l ’ an de grace
-milcccc.xlvii,etdenostrerègne	mil cccc . xlvii , et de nostre règne
-lexxve..Ainsisigné	le xxve . . Ainsi signé
-:Parleroy,àlarelaciondu	: Par le roy , à la relacion du
-conseil.J.Duban.—Visa.	conseil . J . Duban .— Visa .
-.Contentor.P.Le..	. Contentor . P . Le . .
-.Picart.	. Picart .
+milcccc.xlvii,..etde	mil cccc . xlvii , . . et de
+nostrerègnelexxve.	nostre règne le xxve .
+Ainsisigné:Parleroy,àla..	Ainsi signé : Par le roy , à la . .
+.relacionduconseil.J...	. relacion du conseil . J . . .
+Duban.—Visa.Contentor.P.	Duban .— Visa . Contentor . P .
+LePicart.	Le Picart .

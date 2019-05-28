@@ -1,81 +1,71 @@
-Charles,parla	Charles , par la
-lagracedeDieu	la grace de Dieu
-,roydeFrance	, roy de France
-,ànozamezetfeaulxlesgeneraulxconseillers	, à noz amez et feaulx les generaulx conseillers
-surlefaitdes	sur le fait des
-desaidesordonnezpourla	des aides ordonnez pour la
-guerreenLanguedoyl.etenLanguedoc,salut	guerre en Languedoyl . et en Languedoc , salut
-salutetdilection.Savoirvousfaisonsque,pourconsideracion	salut et dilection . Savoir vous faisons que , pour consideracion
-desbons	des bons
-,grans..,	, grans . . ,
-notables,prouffitablesetaggreables..services	notables , prouffitables et aggreables . . services
-quenostreaméetfealconseilleretchambellanJacques	que nostre amé et feal conseiller et chambellan Jacques
-siredeMontberonetde	sire de Montberon et de
-Maulevrier,nostreseneschaldeXanctonge,nousafaiz	Maulevrier , nostre seneschal de Xanctonge , nous a faiz
-faizletempspassé	faiz le temps passé
-,tantensesdiz	, tant en ses diz
-officesetennozguerres,comme	offices et en noz guerres , comme
-commeautrementenmaintesmanieres,faitchascunjour	comme autrement en maintes manieres , fait chascun jour
-etesperonsque	et esperons que
-faceoutempsavenir,etaussi	face ou temps avenir , et aussi
-pourluiaider..	pour lui aider . .
-àsupporterlesgrans	à supporter les grans
-fraiz,missionsetdespensqu’	fraiz , missions et despens qu ’
-’illuiaconvenufaireetsoustenir,cestepresente	’ il lui a convenu faire et soustenir , ceste presente
-presenteannée,ennostreserviceetennosdictesguerres	presente année , en nostre service et en nos dictes guerres
-,tantoupaysdePoictou	, tant ou pays de Poictou
-Poictou,..enlacompaignie	Poictou , . . en la compaignie
-compaigniedenozamez	compaignie de noz amez
-amezetfeaulx	amez et feaulx
-cousin,conseilliersetchambellans,leseigneurde.Partenay	cousin , conseilliers et chambellans , le seigneur de . Partenay
-,lesiredeHeilly,mareschalde	, le sire de Heilly , mareschal de
-nostretrèschierettrès	nostre très chier et très
-trèsaméfilzleduc	très amé filz le duc
-deGuyenne,daulphindeViennois,etautresnoz	de Guyenne , daulphin de Viennois , et autres noz
-gensetofficiers,etafin	gens et officiers , et afin
-qu’il.aitmieulxdequoy	qu ’ il . ait mieulx de quoy
-quoyavoiretmaintenirsonestatetestrehonnestement	quoy avoir et maintenir son estat et estre honnestement
-entournousetennostreservice	entour nous et en nostre service
-service,etautres	service , et autres
-causesetconsideracionsàcenousmouvans,nousà	causes et consideracions à ce nous mouvans , nous à
-iceluinostreconseiller	icelui nostre conseiller
-conseilleretchambellanavonsdonnéetdonnonsdenostrecertaine	conseiller et chambellan avons donné et donnons de nostre certaine
-science,graceespecialet	science , grace especial et
-plaine..puissance,parcespresentes,la	plaine . . puissance , par ces presentes , la
-lasommededeuxmilfrans	la somme de deux mil frans
+Charles,parlagracedeDieu,roy	Charles , par la grace de Dieu , roy
+deFrance,	de France ,
+ànozamezetfeaulxlesgeneraulxconseillerssurle	à noz amez et feaulx les generaulx conseillers sur le
+faitdesaidesordonnezpour..laguerreenLanguedoylet	fait des aides ordonnez pour . . la guerre en Languedoyl et
+enLanguedoc,salutetdilection.Savoir	en Languedoc , salut et dilection . Savoir
+vousfaisonsque,pourconsideraciondes	vous faisons que , pour consideracion des
+bons,grans,notables,prouffitablesetaggreablesservices	bons , grans , notables , prouffitables et aggreables services
+quenostreaméetfealconseilleretchambellanJacquessire	que nostre amé et feal conseiller et chambellan Jacques sire
+siredeMontberonetdeMaulevrier,nostreseneschaldeXanctonge	sire de Montberon et de Maulevrier , nostre seneschal de Xanctonge
+,nousafaiz	, nous a faiz
+faizletemps.passé,tantensesdizofficeset	faiz le temps . passé , tant en ses diz offices et
+en..nozguerres	en . . noz guerres
+,commeautrementenmaintes..manieres	, comme autrement en maintes . . manieres
+,faitchascun	, fait chascun
+jouretesperonsquefaceoutemps	jour et esperons que face ou temps
+avenir,et	avenir , et
+aussipourluiaideràsupporterles	aussi pour lui aider à supporter les
+gransfraiz,missionsetdespensqu’	grans fraiz , missions et despens qu ’
+illuiaconvenufaireetsoustenir,cestepresente	il lui a convenu faire et soustenir , ceste presente
+année,ennostre..serviceetennosdictes	année , en nostre . . service et en nos dictes
+guerres,tantoupaysde.Poictou,enla	guerres , tant ou pays de . Poictou , en la
+compaigniedenozamezetfeaulxcousin,conseillierset	compaignie de noz amez et feaulx cousin , conseilliers et
+chambellans,le	chambellans , le
+leseigneurdePartenay,lesire	le seigneur de Partenay , le sire
+siredeHeilly,mareschalde	sire de Heilly , mareschal de
+denostretrèschierettrèsaméfilzleducde	de nostre très chier et très amé filz le duc de
+Guyenne,daulphinde..Viennois,	Guyenne , daulphin de . . Viennois ,
+et.autresnozgensetofficiers,	et . autres noz gens et officiers ,
+etafinqu’ilaitmieulxde	et afin qu ’ il ait mieulx de
+quoyavoiretmaintenirson.estatetestrehonnestement	quoy avoir et maintenir son . estat et estre honnestement
+entournousetennostreservice,	entour nous et en nostre service ,
+etautrescausesetconsideracionsàcenous	et autres causes et consideracions à ce nous
+mouvans,nous	mouvans , nous
+à.iceluinostreconseilleretchambellanavons	à . icelui nostre conseiller et chambellan avons
+avonsdonnéetdonnonsdenostrecertainescience,grace	avons donné et donnons de nostre certaine science , grace
+graceespecialetplainepuissance,	grace especial et plaine puissance ,
+,parcespresentes,la	, par ces presentes , la
+sommededeuxmilfrans	somme de deux mil frans
 d’or,àicelleprendreetavoir	d ’ or , à icelle prendre et avoir
-pourunefoisdesdeniers	pour une fois des deniers
-desdictesaidesetpar	des dictes aides et par
-lamainde.	la main de .
-JehanGautier	Jehan Gautier
-,receveurgenerald’iceulz.Si	, receveur general d ’ iceulz . Si
-vousmandonsetenjoignons.expressementqueparledit	vous mandons et enjoignons . expressement que par le dit
-ditreceveurgeneralvousfaictespaier,	dit receveur general vous faictes paier ,
-bailleretdelivrerauditnostreconseiller	bailler et delivrer au dit nostre conseiller
-etchambellan,	et chambellan ,
-ouàsoncertain	ou à son certain
-commandement,ladictesommede	commandement , la dicte somme de
-deuxmilfrans,enmanierequ’il	deux mil frans , en maniere qu ’ il
-ilensoitcontent,et	il en soit content , et
-etparrapportantcespresentes	et par rapportant ces presentes
-avecquesquictancesurcesouffisante,nous	avecques quictance sur ce souffisante , nous
-voulonsetmandonsla	voulons et mandons la
-dictesommeestreallouéeèscompteset	dicte somme estre allouée ès comptes et
-rabatuedelareceptedu	rabatue de la recepte du
-ditreceveurgeneralparnozamez	dit receveur general par noz amez
-etfeaulxgensdenozcomptes	et feaulx gens de noz comptes
-comptesàParis,sansaucuncontredit	comptes à Paris , sans aucun contredit
-oudifficulté,non	ou difficulté , non
-nonobstans..autresdons	non obstans . . autres dons
-oubiensfaizparnous	ou biens faiz par nous
-nousaudit	nous au dit
-nostreconseillerautresfoisfaiz,non	nostre conseiller autres fois faiz , non
-nonexprimezen.cespresentes	non exprimez en . ces presentes
-,etordonnances,	, et ordonnances ,
-mandemensetdefensesàce	mandemens et defenses à ce
-contraires..	contraires . .
-DonnéàParis	Donné à Paris
-Paris,lexixejourdejanvierl’	Paris , le xixe jour de janvier l ’
-andegrace	an de grace
-milcccc.etdouze,et	mil cccc . et douze , et
-denostreregnelexxxiiie.	de nostre regne le xxxiiie .
+pourunefoisdesdeniersdesdictes	pour une fois des deniers des dictes
+aidesetparlamaindeJehanGautier,	aides et par la main de Jehan Gautier ,
+receveurgenerald	receveur general d
+d’iceulz.	d ’ iceulz .
+Sivousmandons	Si vous mandons
+etenjoignonsexpressement	et enjoignons expressement
+queparleditreceveur	que par le dit receveur
+generalvousfaictespaier,bailler	general vous faictes paier , bailler
+etdelivrerau	et delivrer au
+auditnostre	au dit nostre
+conseilleret	conseiller et
+chambellan,ouàsoncertaincommandement,ladicte	chambellan , ou à son certain commandement , la dicte
+sommededeuxmilfrans,enmaniere	somme de deux mil frans , en maniere
+qu’ilen	qu ’ il en
+soitcontent	soit content
+,etparrapportant	, et par rapportant
+cespresentesavecquesquictancesurce	ces presentes avecques quictance sur ce
+souffisante,nousvoulonsetmandonsladictesommeestre	souffisante , nous voulons et mandons la dicte somme estre
+allouéeèscompteset	allouée ès comptes et
+rabatuedelarecepteduditreceveur	rabatue de la recepte du dit receveur
+generalparnozamezetfeaulxgensdenozcomptes	general par noz amez et feaulx gens de noz comptes
+àParis,sansaucuncontredit	à Paris , sans aucun contredit
+oudifficulté,nonobstansautres	ou difficulté , non obstans autres
+donsoubiensfaiz	dons ou biens faiz
+parnousauditnostreconseillerautresfoisfaiz,	par nous au dit nostre conseiller autres fois faiz ,
+nonexprimezen	non exprimez en
+cespresentes,etordonnances,	ces presentes , et ordonnances ,
+mandemensetdefensesàcecontraires	mandemens et defenses à ce contraires
+.DonnéàParis,lexixejourde	. Donné à Paris , le xixe jour de
+janvierl’andegracemilcccc.	janvier l ’ an de grace mil cccc .
+.etdouze,etdenostre	. et douze , et de nostre
+regnelexxxiiie.	regne le xxxiiie .

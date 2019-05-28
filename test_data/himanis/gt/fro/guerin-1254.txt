@@ -1,146 +1,153 @@
-Charles,parlagracedeDieuroyde	Charles , par la grace de Dieu roy de
-deFrance.Savoir.faisonsàtous	de France . Savoir . faisons à tous
-,presensetavenir	, presens et avenir
-,nousavoirreceuel'umblesupplicaciondes	, nous avoir receue l ' umble supplicacion des
-parensetamyscharnelzde	parens et amys charnelz de
-GuillaumeBrisart,laboureur,demourant	Guillaume Brisart , laboureur , demourant
-enlaterreetseigneuriede	en la terre et seigneurie de
-CousdrieoubaspaïsdePoictou,à	Cousdrie ou bas païs de Poictou , à
-presentdetenuprisonnier	present detenu prisonnier
-prisonnierèsprisonsdeladicte	prisonnier ès prisons de ladicte
-terreetseigneurie,appartenantaucommandeurduditlieucontenant	terre et seigneurie , appartenant au commandeur dudit lieu contenant
-contenantquedèspieçaleditGuillaumeBrisartfut	contenant que dès pieça ledit Guillaume Brisart fut
-conjoinctparmariageavecquesfeue	conjoinct par mariage avecques feue
-Hylaire,ensonvivant	Hylaire , en son vivant
-vivant.fillededeffunct	vivant . fille de deffunct
-Estienne.Gougeau,ouquel	Estienne . Gougeau , ouquel
-ouquelmariageilzfurentpar	ouquel mariage ilz furent par
-aucun.tempsetd	aucun . temps et d
-d'eulxyssitungenfantnomméPierre,encores	d ' eulx yssit ung enfant nommé Pierre , encores
-encores.vivant.Etadvint,xxiiii	encores . vivant . Et advint , xxiiii
-.ouxxv.	. ou xxv .
-ansa,environlemoisd'avril,	ans a , environ le mois d ' avril ,
-,queainsiqueleditGuillaumeBrisart	, que ainsi que ledit Guillaume Brisart
-entroitensamaisonestantouvillaige	entroit en sa maison estant ou villaige
-villaigedelaBenestre,il	villaige de la Benestre , il
-iltrouvaqueCathinLanberte,samère	il trouva que Cathin Lanberte , sa mère
-,aveelaquelle	, avee laquelle
-ildemouroitlors.,etladictefeueHylaire,	il demouroit lors . , et ladicte feue Hylaire ,
-safemme,tensoientensemble,etencefaisant	sa femme , tensoient ensemble , et en ce faisant
-,ainsique	, ainsi que
-queladicte..HylaireestoitsurlebersduditPierre	que ladicte . . Hylaire estoit sur le bers dudit Pierre
-,lorsestantouditbers,sadictemèreamonnestoitladicte	, lors estant oudit bers , sadicte mère amonnestoit ladicte
-feueHylairequiestoitfort	feue Hylaire qui estoit fort
-fortpesantetnegligentd'alertirerle	fort pesant et negligent d ' aler tirer le
-laitdeleurs..besteset	lait de leurs . . bestes et
-etlesdictesbestesmettreèschamps,parcequ'il	et lesdictes bestes mettre ès champs , parce qu ' il
-estoitsurl'eurededeuxheuresaprèsmidy	estoit sur l ' eure de deux heures après midy
-,..dontladicte	, . . dont ladicte
-ladicte.feueHylairetintpeude	ladicte . feue Hylaire tint peu de
-compte,commeilsemblaauditBrisart	compte , comme il sembla audit Brisart
-;etàcestecauseleditBrisartenfutcontre	; et à ceste cause ledit Brisart en fut contre
-elleindignéetcourroucé,etenesperancedela	elle indigné et courroucé , et en esperance de la
-corrigeretafinqu'ellefustplus	corriger et afin qu ' elle fust plus
-diligenteune.autresfoizetobeistàsadicte	diligente une . autres foiz et obeist à sadicte
-mère,frappaladicte	mère , frappa ladicte
-Hylaire,safemme,deuxoutroiscoupsdu	Hylaire , sa femme , deux ou trois coups du
-dupié,environle	du pié , environ le
-flanchetducousté.EtlorsladicteHylaire	flanchet du cousté . Et lors ladicte Hylaire
-seprintà	se print à
-àcrier:«Al'aide!bonnesgens»,	à crier :« A l ' aide ! bonnes gens »,
-etd'ilecseleva.ets'	et d ' ilec se leva . et s '
+Charles.,parlagracedeDieu	Charles . , par la grace de Dieu
+roy..deFrance	roy . . de France
+.Savoirfaisonsàtous,presens.	. Savoir faisons à tous , presens .
+.etavenir,nous..avoirreceue	. et avenir , nous . . avoir receue
+l'umblesupplicaciondesparensetamyscharnelzde	l ' umble supplicacion des parens et amys charnelz de
+GuillaumeBrisart,laboureur	Guillaume Brisart , laboureur
+,demouranten..	, demourant en . .
+laterre	la terre
+terreetseigneuriedeCousdrieoubas	terre et seigneurie de Cousdrie ou bas
+païsdePoictou,àpresentdetenuprisonnierès..	païs de Poictou , à present detenu prisonnier ès . .
+.prisonsdeladicteterreetseigneurie	. prisons de ladicte terre et seigneurie
+,appartenantaucommandeurduditlieucontenantquedès	, appartenant au commandeur dudit lieu contenant que dès
+pieçaleditGuillaumeBrisartfutconjoinctparmariageavecques..feue	pieça ledit Guillaume Brisart fut conjoinct par mariage avecques . . feue
+Hylaire,ensonvivant..fille	Hylaire , en son vivant . . fille
+dedeffunctEstienne	de deffunct Estienne
+Gougeau,ouquelmariageilzfurent	Gougeau , ouquel mariage ilz furent
+paraucuntempsetd'eulxyssit	par aucun temps et d ' eulx yssit
+ungenfantnomméPierre,encoresvivant	ung enfant nommé Pierre , encores vivant
+vivant.Etadvint,xxiiii.ouxxv	vivant . Et advint , xxiiii . ou xxv
+.ansa,environ	. ans a , environ
+environlemoisd'avril,queainsiqueledit	environ le mois d ' avril , que ainsi que ledit
+GuillaumeBrisartentroitensamaisonestantouvillaige	Guillaume Brisart entroit en sa maison estant ou villaige
+villaigedelaBenestre,	villaige de la Benestre ,
+iltrouva.queCathinLanberte,samère,	il trouva . que Cathin Lanberte , sa mère ,
+aveelaquelleildemouroitlors,etladictefeue	avee laquelle il demouroit lors , et ladicte feue
+Hylaire,safemme,tensoientensemble,et	Hylaire , sa femme , tensoient ensemble , et
+encefaisant,ainsiqueladicte	en ce faisant , ainsi que ladicte
+Hylaireestoitsurlebers	Hylaire estoit sur le bers
+duditPierre	dudit Pierre
+,lorsestant	, lors estant
+oudit..bers,sadictemèreamonnestoitladictefeueHylaire	oudit . . bers , sadicte mère amonnestoit ladicte feue Hylaire
+Hylairequiestoitfort	Hylaire qui estoit fort
+pesantetnegligent	pesant et negligent
+d'alertirer	d ' aler tirer
+lelaitde.	le lait de .
+leursbestes	leurs bestes
+bestesetlesdictesbestes	bestes et lesdictes bestes
+bestesmettreèschamps	bestes mettre ès champs
+,parcequ'ilestoitsur.l	, parce qu ' il estoit sur . l
+'eurede	' eure de
+dedeuxheuresaprèsmidy	de deux heures après midy
+,dontladictefeueHylairetintpeudecompte	, dont ladicte feue Hylaire tint peu de compte
+,commeilsemblaaudit	, comme il sembla audit
+audit.Brisart;etàcestecauseleditBrisart	audit . Brisart ; et à ceste cause ledit Brisart
+enfutcontreelleindignéetcourroucé	en fut contre elle indigné et courroucé
+,etenesperancedelacorrigeret	, et en esperance de la corriger et
+afinqu'ellefustplus	afin qu ' elle fust plus
+diligenteuneautresfoizet.obeistà	diligente une autres foiz et . obeist à
+àsadictemère,frappaladicteHylaire	à sadicte mère , frappa ladicte Hylaire
+,safemme,deuxoutrois	, sa femme , deux ou trois
+coupsdu	coups du
+dupié,environleflanchetducousté.Etlors	du pié , environ le flanchet du cousté . Et lors
+lorsladicteHylaireseprintàcrier	lors ladicte Hylaire se print à crier
+crier:«Al'aide	crier :« A l ' aide
+aide..!bonnesgens»,et	aide . . ! bonnes gens », et
+d'ilecse	d ' ilec se
+levaets'.	leva et s ' .
 enalaoujardinestantderrièreladictemaison.	en ala ou jardin estant derrière ladicte maison .
-Lequel.Brisartsuivilorsencellechaleursadictefemme	Lequel . Brisart suivi lors en celle chaleur sadicte femme
-qu'il..ramenaduditjardinensadictemaison	qu ' il . . ramena dudit jardin en sadicte maison
-maison,..en	maison , . . en
-luydonnantdela	luy donnant de la
-mainsurlajoue,etenentrantenladicte	main sur la joue , et en entrant en ladicte
-maison,trouvaunecuillierde	maison , trouva une cuillier de
-boysdelaquelleilfrappaladicteHylaireung	boys de laquelle il frappa ladicte Hylaire ung
-coupsurlajoueetl	coup sur la joue et l
-'autresurlesespaules.Etcefait	' autre sur les espaules . Et ce fait
-fait,leditBrisart,desplaisant	fait , ledit Brisart , desplaisant
-desplaisantdecequ'ilavoitbatusadictefemme,.	desplaisant de ce qu ' il avoit batu sadicte femme , .
-.s'enala	. s ' en ala
-aulieude	au lieu de
-delaGanache..querirdubléqu	de la Ganache . . querir du blé qu
-qu'ilavoit	qu ' il avoit
-retraict,pour.lesgensd'armesquilors	retraict , pour . les gens d ' armes qui lors
-couroientparlepaïs	couroient par le païs
-.Etaprèsqu'ilfut..retournéledit	. Et après qu ' il fut . . retourné ledit
-leditjourensadictemaison,il	ledit jour en sadicte maison , il
-trouvasadicte..femmetrès	trouva sadicte . . femme très
-fort..malade,aveclaquelleestoientplusieurs	fort . . malade , avec laquelle estoient plusieurs
-autresfemmesduvillaigequil'estoientvenu	autres femmes du villaige qui l ' estoient venu
-veoir,etleditjourmesmesqueleditsuppliantdonna	veoir , et ledit jour mesmes que ledit suppliant donna
-àsadictefemmelesdizcoups,icelle	à sadicte femme lesdiz coups , icelle
-icellefemme,	icelle femme ,
-àl'occasion..desdizcoupsouautrement,	à l ' occasion . . desdiz coups ou autrement ,
-aladevieàtrespassement.Pour..occasionduquel	ala de vie à trespassement . Pour . . occasion duquel
-cas,leditBrisartapuisnaguèresestéconstituéprisonnier	cas , ledit Brisart a puis naguères esté constitué prisonnier
-èsdictesprisons,èsquellesil	èsdictes prisons , èsquelles il
-il.estdepresentdetenuàgrantpovretéetmisère	il . est de present detenu à grant povreté et misère
-misère,et	misère , et
-doubtentsesdizparensetamyssuppliansquecontreluyon.	doubtent sesdiz parens et amys supplians que contre luy on .
-voulsistàceste	voulsist à ceste
-cestecauserigoureusementproceder,	ceste cause rigoureusement proceder ,
-,senozgraceetmisericordeneluyestoientsurce	, se noz grace et misericorde ne luy estoient sur ce
-ceimparties,etpourcenousont	ce imparties , et pour ce nous ont
-humblementsupplié	humblement supplié
-suppliéetrequisque.	supplié et requis que .
-.,attenduqueleditBrisart,	. , attendu que ledit Brisart ,
-endonnantlesdizcoupsàsadictefemmen'avoit	en donnant lesdiz coups à sadicte femme n ' avoit
-avoitaucunproposneentenciondelatuer	avoit aucun propos ne entencion de la tuer
-nemutiler,..ainsseulementdela	ne mutiler , . . ains seulement de la
-lacorrigerdesesfaultesetl'admonnesterd'	la corriger de ses faultes et l ' admonnester d '
-estreuneautresfoizplusdiligentequ'..	estre une autresfoiz plus diligente qu ' . .
-ellen'estoit	elle n ' estoit
-etobeir	et obeir
-àladictemèreduditBrisart,etfaire	à ladicte mère dudit Brisart , et faire
-fairecequ'elleluyordonneroit,àlaquelleelle	faire ce qu ' elle luy ordonneroit , à laquelle elle
-nevouloitobeir	ne vouloit obeir
-,dontleditBrisartestoitfortdesplaisant;	, dont ledit Brisart estoit fort desplaisant ;
-;aussilelongtempsqu'ilyaqueledit	; aussi le longtemps qu ' il y a que ledit
-casadvint,que	cas advint , que
-quedeladictemort	que de ladicte mort
-ilaestéetesttrèsdesplaisant	il a esté et est très desplaisant
-,etesten	, et est en
-tousautrescas	tous autres cas
-hommebienfaméetrenommé,sansjamaisavoir..	homme bien famé et renommé , sans jamais avoir . .
-.estéactaintne	. esté actaint ne
-convaincud'aucunautrevillaincas,blasme	convaincu d ' aucun autre villain cas , blasme
-blasmeoureprouche,etquelespremiersmouvemensnesont	blasme ou reprouche , et que les premiers mouvemens ne sont
-sontpasen	sont pas en
-enpuissancede	en puissance de
-homme,.etqueparavantledit	homme , . et que paravant ledit
-leditBrisartluyavoitpar.plusieursfois	ledit Brisart luy avoit par . plusieurs fois
-remonstrépar	remonstré par
-parollesdoulcesetbenignesdeobeiràsadictemère	parolles doulces et benignes de obeir à sadicte mère
-mèreetavoirensoydiligence	mère et avoir en soy diligence
-;etquedepuis	; et que depuis
-leditcasadvenu,aestéledit	ledit cas advenu , a esté ledit
-Brisartetencoresestàpresent	Brisart et encores est à present
-mariéavecuneautrefemme,	marié avec une autre femme ,
-,dontsont	, dont sont
-yssusungfilzetneuf	yssus ung filz et neuf
-neuffilles,quiencoressont	neuf filles , qui encores sont
-sontàmarier,etsadictefemmepreste	sont à marier , et sadicte femme preste
-d'.avoir	d ' . avoir
-enfant,ilnousplaiseenpréférantmisericordeà	enfant , il nous plaise en préférant misericorde à
-àrigueurdejusticenosdictesgraceetmisericordeauditBrisart	à rigueur de justice nosdictes grace et misericorde audit Brisart
-impartir.Pourquoynous	impartir . Pour quoy nous
-,ceschoses.considerées,auditGuillaumeBrisart	, ces choses . considerées , audit Guillaume Brisart
-Brisart,etc	Brisart , etc
-.,avons	., avons
-quicté,remiset	quicté , remis et
-pardonné,etc.Sidonnons	pardonné , etc . Si donnons
-enmandementànostreseneschaldePoictouetà	en mandement à nostre seneschal de Poictou et à
-tousnoz.autres	tous noz . autres
-autresjusticiers,	autres justiciers ,
-etc.DonnéàChinon,oumois	etc . Donné à Chinon , ou mois
-denovembrel'ande	de novembre l ' an de
-gracemilcccc.	grace mil cccc .
-.cinquanteneuf,etdenostrerègnelexxxviiie	. cinquante neuf , et de nostre règne le xxxviiie
-.Ainsisigné:Parleroy,àla	. Ainsi signé : Par le roy , à la
-relacionduconseil.P	relacion du conseil . P
-P.deFontaines.—Visa.Contentor.Chaligaut.	P . de Fontaines .— Visa . Contentor . Chaligaut .
+LequelBrisartsuivilorsencellechaleursadictefemme..	Lequel Brisart suivi lors en celle chaleur sadicte femme . .
+qu'ilramenadudit	qu ' il ramena dudit
+duditjardinensadictemaison,	dudit jardin en sadicte maison ,
+enluydonnantde	en luy donnant de
+lamainsurlajoue	la main sur la joue
+,eten.entranten	, et en . entrant en
+ladictemaison,trouvaunecuillierdeboysdelaquelle	ladicte maison , trouva une cuillier de boys de laquelle
+ilfrappa..ladicte	il frappa . . ladicte
+Hylaire.ungcoup	Hylaire . ung coup
+surlajoueet	sur la joue et
+etl'.autre	et l ' . autre
+surlesespaules.Etcefait	sur les espaules . Et ce fait
+,leditBrisart	, ledit Brisart
+Brisart,desplaisantde..cequ'ilavoitbatu	Brisart , desplaisant de . . ce qu ' il avoit batu
+sadictefemme,	sadicte femme ,
+s'enalaaulieu	s ' en ala au lieu
+lieudelaGanachequerirdublé	lieu de la Ganache querir du blé
+bléqu'ilavoitretraict,pour	blé qu ' il avoit retraict , pour
+lesgensd'armesqui	les gens d ' armes qui
+quilorscouroientparlepaïs.Etaprèsqu'	qui lors couroient par le païs . Et après qu '
+ilfutretournéleditjourensadictemaison,il	il fut retourné ledit jour en sadicte maison , il
+trouvasadictefemme	trouva sadicte femme
+trèsfortmalade,aveclaquelleestoientplusieursautres.	très fort malade , avec laquelle estoient plusieurs autres .
+femmesduvillaige	femmes du villaige
+villaigequil'estoientvenuveoir,et	villaige qui l ' estoient venu veoir , et
+etleditjourmesmesqueleditsuppliantdonnaàsadictefemme	et ledit jour mesmes que ledit suppliant donna à sadicte femme
+lesdizcoups,icelle	lesdiz coups , icelle
+femme,àl'occasiondesdizcoupsouautrement	femme , à l ' occasion desdiz coups ou autrement
+autrement,alade	autrement , ala de
+devieàtrespassement.Pouroccasionduquelcas,	de vie à trespassement . Pour occasion duquel cas ,
+leditBrisarta	ledit Brisart a
+puisnaguèresestéconstituéprisonnierèsdictesprisons,èsquellesil	puis naguères esté constitué prisonnier èsdictes prisons , èsquelles il
+ilestdepresentdetenuàgrant	il est de present detenu à grant
+povretéetmisère..,	povreté et misère . . ,
+,etdoubtentsesdizparensetamyssuppliansquecontreluy	, et doubtent sesdiz parens et amys supplians que contre luy
+onvoulsist	on voulsist
+voulsistàcestecauserigoureusementproceder,senoz	voulsist à ceste cause rigoureusement proceder , se noz
+nozgrace.etmisericordeneluy	noz grace . et misericorde ne luy
+luyestoientsurceimparties,etpource	luy estoient sur ce imparties , et pour ce
+nousonthumblement.suppliéetrequisque,attenduque	nous ont humblement . supplié et requis que , attendu que
+leditBrisart,endonnantlesdizcoups	ledit Brisart , en donnant lesdiz coups
+coupsàsadictefemmen'avoit	coups à sadicte femme n ' avoit
+aucunproposneentencion..delatuernemutiler	aucun propos ne entencion . . de la tuer ne mutiler
+,ainsseulementdela	, ains seulement de la
+corrigerdesesfaultesetl'	corriger de ses faultes et l '
+'admonnesterd'estreune	' admonnester d ' estre une
+autresfoizplusdiligentequ	autresfoiz plus diligente qu
+'ellen'estoitetobeiràladicte	' elle n ' estoit et obeir à ladicte
+ladictemèreduditBrisart.,etfairece	ladicte mère dudit Brisart . , et faire ce
+qu'.elle	qu ' . elle
+elleluyordonneroit,àlaquelleellenevouloit	elle luy ordonneroit , à laquelle elle ne vouloit
+obeir,dontleditBrisartestoit	obeir , dont ledit Brisart estoit
+fortdesplaisant	fort desplaisant
+;aussilelongtempsqu'il..y	; aussi le longtemps qu ' il . . y
+aqueleditcas	a que ledit cas
+casadvint,quedeladictemortila	cas advint , que de ladicte mort il a
+estéetesttrès..	esté et est très . .
+.desplaisant,etestentousautrescas	. desplaisant , et est en tous autres cas
+cas.hommebienfaméet	cas . homme bien famé et
+renommé,sans	renommé , sans
+jamaisavoirestéactaint..	jamais avoir esté actaint . .
+neconvaincud'aucunautrevillaincas,blasme	ne convaincu d ' aucun autre villain cas , blasme
+blasmeoureprouche,	blasme ou reprouche ,
+,etqueles..premiersmouvemensnesontpasen	, et que les . . premiers mouvemens ne sont pas en
+enpuissancedehomme,etqueparavantledit	en puissance de homme , et que paravant ledit
+leditBrisartluyavoitpar	ledit Brisart luy avoit par
+plusieursfoisremonstréparparollesdoulcesetbenignesde	plusieurs fois remonstré par parolles doulces et benignes de
+obeiràsadicte..mèreetavoirensoydiligence	obeir à sadicte . . mère et avoir en soy diligence
+;etquedepuisleditcasadvenu	; et que depuis ledit cas advenu
+advenu,aestéleditBrisart..etencoresest	advenu , a esté ledit Brisart . . et encores est
+àpresent	à present
+mariéavec	marié avec
+avec.uneautrefemme	avec . une autre femme
+,dontsontyssusungfilz	, dont sont yssus ung filz
+etneuffilles,quiencoressontà	et neuf filles , qui encores sont à
+marier,etsadicte.femmeprested'	marier , et sadicte . femme preste d '
+avoirenfant	avoir enfant
+enfant,il	enfant , il
+nousplaise	nous plaise
+plaiseenpréférantmisericordeàrigueurdejustice	plaise en préférant misericorde à rigueur de justice
+nosdictesgraceet..misericordeauditBrisartimpartir.	nosdictes grace et . . misericorde audit Brisart impartir .
+.Pourquoynous,ceschosesconsiderées,auditGuillaume	. Pour quoy nous , ces choses considerées , audit Guillaume
+Brisart,etc.,avonsquicté,remis	Brisart , etc ., avons quicté , remis
+etpardonné,etc	et pardonné , etc
+.Sidonnonsenmandement	. Si donnons en mandement
+à..nostreseneschaldePoictouetàtousnozautres	à . . nostre seneschal de Poictou et à tous noz autres
+justiciers,etc.DonnéàChinon,ou	justiciers , etc . Donné à Chinon , ou
+moisdenovembrel'andegrace	mois de novembre l ' an de grace
+gracemilcccc	grace mil cccc
+.cinquanteneuf,etdenostrerègnele	. cinquante neuf , et de nostre règne le
+xxxviiie...Ainsi	xxxviiie . . . Ainsi
+signé:Parleroy,àlarelaciondu	signé : Par le roy , à la relacion du
+conseil...P	conseil . . . P
+.deFontaines.—Visa.	. de Fontaines .— Visa .
+Contentor.Chaligaut.	Contentor . Chaligaut .

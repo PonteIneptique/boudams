@@ -1,96 +1,92 @@
-Jehan,ainsnéfilz	Jehan , ainsné filz
-etlieutenantduroydeFrance,ducde	et lieutenant du roy de France , duc de
-deNormandieetdeGuienne,contedePoitou	de Normandie et de Guienne , conte de Poitou
-,d.'Anjou	, d . ' Anjou
-etduMaine.Savoirsavoir.faisons	et du Maine . Savoir savoir . faisons
-àtouz,presenzetavenir,[que],comme	à touz , presenz et avenir ,[ que ], comme
-Agnès,jadisfamede	Agnès , jadis fame de
-dePierredelaCharité,pourlafondacion	de Pierre de la Charité , pour la fondacion
-d'unechapellenieassiseenl'	d ' une chapellenie assise en l '
-'eglisedel'AumosneriedeSainteMarthede	' eglise de l ' Aumosnerie de Sainte Marthe de
-dePoitiers,	de Poitiers ,
-pourfaireleservicedivinetpourlesalut	pour faire le service divin et pour le salut
-etremededel'amedeelle	et remede de l ' ame de elle
-,aitdonnéperpetuelmentetheritablementaus	, ait donné perpetuelment et heritablement aus
-chapellains,presenz	chapellains , presenz
-etavenir,quideserventetdeservirontladitechapellenie	et avenir , qui deservent et deserviront la dite chapellenie
-chapelleniecinquanteetquatresoulzderente	chapellenie cinquante et quatre soulz de rente
-annueletperpetuel,c'estassavoir	annuel et perpetuel , c ' est assavoir
-vintsoulzquatredeniers	vint soulz quatre deniers
-tournois,	tournois ,
-assissurunemaisonseant.	assis sur une maison seant .
-.àPoytiers,oubourcd'Anguitart	. à Poytiers , ou bourc d ' Anguitart
-,tenantd'unepartàla	, tenant d ' une part à la
-lamaisonquifu	la maison qui fu
-feuAgnèsdelaCharité,etd	feu Agnès de la Charité , et d
+Jehan,ainsnéfilzet.lieutenantduroydeFrance	Jehan , ainsné filz et . lieutenant du roy de France
+France,ducdeNormandieetde..	France , duc de Normandie et de . .
+.Guienne,contedePoitou,d	. Guienne , conte de Poitou , d
+'AnjouetduMaine.Savoirsavoir	' Anjou et du Maine . Savoir savoir
+faisonsàtouz..,	faisons à touz . . ,
+presenzetavenir,[que],comme	presenz et avenir ,[ que ], comme
+Agnès,.jadis	Agnès , . jadis
+famedePierredelaCharité,pourla	fame de Pierre de la Charité , pour la
+fondacion.d'unechapellenieassiseenl	fondacion . d ' une chapellenie assise en l
+'eglisedel'	' eglise de l '
+'AumosneriedeSainteMarthedePoitiers,	' Aumosnerie de Sainte Marthe de Poitiers ,
+,pourfaire	, pour faire
+leservicedivinetpour	le service divin et pour
+lesalutetremededel	le salut et remede de l
+'amedeelle..	' ame de elle . .
+..,aitdonnéperpetuelmentetheritablementaus	. . , ait donné perpetuelment et heritablement aus
+auschapellains,presenzetavenir,quideserventetdeserviront	aus chapellains , presenz et avenir , qui deservent et deserviront
+laditechapelleniecinquanteetquatresoulzderente	la dite chapellenie cinquante et quatre soulz de rente
+renteannueletperpetuel,c	rente annuel et perpetuel , c
+c'estassavoirvintsoulzquatredeniers	c ' est assavoir vint soulz quatre deniers
+tournois,assissurunemaisonseant	tournois , assis sur une maison seant
+àPoytiers,oubourcd'Anguitart,tenant	à Poytiers , ou bourc d ' Anguitart , tenant
+d'unepartà	d ' une part à
+àlamaisonqui	à la maison qui
+fufeuAgnèsdelaCharité,etd	fu feu Agnès de la Charité , et d
 d'autrepartàla	d ' autre part à la
-maisonàlaBugode;itemdixsoulzsur	maison à la Bugode ; item dix soulz sur
-lamaisonAlainleBreton,assiseen	la maison Alain le Breton , assise en
-enlaruede	en la rue de
-l'Erberie,tenantd	l ' Erberie , tenant d
-'unepartaufourfeuPierre	' une part au four feu Pierre
-Alemant,etd'autrepartàla..	Alemant , et d ' autre part à la . .
-maisonquifuJehannedeSainteMaune;itemvint	maison qui fu Jehanne de Sainte Maune ; item vint
-ettrois	et trois
-troissoulzhuitdeniers..	trois soulz huit deniers . .
-..tournoissurunemaison	. . tournois sur une maison
-seantouMarchiéviel,enlarueoù	seant ou Marchié viel , en la rue où
-oùl'enventlepoisson,tenant	où l ' en vent le poisson , tenant
-tenantd'unepartàlamaison	tenant d ' une part à la maison
-maisonColindeGoursetd'	maison Colin de Gours et d '
-autrepartàlamaisonThomasse,filleà	autre part à la maison Thomasse , fille à
-àlaRollete;etfrèreGuillaume	à la Rollete ; et frère Guillaume
-Picherer,	Picherer ,
-,chanoinede.SaintYlairedelaCelledePoitiers	, chanoine de . Saint Ylaire de la Celle de Poitiers
-etchapellaindeladitechapellenienous	et chapellain de la dite chapellenie nous
-aithumblementsuppliéque..de	ait humblement supplié que . . de
+lamaisonàlaBugode;	la maison à la Bugode ;
+itemdixsoulz..surlamaisonAlain	item dix soulz . . sur la maison Alain
+leBreton,assiseenlarue	le Breton , assise en la rue
+del.'Erberie	de l . ' Erberie
+,tenantd'unepartaufourfeuPierre	, tenant d ' une part au four feu Pierre
+PierreAlemant,etd'autre..part	Pierre Alemant , et d ' autre . . part
+àlamaisonquifuJehannedeSainteMaune;..	à la maison qui fu Jehanne de Sainte Maune ; . .
+itemvintettroissoulzhuitdenierstournois	item vint et trois soulz huit deniers tournois
+surunemaisonseantou	sur une maison seant ou
+ouMarchiéviel,	ou Marchié viel ,
+enlarueoùl'	en la rue où l '
+'enventlepoisson,tenant	' en vent le poisson , tenant
+d'unepartàlamaisonColinde	d ' une part à la maison Colin de
+Goursetd'autrepartàlamaisonThomasse	Gours et d ' autre part à la maison Thomasse
+Thomasse,fille..àlaRollete;etfrèreGuillaumePicherer	Thomasse , fille . . à la Rollete ; et frère Guillaume Picherer
+Picherer,chanoinedeSaintYlaire	Picherer , chanoine de Saint Ylaire
+delaCelledePoitiers.et	de la Celle de Poitiers . et
+chapellaindeladitechapellenienous	chapellain de la dite chapellenie nous
+nousaithumblementsuppliéquedenostre..	nous ait humblement supplié que de nostre . .
+graceespecialetpourle	grace especial et pour le
+lesalutetremededel'amedenous,	le salut et remede de l ' ame de nous ,
+etpourconsideraciondesmesses	et pour consideracion des messes
+,oroisonsetbienfaiz	, oroisons et bienfaiz
+,qui.sontet	, qui . sont et
+etserontfaiz.en	et seront faiz . en
+enladitechapelle,	en la dite chapelle ,
+,èsquiex	, ès quiex
+ilveult,pourluietpourses	il veult , pour lui et pour ses
+successeurs,chapellains	successeurs , chapellains
+deladitechapellenie,que	de la dite chapellenie , que
+quenoussoions.participans,nousvueilliensadmortir	que nous soions . participans , nous vueilliens admortir
+lesdizcinquanteetquatre..soulz	les diz cinquante et quatre . . soulz
+derente.Nous,desiranzl'officedivin	de rente . Nous , desiranz l ' office divin
+divinestrefaitdevotementetperpetuelmentenladite	divin estre fait devotement et perpetuelment en la dite
+chapelle,pourlesalut..	chapelle , pour le salut . .
+etremededel'amedenous,de	et remede de l ' ame de nous , de
 nostregraceespecial	nostre grace especial
-etpourlesalutetremededel'	et pour le salut et remede de l '
-amedenous,etpourconsideracion	ame de nous , et pour consideracion
-desmesses,oroisonsetbienfaiz,	des messes , oroisons et bienfaiz ,
-quisontetserontfaizenladitechapelle	qui sont et seront faiz en la dite chapelle
-,èsquiexil	, ès quiex il
-ilveult.,pourlui	il veult . , pour lui
-etpoursessuccesseurs,	et pour ses successeurs ,
-chapellainsdeladite	chapellains de la dite
-ditechapellenie,quenoussoionsparticipans,nous	dite chapellenie , que nous soions participans , nous
-vueilliens.admortir	vueilliens . admortir
-admortirlesdizcinquanteetquatre	admortir les diz cinquante et quatre
-soulzde	soulz de
-rente.Nous,desiranzl'office	rente . Nous , desiranz l ' office
-divinestrefaitdevotementet	divin estre fait devotement et
-perpetuelmentenladitechapelle	perpetuelment en la dite chapelle
-chapelle,pourlesalutetremededel	chapelle , pour le salut et remede de l
-l'amede	l ' ame de
-nous,denostregraceespecialetauctorité	nous , de nostre grace especial et auctorité
-royal,ànousdonnéedenostretres	royal , à nous donnée de nostre tres
-chierseigneuretpere,etdecertaine	chier seigneur et pere , et de certaine
-science,	science ,
-avonsadmorti	avons admorti
-admortietadmortissons,par..lateneur	admorti et admortissons , par . . la teneur
-decespresentes	de ces presentes
-presentes,les	presentes , les
-dizcinquanteetquatresoulzderente	diz cinquante et quatre soulz de rente
-perpetuel,etvoulonsqueli	perpetuel , et voulons que li
-chapellainsdeladitechapelle,presenzet	chapellains de la dite chapelle , presenz et
-avenir,lespuissentteniretpossederheritablementetperpetuelment	avenir , les puissent tenir et posseder heritablement et perpetuelment
-,sanzcequeilsoientoupuissentestre	, sanz ce que il soient ou puissent estre
-estrecontraint..parnousounoz	estre contraint . . par nous ou noz
-successeurs,contes.	successeurs , contes .
-dePoitiers,ou	de Poitiers , ou
-parnozjusticiersàlesmettrehors	par noz justiciers à les mettre hors
-deleursmains,nenousenfaireaucune	de leurs mains , ne nous en faire aucune
-finance,	finance ,
-,laquelenousleurquittonsetremettonsà	, la quele nous leur quittons et remettons à
-àcestefoiz,denostregraceespecial,par	à ceste foiz , de nostre grace especial , par
-lateneurdecespresentes.Etnous,	la teneur de ces presentes . Et nous ,
-pourceque	pour ce que
-cesoitchosefermeetestableà	ce soit chose ferme et estable à
-touzjours,..nousavons	touz jours , . . nous avons
-avonsfaitmettrenostreseelàces	avons fait mettre nostre seel à ces
-lettres.Donné.àPoytiers,	lettres . Donné . à Poytiers ,
-l'andegrace	l ' an de grace
-miltroiscenzquaranteetcinq	mil trois cenz quarante et cinq
-,oumoisde	, ou mois de
-deseptembre.Parmonseigneurleduc,	de septembre . Par monseigneur le duc ,
-presentsonaumosnier.Ger[ard]GerardDorin	present son aumosnier . Ger [ ard ] Gerard Dorin
+especialetauctoritéroyal,à.nous	especial et auctorité royal , à . nous
+donnéedenostretreschierseigneur	donnée de nostre tres chier seigneur
+etpere,etdecertainescience,	et pere , et de certaine science ,
+avonsadmortietadmortissons,parlateneurde	avons admorti et admortissons , par la teneur de
+decespresentes,lesdizcinquanteetquatresoulzde	de ces presentes , les diz cinquante et quatre soulz de
+renteperpetuel,etvoulonsquelichapellains	rente perpetuel , et voulons que li chapellains
+deladitechapelle,presenzet	de la dite chapelle , presenz et
+avenir,lespuissent	avenir , les puissent
+teniretpossederheritablementetperpetuelment,sanzceque	tenir et posseder heritablement et perpetuelment , sanz ce que
+ilsoientoupuissent	il soient ou puissent
+estre..contraintparnousou	estre . . contraint par nous ou
+ounozsuccesseurs,contesdePoitiers,..	ou noz successeurs , contes de Poitiers , . .
+.ouparnozjusticiersà.lesmettrehors	. ou par noz justiciers à . les mettre hors
+deleursmains,nenousenfaireaucunefinance	de leurs mains , ne nous en faire aucune finance
+finance,la	finance , la
+quelenous..leur	quele nous . . leur
+leurquittonsetremettonsàcestefoiz,	leur quittons et remettons à ceste foiz ,
+,denostregraceespecial,	, de nostre grace especial ,
+,parlateneurdeces	, par la teneur de ces
+presentes.Etnous,pour	presentes . Et nous , pour
+cequecesoit..	ce que ce soit . .
+chosefermeet	chose ferme et
+estableàtouzjours,nous	estable à touz jours , nous
+avonsfaitmettrenostreseelàceslettres	avons fait mettre nostre seel à ces lettres
+lettres.DonnéàPoytiers,l	lettres . Donné à Poytiers , l
+l'andegracemiltrois	l ' an de grace mil trois
+cenzquaranteetcinq,oumoisdeseptembre.	cenz quarante et cinq , ou mois de septembre .
+.Parmonseigneurle..duc,presentsonaumosnier	. Par monseigneur le . . duc , present son aumosnier
+aumosnier.Ger[ard]GerardDorin.	aumosnier . Ger [ ard ] Gerard Dorin .

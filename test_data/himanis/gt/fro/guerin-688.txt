@@ -1,142 +1,134 @@
 Charles,etc.Savoir	Charles , etc . Savoir
-faisonsàtouz,presens.etavenir	faisons à touz , presens . et avenir
-,delapartiedeMacéDuPoiz	, de la partie de Macé Du Poiz
-,povresimplehomme	, povre simple homme
+faisonsà	faisons à
+touz,presensetavenir,delapartie	touz , presens et avenir , de la partie
+deMacéDuPoiz,povresimple	de Macé Du Poiz , povre simple
 hommedelabour,nous	homme de labour , nous
-avoirestéexposécomme,certainjourdumois	avoir esté exposé comme , certain jour du mois
-defevrierderrenierpassé,àheure	de fevrier derrenier passé , à heure
-desoleilcouchant	de soleil couchant
-ouenviron,noiseet	ou environ , noise et
-etdiscencionfeussentmeuzetcommenciezouvillagedelaVioliere	et discencion feussent meuz et commenciez ou village de la Violiere
-enlaparroissedeFaleron,oudiocesede	en la parroisse de Faleron , ou diocese de
-Lusson,entrefeuJehanGabory,	Lusson , entre feu Jehan Gabory ,
-,safemmeetenfans,d	, sa femme et enfans , d
-’unepart	’ une part
-,etVincent	, et Vincent
-Martinetsafemme,d’	Martin et sa femme , d ’
-autre,.en	autre , . en
-tantqued	tant que d
-d’unepartieetd’autrefu	d ’ une partie et d ’ autre fu
-crié«àla	crié « à la
-force»,selonlacoustumedupays,	force », selon la coustume du pays ,
-surlequelcryleditexposantquiestde	sur lequel cry le dit exposant qui est de
-ladicteparroisseetaucunsautresqui	la dicte parroisse et aucuns autres qui
-estoientvenuzensemble	estoient venuz ensemble
-deleursafairesbesoingner..,survindrentet	de leurs afaires besoingner . . , survindrent et
-etariverentd’aventure.Et	et ariverent d ’ aventure . Et
-lorsleditexposantditaudit	lors le dit exposant dit au dit
-feuGaborycesparolesouassezsemblablesensubstance	feu Gabory ces paroles ou assez semblables en substance
-,afinde	, afin de
-ledescoraigerdenon	le descoraiger de non
-nonpersevererenladictenoise:«Larron,deportetoy	non perseverer en la dicte noise :« Larron , deporte toy
-toy,ou.tuesenaventuredetoy	toy , ou . tu es en aventure de toy
-fairependre,toyetlestiens	faire pendre , toy et les tiens
-,desriotesquetumeuves».Et	, des riotes que tu meuves ». Et
-cedit,pourcequ’ilzestoient	ce dit , pour ce qu ’ ilz estoient
-estoientprestzetgarnizd	estoient prestz et garniz d
-’uncostéetd’autre	’ un costé et d ’ autre
-autredeuser..de	autre de user . . de
-fait.,lorslafemmedudit	fait . , lors la femme du dit
-ditfeuGabory	dit feu Gabory
-distàsonditfeu	dist à son dit feu
-maryqu’ilpreistleditexposant	mary qu ’ il preist le dit exposant
-parlagorgepourluifairedesdireles	par la gorge pour lui faire desdire les
-dictesparoles;lequelfeu..Gabory,en	dictes paroles ; lequel feu . . Gabory , en
-acomplissantlesparoleset	acomplissant les paroles et
+nousavoirestéexposécomme,certainjourdu	nous avoir esté exposé comme , certain jour du
+dumoisdefevrierderrenierpassé,	du mois de fevrier derrenier passé ,
+,àheuredesoleil	, à heure de soleil
+soleilcouchantouenviron,noiseetdiscencionfeussentmeuzet	soleil couchant ou environ , noise et discencion feussent meuz et
+etcommenciezou	et commenciez ou
+ouvillagedelaVioliereenlaparroissedeFaleron,	ou village de la Violiere en la parroisse de Faleron ,
+,oudiocesedeLusson,entre	, ou diocese de Lusson , entre
+feuJehan	feu Jehan
+Gabory,safemmeetenfans,	Gabory , sa femme et enfans ,
+,d’unepart,etVincent	, d ’ une part , et Vincent
+VincentMartinet.safemme,d’autre,	Vincent Martin et . sa femme , d ’ autre ,
+entantqued	en tant que d
+’unepartieetd’autrefucrié«	’ une partie et d ’ autre fu crié «
+«àlaforce»,selonlacoustumedupays,	« à la force », selon la coustume du pays ,
+,surlequelcryleditexposantquiestde	, sur lequel cry le dit exposant qui est de
+deladicteparroisseetaucunsautres..	de la dicte parroisse et aucuns autres . .
+quiestoientvenuzensemblede	qui estoient venuz ensemble de
+leurs.afaires	leurs . afaires
+besoingner,survindrentetariverentd’aventure	besoingner , survindrent et ariverent d ’ aventure
+.Etlorsleditexposantditaudit	. Et lors le dit exposant dit au dit
+ditfeuGaboryces	dit feu Gabory ces
+cesparolesouassezsemblablesensubstance,	ces paroles ou assez semblables en substance ,
+,..afindele	, . . afin de le
+ledescoraigerdenonpersevereren	le descoraiger de non perseverer en
+ladictenoise:«Larron,	la dicte noise :« Larron ,
+,deportetoy,outuesen	, deporte toy , ou tu es en
+aventuredetoyfairependre,toyetles	aventure de toy faire pendre , toy et les
+tiens,desriotesquetumeuves».Etce	tiens , des riotes que tu meuves ». Et ce
+cedit,pour	ce dit , pour
+cequ’ilzestoientprestz	ce qu ’ ilz estoient prestz
+prestzetgarnizd’uncosté	prestz et garniz d ’ un costé
+costéetd’autredeuser.	costé et d ’ autre de user .
+defait,lorslafemmeduditfeuGabory	de fait , lors la femme du dit feu Gabory
+distàsonditfeumaryqu’il.preist	dist à son dit feu mary qu ’ il . preist
+preistleditexposantparlagorgepourluifaire	preist le dit exposant par la gorge pour lui faire
+desdirelesdictesparoles	desdire les dictes paroles
+;lequelfeuGabory,.enacomplissant	; lequel feu Gabory , . en acomplissant
+lesparoleset	les paroles et
 lavoulentéde	la voulenté de
-sadictefemme,vintauditexposant	sa dicte femme , vint au dit exposant
-etleprint	et le print
-printparlagorge.	print par la gorge .
-.Etlorssadicte	. Et lors sa dicte
-dictefemmeetunleur	dicte femme et un leur
-filzferirentleditexposant,quinefaisoittant	filz ferirent le dit exposant , qui ne faisoit tant
-seulementquesoy..efforcier	seulement que soy . . efforcier
-deeschaper,sur	de eschaper , sur
-lateste	la teste
-testeetsurlecorpsde	teste et sur le corps de
-debastonsqu’ilztenoient	de bastons qu ’ ilz tenoient
-,tellementqu’ilcheyàterre	, tellement qu ’ il chey à terre
-toutevanoy.Etadoncle..laisserentyllec	tout evanoy . Et adonc le . . laisserent yllec
-cheuàterre	cheu à terre
-,etalerent	, et alerent
-courirsusauditVincent	courir sus au dit Vincent
-,lequelse	, lequel se
-semisttellementàdeffensequ’il	se mist tellement à deffense qu ’ il
-ferysur	fery sur
-surlateste,sicommel’endit,	sur la teste , si comme l ’ en dit ,
-leditfeu	le dit feu
-feuJehanGabory,tellementquededensdeuxjours	feu Jehan Gabory , tellement que dedens deux jours
-aprèsouenviron	après ou environ
-environ,morts’enensuyen	environ , mort s ’ en ensuy en
-sapersonne.Pourlequelfait	sa personne . Pour lequel fait
-,leditexposantquiestsimpleshomsdelabour	, le dit exposant qui est simples homs de labour
-labouretquiavoitestéferuet	labour et qui avoit esté feru et
-batuparlatesteetailleurstellementqu’il	batu par la teste et ailleurs tellement qu ’ il
-estoitcheu,et..sanzcequ’	estoit cheu , et . . sanz ce qu ’
-ileustferuleditfeuGaboryneautre	il eust feru le dit feu Gabory ne autre
-,nefait	, ne fait
-faitautrechosequesoyefforcieràeschapper	fait autre chose que soy efforcier à eschapper
-deleursmains,comme	de leurs mains , comme
-ditest,et.	dit est , et .
-quiatouzjoursesté	qui a touz jours esté
-estédebonnevieethonneste	esté de bonne vie et honneste
-conversacionetrenommée,sansavoir	conversacion et renommée , sans avoir
-avoirestéreprinsnediffamezd	avoir esté reprins ne diffamez d
-’aucunvillain	’ aucun villain
-cas,s’est.	cas , s ’ est .
-absentezdu..	absentez du . .
-pays,doubtantrigueurde.justice	pays , doubtant rigueur de . justice
-,etn’oseroit	, et n ’ oseroit
-retournerenycellui,se	retourner en ycellui , se
-denostregraceneluiestoitsurcepourveu,	de nostre grace ne lui estoit sur ce pourveu ,
-,ennoussuppliant	, en nous suppliant
-humblementd..’	humblement d . . ’
-avoirycelle.	avoir ycelle .
-Nousceschosesconsiderées,audit	Nous ces choses considerées , au dit
-suppliantquiasatisfaità	suppliant qui a satisfait à
-partie,sicommeildit,avonsremis	partie , si comme il dit , avons remis
-,quictiéet	, quictié et
-pardonné,entantque	pardonné , en tant que
-quemestierluienest,etparcespresentesou	que mestier lui en est , et par ces presentes ou
-casdessusditquictons,	cas dessus dit quictons ,
-,remettonsetpardonnonstoutlefaitdessusdit,avecques	, remettons et pardonnons tout le fait dessus dit , avecques
-toutepaine,..	toute paine , . .
-amendeetoffensecriminele,corporeleetcivile,en	amende et offense criminele , corporele et civile , en
-quoyilpuetestreencouruenvers	quoy il puet estre encouru envers
-nous,àcausedece,et	nous , à cause de ce , et
-lerestituonsàsabonnefame	le restituons à sa bonne fame
-fame,renommée,aupaysetàses	fame , renommée , au pays et à ses
-biensquelxconques,..satisfaction	biens quelxconques , . . satisfaction
-faicteàpartiepremierementetavanttoute	faicte à partie premierement et avant toute
-euvrecivilement,sefaiten.	euvre civilement , se faite n .
-’est.Sidonnonsenmandementaux	’ est . Si donnons en mandement aux
-gouverneursdu.bailliage	gouverneurs du . bailliage
-deTouraineetdelaRochelle	de Touraine et de la Rochelle
-,.etàtouz	, . et à touz
-nozautresjusticierset	noz autres justiciers et
-etofficiers,presensetavenir,ouàleurs	et officiers , presens et avenir , ou à leurs
-leurslieuxtenans,etàchascun	leurs lieuxtenans , et à chascun
-chascund’eulx,sicommeàlui	chascun d ’ eulx , si comme à lui
-appartendra,quedenostre	appartendra , que de nostre
-nostrepresentegrace,remission	nostre presente grace , remission
-remissionetquictance	remission et quictance
-facent.,	facent . ,
-seuffrentetlaissentjoiret	seuffrent et laissent joir et
-userpaisiblementledit	user paisiblement le dit
-MacéDuPoiz,exposantdessusdit,sanzle	Macé Du Poiz , exposant dessus dit , sanz le
-lemolesterouempeschier,nesouffrirestre	le molester ou empeschier , ne souffrir estre
-molestéouempeschiéencorpsneen	molesté ou empeschié en corps ne en
-biens,depresentnepour..letemps	biens , de present ne pour . . le temps
-avenir,enaucunemaniereaucontraire.Etque	avenir , en aucune maniere au contraire . Et que
-cesoitfermechoseetestable	ce soit ferme chose et estable
-àtouzjours,nousavonsfaitmettrenostre	à touz jours , nous avons fait mettre nostre
-seelàces	seel à ces
-presentes.Saufenautres	presentes . Sauf en autres
-chosesnostredroitetl	choses nostre droit et l
-’autruyentoutes.Donné	’ autruy en toutes . Donné
-àParis,oumoysd’aoustl	à Paris , ou moys d ’ aoust l
-’an.degracemilccc.	’ an . de grace mil ccc .
-iiiixxetsix,etdenostre	iiiixx et six , et de nostre
-regnelesiziesme.Parle..	regne le siziesme . Par le . .
-.conseil.M.Massuel	. conseil . M . Massuel
-.—Barreau.	.— Barreau .
+sadictefemme.,vintauditexposantet	sa dicte femme . , vint au dit exposant et
+leprintparlagorge.Etlors	le print par la gorge . Et lors
+lorssa.dictefemmeetunleurfilzferirent	lors sa . dicte femme et un leur filz ferirent
+ferirentleditexposant,qui	ferirent le dit exposant , qui
+nefaisoittantseulementquesoyefforcierde	ne faisoit tant seulement que soy efforcier de
+eschaper,surlatesteetsurlecorpsde	eschaper , sur la teste et sur le corps de
+bastonsqu	bastons qu
+’ilztenoient,tellement	’ ilz tenoient , tellement
+qu’ilcheyàterre	qu ’ il chey à terre
+terretoutevanoy.Et	terre tout evanoy . Et
+adoncle..laisserentylleccheu	adonc le . . laisserent yllec cheu
+àterre,etalerentcourir..susaudit	à terre , et alerent courir . . sus au dit
+ditVincent,lequelsemist	dit Vincent , lequel se mist
+tellementàdeffensequ..’il	tellement à deffense qu . . ’ il
+ferysurlateste,sicomme	fery sur la teste , si comme
+l’endit,le	l ’ en dit , le
+ditfeuJehanGabory,tellementquededens	dit feu Jehan Gabory , tellement que dedens
+deuxjoursaprèsouenviron,mort	deux jours après ou environ , mort
+s’enensuyensa	s ’ en ensuy en sa
+personne.Pourlequelfait,	personne . Pour lequel fait ,
+leditexposantqui	le dit exposant qui
+estsimpleshoms	est simples homs
+homsdelabouretquiavoitestéferuetbatu	homs de labour et qui avoit esté feru et batu
+parla.teste	par la . teste
+testeetailleurstellementqu’ilestoitcheu,	teste et ailleurs tellement qu ’ il estoit cheu ,
+etsanzcequ’ileustferu	et sanz ce qu ’ il eust feru
+leditfeuGaboryneautre	le dit feu Gabory ne autre
+,nefaitautrechoseque	, ne fait autre chose que
+soyefforcieràeschapperdeleurs	soy efforcier à eschapper de leurs
+leursmains,commedit	leurs mains , comme dit
+ditest,etquiatouz	dit est , et qui a touz
+touzjoursestédebonnevie	touz jours esté de bonne vie
+ethonnesteconversacion	et honneste conversacion
+etrenommée,sans..avoirestéreprinsnediffamezd	et renommée , sans . . avoir esté reprins ne diffamez d
+d’aucunvillaincas,s’	d ’ aucun villain cas , s ’
+estabsentezdupays,doubtant	est absentez du pays , doubtant
+rigueurdejustice,etn’	rigueur de justice , et n ’
+’oseroitretournerenycellui,sedenostregrace	’ oseroit retourner en ycellui , se de nostre grace
+neluiestoit	ne lui estoit
+surcepourveu,ennoussuppliant	sur ce pourveu , en nous suppliant
+humblementd’avoirycelle	humblement d ’ avoir ycelle
+.Nousces	. Nous ces
+chosesconsiderées,auditsuppliant	choses considerées , au dit suppliant
+suppliantquia	suppliant qui a
+satisfaitàpartie,sicommeildit,	satisfait à partie , si comme il dit ,
+avonsremis,quictiéet	avons remis , quictié et
+etpardonné,entant	et pardonné , en tant
+quemestier	que mestier
+luienest,etparcespresentesou	lui en est , et par ces presentes ou
+casdessusdit	cas dessus dit
+quictons,.remettons	quictons , . remettons
+etpardonnonstoutle	et pardonnons tout le
+faitdessusdit..,avecquestoute	fait dessus dit . . , avecques toute
+toutepaine,amendeetoffensecriminele,	toute paine , amende et offense criminele ,
+corporeleetcivile,enquoyilpuet	corporele et civile , en quoy il puet
+puetestreencouruenversnous,à	puet estre encouru envers nous , à
+àcausedece,etlerestituonsà	à cause de ce , et le restituons à
+àsabonnefame,renommée	à sa bonne fame , renommée
+renommée,aupaysetà	renommée , au pays et à
+àsesbiensquelxconques,satisfaction	à ses biens quelxconques , satisfaction
+faicteàpartiepremierementetavanttouteeuvre	faicte à partie premierement et avant toute euvre
+civilement,sefaiten’est.Si..	civilement , se faite n ’ est . Si . .
+donnonsenmandementauxgouverneursdubailliagede	donnons en mandement aux gouverneurs du bailliage de
+Touraineet.de	Touraine et . de
+laRochelle,età	la Rochelle , et à
+àtouznozautresjusticiersetofficiers,presensetavenir	à touz noz autres justiciers et officiers , presens et avenir
+,ouàleurs	, ou à leurs
+lieuxtenans,etàchascund’	lieuxtenans , et à chascun d ’
+’eulx,sicommeàluiappartendra	’ eulx , si comme à lui appartendra
+,quedenostrepresentegrace,remissionet	, que de nostre presente grace , remission et
+quictancefacent,seuffrentetlaissentjoiretuserpaisiblement	quictance facent , seuffrent et laissent joir et user paisiblement
+paisiblementleditMacéDuPoiz,exposantdessusdit,	paisiblement le dit Macé Du Poiz , exposant dessus dit ,
+,sanzlemolesterouempeschier,nesouffrirestremolesté	, sanz le molester ou empeschier , ne souffrir estre molesté
+ouempeschiéencorpsneenbiens	ou empeschié en corps ne en biens
+biens,depresentnepourle	biens , de present ne pour le
+tempsavenir	temps avenir
+,enaucunemaniereaucontraire.Etquece	, en aucune maniere au contraire . Et que ce
+soitfermechoseetestable	soit ferme chose et estable
+àtouzjours,nousavonsfaitmettrenostreseel	à touz jours , nous avons fait mettre nostre seel
+seelàcespresentes.	seel à ces presentes .
+Saufen..autreschosesnostredroitetl’	Sauf en . . autres choses nostre droit et l ’
+’autruyentoutes	’ autruy en toutes
+toutes.DonnéàParis,	toutes . Donné à Paris ,
+,oumoys	, ou moys
+d’aoust	d ’ aoust
+l’andegracemilccc.	l ’ an de grace mil ccc .
+iiiixxet.six	iiiixx et . six
+,etdenostre	, et de nostre
+nostreregnelesiziesme..Parleconseil.	nostre regne le siziesme . . Par le conseil .
+.M.Massuel.—Barreau.	. M . Massuel .— Barreau .

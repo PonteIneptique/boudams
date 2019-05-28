@@ -1,117 +1,112 @@
-Charles,etc	Charles , etc
-.Savoirfaisonsàtous	. Savoir faisons à tous
-,presensetavenir	, presens et avenir
-,ànousavoirestéexposé	, à nous avoir esté exposé
-delapartiedePierreMaya	de la partie de Pierre Maya
-Mayaque,le..vendrediavantlafestede	Maya que , le . . vendredi avant la feste de
-NostreDame..Chandeleurderrenierementpassée	Nostre Dame . . Chandeleur derrenierement passée
-,iletaucunsautresensacompaignie	, il et aucuns autres en sa compaignie
-sealerentesbatre	se alerent esbatre
-chezleprieurdeChaveignesenPailliers	chez le prieur de Chaveignes en Pailliers
-,lequelleurfistbonnechiereenlesfaisant	, le quel leur fist bonne chiere en les faisant
-boireetmengier,.etencefaisantou	boire et mengier , . et en ce faisant ou
-asseztostaprès	assez tost après
-leditprieur	le dit prieur
-prieurpriaà..	prieur pria à . .
-ThevetHebertin,l	Thevet Hebertin , l
-’undesdizcompaignonsduditexposant	’ un des diz compaignons du dit exposant
-,qu’ilalast	, qu ’ il alast
-donnerunebuffeàJehanMeschin,demouranten	donner une buffe à Jehan Meschin , demourant en
-laparroisse..	la parroisse . .
-duditlieudeChaveignes,lequellui	du dit lieu de Chaveignes , lequel lui
-respondiquesiferoit,maisqu’ill	respondi que si feroit , mais qu ’ il l
-’enpaiast,etfinablementpourlasommede	’ en paiast , et finablement pour la somme de
-deuxescuzd	deux escuz d
-d’orqueleditprieurbailla	d ’ or que le dit prieur bailla
-audit..Herbertin	au dit . . Herbertin
-,icellui	, icellui
-Herbertinpromist	Herbertin promist
-d’alerdonnerladicte	d ’ aler donner la dicte
-dictebuffeauditMeschin.	dicte buffe au dit Meschin .
-Etaprèsce,distau	Et après ce , dist au
-ditexposantetàGeuffroy	dit exposant et à Geuffroy
-GeuffroydeCorcelles.,	Geuffroy de Corcelles . ,
-,l’undes..dizcompaignons	, l ’ un des . . diz compaignons
-,qu..’ilzvousissentaler	, qu . . ’ ilz vousissent aler
-avecluipourdonnerladictebuffe	avec lui pour donner la dicte buffe
-buffe,etilzauroientleurpartdesdizdeux	buffe , et ilz auroient leur part des diz deux
-escuz;lesquelxavecledit	escuz ; lesquelx avec le dit
-Herbertinse	Herbertin se
-misdrentàcheminpourcefaire,et	misdrent à chemin pour ce faire , et
-denuitarriverent..	de nuit arriverent . .
-àl’ostel	à l ’ ostel
-deJehanDousset,de	de Jehan Dousset , de
-ladicteparroissedeChaveignes,cuidans	la dicte parroisse de Chaveignes , cuidans
-quecefeustl’ostelduditMeschinet	que ce feust l ’ ostel du dit Meschin et
-entrerentenicelluihostel,oùilztrouverentle	entrerent en icellui hostel , où ilz trouverent le
-ditDoussetcouchiéaufeumalade	dit Dousset couchié au feu malade
-maladedefievres.Auquel	malade de fievres . Auquel
-Auquelleditexposant,cuidant	Auquel le dit exposant , cuidant
-deluiquecefeust	de lui que ce feust
-leditMeschin,..distqu’ilselevast	le dit Meschin , . . dist qu ’ il se levast
-etqu’illuialastmonstrerlecheminpour	et qu ’ il lui alast monstrer le chemin pour
-alerauditlieudeChaveignes,	aler au dit lieu de Chaveignes ,
-lequelDoussetluirespondiquenonferoit	lequel Dousset lui respondi que non feroit
-etqu’ilnepourroitaler,	et qu ’ il ne pourroit aler ,
-carilestoittropmalade	car il estoit trop malade
+Charles,etc.Savoirfaisonsàtous	Charles , etc . Savoir faisons à tous
+tous,..presenset	tous , . . presens et
+avenir,ànousavoirestéexposédelapartie	avenir , à nous avoir esté exposé de la partie
+dePierreMayaque,le	de Pierre Maya que , le
+vendrediavant	vendredi avant
+lafestedeNostreDameChandeleurderrenierementpassée,il	la feste de Nostre Dame Chandeleur derrenierement passée , il
+etaucunsautresen.sacompaigniesealerentesbatre	et aucuns autres en . sa compaignie se alerent esbatre
+chezleprieurde	chez le prieur de
+deChaveignesenPailliers,lequel	de Chaveignes en Pailliers , le quel
+leurfist	leur fist
+bonnechiereenlesfaisantboireetmengier,et	bonne chiere en les faisant boire et mengier , et
+etencefaisantouasseztostaprèsledit	et en ce faisant ou assez tost après le dit
+ditprieurpriaà.ThevetHebertin,l’un	dit prieur pria à . Thevet Hebertin , l ’ un
+desdizcompaignonsdudit	des diz compaignons du dit
+exposant,qu	exposant , qu
+qu’.ilalast	qu ’ . il alast
+alastdonnerunebuffeà	alast donner une buffe à
+JehanMeschin,demourantenla	Jehan Meschin , demourant en la
+parroisseduditlieude	parroisse du dit lieu de
+deChaveignes,lequel.luirespondiquesi	de Chaveignes , lequel . lui respondi que si
+feroit,maisqu’ill’	feroit , mais qu ’ il l ’
+enpaiast,etfinablementpourlasommede	en paiast , et finablement pour la somme de
+dedeuxescuzd’orque	de deux escuz d ’ or que
+queleditprieurbaillaaudit..Herbertin,	que le dit prieur bailla au dit . . Herbertin ,
+,icelluiHerbertinpromistd’alerdonner	, icellui Herbertin promist d ’ aler donner
+donnerladictebuffeaudit	donner la dicte buffe au dit
+Meschin.Et	Meschin . Et
+aprèsce,distauditexposantetàGeuffroy	après ce , dist au dit exposant et à Geuffroy
+GeuffroydeCorcelles,l’undesdizcompaignons	Geuffroy de Corcelles , l ’ un des diz compaignons
+,qu’ilzvousissentaleravecluipour	, qu ’ ilz vousissent aler avec lui pour
+donnerladicte.buffe,et	donner la dicte . buffe , et
+etilzauroientleurpartdesdizdeuxescuz;lesquelx	et ilz auroient leur part des diz deux escuz ; lesquelx
+lesquelxavecleditHerbertinsemisdrentàchemin	lesquelx avec le dit Herbertin se misdrent à chemin
+pourcefaire,etdenuitarriverentàl	pour ce faire , et de nuit arriverent à l
+’osteldeJehanDousset,dela	’ ostel de Jehan Dousset , de la
+ladicteparroisse	la dicte parroisse
+deChaveignes,cuidansque..	de Chaveignes , cuidans que . .
+ce.feustl’ostelduditMeschinet	ce . feust l ’ ostel du dit Meschin et
+etentrerentenicelluihostel,oùilztrouverentle	et entrerent en icellui hostel , où ilz trouverent le
+leditDoussetcouchiéaufeumaladede	le dit Dousset couchié au feu malade de
+defievres.	de fievres .
+.Auquelleditexposant,cuidant	. Auquel le dit exposant , cuidant
+cuidantdeluiquecefeustleditMeschin	cuidant de lui que ce feust le dit Meschin
+,distqu’il	, dist qu ’ il
+ilselevastetqu’il	il se levast et qu ’ il
+illuialastmonstrerlecheminpouraleraudit	il lui alast monstrer le chemin pour aler au dit
+lieudeChaveignes,lequelDoussetluirespondi	lieu de Chaveignes , lequel Dousset lui respondi
+respondiquenonferoitetqu’il	respondi que non feroit et qu ’ il
+nepourroitaler,carilestoittropmalade	ne pourroit aler , car il estoit trop malade
 .Lorsleditexposantluidist	. Lors le dit exposant lui dist
-quesiferoitvrayement,eteurentsurce	que si feroit vrayement , et eurent sur ce
-parolescontencieusesensemble,desquellesleditexposantfut	paroles contencieuses ensemble , desquelles le dit exposant fut
-esmeuetfrappadeuxcopsduplatdesonespée	esmeu et frappa deux cops du plat de son espée
-leditDousset,l’unsurla	le dit Dousset , l ’ un sur la
-testeetl’autresur	teste et l ’ autre sur
-lesespaules,	les espaules ,
-sanscequ’ilyeustplaienesang	sans ce qu ’ il y eust plaie ne sang
-sangenaucunemaniere,nequ’ilyparust	sang en aucune maniere , ne qu ’ il y parust
-aucuncop.Depuis	aucun cop . Depuis
-laquellechose,leditDousseta	laquelle chose , le dit Dousset a
-vesquunmoys	vesqu un moys
-etdeuxjours	et deux jours
-,etfaitbesongneàsesouvragesplusde	, et fait besongne à ses ouvrages plus de
-xii.jours,etaléàlamessechascun	xii . jours , et alé à la messe chascun
-chascundymenche,.aussi	chascun dymenche , . aussi
-biencomme..ilfaisoitparavant,etdepuisce	bien comme . . il faisoit paravant , et depuis ce
-estallédevieàtrespassement;et	est allé de vie à trespassement ; et
-quepourla	que pour la
-souspeçonqueonaeue	souspeçon que on a eue
-eueetacontreleditexposantqu	eue et a contre le dit exposant qu
-’ilsoit	’ il soit
-soitcausedela..mortdudit	soit cause de la . . mort du dit
-Doussetpourlesdizdeuxcops,icellui	Dousset pour les diz deux cops , icellui
-exposantaestéprinsetmisèsprisons	exposant a esté prins et mis ès prisons
-àMontagu,etyestdetenuprisonnier	à Montagu , et y est detenu prisonnier
-.Etsedoubtequepour	. Et se doubte que pour
-pourcausedeceonvueilleproceder	pour cause de ce on vueille proceder
-contrelui	contre lui
-rigoreusement,	rigoreusement ,
-,dont..ilseroitenadventure	, dont . . il seroit en adventure
-d’estre	d ’ estre
-gastéouaffolédesoncorpsàtousjours,	gasté ou affolé de son corps à tousjours ,
-separnousneluiestoit	se par nous ne lui estoit
-sur.cepourveu	sur . ce pourveu
-denostregrace,sicommeildit	de nostre grace , si comme il dit
-,ennoussuppliant	, en nous suppliant
-humblementque	humblement que
-,attendu	, attendu
-cequeditestet	ce que dit est et
-etqueil,qui	et que il , qui
-quiestde	qui est de
-del’aagedetrenteansouenviron,	de l ’ aage de trente ans ou environ ,
-aestéetestentousautrescasdebonne	a esté et est en tous autres cas de bonne
-bonnevieet	bonne vie et
-etrenommée,sans	et renommée , sans
-sansavoiresté	sans avoir esté
-estéconvaincuneactaintd’aucun	esté convaincu ne actaint d ’ aucun
+distquesi	dist que si
+feroit..vrayement,eteurentsurce	feroit . . vrayement , et eurent sur ce
+parolescontencieuses	paroles contencieuses
+ensemble,desquellesleditexposant.futesmeuet	ensemble , desquelles le dit exposant . fut esmeu et
+etfrappadeuxcopsdu..platdeson	et frappa deux cops du . . plat de son
+sonespéeleditDousset,	son espée le dit Dousset ,
+l’unsurlateste.et	l ’ un sur la teste . et
+l’autresurlesespaules,sanscequ	l ’ autre sur les espaules , sans ce qu
+’ilyeust	’ il y eust
+plaienesang..	plaie ne sang . .
+enaucunemaniere	en aucune maniere
+,nequ’ilyparustaucun	, ne qu ’ il y parust aucun
+cop.Depuis	cop . Depuis
+laquellechose,le	laquelle chose , le
+leditDoussetavesquunmoyset	le dit Dousset a vesqu un moys et
+deuxjours,etfaitbesongneàsesouvragesplus	deux jours , et fait besongne à ses ouvrages plus
+dexii.jours,et	de xii . jours , et
+aléàlamessechascundymenche	alé à la messe chascun dymenche
+,aussibiencommeilfaisoitparavant	, aussi bien comme il faisoit paravant
+,etdepuisceestallédevieà	, et depuis ce est allé de vie à
+trespassement;etquepour	trespassement ; et que pour
+la.souspeçon	la . souspeçon
+queonaeue.	que on a eue .
+etacontreleditexposant..	et a contre le dit exposant . .
+..qu’ilsoitcausedelamortdudit	. . qu ’ il soit cause de la mort du dit
+ditDoussetpourlesdizdeuxcops,icellui	dit Dousset pour les diz deux cops , icellui
+icelluiexposanta	icellui exposant a
+estéprinset	esté prins et
+misèsprisonsàMontagu,etyestdetenu	mis ès prisons à Montagu , et y est detenu
+prisonnier.Etse	prisonnier . Et se
+doubteque	doubte que
+pourcausedece.onvueilleprocedercontre	pour cause de ce . on vueille proceder contre
+luirigoreusement	lui rigoreusement
+rigoreusement,dontil.seroiten	rigoreusement , dont il . seroit en
+adventured’estregastéouaffolédeson	adventure d ’ estre gasté ou affolé de son
+corpsàtousjours,separ..nousnelui	corps à tousjours , se par . . nous ne lui
+estoitsurcepourveudenostregrace,si	estoit sur ce pourveu de nostre grace , si
+sicommeildit,ennoussupplianthumblementque,	si comme il dit , en nous suppliant humblement que ,
+attenduce	attendu ce
+que.ditest	que . dit est
+etqueil,quiestdel’aage	et que il , qui est de l ’ aage
+detrenteansouenviron,	de trente ans ou environ ,
+aestéetestentousautres	a esté et est en tous autres
+casdebonnevie	cas de bonne vie
+et.renommée,	et . renommée ,
+sansavoirestéconvaincuneactaintd’aucun	sans avoir esté convaincu ne actaint d ’ aucun
 mauvaizcas,nousluivueillonssurceimpartir	mauvaiz cas , nous lui vueillons sur ce impartir
-nostredictegrace.Nous,inclinansàsasupplicacion	nostre dicte grace . Nous , inclinans à sa supplicacion
-,voulanspitiéetmisericordeestrepreferezàrigueur	, voulans pitié et misericorde estre preferez à rigueur
-dejustice,	de justice ,
-auditexposant..oucas	au dit exposant . . ou cas
-dessusditavonsquicté,remisetpardonné	dessus dit avons quicté , remis et pardonné
-pardonné,etc.Sidonnonsenmandementauseneschal	pardonné , etc . Si donnons en mandement au seneschal
-dePoitouetàtousnozautresjusticiers,etc	de Poitou et à tous noz autres justiciers , etc
-etc.DonnéàParis,oumoysd’avril	etc . Donné à Paris , ou moys d ’ avril
-l’an.degrace	l ’ an . de grace
-milcccc.etdouzeaprèsPasques,etde	mil cccc . et douze après Pasques , et de
-nostreregnelexxxiie.Par	nostre regne le xxxiie . Par
-leroy.Milet.	le roy . Milet .
+impartirnostredictegrace.	impartir nostre dicte grace .
+Nous,inclinansàsa.	Nous , inclinans à sa .
+supplicacion,voulanspitiéet	supplicacion , voulans pitié et
+etmisericordeestrepreferezàrigueurde	et misericorde estre preferez à rigueur de
+justice,	justice ,
+auditexposantoucasdessusdit	au dit exposant ou cas dessus dit
+avonsquicté,remisetpardonné,etc	avons quicté , remis et pardonné , etc
+etc.SidonnonsenmandementauseneschaldePoitou	etc . Si donnons en mandement au seneschal de Poitou
+etàtousnozautresjusticiers	et à tous noz autres justiciers
+,etc..Donnéà	, etc . . Donné à
+Paris,ou	Paris , ou
+oumoysd’avril..	ou moys d ’ avril . .
+l’andegracemilcccc.etdouze	l ’ an de grace mil cccc . et douze
+aprèsPasques,et	après Pasques , et
+etdenostreregnelexxxiie.Parleroy.	et de nostre regne le xxxiie . Par le roy .

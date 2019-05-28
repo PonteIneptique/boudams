@@ -1,69 +1,70 @@
-Charles,parlagrace	Charles , par la grace
-gracedeDieuroydeFrance.	grace de Dieu roy de France .
-.Savoirfaisonsà	. Savoir faisons à
-tous,presens	tous , presens
-presensetavenir,nousavoirreceuel'umblesupplicacion	presens et avenir , nous avoir receue l ' umble supplicacion
-dePierreMaigneau,filzde	de Pierre Maigneau , filz de
-MauriceMaigneauet.	Maurice Maigneau et .
-.deParnelleCourrionne,safemme,	. de Parnelle Courrionne , sa femme ,
-,contenantque,environlafestesaint	, contenant que , environ la feste saint
-saintJehanBaptistemilcccc.cinquante	saint Jehan Baptiste mil cccc . cinquante
-cinquantedeux,leditsuppliantquiestoiten	cinquante deux , ledit suppliant qui estoit en
-l'osteldesesdizpèreet	l ' ostelde ses diz père et
-mère,..printung	mère , . . print ung
-ung..arcenson	ung . . arc en son
-poingetcertainnombredeflèches,pouraler	poing et certain nombre de flèches , pour aler
-tirerets'esbatre,ainsiqu	tirer et s ' esbatre , ainsi qu
-'ilavoit	' il avoit
-avoitacoustumédefaireetfaisoitsouvent.Etluy	avoit acoustumé de faire et faisoit souvent . Et luy
-luyestanthorsdudithostel	luy estant hors dudit hostel
-hostel,commençaàtirercontre.ungfumierquiestoit	hostel , commença à tirer contre . ung fumier qui estoit
-estoitilec.près,etainsiqu	estoit ilec . près , et ainsi qu
-'iltiroit,ungnomméSimonMesnaigierquiestoit.	' il tiroit , ung nommé Simon Mesnaigier qui estoit .
-.derrièreleditfumier,	. derrière ledit fumier ,
-,etlequelicelluisuppliantneveoitpointetne	, et lequel icellui suppliant ne veoit point et ne
-l'avoitaucunementapperceu..,	l ' avoit aucunement apperceu . . ,
-selevadederrièreledit	se leva de derrière ledit
-fumier,eticelluy.suppliantle	fumier , et icelluy . suppliant le
-frappade	frappa de
-delaflèchequ'ilavoittiréeparle	de la flèche qu ' il avoit tirée par le
-lefrontettellementleblaissa.	le front et tellement le blaissa .
-queparle	que par le
-moyendeceouautrement	moyen de ce ou autrement
-,parfaultedegouvernementhuitjours	, par faulte de gouvernement huit jours
-aprèsouenvi-	après ou envi -
-ron,ilaladevie.àtrespassement	ron , il ala de vie . à trespassement
-.Al'occasionduquelcasainsi	. A l ' occasion duquel cas ainsi
-avenuqueditest,leditsuppliantdoubtantrigueur	avenu que dit est , ledit suppliant doubtant rigueur
-dejustice,s'est.absentédupaïs,	de justice , s ' est . absenté du païs ,
-etn'yoseroitjamaisretourner,	et n ' y oseroit jamais retourner ,
-senozgraceetmisericordeneluyestoient	se noz grace et misericorde ne luy estoient
-surceimparties	sur ce imparties
-,ainsiqu	, ainsi qu
-'il.nousafaitdire	' il . nous a fait dire
-etremonstrer,ennoushumblementrequerantque	et remonstrer , en nous humblement requerant que
-,attenduqueleditcas.estavenud'	, attendu que ledit cas . est avenu d '
-aventure..etqueentousautresleditsuppliants	aventure . . et que en tous autres ledit suppliant s
-'estbienetdoulcement..	' est bien et doulcement . .
-gouverné,sansavoir	gouverné , sans avoir
-avoirfaitoucommisneestéactaintouconvaincud	avoir fait ou commis ne esté actaint ou convaincu d
-'aucunautrevillaincas,blasme	' aucun autre villain cas , blasme
-oureprouche,ilnousplaisenosdictesgraceetmisericorde	ou reprouche , il nous plaise nosdictes grace et misericorde
-luyimpartir.Pourquoynous,leschosesdessusdictes	luy impartir . Pourquoy nous , les choses dessus dictes
-dictesconsiderées,voulans	dictes considerées , voulans
-misericordeestrepreferéeàrigueurde	misericorde estre preferée à rigueur de
-justice,auditsuppliant	justice , audit suppliant
-oucasdessusditavonsquicté,remiset	ou cas dessusdit avons quicté , remis et
-pardonné,etc.Sidonnonsen	pardonné , etc . Si donnons en
-mandement,parcesmesmespresentes,ànostreseneschal	mandement , par ces mesmes presentes , à nostre seneschal
-seneschaldePoictouetàtous	seneschal de Poictou et à tous
-tousnozautresjusticiers,etc	tous noz autres justiciers , etc
-.Donnéà..Bourbon,oumoisdeseptembrel	. Donné à . . Bourbon , ou mois de septembre l
-l'andegracemilcccc.cinquantesept,	l ' an de grace mil cccc . cinquante sept ,
-etdenostrerègnelexxxve.Ainsisigné	et de nostre règne le xxxve . Ainsi signé
-signé:Parleroy,	signé : Par le roy ,
-àlarelacionduconseil	à la relacion du conseil
-.Daniel...—	. Daniel . . .—
-.—Visa.	.— Visa .
-Contentor.J	Contentor . J
-.DuBan.	. Du Ban .
+Charles,parlagracedeDieuroy	Charles , par la grace de Dieu roy
+deFrance.Savoirfaisonsàtous,presens	de France . Savoir faisons à tous , presens
+presensetavenir,	presens et avenir ,
+,nousavoir	, nous avoir
+receuel'umblesupplicaciondePierreMaigneau,filz	receue l ' umble supplicacion de Pierre Maigneau , filz
+filzdeMauriceMaigneauetdeParnelleCourrionne,	filz de Maurice Maigneau et de Parnelle Courrionne ,
+,safemme,contenant	, sa femme , contenant
+contenantque,environ	contenant que , environ
+lafestesaint	la feste saint
+JehanBaptistemilcccc.cinquante	Jehan Baptiste mil cccc . cinquante
+deux,ledit	deux , ledit
+suppliantquiestoitenl	suppliant qui estoit en l
+'osteldesesdizpèreetmère	' ostelde ses diz père et mère
+mère,print	mère , print
+printungarcensonpoingetcertainnombredeflèches	print ung arc en son poing et certain nombre de flèches
+,pouralertirerets'esbatre,	, pour aler tirer et s ' esbatre ,
+ainsiqu'ilavoitacoustumé	ainsi qu ' il avoit acoustumé
+acoustumédefaireet..faisoit	acoustumé de faire et . . faisoit
+faisoitsouvent.Etluyestanthors	faisoit souvent . Et luy estant hors
+horsdudithostel,commençaàtirer	hors dudit hostel , commença à tirer
+contreungfumier..quiestoit	contre ung fumier . . qui estoit
+ilecprès,etainsi	ilec près , et ainsi
+qu'iltiroit	qu ' il tiroit
+,ungnommé	, ung nommé
+SimonMesnaigierquiestoitderrièreleditfumier	Simon Mesnaigier qui estoit derrière ledit fumier
+fumier,etlequelicelluisuppliantneveoitpointetne	fumier , et lequel icellui suppliant ne veoit point et ne
+l'avoitaucunement	l ' avoit aucunement
+apperceu,selevadederrièreledit..fumier	apperceu , se leva de derrière ledit . . fumier
+,eticelluysuppliant..lefrappa	, et icelluy suppliant . . le frappa
+frappadelaflèche..qu'il	frappa de la flèche . . qu ' il
+avoittirée	avoit tirée
+parlefront	par le front
+ettellementleblaissaqueparle	et tellement le blaissa que par le
+lemoyendeceouautrement,parfaulte	le moyen de ce ou autrement , par faulte
+de..gouvernementhuitjours	de . . gouvernement huit jours
+aprèsouenvi-ron,ilalade	après ou envi - ron , il ala de
+vieàtrespassement	vie à trespassement
+.Al'occasion	. A l ' occasion
+duquelcas	duquel cas
+ainsiavenuqueditest,leditsuppliantdoubtant	ainsi avenu que dit est , ledit suppliant doubtant
+rigueurdejustice,s'estabsentédupaïs	rigueur de justice , s ' est absenté du païs
+païs,etn'	païs , et n '
+'yoseroit.jamais	' y oseroit . jamais
+jamaisretourner,senozgraceetmisericordeneluyestoient	jamais retourner , se noz grace et misericorde ne luy estoient
+surceimparties,ainsiqu'ilnousa	sur ce imparties , ainsi qu ' il nous a
+afaitdireetremonstrer	a fait dire et remonstrer
+,ennoushumblementrequerantque	, en nous humblement requerant que
+,attenduqueleditcasest	, attendu que ledit cas est
+avenud'aventureetqueen	avenu d ' aventure et que en
+entousautresleditsuppliants'est	en tous autres ledit suppliant s ' est
+bienetdoulcement..gouverné,sansavoirfait	bien et doulcement . . gouverné , sans avoir fait
+oucommis	ou commis
+neestéactaintouconvaincud'aucun	ne esté actaint ou convaincu d ' aucun
+aucunautrevillaincas,blasmeoureprouche,ilnous	aucun autre villain cas , blasme ou reprouche , il nous
+nousplaisenosdictesgraceetmisericordeluy	nous plaise nosdictes grace et misericorde luy
+luyimpartir.Pourquoy	luy impartir . Pourquoy
+nous,leschosesdessusdictesconsiderées,	nous , les choses dessus dictes considerées ,
+,..voulansmisericordeestrepreferéeàrigueur	, . . voulans misericorde estre preferée à rigueur
+dejustice,audit.suppliantoucasdessusditavons	de justice , audit . suppliant ou cas dessusdit avons
+quicté,remis..et	quicté , remis . . et
+etpardonné,etc.Sidonnonsen.mandement,par	et pardonné , etc . Si donnons en . mandement , par
+cesmesmespresentes,ànostreseneschal	ces mesmes presentes , à nostre seneschal
+dePoictouetàtousnozautresjusticiers	de Poictou et à tous noz autres justiciers
+,etc.DonnéàBourbon,oumoisde	, etc . Donné à Bourbon , ou mois de
+septembrel'	septembre l '
+andegracemilcccc.cinquantesept	an de grace mil cccc . cinquante sept
+sept,etdenostrerègnelexxxve.	sept , et de nostre règne le xxxve .
+Ainsisigné:Parleroy,àlarelacion	Ainsi signé : Par le roy , à la relacion
+duconseil.Daniel.—Visa.Contentor...	du conseil . Daniel .— Visa . Contentor . . .
+J.DuBan.	J . Du Ban .

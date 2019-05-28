@@ -1,56 +1,52 @@
 Charles,etc.Savoir	Charles , etc . Savoir
-Savoirfaisonsàtous,	Savoir faisons à tous ,
-presensetavenir,nous	presens et avenir , nous
-nousavoirreceue	nous avoir receue
-l’umble	l ’ umble
+faisonsàtous,presensetavenir	faisons à tous , presens et avenir
+avenir,nousavoir..receue	avenir , nous avoir . . receue
+l.’umble	l . ’ umble
 umblesupplicaciondesamischarnelzdeOsanneDurande	umble supplicacion des amis charnelz de Osanne Durande
-,femmede	, femme de
-JehanGarnereau,	Jehan Garnereau ,
-d’AspremontenPoictou,contenantcomme,ou	d ’ Aspremont en Poictou , contenant comme , ou
-moisdefevrierderrenierpassé,àheuredemidi	mois de fevrier derrenier passé , à heure de midi
-ouenviron,	ou environ ,
-elleeustlaissiéensa	elle eust laissié en sa
-samaisonàunbancouformeune	sa maison à un banc ou forme une
-unesiennepetitefilledel’aaged’	une sienne petite fille de l ’ aage d ’
-unanetdemiouenviron	un an et demi ou environ
-environ,etilsoitainsique	environ , et il soit ainsi que
-queellerevenue,elletrouvasadictefille	que elle revenue , elle trouva sa dicte fille
-cheuteenlaplaceetde	cheute en la place et de
-desa.cheuteet	de sa . cheute et
-et..parforcedecrier	et . . par force de crier
-crieretpasmerouautrement,pardefaultdegarde	crier et pasmer ou autrement , par default de garde
-,aitestésigrevéedemal	, ait esté si grevée de mal
-qu’ellen’	qu ’ elle n ’
-’ycongnoissoit	’ y congnoissoit
-congnoissoitcommepointdevie,ettantostlaportaau	congnoissoit comme point de vie , et tantost la porta au
-feupourellechauferetlacuiderfairerevenir,	feu pour elle chaufer et la cuider faire revenir ,
-maisincontinent	mais incontinent
-elletrespassa..	elle trespassa . .
-entresesbraz	entre ses braz
-braz.Pourlequelcasladictemeres..’est	braz . Pour lequel cas la dicte mere s . . ’ est
-absentée,doubtantrigueurdejustice,	absentée , doubtant rigueur de justice ,
-,sicommeilzdient,	, si comme ilz dient ,
-ennoushumblementsuppliant	en nous humblement suppliant
-commeicellemere	comme icelle mere
-soitgrosseetsoit	soit grosse et soit
-ensesautresfaiset	en ses autres fais et
-gouvernementdebonnevieetrenommée,nonactaintene	gouvernement de bonne vie et renommée , non actainte ne
-convaincued’aucunvillain	convaincue d ’ aucun villain
-villainblasmeou..reprouche,nousluivueillionssurce	villain blasme ou . . reprouche , nous lui vueillions sur ce
-impartirnostregraceetmisericorde.Pourquoynous	impartir nostre grace et misericorde . Pour quoy nous
-nous,inclinansàsa.dictesupplicacion,	nous , inclinans à sa . dicte supplicacion ,
-voulansmisericordeprefereràrigueurdejustice	voulans misericorde preferer à rigueur de justice
-justice,àicelleOsanneDurandeavonsremis	justice , à icelle Osanne Durande avons remis
-,quictiéetpardonné,etc.	, quictié et pardonné , etc .
-Si.donnons	Si . donnons
-donnonsenmandementaubaillideTouraine	donnons en mandement au bailli de Touraine
-Touraineetdes	Touraine et des
-ressorsetExempcions	ressors et Exempcions
-Exempcionsd’Anjou..	Exempcions d ’ Anjou . .
-,duMaineetdePoictouetà	, du Maine et de Poictou et à
-touznozautresjusticiers	touz noz autres justiciers
-justiciers,etc.DonnéàParis,oumoisde	justiciers , etc . Donné à Paris , ou mois de
-juingl’ande.gracemilcccc.	juing l ’ an de . grace mil cccc .
-.ettrezeetdenostreregnelexxxiiime.Par	. et treze et de nostre regne le xxxiiime . Par
-leroy,àla.relacionduconseil.	le roy , à la . relacion du conseil .
-S.Coingnet.	S . Coingnet .
+,femmedeJehanGarnereau,d	, femme de Jehan Garnereau , d
+d’AspremontenPoictou,contenantcomme,oumois	d ’ Aspremont en Poictou , contenant comme , ou mois
+defevrierderrenierpassé.,àheure	de fevrier derrenier passé . , à heure
+demidiouenviron,elleeust	de midi ou environ , elle eust
+laissiéensamaisonà	laissié en sa maison à
+àunbancouformeunesiennepetitefille	à un banc ou forme une sienne petite fille
+del’aage	de l ’ aage
+d’unanetdemiouenviron,	d ’ un an et demi ou environ ,
+,etilsoit.	, et il soit .
+.ainsiqueellerevenue,elletrouvasa	. ainsi que elle revenue , elle trouva sa
+dictefillecheuteenlaplaceet	dicte fille cheute en la place et
+etdesacheuteetparforcede.crieret	et de sa cheute et par force de . crier et
+pasmerouautrement,pardefaultdegarde	pasmer ou autrement , par default de garde
+,aitesté	, ait esté
+sigrevéedemalqu	si grevée de mal qu
+qu’ellen’ycongnoissoitcomme	qu ’ elle n ’ y congnoissoit comme
+pointdevie,ettantost.laportaau	point de vie , et tantost . la porta au
+aufeupour.elle	au feu pour . elle
+chaufer.etlacuiderfaire	chaufer . et la cuider faire
+revenir,maisincontinentelle	revenir , mais incontinent elle
+trespassaentresesbraz.Pourlequelcas	trespassa entre ses braz . Pour lequel cas
+ladictemeres’est	la dicte mere s ’ est
+estabsentée,doubtantrigueur	est absentée , doubtant rigueur
+dejustice,sicommeilzdient	de justice , si comme ilz dient
+,ennous.	, en nous .
+humblementsuppliantcommeicellemeresoitgrosseetsoiten	humblement suppliant comme icelle mere soit grosse et soit en
+ensesautresfaisetgouvernementdebonnevieet	en ses autres fais et gouvernement de bonne vie et
+etrenommée,nonactaintene	et renommée , non actainte ne
+convaincued’aucun.	convaincue d ’ aucun .
+villainblasmeoureprouche,nousluivueillionssur	villain blasme ou reprouche , nous lui vueillions sur
+ceimpartirnostregraceet	ce impartir nostre grace et
+misericorde.Pourquoynous,inclinansàsa	misericorde . Pour quoy nous , inclinans à sa
+sadictesupplicacion,voulansmisericorde	sa dicte supplicacion , voulans misericorde
+prefereràrigueurdejustice,àicelleOsanneDurande	preferer à rigueur de justice , à icelle Osanne Durande
+Durandeavonsremis,quictiéetpardonné	Durande avons remis , quictié et pardonné
+,etc.Si	, etc . Si
+Si..donnonsenmandementaubaillideTouraine	Si . . donnons en mandement au bailli de Touraine
+Touraineetdes.	Touraine et des .
+ressorsetExempcionsd’Anjou,.duMaine	ressors et Exempcions d ’ Anjou , . du Maine
+Maine.etdePoictouetàtouznozautres	Maine . et de Poictou et à touz noz autres
+justiciers,etc.	justiciers , etc .
+DonnéàParis,oumoisdejuingl’	Donné à Paris , ou mois de juing l ’
+andegracemilcccc.ettreze	an de grace mil cccc . et treze
+trezeetdenostreregnele	treze et de nostre regne le
+xxxiiime.Par	xxxiiime . Par
+Parleroy,à..la	Par le roy , à . . la
+relacionduconseil.S.Coingnet	relacion du conseil . S . Coingnet

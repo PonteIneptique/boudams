@@ -1,213 +1,204 @@
-Charles,etc.	Charles , etc .
-.Savoirfaisonsàtous	. Savoir faisons à tous
-,presensetavenir	, presens et avenir
-avenir,delapartiedesamizcharnelzdeJehanGermain	avenir , de la partie des amiz charnelz de Jehan Germain
-,ditRenoul,povrehomme,parroissiendeSaint	, dit Renoul , povre homme , parroissien de Saint
-SaintPereduChemin	Saint Pere du Chemin
-oupaïsde	ou païs de
-Poitou,ànousavoirhumblement	Poitou , à nous avoir humblement
-humblementestéexposéquecomme	humblement esté exposé que comme
-,laveillesaint	, la veille saint
-saintEstiennederrenierementpassée	saint Estienne derrenierement passée
-passée,ilfeustenladictevilledu	passée , il feust en la dicte ville du
-Chemin,etenvenantdel'eglised	Chemin , et en venant de l ' eglise d
-'icellevilleàl'ostelGuillaumeMudart,	' icelle ville à l ' ostel Guillaume Mudart ,
-ouquelestoientGuillaumeNohet	ou quel estoient Guillaume Nohet
-etEstienneMerceron,..prestres,	et Estienne Merceron , . . prestres ,
-lesquelxavoientfaitbatonspourbatre	les quelx avoient fait batons pour batre
-batreleditGermainet.	batre le dit Germain et .
-.JehanVergier	. Jehan Vergier
-Vergier..,sonfrere	Vergier . . , son frere
-,dontilzseventoientoudit	, dont ilz se ventoient ou dit
-hostel,disansl'unàl	hostel , disans l ' un à l
-'autre:«Ilzlecomparront,les	' autre :« Ilz le comparront , les
-ribaux!»leditMerceron,monstrantledit	ribaux !» le dit Merceron , monstrant le dit
-bastonendisanttellesparoles:«Au	baston en disant telles paroles :« Au
-Aumoins,	Au moins ,
-sejepuis	se je puis
-attaindredecebaston,il	attaindre de ce baston , il
-nemengera	ne mengera
-jamaizdepain»,ilencontraleditNohet	jamaiz de pain », il encontra le dit Nohet
-,lequelyssy	, lequel yssy
-horsdudithostelMudart,et	hors du dit hostel Mudart , et
-distauditGermain:«Estez	dist au dit Germain :« Estez
-vousceribaut	vous ce ribaut
-ribautquiavoitfaitraliancede	ribaut qui avoit fait raliance de
-batrelesprestresduChemin?»A	batre les prestres du Chemin ?» A
-AquoyicelluiGermaindist	A quoy icellui Germain dist
-que.,sauve	que . , sauve
-sauvesagrace..,iln'en	sauve sa grace . . , il n ' en
-estoitriens.En	estoit riens . En
-disantlesquellesparoles,ledit	disant les quelles paroles , le dit
-EstienneMerceronseurvintetdistauditGermainqueil	Estienne Merceron seurvint et dist au dit Germain que il
-avoitfaitla..dicteralianceetqueparlesanc	avoit fait la . . dicte raliance et que par le sanc
-Dieuilmourroit.Ettenoitledit	Dieu il mourroit . Et tenoit le dit
-Nohetensesmainsunbastonetun	Nohet en ses mains un baston et un
-badelaire,duquel	badelaire , du quel
-quelleditNohet,parlecommandementduditMerceron	quel le dit Nohet , par le commandement dudit Merceron
-ouautrementfrappaleditGermainenl	ou autrement frappa le dit Germain en l
-l'espauleparderriereet	l ' espaule par derriere et
-ettantquelesancen	et tant que le sanc en
-saillyjusques.aux	sailly jusques . aux
-piez.Aquoyvint	piez . A quoy vint
-vintunefemmeappelléeJehanne,suer	vint une femme appellée Jehanne , suer
-duditGermain	du dit Germain
-etfemmedu..dit	et femme du . . dit
-ditVergier,voulantdesonpovoirmettrelarioteà	dit Vergier , voulant de son povoir mettre la riote à
-paix;mais	paix ; mais
-maistantostle.ditNohetlagectaàterre,	mais tantost le . dit Nohet la gecta à terre ,
-eten..cefaisantleditMercerongectoitpluseurspierres	et en . . ce faisant le dit Merceron gectoit pluseurs pierres
+Charles,etc.Savoirfaisonsàtous,presens	Charles , etc . Savoir faisons à tous , presens
+etavenir,delapartiedes	et avenir , de la partie des
+amiz.charnelzdeJehanGermain,dit	amiz . charnelz de Jehan Germain , dit
+ditRenoul,povrehomme,	dit Renoul , povre homme ,
+parroissiendeSaintPere	parroissien de Saint Pere
+duCheminoupaïsdePoitou,ànousavoir	du Chemin ou païs de Poitou , à nous avoir
+humblementestéexposé.quecomme,la	humblement esté exposé . que comme , la
+veillesaintEstiennederrenierement	veille saint Estienne derrenierement
+passée,il	passée , il
+ilfeustenladictevilleduChemin,	il feust en la dicte ville du Chemin ,
+etenvenantdel'.	et en venant de l ' .
+eglised'icelleville	eglise d ' icelle ville
+àl'.ostelGuillaumeMudart	à l ' . ostel Guillaume Mudart
+,ouquelestoient..GuillaumeNohet	, ou quel estoient . . Guillaume Nohet
+etEstienneMerceron,prestres,lesquelxavoient	et Estienne Merceron , prestres , les quelx avoient
+faitbatonspourbatreleditGermainetJehan	fait batons pour batre le dit Germain et Jehan
+Vergier,sonfrere,dontilz	Vergier , son frere , dont ilz
+seventoientoudithostel,disansl'	se ventoient ou dit hostel , disans l '
+unàl'autre:«Ilzlecomparront	un à l ' autre :« Ilz le comparront
+comparront,lesribaux..!»le	comparront , les ribaux . . !» le
+ditMerceron,monstrantle	dit Merceron , monstrant le
+ditbaston..	dit baston . .
+.endisanttelles	. en disant telles
+paroles:«..	paroles :« . .
+Aumoins,sejepuisattaindrede	Au moins , se je puis attaindre de
+cebaston,ilnemengerajamaizde	ce baston , il ne mengera jamaiz de
+depain»,ilencontraleditNohet	de pain », il encontra le dit Nohet
+,lequelyssy.horsdudit	, lequel yssy . hors du dit
+hostelMudart,etdistau	hostel Mudart , et dist au
+ditGermain:«Estezvousceribaut	dit Germain :« Estez vous ce ribaut
+quiavoitfaitraliancede	qui avoit fait raliance de
+batrelesprestres	batre les prestres
+duChemin	du Chemin
+?»AquoyicelluiGermaindist	?» A quoy icellui Germain dist
+que,sauvesagrace,	que , sauve sa grace ,
+iln'enestoitriens..	il n ' en estoit riens . .
+Endisantles	En disant les
+quellesparoles.	quelles paroles .
+,leditEstienneMerceronseurvintetdist	, le dit Estienne Merceron seurvint et dist
+distauditGermainqueilavoitfaitladicte	dist au dit Germain que il avoit fait la dicte
+dicteralianceetque.	dicte raliance et que .
+parlesancDieu..ilmourroit.	par le sanc Dieu . . il mourroit .
+.EttenoitleditNohetensesmainsunbaston	. Et tenoit le dit Nohet en ses mains un baston
+etunbadelaire	et un badelaire
+,duquelledit	, du quel le dit
+Nohet,par	Nohet , par
+lecommandementdudit	le commandement dudit
+duditMerceronouautrementfrappaledit	dudit Merceron ou autrement frappa le dit
+Germainenl'espauleparderriereet.tant	Germain en l ' espaule par derriere et . tant
+quelesanc	que le sanc
+ensaillyjusquesauxpiez.	en sailly jusques aux piez .
+.Aquoyvintune	. A quoy vint une
+unefemmeappelléeJehanne,suerduditGermainet	une femme appellée Jehanne , suer du dit Germain et
+femmeduditVergier,voulantde	femme du dit Vergier , voulant de
+sonpovoirmettre	son povoir mettre
+lariote	la riote
+àpaix;..mais	à paix ; . . mais
+tantostleditNohetlagecta	tantost le dit Nohet la gecta
+àterre,etence..faisantle	à terre , et en ce . . faisant le
+ditMercerongectoitpluseurs	dit Merceron gectoit pluseurs
 pierrescontreleditGermain.Laquelle	pierres contre le dit Germain . La quelle
-tansonpendant,unefemmeappelléeIlairealaà	tanson pendant , une femme appellée Ilaire ala à
-l'.ostel	l ' . ostel
-osteld'unappelleJehanJarrouceaul'aisné,	ostel d ' un appelle Jehan Jarrouceau l ' aisné ,
-ouestoitleditVergier,auquelelle	ou estoit le dit Vergier , au quel elle
-distceque	dist ce que
-ditest.	dit est .
-Lequel,pourosterleditdebat,ala	Le quel , pour oster le dit debat , ala
-alaauditlieuettrouvaleditGermainetles	ala au dit lieu et trouva le dit Germain et les
-dizNohetetMerceron,prestres,.	diz Nohet et Merceron , prestres , .
-.lesquelzprestresavoientoustélechapperondeladicte	. lesquelz prestres avoient ousté le chapperon de la dicte
-dicteJehanne,safemme,et	dicte Jehanne , sa femme , et
-etpourceicelluiVergier,meudenaturelleamour,	et pour ce icellui Vergier , meu de naturelle amour ,
-,distauditMercerons'ilestoitàlui	, dist au dit Merceron s ' il estoit à lui
-luidebatreetfairebatrelesgensouchemindu	lui de batre et faire batre les gens ou chemin du
-roy.AquoyleditMercerondist	roy . A quoy le dit Merceron dist
-:«Tudizvray	:« Tu diz vray
-,tuaurastantostcequetudemandes.»Et	, tu auras tantost ce que tu demandes .» Et
-aprèsce,entrerentles	après ce , entrerent les
-dizMerceron,Germainet..	diz Merceron , Germain et . .
-Vergierensemblechiezledit.	Vergier ensemble chiez le dit .
-Mudart,	Mudart ,
-,ouilzeurentpluseursparolesinjurieusesettant	, ou ilz eurent pluseurs paroles injurieuses et tant
-queleditMerceronmalvaisementesmeu,criantàhaulte	que le dit Merceron malvaisement esmeu , criant à haulte
-voix:«Tuymorras,	voix :« Tu y morras ,
-ribaut»,	ribaut »,
-frappaleditVergierparla	frappa le dit Vergier par la
-lapoitrinedupiéd'un	la poitrine du pié d ' un
-unbancou	un banc ou
-forme,etparmil..'espaule.Etlors	forme , et parmi l . . ' espaule . Et lors
-les.dizGermainetVergier,	les . diz Germain et Vergier ,
-eulxvoians	eulx voians
-injuriés,	injuriés ,
-voulansobvieràsamaliceet.repellerforceparforce	voulans obvier à sa malice et . repeller force par force
-,partemptaciondel'	, par temptacion de l '
-annemy,ferirentle	annemy , ferirent le
-leditMerceronuncopparmilatesteettroiscops	le dit Merceron un cop parmi la teste et trois cops
-dèslegenoulxd	dès le genoulx d
-'unejambejusques	' une jambe jusques
-jusquesàlachemise(sic	jusques à la chemise ( sic
-sic).Ettantostle	sic ). Et tantost le
-ledit.Merceronpartid'	le dit . Merceron parti d '
-ilecetens'.	ilec et en s ' .
-enalant	en alant
-àsamaison,pensant	à sa maison , pensant
-tousdizdevouloiroccirelesdizfreres,il	tousdiz de vouloir occire les diz freres , il
-trouvaunmonceaudeboisetd'	trouva un monceau de bois et d '
-icelluivoultarrachierunbaston,..crianttelzmoz:«	icellui voult arrachier un baston , . . criant telz moz :«
-Parlesanc	Par le sanc
-sancDieu,vousymourrez»,etensachantle	sanc Dieu , vous y mourrez », et en sachant le
-leditbaston,ilchey	le dit baston , il chey
-cheyenarriéré	chey en arriéré
-arriéréetdelatestetouchaàlaparois	arriéré et de la teste toucha à la parois
-delamaisonsonfrere,et	de la maison son frere , et
-ettantque	et tant que
-pourceilnese	pour ce il ne se
-peutleverdeterre	peut lever de terre
-,combienqu'ilalastpar	, combien qu ' il alast par
-avantlachoitecommeditest,etne	avant la choite comme dit est , et ne
-nevouloitsouffrirestrelevéde	ne vouloit souffrir estre levé de
-ladicteterre,et.tenoit	la dicte terre , et . tenoit
-tenoitpluseurspierresenson	tenoit pluseurs pierres en son
-sonsain,	son sain ,
-,disant:«Me..	, disant :« Me . .
-convientilmourir,malgréDieu»,ettantostala	convient il mourir , malgré Dieu », et tantost ala
-devieàtrespassement	de vie à trespassement
-.Pouroccasiondu	. Pour occasion du
-quel..faitleditGermain	quel . . fait le dit Germain
-,àl'instigacionetpourchaz	, à l ' instigacion et pourchaz
-duditNohetouautrement,	du dit Nohet ou autrement ,
-anagairesestéprinsetencoresest	a nagaires esté prins et encores est
-detenuprisonnierèsprisonsdenostreaméetfealcousin	detenu prisonnier ès prisons de nostre amé et feal cousin
-lesiredePartenay	le sire de Partenay
-ensonchasteldeVouvent,ouquel	en son chastel de Vouvent , ou quel
-quellieuilestetseroit..	quel lieu il est et seroit . .
-envoyedefinermiserablementsesjoursetd'	en voye de finer miserablement ses jours et d '
-estredu	estre du
-dutoutdesert	du tout desert
-etapovriz,separnousneluiestoitsur	et apovriz , se par nous ne lui estoit sur
-surceimpartienostre	sur ce impartie nostre
-graceetmisericorde.	grace et misericorde .
-Supplianshumblementlesdizexposansque,commeen	Supplians humblement les diz exposans que , comme en
-touzautrescasleditJehanGermain	touz autres cas ledit Jehan Germain
-sesoitbienetdeuementporté,sanzestrereprins	se soit bien et deuement porté , sanz estre reprins
-d'aucunviceoublasme,maisait	d ' aucun vice ou blasme , mais ait
-estéetsoithommedebonnefameetrenommée,	esté et soit homme de bonne fame et renommée ,
-bienaméaupaïs,etquele	bien amé au païs , et que le
-ditfeuEstienneMerceronestoithommedemalvaisevieet	dit feu Estienne Merceron estoit homme de malvaise vie et
-deshonneste,quiparmoultlongtemps..	deshonneste , qui par moult long temps . .
-amaintenuetmennéparlepaïslafemme	a maintenu et menné par le païs la femme
-JehanduBrueil,.eut	Jehan du Brueil , . eut
-eutdeluiquatreenfansouenviron,etfuacusé	eut de lui quatre enfans ou environ , et fu acusé
-acuséleditMercerond'avoirmurdry	acusé le dit Merceron d ' avoir murdry
-etoccis	et occis
-unappellé.Ogis	un appellé . Ogis
-etdelui.avoirostéet	et de lui . avoir osté et
-robéVIIfransetdemi,etgectason	robé VII frans et demi , et gecta son
-pereenfeuetlebati	pere en feu et le bati
-,etsamereparpluseursfoiz,et	, et sa mere par pluseurs foiz , et
-àPierresonfrererompydeuxcostesencorps,	à Pierre son frere rompy deux costes en corps ,
-etparses	et par ses
-sesdemeritesfumizenpluseursprisonsetsentencesd	ses demerites fu miz en pluseurs prisons et sentences d
-'excommenimens,nonobstantlesquelles	' excommenimens , non obstant les quelles
-ilatousjourscelebréen	il a tousjours celebré en
-saincteeglise;etaussiestoit	saincte eglise ; et aussi estoit
-estoitaccuséd'avoirrobéel'	estoit accusé d ' avoir robée l '
-eglisedu	eglise du
-ditlieuduChemindecalaice	dit lieu du Chemin de calaice
-etautresaournemens.,et	et autres aournemens . , et
-d'avoir	d ' avoir
-baptiséunvouisdecire	baptisé un vouis de cire
-,pouroccasion	, pour occasion
-duquelfaitle	du quel fait le
-siredela	sire de la
-laMaynardiereala,sicomme	la Maynardiere ala , si comme
-l.'endit,de	l . ' en dit , de
-vieàtrespassement;etavecceestoitgasteur	vie à trespassement ; et avec ce estoit gasteur
-etdissipeur	et dissipeur
-debiens.,	de biens . ,
-,grantplaideuret	, grant plaideur et
-vexeurdegens	vexeur de gens
-,pourteur	, pourteur
-desemoncessanzcause	de semonces sanz cause
-ettantqu'ilestoitmalveillantet.	et tant qu ' il estoit malveillant et .
-enhaynedetonssesparens	en hayne de tons ses parens
-et..voisins,	et . . voisins ,
-oudelaplusgrantpartied'	ou de la plus grant partie d '
-iceulx,et.avoit	iceulx , et . avoit
-avoitfaitpluseursautrescastrès..mauvaizàraconter;et	avoit fait pluseurs autres cas très . . mauvaiz à raconter ; et
-quedudit	que du dit
-casainsiavenu	cas ainsi avenu
-leditGermaina..	le dit Germain a . .
-estéet.est	esté et . est
-estmoultcourroucié,nous.surceluiveillons	est moult courroucié , nous . sur ce lui veillons
-impartirnostregrace.Pourquoynous,ceschoses	impartir nostre grace . Pour quoy nous , ces choses
-considerées,etc.,avons	considerées , etc ., avons
-oucasdessusdit,remiz,quictéetpardonné	ou cas dessus dit , remiz , quicté et pardonné
-,etc.,audit	, etc ., audit
-JehanGermain,ditRenoul	Jehan Germain , dit Renoul
-,etc.Sy	, etc . Sy
-Sydonnonsenmandementaubailli	Sy donnons en mandement au bailli
-baillideTouraine.et	bailli de Touraine . et
-desressorsetExempcionsd'Anjou,de	des ressors et Exempcions d ' Anjou , de
-dePoitouetduMaine,etàtouz	de Poitou et du Maine , et à touz
-nozautresjusticiers,etc	noz autres justiciers , etc
-.Donnéà	. Donné à
-Paris,ou	Paris , ou
-moisdemarsl'	mois de mars l '
-'andegrace	' an de grace
-gracemilCCCIIIIXX	grace mil CCC IIIIXX
-etXIIII,..avantPasques	et XIIII , . . avant Pasques
-,etdenostreregnelequinziesme.	, et de nostre regne le quinziesme .
-Parleroy,àlarelacionduconseil	Par le roy , à la relacion du conseil
-.Germanus	. Germanus
+quelletansonpendant,une	quelle tanson pendant , une
+femmeappelléeIlairealaàl'	femme appellée Ilaire ala à l '
+osteld'unappelleJehan	ostel d ' un appelle Jehan
+JehanJarrouceaul'aisné,ouestoitledit	Jehan Jarrouceau l ' aisné , ou estoit le dit
+Vergier,auquelelle	Vergier , au quel elle
+elledistcequeditest.Le.	elle dist ce que dit est . Le .
+.quel,pourosterle	. quel , pour oster le
+ditdebat,.alaauditlieu	dit debat , . ala au dit lieu
+ettrouva	et trouva
+ledit.GermainetlesdizNohetetMerceron,	le dit . Germain et les diz Nohet et Merceron ,
+prestres,lesquelzprestresavoientoustéle	prestres , lesquelz prestres avoient ousté le
+chapperonde	chapperon de
+deladicte	de la dicte
+Jehanne,safemme,et	Jehanne , sa femme , et
+pourceicellui..	pour ce icellui . .
+.Vergier,	. Vergier ,
+,meudenaturelleamour	, meu de naturelle amour
+,distauditMercerons	, dist au dit Merceron s
+'ilestoitàlui	' il estoit à lui
+debatreetfairebatrelesgensouchemin	de batre et faire batre les gens ou chemin
+cheminduroy.Aquoyledit	chemin du roy . A quoy le dit
+ditMercerondist:«Tudizvray,tuaurastantost	dit Merceron dist :« Tu diz vray , tu auras tantost
+cequetu	ce que tu
+demandes.»Etaprèsce,entrerentlesdizMerceron	demandes .» Et après ce , entrerent les diz Merceron
+,GermainetVergierensemble	, Germain et Vergier ensemble
+ensemblechiezle.dit	ensemble chiez le . dit
+Mudart,ouilzeurentpluseursparolesinjurieusesettant	Mudart , ou ilz eurent pluseurs paroles injurieuses et tant
+queleditMerceronmalvaisementesmeu,criant	que le dit Merceron malvaisement esmeu , criant
+àhaultevoix	à haulte voix
+voix:«Tuymorras,ribaut»,frappa	voix :« Tu y morras , ribaut », frappa
+ledit..Vergierparlapoitrinedu	le dit . . Vergier par la poitrine du
+piéd'unbancouforme,etparmi	pié d ' un banc ou forme , et parmi
+parmil'	parmi l '
+espaule.Etlorslesdiz	espaule . Et lors les diz
+GermainetVergier,eulxvoiansinjuriés,voulansobvier	Germain et Vergier , eulx voians injuriés , voulans obvier
+obvieràsamaliceetrepellerforceparforce,par	obvier à sa malice et repeller force par force , par
+temptacionde	temptacion de
+l'annemy,ferirentleditMerceronun	l ' annemy , ferirent le dit Merceron un
+copparmilatesteettroiscopsdès	cop parmi la teste et trois cops dès
+legenoulxd'unejambe..jusquesà	le genoulx d ' une jambe . . jusques à
+lachemise(	la chemise (
+sic).Ettantostledit	sic ). Et tantost le dit
+Merceronpartid'	Merceron parti d '
+ilecetens'	ilec et en s '
+'enalantàsamaison,	' en alant à sa maison ,
+,pensanttousdiz	, pensant tousdiz
+devouloiroccirelesdizfreres	de vouloir occire les diz freres
+,iltrouvaunmonceaude	, il trouva un monceau de
+boisetd'icelluivoultarrachierunbaston,	bois et d ' icellui voult arrachier un baston ,
+crianttelzmoz:«ParlesancDieu	criant telz moz :« Par le sanc Dieu
+,vousymourrez»,	, vous y mourrez »,
+etensachantleditbaston,ilcheyen	et en sachant le dit baston , il chey en
+arriéréetdela	arriéré et de la
+testetouchaàlaparoisdelamaisonsonfrere	teste toucha à la parois de la maison son frere
+,ettantquepource	, et tant que pour ce
+ilnesepeut	il ne se peut
+leverdeterre,combien	lever de terre , combien
+combienqu'il.alastparavantlachoitecommedit	combien qu ' il . alast par avant la choite comme dit
+est..,etnevouloitsouffrirestrelevédela	est . . , et ne vouloit souffrir estre levé de la
+dicteterre,	dicte terre ,
+ettenoit..pluseurspierresenson	et tenoit . . pluseurs pierres en son
+sain,disant	sain , disant
+:«Meconvientilmourir,.malgré	:« Me convient il mourir , . malgré
+Dieu»,ettantostaladevie	Dieu », et tantost ala de vie
+àtrespassement..	à trespassement . .
+Pouroccasiondu	Pour occasion du
+quelfaitleditGermain	quel fait le dit Germain
+Germain,àl'instigacionetpourchazduditNohet	Germain , à l ' instigacion et pourchaz du dit Nohet
+Nohetouautrement,a	Nohet ou autrement , a
+nagairesestéprinsetencoresestdetenuprisonnier	nagaires esté prins et encores est detenu prisonnier
+èsprisonsdenostre.améet	ès prisons de nostre . amé et
+fealcousin.	feal cousin .
+lesirede	le sire de
+dePartenayensonchasteldeVouvent	de Partenay en son chastel de Vouvent
+,.ouquellieuilestetseroit	, . ou quel lieu il est et seroit
+envoyedefinermiserablementsesjourset	en voye de finer miserablement ses jours et
+d'estre..dutoutdesertetapovriz	d ' estre . . du tout desert et apovriz
+,separnousneluiestoitsurceimpartie	, se par nous ne lui estoit sur ce impartie
+impartienostregraceetmisericorde.Supplianshumblementlesdiz	impartie nostre grace et misericorde . Supplians humblement les diz
+dizexposansque,commeentouz	diz exposans que , comme en touz
+touzautrescas..leditJehan	touz autres cas . . ledit Jehan
+JehanGermainsesoitbienetdeuement	Jehan Germain se soit bien et deuement
+deuementporté,sanzestrereprinsd'aucunviceou	deuement porté , sanz estre reprins d ' aucun vice ou
+blasme,mais..aitestéet	blasme , mais . . ait esté et
+soithommedebonne	soit homme de bonne
+fameetrenommée	fame et renommée
+,bienaméaupaïs,et	, bien amé au païs , et
+queledit	que le dit
+feuEstienne.	feu Estienne .
+.Merceronestoithommedemalvaisevieetdeshonneste	. Merceron estoit homme de malvaise vie et deshonneste
+,quiparmoultlongtempsamaintenu.et	, qui par moult long temps a maintenu . et
+mennéparlepaïslafemmeJehandu	menné par le païs la femme Jehan du
+Brueil,eutde	Brueil , eut de
+luiquatreenfansou	lui quatre enfans ou
+environ,etfu	environ , et fu
+fuacuséleditMercerond..'avoirmurdryetoccis	fu acusé le dit Merceron d . . ' avoir murdry et occis
+unappelléOgisetdelui	un appellé Ogis et de lui
+luiavoirostéetrobéVIIfranset	lui avoir osté et robé VII frans et
+demi,etgectasonpereen	demi , et gecta son pere en
+feuetlebati,etsamere	feu et le bati , et sa mere
+parpluseursfoiz	par pluseurs foiz
+,etàPierresonfrere	, et à Pierre son frere
+frererompydeuxcostesencorps,etpar	frere rompy deux costes en corps , et par
+parsesdemeritesfumizen	par ses demerites fu miz en
+pluseursprisonsetsentencesd..	pluseurs prisons et sentences d . .
+'excommenimens,nonobstantlesquellesil	' excommenimens , non obstant les quelles il
+atousjourscelebréensaincteeglise;	a tousjours celebré en saincte eglise ;
+etaussiestoitaccuséd'avoirrobéel'	et aussi estoit accusé d ' avoir robée l '
+'egliseduditlieuduChemindecalaiceet	' eglise du dit lieu du Chemin de calaice et
+autresaournemens,etd'	autres aournemens , et d '
+avoir.baptiséunvouisdecire,	avoir . baptisé un vouis de cire ,
+pouroccasion..duquelfaitlesiredelaMaynardiere	pour occasion . . du quel fait le sire de la Maynardiere
+ala,sicommel'en	ala , si comme l ' en
+endit,devieàtrespassement;et..avecce	en dit , de vie à trespassement ; et . . avec ce
+estoitgasteuretdissipeurdebiens,grantplaideuret	estoit gasteur et dissipeur de biens , grant plaideur et
+vexeurdegens,pourteurdesemoncessanzcauseet	vexeur de gens , pourteur de semonces sanz cause et
+tantqu'ilestoit.malveillanteten	tant qu ' il estoit . malveillant et en
+haynedetonssesparensetvoisins,	hayne de tons ses parens et voisins ,
+,oudela	, ou de la
+plusgrantpartied'iceulx,etavoitfait	plus grant partie d ' iceulx , et avoit fait
+pluseursautrescastrès	pluseurs autres cas très
+mauvaizàraconter;etquedudit.casainsi	mauvaiz à raconter ; et que du dit . cas ainsi
+ainsiavenuleditGermainaestéet	ainsi avenu le dit Germain a esté et
+etestmoultcourroucié,noussurceluiveillonsimpartir	et est moult courroucié , nous sur ce lui veillons impartir
+nostregrace.Pourquoynous,ces	nostre grace . Pour quoy nous , ces
+chosesconsiderées,	choses considerées ,
+etc.,avonsoucas	etc ., avons ou cas
+dessusdit,remiz,	dessus dit , remiz ,
+,quictéetpardonné	, quicté et pardonné
+,etc.,audit..JehanGermain,ditRenoul	, etc ., audit . . Jehan Germain , dit Renoul
+Renoul,etc.Sydonnonsenmandement	Renoul , etc . Sy donnons en mandement
+mandementaubaillide..	mandement au bailli de . .
+.TouraineetdesressorsetExempcions	. Touraine et des ressors et Exempcions
+Exempcionsd'Anjou..,	Exempcions d ' Anjou . . ,
+,dePoitou	, de Poitou
+etduMaine	et du Maine
+Maine,etàtouznoz..autresjusticiers,	Maine , et à touz noz . . autres justiciers ,
+etc.DonnéàParis,oumois	etc . Donné à Paris , ou mois
+demars.l'an	de mars . l ' an
+degracemilCCCIIIIXXet	de grace mil CCC IIIIXX et
+XIIII,avantPasques,etdenostreregnele	XIIII , avant Pasques , et de nostre regne le
+quinziesme.Parleroy,àlarelacion	quinziesme . Par le roy , à la relacion
+duconseil.Germanus.	du conseil . Germanus .

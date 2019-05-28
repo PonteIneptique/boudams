@@ -1,57 +1,54 @@
-Philippes,etc	Philippes , etc
-etc..Savoirfaisonsàtouz,presenzetavenir	etc . . Savoir faisons à touz , presenz et avenir
-,que,pour	, que , pour
-pourconsideraciondesbonsservicesquePhilippeduPelle,	pour consideracion des bons services que Philippe du Pelle ,
+Philippes,	Philippes ,
+,etc.Savoirfaisonsàtouz	, etc . Savoir faisons à touz
+touz,presenzetavenir,que,..	touz , presenz et avenir , que , . .
+.pourconsideraciondesbons	. pour consideracion des bons
+servicesquePhilippeduPelle,	services que Philippe du Pelle ,
 deLatilly,chevalier	de Latilly , chevalier
-chevalier,nousafaiz,tant	chevalier , nous a faiz , tant
-tantennozguerrescommeenlaseneschauciedePoitouet	tant en noz guerres comme en la seneschaucie de Poitou et
-etdeLymozin,enlacompaigniede	et de Lymozin , en la compaignie de
-nozamezetfeauz	noz amez et feauz
-PierredeRabastain,jadisseneschaldeladiteseneschaucie	Pierre de Rabastain , jadis seneschal de la dite seneschaucie
-,etdeJourdain	, et de Jourdain
-JourdaindeLoubert,à	Jourdain de Loubert , à
-présentseneschald'icelleseneschaucie,si	présent seneschal d ' icelle seneschaucie , si
-commeparleursraporsettesmoignages	comme par leurs rapors et tesmoignages
-tesmoignagesetautresdignesdefoynousa	tesmoignages et autres dignes de foy nous a
-apparu,nousauditPhilippe,pourli	apparu , nous au dit Philippe , pour li
-liet.pour	li et . pour
-seshoirsnez	ses hoirs nez
-etànestre	et à nestre
-nestre,de	nestre , de
-sonpropre.corps	son propre . corps
-engendrezenloyalmariage,avons	engendrez en loyal mariage , avons
-donnéetdonnons,	donné et donnons ,
-degraceespecial,àtouzjoursmais,pour	de grace especial , à touz jours mais , pour
-consideraciondesdizservices,vintlivrées	consideracion des diz services , vint livrées
-tournoisd'annuelleetperpetuellerenteen	tournois d ' annuelle et perpetuelle rente en
-deniersdecensetcoustumesque	deniers de cens et coustumes que
-nousavonsen	nous avons en
-enlaparroissede	en la parroisse de
-deLatillyetentour..Sidonnonsenmandementauseneschal	de Latilly et entour . . Si donnons en mandement au seneschal
-dePoitououàson	de Poitou ou à son
-lieutenantquelesditesvintlivrées	lieutenant que les dites vint livrées
-derenteparanliassigne	de rente par an li assigne
-etassoiedesdizcenset	et assoie des diz cens et
-coustumes,pourliet	coustumes , pour li et
-etpoursesdizhoirs,	et pour ses diz hoirs ,
-àpranreparleursmainsperpetuelment,	à pranre par leurs mains perpetuelment ,
-etdel'assignacion	et de l ' assignacion
-etassietequefaiteenaura	et assiete que faite en aura
-aurabailléau	aura baillé au
-ditchevalierlasaisinedeparnousetennom	dit chevalier la saisine de par nous et en nom
-denous.Et	de nous . Et
-tenrontleditchevalieretsesdizhoirslesdites	tenront le dit chevalier et ses diz hoirs les dites
-vintlivréesderenteenfié	vint livrées de rente en fié
-fiéetenhomaigedenousetdenozsuccesseurs	fié et en homaige de nous et de noz successeurs
-,roisdeFrance.Etdesjàen	, rois de France . Et desjà en
-avonsreceuennostrefoyethomaigele	avons receu en nostre foy et homaige le
-leditchevalier..Etque	le dit chevalier . . Et que
-cesoitferme	ce soit ferme
-choseetestableàperpetuité,nousavons	chose et estable à perpetuité , nous avons
-faitmettre..nostreseelenceslettres.Donné	fait mettre . . nostre seel en ces lettres . Donné
-DonnéenlapriouréNostre-DameenValoys	Donné en la priouré Nostre - Dame en Valoys
-,letierzjourde	, le tierz jour de
-novembre,l.'ande	novembre , l . ' an de
-degracemilccc.trenteet	de grace mil ccc . trente et
-neuf.Parleroy	neuf . Par le roy
-.Barriere.	. Barriere .
+chevalier,nousafaiz	chevalier , nous a faiz
+faiz,tantennozguerrescommeenlaseneschaucie	faiz , tant en noz guerres comme en la seneschaucie
+dePoitouetdeLymozin,	de Poitou et de Lymozin ,
+enlacompaigniedenozamezetfeauzPierrede	en la compaignie de noz amez et feauz Pierre de
+Rabastain,jadisseneschaldeladiteseneschaucie,	Rabastain , jadis seneschal de la dite seneschaucie ,
+etdeJourdaindeLoubert,àprésentseneschald	et de Jourdain de Loubert , à présent seneschal d
+d'icelleseneschaucie,	d ' icelle seneschaucie ,
+,sicomme	, si comme
+parleursraporsettesmoignageset	par leurs rapors et tesmoignages et
+autresdignesdefoy	autres dignes de foy
+nousaapparu,nousauditPhilippe,	nous a apparu , nous au dit Philippe ,
+pourlietpourseshoirsnezetà	pour li et pour ses hoirs nez et à
+nestre,desonproprecorpsengendrezenloyalmariage	nestre , de son propre corps engendrez en loyal mariage
+,avonsdonné	, avons donné
+etdonnons,degrace	et donnons , de grace
+especial,àtouzjoursmais,pourconsideracion	especial , à touz jours mais , pour consideracion
+desdiz..services	des diz . . services
+,vintlivréestournoisd'	, vint livrées tournois d '
+'annuelleetperpetuellerenteendeniersdecenset.	' annuelle et perpetuelle rente en deniers de cens et .
+coustumesquenousavonsenlaparroisse	coustumes que nous avons en la parroisse
+parroissedeLatillyetentour.Sidonnonsen	parroisse de Latilly et entour . Si donnons en
+mandementauseneschaldePoitououàson	mandement au seneschal de Poitou ou à son
+lieutenant.quelesditesvintlivréesderente	lieutenant . que les dites vint livrées de rente
+renteparan	rente par an
+anliassigneetassoiedesdizcensetcoustumes	an li assigne et assoie des diz cens et coustumes
+coustumes,pourlietpour	coustumes , pour li et pour
+poursesdizhoirs,à	pour ses diz hoirs , à
+àpranreparleursmainsperpetuelment	à pranre par leurs mains perpetuelment
+,etdel'assignacionet	, et de l ' assignacion et
+assietequefaiteenaura..	assiete que faite en aura . .
+bailléauditchevalierlasaisine	baillé au dit chevalier la saisine
+deparnousetennomdenous	de par nous et en nom de nous
+.Ettenront	. Et tenront
+leditchevalieretses	le dit chevalier et ses
+dizhoirs	diz hoirs
+lesditesvintlivréesderenteenfiéeten	les dites vint livrées de rente en fié et en
+homaigedenouset..denozsuccesseurs	homaige de nous et . . de noz successeurs
+,roisdeFrance.Etdesjàenavons	, rois de France . Et desjà en avons
+receuennostrefoyet	receu en nostre foy et
+ethomaigeleditchevalier.Etquece	et homaige le dit chevalier . Et que ce
+soit.fermechoseet	soit . ferme chose et
+estableàperpetuité,nousavonsfaitmettrenostreseel	estable à perpetuité , nous avons fait mettre nostre seel
+seelenceslettres.	seel en ces lettres .
+DonnéenlapriouréNostre.-DameenValoys	Donné en la priouré Nostre . - Dame en Valoys
+Valoys,letierzjourdenovembre,l'	Valoys , le tierz jour de novembre , l '
+andegracemilccc.trenteet	an de grace mil ccc . trente et
+neuf.Parleroy.	neuf . Par le roy .
+Barriere.	Barriere .

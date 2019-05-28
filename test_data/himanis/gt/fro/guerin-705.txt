@@ -1,109 +1,117 @@
-Charles,etc.Savoir	Charles , etc . Savoir
-Savoir..,etc.,dela	Savoir . . , etc ., de la
-partied	partie d
-’aucunsdes	’ aucuns des
-amischarnelx	amis charnelx
-deJehanBasin,	de Jehan Basin ,
-demourantenlachastelleniedeMirebeau,	demourant en la chastellenie de Mirebeau ,
-,à..nousavoirestéexposéque	, à . . nous avoir esté exposé que
-,.commePhelipponChatetet	, . comme Phelippon Chatet et
-Guilleminson	Guillemin son
-sonfilz,eussentencuerconceuehaynecouverte	son filz , eussent en cuer conceue hayne couverte
-couvertecontreleditJehan,etenperseveranten	couverte contre le dit Jehan , et en perseverant en
-ce,àcertainjourjàpieçapassé	ce , à certain jour jà pieça passé
-,ainsiqueleditJehanestoit.	, ainsi que le dit Jehan estoit .
-auxchamps,enunbois,	aux champs , en un bois ,
-,oùilchargoitoufaisoitchargierdefagozune	, où il chargoit ou faisoit chargier de fagoz une
-charette,etne	charette , et ne
-nesedonnoitouprenoitgardedesdizpereetfilz	ne se donnoit ou prenoit garde des diz pere et filz
-filz,eulxdefaitetesgaitappensé,garnizde	filz , eulx de fait et esgait appensé , garniz de
-cousteauxou	cousteaux ou
-autresarmeures,courrurentsusaudit	autres armeures , courrurent sus au dit
-Jehan,pour	Jehan , pour
-pourlemettreàmortou	pour le mettre à mort ou
-oumutilerde	ou mutiler de
-desesmembres,etlebatirentetferirent	de ses membres , et le batirent et ferirent
-pluseurscops,et..	pluseurs cops , et . .
-depuis,..	depuis , . .
-environlafestesaintJehanBabtistederrenierepasséeot	environ la feste saint Jehan Babtiste derreniere passée ot
-otunan,le	ot un an , le
-leditfilzenperseverantensonoultrageet	le dit filz en perseverant en son oultrage et
-etmalevoulenté,	et male voulenté ,
-,etnoncontentdece	, et non content de ce
-cequefaitavoitesté,etquitousjoursse	ce que fait avoit esté , et qui tousjours se
-semettoitenaguetde	se mettoit en aguet de
-tousjourstrouverleditJehanà..	tousjours trouver le dit Jehan à . .
-.sondessous,garnid’un..grantbaston,	. son dessous , garni d ’ un . . grant baston ,
-letrouvaenl..’eritagedu	le trouva en l . . ’ eritage du
-ditJehanoùil	dit Jehan où il
-estoit.paisiblement,lequel	estoit . paisiblement , le quel
-filzduditPhelippons’	filz du dit Phelippon s ’
-efforçade	efforça de
-detoutsonpovoirdeferirledit	de tout son povoir de ferir le dit
-Jehandu	Jehan du
-ditbaston,..	dit baston , . .
-.etdelemettreàmort	. et de le mettre à mort
-mort.;etpoury	mort . ; et pour y
-yeschiver,endeboutantforce	y eschiver , en deboutant force
-parforce,ycelluiJehand	par force , ycellui Jehan d
-d’unbastonferréqu	d ’ un baston ferré qu
-’iltenoitferyun	’ il tenoit fery un
-seulcop	seul cop
-leditfilz,enla	le dit filz , en la
-personnedu..	personne du . .
-quel.filzdedensbrieftempsmorts’en	quel . filz dedens brief temps mort s ’ en
-ensuy...Pour	ensuy . . . Pour
-doubteduquelfaitetpourrigueur	doubte du quel fait et pour rigueur
+Charles,etc.Savoir.	Charles , etc . Savoir .
+,etc...,delapartied’	, etc . . ., de la partie d ’
+’aucunsdesamischarnelxdeJehanBasin,demourant	’ aucuns des amis charnelx de Jehan Basin , demourant
+enlachastellenie	en la chastellenie
+chastelleniedeMirebeau,ànousavoiresté	chastellenie de Mirebeau , à nous avoir esté
+exposéque,commePhelipponChatetetGuillemin	exposé que , comme Phelippon Chatet et Guillemin
+Guilleminsonfilz,eussent	Guillemin son filz , eussent
+encuerconceuehaynecouvertecontreleditJehan,	en cuer conceue hayne couverte contre le dit Jehan ,
+,etenperseverantence,àcertainjour	, et en perseverant en ce , à certain jour
+jourjàpieçapassé	jour jà pieça passé
+,ainsiqueledit	, ainsi que le dit
+ditJehanestoitauxchamps,enunbois,	dit Jehan estoit aux champs , en un bois ,
+oùilchargoitoufaisoitchargierde	où il chargoit ou faisoit chargier de
+fagozune	fagoz une
+charette,et	charette , et
+nesedonnoitouprenoit.garde	ne se donnoit ou prenoit . garde
+desdizpereetfilz,eulxdefait	des diz pere et filz , eulx de fait
+etesgaitappensé,	et esgait appensé ,
+,..garnizde	, . . garniz de
+cousteauxouautresarmeures,	cousteaux ou autres armeures ,
+courrurentsusauditJehan,pourlemettreà	courrurent sus au dit Jehan , pour le mettre à
+mortoumutiler	mort ou mutiler
+mutilerdeses	mutiler de ses
+sesmembres,etlebatirentetferirentpluseurscops,	ses membres , et le batirent et ferirent pluseurs cops ,
+,etdepuis,environla	, et depuis , environ la
+festesaintJehanBabtistederrenierepasséeot	feste saint Jehan Babtiste derreniere passée ot
+unan,leditfilzen.perseveranten	un an , le dit filz en . perseverant en
+sonoultrageetmalevoulenté,et	son oultrage et male voulenté , et
+etnoncontentdeceque	et non content de ce que
+faitavoitesté,etqui	fait avoit esté , et qui
+tousjourssemettoitenaguetdetousjourstrouverle	tousjours se mettoit en aguet de tousjours trouver le
+leditJehan	le dit Jehan
+Jehan.àsondessous,garnid	Jehan . à son dessous , garni d
+’.ungrantbaston	’ . un grant baston
+,letrouva	, le trouva
+enl’eritagedudit	en l ’ eritage du dit
+Jehanoùil	Jehan où il
+ilestoit.paisiblement,	il estoit . paisiblement ,
+,lequel	, le quel
+filzduditPhelippon	filz du dit Phelippon
+s’efforça	s ’ efforça
+efforçadetoutsonpovoir	efforça de tout son povoir
+deferirle	de ferir le
+ditJehanduditbaston	dit Jehan du dit baston
+baston,etdelemettreàmort	baston , et de le mettre à mort
+;etpouryeschiver	; et pour y eschiver
+,endeboutantforcepar	, en deboutant force par
+force,ycelluiJehand’un	force , ycellui Jehan d ’ un
+bastonferréqu	baston ferré qu
+qu’iltenoitferyun	qu ’ il tenoit fery un
+unseulcopleditfilz,enla	un seul cop le dit filz , en la
+personneduquelfilzdedens	personne du quel filz dedens
+brieftempsmorts’en	brief temps mort s ’ en
+enensuy.Pourdoubte.du	en ensuy . Pour doubte . du
+duquelfaitetpour	du quel fait et pour
 rigueurdejustice,	rigueur de justice ,
-leditJehans’estabsentezdupaïs,	le dit Jehan s ’ est absentez du païs ,
-etpource[	et pour ce [
-aesté]misèsappeaulxdelajusticedu	a esté ] mis ès appeaulx de la justice du
-lieuoùlefaitfuperpetré,etpource	lieu où le fait fu perpetré , et pour ce
-n’aitausé	n ’ ait ausé
+leditJehan..s’estabsentezdu	le dit Jehan . . s ’ est absentez du
+païs,etpource[aesté]mis	païs , et pour ce [ a esté ] mis
+misèsappeaulx..	mis ès appeaulx . .
+delajustice	de la justice
+dulieuoùlefaitfuperpetré,	du lieu où le fait fu perpetré ,
+,etpourcen’aitauséne	, et pour ce n ’ ait ausé ne
 neoseretournerpardeverssafemmeet	ne ose retourner par devers sa femme et
-enfans,quipoursonlabourdoivent..estre	enfans , qui pourson labour doivent . . estre
-alimentez;.en	alimentez ; . en
-ennoushumblementsuppliantque,commele	en nous humblement suppliant que , comme le
-ditJehansoitetdurantle	dit Jehan soit et durant le
-letempsdesavieaitestéhommedebonnevie	le temps de sa vie ait esté homme de bonne vie
-vie,paisibleethonnesteconversacion,	vie , paisible et honneste conversacion ,
-sanzreprehenciond’aucun	sanz reprehencion d ’ aucun
-aucun.autremauvais	aucun . autre mauvais
-cas,..nouslui	cas , . . nous lui
-vueillonssurceimpartirnostregraceetmisericorde.	vueillons sur ce impartir nostre grace et misericorde .
-Nousadecertes,ceschoses	Nous adecertes , ces choses
-considerées,voulansmisericordeprefereràrigueur	considerées , voulans misericorde preferer à rigueur
-dejusticeencestepartie,	de justice en ceste partie ,
-auditJehanoudit.cas,degraceespecial	au dit Jehan ou dit . cas , de grace especial
-,avonsquictié,remisetpardonné,et	, avons quictié , remis et pardonné , et
-etparcespresentesquictons,remettons	et par ces presentes quictons , remettons
-remettonsetpardonnons	remettons et pardonnons
-leditfait,avectoute	le dit fait , avec toute
+enfans,quipoursonlabourdoiventestrealimentez	enfans , qui pourson labour doivent estre alimentez
+;ennous..	; en nous . .
+humblementsuppliantque,commele	humblement suppliant que , comme le
+leditJehan	le dit Jehan
+soitetdurant	soit et durant
+letempsde	le temps de
+savieaitestéhommedebonne	sa vie ait esté homme de bonne
+bonnevie,paisible.ethonnesteconversacion,sanzreprehencion	bonne vie , paisible . et honneste conversacion , sanz reprehencion
+d’aucun	d ’ aucun
+aucunautremauvaiscas,nousluivueillons	aucun autre mauvais cas , nous lui vueillons
+vueillonssurceimpartirnostre	vueillons sur ce impartir nostre
+graceetmisericorde.Nousadecertes,ceschoses	grace et misericorde . Nous adecertes , ces choses
+considerées,voulansmisericordeprefereràrigueur.	considerées , voulans misericorde preferer à rigueur .
+dejusticeencestepartie,auditJehanou..	de justice en ceste partie , au dit Jehan ou . .
+ditcas,	dit cas ,
+degraceespecial,avonsquictié,	de grace especial , avons quictié ,
+remisetpardonné,et	remis et pardonné , et
+etparces	et par ces
+presentesquictons	presentes quictons
+,remettonsetpardonnonsleditfait	, remettons et pardonnons le dit fait
+,avectoute	, avec toute
 peineetamendecriminele	peine et amende criminele
-criminele,corporeleet	criminele , corporele et
-etcivile,enquoypourceilpuetou	et civile , en quoy pour ce il puet ou
-pourroitestreou	pourroit estre ou
-ouavoirestéencouruenversnous,etlerestituonsà	ou avoir esté encouru envers nous , et le restituons à
+,corporeleetcivile,enquoypource	, corporele et civile , en quoy pour ce
+ilpuetoupourroitestreou	il puet ou pourroit estre ou
+avoirestéencouruenversnous,etlerestituonsà	avoir esté encouru envers nous , et le restituons à
 sabonnefameetrenommée,aupaïs	sa bonne fame et renommée , au païs
-païsetàsesbiensnonconfisquez,avecques	païs et à ses biens non confisquez , avecques
-lesdizappeaulxetban,satisfactionfaicteà	les diz appeaulx et ban , satisfaction faicte à
-partie,s’aucuneen	partie , s ’ aucune en
-ya,civilement,premierement..et	y a , civilement , premierement . . et
-avanttouteuvre.Si	avant tout euvre . Si
-donnonsenmandementaugouverneurdu..bailliagedeTourainne	donnons en mandement au gouverneur du . . bailliage de Tourainne
-etàtouznozautresjusticiers	et à touz noz autres justiciers
-,presensetavenir,ouà	, presens et avenir , ou à
-àleurslieutenans,etàchascund’	à leurs lieutenans , et à chascun d ’
-eulx,sicommeàluiappartendra,quele	eulx , si comme à lui appartendra , que le
-ditJehanfacentetseuffrent	dit Jehan facent et seuffrent
-denostrepresentegraceet	de nostre presente grace et
-remissionjoiretuserpaisiblement,sanzlemolester	remission joir et user paisiblement , sanz le molester
-neempeschier,nesouffrirestremolesténe	ne empeschier , ne souffrir estre molesté ne
-neempeschié,enaucunemaniereaucontraire.Etpour	ne empeschié , en aucune maniere au contraire . Et pour
-pource,..etc.Sauf,etc.Donné	pour ce , . . etc . Sauf , etc . Donné
-DonnéàParis,oumoisdeseptembrel’an	Donné à Paris , ou mois de septembre l ’ an
-andegracemilccc.iiiixx..ethuit,	an de grace mil ccc . iiiixx . . et huit ,
-etdenostrerègne	et de nostre règne
-lehuitiesme..Par	le huitiesme . . Par
-leconseil	le conseil
-.Auneel.—P.deDisy.	. Auneel .— P . de Disy .
+etàsesbiensnonconfisquez,avecques	et à ses biens non confisquez , avecques
+lesdiz..appeaulx	les diz . . appeaulx
+etban,satisfactionfaicteà..	et ban , satisfaction faicte à . .
+partie,s’	partie , s ’
+aucuneenya,civilement,.premierement	aucune en y a , civilement , . premierement
+etavanttouteuvre.Si	et avant tout euvre . Si
+donnonsenmandementaugouverneurdubailliage	donnons en mandement au gouverneur du bailliage
+deTourainne	de Tourainne
+Tourainneetàtouznozautres	Tourainne et à touz noz autres
+justiciers,presensetavenir,ou	justiciers , presens et avenir , ou
+àleurslieutenans	à leurs lieutenans
+,.etàchascun	, . et à chascun
+d’eulx,si	d ’ eulx , si
+commeàluiappartendra,queleditJehan	comme à lui appartendra , que le dit Jehan
+facentet	facent et
+seuffrentdenostrepresentegraceetremissionjoir	seuffrent de nostre presente grace et remission joir
+etuserpaisiblement,sanzle	et user paisiblement , sanz le
+molesterneempeschier,nesouffrirestremolesténe	molester ne empeschier , ne souffrir estre molesté ne
+empeschié,enaucune	empeschié , en aucune
+maniereaucontraire.Etpource,	maniere au contraire . Et pour ce ,
+etc.Sauf,etc.Donné.àParis,	etc . Sauf , etc . Donné . à Paris ,
+,oumoisde	, ou mois de
+septembrel’andegracemil	septembre l ’ an de grace mil
+ccc.iiiixx	ccc . iiiixx
+ethuit,	et huit ,
+,etdenostre..règnelehuitiesme.Parle	, et de nostre . . règne le huitiesme . Par le
+leconseil.Auneel.—	le conseil . Auneel .—
+.—P.deDisy.	.— P . de Disy .

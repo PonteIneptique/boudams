@@ -1,164 +1,181 @@
-Charles,etc.	Charles , etc .
-Savoirfaisonsà.touz,presens	Savoir faisons à . touz , presens
-et.avenir,quede	et . avenir , que de
-lapartie.descompaignons	la partie . des compaignons
-,dontlesnomssontcyaprèsnommezetexprimez	, dont les noms sont cy après nommez et exprimez
-,c'estassavoir	, c ' est assavoir
-assavoirJehandeLaHaye	assavoir Jehan de La Haye
-Haye,chevalier,Guillaumed'	Haye , chevalier , Guillaume d '
-'Oiron,escuier,GuillaumeLe..Conte,Jehan	' Oiron , escuier , Guillaume Le . . Conte , Jehan
-Fierboys,ColinetleMoine.,JehanMallart,	Fierboys , Colinet le Moine . , Jehan Mallart ,
-GuillaumeThomas,SymonRose,ColinLeConte,	Guillaume Thomas , Symon Rose , Colin Le Conte ,
-GuillaumedeLenay,OdindeCrevecueret..Jehan	Guillaume de Lenay , Odin de Crevecuer et . . Jehan
-Regnart,nousaestéexposéque,biena	Regnart , nous a esté exposé que , bien a
-xiii.ansetplus	xiii . ans et plus
-,c'estassavoirlorsquelesguerres	, c ' est assavoir lors que les guerres
-guerresestoient..moultgranzpartoutnostreroyaumeetque	guerres estoient . . moult granz par tout nostre royaume et que
-nozennemisytenoientetoccuppoient..plusieursfors,	noz ennemis y tenoient et occuppoient . . plusieurs fors ,
-etparespecial	et par especial
-oupaïsd'Anjou,dontestlaplus	ou païs d ' Anjou , dont est la plus
-plusgrantpartiedesdizexposanz	plus grant partie des diz exposanz
-exposanz,etpluseursautresleursalliezetadherensadviserentun	exposanz , et pluseurs autres leurs alliez et adherens adviserent un
-lieuouditpaïs	lieu ou dit païs
-d'Anjou,quiestoitassezfort,	d ' Anjou , qui estoit assez fort ,
-appelle..lemoustierdeSaintFlorentle	appelle . . le moustier de Saint Florent le
-Viel,fondédemoines	Viel , fondé de moines
-noirs,lequelestoitenvironnédepluseursautresfors	noirs , le quel estoit environné de pluseurs autres fors
-forsquetenoientetoccupoyentnoz	fors que tenoient et occupoyent noz
-dizennemis;etycelluimoustieroù	diz ennemis ; et ycellui moustier où
-iln'avoit	il n ' avoit
-avoitquevi.hommesd'armesavecles	avoit que vi . hommes d ' armes avec les
-religieusd'icellui	religieus d ' icellui
-moustieretaucuns	moustier et aucuns
-autressimplesgenzdupaysquis'	autres simples genz du pays qui s '
-iestoientretraiz,	i estoient retraiz ,
-pourdoubtedenozdiz	pour doubte de noz diz
-ennemis,etquin'estoientpasgensde	ennemis , et qui n ' estoient pas gens de
-defense,..prindrent,du	defense , . . prindrent , du
-consentementdesdizvi.hommesd'armes	consentement des diz vi . hommes d ' armes
-armesquiestoientde	armes qui estoient de
-leuramistié,etpourcontresteràla	leur amistié , et pour contrester à la
-mauvaise..voulentédesdizennemis,	mauvaise . . voulenté des diz ennemis ,
-etpour.lesgreveretdommagerà	et pour . les grever et dommager à
-leurpovoir.	leur povoir .
-.,etaussipourdoubtequeyceulxennemisne	. , et aussi pour doubte que yceulx ennemis ne
-lepreissentetoccupassent	le preissent et occupassent
-;cars'ill	; car s ' il l
-'eussentprinsetoccupé,	' eussent prins et occupé ,
-toutlepaïs.d'environ	tout le païs . d ' environ
-eustestéenvoye	eust esté en voye
-etperild'estre	et peril d ' estre
-dutoutdestruitet..desert	du tout destruit et . . desert
-,etavecceunegrantpartiedes	, et avec ce une grant partie des
-dizcompaignonsquisont	diz compaignons qui sont
-duditpaïseussentestésemblablementenperild	du dit païs eussent esté semblablement en peril d
-'estredesertetmisàpovreté;	' estre desert et mis à povreté ;
-etlefortiffierentetmirent	et le fortiffierent et mirent
+Charles,etc	Charles , etc
+.Savoirfaisonsà	. Savoir faisons à
+touz,presens	touz , presens
+etavenir,quedelapartie	et avenir , que de la partie
+descompaignons,	des compaignons ,
+,dontlesnomssont	, dont les noms sont
+cyaprèsnommezetexprimez,c'est	cy après nommez et exprimez , c ' est
+assavoirJehan..deLaHaye,chevalier,Guillaumed	assavoir Jehan . . de La Haye , chevalier , Guillaume d
+'Oiron,escuier,GuillaumeLeConte	' Oiron , escuier , Guillaume Le Conte
+Conte,Jehan	Conte , Jehan
+Fierboys,Colinet	Fierboys , Colinet
+ColinetleMoine,Jehan	Colinet le Moine , Jehan
+JehanMallart,GuillaumeThomas,SymonRose,ColinLe	Jehan Mallart , Guillaume Thomas , Symon Rose , Colin Le
+LeConte,GuillaumedeLenay	Le Conte , Guillaume de Lenay
+Lenay,OdindeCrevecueretJehanRegnart,nousa	Lenay , Odin de Crevecuer et Jehan Regnart , nous a
+esté.exposéque,bien	esté . exposé que , bien
+bienaxiii.ansetplus,c'est	bien a xiii . ans et plus , c ' est
+assavoirlors	assavoir lors
+quelesguerresestoientmoultgranzpartoutnostre	que les guerres estoient moult granz par tout nostre
+nostreroyaumeetquenoz	nostre royaume et que noz
+ennemisytenoient	ennemis y tenoient
+etoccuppoientplusieursfors,etparespecial	et occuppoient plusieurs fors , et par especial
+oupaïs..d'	ou païs . . d '
+Anjou,dontestlaplusgrantpartiedes	Anjou , dont est la plus grant partie des
+dizexposanz.	diz exposanz .
+,etpluseursautresleursalliezetadherensadviserentun	, et pluseurs autres leurs alliez et adherens adviserent un
+lieuoudit	lieu ou dit
+païsd'Anjou	païs d ' Anjou
+Anjou,quiestoitassez.fort,appellelemoustier	Anjou , qui estoit assez . fort , appelle le moustier
+moustierdeSaintFlorentleViel	moustier de Saint Florent le Viel
+,fondédemoines	, fondé de moines
+noirs,lequelestoitenvironnédepluseursautres	noirs , le quel estoit environné de pluseurs autres
+forsquetenoientet	fors que tenoient et
+occupoyentnozdizennemis	occupoyent noz diz ennemis
+ennemis;etycelluimoustieroùiln'	ennemis ; et ycellui moustier où il n '
+avoitquevi	avoit que vi
+.hommes	. hommes
+d'..armesaveclesreligieusd'	d ' . . armes avec les religieus d '
+icelluimoustieretaucunsautressimplesgenz	icellui moustier et aucuns autres simples genz
+dupaysqui	du pays qui
+s'iestoient..	s ' i estoient . .
+retraiz,pourdoubtedenozdiz	retraiz , pour doubte de noz diz
+ennemis,etquin	ennemis , et qui n
+'estoientpas	' estoient pas
+pasgensdedefense,prindrent,	pas gens de defense , prindrent ,
+,duconsentementdesdizvi.	, du consentement des diz vi .
+hommesd'armesquiestoient	hommes d ' armes qui estoient
+deleuramistié,et	de leur amistié , et
+pourcontrester	pour contrester
+contresteràlamauvaise.	contrester à la mauvaise .
+voulentédes..dizennemis,etpour	voulenté des . . diz ennemis , et pour
+lesgrever.et	les grever . et
+etdommageràleurpovoir,etaussi	et dommager à leur povoir , et aussi
+pourdoubtequeyceulxennemisnelepreissentetoccupassent	pour doubte que yceulx ennemis ne le preissent et occupassent
+occupassent;car	occupassent ; car
+s'ill'eussent	s ' il l ' eussent
+prinset	prins et
+occupé,tout..lepaïsd	occupé , tout . . le païs d
+'environeustestéenvoye.etperild	' environ eust esté en voye . et peril d
+'estredu	' estre du
+toutdestruitetdesert	tout destruit et desert
+,etavecce.une	, et avec ce . une
+unegrantpartiedesdizcompaignonsquisontdu	une grant partie des diz compaignons qui sont du
+ditpaïseussentestésemblablementenperild	dit païs eussent esté semblablement en peril d
+'estredesert	' estre desert
+etmisàpovreté;etlefortiffierentetmirent	et mis à povreté ; et le fortiffierent et mirent
 entelestat	en tel estat
-etsidefensableque,àl'aide	et si defensable que , à l ' aide
-deDieu,	de Dieu ,
-illetindrentetgarderentparl'espacede	il le tindrent et garderent par l ' espace de
-v.moisouenviron,contretoutlepovoir	v . mois ou environ , contre tout le povoir
-povoirdenozdizennemis,qui	povoir de noz diz ennemis , qui
-parpluseursfoiss'efforcerentde	par pluseurs fois s ' efforcerent de
-leprandre	le prandre
-prandreetoccuper,etfinablementl'eussentprins	prandre et occuper , et finablement l ' eussent prins
-prins,senefeussentlesdizcompaignons.Et	prins , se ne feussent les diz compaignons . Et
-nefirentyceulx..compaignonsausdizmoynesqui	ne firent yceulx . . compaignons aus diz moynes qui
-estoientouditmoustier,ne	estoient ou dit moustier , ne
-neausautresgenzduditlieu,aucun	ne aus autres genz du dit lieu , aucun
-maldeleurspersonnes,forsseulementdeprenre	mal de leurs personnes , fors seulement de prenre
-prenredeleursbienspourleursvivresetleursautres	prenre de leurs biens pour leurs vivres et leurs autres
-neccessitez.Neantmoinsasseztostaprès	neccessitez . Neantmoins assez tost après
-,c'estassavoiraumoysde	, c ' est assavoir au moys de
-mayl'anm.ccc	may l ' an m . ccc
-.vxiii,	. vxiii ,
-nostretrès	nostre très
-cheretaméfrere	cher et amé frere
-leducd'	le duc d '
-AnjouetduMaine,en	Anjou et du Maine , en
-quelterreestassizleditmoustier,	quel terre est assiz le dit moustier ,
-ousesgenzrequistrentausdiz.compaignonsqu	ou ses genz requistrent ausdiz . compaignons qu
-'illeurrendissentleditfort	' il leur rendissent le dit fort
-;lequelilleurrendirentmoultamiablement,senz	; le quel il leur rendirent moult amiablement , senz
-nullerebellionetsenz	nulle rebellion et senz
-faireautresexcèsquedessusestdevisé	faire autres excès que dessus est devisé
-devisé.Aprèslesquelleschosesetlarendueduditfort	devisé . Après lesquelles choses et la rendue du dit fort
-,unepartiedesdizcompaignons	, une partie des diz compaignons
-s'.enalerentpournousservirausiege	s ' . en alerent pour nous servir au siege
-deBecherel.,etledemourant	de Becherel . , et le demourant
-desdizcompaignonslesmoinesduditfort	des diz compaignons les moines du dit fort
-,àquiles	, à qui les
-genzdenostreditfrere	genz de nostre dit frere
-frerelerendirent,retindrentaveceulxpourgarderle	frere le rendirent , retindrent avec eulx pour garder le
-ditfort.Suppliantque,ceschoses	dit fort . Suppliant que , ces choses
-considerées,etaulongtemps	considerées , et au longtemps
-longtempsqu'ilyaqueleditfaitavint	longtemps qu ' il y a que le dit fait avint
-,etausguerres	, et aus guerres
-guerresetpestilances	guerres et pestilances
-pestilancesquilorsestoient	pestilances qui lors estoient
-partoutnostreroyaumeetparespecialou	par tout nostre royaume et par especial ou
-ditpaïs,etcequeil.sont	dit païs , et ce que il . sont
-etdepuis..le	et depuis . . le
-dittempsont	dit temps ont
-estégenzdebonne	esté genz de bonne
-vieethonnesteconversacion,et	vie et honneste conversacion , et
-nousontservi	nous ont servi
-avantetaprèsledit	avant et après le dit
-faitbienetloyaumentennozguerres,où	fait bien et loyaument en noz guerres , où
-ilontexposéleursdictespersonnesenpluseurs	il ont exposé leurs dictes personnes en pluseurs
-pluseursperilz,	pluseurs perilz ,
-quesurceleurvueillonseslargirnostregrace	que sur ce leur vueillons eslargir nostre grace
-.Nousadecertes,eu	. Nous adecertes , eu
-regartetconsideracionàceschoses,	regart et consideracion à ces choses ,
-,ayanzpitiéetcompassiondesdizsuppliansencestepartie	, ayanz pitié et compassion des diz supplians en ceste partie
-,toutepeinnecorporele,crimineleetcivile,en	, toute peinne corporele , criminele et civile , en
-quoylesdizsupplianset	quoy les diz supplians et
-etchascund'eulxsontou	et chascun d ' eulx sont ou
-oupeventestreencoruzenversnous,	ou pevent estre encoruz envers nous ,
-pourlefaitdelaprinsedu	pour le fait de la prinse du
-ditmoustieretdesbiens.qui	dit moustier et des biens . qui
-yestoient,lesquelzilprinrentpourleursdictes	y estoient , les quelz il prinrent pour leurs dictes
-neccessitez,leuravonsoucasdessusditquictié,	neccessitez , leur avons ou cas dessus dit quictié ,
-pardonnéetremis,quictons,pardonnons	pardonné et remis , quictons , pardonnons
-etremettons.,parcespresentes	et remettons . , par ces presentes
-,degraceespecialetdenostreauctoritéroyal	, de grace especial et de nostre auctorité royal
-,satisfactionourestitucion	, satisfaction ou restitucion
-faicteàpartie,et	faicte à partie , et
-les.remettonsau	les . remettons au
-aupaïs,àleurbonnefame	au païs , à leur bonne fame
-etrenomméeetàleursbiens,en	et renommée et à leurs biens , en
-enimposantquantàcesilenceperpetuelànostreprocureuret	en imposant quant à ce silence perpetuel à nostre procureur et
-àtouz..nozautresjusticiers	à touz . . noz autres justiciers
-etofficiers	et officiers
-.Mandansau	. Mandans au
-baillidesExempcions.deTouraine	bailli des Exempcions . de Touraine
-,d'Anjou,duMaineetdePoictou	, d ' Anjou , du Maine et de Poictou
-,etàtouz	, et à touz
-refformateurs,.deputezetàdeputersurtelzet	refformateurs , . deputez et à deputer sur telz et
-semblablesfaiz,à	semblables faiz , à
-leurslieuxtenansetàchascun	leurs lieux tenans et à chascun
-d'.eulx,queles	d ' . eulx , que les
-dizsuppliansetchascund'	diz supplians et chascun d '
-eulxilfacent,sueffrentetlaissentjoiret	eulx il facent , sueffrent et laissent joir et
-user..paisiblementde	user . . paisiblement de
-denostrepresentegrace,et	de nostre presente grace , et
-seleurscorpsouleursbiens,ou	se leurs corps ou leurs biens , ou
-d'aucuns.d'eulx	d ' aucuns . d ' eulx
-,estoientpourceprins,detenuzouempeschiez	, estoient pour ce prins , detenuz ou empeschiez
-,qu'illes	, qu ' il les
-leurmettentoufacentmettreà	leur mettent ou facent mettre à
-plainedelivrance.Etquecesoitchosefermeet	plaine delivrance . Et que ce soit chose ferme et
-estableàtouz	estable à touz
-joursmais,nousavonsfaitmettrenostreseel	jours mais , nous avons fait mettre nostre seel
-,ordenéenl'absencedu	, ordené en l ' absence du
-grant,àcespresenteslettres.Saufen	grant , à ces presentes lettres . Sauf en
-enautreschosesnostredroiteten	en autres choses nostre droit et en
-toutesl'autrui.DonnéàParis,ou	toutes l ' autrui . Donné à Paris , ou
-moysdemars	moys de mars
-l'andegracem.	l ' an de grace m .
-ccc.lxxv,	ccc . lxxv ,
-,etlexiie..denostreregne	, et le xiie . . de nostre regne
-.Esrequestes	. Es requestes
-requestesdel	requestes de l
-l'ostel.J.Greelle.Auxoys.	l ' ostel . J . Greelle . Auxoys .
+estatetsidefensableque,àl'	estat et si defensable que , à l '
+aidedeDieu,illetindrentet	aide de Dieu , il le tindrent et
+etgarderentparl'	et garderent par l '
+espacedev.mois	espace de v . mois
+ouenviron	ou environ
+environ,contretoutlepovoirdenozdizennemis	environ , contre tout le povoir de noz diz ennemis
+ennemis,quiparpluseursfois..s'efforcerent	ennemis , qui par pluseurs fois . . s ' efforcerent
+efforcerentdeleprandreetoccuper,etfinablementl'	efforcerent de le prandre et occuper , et finablement l '
+eussentprins	eussent prins
+prins,senefeussentles.diz	prins , se ne feussent les . diz
+compaignons.Etnefirentyceulxcompaignonsausdizmoynes	compaignons . Et ne firent yceulx compaignons aus diz moynes
+moynesquiestoientouditmoustier,ne..	moynes qui estoient ou dit moustier , ne . .
+ausautres	aus autres
+autresgenzduditlieu	autres genz du dit lieu
+lieu..,aucunmaldeleurspersonnes	lieu . . , aucun mal de leurs personnes
+,forsseulementdeprenredeleursbienspourleurs	, fors seulement de prenre de leurs biens pour leurs
+vivresetleursautresneccessitez.Neantmoinsassez	vivres et leurs autres neccessitez . Neantmoins assez
+tostaprès,c'estassavoiraumoys	tost après , c ' est assavoir au moys
+demayl'anm	de may l ' an m
+m.ccc.vxiii.	m . ccc . vxiii .
+,nostretrèscheretamé	, nostre très cher et amé
+améfrereleducd	amé frere le duc d
+'AnjouetduMaine,	' Anjou et du Maine ,
+,enquelterreestassiz	, en quel terre est assiz
+leditmoustier,ou..sesgenz	le dit moustier , ou . . ses genz
+requistrent.ausdiz	requistrent . ausdiz
+compaignons.qu'il	compaignons . qu ' il
+leurrendissentleditfort;lequelil..	leur rendissent le dit fort ; le quel il . .
+.leurrendirentmoult	. leur rendirent moult
+moultamiablement,senznulle	moult amiablement , senz nulle
+rebellionet.senzfaireautres	rebellion et . senz faire autres
+excèsquedessus	excès que dessus
+estdevisé	est devisé
+.Aprèslesquelleschosesetlarendueduditfort	. Après lesquelles choses et la rendue du dit fort
+fort,unepartiedesdizcompaignons	fort , une partie des diz compaignons
+s'enalerentpour	s ' en alerent pour
+nousservirausiegede	nous servir au siege de
+Becherel,..etledemourantdes	Becherel , . . et le demourant des
+dizcompaignonslesmoinesduditfort,	diz compaignons les moines du dit fort ,
+àquilesgenzdenostreditfrerele	à qui les genz de nostre dit frere le
+rendirent,retindrentaveceulxpour	rendirent , retindrent avec eulx pour
+garderleditfort.Suppliantque,ces	garder le dit fort . Suppliant que , ces
+ceschosesconsiderées,etaulongtemps	ces choses considerées , et au longtemps
+longtempsqu'ily	longtemps qu ' il y
+aquele.dit	a que le . dit
+faitavint,	fait avint ,
+etausguerresetpestilancesquilors	et aus guerres et pestilances qui lors
+lorsestoientpartoutnostreroyaumeetparespecial	lors estoient par tout nostre royaume et par especial
+especialouditpaïs,etcequeilsont	especial ou dit païs , et ce que il sont
+etdepuisledittempsontestégenz.de	et depuis le dit temps ont esté genz . de
+bonnevieet	bonne vie et
+honnesteconversacion,etnousontservi	honneste conversacion , et nous ont servi
+serviavantetaprèsleditfaitbienetloyaumenten	servi avant et après le dit fait bien et loyaument en
+ennozguerres,oùil..ontexposéleursdictespersonnes	en noz guerres , où il . . ont exposé leurs dictes personnes
+enpluseursperilz,	en pluseurs perilz ,
+quesurceleurvueillonseslargirnostregrace.	que sur ce leur vueillons eslargir nostre grace .
+Nousadecertes,eu	Nous adecertes , eu
+regartetconsideracionà	regart et consideracion à
+àceschoses.,	à ces choses . ,
+ayanzpitiéetcompassiondesdizsuppliansen	ayanz pitié et compassion des diz supplians en
+cestepartie.,toutepeinnecorporele,	ceste partie . , toute peinne corporele ,
+crimineleetcivile,enquoylesdiz	criminele et civile , en quoy les diz
+dizsuppliansetchascund'eulxsont	diz supplians et chascun d ' eulx sont
+ou.peventestreencoruzenvers	ou . pevent estre encoruz envers
+nous,pour	nous , pour
+pourlefaitdelaprinse	pour le fait de la prinse
+duditmoustieret	du dit moustier et
+desbiensquiyestoient,	des biens qui y estoient ,
+,lesquelzilprinrentpourleurs	, les quelz il prinrent pour leurs
+dictesneccessitez..,leuravonsoucasdessusdit	dictes neccessitez . . , leur avons ou cas dessus dit
+quictié,pardonnéetremis..,quictons	quictié , pardonné et remis . . , quictons
+,pardonnonsetremettons,	, pardonnons et remettons ,
+parcespresentes,degraceespecialet	par ces presentes , de grace especial et
+denostreauctoritéroyal,satisfactionourestitucionfaicte	de nostre auctorité royal , satisfaction ou restitucion faicte
+àpartie,et	à partie , et
+lesremettonsaupaïs,àleurbonnefameet	les remettons au païs , à leur bonne fame et
+renomméeetàleurs	renommée et à leurs
+leursbiens,enimposantquant	leurs biens , en imposant quant
+quantàcesilenceperpetuelànostreprocureuretà	quant à ce silence perpetuel à nostre procureur et à
+touznozautresjusticiers..	touz noz autres justiciers . .
+.etofficiers.	. et officiers .
+Mandans.aubaillidesExempcionsdeTouraine,d'	Mandans . au bailli des Exempcions de Touraine , d '
+'Anjou,	' Anjou ,
+duMaineetdePoictou,et	du Maine et de Poictou , et
+àtouzrefformateurs.	à touz refformateurs .
+.,deputezetàdeputersurtelzet..semblables	. , deputez et à deputer sur telz et . . semblables
+faiz,àleurs..	faiz , à leurs . .
+lieuxtenanset	lieux tenans et
+età..chascund	et à . . chascun d
+'eulx,que	' eulx , que
+quelesdizsupplianset	que les diz supplians et
+etchascund'eulxilfacent,sueffrentetlaissent	et chascun d ' eulx il facent , sueffrent et laissent
+joiretuserpaisiblementdenostre..presentegrace,	joir et user paisiblement de nostre . . presente grace ,
+etseleurscorpsouleursbiens,ou	et se leurs corps ou leurs biens , ou
+d.'aucuns	d . ' aucuns
+aucunsd'eulx,	aucuns d ' eulx ,
+estoientpource..	estoient pour ce . .
+prins,detenuz	prins , detenuz
+ouempeschiez,qu'illesleurmettentou	ou empeschiez , qu ' il les leur mettent ou
+oufacentmettreàplainedelivrance	ou facent mettre à plaine delivrance
+.Etquecesoitchosefermeet	. Et que ce soit chose ferme et
+estableàtouzjoursmais,nousavonsfait	estable à touz jours mais , nous avons fait
+faitmettrenostreseel,ordenéenl'absence	fait mettre nostre seel , ordené en l ' absence
+absencedugrant,àcespresenteslettres.Sauf	absence du grant , à ces presentes lettres . Sauf
+enautreschosesnostre	en autres choses nostre
+droitetentoutesl	droit et en toutes l
+'autrui.DonnéàParis,oumoys	' autrui . Donné à Paris , ou moys
+moysdemarsl	moys de mars l
+l'andegrace	l ' an de grace
+gracem..ccc	grace m . . ccc
+.lxxv,etlexiiedenostre	. lxxv , et le xiie de nostre
+regne.Esrequestesdel'	regne . Es requestes de l '
+'ostel.	' ostel .
+.J.Greelle.Auxoys.	. J . Greelle . Auxoys .

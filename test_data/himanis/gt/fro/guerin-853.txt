@@ -1,137 +1,145 @@
 Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
-àtous,presensetavenir,nousavoirreceu	à tous , presens et avenir , nous avoir receu
-l'umblesupplicaciondesamis	l ' umble supplicacion des amis
-amischarnelzdePierre	amis charnelz de Pierre
-PierreEvrart,povrelaboureurdel'aagede	Pierre Evrart , povre laboureur de l ' aage de
-devintansouenviron,chargiéde	de vint ans ou environ , chargié de
-femmeensainte,prested'enfanter,contenantque	femme ensainte , preste d ' enfanter , contenant que
-,ledimencheveilledesaintVincentderrenierementpassé	, le dimenche veille de saint Vincent derrenierement passé
-passéouenviron,	passé ou environ ,
-,unnomméJehanBourreau,hommede	, un nommé Jehan Bourreau , homme de
-basestat,ryoteuxetsuivant	bas estat , ryoteux et suivant
-suivanttavernes,vintenl..'osteldeJehan	suivant tavernes , vint en l . . ' ostel de Jehan
-Evrart,pereduditPierreEvrart,ou	Evrart , pere du dit Pierre Evrart , ou
-ouvillagedeChieloup,pour	ou village de Chieloup , pour
-requerreetavoirduditperecertainnesommededeniers	requerre et avoir du dit pere certainne somme de deniers
-,enquoyleditBureau	, en quoy le dit Bureau
-Bureau(sic)	Bureau ( sic )
-ledisoitestretenuàlui,pourraisonde	le disoit estre tenu à lui , pour raison de
-certainprocèsqu'ilavoiteuetpoursuycontre	certain procès qu ' il avoit eu et poursuy contre
-leditJehanEvrart,commeaiantprisladefense	le dit Jehan Evrart , comme aiant pris la defense
-duditPierreEvrart,sonfilz	du dit Pierre Evrart , son filz
-,enl'assiseduprieur	, en l ' assise du prieur
-deSouvignet,membre	de Souvignet , membre
-du.monastere	du . monastere
-deSaintMaixenten	de Saint Maixent en
-Poictou.AuquelJehanBourreauleditPierreEvrartrespondi.	Poictou . Auquel Jehan Bourreau le dit Pierre Evrart respondi .
-quesonditperen'	que son dit pere n '
-estoitpasensondit	estoit pas en son dit
-dithosteletenestoit..absent,ettele	dit hostel et en estoit . . absent , et tele
-teleestoit.laverité.	tele estoit . la verité .
-Maisce.nonobstant,	Mais ce . non obstant ,
-leditJehanBourreauentraoudithostel	le dit Jehan Bourreau entra ou dit hostel
-etsouspaavecleditPierreEvrartet	et souspa avec le dit Pierre Evrart et
-autres.gensd'icellui	autres . gens d ' icellui
-hostel.,	hostel . ,
-,etneantmoinsdistycellui	, et neantmoins dist ycellui
-BourreauauditPierre	Bourreau au dit Pierre
-Evrarttelles[paroles]ou.	Evrart telles [ paroles ] ou .
-semblables:«	semblables :«
-:«Ribaut,parDieujeteferaypendre»,avec	:« Ribaut , par Dieu je te feray pendre », avec
+àtous,presensetavenir,	à tous , presens et avenir ,
+nousavoirreceul'umblesupplicaciondesamischarnelz	nous avoir receu l ' umble supplicacion des amis charnelz
+dePierreEvrart,	de Pierre Evrart ,
+,povrelaboureurdel'aagedevint	, povre laboureur de l ' aage de vint
+vintansouenviron	vint ans ou environ
+,chargiédefemme..ensainte	, chargié de femme . . ensainte
+,prested'enfanter.,contenantque,le	, preste d ' enfanter . , contenant que , le
+dimencheveilledesaint	dimenche veille de saint
+Vincentderrenierementpasséouenviron,unnommé	Vincent derrenierement passé ou environ , un nommé
+JehanBourreau,hommedebasestat,ryoteux	Jehan Bourreau , homme de bas estat , ryoteux
+ryoteuxetsuivanttavernes,vintenl'	ryoteux et suivant tavernes , vint en l '
+osteldeJehanEvrart,pere.duditPierre	ostel de Jehan Evrart , pere . du dit Pierre
+PierreEvrart,ouvillagedeChieloup,pour	Pierre Evrart , ou village de Chieloup , pour
+pourrequerreetavoirdu	pour requerre et avoir du
+duditperecertainnesommededeniers	du dit pere certainne somme de deniers
+deniers,enquoy	deniers , en quoy
+leditBureau(sic)ledisoitestre	le dit Bureau ( sic ) le disoit estre
+estretenuàlui,.pourraison	estre tenu à lui , . pour raison
+decertainprocèsqu'il	de certain procès qu ' il
+avoiteuetpoursuycontreleditJehanEvrart	avoit eu et poursuy contre le dit Jehan Evrart
+,commeaiant	, comme aiant
+prisladefenseduditPierreEvrart,son	pris la defense du dit Pierre Evrart , son
+filz,en	filz , en
+l'assiseduprieurdeSouvignet,membre	l ' assise du prieur de Souvignet , membre
+dumonasteredeSaintMaixentenPoictou.AuquelJehan	du monastere de Saint Maixent en Poictou . Auquel Jehan
+BourreauleditPierreEvrartrespondi	Bourreau le dit Pierre Evrart respondi
+quesondit	que son dit
+ditperen.'estoitpas	dit pere n . ' estoit pas
+pasensondithosteletenestoit..	pas en son dit hostel et en estoit . .
+absent..,etteleestoitlaverité	absent . . , et tele estoit la verité
+verité.Maiscenonobstant	verité . Mais ce non obstant
+,leditJehanBourreauentraoudithostelet	, le dit Jehan Bourreau entra ou dit hostel et
+etsouspaavec	et souspa avec
+leditPierre	le dit Pierre
+Evrartetautresgensd	Evrart et autres gens d
+'icelluihostel,etneantmoinsdistycelluiBourreauau	' icellui hostel , et neantmoins dist ycellui Bourreau au
+auditPierreEvrarttelles	au dit Pierre Evrart telles
+[paroles]ousemblables:«Ribaut,parDieu	[ paroles ] ou semblables :« Ribaut , par Dieu
+jeteferaypendre.	je te feray pendre .
+»,avecpluseurs	», avec pluseurs
 pluseursautresparollesinjurieuses.	pluseurs autres parolles injurieuses .
-Et.pourceleditPierreEvrartboutaycelluiBourreau	Et . pour ce le dit Pierre Evrart bouta ycellui Bourreau
-horsdudithostel,àheuredejour	hors du dit hostel , à heure de jour
-faillantou	faillant ou
-environ,	environ ,
-etprinstycelluiPierreEvrartun	et prinst ycellui Pierre Evrart un
-grosbastonensa	gros baston en sa
-mainetluiesmeudechaleuretjosnesse,	main et lui esmeu de chaleur et josnesse ,
-lequel,commedit	lequel , comme dit
-est,n'a	est , n ' a
-seulementaagefors..d	seulement aage fors . . d
-d'environvintans,etpourlecourroux	d ' environ vint ans , et pour le courroux
-queavoitleditPierrecontreleditBourreau	que avoit le dit Pierre contre le dit Bourreau
-Bourreaupourraisondesdictesinjuresetduditprocès	Bourreau pour raison des dictes injures et du dit procès
-queavoiteuetpoursuyycelluiBourreaucontreledit	que avoit eu et poursuy ycellui Bourreau contre le dit
-ditJehanEvrart	dit Jehan Evrart
-,..pereduditPierre,ycelluiPierresuyvi	, . . pere du dit Pierre , ycellui Pierre suyvi
-leditBourreauenesloignantledithosteljusquesà	le dit Bourreau en esloignant le dit hostel jusques à
-àunfour	à un four
-,prez.d'icelluihostelàun	, prez . d ' icellui hostel à un
-ungetdepierre	un get de pierre
+.Etpourceledit	. Et pour ce le dit
+Pierre..Evrartboutaycellui	Pierre . . Evrart bouta ycellui
+ycelluiBourreauhorsdudithostel,à	ycellui Bourreau hors du dit hostel , à
+àheuredejourfaillant.ou	à heure de jour faillant . ou
+environ,etprinstycelluiPierreEvrartun	environ , et prinst ycellui Pierre Evrart un
+grosbaston	gros baston
+baston.ensamainet	baston . en sa main et
+luiesmeu	lui esmeu
+dechaleuret	de chaleur et
+josnesse,	josnesse ,
+,lequel,comme.	, lequel , comme .
+.ditest,n'a	. dit est , n ' a
+seulementaage..fors	seulement aage . . fors
+d'environ	d ' environ
+environvintans,etpourle	environ vint ans , et pour le
+courrouxqueavoitleditPierre	courroux que avoit le dit Pierre
+contreleditBourreaupourraisondesdictes	contre le dit Bourreau pour raison des dictes
+injuresetduditprocèsqueavoiteuetpoursuy	injures et du dit procès que avoit eu et poursuy
+poursuyycelluiBourreaucontreleditJehanEvrart,peredu	poursuy ycellui Bourreau contre le dit Jehan Evrart , pere du
+duditPierre,ycelluiPierre	du dit Pierre , ycellui Pierre
+suyvileditBourreauen..esloignantle	suyvi le dit Bourreau en . . esloignant le
+dithosteljusques.àunfour,prezd	dit hostel jusques . à un four , prez d
+d'icellui.hostelàun	d ' icellui . hostel à un
+getdepierre	get de pierre
 ,etlàouprèsd	, et là ou près d
-'ilecycelluiPierreEvrartbati..duditbastonle	' ilec ycellui Pierre Evrart bati . . du dit baston le
-leditJehanBoureauparsesjambes	le dit Jehan Boureau par ses jambes
-telementqu'ilnes'enpot	telement qu ' il ne s ' en pot
-potouvoltaler,sans	pot ou volt aler , sans
-cequeledit..Pierre	ce que le dit . . Pierre
-PierreEvrartenlaisantla	Pierre Evrart en laisant la
-la..dictebateureeust	la . . dicte bateure eust
-proposnevoulentédebatreàmortleditJehan	propos ne voulenté de batre à mort le dit Jehan
-Bourreau,lequelil	Bourreau , lequel il
-convintvenirquerre	convint venir querre
-,aumoinsen	, au moins en
-fuporté	fu porté
-ensondomicile	en son domicile
-estantprèsd'illec;etpourladicte	estant près d ' illec ; et pour la dicte
-bateure,fudèslorsaulitgisantmalade	bateure , fu dès lors au lit gisant malade
-leditJehanBourreauparl'espacede	le dit Jehan Bourreau par l ' espace de
-deuxmoisouenviron	deux mois ou environ
-,etd'icellemaladiele	, et d ' icelle maladie le
-leditBourreau,quiestoitvielhommeetpar	le dit Bourreau , qui estoit viel homme et par
-avanturen'apasestébiengouvernéen	avanture n ' a pas esté bien gouverné en
-la..dictemaladie,	la . . dicte maladie ,
-,estaléd'icellede..vie	, est alé d ' icelle de . . vie
-àtrespassement.	à trespassement .
-Pourlequel	Pour lequel
-casleditPierre	cas le dit Pierre
-PierreEvrartaestéemprisonnéenla	Pierre Evrart a esté emprisonné en la
-prisonduditprieurdeSouvignet,	prison du dit prieur de Souvignet ,
-etencores.	et encores .
-yestdetenuàpresent,àgrantpovreté.	y est detenu à present , à grant povreté .
-etmisere,	et misere ,
-etenaventure	et en aventure
-derecevoirsurceparjusticepugnicioncorporelle,si	de recevoir sur ce par justice pugnicion corporelle , si
-commelesdizsuppliansdient	comme les diz supplians dient
-,ennous.humblementrequerant	, en nous . humblement requerant
-requerantque,attenducequedit	requerant que , attendu ce que dit
-est,etmesmement	est , et mesmement
+'ilecycelluiPierreEvrartbatidu	' ilec ycellui Pierre Evrart bati du
+ditbastonleditJehanBoureaupar	dit baston le dit Jehan Boureau par
+sesjambestelementqu'il	ses jambes telement qu ' il
+nes'enpotouvoltaler,	ne s ' en pot ou volt aler ,
+sansceque	sans ce que
+leditPierre	le dit Pierre
+PierreEvrartenlaisantladictebateure	Pierre Evrart en laisant la dicte bateure
+bateureeustproposnevoulenté	bateure eust propos ne voulenté
+debatreàmortleditJehanBourreau	de batre à mort le dit Jehan Bourreau
+,lequelilconvintvenirquerre,aumoinsen	, lequel il convint venir querre , au moins en
+fuportéensondomicileestant	fu porté en son domicile estant
+prèsd'illec;	près d ' illec ;
+;etpourladictebateure,fudèslorsau	; et pour la dicte bateure , fu dès lors au
+litgisant	lit gisant
+maladeledit	malade le dit
+ditJehanBourreaupar	dit Jehan Bourreau par
+parl'espacededeuxmois	par l ' espace de deux mois
+mois.ouenviron,etd	mois . ou environ , et d
+'icellemaladieledit	' icelle maladie le dit
+Bourreau,quiestoitvielhomme	Bourreau , qui estoit viel homme
+etparavanturen'apasestébien	et par avanture n ' a pas esté bien
+gouvernéenladictemaladie,estaléd'	gouverné en la dicte maladie , est alé d '
+icelledevieàtrespassement.Pourlequel	icelle de vie à trespassement . Pour lequel
+lequelcasleditPierreEvrartaestéemprisonné	lequel cas le dit Pierre Evrart a esté emprisonné
+enlaprisondu	en la prison du
+duditprieurdeSouvignet,et	du dit prieur de Souvignet , et
+encoresyestdetenuàpresent,	encores y est detenu à present ,
+àgrantpovretéet	à grant povreté et
+misere,etenaventurederecevoirsur	misere , et en aventure de recevoir sur
+ceparjusticepugnicioncorporelle,si	ce par justice pugnicion corporelle , si
+si..commelesdizsuppliansdient	si . . comme les diz supplians dient
+,ennoushumblementrequerantque	, en nous humblement requerant que
+,attendu	, attendu
+cequedit..est	ce que dit . . est
+,etmesmement	, et mesmement
 lachaleur	la chaleur
-etjeunesseduditPierreEvrart,et	et jeunesse du dit Pierre Evrart , et
-etenfaveurdesadictefemme	et en faveur de sa dicte femme
-,laquelle	, laquelle
-laquelleestensainteet	laquelle est ensainte et
-etprested'	et preste d '
-'enfanter,commeditest,etque	' enfanter , comme dit est , et que
-leditJehanBourreadurantsaviepreistsurce	le dit Jehan Bourrea durant sa vie preist sur ce
-sattisfaciond'icelluiPierreEvrart,etenreçut	sattisfacion d ' icellui Pierre Evrart , et en reçut
-reçutdeparluiXIIIIlivrestournois,	reçut de par lui XIIII livres tournois ,
-Imuydevin	I muy de vin
-vinetdeux	vin et deux
-deuxaulneset.demiededrap,etpardonnaet	deux aulnes et . demie de drap , et pardonna et
-etquictaycelluiBourreaauditPierreEvrartledit.cas	et quicta ycellui Bourrea au dit Pierre Evrart le dit . cas
-etmeffet;et	et meffet ; et
-aussyqueentousautrescas	aussy que en tous autres cas
-,leditPierre.	, le dit Pierre .
-.Evrartaesté	. Evrart a esté
-etestde	et est de
-bonnevieetrenommée,sansavoiresté	bonne vie et renommée , sans avoir esté
-estéactaintneconvaincud'aucunautrevilainblasme	esté actaint ne convaincu d ' aucun autre vilain blasme
-oureprouche,noussurceluivueillions	ou reprouche , nous sur ce lui vueillions
-impartirnostregrace	impartir nostre grace
-.Pourquoynous,	. Pour quoy nous ,
-ceschosesconsiderées.,	ces choses considerées . ,
-etc.,auditPierreEvrart	etc ., au dit Pierre Evrart
-oucasdessusditavonsquicté	ou cas dessus dit avons quicté
-,remizetpardonné,etc.Sidonnons	, remiz et pardonné , etc . Si donnons
-enmandementparces	en mandement par ces
-cesmesmespresentesà	ces mesmes presentes à
-nostrebaillideTouraineetdesExempcionsdePoitou,	nostre bailli de Touraine et des Exempcions de Poitou ,
-d'Anjou	d ' Anjou
-AnjouetduMaine,etàtousnozautresjusticiers	Anjou et du Maine , et à tous noz autres justiciers
-justiciers,etc.DonnéàParis	justiciers , etc . Donné à Paris
-,oumoisd'avrilavantPasques	, ou mois d ' avril avant Pasques
-Pasquesl'andegracemilCCCC	Pasques l ' an de grace mil CCCC
-CCCCetdeux,denostreregne	CCCC et deux , de nostre regne
-leXXIIIe.Parleroy,à	le XXIIIe . Par le roy , à
-àlarelacionduconseil...J.	à la relacion du conseil . . . J .
+etjeunesseduditPierreEvrart	et jeunesse du dit Pierre Evrart
+,etenfaveurde	, et en faveur de
+sadictefemme,laquelleest	sa dicte femme , laquelle est
+estensainteetprested'enfanter,comme	est ensainte et preste d ' enfanter , comme
+ditest,etqueledit	dit est , et que le dit
+ditJehanBourrea	dit Jehan Bourrea
+durantsa..viepreistsurcesattisfacion	durant sa . . vie preist sur ce sattisfacion
+d'icelluiPierreEvrart,et	d ' icellui Pierre Evrart , et
+enreçut	en reçut
+deparlui	de par lui
+XIIIIlivres.tournois	XIIII livres . tournois
+,Imuyde	, I muy de
+devinet	de vin et
+deuxaulnes	deux aulnes
+etdemiededrap,	et demie de drap ,
+,etpardonnaetquictaycelluiBourrea	, et pardonna et quicta ycellui Bourrea
+auditPierre	au dit Pierre
+PierreEvrartleditcasetmeffet;etaussy	Pierre Evrart le dit cas et meffet ; et aussy
+queentousautrescas,ledit	que en tous autres cas , le dit
+ditPierreEvrartaestéetestdebonnevie	dit Pierre Evrart a esté et est de bonne vie
+et.renommée,sansavoirestéactaintneconvaincu	et . renommée , sans avoir esté actaint ne convaincu
+convaincud'	convaincu d '
+aucunautrevilainblasmeoureprouche	aucun autre vilain blasme ou reprouche
+,noussur	, nous sur
+celuivueillionsimpartirnostregrace.	ce lui vueillions impartir nostre grace .
+.Pourquoynous,ceschosesconsiderées,etc	. Pour quoy nous , ces choses considerées , etc
+.,auditPierreEvrart	., au dit Pierre Evrart
+Evrartoucasdessusdit	Evrart ou cas dessus dit
+avons..quicté	avons . . quicté
+,remizetpardonné,etc.	, remiz et pardonné , etc .
+Sidonnonsenmandementparcesmesmespresentesànostre	Si donnons en mandement par ces mesmes presentes à nostre
+nostrebaillideTouraineetdesExempcionsde	nostre bailli de Touraine et des Exempcions de
+Poitou,d'AnjouetduMaine	Poitou , d ' Anjou et du Maine
+,età.tousnozautres	, et à . tous noz autres
+justiciers,etc.Donnéà	justiciers , etc . Donné à
+Paris,oumoisd'avrilavantPasques	Paris , ou mois d ' avril avant Pasques
+Pasquesl'andegrace	Pasques l ' an de grace
+milCCCCetdeux.,de	mil CCCC et deux . , de
+nostre.regne	nostre . regne
+leXXIIIe.Parleroy	le XXIIIe . Par le roy
+,àlarelaciondu	, à la relacion du
+conseil.J.Budé.	conseil . J . Budé .

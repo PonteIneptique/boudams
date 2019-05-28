@@ -1,109 +1,124 @@
-Philippe,parlagracedeDieu,	Philippe , par la grace de Dieu ,
-roysdeFrance.	roys de France .
-.Savoir	. Savoir
-faisonsàtouz,presenzetavenir,que,	faisons à touz , presenz et avenir , que ,
-commenostreaméetfealconseillerPierre,	comme nostre amé et feal conseiller Pierre ,
-arcevesquedeRouen,etmestreGuy	arcevesque de Rouen , et mestre Guy
-delaCalme,chanoinedeNevers,nostreamé	de la Calme , chanoine de Nevers , nostre amé
-améclerc,executeursdutestamentouderrenierevolenté..	amé clerc , executeurs du testament ou derreniere volenté . .
-...defeumestrePierre	. . . de feu mestre Pierre
-deMortemer,jadizcardinaldelasainte	de Mortemer , jadiz cardinal de la sainte
-sainte,eglisedeRome,aientgracieusementoctroiéà	sainte , eglise de Rome , aient gracieusement octroié à
-nostreaméetfealRaoul,	nostre amé et feal Raoul ,
-conted'Eu.etdeGuines,connestablede	conte d ' Eu . et de Guines , connestable de
-France,quedeuxcenzlivresderente,les	France , que deux cenz livres de rente , les
-lesquellesledit	les quelles le dit
-conteavoitvenduesauditcardinal	conte avoit vendues au dit cardinal
-cardinal,assises,selonlacoustumedu	cardinal , assises , selon la coustume du
-païs,enla..chasteleriedeSyvray,	païs , en la . . chastelerie de Syvray ,
-,avectoutejustice,haute,moienneetbasse	, avec toute justice , haute , moienne et basse
-basseenfiezetarrerefiez,etàtouz	basse en fiez et arrerefiez , et à touz
-touzautres..droiz,quiexqu'	touz autres . . droiz , quiex qu '
-ilfeussent,..exceptétantseulementressortetsouveraineté,	il feussent , . . excepté tant seulement ressort et souveraineté ,
-ainssicommeèslettressur	ainssi comme ès lettres sur
-cefaitesestplusplainementcontenu,puisseravoir	ce faites est plus plainement contenu , puisse ravoir
-enpaianttout	en paiant tout
-toutlepris,	tout le pris ,
-,c'estassavoirquatremillivresdebons	, c ' est assavoir quatre mil livres de bons
-petitztournoisqueilenavoiteuz,	petitz tournois que il en avoit euz ,
-dedenzun.certaintemps	dedenz un . certain temps
-;lesquellesdeuxcenzlivresdeterrenous	; les quelles deux cenz livres de terre nous
-avionsparnozlettresoctroiéquele	avions par noz lettres octroié que le
-ditcardinaloulesgenzde	dit cardinal ou les genz de
-desainteeglise,enquiellesseroient	de sainte eglise , en qui elles seroient
-seroienttransportées,peussenttenirpaisiblementàtouzjours,	seroient transportées , peussent tenir paisiblement à touz jours ,
-,sanzestrécontrainsàles.mettrehorsdeleurs	, sanz estré contrains à les . mettre hors de leurs
-leursmains,ouàpoierpource	leurs mains , ou à poier pour ce
-finance,quelle	finance , quelle
-queelle.soit	que elle . soit
-,avecautrescentlivresderente	, avec autres cent livres de rente
-queleditcardinalavoitacquisduditconte	que le dit cardinal avoit acquis du dit conte
-,d'autrepart	, d ' autre part
-,avantleditachat,si	, avant le dit achat , si
-commelesdizexecuteurs	comme les diz executeurs
-executeursdientceschosesestreplusplainement	executeurs dient ces choses estre plus plainement
-contenuesèslettressurcefaites.	contenues ès lettres sur ce faites .
-Nousconsideranz..quela	Nous consideranz . . que la
-laditegracenedoitestrenuisable	la dite grace ne doit estre nuisable
-nuisableausdizexecuteursouàceus,quiont	nuisable aus diz executeurs ou à ceus , qui ont
-ontcauseduditcardinal,	ont cause du dit cardinal ,
-àlasupplicacion	à la supplicacion
-duditconteavonsoctroiéetoctroions	du dit conte avons octroié et octroions
-,degraceespecial,ausdizexecuteurs,..ou	, de grace especial , aus diz executeurs , . . ou
-nometcommeexecuteursduditcardinaletà	nom et comme executeurs du dit cardinal et à
-touzceus	touz ceus
-quiontouaurontcausedudit	qui ont ou auront cause du dit
-cardinal,èsdeuxcenzlivresderentedessusdites	cardinal , ès deux cenz livres de rente dessus dites
-,queoucasou	, que ou cas ou
-leditconte..recouvrerapaisiblement	le dit conte . . recouvrera paisiblement
-lesditesdeuxcenzlivres	les dites deux cenz livres
-deterre,	de terre ,
-lesdizexecuteurs..puissent	les diz executeurs . . puissent
-enlieud'icelles,les	en lieu d ' icelles , les
-lesquellesdemourrontsouzlefiéetsouzlescharges	les quelles demourront souz le fié et souz les charges
-ouellesestoientavantladiteconcession,achaterou	ou elles estoient avant la dite concession , achater ou
-ouacquerre,ensemble	ou acquerre , ensemble
-ouparparties,d'uneoudepluseurs	ou par parties , d ' une ou de pluseurs
-personnes,làoùil	personnes , là où il
-illeurplaira,en	il leur plaira , en
-unlieuouenpluseurs,parquelconque	un lieu ou en pluseurs , par quelconque
-tiltreloial,deuxcenzlivresdeterre	tiltre loial , deux cenz livres de terre
-àtornois,assisesouàasseoir	à tornois , assises ou à asseoir
-asseoirselonla.coustumedupaïs,ainssitoutevoies	asseoir selon la . coustume du païs , ainssi toutevoies
+Philippe,.parlagracedeDieu,	Philippe , . par la grace de Dieu ,
+roysdeFrance.Savoir	roys de France . Savoir
+faisonsà..touz,presenzetavenir,	faisons à . . touz , presenz et avenir ,
+que,commenostre	que , comme nostre
+améetfeal..conseillerPierre	amé et feal . . conseiller Pierre
+Pierre,arcevesquedeRouen,	Pierre , arcevesque de Rouen ,
+et..mestreGuydelaCalme,chanoinedeNevers	et . . mestre Guy de la Calme , chanoine de Nevers
+Nevers,nostre..améclerc	Nevers , nostre . . amé clerc
+,executeurs	, executeurs
+dutestamentou	du testament ou
+ouderrenierevolentédefeumestrePierrede	ou derreniere volenté de feu mestre Pierre de
+deMortemer,jadiz.cardinaldela	de Mortemer , jadiz . cardinal de la
+sainte,eglisedeRome,aient	sainte , eglise de Rome , aient
+gracieusementoctroiéànostreaméetfealRaoul,	gracieusement octroié à nostre amé et feal Raoul ,
+,conted'EuetdeGuines,connestablede	, conte d ' Eu et de Guines , connestable de
+France,que..deux	France , que . . deux
+cenzlivresderente,lesquellesleditconte	cenz livres de rente , les quelles le dit conte
+avoitvenduesauditcardinal,assises	avoit vendues au dit cardinal , assises
+,selonlacoustume..	, selon la coustume . .
+dupaïs,enlachasteleriede..Syvray,avec	du païs , en la chastelerie de . . Syvray , avec
+toutejustice,	toute justice ,
+haute,moienneet	haute , moienne et
+basseen..fiezet	basse en . . fiez et
+arrerefiez,	arrerefiez ,
+etàtouzautresdroiz	et à touz autres droiz
+,quiexqu'	, quiex qu '
+ilfeussent,exceptétantseulementressortetsouveraineté	il feussent , excepté tant seulement ressort et souveraineté
+souveraineté..,ainssicommeès	souveraineté . . , ainssi comme ès
+èslettressurce	ès lettres sur ce
+cefaitesestplusplainementcontenu,puisse	ce faites est plus plainement contenu , puisse
+ravoirenpaianttoutlepris,c'	ravoir en paiant tout le pris , c '
+estassavoirquatremillivresde	est assavoir quatre mil livres de
+debonspetitztournois	de bons petitz tournois
+queil.enavoiteuz,dedenz	que il . en avoit euz , dedenz
+uncertaintemps;	un certain temps ;
+lesquellesdeux	les quelles deux
+deuxcenzlivresdeterrenousavionspar.noz	deux cenz livres de terre nous avions par . noz
+lettresoctroiéquele	lettres octroié que le
+ditcardinaloulesgenz	dit cardinal ou les genz
+genzdesainteeglise,	genz de sainte eglise ,
+enquiellesseroienttransportées,	en qui elles seroient transportées ,
+peussenttenir	peussent tenir
+tenirpaisiblementàtouz	tenir paisiblement à touz
+jours,sanzestrécontrainsà	jours , sanz estré contrains à
+àlesmettrehorsdeleursmains,ouàpoier	à les mettre hors de leurs mains , ou à poier
+pourcefinance	pour ce finance
+,quellequeellesoit,	, quelle que elle soit ,
+avecautres.	avec autres .
+.centlivresderentequeledit..cardinalavoitacquis	. cent livres de rente que le dit . . cardinal avoit acquis
+acquisdudit	acquis du dit
+conte,d'autrepart.	conte , d ' autre part .
+.,avantledit	. , avant le dit
+achat,sicommelesdizexecuteursdient	achat , si comme les diz executeurs dient
+ceschosesestreplusplainementcontenuesès	ces choses estre plus plainement contenues ès
+èslettressur	ès lettres sur
+cefaites...	ce faites . . .
+.Nousconsideranzqueladitegrace	. Nous consideranz que la dite grace
+nedoitestrenuisableausdizexecuteursou	ne doit estre nuisable aus diz executeurs ou
+àceus..,quiontcausedudit	à ceus . . , qui ont cause du dit
+ditcardinal,à	dit cardinal , à
+àlasupplicacionduditconteavonsoctroiéetoctroions	à la supplicacion du dit conte avons octroié et octroions
+,degraceespecial	, de grace especial
+,ausdizexecuteurs,	, aus diz executeurs ,
+,ounomet	, ou nom et
+commeexecuteursduditcardinaletàtouzceusqui	comme executeurs du dit cardinal et à touz ceus qui
+ontouaurontcauseduditcardinal	ont ou auront cause du dit cardinal
+,èsdeuxcenzlivresderentedessus	, ès deux cenz livres de rente dessus
+dessusdites,queoucasou	dessus dites , que ou cas ou
+leditconte	le dit conte
+recouvrerapaisiblementlesdites	recouvrera paisiblement les dites
+ditesdeuxcenzlivresdeterre,	dites deux cenz livres de terre ,
+lesdizexecuteurspuissentenlieu	les diz executeurs puissent en lieu
+d'icelles,lesquellesdemourrontsouzle	d ' icelles , les quelles demourront souz le
+fié.etsouz	fié . et souz
+leschargesou.elles	les charges ou . elles
+ellesestoientavantladiteconcession,achater	elles estoient avant la dite concession , achater
+ouacquerre,	ou acquerre ,
+ensembleoupar	ensemble ou par
+parties,d'..uneoudepluseurs	parties , d ' . . une ou de pluseurs
+personnes,là	personnes , là
+làoùilleurplaira	là où il leur plaira
+,enunlieuouenpluseurs	, en un lieu ou en pluseurs
+,parquelconquetiltre	, par quelconque tiltre
+loial,deuxcenzlivresdeterre	loial , deux cenz livres de terre
+terreàtornois,assises.	terre à tornois , assises .
+ouàasseoir	ou à asseoir
+asseoirselonlacoustumedupaïs.,ainssitoutevoiesque	asseoir selon la coustume du païs . , ainssi toutevoies que
 queellesnesoientpas	que elles ne soient pas
-pasdeplusgrantvaluenede	pas de plus grant value ne de
-plusgrantassiseou	plus grant assise ou
-noblecequelesautresdeuxcenzlivresdessusdites	noblece que les autres deux cenz livres dessus dites
-estoientlesquellesdeuxcenslivresderente,quant	estoient lesquelles deux cens livres de rente , quant
-acquisesseront	acquises seront
-,nousvoulonsetoctroionsqueil..	, nous voulons et octroions que il . .
-.puissentteniretpossiderpaisiblement.	. puissent tenir et possider paisiblement .
-àtouzjours,sanzestrecontrainz	à touz jours , sanz estre contrainz
-àlesvendreoumettrehorsdeleurs.mains,	à les vendre ou mettre hors de leurs . mains ,
-,etsanzenpaier,ànousouànoz	, et sanz en paier , à nous ou à noz
-successeurs,roysde	successeurs , roys de
-deFrance,aucune	de France , aucune
-financequele	finance quele
-qu'..ellesoit,outemps	qu ' . . elle soit , ou temps
-avenir,enlafourmeeten	avenir , en la fourme et en
-enlamanierequenousavionsoctroiédesautres	en la maniere que nous avions octroié des autres
-deuxcenz	deux cenz
-livresde.	livres de .
-.rentesdessusditesaveclesautrescentlivresdeterre	. rentes dessus dites avec les autres cent livres de terre
-,sicomme	, si comme
-il.estdessus	il . est dessus
-dit;lesquellescentlivres	dit ; les quelles cent livres
-livresdeterredemourrontenlagracequefaite	livres de terre demourront en la grace que faite
-faiteavionsparavantauditcardinal.Etpourque	faite avions par avant au dit cardinal . Et pour que
-cesoitferme	ce soit ferme
-choseetestableà	chose et estable à
-touzjours,nousavonsfaitmettrenostre	touz jours , nous avons fait mettre nostre
-nostreseelencespresenteslettres.Saufenautreschoses	nostre seel en ces presentes lettres . Sauf en autres choses
-nostredroitetentouteschosesledroitd'	nostre droit et en toutes choses le droit d '
-autrui.Donnéà	autrui . Donné à
-Parisl'andegracemil	Paris l ' an de grace mil
-ccc.trentecinq,oumoisd'	ccc . trente cinq , ou mois d '
-'aoust.Parle.royenson	' aoust . Par le . roy en son
-conseil,àlarelaciondevous	conseil , à la relacion de vous
-etdesautresdu..conseil	et des autres du . . conseil
+deplusgrantvaluenedeplusgrant	de plus grant value ne de plus grant
+assiseounoblecequelesautresdeuxcenzlivresdessus	assise ou noblece que les autres deux cenz livres dessus
+dessusditesestoientlesquellesdeuxcenslivresderente	dessus dites estoient lesquelles deux cens livres de rente
+,quantacquisesseront,	, quant acquises seront ,
+,nousvoulonset..octroionsqueil	, nous voulons et . . octroions que il
+puissentteniretpossiderpaisiblementàtouzjours	puissent tenir et possider paisiblement à touz jours
+,sanzestrecontrainzà	, sanz estre contrainz à
+lesvendreoumettrehorsdeleursmains	les vendre ou mettre hors de leurs mains
+mains,etsanz	mains , et sanz
+enpaier,..	en paier , . .
+.ànousou	. à nous ou
+ànozsuccesseurs,roysdeFrance,aucunefinance	à noz successeurs , roys de France , aucune finance
+quelequ'	quele qu '
+ellesoit,outempsavenir,en	elle soit , ou temps avenir , en
+lafourmeetenlamaniereque	la fourme et en la maniere que
+nousavionsoctroiédes	nous avions octroié des
+autresdeux.	autres deux .
+.cenzlivresde	. cenz livres de
+rentesdessusditesavecles.autres	rentes dessus dites avec les . autres
+centlivresdeterre,sicommeilestdessus	cent livres de terre , si comme il est dessus
+dit;les	dit ; les
+quellescentlivresde	quelles cent livres de
+deterredemourrontenla..graceque	de terre demourront en la . . grace que
+quefaiteavionsparavantauditcardinal.Et..	que faite avions par avant au dit cardinal . Et . .
+pour..quecesoitfermechose	pour . . que ce soit ferme chose
+etestableàtouzjours,nousavonsfait	et estable à touz jours , nous avons fait
+mettrenostreseelencespresenteslettres.Saufen	mettre nostre seel en ces presentes lettres . Sauf en
+autreschosesnostredroiteten	autres choses nostre droit et en
+touteschosesledroitd..'autrui.	toutes choses le droit d . . ' autrui .
+DonnéàParisl'andegracemil	Donné à Paris l ' an de grace mil
+ccc.trentecinq,ou	ccc . trente cinq , ou
+moisd'aoust.Parleroy	mois d ' aoust . Par le roy
+ensonconseil,àla	en son conseil , à la
+larelacion.devousetdesautres	la relacion . de vous et des autres
+duconseil	du conseil
 .R.deMolins	. R . de Molins

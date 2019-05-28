@@ -1,76 +1,76 @@
-Philippes,etc.	Philippes , etc .
-Savoirfaisonsà	Savoir faisons à
-touz,presensetavenir,que,	touz , presens et avenir , que ,
+Philippes,etc.Savoirfaisonsà..	Philippes , etc . Savoir faisons à . .
+.touz,presensetavenir,que	. touz , presens et avenir , que
 ,àlasupplication	, à la supplication
-supplicationdeEstienne..	supplication de Estienne . .
-Gauveign,prestre,quienl'onneurde	Gauveign , prestre , qui en l ' onneur de
-de.Dieuetdesa	de . Dieu et de sa
-mereaestabli,ordené	mere a establi , ordené
-etfaitfaireenlavillede	et fait faire en la ville de
-Saint-Clementin,prèsdeThoars,qui	Saint - Clementin , près de Thoars , qui
-estengrantcheminpubliqueetengranttrespas	est en grant chemin publique et en grant trespas
-depouvresgens,	de pouvres gens ,
-uneaumosnerie,maison	une aumosnerie , maison
--Dieuou	- Dieu ou
-hospital,pour..herbergier	hospital , pour . . herbergier
-etadministrerlespouvresgenset	et administrer les pouvres gens et
-etmisserablespersonnesquiparillectrespasseront,	et misserables personnes qui par illec trespasseront ,
-et.unechapelledevantladiteaumosnerie,	et . une chapelle devant la dite aumosnerie ,
-pouryfaire	pour y faire
-etcelebrerledevinservice.par	et celebrer le devin service . par
-parlesministreset	par les ministres et
-ceulsquiladiteaumosneriegouverneront	ceuls qui la dite aumosnerie gouverneront
-gouverneront;nous,desiransledevinserviceestre..	gouverneront ; nous , desirans le devin service estre . .
-acreuetafinque	acreu et afin que
-noussoionsparticipansausbienfaizquiouditlieuseront	nous soions participans aus bienfaiz qui ou dit lieu seront
-faiz,voulonsetoctroions,degraceespecial	faiz , voulons et octroions , de grace especial
-etdenostreplaine	et de nostre plaine
-puissanceetauctorité	puissance et auctorité
-royal,pournousetnozsuccesseurs	royal , pour nous et noz successeurs
-,roysdeFrance	, roys de France
-,quetouteslespossessions	, que toutes les possessions
-,biens,heritagesourentes,jusques	, biens , heritages ou rentes , jusques
-àlavalueoumontancede	à la value ou montance de
-vint..livresde	vint . . livres de
-derenteannuelleetperpetuele,quipourlasustantaciondes	de rente annuelle et perpetuele , qui pour la sustantacion des
-pouvresetministres	pouvres et ministres
-duditlieu,sontouserontparquelconques	du dit lieu , sont ou seront par quelconques
-personnesdonnées,aumosnéesou	personnes données , aumosnées ou
-transportées,commentquecesoit,ouque	transportées , comment que ce soit , ou que
-lesuppliant	le suppliant
-suppliantouministresquiladiteaumosnerie	suppliant ou ministres qui la dite aumosnerie
-aumosnerietendrontetgouverneront	aumosnerie tendront et gouverneront
-,acquerrontoutempsavenir,ensemble	, acquerront ou temps avenir , ensemble
-ouparparties,	ou par parties ,
-toutevoiessanzfiefnobleetsenzjustice	toutevoies sanz fief noble et senz justice
-justice,lesquelleschoses,jusques	justice , lesquelles choses , jusques
-àladitevalue	à la dite value
-value,nousamortissonsparces	value , nous amortissons par ces
-presentes,yceulsministresetgouverneurspuissenttenir,avoir	presentes , yceuls ministres et gouverneurs puissent tenir , avoir
-etpossederperpetuelment,commechosed'eglise	et posseder perpetuelment , comme chose d ' eglise
-egliseamortieetleurpropredemaine,àlacause	eglise amortie et leur propre demaine , à la cause
-causedessusdicte,	cause dessus dicte ,
-senzestrecontrainsnetenusàmettre	senz estre contrains ne tenus à mettre
-les,entoutou	les , en tout ou
-en.partie,horsdeleurs	en . partie , hors de leurs
-mains,ou	mains , ou
-oualienerdeladiteaumosnerieetchapelle,pourquelconque	ou aliener de la dite aumosnerie et chapelle , pour quelconque
-cause,ne	cause , ne
-àpaierpour	à paier pour
-pourceànous,	pour ce à nous ,
-neàaucundenoz	ne à aucun de noz
-dizsuccesseurs..,	diz successeurs . . ,
-outempsavenir,..financeaucune,la	ou temps avenir , . . finance aucune , la
-laquelledèsmaintenantnousleurdonnonsenaumosne	la quelle dès maintenant nous leur donnons en aumosne
-.Etpourcequecesoitpermanableàtouz	. Et pour ce que ce soit permanable à touz
-jours,..nousavonsfaitmettrenostreseel	jours , . . nous avons fait mettre nostre seel
-àcespresenteslettres.Sauf	à ces presentes lettres . Sauf
-enautreschosesnostredroiteten	en autres choses nostre droit et en
-toutesl'autrui.	toutes l ' autrui .
-.Cefufait	. Ce fu fait
-faitàSableyouMayne.	fait à Sabley ou Mayne .
-,l'ande	, l ' an de
-degracemilccc.quarantecinq,ou	de grace mil ccc . quarante cinq , ou
-oumoysd'aoust.Parleroy,	ou moys d ' aoust . Par le roy ,
-ensesRequestes.Chasteillon.Sinefinancia,	en ses Requestes . Chasteillon . Sine financia ,
-quiaremissa.Justice.	quia remissa . Justice .
+deEstienneGauveign	de Estienne Gauveign
+Gauveign,prestre,quienl'	Gauveign , prestre , qui en l '
+onneurdeDieuetdesamere	onneur de Dieu et de sa mere
+aestabli,ordenéet	a establi , ordené et
+faitfaireenlavilledeSaint	fait faire en la ville de Saint
+Saint-Clementin,prèsde	Saint - Clementin , près de
+Thoars,quiestengrantcheminpubliqueet	Thoars , qui est en grant chemin publique et
+etengranttrespas	et en grant trespas
+depouvresgens	de pouvres gens
+,uneaumosnerie,maison-Dieuouhospital	, une aumosnerie , maison - Dieu ou hospital
+hospital,pourherbergieretadministrerlespouvres	hospital , pour herbergier et administrer les pouvres
+gensetmisserables	gens et misserables
+misserablespersonnesquiparillectrespasseront	misserables personnes qui par illec trespasseront
+trespasseront,etunechapelledevantladiteaumosnerie	trespasseront , et une chapelle devant la dite aumosnerie
+aumosnerie,pouryfaireet..celebrerledevinservice	aumosnerie , pour y faire et . . celebrer le devin service
+serviceparles	service par les
+ministresetceulsquiladiteaumosneriegouverneront	ministres et ceuls qui la dite aumosnerie gouverneront
+;nous,desiransledevin	; nous , desirans le devin
+devinservice..estreacreu	devin service . . estre acreu
+etafinque	et afin que
+noussoionsparticipansausbienfaizqui	nous soions participans aus bienfaiz qui
+ouditlieuseront..faiz	ou dit lieu seront . . faiz
+faiz,voulonsetoctroions..	faiz , voulons et octroions . .
+.,degraceespecialetdenostreplainepuissance	. , de grace especial et de nostre plaine puissance
+puissanceetauctoritéroyal.,pournousetnozsuccesseurs	puissance et auctorité royal . , pour nous et noz successeurs
+,roysde	, roys de
+deFrance,que	de France , que
+quetouteslespossessions,biens	que toutes les possessions , biens
+,heritagesou	, heritages ou
+rentes,jusques..àlavalueoumontance	rentes , jusques . . à la value ou montance
+devintlivres	de vint livres
+derenteannuelleetperpetuele,	de rente annuelle et perpetuele ,
+quipourlasustantaciondespouvreset..ministres	qui pour la sustantacion des pouvres et . . ministres
+duditlieu,sontou	du dit lieu , sont ou
+ouserontpar	ou seront par
+quelconquespersonnesdonnées,aumosnéesoutransportées,	quelconques personnes données , aumosnées ou transportées ,
+commentquecesoit	comment que ce soit
+,ouquelesuppliantouministresquiladite	, ou que le suppliant ou ministres qui la dite
+aumosnerietendront..etgouverneront	aumosnerie tendront . . et gouverneront
+gouverneront,acquerrontoutempsavenir,ensembleou	gouverneront , acquerront ou temps avenir , ensemble ou
+parparties,toutevoiessanz	par parties , toutevoies sanz
+fiefnobleetsenzjustice,lesquelles	fief noble et senz justice , lesquelles
+lesquelleschoses,jusquesàladitevalue,nous	lesquelles choses , jusques à la dite value , nous
+amortissonsparces	amortissons par ces
+presentes.,yceuls	presentes . , yceuls
+ministresetgouverneurspuissenttenir	ministres et gouverneurs puissent tenir
+,avoiretpossederperpetuelment,commechosed	, avoir et posseder perpetuelment , comme chose d
+d'egliseamortieetleurpropredemaine,à	d ' eglise amortie et leur propre demaine , à
+àlacausedessusdicte,senzestrecontrainsnetenus	à la cause dessus dicte , senz estre contrains ne tenus
+àmettreles,entoutou	à mettre les , en tout ou
+enpartie,horsdeleursmains	en partie , hors de leurs mains
+mains,oualienerdela	mains , ou aliener de la
+diteaumosnerieetchapelle,pourquelconquecause,ne	dite aumosnerie et chapelle , pour quelconque cause , ne
+àpaierpourceànous,neà	à paier pour ce à nous , ne à
+aucundenozdizsuccesseurs,ou	aucun de noz diz successeurs , ou
+temps.avenir,financeaucune,laquelle	temps . avenir , finance aucune , la quelle
+dèsmaintenantnousleurdonnonsen	dès maintenant nous leur donnons en
+aumosne.Et	aumosne . Et
+Etpourceque	Et pour ce que
+quecesoitpermanable.àtouzjours,	que ce soit permanable . à touz jours ,
+nousavonsfaitmettrenostreseel..à	nous avons fait mettre nostre seel . . à
+cespresenteslettres.Saufenautreschosesnostredroit	ces presentes lettres . Sauf en autres choses nostre droit
+etentoutesl'	et en toutes l '
+'autrui.	' autrui .
+CefufaitàSableyou	Ce fu fait à Sabley ou
+ouMayne,l'ande	ou Mayne , l ' an de
+gracemilccc	grace mil ccc
+.quarantecinq	. quarante cinq
+cinq,oumoys	cinq , ou moys
+d'aoust.Par	d ' aoust . Par
+leroy,ensesRequestes.Chasteillon	le roy , en ses Requestes . Chasteillon
+.Sinefinancia,quiaremissa	. Sine financia , quia remissa
+remissa.Justice.	remissa . Justice .

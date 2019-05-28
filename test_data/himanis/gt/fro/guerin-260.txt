@@ -1,71 +1,64 @@
-Philippes,par.lagracedeDieu,roysde	Philippes , par . la grace de Dieu , roys de
-France.Savoirfaisonsa	France . Savoir faisons a
-touz,presensetavenir,quecommepourpartie	touz , presens et avenir , que comme pour partie
-decertainesommed'argentenquoy	de certaine somme d ' argent en quoy
-quoyColindeBeau,deLodun,nousestoit	quoy Colin de Beau , de Lodun , nous estoit
-tenuzpourcertainecause,unemaisonqueil	tenuz pour certaine cause , une maison que il
-ilavoità	il avoit à
-Lodun,seantou	Lodun , seant ou
-bourcSainte-	bourc Sainte -
-Croiz,tenentàlamaisonmaistreJehunAmant	Croiz , tenent à la maison maistre Jehun Amant
-,chanoinedeSainte-	, chanoine de Sainte -
-Croiz,etàla..maisonGuillaumeleBreton,	Croiz , et à la . . maison Guillaume le Breton ,
-chanoinedeladite	chanoine de la dite
-eglise,etauchemin	eglise , et au chemin
-royal,ensicomme	royal , ensi comme
-commeellese	comme elle se
-comporte,avectoute	comporte , avec toute
-toutesesaisancesdevant	toute ses aisances devant
-devantetderriere,ait..	devant et derriere , ait . .
-.este..miseetcriée	. este . . mise et criée
-envente.etvendue,si	en vente . et vendue , si
-commel'endit,	comme l ' en dit ,
-parcrizetsubastacionsacoustumées,avecaucunsmenusmeubles	par criz et subastacions acoustumées , avec aucuns menus meubles
-meublesqui.y	meubles qui . y
-estoient,leprisdecent	estoient , le pris de cent
-centdixlivrestournois,	cent dix livres tournois ,
-pourlequel	pour le quel
-quelprisellenous	quel pris elle nous
-estdemouréeetappliquéeànozdemaynes;nous	est demourée et appliquée à noz demaynes ; nous
-,consideranslesbonsetagreablesservicesque	, considerans les bons et agreables services que
-nostreaméetfealchevalieretchambellenc,	nostre amé et feal chevalier et chambellenc ,
-RobertFretart,nousafaiz	Robert Fretart , nous a faiz
-delonctempset	de lonc temps et
-etfaitencorescontenuelmentdejourenjour	et fait encores contenuelment de jour en jour
-,..etquedepluseurschevaulzqueiletson	, . . et que de pluseurs chevaulz que il et son
-filzonteumorz.	filz ont eu morz .
-ennozguerres	en noz guerres
-,iln'apris	, il n ' a pris
-prisneheuaucunrestour,àyceluyRobert	pris ne heu aucun restour , à yceluy Robert
-,pourlui	, pour lui
-etpour..ses	et pour . . ses
-hoirs,etpourceuzquide	hoirs , et pour ceuz qui de
-luy..aurontcause	luy . . auront cause
-cause,avonsdonné	cause , avons donné
-etoctroyé,donnonsetoctroyons,de	et octroyé , donnons et octroyons , de
-nostregrace..especial,	nostre grace . . especial ,
-laditemaisonetmeubles	la dite maison et meubles
-meublesensivenduz	meubles ensi venduz
-venduzavectoutessesappartenancesetappendances,souzles	venduz avec toutes ses appartenances et appendances , souz les
-leschargesetredevances	les charges et redevances
-redevances.acoustumées,enperpetuelheritaige,nonobstant	redevances . acoustumées , en perpetuel heritaige , non obstant
-touzautresdonzquenousounoz	touz autres donz que nous ou noz
-nozpredecesseursayonsfaitànostreditchambellent	noz predecesseurs ayons fait à nostre dit chambellent
-.Sidonnonsenmandementaubaillifetaureceveur	. Si donnons en mandement au baillif et au receveur
-receveurdeTouraine,.etàchascun	receveur de Touraine , . et à chascun
-deeux,que	de eux , que
-lapossescionetsaisinedeladite	la possescion et saisine de la dite
-maisonetdesappartenances,etlesdizmeublesil	maison et des appartenances , et les diz meubles il
-baillentetdelivrent,	baillent et delivrent ,
-ceslettresveues,anostre	ces lettres veues , a nostre
-ditchevalier.	dit chevalier .
-.etchambellent	. et chambellent
-chambellentouà	chambellent ou à
-sohcertain	soh certain
-commandement,senzattendresurceautre	commandement , senz attendre sur ce autre
-mandementdenous,etl'	mandement de nous , et l '
-enlaissentetfacentjoirpaisiblement,	en laissent et facent joir paisiblement ,
-luyetseshoirsetceusquide	luy et ses hoirs et ceus qui de
-liaurontcausedoresenavant,selonclateneur.	li auront cause dores en avant , selonc la teneur .
-.denostrepresentdonetgrace.Et	. de nostre present don et grace . Et
-pourcequecesoitferme.....	pour ce que ce soit ferme .... .
+Philippes,parlagracedeDieu,roys	Philippes , par la grace de Dieu , roys
+deFrance.Savoirfaisonsatouz,presens	de France . Savoir faisons a touz , presens
+etavenir,quecommepour	et avenir , que comme pour
+partiedecertainesommed'argent	partie de certaine somme d ' argent
+enquoyColindeBeau,deLodun	en quoy Colin de Beau , de Lodun
+,nousestoittenuzpourcertainecause	, nous estoit tenuz pour certaine cause
+cause,unemaisonqueilavoit	cause , une maison que il avoit
+àLodun,seantoubourcSainte-Croiz	à Lodun , seant ou bourc Sainte - Croiz
+Croiz,tenentàlamaisonmaistreJehunAmant,	Croiz , tenent à la maison maistre Jehun Amant ,
+chanoinedeSainte-Croiz,et	chanoine de Sainte - Croiz , et
+etàlamaisonGuillaumeleBreton	et à la maison Guillaume le Breton
+Breton,chanoinedeladiteeglise,	Breton , chanoine de la dite eglise ,
+etauchemin.	et au chemin .
+royal,ensi	royal , ensi
+commeellesecomporte,avectouteses	comme elle se comporte , avec toute ses
+aisancesdevantetderriere,	aisances devant et derriere ,
+,aitestemiseetcriéeenventeetvendue,	, ait este mise et criée en vente et vendue ,
+sicommel'endit.,	si comme l ' en dit . ,
+parcrizetsubastacionsacoustumées,avec..	par criz et subastacions acoustumées , avec . .
+.aucunsmenusmeublesquiyestoient,lepris	. aucuns menus meubles qui y estoient , le pris
+decentdixlivrestournois,pourle	de cent dix livres tournois , pour le
+lequelprisellenousestdemouréeet	le quel pris elle nous est demourée et
+etappliquéeànozdemaynes;nous,considerans	et appliquée à noz demaynes ; nous , considerans
+consideranslesbonsetagreables	considerans les bons et agreables
+agreablesservicesquenostreamé	agreables services que nostre amé
+etfealchevalier	et feal chevalier
+etchambellenc,RobertFretart,nousa.	et chambellenc , Robert Fretart , nous a .
+faizdelonctempset	faiz de lonc temps et
+faitencorescontenuelmentde	fait encores contenuelment de
+dejourenjour,et..	de jour en jour , et . .
+.quedepluseurs	. que de pluseurs
+chevaulzque	chevaulz que
+iletsonfilzonteumorzennoz	il et son filz ont eu morz en noz
+guerres,il	guerres , il
+n'aprisneheuaucunrestour	n ' a pris ne heu aucun restour
+restour,àyceluyRobert,pourlui	restour , à yceluy Robert , pour lui
+etpourseshoirs,	et pour ses hoirs ,
+etpourceuzquideluyaurontcause,avons	et pour ceuz qui de luy auront cause , avons
+donnéetoctroyé,donnonset	donné et octroyé , donnons et
+octroyons,	octroyons ,
+denostregraceespecial,la	de nostre grace especial , la
+ditemaisonetmeublesensivenduzavectoutes	dite maison et meubles ensi venduz avec toutes
+sesappartenances.	ses appartenances .
+etappendances,souzlescharges	et appendances , souz les charges
+chargesetredevancesacoustumées,enperpetuelheritaige,non	charges et redevances acoustumées , en perpetuel heritaige , non
+obstanttouzautresdonzquenousounoz	obstant touz autres donz que nous ou noz
+nozpredecesseursayonsfait..	noz predecesseurs ayons fait . .
+ànostreditchambellent.	à nostre dit chambellent .
+.Sidonnonsenmandementaubaillifet	. Si donnons en mandement au baillif et
+aureceveurdeTouraine,etàchascundeeux	au receveur de Touraine , et à chascun de eux
+,quelapossescionetsaisinedeladitemaison	, que la possescion et saisine de la dite maison
+etdes.appartenances,etles	et des . appartenances , et les
+dizmeublesilbaillentetdelivrent,	diz meubles il baillent et delivrent ,
+,ceslettresveues,anostredit	, ces lettres veues , a nostre dit
+ditchevalieretchambellentou	dit chevalier et chambellent ou
+ouàsohcertaincommandement,.senzattendre	ou à soh certain commandement , . senz attendre
+surceautre	sur ce autre
+autremandementdenous,et	autre mandement de nous , et
+l'enlaissent	l ' en laissent
+etfacentjoirpaisiblement,luyetseshoirs	et facent joir paisiblement , luy et ses hoirs
+hoirsetceusquideliaurontcausedoresenavant	hoirs et ceus qui de li auront cause dores en avant
+avant,selonclateneurde	avant , selonc la teneur de
+nostrepresentdonetgrace.Etpourceque	nostre present don et grace . Et pour ce que
+cesoitferme....	ce soit ferme ....

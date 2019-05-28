@@ -1,219 +1,230 @@
-Philippes,etc...Savoir	Philippes , etc ... Savoir
-faisonsàtouz,presenset	faisons à touz , presens et
-avenir,nousavoirveuunes	avenir , nous avoir veu unes
-lettres,contenanslaformequis	lettres , contenans la forme qui s
-'ensuit:..Atouzceulxquiorront	' ensuit : . . A touz ceulx qui orront
-etverrontcespresenteslettresGuy,	et verront ces presentes lettres Guy ,
-,seigneurdeMortemer,chevalierduroyetseneschal	, seigneur de Mortemer , chevalier du roy et seneschal
-seneschalenPoitouetenLymosin,saluten	seneschal en Poitou et en Lymosin , salut en
-enDieuxnostre..	en Dieux nostre . .
-Seigneurpardurable.Sachenttouzquenousavonsveu	Seigneur pardurable . Sachent touz que nous avons veu
-etreceuuneslettresduroy	et receu unes lettres du roy
-roynostreseigneur,ànouspresentésparmonsieurHarbertBellant	roy nostre seigneur , à nous presentés par monsieur Harbert Bellant
-,chevalier,contenansla..formequi	, chevalier , contenans la . . forme qui
-quis'ensuit;Philippes,parlagrace	qui s ' ensuit ; Philippes , par la grace
-deDieu,.roysdeFrance	de Dieu , . roys de France
-.Auseneschal	. Au seneschal
-seneschaldePoitou.etdeLymosin,ouà	seneschal de Poitou . et de Lymosin , ou à
-àsonlieutenant.,salut.	à son lieu tenant . , salut .
-.Oyelasupplicaciondenostreamé	. Oye la supplicacion de nostre amé
-HarbertBellant,chevallier,disant	Harbert Bellant , chevallier , disant
-quequantlavilledePoitiersfut	que quant la ville de Poitiers fut
-occupéeparnoz..ennemiz	occupée par noz . . ennemiz
-ennemiz,oùilestoitlisizèmehommesd'armez	ennemiz , où il estoit li sizème hommes d ' armez
-,pourcontresterànozdizennemiz	, pour contrester à noz diz ennemiz
-ennemiz,ilfutpris	ennemiz , il fut pris
-prisetperdit	pris et perdit
-touzses..meubles,quibienvaloientsixmilelivres	touz ses . . meubles , qui bien valoient six mile livres
-livres,etavecceaestémisàgrant	livres , et avec ce a esté mis à grant
-etexcessiverempçon,dontilliaconvenuvendre	et excessive rempçon , dont il li a convenu vendre
-etengaigerdesaterre,	et engaiger de sa terre ,
-,etliconvendroit	, et li convendroit
-àlaissiersonestat,separnous	à laissier son estat , se par nous
-neliestoit	ne li estoit
-estoitpourveud'aucunremède.Sinousahumblement	estoit pourveu d ' aucun remède . Si nous a humblement
-suppliéque,enremuneraciondesdites.	supplié que , en remuneracion des dites .
-.pertesetdommaiges	. pertes et dommaiges
-,etpour	, et pour
-poursoustenirsondit	pour soustenir son dit
-ditestat,nouslivueillonsoctroyerqueune	dit estat , nous li vueillons octroyer que une
-unefoire..,appelléela	une foire . . , appellée la
-foirede	foire de
-laPierreLevée,quiaacoustumé	la Pierre Levée , qui a acoustumé
-estretenuepardeux	estre tenue par deux
-jours,septjoursentredeux,	jours , sept jours entre deux ,
-,c.'estassavoirlelundiemprès	, c . ' est assavoir le lundi emprès
-emprèslafestesaintDeniset	emprès la feste saint Denis et
-lelundi	le lundi
-ensuivantaprès,	ensuivant après ,
-enlieuforain,prèsdela	en lieu forain , près de la
-diteville,oùlesgensqui	dite ville , où les gens qui
-yviennentmarchander.ne	y viennent marchander . ne
-ne..treuventoù	ne . . treuvent où
+Philippes,etc...Savoirfaisonsàtouz	Philippes , etc ... Savoir faisons à touz
+,presens	, presens
+etavenir,nousavoirveu	et avenir , nous avoir veu
+unes.lettres,	unes . lettres ,
+contenanslaformequis	contenans la forme qui s
+s'ensuit:Atouzceulxqui	s ' ensuit : A touz ceulx qui
+orrontetverront	orront et verront
+verrontcespresenteslettresGuy,seigneurdeMortemer,	verront ces presentes lettres Guy , seigneur de Mortemer ,
+,chevalierduroyetseneschalenPoitouet	, chevalier du roy et seneschal en Poitou et
+etenLymosin,salutenDieux	et en Lymosin , salut en Dieux
+DieuxnostreSeigneurpardurable.Sachenttouzquenousavonsveu	Dieux nostre Seigneur pardurable . Sachent touz que nous avons veu
+veuetreceuuneslettresduroy	veu et receu unes lettres du roy
+nostreseigneur,ànouspresentésparmonsieur	nostre seigneur , à nous presentés par monsieur
+HarbertBellant,	Harbert Bellant ,
+chevalier,contenanslaformequis'	chevalier , contenans la forme qui s '
+ensuit;	ensuit ;
+Philippes,parlagracede	Philippes , par la grace de
+Dieu,roysdeFrance.AuseneschaldePoitou	Dieu , roys de France . Au seneschal de Poitou
+et.deLymosin,ouà	et . de Lymosin , ou à
+sonlieutenant,salut.Oyela	son lieu tenant , salut . Oye la
+supplicaciondenostreaméHarbertBellant,chevallier,disant	supplicacion de nostre amé Harbert Bellant , chevallier , disant
+quequantlavilledePoitiersfutoccupéeparnoz	que quant la ville de Poitiers fut occupée par noz
+ennemiz,oùilestoitlisizème	ennemiz , où il estoit li sizème
+hommesd'armez,	hommes d ' armez ,
+pourcontresterànoz.diz	pour contrester à noz . diz
+dizennemiz,ilfutprisetperdittouzses	diz ennemiz , il fut pris et perdit touz ses
+meubles..,quibien	meubles . . , qui bien
+bienvaloientsix..milelivres	bien valoient six . . mile livres
+,etaveccea	, et avec ce a
+estémisàgrantet	esté mis à grant et
+excessiverempçon,dontilliaconvenuvendreet	excessive rempçon , dont il li a convenu vendre et
+engaigerde.	engaiger de .
+saterre,etliconvendroit	sa terre , et li convendroit
+àlaissier	à laissier
+laissiersonestat,separnous	laissier son estat , se par nous
+neli.estoit	ne li . estoit
+pourveud'aucunremède.	pourveu d ' aucun remède .
+.Sinous	. Si nous
+nousahumblementsuppliéque,enremuneraciondesditespertes	nous a humblement supplié que , en remuneracion des dites pertes
+etdommaiges,etpoursoustenirsondit	et dommaiges , et pour soustenir son dit
+ditestat,nouslivueillonsoctroyer	dit estat , nous li vueillons octroyer
+queunefoire,	que une foire ,
+appelléelafoire	appellée la foire
+delaPierreLevée,qui	de la Pierre Levée , qui
+quiaacoustuméestre	qui a acoustumé estre
+estretenuepardeuxjours,septjoursentre	estre tenue par deux jours , sept jours entre
+entredeux,c'estassavoir	entre deux , c ' est assavoir
+lelundiemprèsla	le lundi emprès la
+festesaintDenisetlelundi	feste saint Denis et le lundi
+ensuivantaprès,enlieuforain,	ensuivant après , en lieu forain ,
+prèsdeladiteville,	près de la dite ville ,
+oùlesgensquiyviennentmarchandernetreuventoù	où les gens qui y viennent marchander ne treuvent où
 habiternerecuillir	habiter ne recuillir
-leursdenréesou	leurs denrées ou
-tempsde	temps de
-pluie,soitdoresenavanttenue	pluie , soit dores en avant tenue
-,chascunan,	, chascun an ,
-,partroizjourscontinuels,	, par troiz jours continuels ,
-etcommainciezlelundiaprèslasaintDenis,	et commainciez le lundi après la saint Denis ,
-ensonherbergementde	en son herbergement de
-Poitiers,appellélesHaies	Poitiers , appellé les Haies
-Haies,ouquelherbergementlafoiredemiequaresme	Haies , ou quel herbergement la foire demie quaresme
-quaresmeestetaacoustuméestretenue,et	quaresme est et a acoustumé estre tenue , et
-etqu'ilenpuissepranreetavoirtels	et qu ' il en puisse pranre et avoir tels
-telsproffizetemolumenzqu'il	tels proffiz et emolumenz qu ' il
-prantenladictefoiredemiequaresme	prant en la dicte foire de mie quaresme
-,c'estassavoir	, c ' est assavoir
-l'ostellagetantseulement,pourlequelhostellage	l ' ostellage tant seulement , pour le quel hostellage
-illiconvientsoustenirenestatlesmaisonset	il li convient soustenir en estat les maisons et
-estaus,oùladictefoire.	estaus , où la dicte foire .
-.setient,et	. se tient , et
-etnoustouzlesautres	et nous touz les autres
-prouffizetemolumenz,quiainsi	prouffiz et emolumenz , qui ainsi
-nousvaudroiéntBien,outemps	nous vaudroiént Bien , ou temps
-tempsavenir,chascunan.,soixantelivres	temps avenir , chascun an . , soixante livres
-ouenviron	ou environ
-,etàpresentne	, et à present ne
-nousvalentquevintetcinqlivres.Pourquoy	nous valent que vint et cinq livres . Pour quoy
-quoynousvousmandonsetcommettonsquese	quoy nous vous mandons et commettons que se
-,appellénostreprocureurenvostreseneschaucie	, appellé nostre procureur en vostre seneschaucie
-,ilvousappert..souffisanment	, il vous appert . . souffisanment
-denostreproufitetautreschoses..dessus	de nostre proufit et autres choses . . dessus
-dessusdictes,vousladictefoirequisouloit	dessus dictes , vous la dicte foire qui souloit
-estreparles	estre par les
-lesdizdeuxjours,septentredeux	les diz deux jours , sept entre deux
-deux,faites.crierettenirpartroizjourscontinuelset	deux , faites . crier et tenir par troiz jours continuels et
-etcommainciez,chascunan,lelundiaprès	et commainciez , chascun an , le lundi après
-lafestesaintDenis	la feste saint Denis
-,commeditest,	, comme dit est ,
-,enlaville	, en la ville
-dePoitiers,en	de Poitiers , en
-enl'erbergement	en l ' erbergement
-duditchevalier	du dit chevalier
-,appellélesHales,enla	, appellé les Hales , en la
-maniereque	maniere que
-quedessusestdit	que dessus est dit
-;etencecasdonnezenvoz	; et en ce cas donnez en voz
-vozlettresauditchevalier	voz lettres au dit chevalier
-chevalier,seelléesdusceldevostreseneschaucie,lesquelles	chevalier , seellées du scel de vostre seneschaucie , les quelles
-quelles,nous.conferm[er]onsparles	quelles , nous . conferm [ er ] ons par les
-nostrestoutesfoiz[et].quantes	nostres toutes foiz [ et ] . quantes
-enseronsrequis.Carainsilevoulons	en serons requis . Car ainsi le voulons
-nousestrefait,etl'avons,	nous estre fait , et l ' avons ,
-octroié.degrace	octroié . de grace
-especial.DonnéàParis,lexvjejour	especial . Donné à Paris , le xvje jour
-jourdedecembrel'andegrace	jour de decembre l ' an de grace
-milccc.quaranteetsept.	mil ccc . quarante et sept .
-Parlavertu	Par la vertu
-vertudesquelleslettres,nousfeismesappellerpardevant	vertu desquelles lettres , nous feismes appeller par devant
-nousJehanBonnet,procureur	nous Jehan Bonnet , procureur
-duroynostreseigneurenPoitou,pourvenir	du roy nostre seigneur en Poitou , pour venir
-veoirfaireetacomplirlateneur	veoir faire et acomplir la teneur
-teneurdesdicteslettres	teneur des dictes lettres
-lettres,presensàcemonseigneur	lettres , presens à ce monseigneur
-PhelippesduPelle,	Phelippes du Pelle ,
-chevalier.,conseillerduroynostreseigneur,maistreJehan	chevalier . , conseiller du roy nostre seigneur , maistre Jehan
-JehanduMarais,monseigneurHuguesdePelis,	Jehan du Marais , monseigneur Hugues de Pelis ,
-,chevalier,JehanBarré,	, chevalier , Jehan Barré ,
-mairedePoitiers,maistreGuillaumeLanglois,	maire de Poitiers , maistre Guillaume Langlois ,
-clerc,GaillartSaunier,RobinFlory	clerc , Gaillart Saunier , Robin Flory
-YthierBernart,GuillaumeduPont,maistre	Ythier Bernart , Guillaume du Pont , maistre
-maistreEstiennedeRomaingné,JehanduBrueul,Aymery	maistre Estienne de Romaingné , Jehan du Brueul , Aymery
-d'Ayron,AymardeBiau	d ' Ayron , Aymar de Biau
-BiauPuy,PhelippondeChauvigny,Jehan	Biau Puy , Phelippon de Chauvigny , Jehan
-d'Ayron,JehanduPalaiz,et	d ' Ayron , Jehan du Palaiz , et
-etplusieursautresmarchanssouffisanzet	et plusieurs autres marchans souffisanz et
-etnotablesde	et notables de
-lavilledePoitiers,	la ville de Poitiers ,
-,etpluseursautres,les	, et pluseurs autres , les
-quiexdistrentparleurssermenzqu'	quiex distrent par leurs sermenz qu '
-'ilseroitleproufit	' il seroit le proufit
-duroynostreseigneurquelafoire,quia	du roy nostre seigneur que la foire , qui a
-acoustuméestretenueou.ditlieuforainpardeuxjours	acoustumé estre tenue ou . dit lieu forain par deux jours
-,septjoursentredeux	, sept jours entre deux
-deux,appelléelaPierreLevée,si	deux , appellée la Pierre Levée , si
-commecontenuestèsdicteslettres,	comme contenu est ès dictes lettres ,
-,..soittenue	, . . soit tenue
-chascunan,lelundiaprèslasaintDenis,	chascun an , le lundi après la saint Denis ,
-partroizjourscontinuels,à	par troiz jours continuels , à
-àPoitiers,enl'erbergementduditchevalier,	à Poitiers , en l ' erbergement du dit chevalier ,
-,appellélesHales,selonlecontenudesdictes..	, appellé les Hales , selon le contenu des dictes . .
-.lettres;etaionssouffisanmenttrouvéetsoit	. lettres ; et aions souffisanment trouvé et soit
-chosenotairequelesautreschosesparle	chose notaire que les autres choses par le
-ditchevalierdonnéesàentendresontvraies	dit chevalier données à entendre sont vraies
-vraies;oycequeledit	vraies ; oy ce que le dit
-procureurduroynostreseigneurvoult	procureur du roy nostre seigneur voult
-dire.,etlequeldistqueilcreoitquece	dire . , et lequel dist que il creoit que ce
-seroitle	seroit le
-prouffit.duroynostreseigneur,euadviset	prouffit . du roy nostre seigneur , eu advis et
-conseilsurce,nousest.souffisanmentapparuque	conseil sur ce , nous est . souffisanment apparu que
-queilseroitle.prouffitduroynostreseigneurquela	que il seroit le . prouffit du roy nostre seigneur que la
-ladictefoirrenomméelaPierre	la dicte foirre nommée la Pierre
-Levée,commedessus,soitcriéeetteneue	Levée , comme dessus , soit criée et teneue
-d'oresenavant,chascunan	d ' ores en avant , chascun an
-,pourtroizjourscontinuelsetcommanciezlelundiaprès	, pour troiz jours continuels et commanciez le lundi après
-aprèslasaintDenis,enla	après la saint Denis , en la
-villedePoitiers	ville de Poitiers
-Poitiers,enl'erber-	Poitiers , en l ' erber -
+leursdenréesoutemps	leurs denrées ou temps
+tempsdepluie,soitdoresenavanttenue,	temps de pluie , soit dores en avant tenue ,
+chascunan,..partroizjourscontinuels,etcommainciez	chascun an , . . par troiz jours continuels , et commainciez
+lelundiaprès	le lundi après
+lasaint.	la saint .
+Denis,ensonherbergementdePoitiers,appellé..	Denis , en son herbergement de Poitiers , appellé . .
+lesHaies,ouquel	les Haies , ou quel
+herbergementlafoiredemiequaresme	herbergement la foire demie quaresme
+estetaacoustumé	est et a acoustumé
+estretenue,.et	estre tenue , . et
+et.qu'ilenpuissepranreet	et . qu ' il en puisse pranre et
+etavoirtels	et avoir tels
+proffizet	proffiz et
+etemolumenzqu'ilprantenladictefoirede	et emolumenz qu ' il prant en la dicte foire de
+miequaresme,c	mie quaresme , c
+'estassavoirl'ostellagetantseulement	' est assavoir l ' ostellage tant seulement
+,pourlequelhostellageilliconvientsoustenir	, pour le quel hostellage il li convient soustenir
+enestatles	en estat les
+maisonsetestaus,oùladictefoiresetient	maisons et estaus , où la dicte foire se tient
+,etnoustouzles	, et nous touz les
+lesautresprouffizetemolumenz,qui	les autres prouffiz et emolumenz , qui
+ainsinousvaudroiéntBien,ou	ainsi nous vaudroiént Bien , ou
+tempsavenir	temps avenir
+,chascunan	, chascun an
+,soixantelivresouenviron,etàpresentne	, soixante livres ou environ , et à present ne
+nousvalent	nous valent
+quevintetcinqlivres.Pourquoynous	que vint et cinq livres . Pour quoy nous
+vousmandonsetcommettonsquese,	vous mandons et commettons que se ,
+appellénostreprocureurenvostreseneschaucie.	appellé nostre procureur en vostre seneschaucie .
+,ilvous..appert	, il vous . . appert
+souffisanmentdenostreproufitetautreschosesdessusdictes,	souffisanment de nostre proufit et autres choses dessus dictes ,
+vousladictefoire..	vous la dicte foire . .
+.quisouloitestreparlesdizdeuxjours.	. qui souloit estre par les diz deux jours .
+,septentredeux,faites	, sept entre deux , faites
+faitescrierettenirpar	faites crier et tenir par
+troizjourscontinuelsetcommainciez,chascunan,	troiz jours continuels et commainciez , chascun an ,
+,lelundiaprèslafestesaintDenis,comme	, le lundi après la feste saint Denis , comme
+ditest,.enlavilledePoitiers,en	dit est , . en la ville de Poitiers , en
+l'erbergementduditchevalier	l ' erbergement du dit chevalier
+chevalier,appellé	chevalier , appellé
+lesHales,enlamaniere..que	les Hales , en la maniere . . que
+dessusestdit;etence	dessus est dit ; et en ce
+ce..casdonnezenvozlettresauditchevalier,	ce . . cas donnez en voz lettres au dit chevalier ,
+,seelléesdusceldevostreseneschaucie,	, seellées du scel de vostre seneschaucie ,
+lesquelles,nous.conferm[	les quelles , nous . conferm [
+er]onsparlesnostrestoutes	er ] ons par les nostres toutes
+foiz[et	foiz [ et
+et].quantesenseronsrequis.Carainsi	et ] . quantes en serons requis . Car ainsi
+levoulonsnousestrefait,etl	le voulons nous estre fait , et l
+'avons,octroiédegraceespecial.	' avons , octroié de grace especial .
+Donné..àParis	Donné . . à Paris
+Paris,lexvje	Paris , le xvje
+jourdedecembre	jour de decembre
+l'ande.gracemilccc	l ' an de . grace mil ccc
+.quaranteetsept.Parla	. quarante et sept . Par la
+vertudesquelleslettres,nousfeismesappeller	vertu desquelles lettres , nous feismes appeller
+pardevantnousJehanBonnet,procureurduroynostre	par devant nous Jehan Bonnet , procureur du roy nostre
+seigneur..en	seigneur . . en
+en..Poitou,pour	en . . Poitou , pour
+pourvenirveoirfaire	pour venir veoir faire
+etacomplirlateneurdesdicteslettres,presens	et acomplir la teneur des dictes lettres , presens
+àcemonseigneurPhelippesdu	à ce monseigneur Phelippes du
+Pelle,chevalier,conseillerduroynostreseigneur.	Pelle , chevalier , conseiller du roy nostre seigneur .
+,maistreJehandu	, maistre Jehan du
+duMarais,monseigneurHuguesdePelis,chevalier,	du Marais , monseigneur Hugues de Pelis , chevalier ,
+,JehanBarré,maire	, Jehan Barré , maire
+dePoitiers,maistreGuillaume.Langlois	de Poitiers , maistre Guillaume . Langlois
+,clerc,	, clerc ,
+GaillartSaunier,.Robin	Gaillart Saunier , . Robin
+FloryYthierBernart,GuillaumeduPont	Flory Ythier Bernart , Guillaume du Pont
+Pont,maistreEstiennedeRomaingné	Pont , maistre Estienne de Romaingné
+,JehanduBrueul,Aymery	, Jehan du Brueul , Aymery
+d'Ayron,.Aymarde	d ' Ayron , . Aymar de
+BiauPuy.,	Biau Puy . ,
+PhelippondeChauvigny,	Phelippon de Chauvigny ,
+Jehand'Ayron	Jehan d ' Ayron
+,JehanduPalaiz,etplusieursautresmarchanssouffisanz	, Jehan du Palaiz , et plusieurs autres marchans souffisanz
+souffisanzetnotablesdelavilledePoitiers,	souffisanz et notables de la ville de Poitiers ,
+,etpluseursautres,lesquiexdistrentpar	, et pluseurs autres , les quiex distrent par
+leurssermenzqu'ilseroitleproufitduroy	leurs sermenz qu ' il seroit le proufit du roy
+nostreseigneurque..lafoire,qui	nostre seigneur que . . la foire , qui
+aacoustumé	a acoustumé
+acoustuméestretenue..ouditlieu	acoustumé estre tenue . . ou dit lieu
+forainpardeuxjours,septjoursentredeux,	forain par deux jours , sept jours entre deux ,
+appelléelaPierreLevée,si	appellée la Pierre Levée , si
+commecontenuestèsdicteslettres	comme contenu est ès dictes lettres
+,soittenuechascunan,lelundiaprès	, soit tenue chascun an , le lundi après
+aprèslasaint	après la saint
+Denis,partroiz	Denis , par troiz
+jourscontinuels,àPoitiers,en	jours continuels , à Poitiers , en
+enl'erbergementduditchevalier,appelléles	en l ' erbergement du dit chevalier , appellé les
+lesHales,selonle	les Hales , selon le
+contenudesdicteslettres..;etaionssouffisanmenttrouvé	contenu des dictes lettres . . ; et aions souffisanment trouvé
+etsoitchosenotairequeles	et soit chose notaire que les
+autreschosesparle..	autres choses par le . .
+ditchevalier	dit chevalier
+chevalierdonnéesàentendresontvraies	chevalier données à entendre sont vraies
+vraies;oycequeleditprocureur	vraies ; oy ce que le dit procureur
+duroynostreseigneurvoultdire,et	du roy nostre seigneur voult dire , et
+lequeldistque	lequel dist que
+ilcreoitqueceseroitleprouffitduroy	il creoit que ce seroit le prouffit du roy
+roynostreseigneur,euadvisetconseilsur	roy nostre seigneur , eu advis et conseil sur
+ce,nous	ce , nous
+estsouffisanmentapparu	est souffisanment apparu
+queilseroitleprouffitduroy	que il seroit le prouffit du roy
+roynostreseigneurqueladicte	roy nostre seigneur que la dicte
+foirrenomméelaPierreLevée,commedessus,	foirre nommée la Pierre Levée , comme dessus ,
+,.soitcriéeet	, . soit criée et
+teneued'..oresenavant,chascunan,	teneue d ' . . ores en avant , chascun an ,
+pourtroizjourscontinuelsetcommanciezlelundi	pour troiz jours continuels et commanciez le lundi
+aprèslasaintDenis,enlaville	après la saint Denis , en la ville
+dePoitiers,enl'erber-	de Poitiers , en l ' erber -
 gementduditchevalier,nommélesHales	gement du dit chevalier , nommé les Hales
-,parlamaniere	, par la maniere
-contenueès.dicteslettres.Sidonnonsen	contenue ès . dictes lettres . Si donnons en
-enmandementauprevostdePoitiersetàsonlieu	en mandement au prevost de Poitiers et à son lieu
-tenant,etàtouzlessergens	tenant , et à touz les sergens
-etjusticiersdela..	et justiciers de la . .
-dicteseneschaucie,quirequisenseront,et	dicte seneschaucie , qui requis en seront , et
-àchascunparsoy,commettonsqu	à chascun par soy , commettons qu
-'ilfacentcrier	' il facent crier
-ettenird'oresenavantla	et tenir d ' ores en avant la
-dictefoireparlamanieredessusdicte,	dicte foire par la maniere dessus dicte ,
-,saufaleretsaufvenir,selonle	, sauf aler et sauf venir , selon le
-contenuèsdicteslettres.Entesmoingdesquelles	contenu ès dictes lettres . En tesmoing des quelles
-choses..,nousavonsapposéàcespresenteslettres	choses . . , nous avons apposé à ces presentes lettres
-leseel.auscausesdesdictes	le seel . aus causes des dictes
-seneschauciesavecleseelroyaldePoitiers,	seneschaucies avec le seel royal de Poitiers ,
-,etleseing	, et le seing
-etsubscripcionde..JehanBruneau,clerc	et subscripcion de . . Jehan Bruneau , clerc
-clerc,notairepublique	clerc , notaire publique
-publique.Donnéleviijejourdefevrier	publique . Donné le viije jour de fevrier
-l'andegrace	l ' an de grace
-mil..troiz	mil . . troiz
-cenzquaranteetsept	cenz quarante et sept
-.EtjeJehanBruneau,clerc	. Et je Jehan Bruneau , clerc
-clerc,deladyocesede.Poitou,del'	clerc , de la dyocese de . Poitou , de l '
-autoritéroyal	autorité royal
-royalnotairepublique,	royal notaire publique ,
-àcequeleprocureurduroy	à ce que le procureur du roy
-royappellérespondietque	roy appellé respondi et que
-lespersonnesdessusnommées	les personnes dessus nommées
-nomméesdistrentparserement,fuypresensetleoy,	nommées distrent par serement , fuy presens et le oy ,
-,etlesdicteschosesayramenéenfourmepublique	, et les dictes choses ay ramené en fourme publique
-publique,etles[ay]faitescripre,empesché	publique , et les [ ay ] fait escripre , empesché
-d'autresnegoces,etlesay	d ' autres negoces , et les ay
-aysignéde	ay signé de
-monsignetacoustumé,	mon signet acoustumé ,
-,àceappellezetrequis.Nousadecerteslesdictes	, à ce appellez et requis . Nous adecertes les dictes
-dicteslettresetleschosesenycellescontenues	dictes lettres et les choses en ycelles contenues
-,etchascuned'icelles,.aianz	, et chascune d ' icelles , . aianz
-fermesetagreables,	fermes et agreables ,
-,ycellesvoulons,loons,ratiffions	, ycelles voulons , loons , ratiffions
-,greons,approuvonsetdegraceespecial,par	, greons , approuvons et de grace especial , par
-cespresentes,confermons.Et..quecesoit	ces presentes , confermons . Et . . que ce soit
-soitfermeetestableàtouzjoursmais	soit ferme et estable à touz jours mais
-,nousavons	, nous avons
-faitmettrenostregrantseelàceslettres.	fait mettre nostre grant seel à ces lettres .
-.Saufen.autreschoses	. Sauf en . autres choses
-nostredroitetl'	nostre droit et l '
-autruientoutes.DonnéàParis,l'	autrui en toutes . Donné à Paris , l '
-'andegracemiltroizcenzquaranteet	' an de grace mil troiz cenz quarante et
-huit,oumoysd..'aoust.Par	huit , ou moys d . . ' aoust . Par
-leroy,àla..	le roy , à la . .
-relaciondeson	relacion de son
-secretconseil,	secret conseil ,
-ouquelestoientmessieursdeLaonetdeMermoustier	ou quel estoient messieurs de Laon et de Mermoustier
-Mermoustier.Tourneur.Sinefinancia	Mermoustier . Tourneur . Sine financia
-,per.secretumregisconsilium,inquoerantDomini	, per . secretum regis consilium , in quo erant Domini
-inplicahujuslitterenominati.Tourneur.	in plica hujus littere nominati . Tourneur .
-Collation.estfaicteavec	Collation . est faicte avec
-avecleslettrescy-dessusencorporées	avec les lettres cy - dessus encorporées
-parmoy.Tourneur.	par moy . Tourneur .
+Hales,parlamanierecontenue	Hales , par la maniere contenue
+contenueèsdicteslettres.Sidonnons	contenue ès dictes lettres . Si donnons
+donnonsen.mandementau	donnons en . mandement au
+prevostdePoitiersetàsonlieu	prevost de Poitiers et à son lieu
+tenant,et	tenant , et
+etàtouzlessergensetjusticiersdeladicteseneschaucie	et à touz les sergens et justiciers de la dicte seneschaucie
+seneschaucie,quirequisenseront,etàchascunpar	seneschaucie , qui requis en seront , et à chascun par
+soy,commettons.qu'il	soy , commettons . qu ' il
+facentcrier	facent crier
+ettenir.	et tenir .
+.d'oresenavantladictefoireparla	. d ' ores en avant la dicte foire par la
+lamanieredessusdicte,sauf	la maniere dessus dicte , sauf
+aleretsaufvenir,	aler et sauf venir ,
+selonlecontenuès.dicteslettres	selon le contenu ès . dictes lettres
+lettres.Entesmoingdes	lettres . En tesmoing des
+quelleschoses	quelles choses
+,nousavonsapposéàcespresenteslettres.	, nous avons apposé à ces presentes lettres .
+leseelauscausesdesdictesseneschauciesavec	le seel aus causes des dictes seneschaucies avec
+avecleseelroyal	avec le seel royal
+dePoitiers,etle	de Poitiers , et le
+seingetsubscripciondeJehanBruneau,clerc,notaire	seing et subscripcion de Jehan Bruneau , clerc , notaire
+publique.Donné	publique . Donné
+Donnéleviije	Donné le viije
+jourdefevrier	jour de fevrier
+l'andegracemiltroiz..	l ' an de grace mil troiz . .
+.cenzquaranteetsept.Etje	. cenz quarante et sept . Et je
+JehanBruneau,clerc,dela	Jehan Bruneau , clerc , de la
+dyocesedePoitou,del'autoritéroyal	dyocese de Poitou , de l ' autorité royal
+notairepublique,àcequeleprocureur	notaire publique , à ce que le procureur
+duroyappellérespondietque	du roy appellé respondi et que
+lespersonnesdessusnomméesdistrent..	les personnes dessus nommées distrent . .
+parserement,..fuy	par serement , . . fuy
+fuypresensetleoy,	fuy presens et le oy ,
+etlesdicteschosesayramenéenfourme	et les dictes choses ay ramené en fourme
+publique,.etles	publique , . et les
+les[ay]faitescripre	les [ ay ] fait escripre
+,empeschéd'.autres	, empesché d ' . autres
+autresnegoces,	autres negoces ,
+,etlesaysignédemonsignetacoustumé,à	, et les ay signé de mon signet acoustumé , à
+àceappellez..etrequis	à ce appellez . . et requis
+.Nousadecerteslesdicteslettreset	. Nous adecertes les dictes lettres et
+leschosesenycellescontenues,etchascuned'	les choses en ycelles contenues , et chascune d '
+icelles,aianzfermesetagreables,	icelles , aianz fermes et agreables ,
+ycellesvoulons,loons,ratiffions,greons,approuvons	ycelles voulons , loons , ratiffions , greons , approuvons
+approuvonset..de	approuvons et . . de
+de.graceespecial,parcespresentes,confermons	de . grace especial , par ces presentes , confermons
+.Etquece	. Et que ce
+soitferme.et	soit ferme . et
+estableà	estable à
+touzjoursmais,nousavonsfaitmettre	touz jours mais , nous avons fait mettre
+nostregrantseelà.ceslettres.Saufenautres	nostre grant seel à . ces lettres . Sauf en autres
+autreschosesnostredroitetl	autres choses nostre droit et l
+'autruientoutes	' autrui en toutes
+.Donnéà.Paris,l	. Donné à . Paris , l
+'.andegracemiltroizcenz	' . an de grace mil troiz cenz
+cenzquaranteethuit,oumoysd	cenz quarante et huit , ou moys d
+'aoust.Parleroy,à	' aoust . Par le roy , à
+àlarelaciondesonsecretconseil,ouquelestoient	à la relacion de son secret conseil , ou quel estoient
+messieursdeLaonetdeMermoustier...Tourneur	messieurs de Laon et de Mermoustier . . . Tourneur
+.Sinefinancia,persecretumregis	. Sine financia , per secretum regis
+consilium,inquoerantDominiin	consilium , in quo erant Domini in
+inplicahujuslitterenominati.Tourneur.Collationestfaicte	in plica hujus littere nominati . Tourneur . Collation est faicte
+avecleslettrescy-dessus	avec les lettres cy - dessus
+dessusencorporéesparmoy.Tourneur.	dessus encorporées par moy . Tourneur .

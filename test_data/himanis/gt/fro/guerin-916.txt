@@ -1,113 +1,108 @@
-Charles,parla.grace	Charles , par la . grace
-gracedeDieuroyde	grace de Dieu roy de
-France.Savoir	France . Savoir
-Savoirfaisonsàtous	Savoir faisons à tous
-tous,..presensetadvenir,	tous , . . presens et advenir ,
-nousavoirreceul’	nous avoir receu l ’
-umblesupplicaciondesamischarnelz	umble supplicacion des amis charnelz
-charnelzdeBochartGoulart,escuier,nattifdupaïzde	charnelz de Bochart Goulart , escuier , nattif du païz de
-Poitou,contenantque	Poitou , contenant que
-que,aprez	que , aprez
-letrespazde	le trespaz de
+Charles,	Charles ,
+parlagracedeDieuroydeFrance	par la grace de Dieu roy de France
+.Savoirfaisonsàtous,presenset	. Savoir faisons à tous , presens et
+advenir..,	advenir . . ,
+nousavoirreceul’umble	nous avoir receu l ’ umble
+supplicaciondesamischarnelzde	supplicacion des amis charnelz de
+BochartGoulart,escuier,nattifdupaïz	Bochart Goulart , escuier , nattif du païz
+de..Poitou,contenantque,aprezletrespazde	de . . Poitou , contenant que , aprez le trespaz de
 JehanGoulart,escuier,seigneurdela	Jehan Goulart , escuier , seigneur de la
-MartiniereenPoitou,pereduditBouchartGoulart,	Martiniere en Poitou , pere du dit Bouchart Goulart ,
-ouqueltempsle	ou quel temps le
-royd’Engleterre	roy d ’ Engleterre
-occuppoitladuchiédeGuienne,icelluiBochartdemoura	occuppoit la duchié de Guienne , icellui Bochart demoura
-moultjeune..d’	moult jeune . . d ’
-aageenla	aage en la
-gardedeRagondGesere,samere	garde de Ragond Gesere , sa mere
-,laquelle,aprez	, la quelle , aprez
-aprezce,semariaavec	aprez ce , se maria avec
-Pestruched’Espelette,né	Pestruche d ’ Espelette , né
-dupaysdeGascoigne	du pays de Gascoigne
-,lors..demourantouditpays	, lors . . demourant ou dit pays
-dePoitou	de Poitou
-Poitou..,aveclesquelz	Poitou . . , avec lesquelz
-Pestrucheet..RagondGesereleditBochartdemourajusques	Pestruche et . . Ragond Gesere le dit Bochart demoura jusques
-àcequeledit	à ce que le dit
-paysdePoitou	pays de Poitou
-fumisdutoutennostre	fu mis du tout en nostre
-obeissance,etque	obeissance , et que
+laMartiniereenPoitou	la Martiniere en Poitou
+,pereduditBouchartGoulart	, pere du dit Bouchart Goulart
+,ouqueltempsleroyd’Engleterreoccuppoit	, ou quel temps le roy d ’ Engleterre occuppoit
+laduchiédeGuienne,..icelluiBochartdemoura	la duchié de Guienne , . . icellui Bochart demoura
+moultjeuned’aageen	moult jeune d ’ aage en
+enlagardedeRagondGesere,sa	en la garde de Ragond Gesere , sa
+mere,laquelle,aprezce,se	mere , la quelle , aprez ce , se
+mariaavecPestruched’Espelette,né	maria avec Pestruche d ’ Espelette , né
+dupaysdeGascoigne,lors	du pays de Gascoigne , lors
+lorsdemourantou	lors demourant ou
+ditpaysdePoitou,avec	dit pays de Poitou , avec
+lesquelzPestrucheet	lesquelz Pestruche et
+etRagondGesere.leditBochart	et Ragond Gesere . le dit Bochart
+demourajusquesàcequeleditpaysdePoitou	demoura jusques à ce que le dit pays de Poitou
+fumisdutoutennostreobeissance,et	fu mis du tout en nostre obeissance , et
 queouditpaysle	que ou dit pays le
-ditBochartGoulartquin’avoitaucune	dit Bochart Goulart qui n ’ avoit aucune
-aucunecongnoissance,	aucune congnoissance ,
-separtiduditpaysdePoitou	se parti du dit pays de Poitou
-PoitouenlacompaignieduditPestrucheets’	Poitou en la compaignie du dit Pestruche et s ’
-enalademourerouchasteldeMortaignesurGironde,	en ala demourer ou chastel de Mortaigne sur Gironde ,
-enl’obeissancedenostreditadversaire	en l ’ obeissance de nostre dit adversaire
-adversaire,.etya	adversaire , . et y a
-atousjoursdepuis	a tousjours depuis
-depuisdemouréjusquesàcequ’	depuis demouré jusques à ce qu ’
-ilaestémizennostreobeissance,et	il a esté miz en nostre obeissance , et
-depuisademouréoupaysdeGascoigne	depuis a demouré ou pays de Gascoigne
-,avecleseigneurdeCastillon,et	, avec le seigneur de Castillon , et
-avecluiaestépourcuidier	avec lui a esté pour cuidier
-prendrenostrevilleetchastelde	prendre nostre ville et chastel de
-TalemontsurGironde,oùila	Talemont sur Gironde , où il a
-estéprisparnozloyaulx	esté pris par noz loyaulx
-loyaulx..subgiezdesdizville	loyaulx . . subgiez des diz ville
+ditBochartGoulartquin’avoitaucunecongnoissance	dit Bochart Goulart qui n ’ avoit aucune congnoissance
+,separtiduditpaysdePoitou	, se parti du dit pays de Poitou
+enlacompaignie	en la compaignie
+compaignieduditPestrucheet	compaignie du dit Pestruche et
+ets..’enala	et s . . ’ en ala
+demourerou	demourer ou
+ouchasteldeMortaignesurGironde,en	ou chastel de Mortaigne sur Gironde , en
+enl’obeissance	en l ’ obeissance
+denostreditadversaire,et	de nostre dit adversaire , et
+yatousjoursdepuisdemouréjusquesà	y a tousjours depuis demouré jusques à
+cequ’ilaestémizen	ce qu ’ il a esté miz en
+nostreobeissance,etdepuisademouré	nostre obeissance , et depuis a demouré
+ou..paysde	ou . . pays de
+Gascoigne,avecleseigneurdeCastillon,	Gascoigne , avec le seigneur de Castillon ,
+,etavecluiaestépourcuidierprendre	, et avec lui a esté pour cuidier prendre
+nostrevilleetchasteldeTalemont	nostre ville et chastel de Talemont
+surGironde,oùilaestéprisparnoz	sur Gironde , où il a esté pris par noz
+nozloyaulxsubgiezdesdizville	noz loyaulx subgiez des diz ville
 etchastelet	et chastel et
-admenéprisonnier	admené prisonnier
-ouchastel..deSaintJehand’	ou chastel . . de Saint Jehan d ’
-Angeli,oùil	Angeli , où il
-aestédetenumoult	a esté detenu moult
-longuementprisonnier,etencoreest	longuement prisonnier , et encore est
-àgrantpovreté	à grant povreté
-etmisere,	et misere ,
-etyesten	et y est en
-enadventuredefinermiserablementsesjours,	en adventure de finer miserablement ses jours ,
-,entrèsgrantvitupereetdeshonneurdesesdiz	, en très grant vitupere et deshonneur de ses diz
-parensetamischarnelz,separnous	parens et amis charnelz , se par nous
-neluiestoitsurceimpartie	ne lui estoit sur ce impartie
-nostregraceetmisericorde..	nostre grace et misericorde . .
-,sicommeilz.	, si comme ilz .
-.dient,ennoushumblementsuppliant,comme	. dient , en nous humblement suppliant , comme
-entouzses	en touz ses
-autresfaizilaittousjoursestéhomme	autres faiz il ait tousjours esté homme
-debonnevie	de bonne vie
-,renommée	, renommée
-ethonnesteconversacion,etaittenulepartide	et honneste conversacion , et ait tenu le parti de
-denostreditadversaire..	de nostre dit adversaire . .
-parjeunesseetsimplece,etparignorancede	par jeunesse et simplece , et par ignorance de
-savoirdont	savoir dont
-ilestoit,etluiadvertidulieuetpays	il estoit , et lui adverti du lieu et pays
-paysdontilestoit,oùilaunsienfrere	pays dont il estoit , où il a un sien frere
-etpluseursautresgentilzhommessesparens	et pluseurs autres gentilz hommes ses parens
-,aitdepresentbonnevoulentéde	, ait de present bonne voulenté de
-tenirnostre	tenir nostre
-partietestrevrayetloyalsubgiet	parti et estre vray et loyal subgiet
-enversnous,etrenoncieraupartidenostre	envers nous , et renoncier au parti de nostre
-ditadversaire,etsurcedonnerbonet	dit adversaire , et sur ce donner bon et
-loyalserement,etpourveu	loyal serement , et pourveu
-pourveutoutesvoyes..queHuguetGoulart,sonfreregermain,	pourveu toutes voyes . . que Huguet Goulart , son frere germain ,
-etJehanGoulart,sonnepveu,seigneurde	et Jehan Goulart , son nepveu , seigneur de
-laMartiniere,serontplegeset	la Martiniere , seront pleges et
-etcaucionduditBochartqueàtousjoursmaizil	et caucion du dit Bochart que à tousjours maiz il
-serabonetleal	sera bon et leal
-enversnousetnostrecouronne,etpour	envers nous et nostre couronne , et pour
-contemplaciondesesdizparensetamiz	contemplacion de ses diz parens et amiz
-quitousjoursontestébonsetloyaulx	qui tousjours ont esté bons et loyaulx
-loyaulxsubgiezenversnous,quesurceluivueillons	loyaulx subgiez envers nous , que sur ce lui vueillons
-impartirnostredictegraceet	impartir nostre dicte grace et
-misericorde.Pour	misericorde . Pour
-quoynous,ceschoses..considerées	quoy nous , ces choses . . considerées
-considerées,voulansprefererenceste	considerées , voulans preferer en ceste
-partiemisericordeàrigueurdejustice..,	partie misericorde à rigueur de justice . . ,
-au.ditBochartGoulartoucazdessuzdit	au . dit Bochart Goulart ou caz dessuz dit
-avonsremis,quictié.etpardonné	avons remis , quictié . et pardonné
-,etc.Sidonnonsenmandementauxgouverneur	, etc . Si donnons en mandement aux gouverneur
-delaRochelleetnostreseneschalou	de la Rochelle et nostre seneschal ou
-oujugeen.Xainctonge,età	ou juge en . Xainctonge , et à
-tousnozautresjugesetofficiers,etc..,que	tous noz autres juges et officiers , etc . ., que
-,receududitBochart	, receu du dit Bochart
-Goulartleserement	Goulart le serement
-serementd’.estredoresenavantbonetloyal	serement d ’ . estre doresenavant bon et loyal
-françoiz,ilzlefacent,	françoiz , ilz le facent ,
-seuffrentetlaissentjoir,etc.,etc	seuffrent et laissent joir , etc ., etc
-etc.Donné..àParis,ou	etc . Donné . . à Paris , ou
-moysdejanvierl’andegracemil	moys de janvier l ’ an de grace mil
-miliiiicet	mil iiiic et
-unze,et..denostreregnelexxxiie	unze , et . . de nostre regne le xxxiie
-xxxiie.Parleroy,pluseursdeschambellans	xxxiie . Par le roy , pluseurs des chambellans
-chambellanspresens.Brisoul.	chambellans presens . Brisoul .
+admenéprisonnierou..chastelde	admené prisonnier ou . . chastel de
+SaintJehand	Saint Jehan d
+’Angeli,oùil..aestédetenumoult	’ Angeli , où il . . a esté detenu moult
+longuementprisonnier	longuement prisonnier
+prisonnier,.etencoreestàgrant	prisonnier , . et encore est à grant
+povreté..etmisere,ety	povreté . . et misere , et y
+estenadventuredefinermiserablementsesjours	est en adventure de finer miserablement ses jours
+,entrèsgrantvitupereet	, en très grant vitupere et
+deshonneurdeses	deshonneur de ses
+dizparenset..	diz parens et . .
+amischarnelz,separnousnelui	amis charnelz , se par nous ne lui
+luiestoitsurceimpartienostre.graceet	lui estoit sur ce impartie nostre . grace et
+misericorde,sicommeilzdient,ennoushumblement	misericorde , si comme ilz dient , en nous humblement
+suppliant..,commeen	suppliant . . , comme en
+entouzses..autresfaizil	en touz ses . . autres faiz il
+ilaittousjours	il ait tousjours
+estéhomme	esté homme
+debonnevie,renomméeethonnesteconversacion,et	de bonne vie , renommée et honneste conversacion , et
+aittenulepartidenostre	ait tenu le parti de nostre
+nostreditadversaireparjeunesseetsimplece,	nostre dit adversaire par jeunesse et simplece ,
+,etparignorancede	, et par ignorance de
+savoirdont.il	savoir dont . il
+estoit,etluiadvertidu	estoit , et lui adverti du
+dulieuetpaysdontilestoit,oùila	du lieu et pays dont il estoit , où il a
+unsienfrereetpluseursautres	un sien frere et pluseurs autres
+gentilzhommessesparens,aitdepresent	gentilz hommes ses parens , ait de present
+bonnevoulentédetenirnostreparti	bonne voulenté de tenir nostre parti
+etestrevrayetloyalsubgietenversnous,	et estre vray et loyal subgiet envers nous ,
+etrenoncieraupartidenostreditadversaire,	et renoncier au parti de nostre dit adversaire ,
+,etsurcedonnerbon	, et sur ce donner bon
+bonetloyalserement,etpourveutoutes	bon et loyal serement , et pourveu toutes
+toutesvoyesqueHuguetGoulart	toutes voyes que Huguet Goulart
+Goulart,sonfreregermain,etJehan	Goulart , son frere germain , et Jehan
+Goulart,sonnepveu,	Goulart , son nepveu ,
+seigneurdelaMartiniere	seigneur de la Martiniere
+,seront..plegesetcaucionduditBochartque	, seront . . pleges et caucion du dit Bochart que
+àtousjours..maizilsera	à tousjours . . maiz il sera
+bon..etlealenversnouset	bon . . et leal envers nous et
+nostrecouronne,	nostre couronne ,
+etpourcontemplacion..de	et pour contemplacion . . de
+sesdizparensetamizqui	ses diz parens et amiz qui
+tousjoursontestébonset	tousjours ont esté bons et
+loyaulxsubgiezenversnous,que	loyaulx subgiez envers nous , que
+surceluivueillonsimpartirnostredictegrace	sur ce lui vueillons impartir nostre dicte grace
+etmisericorde	et misericorde
+.Pourquoynous,ceschosesconsiderées	. Pour quoy nous , ces choses considerées
+,voulansprefererenceste..partiemisericordeàrigueur	, voulans preferer en ceste . . partie misericorde à rigueur
+rigueurde.justice,auditBochartGoulart	rigueur de . justice , au dit Bochart Goulart
+oucazdessuzditavons	ou caz dessuz dit avons
+remis,quictiéetpardonné,etc.	remis , quictié et pardonné , etc .
+.SidonnonsenmandementauxgouverneurdelaRochelleet	. Si donnons en mandement aux gouverneur de la Rochelle et
+nostreseneschaloujugeenXainctonge,etàtous	nostre seneschal ou juge en Xainctonge , et à tous
+tousnozautresjugesetofficiers,etc.,que	tous noz autres juges et officiers , etc ., que
+que,receududitBochartGoulart	que , receu du dit Bochart Goulart
+leserementd’estredoresenavantbonetloyal	le serement d ’ estre doresenavant bon et loyal
+françoiz,	françoiz ,
+,ilzle.facent,seuffrentetlaissentjoir	, ilz le . facent , seuffrent et laissent joir
+,etc.,etc.	, etc ., etc .
+Donnéà..Paris,ou	Donné à . . Paris , ou
+oumoysdejanvierl’	ou moys de janvier l ’
+ande.gracemiliiiic	an de . grace mil iiiic
+etunze,etde	et unze , et de
+denostreregnelexxxiie.Par..leroy,pluseurs	de nostre regne le xxxiie . Par . . le roy , pluseurs
+deschambellanspresens.Brisoul.	des chambellans presens . Brisoul .

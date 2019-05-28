@@ -1,77 +1,69 @@
-Poytevins:	Poytevins :
-:Levicontede	: Le viconte de
-ToartLesiredeBerceuleLesiredeBelleville	Toart Le sire de Berceule Le sire de Belleville
-Mons.GuillaumeChabotLesirede..PartenayMons.	Mons . Guillaume Chabot Le sire de . . Partenay Mons .
-deBauçayMons	de Bauçay Mons
-Mons.J.LarcevesqueMons.GuydeRochefort	Mons . J . Larcevesque Mons . Guy de Rochefort
+Poytevins:LevicontedeToartLesire	Poytevins : Le viconte de Toart Le sire
+deBerceuleLesiredeBellevilleMons.	de Berceule Le sire de Belleville Mons .
+Guillaume..ChabotLesiredePartenayMons	Guillaume . . Chabot Le sire de Partenay Mons
+Mons.deBauçay	Mons . de Bauçay
+Mons.J.LarcevesqueMons.Guyde	Mons . J . Larcevesque Mons . Guy de
 Rochefort.Lesire	Rochefort . Le sire
-deTyfaugesMons.GauchierdeToart	de Tyfauges Mons . Gauchier de Toart
-LesiredeBerceuleMons.GuillaumeChabotMons.	Le sire de Berceule Mons . Guillaume Chabot Mons .
-deBauçayMons.GuydeRochefort	de Bauçay Mons . Guy de Rochefort
-Cettelisteestplacée	Cette liste est placée
-àlasuite	à la suite
-d'un..mandementdontvoiciunextrait:	d ' un . . mandement dont voici un extrait :
-Ph.etc.	Ph . etc .
-.aubaillifdeTroyes	. au baillif de Troyes
-ouasonleutenantsalut.	ou a son leu tenant salut .
-Commesur	Comme sur
-aucunesbesoignes	aucunes besoignes
-besoignesquitouchentl'onneurtouchanz	besoignes qui touchent l ' onneur touchanz
-touchanzgrandementl'honneuretlebonestatde	touchanz grandement l ' honneur et le bon estat de
-denousetde	de nous et de
-denostreroyaume,mesmementsurcelledesFlamenz,entre	de nostre royaume , mesmement sur celle des Flamenz , entre
-nousetlesquelsdurenttrieuvesjusquesàcesprochainesPasques	nous et lesquels durent trieuves jusques à ces prochaines Pasques
-tantseulement,etnous.Nousvoilliensavoirvostre	tant seulement , et nous . Nous voilliens avoir vostre
-avisetvostreconseiletdesautres	avis et vostre conseil et des autres
-baronsdenostreditroyaume,nous	barons de nostre dit royaume , nous
-vousprionsetaveccevous	vous prions et avec ce vous
-vousrequeronset..mandonsqueausoctaves	vous requerons et . . mandons que aus octaves
-decesteprochaineChandeleurvoussoiezà	de ceste prochaine Chandeleur vous soiez à
-nous,àParis,pourlescausesdessus	nous , à Paris , pour les causes dessus
-diteset	dites et
-cenelessezpas,.	ce ne lessez pas , .
-sichercomme	si cher comme
-vousaveznous,nostre	vous avez nous , nostre
-honneuretdenostreroyaume.DonnéàBourges	honneur et de nostre royaume . Donné à Bourges
-Bourges,l	Bourges , l
-'avisetleconseildesbaronsetdesautres	' avis et le conseil des barons et des autres
-noblesdenostre	nobles de nostre
-royaume,etparceschosesàceuxde	royaume , et par ces choses à ceux de
-tabaillienousescriveins	ta baillie nous escriveins
-par.nozlettreslesquelesnous	par . noz lettres les queles nous
-teenvoyonsqueilsoientanousa	te envoyons que il soient a nous a
-Parisausoctavesdecesteprochaine	Paris aus octaves de ceste prochaine
-prochainechandeleur...Nous	prochaine chandeleur . . . Nous
-temandonset..commandons	te mandons et . . commandons
-estroitementquetantostsansnuldelaytu	estroitement que tantost sans nul delay tu
-tuenvoyesparcertainsetsoffisenzmessagesnosdictes	tu envoyes par certains et soffisenz messages nos dictes
-lettres..aceusaquiellesvont	lettres . . a ceus a qui elles vont
-ets'ily	et s ' il y
-avoit.aucunsautresbaronsaquinous	avoit . aucuns autres barons a qui nous
-n'envoissonslettresquarnousn	n ' envoissons lettres quar nous n
-'avonspaspeuavoirmemoire	' avons pas peu avoir memoire
-detouz,nous.	de touz , nous .
-volonsettemandonsqueparespecialtulespries	volons et te mandons que par especial tu les pries
+deTyfaugesMons...Gauchier	de Tyfauges Mons . . . Gauchier
+deToart..LesiredeBerceuleMons.Guillaume	de Toart . . Le sire de Berceule Mons . Guillaume
+ChabotMons.deBauçayMons.Guyde	Chabot Mons . de Bauçay Mons . Guy de
+RochefortCettelisteestplacéeàlasuited'	Rochefort Cette liste est placée à la suite d '
+unmandementdontvoiciunextrait:	un mandement dont voici un extrait :
+Ph.etc.aubaillifde.	Ph . etc . au baillif de .
+Troyesouasonleutenant	Troyes ou a son leu tenant
+salut.Commesuraucunesbesoignesqui	salut . Comme sur aucunes besoignes qui
+touchentl'onneurtouchanzgrandementl'honneuret	touchent l ' onneur touchanz grandement l ' honneur et
+lebonestatdenousetdenostreroyaume	le bon estat de nous et de nostre royaume
+,mesmementsurcelledesFlamenz,entrenous	, mesmement sur celle des Flamenz , entre nous
+etlesquelsdurenttrieuvesjusquesàces	et lesquels durent trieuves jusques à ces
+prochainesPasquestantseulement,etnous.Nous	prochaines Pasques tant seulement , et nous . Nous
+voilliensavoirvostre..avisetvostre	voilliens avoir vostre . . avis et vostre
+conseiletdesautresbarons	conseil et des autres barons
+denostreditroyaume,nousvousprionset	de nostre dit royaume , nous vous prions et
+avecce..vous	avec ce . . vous
+vousrequeronsetmandonsqueausoctaves	vous requerons et mandons que aus octaves
+decesteprochaineChandeleurvoussoiezànous,	de ceste prochaine Chandeleur vous soiez à nous ,
+,àParis	, à Paris
+,pourles	, pour les
+causesdessusditesetcenelessezpas,	causes dessus dites et ce ne lessez pas ,
+sichercommevousavez	si cher comme vous avez
+nous,nostre.	nous , nostre .
+honneuretde	honneur et de
+nostreroyaume.DonnéàBourges,l	nostre royaume . Donné à Bourges , l
+'avisetleconseildesbarons	' avis et le conseil des barons
+etdesautresnoblesde	et des autres nobles de
+nostreroyaume,et..parceschoses	nostre royaume , et . . par ces choses
+àceuxdetabaillienousescriveinsparnozlettres	à ceux de ta baillie nous escriveins par noz lettres
+lesquelesnousteenvoyonsqueilsoient	les queles nous te envoyons que il soient
+soientanousaParisausoctavesdeceste	soient a nous a Paris aus octaves de ceste
+prochainechandeleur...Nouste	prochaine chandeleur . . . Nous te
+mandonsetcommandons..estroitementquetantostsans	mandons et commandons . . estroitement que tantost sans
+nuldelaytuenvoyes.	nul delay tu envoyes .
+parcertainsetsoffisenzmessagesnosdicteslettresaceus	par certains et soffisenz messages nos dictes lettres a ceus
+aquiellesvontets'	a qui elles vont et s '
+ilyavoit	il y avoit
+aucunsautresbaronsaquinousn'envoissonslettres	aucuns autres barons a qui nous n ' envoissons lettres
+quarnousn	quar nous n
+'avonspaspeuavoir	' avons pas peu avoir
+avoirmemoiredetouz,nousvolonsette	avoir memoire de touz , nous volons et te
+temandonsqueparespecialtulespries..	te mandons que par especial tu les pries . .
 etrequierdeparnousqueausdizleuet	et requier de par nous que aus diz leu et
-jourilsoientpourles	jour il soient pour les
-causesdessusdictes,etque	causes dessus dictes , et que
-ceilnelessent	ce il ne lessent
-miesichiercommeilontnous,nostrehoneur	mie si chier comme il ont nous , nostre honeur
-,etdenostre	, et de nostre
-royaume,	royaume ,
-etn'est	et n ' est
-estmienostreententede	est mie nostre entente de
-defairevenir.quantaorespardeçaautres	de faire venir . quant a ores par deça autres
-autresquelesbaronsetlesgranzhommesquarles	autres que les barons et les granz hommes quar les
-autresmeneursnous..	autres meneurs nous . .
-nevolonspasgrever	ne volons pas grever
-endespens.Etfayleschoses	en despens . Et fay les choses
-dessusdictesbienetdiligemment,sicommeil	dessus dictes bien et diligemment , si comme il
-appartient,entelmenereque	appartient , en tel menere que
-partoynipeutavoirnuldeffautdouquelse	par toy ni peut avoir nul deffaut dou quel se
-ilyestoitnouste	il y estoit nous te
-pourrionsgrefver.DonnéàBorges	pourrions grefver . Donné à Borges
-,lexije.	, le xije .
-jourdenovembrel'an	jour de novembre l ' an
-degracemilccc.etdizet	de grace mil ccc . et diz et
-ethuit.xviij.	et huit . xviij .
+jourilsoientpour	jour il soient pour
+lescausesdessusdictes,etqueceilne.	les causes dessus dictes , et que ce il ne .
+.lessentmiesichiercomme	. lessent mie si chier comme
+ilont..nous,nostrehoneur,etde	il ont . . nous , nostre honeur , et de
+denostreroyaume,etn'estmienostre.	de nostre royaume , et n ' est mie nostre .
+.ententedefairevenirquantaores	. entente de faire venir quant a ores
+orespardeçaautres	ores par deça autres
+quelesbaronsetlesgranzhommes	que les barons et les granz hommes
+quarlesautresmeneursnousnevolonspas	quar les autres meneurs nous ne volons pas
+greverendespens.Et..fayleschoses	grever en despens . Et . . fay les choses
+dessusdictesbienetdiligemment,	dessus dictes bien et diligemment ,
+sicommeilappartient,entel	si comme il appartient , en tel
+menerequepartoy	menere que par toy
+nipeutavoirnuldeffautdou	ni peut avoir nul deffaut dou
+quelseilyestoitnouste	quel se il y estoit nous te
+pourrionsgrefver.Donné	pourrions grefver . Donné
+àBorges,le.xijejourde	à Borges , le . xije jour de
+novembrel'an	novembre l ' an
+andegracemilccc.etdizethuit	an de grace mil ccc . et diz et huit

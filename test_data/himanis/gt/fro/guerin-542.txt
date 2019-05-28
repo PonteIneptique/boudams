@@ -1,16 +1,19 @@
-Charles,parlagracedeDieu	Charles , par la grace de Dieu
-roydeFrance.Savoirfaisonsà	roy de France . Savoir faisons à
-tous,presensetadvenir,quenous	tous , presens et advenir , que nous
-,aiansen	, aians en
-memoirelaparfaiteloyaultéetvraieobeissancequeèstemps	memoire la parfaite loyaulté et vraie obeissance que ès temps
-tempspassezaeuànozpredecesseurset	temps passez a eu à noz predecesseurs et
-etànousnostrebienaméJehandeTaunay	et à nous nostre bien amé Jehan de Taunay
-Taunay,bourgoisethabitant	Taunay , bourgois et habitant
-denostreville	de nostre ville
-etcitédePoitiers,lequel	et cité de Poitiers , le quel
-outempspasséaestémaired	ou temps passé a esté maire d
-'icelleville,.etaussi	' icelle ville , . et aussi
-aussilesbonsport,estatetgouvernementqueila	aussi les bons port , estat et gouvernement que il a
-misoudit	mis ou dit
-officedemaire,pourletemps	office de maire , pour le temps
-queill'exerçoit	que il l ' exerçoit
+Charles,parlagracedeDieuroyde	Charles , par la grace de Dieu roy de
+France.Savoirfaisonsàtous,presenset	France . Savoir faisons à tous , presens et
+advenir,quenous,aiansenmemoirelaparfaite	advenir , que nous , aians en memoire la parfaite
+loyaultéetvraieobeissanceque	loyaulté et vraie obeissance que
+èstempspassezaeu	ès temps passez a eu
+ànozpredecesseurset	à noz predecesseurs et
+etànous.	et à nous .
+nostrebien.amé	nostre bien . amé
+améJehandeTaunay,bourgois	amé Jehan de Taunay , bourgois
+ethabitantdenostreville	et habitant de nostre ville
+villeetcitédePoitiers,lequeloutemps	ville et cité de Poitiers , le quel ou temps
+passéaestémaired	passé a esté maire d
+d'icelleville,etaussiles	d ' icelle ville , et aussi les
+bonsport	bons port
+,estatet..gouvernement	, estat et . . gouvernement
+queilamis	que il a mis
+ouditoffice	ou dit office
+officede..maire,pourletempsque	office de . . maire , pour le temps que
+ill'exerçoit,etc.	il l ' exerçoit , etc .

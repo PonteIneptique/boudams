@@ -1,40 +1,38 @@
-Philippes,parlagrace	Philippes , par la grace
-gracedeDieu,	grace de Dieu ,
-,roideFrance,auseneschalde	, roi de France , au seneschal de
-Poitouetàtousceusqui	Poitou et à tous ceus qui
-sontdeparnousenvoiezen	sont de par nous envoiez en
-laseneschauciedePoitou,pourhasteretavancier	la seneschaucie de Poitou , pour haster et avancier
-notresemonsed'	notre semonse d '
-armes,salut	armes , salut
-.Nousvous	. Nous vous
-mandonsetcommandonssiestroitementcommenousplus	mandons et commandons si estroitement comme nous plus
-poonsquevous,partoutesles	poons que vous , par toutes les
-voiesetmanieresquevous	voies et manieres que vous
-vouspourrezmieux,amonestez	vous pourrez mieux , amonestez
-etamenezà	et amenez à
-ce..touzceusquisouznostresemonsesontcompris,	ce . . touz ceus qui souz nostre semonse sont compris ,
-etavêcquestoutceleurcommandezsiestroitementcomme	et avêcques tout ce leur commandez si estroitement comme
-pluspourrez..,	plus pourrez . . ,
-,quetantost,sanznuldelai,ilvoisenten	, que tantost , sanz nul delai , il voisent en
-nostreostdeFlandresappareilliéleplussouffisanmentqu'	nostre ost de Flandres appareillié le plus souffisanment qu '
-'ilpourront	' il pourront
-pourront.,etquesanznullefauteilsoientà	pourront . , et que sanz nulle faute il soient à
-àArrazàcestprochainjourdemiaoust	à Arraz à cest prochain jour de mi aoust
-aoust,seloncla	aoust , selonc la
-fourmedenostreditesemonse.Ettu	fourme de nostre dite semonse . Et tu
-,seneschal,	, seneschal ,
-se..cilquenousavonsjà	se . . cil que nous avons jà
-envoiezentaseneschauciepourl'avancement	envoiez en ta seneschaucie pour l ' avancement
-decestebesoigne,nesontèspartiesde	de ceste besoigne , ne sont ès parties de
-detaseneschauciepourtoiavec	de ta seneschaucie pour toi avec
-aveceuspuissescest	avec eus puisses cest
-nostremandement[faire],	nostre mandement [ faire ],
-],cestnostremandement	], cest nostre mandement
-mandementfacesetemplisesdiliganment,etbienfacessavoirque	mandement faces et emplises diliganment , et bien faces savoir que
-nousnedevronsteniràfeelne	nous ne devrons tenir à feel ne
-neàamiquiencest	ne à ami qui en cest
-besoingnousfaudra.Donnéà	besoing nous faudra . Donné à
-Paris,v.jouroumois	Paris , v . jour ou mois
-d'aoust,l	d ' aoust , l
-'andegracemil	' an de grace mil
-ccc.ettrois.	ccc . et trois .
+Philippes,parlagracedeDieu,	Philippes , par la grace de Dieu ,
+roideFrance,auseneschaldePoitouetà	roi de France , au seneschal de Poitou et à
+àtousceusquisontdeparnousenvoiezen	à tous ceus qui sont de par nous envoiez en
+laseneschauciedePoitou	la seneschaucie de Poitou
+,pourhaster	, pour haster
+etavanciernotresemonsed'armes,salut	et avancier notre semonse d ' armes , salut
+.Nousvousmandonsetcommandonssiestroitementcomme	. Nous vous mandons et commandons si estroitement comme
+commenouspluspoonsquevous	comme nous plus poons que vous
+,partoutesles.voiesetmanieres	, par toutes les . voies et manieres
+que.vous	que . vous
+vouspourrezmieux,amonestezetamenezà	vous pourrez mieux , amonestez et amenez à
+cetouzceusqui.souznostresemonsesontcompris	ce touz ceus qui . souz nostre semonse sont compris
+,etavêcquestoutceleurcommandez	, et avêcques tout ce leur commandez
+siestroitementcommepluspourrez,	si estroitement comme plus pourrez ,
+quetantost,sanz	que tantost , sanz
+nuldelai,ilvoisenten	nul delai , il voisent en
+nostreostdeFlandresappareilliéle	nostre ost de Flandres appareillié le
+plussouffisanmentqu'ilpourront,	plus souffisanment qu ' il pourront ,
+etquesanznulle	et que sanz nulle
+fauteilsoientàArrazàcestprochainjourde	faute il soient à Arraz à cest prochain jour de
+miaoust,selonclafourmede	mi aoust , selonc la fourme de
+nostreditesemonse.	nostre dite semonse .
+Ettu,seneschal,	Et tu , seneschal ,
+secilquenous	se cil que nous
+avonsjàenvoiezentaseneschaucie.pourl	avons jà envoiez en ta seneschaucie . pour l
+'avancementdecestebesoigne,ne	' avancement de ceste besoigne , ne
+sontèsparties	sont ès parties
+partiesdetaseneschauciepourtoiavec	parties de ta seneschaucie pour toi avec
+aveceuspuissescestnostremandement[faire],	avec eus puisses cest nostre mandement [ faire ],
+],cestnostremandementfaces	], cest nostre mandement faces
+etemplisesdiliganment,	et emplises diliganment ,
+etbienfacessavoirquenousne	et bien faces savoir que nous ne
+devronstenirà	devrons tenir à
+feelneàamiquiencestbesoingnous	feel ne à ami qui en cest besoing nous
+faudra..DonnéàParis,v.jour	faudra . . Donné à Paris , v . jour
+oumoisd'aoust,l'an	ou mois d ' aoust , l ' an
+degracemilccc.	de grace mil ccc .
+ettrois..	et trois . .

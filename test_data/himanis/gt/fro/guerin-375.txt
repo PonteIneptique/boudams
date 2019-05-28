@@ -1,411 +1,399 @@
-Johannes,Deigracia	Johannes , Dei gracia
-Francorumrex.	Francorum rex .
-Notumfacimusuniversistampresentibusquamfuturis	Notum facimus universis tam presentibus quam futuris
-nosinfrascriptasvidisselitterasformam	nos infra scriptas vidisse litteras formam
-quesequitur	que sequitur
-continentes:Arnoul,sired'Audenehan	continentes : Arnoul , sire d ' Audenehan
-,mareschaldeFrancelieutenantduroymonseigneur	, mareschal de Fran ce lieutenant du roy monseigneur
-espaisd'	es pais d '
-entrelesrivieresfrLoireet	entre les rivieres fr Loire et
-delaDourdoigne,atousceulzquices	de la Dourdoigne , a tous ceulz qui ces
-cespresenteslettres	ces presentes lettres
-lettresverrontetorrontsalut.Commenoble	lettres verront et orront salut . Comme noble
-noble.hommemessireGuy	noble . homme messire Guy
-Brunchevaliersirede	Brun chevalier sire de
-Montbrunnousaitsignifiéque..	Montbrun nous ait signi fié que . .
-pourcausedepluseursgriezquiliont	pour cause de pluseurs griez qui li ont
-estéfaizcaenarrieresparplusieursgens	esté faiz ca en arrieres par plusieurs gens
-puissansdontilne..	puissans dont il ne . .
-sepovoitaidierbonnement,et	se pov oit aidier bonnement , et
-aussipource	aussi pour ce
-cequel'	ce que l '
-'enliavoitdonnéaentendre	' en li avoit donné a entendre
-queaucunesinformations.avoientestéfaitesde	que aucunes informations . avoient esté faites de
-notrecommandementoudenoslieuxtenants	notre commandement ou de nos lieux tenants
-oucommissairesouautresofficiers	ou commissaires ou autres officiers
-officierspourmondiseigneurounoslieutenants	officiers pour mon di seigneur ou nos lieutenants
-ou..lesenechal	ou . . le senechal
-ouautresofficiersdePoitouetdeLimousin	ou autres officiers de Poitou et de Limousin
-ouautrespourmonditseigneurvaulions	ou autres pour mon dit seigneur vaulions
-procedercontreluiapriseet	proceder contre lui a prise et
-printiondecorpsetdebienssenz	printion de corps et de biens senz
-nullegracefairealitantpour	nulle grace faire a li tant pour
-pourcequeca	pour ce que ca
-caenarrieresledit	ca en arrieres le dit
-chevalierfistplegesobligacionsouconvenances	chevalier fist pleges obligacions ou convenances
-enversmessireJaque	envers messire Jaque
-deBourbonlorslieutenantduroymonditseigneur	de Bourbon lors lieutenant du roy mon dit seigneur
-pourmessireHeliesdeLastradeoupourle.	pour messire Helies de Lastrade ou pour le .
-Boyersonfilou.	Boyer son fil ou .
-.pourchascund'eulz	. pour chascun d ' eulz
-ouenversses..	ou envers ses . .
-.receveurs,etaussipourcinqcenslivresque	. receveurs , et aussi pour cinq cens livres que
-leditBoyerotpourrendrelelieude	le dit Boyer ot pour rendre le lieu de
-deNontreroetnedemourapasparledit	de Nontrero et ne demoura pas par le dit
-monseigneurGuy	monseigneur Guy
-Guyquelesconvenancesetobsequesnefussent	Guy que les convenances et obseques ne fussent
-fussentacomplies.Item.,etpou	fussent acomplies . Item . , et pou
-cequeilotconvenancesauroymon	ce que il ot convenances au roy mon
+Johannes,	Johannes ,
+DeigraciaFrancorumrex.Notumfacimusuniversistam	Dei gracia Francorum rex . Notum facimus universis tam
+presentibusquam	presentibus quam
+quamfuturisnos..infrascriptas	quam futuris nos . . infra scriptas
+scriptasvidisselitterasformamquesequiturcontinentes.	scriptas vidisse litteras formam que sequitur continentes .
+.:Arnoul,sired	. : Arnoul , sire d
+d'..Audenehan,mareschaldeFrance	d ' . . Audenehan , mareschal de Fran ce
+lieutenantduroymonseigneurespaisd'	lieutenant du roy monseigneur es pais d '
+entrelesrivieresfrLoire.etde	entre les rivieres fr Loire . et de
+laDourdoigne,a	la Dourdoigne , a
+tousceulzquicespresenteslettresverrontetorront	tous ceulz qui ces presentes lettres verront et orront
+salut.CommenoblehommemessireGuyBrun	salut . Comme noble homme messire Guy Brun
+chevaliersiredeMontbrun	chevalier sire de Montbrun
+Montbrunnousait	Montbrun nous ait
+signifiéquepour	signi fié que pour
+causedepluseursgriezquili	cause de pluseurs griez qui li
+ontestéfaizcaenarrieresparplusieursgens	ont esté faiz ca en arrieres par plusieurs gens
+genspuissansdontilnesepovoitaidierbonnement	gens puissans dont il ne se pov oit aidier bonnement
+,etaussi	, et aussi
+pourceque	pour ce que
+l.'enliavoit	l . ' en li avoit
+donnéaentendreque..aucunesinformationsavoientestéfaitesde	donné a entendre que . . aucunes informations avoient esté faites de
+notrecommandementoudenos	notre commandement ou de nos
+lieuxtenantsou..	lieux tenants ou . .
+commissairesou	commissaires ou
+ouautresofficierspourmondiseigneur	ou autres officiers pour mon di seigneur
+ounoslieutenantsoulesenechalouautresofficiersde	ou nos lieutenants ou le senechal ou autres officiers de
+Poitouet..	Poitou et . .
+.deLimousinou..	. de Limousin ou . .
+.autrespourmonditseigneurvaulionsprocedercontreluia	. autres pour mon dit seigneur vaulions proceder contre lui a
+priseetprintiondecorpsetde	prise et printion de corps et de
+biens..senznullegrace	biens . . senz nulle grace
+fairealitantpourcequecaen	faire a li tant pour ce que ca en
+arrieresledit	arrieres le dit
+chevalierfistplegesobligacionsouconvenancesenversmessireJaquede	chevalier fist pleges obligacions ou convenances envers messire Jaque de
+Bourbonlorslieutenant	Bourbon lors lieutenant
+duroymon..dit	du roy mon . . dit
+seigneurpourmessireHeliesdeLastrade	seigneur pour messire Helies de Lastrade
+oupourleBoyer	ou pour le Boyer
+sonfiloupour.chascund'	son fil ou pour . chascun d '
+eulz.ouenverssesreceveurs,	eulz . ou envers ses receveurs ,
+etaussipourcinqcenslivres	et aussi pour cinq cens livres
+queledit.Boyerot	que le dit . Boyer ot
+otpourrendrele	ot pour rendre le
+lieudeNontreroetnedemourapasparle	lieu de Nontrero et ne demoura pas par le
+ditmonseigneurGuyquelesconvenances	dit monseigneur Guy que les convenances
+convenancesetobsequesnefussentacomplies.Item	convenances et obseques ne fussent acomplies . Item
+,etpoucequeilotconvenances	, et pou ce que il ot convenances
+auroymonditseigneurquimaintenantestderendre	au roy mon dit seigneur qui maintenant est de rendre
+aucunsdesesennemisla..quelle	aucuns de ses ennemis la . . quelle
+chosenepeutmettre..aeffectdontil	chose ne peut mettre . . a effect dont il
+fuetestmoultdolenzpresensmonseigneurleconnestable	fu et est moult dolenz presens monseigneur le connestable
+connestabledeFrancequimaintenant	connestable de France qui maintenant
+estet.maistrePierredela	est et . maistre Pierre de la
+Batutsecretaireduroymonditseigneur	Batut secretaire du roy mon dit seigneur
+,etcarilestoittenusenplusieurs	, et car il estoit tenus en plusieurs
+peinnesmultesouamendespourcequ	peinnes multes ou amendes pour ce qu
+qu'il.avoitfaitfondre	qu ' il . avoit fait fondre
+lelieude..	le lieu de . .
+Losbesteuravecquesplusieursautressescomplicesetpource	Losbesteur avecques plusieurs autres ses complices et pour ce
+quelietses	que li et ses
+dizcomplicesestoienttenuesa..	diz complices estoient tenues a . .
+monditseigneurenplusieursdeffausesquieuxesquieux	mondit seigneur en plusieurs deffaus es quieux es quieux
+quieuxilestoient	quieux il estoient
+estoient.cheusen	estoient . cheus en
+parlementaParispourcausedessusdicte,	parlement a Paris pour cause dessus dicte ,
+etaussipourcequeleditmonseigneur	et aussi pour ce que le dit monseigneur
+Guyetses	Guy et ses
+complicesouconsenteurestoientoupovoientestretenuzauroyaume	complices ou consenteur estoient ou povoient estre tenuz au royaume
+monditseigneurpourcequeaucuns	mondit seigneur pour ce que aucuns
+francoisdumandementvoulentéouconmandementduditmonseigneur	francois du mandement voulenté ou conmandement dudit monseigneur
+Guyouluiaiantfermeetestablechevaucerent	Guy ou lui aiant ferme et estable chevaucerent
+surlelieudeCromveresou	sur le lieu de Cromveres ou
+ailleurscontre.lateneurd'	ailleurs contre . la teneur d '
+unacortfaitentreluietJehande	un acort fait entre lui et Jehan de
+LobesteurjadizetmonseigneurRompueulzHeliestuteurou	Lobesteur jadiz et monseigneur Rompueulz Helies tuteur ou
+curateurduditJehanet	curateur dudit Jehan et
+etarrestdeparlement,	et arrest de parlement ,
+,etaussipourcequ'ilavoitesté	, et aussi pour ce qu ' il avoit esté
+desobeissansaplusieurs..commandemensinbilicions	desobeissans a plusieurs . . commandemens inbilicions
+etinjunctionsalui..faitesdeparmondit	et injunctions a lui . . faites de par mon dit
+seigneurcaenarrieres,etaussiqu'il	seigneur ca en arrieres , et aussi qu ' il
+ilestoittenusamon	il estoit tenus a mon
 ditseigneur	dit seigneur
-quimaintenantestderendreaucunsdesesennemis	qui maintenant est de rendre aucuns de ses ennemis
-laquelle	la quelle
-chosenepeutmettreaeffectdontilfuet	chose ne peut mettre a effect dont il fu et
-estmoultdolenzpresens	est moult dolenz presens
-presensmonseigneurleconnestabledeFrancequi.maintenantest	presens monseigneur le connestable de France qui . maintenant est
-etmaistre	et maistre
-Pierrede	Pierre de
-delaBatutsecretaireduroymonditseigneur,et	de la Batut secretaire du roy mon dit seigneur , et
-etcaril..estoittenusen	et car il . . estoit tenus en
-plusieurspeinnesmultesou	plusieurs peinnes multes ou
-amendespourcequ'ilavoitfaitfondre	amendes pour ce qu ' il avoit fait fondre
-fondrelelieudeLosbesteuravecquesplusieursautressescomplices	fondre le lieu de Losbesteur avecques plusieurs autres ses complices
-etpourcequelietses	et pour ce que li et ses
-dizcomplicesestoient	diz complices estoient
-tenuesamonditseigneurenplusieursdeffauses	tenues a mondit seigneur en plusieurs deffaus es
-quieux.es	quieux . es
-quieuxilestoientcheusenparlementa..Parispourcause	quieux il estoient cheus en parlement a . . Paris pour cause
-dessusdicte..,et	dessus dicte . . , et
-aussipourcequeleditmonseigneurGuy	aussi pour ce que le dit monseigneur Guy
-Guyetsescomplicesouconsenteur..	Guy et ses complices ou consenteur . .
-.estoientoupovoientestretenuzauroyaumemonditseigneur	. estoient ou povoient estre tenuz au royaume mondit seigneur
-seigneurpourcequeaucunsfrancoisdu	seigneur pour ce que aucuns francois du
-dumandementvoulentéouconmandement.duditmonseigneur	du mandement voulenté ou conmandement . dudit monseigneur
-monseigneur..Guyouluiaiantfermeet	monseigneur . . Guy ou lui aiant ferme et
-etestablechevaucerentsurlelieu	et estable chevaucerent sur le lieu
-de..Cromveresouailleurscontrelateneurd'	de . . Cromveres ou ailleurs contre la teneur d '
-'unacortfaitentreluiet	' un acort fait entre lui et
-etJehandeLobesteur	et Jehan de Lobesteur
-jadizetmonseigneurRompueulzHeliestuteuroucurateurduditJehan	jadiz et monseigneur Rompueulz Helies tuteur ou curateur dudit Jehan
-etarrestdeparlement	et arrest de parlement
-parlement,etaussi	parlement , et aussi
-pourcequ'ilavoit	pour ce qu ' il avoit
-avoitestédesobeissansaplusieurscommandemens	avoit esté desobeissans a plusieurs commandemens
-inbilicionsetinjunctionsaluifaitesdeparmondit	inbilicions et injunctions a lui faites de par mon dit
-seigneurca	seigneur ca
-enarrieres,etaussiqu'il	en arrieres , et aussi qu ' il
-estoittenus	estoit tenus
-amonditseigneurenplusieursdeffaus	a mon dit seigneur en plusieurs deffaus
-deffausetcontumacesesquieuxilestoit	deffaus et contumaces es quieux il estoit
-estoitobeisenlacourtdemonditseigneuret	estoit obeis en la court de mon dit seigneur et
-etdesonsenechaldePoitouetdeLimosinoud	et de son senechal de Poitou et de Limosin ou d
-'autrescommissionsdemonditseigneur	' autres commissions de mon dit seigneur
-oudenouspourcausedufaitdulieu	ou de nous pour cause du fait du lieu
-delamonesrieouautrementpromouvantleprocureur	de la monesrie ou autrement promouvant le procureur
-duroymonditseigneurouautresparties	du roy mondit seigneur ou autres parties
-partiesconjoinctementoudivisementetaussi	parties conjoinctement ou divisement et aussi
-aussipourceque	aussi pour ce que
-quel'endisoitluiestre	que l ' en disoit lui estre
-tenuamonditseigneurenplusieurspeinnesmulteset	tenu a mon dit seigneur en plusieurs peinnes multes et
-amendespourcausedesauvesgardesenfraintes	amendes pour cause de sauves gardes enfraintes
-etautrementetquepourtantilsedoubtoit	et autrement et que pour tant il se doubtoit
-etn'osoit	et n ' osoit
-osoitvenirnecomparoirpardevantmonditseigneur	osoit venir ne comparoir par devant mondit seigneur
-nousneautresofficiersdemonditseigneur	nous ne autres officiers de mon dit seigneur
-pourdoubtequ'ilavoitd'estreprins	pour doubte qu ' il avoit d ' estre prins
-etdommagiez	et dommagiez
-desoncorpsparforcede..	de son corps par force de . .
-prisonal	prison a l
-l'instigationdesesmalvellanzetennemis,il	l ' instigation de ses malvellanz et ennemis , il
-ilpoureschiverauschosesdessus	il pour eschiver aus choses dessus
-dictesetautrestraitemensetprelevionsoulesennemis	dictes et autres traitemens et prelevions ou les ennemis
-demonditseigneurcontreycellui	de mon dit seigneur contre ycellui
-ycelluiseigneuretlepaisetleur	ycellui seigneur et le pais et leur
-fistaucunesconvenancesseeleesdeson	fist aucunes convenances seelees de son
-seelouautrement	seel ou autrement
-parsermentoupar	par serment ou par
-parparolessenz..	par paroles senz . .
-licencedemonditseigneuretdeses	licence de mon dit seigneur et de ses
-sesgenzaianspovoirace,nonmie	ses genz aians povoir a ce , non mie
-toutevoiespourmaldommagequ'ilvousist	toutevoies pour mal dommage qu ' il vousist
-amondit	a mon dit
-seigneurneason	seigneur ne a son
-royaumemaispourobvieralapuissancedeses	royaume mais pour obvier a la puissance de ses
-ennemisetauschosesdessusdictesetque	ennemis et aus choses dessus dictes et que
-lesdiztraitemens	les diz traitemens
-etparlemensqu'.il	et parlemens qu ' . il
-otou..lesdizennemisnevindrent	ot ou . . les diz ennemis ne vindrent
-mieaeffetnenul	mie a effet ne nul
-dommageDieu	dommage Dieu
-mercynes'enestensuiz	mercy ne s ' en est ensuiz
-,ettousjours.seusleschosesmettreautrement	, et tous jours . seus les choses mettre autrement
-enfaitilaattenduseil	en fait il a attendu se il
-porroitavoirgraceetmisericordedemondit	porroit avoir grace et misericorde de mon dit
-seigneuretnousenaplusieurs	seigneur et nous en a plusieurs
-foishumblement..supplié	fois humblement . . supplié
-suppliéetsuppliedenouvelhumblementquenousqui	supplié et supplie de nouvel humblement que nous qui
-savonsqueplusieursgransennemisilaheu	savons que plusieurs grans ennemis il a heu
-dontilformentdoubtoitpourconsideraciondes	dont il forment doubtoit pour consideracion des
-chosesdessusdictesetenrecompensaciondeplusieurs	choses dessus dictes et en recompensacion de plusieurs
-etgranspertesetdomagesquenoussavonsqu	et grans pertes et domages que nous savons qu
-'ilasoustenus	' il a soustenus
-caenarrerespourcausede	ca en arreres pour cause de
-decespresentesguerretantpour	de ces presentes guerre tant pour
-pourlesliexdeNautron,	pour les liex de Nautron ,
-deMontchevreulsdeMazonnesetpour	de Montchevreuls de Mazonnes et pour
-lelieudeSaint	le lieu de Saint
-Saint..Amentque	Saint . . Ament que
-pourplusieursautresliexd'environoutemps	pour plusieurs autres liex d ' environ ou temps
-qu'ilestoientes	qu ' il estoient es
-mainsdesennemisdemonditseigneurentrelesquiex	mains des ennemis de mon dit seigneur entre les quiex
-quiexliexson..ditlieude	quiex liex son . . dit lieu de
-Montbrunestoitetestast	Montbrun estoit et estast
-bienpres..Etaussipourcause	bien pres . . Et aussi pour cause
-desliexdeXidvil	des liex de Xidvil
-etdeComborles..	et de Combor les . .
-quiexsont.apresentesmainsdesdiz	quiex sont . a present es mains des diz
-dizennemisetaussi	diz ennemis et aussi
-pourcequ'iloc	pour ce qu ' il oc
-moutgranttravailetfitbonediligenceet	mout grant travail et fit bone diligence et
-etlamistaeffortetsoustint	et la mist a effort et soustint
-moultdedespens,fraisetmises	moult de despens , frais et mises
-misespourrecouvrer	mises pour recouvrer
-recouvrerlelieudehaus	recouvrer le lieu de haus
-desmainsdesdizennemis.Nous	des mains des diz ennemis . Nous
-Nousaluietsescomplicesetconsentans	Nous a lui et ses complices et consentans
-etatoutes	et a toutes
-toutessesplegesetcautionsseaucunesenya	toutes ses pleges et cautions se aucunes en y a
-etatousautresaqui	et a tous autres a qui
-quiceschosestouchentoupeventtoucherconjointement	qui ces choses touchent ou pevent toucher conjointement
-conjointementoudivisementetachascund'iceux	conjointement ou divisement et a chascun d ' iceux
-iceuxseaucunsenyaet	iceux se aucuns en y a et
-etsietentantcommechascun	et si et en tant comme chascun
-toucheoupeuttoucheretappartientenaucune	touche ou peut toucher et appartient en aucune
-maniereapresentoupourletempsavenir	maniere a present ou pour le temps a venir
-porroitappartenir	porroit appartenir
-vousissonsremectrequitieret	vousissons remectre quitier et
-etpardonnerlescas	et pardonner les cas
-etchosesdessusdictes.	et choses dessus dictes .
-Ettoutes	Et toutes
-êinnes..multesetamendesqueeulzetchascund	êinnes . . multes et amendes que eulz et chascun d
-'eulzsicommeillipeuttoucherpouravoir	' eulz si comme il li peut toucher pour avoir
-encouruesenversmonditseigneur	encourues envers mon dit seigneur
-seigneurpour..les	seigneur pour . . les
-leschosesdessusdictesetchascuned'icelles	les choses dessus dictes et chascune d ' icelles
-,savoirfaisonsquenouseueconsiderationad	, savoir faisons que nous eue consideration ad
-cequedessusestditet	ce que dessus est dit et
-aplusieursautres	a plusieurs autres
-autrescausesquiacenousontesmeuinfourmeraussi	autres causes qui a ce nous ont esmeu infourmer aussi
-aplaindesgranspertes,dommages	a plain des grans pertes , dommages
-,..despens,fraiz,	, . . despens , fraiz ,
-,misesettravaulzdessusdiz	, mises et travaulz dessus diz
-eueaussi	eue aussi
-consideracionacequeleditchevaliera.	consideracion a ce que le dit chevalier a .
-bonnevolentéd'estrebonsetloyala	bonne volenté d ' estre bons et loyal a
-atousjoursmaisamondit	a tous jours mais a mon dit
-ditseigneureta	dit seigneur et a
-sons..royaumeetserepentdeschoses	sons . . royaume et se repent des choses
-dessus.dicteset	dessus . dictes et
-savonsquepourcaused'icellesnul	savons que pour cause d ' icelles nul
-dommagenes'enestensuiza	dommage ne s ' en est ensuiz a
-monditseigneurne.a	mon dit seigneur ne . a
-sonroyaume,avonsremis,quittiéet.pardonné,	son royaume , avons remis , quittié et . pardonné ,
-,remetons,quittonsetpardonnonsparcespresentes	, remetons , quittons et pardonnons par ces presentes
-presentesdegraceespecialetde	presentes de grace especial et de
-decertainesciencedel'auctorité	de certaine science de l ' auctorité
-royalet	royal et
-pooirdemonditseigneura	pooir de mon dit seigneur a
-anoussur	a nous sur
-cebaillédontla	ce baillé dont la
-lateneurestcydessousescriptes	la teneur est cy dessous escriptes
-,auditmessireGuy	, audit messire Guy
-Brunetasesdizcomplices,plaigeset	Brun et a ses diz complices , plaiges et
-caucionseta	caucions et a
-chascund'	chascun d '
-'eulzettousautre	' eulz et tous autre
-autreaquiceschosestouchentoupevent	autre a qui ces choses touchent ou pevent
-toucherconjointementetdivisementachascund'iceulzse	toucher conjointement et divisement a chascun d ' iceulz se
-aucunsenyaetentant	aucuns en y a et en tant
-commechascuntoucheoupeuttoucheret	comme chascun tou che ou peut toucher et
-appartientenaucunemanierea	appartient en aucune maniere a
-apresentetpourletempsavenir	a present et pour le temps a venir
-porroitappartenirpourtant..commechascuntoucheou	porroit appartenir pour tant . . comme chascun touche ou
-peutthouchierles	peut thouchier les
-lescasdessusdisetchascund'eulzettout	les cas dessus dis et chascun d ' eulz et tout
-toutcequis'enestensuiztantenespecial	tout ce qui s ' en est ensuiz tant en especial
-commeengeneralettoutes	comme en general et toutes
-etchascunlespeinnes	et chascun les peinnes
-peinnes,multesetamendes	peinnes , multes et amendes
-amendescriminellesetciviles.queiletses	amendes criminelles et civiles . que il et ses
-dizcomplices	diz complices
-complicespleigesetcaucionsseaucunesenya	complices pleiges et caucions se aucunes en y a
-etautres	et autres
+seigneurenplusieursdeffauset	seigneur en plusieurs deffaus et
+etcontumacesesquieuxilestoitobeisenlacourtde	et contumaces es quieux il estoit obeis en la court de
+de..monditseigneuretdesonsenechaldePoitou	de . . mon dit seigneur et de son senechal de Poitou
+etdeLimosinou	et de Limosin ou
+d'autrescommissionsde	d ' autres commissions de
+monditseigneurou	mon dit seigneur ou
+denouspourcausedufaitdu	de nous pour cause du fait du
+dulieudelamonesrieou.autrementpromouvantleprocureurdu	du lieu de la monesrie ou . autrement promouvant le procureur du
+roymonditseigneurouautres	roy mondit seigneur ou autres
+partiesconjoinctement	parties conjoinctement
+oudivisementetaussipour	ou divisement et aussi pour
+cequel'	ce que l '
+'endisoitluiestretenuamonditseigneur	' en disoit lui estre tenu a mon dit seigneur
+en.plusieurspeinnesmultes	en . plusieurs peinnes multes
+etamendespourcausedesauvesgardesenfraintesetautrement	et amendes pour cause de sauves gardes enfraintes et autrement
+autrementetque	autrement et que
+pourtantilse	pour tant il se
+doubtoitetn'osoitvenirnecomparoirpardevant	doubtoit et n ' osoit venir ne comparoir par devant
+monditseigneurnousneautresofficiersdemon	mondit seigneur nous ne autres officiers de mon
+monditseigneurpour	mon dit seigneur pour
+doubtequ'ilavoitd'estreprins	doubte qu ' il avoit d ' estre prins
+prinsetdommagiezdesoncorpsparforce	prins et dommagiez de son corps par force
+deprisonal'	de prison a l '
+instigationdesesmalvellanzet	instigation de ses malvellanz et
+ennemis,il	ennemis , il
+poureschiverauschosesdessusdictes	pour eschiver aus choses dessus dictes
+dictesetautres	dictes et autres
+traitemensetprelevionsoulesennemisdemon	traitemens et prelevions ou les ennemis de mon
+ditseigneurcontre	dit seigneur contre
+ycelluiseigneuretlepaiset	ycellui seigneur et le pais et
+leurfistaucunesconvenancesseeleesde	leur fist aucunes convenances seelees de
+desonseelou	de son seel ou
+autrementparsermentouparparolessenzlicencede	autrement par serment ou par paroles senz licence de
+monditseigneuret	mon dit seigneur et
+etdesesgenzaianspovoir..	et de ses genz aians povoir . .
+ace,nonmietoutevoiespour	a ce , non mie toutevoies pour
+maldommagequ'il	mal dommage qu ' il
+vousistamonditseigneurneason	vousist a mon dit seigneur ne a son
+sonroyaumemaispourobvieralapuissancedesesennemis	son royaume mais pour obvier a la puissance de ses ennemis
+etauschosesdessus..	et aus choses dessus . .
+dictesetquelesdiz	dictes et que les diz
+traitemens.et	traitemens . et
+parlemensqu'ilotoules.dizennemisne	parlemens qu ' il ot ou les . diz ennemis ne
+vindrentmie	vindrent mie
+aeffetnenuldommageDieumercynes	a effet ne nul dommage Dieu mercy ne s
+'enestensuiz,ettousjoursseus	' en est ensuiz , et tous jours seus
+seusleschosesmettre..	seus les choses mettre . .
+.autrementenfait	. autrement en fait
+ilaattenduseilporroitavoir..	il a attendu se il porroit avoir . .
+.graceetmisericordedemonditseigneur..et	. grace et misericorde de mon dit seigneur . . et
+nousenaplusieursfoishumblementsuppliéetsuppliede	nous en a plusieurs fois humblement supplié et supplie de
+denouvelhumblementquenousquisavonsqueplusieurs	de nouvel humblement que nous qui savons que plusieurs
+plusieursgransennemisilaheu	plusieurs grans ennemis il a heu
+heudontilforment	heu dont il forment
+doubtoit.pourconsideraciondes	doubtoit . pour consideracion des
+chosesdessusdictesetenrecompensaciondeplusieurset	choses dessus dictes et en recompensacion de plusieurs et
+granspertesetdomagesque..nous	grans pertes et domages que . . nous
+savonsqu'..il	savons qu ' . . il
+asoustenuscaen.arreres	a soustenus ca en . arreres
+arrerespourcausedecespresentesguerretant	arreres pour cause de ces presentes guerre tant
+tantpourlesliexdeNautron,deMontchevreulsdeMazonnes	tant pour les liex de Nautron , de Montchevreuls de Mazonnes
+Mazonnesetpour..lelieu	Mazonnes et pour . . le lieu
+deSaintAment	de Saint Ament
+quepourplusieursautresliexd'environ	que pour plusieurs autres liex d ' environ
+environoutempsqu'ilestoientesmains	environ ou temps qu ' il estoient es mains
+desennemisdemonditseigneurentrelesquiex	des ennemis de mon dit seigneur entre les quiex
+liexsonditlieudeMontbrun	liex son dit lieu de Montbrun
+estoitetestastbienpresEtaussipourcause	estoit et estast bien pres Et aussi pour cause
+desliexdeXidviletdeComborles	des liex de Xidvil et de Combor les
+quiexsontapresentesmainsdesdiz	quiex sont a present es mains des diz
+dizennemisetaussipourcequ'ilocmout	diz ennemis et aussi pour ce qu ' il oc mout
+moutgranttravailet..fitbone	mout grant travail et . . fit bone
+diligenceetlamist	diligence et la mist
+aeffortet	a effort et
+soustintmoultdedespens	soustint moult de despens
+despens,fraisetmisespourrecouvrer	despens , frais et mises pour recouvrer
+recouvrerlelieudehausdesmainsdesdiz	recouvrer le lieu de haus des mains des diz
+ennemis..Nous	ennemis . . Nous
+Nousaluietsescomplices	Nous a lui et ses complices
+complicesetconsentansetatoutessesplegesetcautions	complices et consentans et a toutes ses pleges et cautions
+seaucunes..	se aucunes . .
+enyaetatousautresa	en y a et a tous autres a
+quiceschoses	qui ces choses
+touchentoupeventtoucherconjointementoudivisementet	touchent ou pevent toucher conjointement ou divisement et
+achascund'iceuxseaucunsenya	a chascun d ' iceux se aucuns en y a
+etsieten	et si et en
+tantcommechascuntoucheoupeuttoucheret	tant comme chascun touche ou peut toucher et
+etappartientenaucunemanierea..	et appartient en aucune maniere a . .
+.presentoupourle	. present ou pour le
+tempsavenirporroitappartenirvousissonsremectrequitieretpardonner	temps a venir porroit appartenir vousissons remectre quitier et pardonner
+lescasetchosesdessusdictes	les cas et choses dessus dictes
+.Ettoutesêinnesmulteset	. Et toutes êinnes multes et
+amendesqueeulzetchascund	amendes que eulz et chascun d
+'eulzsicommeillipeut..toucherpour	' eulz si comme il li peut . . toucher pour
+avoirencourues.envers	avoir encourues . envers
+monditseigneurpourleschosesdessusdicteset	mon dit seigneur pour les choses dessus dictes et
+chascuned	chascune d
+d'icelles,savoirfaisons	d ' icelles , savoir faisons
+faisonsquenouseueconsiderationadcequedessusest	faisons que nous eue consideration ad ce que dessus est
+ditetaplusieursautrescausesqui.ace	dit et a plusieurs autres causes qui . a ce
+nousontesmeuinfourmeraussi	nous ont esmeu infourmer aussi
+aplaindes..	a plain des . .
+granspertes,dommages,	grans pertes , dommages ,
+despens,fraiz,miseset	despens , fraiz , mises et
+travaulzdessus..dizeueaussi	travaulz dessus . . diz eue aussi
+aussiconsideraciona	aussi consideracion a
+cequeleditchevaliera	ce que le dit chevalier a
+bonnevolentéd'estrebons	bonne volenté d ' estre bons
+bonsetloyalatousjours	bons et loyal a tous jours
+maisamonditseigneuret	mais a mon dit seigneur et
+asonsroyaume	a sons royaume
+etserepentdeschosesdessusdictes	et se repent des choses dessus dictes
+etsavons	et savons
+savonsquepourcaused'icelles	savons que pour cause d ' icelles
+nuldommagenes'enestensuizamon	nul dommage ne s ' en est ensuiz a mon
+ditseigneurneasonroyaume,.avons	dit seigneur ne a son royaume , . avons
+avonsremis,quittiéetpardonné,remetons,quittons	avons remis , quittié et pardonné , remetons , quittons
+quittonset.pardonnonsparcespresentes	quittons et . pardonnons par ces presentes
+degraceespecialetdecertainescience	de grace especial et de certaine science
+del'auctoritéroyaletpooirdemon	de l ' auctorité royal et pooir de mon
+ditseigneuranous	dit seigneur a nous
+noussurcebaillé	nous sur ce baillé
+dontlateneurestcydessousescriptes,.auditmessire	dont la teneur est cy dessous escriptes , . audit messire
+GuyBrunetasesdiz	Guy Brun et a ses diz
+complices,plaigesetcaucionseta	complices , plaiges et caucions et a
+chascund'eulzettousautreaqui..	chascun d ' eulz et tous autre a qui . .
+ceschosestouchentou	ces choses touchent ou
+pevent..toucherconjointementetdivisementa	pevent . . toucher conjointement et divisement a
+chascund'iceulzseaucunsenya	chascun d ' iceulz se aucuns en y a
+etentantcommechascuntoucheou..peut	et en tant comme chascun tou che ou . . peut
+toucheretappartientenaucunemaniereapresentetpour	toucher et appartient en aucune maniere a present et pour
+letempsavenirporroitappartenirpourtantcomme	le temps a venir porroit appartenir pour tant comme
+comme..chascuntoucheoupeutthouchierlescasdessus	comme . . chascun touche ou peut thouchier les cas dessus
+disetchascund'eulzettoutce..qui	dis et chascun d ' eulz et tout ce . . qui
+s'enest	s ' en est
+ensuiztantenespecialcommeengeneralettoutes	ensuiz tant en especial comme en general et toutes
+etchascunles..peinnes	et chascun les . . peinnes
+,multeset	, multes et
+amendescriminellesetcivilesqueiletses	amendes criminelles et civiles que il et ses
+dizcomplicespleigesetcaucionsse	diz complices pleiges et caucions se
+aucunesenya	aucunes en y a
+aetautres	a et autres
 autrescommedessusestditetchascun	autres comme dessus est dit et chascun
 d'eulzpourtantcomme	d ' eulz pour tant comme
-chascuntouche	chascun touche
-etpeuttoucheroupeventavoir	et peut toucher ou pevent avoir
-avoirencouruenvers	avoir encouru envers
-enversmonditseigneurpourles..casetcausesdessus	envers mon dit seigneur pour les . . cas et causes dessus
-dictesoupourautres	dictes ou pour autres
-et..dependansd'	et . . dependans d '
-iceuxetchascund'iceulz	iceux et chascun d ' iceulz
-iceulz,sideffendons..	iceulz , si deffendons . .
-parlateneurdeces..lettresatous	par la teneur de ces . . lettres a tous
-commissionsdonnezetadonnerparmonditseigneuret	commissions donnez et a donner par mon dit seigneur et
-nouetausseneschauxdePoitouetdeLimosin..	nou et aus seneschaux de Poitou et de Limosin . .
-,dePierregortetdeQuercinetatousautres	, de Pierregort et de Quercin et a tous autres
-autresjustichiers,procureurs,officiersetsubgetsdemon	autres justichiers , procureurs , officiers et subgets de mon
-ditseigneuretdenousetleursliextenants	dit seigneur et de nous et leurs liex tenants
-dequelconquessenechaussiesoubailliagesqu'il	de quelconques senechaussies ou bailliages qu ' il
-soientetachascund'eux	soient et a chascun d ' eux
-quepourcauseouoccasiondesfaiz,cas,	que pour cause ou occasion des faiz , cas ,
-chaoses,peinnes,	chaoses , peinnes ,
-multesetamendes	multes et amendes
-amendesdessudictes	amendes dessu dictes
-dictesouaucunesd'icellesneveront	dictes ou aucunes d ' icelles ne veront
-traveillient,	traveillient ,
-enpeschent,molestentnepoursuienten	enpeschent , molestent ne pour suient en
-aucunemanierecontrelateneur	aucune maniere contre la teneur
-decespresentes,ledit.chevaliernesesdis	de ces presentes , le dit . chevalier ne ses dis
-complices,plaigesetcaucionsseaucunesen	complices , plaiges et caucions se aucunes en
-yaneautresaquiceschoses	y a ne autres a qui ces choses
-peventtouchiercommedistest,aincoisles	pevent touchier comme dist est , aincois les
-lessentjoir	lessent joir
-joiretuserpaisiblementdenostredictepresentegraceet	joir et user paisiblement de nostre dicte presente grace et
-detoutesetchascunesles	de toutes et chascunes les
-chosescontenuesanicelles,lesquelleschosesnous	choses contenues an icelles , les quelles choses nous
-avonsoctroiéetoctroionset.voulonscomme	avons octroié et octroions et . voulons comme
-commeditestnonobstantquelconques	comme dit est non obstant quelconques
-quelconquesinformationsfaitescontreleditchevalier	quelconques informations faites contre le dit chevalier
-etsescomplices	et ses complices
-,cautionsetautres.	, cautions et autres .
-aquiceschosestouchent..oupeventtouchiercommedit	a qui ces choses touchent . . ou pevent touchier comme dit
-est,les.quellesnousmettonsauneant	est , les . quelles nous mettons au neant
-neantparla.teneurdecespresentes,supposé	neant par la . teneur de ces presentes , supposé
-queellessoitentvenues	que elles soit ent venues
-alanoticeduroy	a la notice du roy
-monditseigneuretdes	mon dit seigneur et des
-seigneursdeparlement,et	seigneurs de parlement , et
-etsupplionsauroymonditseigneurque	et supplions au roy mon dit seigneur que
-notredictegraceveillieapprouver,louer	notre dicte grace veillie approuver , louer
-,ratifieretconfermer.	, ratifier et confermer .
-enlasde	en las de
-desoyeeten.	de soye et en .
-.cirevert.Entesmoingdecenousavons	. cire vert . En tesmoing de ce nous avons
-faitmettrenostreseelaceslettresenlas	fait mettre nostre seel a ces lettres en las
-desoyesencirevert.	de soyes en cire vert .
-DonnéetfaitaCompignaclexxviijourdejanvier	Donné et fait a Compignac le xxvii jour de janvier
-l'andegracemil	l ' an de grace mil
-ccclii.S'ensuitlateneur	ccc lii . S ' ensuit la teneur
-denostreditpooir:Jehans	de nostre dit pooir : Jehans
-Jehans,parlagracedeDieu,roysdeFrance	Jehans , par la grace de Dieu , roys de France
-.Atousceulz	. A tous ceulz
-quiceslettresverront,salut	qui ces lettres verront , salut
-.Savoirfaisonsque,pour	. Savoir faisons que , pour
-pourlaconfiancequenousavonsde	pour la confiance que nous avons de
-laloïauté,.	la loïauté , .
-diligenceet.souffisancede	diligence et . souffisance de
-nostreaméetféalchevalier..,Arnoul	nostre amé et féal chevalier . . , Arnoul
-Arnoul,sired'Audenehan,mareschaldeFrance	Arnoul , sire d ' Audenehan , mareschal de France
-France,qui.tousjours	France , qui . tousjours
-tousjourss'estbienetloiaumentportésetmaintenus	tousjours s ' est bien et loiaument portés et maintenus
-enversnous,..	envers nous , . .
-enfaisant.et	en faisant . et
-etgardantl'	et gardant l '
-'onneuretproffitdenousetdenossubgiez	' onneur et proffit de nous et de nos subgiez
-,nousle	, nous le
-ditArnoulavonsfait,ordené,commiset	dit Arnoul avons fait , ordené , commis et
-etestabli,faisons,ordennons,commettonsetestablissons,	et establi , faisons , ordennons , commettons et establissons ,
-,parla..teneur	, par la . . teneur
-teneurdeceslettres	teneur de ces lettres
-,nostre	, nostre
-lieutenantentous	lieutenant en tous
-etpartouslespaïsdePoitou,Xantonge,	et par tous les païs de Poitou , Xantonge ,
-Limosin,EngolmoisetPierregort,et	Limosin , Engolmois et Pierregort , et
-generaumententouslesliexentrelesrivieres	generaument en tous les liex entre les rivieres
-deLoireetdelaDourdoigne	de Loire et de la Dourdoigne
-Dourdoigne,nonobstantquenostretrèscher	Dourdoigne , non obstant que nostre très cher
-etfealcousin,	et feal cousin ,
-leconted'Engolesme	le conte d ' Engolesme
-Engolesme,connestablede	Engolesme , connestable de
-France,soitèsditpaïsnostre	France , soit ès dit païs nostre
-lieutenantsemblablement.Etliavonsdonnéetottroié,	lieutenant semblablement . Et li avons donné et ottroié ,
-donnonsetottroionsplainpooir,auctoritétoritéetmandement	donnons et ottroions plain pooir , auctorité toritéet mandement
-mandementespecialdegarderetgouvernerpar	mandement especial de garder et gouverner par
-pardessustousautrescapitainnes,seneschaux	par dessus tous autres capitainnes , seneschaux
-etautresofficiersetcommissaires,	et autres officiers et commissaires ,
-touslesdizpaïs,deprendre,mettre	tous les diz païs , de prendre , mettre
-etretenir..	et retenir . .
-.ànosgaigestelnombredegensd'armes	. à nos gaiges tel nombre de gens d ' armes
-armes,dechevalet..depié,	armes , de cheval et . . de pié ,
-commeilverraqu'ilsera	comme il verra qu ' il sera
-necessairepourlagarde	necessaire pour la garde
-etdeffensedesdizpaïset	et deffense des diz païs et
-pourcontresterànosennemis,deassembler,	pour contrester à nos ennemis , de assembler ,
-envoier,mettreetestablir,pournous	envoier , mettre et establir , pour nous
-etdeparnous,gensd'	et de par nous , gens d '
-armesnoblesetnonnobles,dechevaletde	armes nobles et non nobles , de cheval et de
-pié,enchastiaux,enforteressesetpartout	pié , en chastiaux , en forteresses et partout
-oùilliplaira	où il li plaira
-,seloncquebonlisamblera	, selonc que bon li samblera
-,etdefaireabatrelesdiz	, et de faire abatre les diz
-chasteauxet	chasteaux et
-forteressesdes	forteresses des
-dispaïsetrazer.	dis païs et razer .
-etmettreà..terre,	et mettre à . . terre ,
-seillisemblequebesoingsoit,et	se il li semble que besoing soit , et
-defaireauprofit	de faire au profit
-denostreroyaume.,	de nostre royaume . ,
-,sicommebonlisemblera,etdecroistre,	, si comme bon li semblera , et de croistre ,
-appeticier,osteretchangiertoutesles	appeticier , oster et changier toutes les
-lesestablies,garnisonsetchargesde	les establies , garnisons et charges de
-gensd'armes,de	gens d ' armes , de
-dechevaletdepié,..faites	de cheval et de pié , . . faites
-etàfaire,ès	et à faire , ès
-èsdispaïs,selonc	ès dis païs , selonc
-cequ'il	ce qu ' il
-verrabonàfaire	verra bon à faire
-;decognoistreet	; de cognoistre et
-ordenerseurtousofficiers,deleschangier	ordener seur tous officiers , de les changier
-,mueretoster	, muer et oster
-oster,dedonneroffice,depardonner,quitter	oster , de donner office , de pardonner , quitter
-etremettre.	et remettre .
-tousdelizettouzmeffaiscriminelzetcivilzetde	tous deliz et touz meffais criminelz et civilz et de
-toutespeinnes,multes.etamendescriminelzetcivilz	toutes peinnes , multes . et amendes criminelz et civilz
-,derappellertous	, de rappeller tous
-bannizpourquelconquescascivilzoucriminelz,et..de	banniz pour quelconques cas civilz ou criminelz , et . . de
-derestabliràleursbiens,aupaïset	de restablir à leurs biens , au païs et
-àleurrenommée	à leur renommée
-renommée,etdefaireentouscastele	renommée , et de faire en tous cas tele
-gracecommeilliplaira,	grace comme il li plaira ,
-,.etdedonner	, . et de donner
-donnerlettressurleschosesdessusdites	donner lettres sur les choses dessus dites
-etchascuned'icelles,etlettresd'	et chascune d ' icelles , et lettres d '
-estatetde	estat et de
-dilacionet	dilacion et
-etrespitàtous	et respit à tous
-noblesetnon	nobles et non
-nobles,selonce	nobles , selon ce
-cequebonlisemblera,..	ce que bon li semblera , . .
-etgeneraumentetespeciaument	et generaument et especiaument
-especiaumentdefairetoutautantèschosesdessusditeseten	especiaument de faire tout autant ès choses dessus dites et en
-chascuned'icelleset	chascune d ' icelles et
-toutesautres	toutes autres
-choses,tantengeneralqueenespecial,comme	choses , tant en general que en especial , comme
-commenousporrionsfaire,senousyestionspersonelement	comme nous porrions faire , se nous y estions personelement
-,..saufdedonnernostre	, . . sauf de donner nostre
-nostredemainne.Lesqueleschosesetchascuned'icellesnous	nostre demainne . Lesqueles choses et chascune d ' icelles nous
-promettonsàconfermerenlasde	promettons à confermer en las de
-soyeetcirevert	soye et cire vert
-,ouautrement,seloncequ'il.appartendra	, ou autrement , selon ce qu ' il . appartendra
-,toutefoisquenousenseronsrequis.Sidonnons	, toutefois que nous en serons requis . Si donnons
-enmandement,par	en mandement , par
-lateneurdeceslettres,àtousautreschapitainnes	la teneur de ces lettres , à tous autres chapitainnes
-,commissaires,justiciers	, commissaires , justiciers
-,officiersetsubgiez,	, officiers et subgiez ,
-quelzqueilsoient,queaudit	quelz que il soient , que audit
-Arnoulobeissentetentendantdiligemment,etleslettres	Arnoul obeissent et entendant diligemment , et les lettres
-lettresqu'..il	lettres qu ' . . il
-donrrasurleschosedessus	donrra sur les chose dessus
-dessusdictesetchascuned'icelles,	dessus dictes et chascune d ' icelles ,
-,ettoutcequi	, et tout ce qui
-ysera.contenu	y sera . contenu
-,..tiegnentetgardent	, . . tiegnent et gardent
-,etacomplissent	, et acomplissent
-etfachenttenir,garderetacomplir.entierement.En	et fachent tenir , garder et acomplir . entierement . En
-tesmoingdece,nousavonsfait	tesmoing de ce , nous avons fait
-mettrenostreseelàceslettres.	mettre nostre seel à ces lettres .
-Donné..àParis,levie	Donné . . à Paris , le vie
-viejourdemars	vie jour de mars
-l'andegrace	l ' an de grace
-milccc.cinquanteetun.	mil ccc . cinquante et un .
-.Parleconseil,ouquelvousestiés.Malicorne.	. Par le conseil , ouquel vous estiés . Malicorne .
+chascuntoucheetpeuttoucheroupeventavoirencouruenvers	chascun touche et peut toucher ou pevent avoir encouru envers
+monditseigneurpour	mon dit seigneur pour
+pourlescasetcausesdessusdictesoupourautreset	pour les cas et causes dessus dictes ou pour autres et
+etdependansd'iceuxetchascund	et dependans d ' iceux et chascun d
+d'iceulz,sideffendonspar	d ' iceulz , si deffendons par
+lateneur..deceslettresatouscommissions	la teneur . . de ces lettres a tous commissions
+commissionsdonnezetadonnerparmondit	commissions donnez et a donner par mon dit
+seigneuret	seigneur et
+etnouetausseneschauxdePoitouetde	et nou et aus seneschaux de Poitou et de
+deLimosin,dePierregort.etdeQuercinetatous	de Limosin , de Pierregort . et de Quercin et a tous
+autresjustichiers,procureurs,officierset	autres justichiers , procureurs , officiers et
+subgetsdemonditseigneuretdenouset	subgets de mon dit seigneur et de nous et
+leursliextenantsdequelconquessenechaussies	leurs liex tenants de quelconques senechaussies
+senechaussiesoubailliagesqu	senechaussies ou bailliages qu
+'ilsoientet..achascund'eux	' il soient et . . a chascun d ' eux
+eux..quepourcauseouoccasiondes	eux . . que pour cause ou occasion des
+desfaiz,cas..,	des faiz , cas . . ,
+,chaoses,peinnes,multesetamendesdessu	, chaoses , peinnes , multes et amendes dessu
+dictesouaucunesd'icellesneveronttraveillient,	dictes ou aucunes d ' icelles ne veront traveillient ,
+enpeschent,..molestentnepoursuienten	enpeschent , . . molestent ne pour suient en
+aucunemaniere.contrelateneur	aucune maniere . contre la teneur
+decespresentes,leditchevalierneses	de ces presentes , le dit chevalier ne ses
+sesdis..complices	ses dis . . complices
+,plaigesetcaucionsseaucunes	, plaiges et caucions se aucunes
+enyaneautres	en y a ne autres
+aquiceschoses	a qui ces choses
+peventtouchiercommedistest,.aincoisleslessent	pevent touchier comme dist est , . aincois les lessent
+lessentjoiretuserpaisiblementdenostredictepresentegraceet	lessent joir et user paisiblement de nostre dicte presente grace et
+detoutes..et	de toutes . . et
+chascunesleschosescontenuesanicelles,lesquelles	chascunes les choses contenues an icelles , les quelles
+quelleschosesnousavonsoctroiéetoctroionsetvoulons	quelles choses nous avons octroié et octroions et voulons
+voulonscommeditestnonobstantquelconquesinformationsfaites	voulons comme dit est non obstant quelconques informations faites
+contreleditchevalieretsescomplices,cautionset	contre le dit chevalier et ses complices , cautions et
+autresa	autres a
+quiceschosestouchentou	qui ces choses touchent ou
+peventtouchiercommeditest,	pevent touchier comme dit est ,
+lesquellesnous	les quelles nous
+mettonsauneant.par	mettons au neant . par
+lateneurdecespresentes,	la teneur de ces presentes ,
+supposéqueellessoitentvenuesalanoticedu	supposé que elles soit ent venues a la notice du
+duroymonditseigneur	du roy mon dit seigneur
+seigneuretdesseigneursdeparlement,etsupplionsau	seigneur et des seigneurs de parlement , et supplions au
+roymondit	roy mon dit
+ditseigneurque	dit seigneur que
+notredictegraceveillieapprouver,louer,ratifieret	notre dicte grace veillie approuver , louer , ratifier et
+confermerenlas	confermer en las
+lasdesoyeeten	las de soye et en
+encirevert.Entesmoing	en cire vert . En tesmoing
+decenousavonsfaitmettre	de ce nous avons fait mettre
+nostreseelaceslettresenlas	nostre seel a ces lettres en las
+desoyesencire.vert.	de soyes en cire . vert .
+.Donnéet	. Donné et
+etfaitaCompignaclexxviijourdejanvierl'	et fait a Compignac le xxvii jour de janvier l '
+andegrace	an de grace
+milccclii	mil ccc lii
+.S'ensuitla	. S ' ensuit la
+teneurdenostreditpooir	teneur de nostre dit pooir
+:Jehans,parlagracedeDieu,	: Jehans , par la grace de Dieu ,
+,roysdeFrance.Atousceulz	, roys de France . A tous ceulz
+quiceslettresverront,salut.Savoirfaisonsque	qui ces lettres verront , salut . Savoir faisons que
+,pourlaconfiancequenousavonsdelaloïauté	, pour la confiance que nous avons de la loïauté
+loïauté,diligenceetsouffisancedenostreamé	loïauté , diligence et souffisance de nostre amé
+améetféal	amé et féal
+chevalier,Arnoul,sired'Audenehan,mareschal	chevalier , Arnoul , sire d ' Audenehan , mareschal
+deFrance,quitousjours	de France , qui tousjours
+s'estbienetloiaumentportéset	s ' est bien et loiaument portés et
+maintenusenversnous,	maintenus envers nous ,
+enfaisantetgardantl	en faisant et gardant l
+'onneuretproffit.denousetdenossubgiez	' onneur et proffit . de nous et de nos subgiez
+,nousledit	, nous le dit
+Arnoulavonsfait,ordené,commiset	Arnoul avons fait , ordené , commis et
+establi,faisons,	establi , faisons ,
+ordennons,commettonsetestablissons,	ordennons , commettons et establissons ,
+parlateneurdeceslettres	par la teneur de ces lettres
+,nostrelieutenanten	, nostre lieutenant en
+tousetpartouslespaïsdePoitou.,Xantonge	tous et par tous les païs de Poitou . , Xantonge
+,Limosin,EngolmoisetPierregort	, Limosin , Engolmois et Pierregort
+,etgeneraumententouslesliexentreles	, et generaument en tous les liex entre les
+rivieresdeLoireetdelaDourdoigne,	rivieres de Loire et de la Dourdoigne ,
+nonobstantquenostretrèscheretfealcousin,	non obstant que nostre très cher et feal cousin ,
+leconte.d'	le conte . d '
+Engolesme,connestabledeFrance,soitès	Engolesme , connestable de France , soit ès
+ditpaïsnostre..lieutenantsemblablement.Etliavonsdonné	dit païs nostre . . lieutenant semblablement . Et li avons donné
+etottroié,	et ottroié ,
+donnonsetottroionsplain	donnons et ottroions plain
+pooir,auctoritétoritéet	pooir , auctorité toritéet
+mandementespecialdegarderet	mandement especial de garder et
+gouvernerpar..dessustous	gouverner par . . dessus tous
+autrescapitainnes,	autres capitainnes ,
+seneschauxet	seneschaux et
+autresofficiersetcommissaires,tousles	autres officiers et commissaires , tous les
+dizpaïs,deprendre,mettreetretenirà	diz païs , de prendre , mettre et retenir à
+nosgaigestel.nombredegensd'armes	nos gaiges tel . nombre de gens d ' armes
+,dechevaletdepié	, de cheval et de pié
+,commeilverraqu'ilseranecessairepour	, comme il verra qu ' il sera necessaire pour
+pourlagardeetdeffensedesdiz	pour la garde et deffense des diz
+païsetpourcontresterànosennemis,	païs et pour contrester à nos ennemis ,
+deassembler,envoier,mettreetestablir	de assembler , envoier , mettre et establir
+,.pournousetdeparnous,	, . pour nous et de par nous ,
+gensd'armesnoblesetnonnobles,	gens d ' armes nobles et non nobles ,
+dechevaletdepié,enchastiaux,	de cheval et de pié , en chastiaux ,
+en..forteresses	en . . forteresses
+forteressesetpartoutoùilliplaira,	forteresses et partout où il li plaira ,
+seloncquebonli	selonc que bon li
+samblera,et	samblera , et
+de.faireabatrelesdizchasteauxetforteressesdes	de . faire abatre les diz chasteaux et forteresses des
+dispaïs.etrazeretmettreàterre	dis païs . et razer et mettre à terre
+,seilli..semble	, se il li . . semble
+quebesoingsoit,etdefaireauprofitde	que besoing soit , et de faire au profit de
+nostreroyaume,sicommebon	nostre royaume , si comme bon
+bonlisemblera,	bon li semblera ,
+,etdecroistre,appeticier,	, et de croistre , appeticier ,
+osteretchangiertouteslesestablies,garnisons	oster et changier toutes les establies , garnisons
+etcharges	et charges
+chargesdegensd'armes,dechevalet	charges de gens d ' armes , de cheval et
+etdepié,faiteset	et de pié , faites et
+àfaire,ès	à faire , ès
+èsdispaïs,	ès dis païs ,
+selonccequ'ilverrabon.àfaire	selonc ce qu ' il verra bon . à faire
+faire;decognoistreetordenerseur	faire ; de cognoistre et ordener seur
+seurtousofficiers,	seur tous officiers ,
+,deleschangier,muer	, de les changier , muer
+etoster,dedonneroffice,depardonner	et oster , de donner office , de pardonner
+pardonner,quitteretremettretous	pardonner , quitter et remettre tous
+delizettouzmeffaiscriminelzetcivilzetde	deliz et touz meffais criminelz et civilz et de
+toutespeinnes,multesetamendes	toutes peinnes , multes et amendes
+criminelzetcivilz,derappeller	criminelz et civilz , de rappeller
+rappellertousbannizpourquelconquescas	rappeller tous banniz pour quelconques cas
+cascivilzoucriminelz	cas civilz ou criminelz
+,etderestablir	, et de restablir
+àleursbiens,aupaïsetàleur	à leurs biens , au païs et à leur
+leurrenommée,etdefaireentouscastele	leur renommée , et de faire en tous cas tele
+gracecommeilliplaira,etde	grace comme il li plaira , et de
+donner.lettressurleschosesdessusditeset	donner . lettres sur les choses dessus dites et
+chascuned'icelles,etlettresd'	chascune d ' icelles , et lettres d '
+estatetdedilacionetrespitàtous	estat et de dilacion et respit à tous
+noblesetnonnobles,selonce	nobles et non nobles , selon ce
+que..bonli	que . . bon li
+semblera,etgeneraumentet	semblera , et generaument et
+et..especiaumentdefairetoutautantès	et . . especiaument de faire tout autant ès
+èschosesdessusditesetenchascuned'icelles	ès choses dessus dites et en chascune d ' icelles
+ettoutesautres	et toutes autres
+choses,tantengeneralqueen	choses , tant en general que en
+especial,comme	especial , comme
+commenousporrionsfaire,senousyestionspersonelement,	comme nous porrions faire , se nous y estions personelement ,
+saufdedonnernostredemainne..Lesqueleschoseset	sauf de donner nostre demainne . . Lesqueles choses et
+chascuned'..icellesnous	chascune d ' . . icelles nous
+promettonsàconfermerenlasdesoyeet	promettons à confermer en las de soye et
+cirevert,ouautrement,selon	cire vert , ou autrement , selon
+cequ'ilappartendra,toutefoisquenous	ce qu ' il appartendra , toutefois que nous
+enseronsrequis.Si	en serons requis . Si
+donnonsen	donnons en
+mandement,parlateneurdeceslettres,	mandement , par la teneur de ces lettres ,
+àtousautreschapitainnes,commissaires,	à tous autres chapitainnes , commissaires ,
+justiciers,officiersetsubgiez,quelzqueilsoient	justiciers , officiers et subgiez , quelz que il soient
+,queauditArnoulobeissentetentendantdiligemment,	, que audit Arnoul obeissent et entendant diligemment ,
+,etleslettresqu'	, et les lettres qu '
+ildonrra.	il donrra .
+surleschosedessus	sur les chose dessus
+dictesetchascuned'icelles,ettout	dictes et chascune d ' icelles , et tout
+cequiysera	ce qui y sera
+contenu,tiegnentetgardent,etacomplissentetfachent	contenu , tiegnent et gardent , et acomplissent et fachent
+tenir,garder	tenir , garder
+garderetacomplirentierement.Entesmoingdece	garder et acomplir entierement . En tesmoing de ce
+ce,nous.avons	ce , nous . avons
+faitmettrenostreseelà.ceslettres	fait mettre nostre seel à . ces lettres
+lettres.DonnéàParis,le	lettres . Donné à Paris , le
+leviejourdemarsl'andegracemil	le vie jour de mars l ' an de grace mil
+ccc...cinquanteetun.	ccc . . . cinquante et un .
+.Par.leconseil	. Par . le conseil
+conseil,ouquelvousestiés.Malicorne.	conseil , ouquel vous estiés . Malicorne .
