@@ -110,7 +110,7 @@ setup(
     },
     install_requires=REQUIRED,
     extras_require=EXTRAS,
-    include_package_data=True,
+    include_package_data=False,
     license='MIT',
     classifiers=[
         # Trove classifiers
@@ -119,8 +119,6 @@ setup(
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: Implementation :: CPython',
-        'Programming Language :: Python :: Implementation :: PyPy',
         'Topic :: Text Processing :: Linguistic'
     ],
     # $ setup.py publish support.

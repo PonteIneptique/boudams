@@ -8,7 +8,7 @@ import logging
 import re
 from typing import List, Tuple
 
-from boudams.model import gru, lstm, bidir, conv, linear
+from boudams.model import lstm, bidir, conv, linear
 from boudams import utils
 
 from .encoder import LabelEncoder, DatasetIterator
@@ -25,11 +25,11 @@ class Seq2SeqTokenizer:
             self,
             vocabulary: LabelEncoder,
             hidden_size: int = 256,
-            enc_n_layers: int = 10, dec_n_layers: int = 10,
-            emb_enc_dim: int = 256, emb_dec_dim: int = 256,
-            enc_hid_dim: int = None, dec_hid_dim: int = None,
-            enc_dropout: float = 0.5, dec_dropout: float = 0.5,
-            enc_kernel_size: int = 3, dec_kernel_size: int = 3,
+            enc_n_layers: int = 10,
+            emb_enc_dim: int = 256,
+            enc_hid_dim: int = None,
+            enc_dropout: float = 0.5,
+            enc_kernel_size: int = 3,
             out_max_sentence_length: int = 150,
             device: str = DEVICE, system: str = "bi-gru",
             **kwargs # RetroCompat
@@ -52,18 +52,13 @@ class Seq2SeqTokenizer:
         self.device: str = device
         self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
 
-        if enc_hid_dim and dec_hid_dim:
+        if enc_hid_dim:
             self.enc_hid_dim: int = enc_hid_dim
-            self.dec_hid_dim: int = dec_hid_dim
 
         self.emb_enc_dim: int = emb_enc_dim
-        self.emb_dec_dim: int = emb_dec_dim
         self.enc_dropout: float = enc_dropout
-        self.dec_dropout: float = dec_dropout
         self.enc_kernel_size: int = enc_kernel_size
-        self.dec_kernel_size: int = dec_kernel_size
         self.enc_n_layers: int = enc_n_layers
-        self.dec_n_layers: int = dec_n_layers
 
         self.out_max_sentence_length: int = out_max_sentence_length
         self.system: str = system
@@ -83,90 +78,31 @@ class Seq2SeqTokenizer:
             "out_max_sentence_length": self.out_max_sentence_length
         }
 
-        if self.system.startswith("linear"):
-            if self.system.endswith("-lstm"):
-                self.enc: linear.LSTMEncoder = linear.LinearLSTMEncoder(
-                        self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                        n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                        dropout=self.enc_dropout
-                    )
-                in_features = self.enc_hid_dim
-            else:
-                self.enc: linear.CNNEncoder = linear.LinearEncoderCNN(
-                        self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                        n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                        dropout=self.enc_dropout,
-                        device=self.device,
-                        kernel_size=self.enc_kernel_size,
-                        max_sentence_len=self.out_max_sentence_length
-                    )
-                in_features = self.emb_enc_dim
-            self.dec: linear.LinearDecoder = linear.LinearDecoder(
-                enc_dim=in_features, out_dim=len(self.vocabulary.mtoi)
-            )
-            self.model: linear.LinearSeq2Seq = linear.LinearSeq2Seq(
-                self.enc, self.dec, **seq2seq_shared_params
-            ).to(device)
-            self.init_weights = None
-
-        elif self.system == "conv":
-            self.enc: gru.Encoder = conv.Encoder(
-                self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                dropout=self.enc_dropout,
-                device=self.device,
-                kernel_size=self.enc_kernel_size,
-                max_sentence_len=self.out_max_sentence_length
-            )
-            self.dec: gru.Decoder = conv.Decoder(
-                output_dim=self.dec_dim, emb_dim=self.emb_dec_dim,
-                hid_dim=self.dec_hid_dim, dropout=self.enc_dropout,
-                device=self.device, pad_idx=self.padtoken, kernel_size=self.enc_kernel_size,
-                n_layers=self.dec_n_layers, max_sentence_len=self.out_max_sentence_length
-            )
-            self.init_weights = None
-            self.model: gru.Seq2Seq = conv.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
-        elif self.system == "gru":
-            self.enc: gru.Encoder = gru.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
-                                                self.enc_dropout)
-            self.dec: gru.Decoder = gru.Decoder(self.dec_dim, self.emb_dec_dim, self.hidden_size,
-                                                self.dec_dropout)
-
-            self.model: gru.Seq2Seq = gru.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
-            self.init_weights = gru.init_weights
-        elif self.system == "bi-gru":
-            self.enc: gru.Encoder = bidir.Encoder(
-                self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim, dropout=self.enc_dropout
-            )
-            self.attention: bidir.Attention = bidir.Attention(
-                enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim
-            )
-            self.dec: gru.Decoder = bidir.Decoder(
-                output_dim=self.dec_dim, emb_dim=self.emb_dec_dim,
-                enc_hid_dim=self.enc_hid_dim, dec_hid_dim=self.dec_hid_dim, dropout=self.enc_dropout,
-                attention=self.attention
-            )
-            self.init_weights = bidir.init_weights
-            self.model: gru.Seq2Seq = bidir.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
+        if self.system.endswith("-lstm"):
+            self.enc: linear.LSTMEncoder = linear.LinearLSTMEncoder(
+                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
+                    dropout=self.enc_dropout
+                )
+            in_features = self.enc_hid_dim
         else:
-            self.enc: lstm.Encoder = lstm.Encoder(self.vocabulary_dimension, self.emb_enc_dim, self.hidden_size,
-                                                  self.enc_n_layers, self.enc_dropout)
-            self.dec: lstm.Decoder = lstm.Decoder(self.dec_dim, self.emb_dec_dim, self.hidden_size,
-                                                  self.dec_n_layers, self.dec_dropout)
-            self.init_weights = lstm.init_weights
-            self.model: lstm.Seq2Seq = lstm.Seq2Seq(self.enc, self.dec, **seq2seq_shared_params).to(device)
+            self.enc: linear.CNNEncoder = linear.LinearEncoderCNN(
+                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
+                    dropout=self.enc_dropout,
+                    device=self.device,
+                    kernel_size=self.enc_kernel_size,
+                    max_sentence_len=self.out_max_sentence_length
+                )
+            in_features = self.emb_enc_dim
 
-    def to(self, device: str):
-        # ToDo: This does not work, fix it
-        self.device = device
-        self.vocabulary.device = device
-
-        if hasattr(self, "attention"):
-            self.attention.to(device)
-        self.enc.to(device)
-        self.dec.to(device)
-        self.model.to(device)
+        self.dec: linear.LinearDecoder = linear.LinearDecoder(
+            enc_dim=in_features, out_dim=len(self.vocabulary.mtoi)
+        )
+        self.model: linear.LinearSeq2Seq = linear.LinearSeq2Seq(
+            self.enc, self.dec, **seq2seq_shared_params
+        ).to(device)
+        self.init_weights = None
 
     @property
     def padtoken(self):
@@ -184,16 +120,11 @@ class Seq2SeqTokenizer:
     def settings(self):
         return {
             "enc_kernel_size": self.enc_kernel_size,
-            "dec_kernel_size": self.dec_kernel_size,
             "enc_n_layers": self.enc_n_layers,
-            "dec_n_layers": self.dec_n_layers,
             "hidden_size": self.hidden_size,
             "enc_hid_dim": self.enc_hid_dim,
-            "dec_hid_dim": self.dec_hid_dim,
             "emb_enc_dim": self.emb_enc_dim,
-            "emb_dec_dim": self.emb_dec_dim,
             "enc_dropout": self.enc_dropout,
-            "dec_dropout": self.dec_dropout,
             "out_max_sentence_length": self.out_max_sentence_length,
             "system": self.system
         }

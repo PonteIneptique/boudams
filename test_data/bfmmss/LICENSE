@@ -1,6 +1,6 @@
 Source : BFMMSS, http://txm.bfm-corpus.org
 
-Simply download and extract the use folder in `./xml`
+Simply download and extract the use folder in `./xml`. Then run `python convert.py`
 
 Le contenu de la BFM respecte la législation française en vigueur, notamment celle concernant la propriété intellectuelle.
 

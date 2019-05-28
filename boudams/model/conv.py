@@ -66,6 +66,7 @@ class Encoder(nn.Module):
 
         # conv_input = [batch size, src sent len, hid dim]
 
+
         # permute for convolutional layer
         conv_input = conv_input.permute(0, 2, 1)
 
@@ -87,7 +88,7 @@ class Encoder(nn.Module):
 
             # conved = [batch size, hid dim, src sent len]
 
-            # set conv_input to conved for next loop iteration
+            # set conv_input to conved for next lo`op iteration
             conv_input = conved
 
         # permute and convert back to emb dim

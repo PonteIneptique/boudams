@@ -81,7 +81,7 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         nll_weight[pad_idx] = 0.
         self.register_buffer('nll_weight', nll_weight)
 
-    def forward(self, src, src_len, trg, **kwargs):
+    def forward(self, src, src_len, trg=None, **kwargs):
         # src = [batch size, src sent len]
         # trg = [batch size, trg sent len]
 

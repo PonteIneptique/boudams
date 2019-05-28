@@ -5,30 +5,27 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output method="text"/>
-    <xsl:strip-space elements="*"/>
+    <xsl:strip-space elements="w choice abbr"/>
     <xsl:template match="/">
         <xsl:result-document method="text">
             <xsl:apply-templates select=".//body"/>
         </xsl:result-document>
     </xsl:template>
     <xsl:template match="body">
-        <xsl:apply-templates select="./p"/>
+        <xsl:apply-templates select=".//p"/>
     </xsl:template>
     <xsl:template match="p">
-        <xsl:apply-templates />
-        <xsl:text>
+        <xsl:variable name="content">
+            <xsl:apply-templates />
+        </xsl:variable>
+        <xsl:value-of select="replace($content, '\s+', ' ')" /><xsl:text>
 </xsl:text>
     </xsl:template>
     <xsl:template match="w">
         <xsl:apply-templates /><xsl:text> </xsl:text>
     </xsl:template>
-    <xsl:template match="expan">
-        <xsl:apply-templates />
-    </xsl:template>
     <xsl:template match="ex" />
-    <xsl:template match="expan">
-        <xsl:apply-templates />
-    </xsl:template>
+    <xsl:template match="expan" />
     <xsl:template match="abbr" >
         <xsl:apply-templates />
     </xsl:template>

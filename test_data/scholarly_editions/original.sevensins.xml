@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">The Effects of the Seven Sins</title>
+        <author>Anonymous</author>
+        <editor>Krista A. Murchison</editor>
+        <respStmt>
+          <resp>Transcription, editing, and encoding</resp>
+          <name xml:id="KAM">Krista A. Murchison</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Scholarly Editing: The Annual of the Association for Documentary
+          Editing</authority>
+        <address>
+          <addrLine>http://www.scholarlyediting.org</addrLine>
+        </address>
+        <publisher>Association for Documentary Editing</publisher>
+        <publisher>University of Nebraska&#8211;Lincoln</publisher>
+        <distributor>
+          <name>Center for Digital Research in the Humanities</name>
+          <address>
+            <addrLine>319 Love Library</addrLine>
+            <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+            <addrLine>Lincoln, NE 68588-4100</addrLine>
+            <addrLine>http://cdrh.unl.edu</addrLine>
+          </address>
+        </distributor>
+        <date>2016</date>
+        <idno type="file">original.sevensins</idno>
+        <idno type="edition">sevensins</idno>
+        <availability>
+          <p>Scholarly Editing: The Annual of the Association for Documentary Editing is
+            freely distributed by the Association for Documentary Editing and the Center for
+            Digital Research in the Humanities at the University of Nebraska-Lincoln and
+            licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+            Unported License</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="j">Scholarly Editing: The Annual of the Association for Documentary
+          Editing</title>
+        <respStmt>
+          <resp>2017 issue editor</resp>
+          <name xml:id="nhg">Nicole Gray</name>
+        </respStmt>
+        <respStmt>
+          <resp>editor</resp>
+          <name xml:id="ag">Amanda Gailey</name>
+        </respStmt>
+        <respStmt>
+          <resp>editor</resp>
+          <name xml:id="awj">Andrew Jewell</name>
+        </respStmt>
+        <idno type="vol">38</idno>
+        <idno type="ISSN">2167-1257</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Oxford</settlement>
+            <repository>Bodleian Library</repository>
+            <idno>Fr.e.22</idno>
+          </msIdentifier>
+        </msDesc>
+        <listWit>
+          <witness xml:id="Bd">Oxford, Bodleian Library, MS Fr.e.22</witness>
+          <witness xml:id="Tr">Trinity College, Cambridge MS B.14.39</witness>
+          <witness xml:id="Em">Cambridge, Emmanuel College MS I.4.4 (83)</witness>
+        </listWit>
+        <bibl>
+          <author>Anonymous</author>
+          <title>The Effects of the Seven Deadly Sins</title>
+          <note type="project">
+            Transcribed from Oxford, Bodleian Library, MS Fr.e.22, with variants from Trinity College, Cambridge MS B.14.39 and Cambridge, Emmanuel College MS I.4.4 (83)
+          </note>             
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc><variantEncoding method="double-end-point"
+      location="internal"/></encodingDesc> 
+  </teiHeader>
+  <text type="pastoralia">
+  <body>
+      <pb n="f.86v" type="verso"></pb>  
+        <list n="Org" rend="align(center)">
+          <head rend="align(left)">Orguil fet <lb/>
+           hume</head>  
+          <item n="1">Auanter sei des biens quil nat <anchor xml:id="Org.1a"/>mie<app from="#Org.1a"><lem wit="#Bd">mie</lem><rdg wit="#Tr">pas</rdg><rdg wit="#Em">mie</rdg></app> en seji<lb/></item>
+          <item n="2">Feindre sei autre quil <anchor xml:id="Org.2a"/>ne<app from="#Org.2a"><lem wit="#Bd">ne</lem><rdg wit="#Tr">ne</rdg><rdg wit="#Em"></rdg></app> seit<lb/></item>
+     <item n="3">Cuntrouer noueleries<lb/></item> 
+          <item n="4">Estriuer saunz <anchor xml:id="Org.4a"/>bosoign<app from="#Org.4a"><lem wit="#Bd">bosoign</lem><rdg wit="#Tr">busuin</rdg><rdg wit="#Em">encheisun</rdg></app><lb/></item>
+          <item n="5">Inobedient a deu <choice><abbr><am>⁊</am></abbr><expan>e</expan></choice> sun proesme<lb/></item>
+          <item n="6">Fet home poruers <choice><abbr><am>⁊</am></abbr><expan>e</expan></choice>
+            <w><choice><abbr><am>&#42863;</am></abbr><expan>con</expan></choice>trarius</w>
+            <anchor xml:id="Org.6a"/>.  <w>Tenc<choice><abbr><am>&#42864;</am></abbr><expan>er</expan></choice></w>
+            <w>sau<choice><abbr><am>&#x305;</am></abbr><expan>n</expan></choice>z</w>
+            <w>acheisu<choice><abbr><am>&#x305;</am></abbr><expan>n</expan></choice></w>
+            <app from="#Org.6a">
+              <lem wit="#Em"><lb/>Tencier sanz encheisun</lem>
+              <rdg wit="#Bd">. <w>Tenc<choice><abbr><am>&#42864;</am></abbr><expan>er</expan></choice></w>
+              <w>sau<choice><abbr><am>&#x305;</am></abbr><expan></expan></choice>z</w>
+                <w>acheisu<choice><abbr><am>&#x305;</am></abbr><expan>n</expan></choice></w></rdg>
+              <rdg wit="#Tr"><lb/>Tenser sanz en chesun</rdg>
+              </app><lb/></item>
+        </list> 
+      <list n="Env" rend="align(center)">
+        <head rend="align(left)">Envie<lb/></head>
+        <item n="1">Fet home fere <anchor xml:id="Env.1a"/><w>det<choice><abbr><hi rend="superscript">ac</hi></abbr><expan>rac</expan></choice>tiun</w>
+          <app from="#Env.1a">
+            <lem wit="#Bd"><w>det<choice><abbr><hi rend="superscript">ac</hi></abbr><expan>rac</expan></choice>tiun</w></lem>
+            <rdg wit="#Tr">traisun</rdg>
+            <rdg wit="#Em">detractiun</rdg>
+          </app> 
+          de sum proesme<lb/></item>
+        <item n="2">auer <anchor xml:id="Env.2a"/>ioie dautri mal
+          <app from="#Env.2a">
+            <lem wit="#Bd">ioie dautri mal</lem>
+            <rdg wit="#Tr">ioye de autri mal</rdg>
+          <rdg wit="#Em">de altri mal ioie</rdg>
+          </app>
+          <lb/></item>
+        <item n="3">Hair les biens dautri<lb/></item>
+          <item n="4">Grocer <w>p<choice><abbr><am>&#x305;</am></abbr><expan>our</expan></choice></w> <w>aut<choice><abbr><hi rend="superscript">i</hi></abbr><expan>ri</expan></choice></w> auauncement<lb/></item>
+        <item n="5">Estre homicide<lb/></item>
+        <item n="6"><anchor xml:id="Env.6a"/>Estre de
+          <app from="#Env.6a">
+          <lem wit="#Bd">Estre de</lem>
+          <rdg wit="#Tr">De</rdg>
+          <rdg wit="#Em">De</rdg>
+        </app> amer corage<lb/></item>
+        <item n="7">Deprauer autri biens<lb/></item>
+      </list>
+   
+  <list n="Ire" rend="align(center)">
+    <item n="1">Fet home enfler
+      <note resp="#KAM">In the Emmanuel College manuscript, this branch of "Ire" and the next two are all on the same line.</note>
+    </item>
+    <item n="2">Forsaner<lb/>
+      </item></list>
+    <pb n="f.87r" type="recto"></pb>
+      <list n="Ire" rend="align(center)">
+        <head rend="align(left)">Ire<lb/></head>
+        <item n="3"><anchor xml:id="Ire.3a"/>Crier
+          <app from="#Ire.3a">
+            <lem wit="#Bd">Crier</lem>
+            <rdg wit="#Tr">Crier e ianheler</rdg>
+            <rdg wit="#Em">Crier</rdg></app>
+          <lb/></item>
+        <item n="4"><anchor xml:id="Ire.4a"/>Eschamer
+          <app from="#Ire.4a">
+            <lem wit="#Tr">Escharnier</lem>
+            <rdg wit="#Em">Escharnir</rdg>
+            <rdg wit="#Bd">Eschamer</rdg>
+          </app>
+          sun proesme<lb/></item>
+        <item n="5"><anchor xml:id="Ire.5a"/>
+          <w>Mana<choice><abbr><hi rend="superscript">s</hi></abbr><expan>s</expan></choice>cer</w>
+          <app from="#Ire.5a">
+            <lem wit="#Bd"><w>Mana<choice><abbr><hi rend="superscript">s</hi></abbr><expan>s</expan></choice>cer</w></lem>
+            <rdg wit="#Tr">Reprecer</rdg>
+            <rdg wit="#Em">Manacer. Reproueir</rdg></app>
+          <lb/></item>
+        <item n="6"><anchor xml:id="Ire.6a"/>Reprucher<app from="#Ire.6a">
+          <lem wit="#Bd">Reprucher<lb/></lem>
+          <rdg wit="#Tr">Manacer<lb/></rdg>
+          <rdg wit="#Em"></rdg></app>
+          <lb/></item>
+        <item n="7">Avoegle lentendement 
+          <w>q<choice><abbr><hi rend="superscript">i</hi></abbr><expan>ui</expan></choice>l</w>
+           ne <w>p<choice><abbr><am>&#42864;</am></abbr><expan>uis</expan></choice>se</w>
+          entendre <w>u<choice><abbr><am>&#42864;</am></abbr><expan>er</expan></choice>ite</w><lb/></item>
+  </list>
+      <list n="Acc" rend="align(center)">
+        <head rend="align(left)">Accidie<lb/></head>
+        <item n="1">Fet home <anchor xml:id="Acc.1a"/>enure<app from="#Acc.1a">
+          <lem wit="#Bd">enure</lem>
+          <rdg wit="#Tr">enure</rdg>
+          <rdg wit="#Em">ennuie</rdg></app>
+          de <w>chescu<choice><abbr><am>&#x305;</am></abbr><expan>n</expan></choice></w>
+           bien <choice><abbr><am>⁊</am></abbr><expan>e</expan></choice>
+          de sa uie 
+          <anchor xml:id="Acc.1b"/>
+          <app from="#Acc.1b">
+          <lem wit="#Bd"></lem>
+          <rdg wit="#Tr">suuent</rdg>
+          <rdg wit="#Em">souent</rdg>  
+          </app><lb/></item>
+        <item n="2">Pensaunt <choice><abbr><am>⁊</am></abbr><expan>e</expan></choice> 
+          <w><choice><abbr><am>&#42833;</am></abbr><expan>par</expan></choice>ecus</w>
+          <choice><abbr><am>⁊</am></abbr><expan>e</expan></choice>
+          sompnolent<lb/></item>
+        <item n="3">Neggligent en co ke il deit fere<lb/></item>
+        <item n="4">Pourus plus 
+          <w>q<choice><abbr><hi rend="superscript">i</hi></abbr><expan>ui</expan></choice>l</w>
+          <anchor xml:id="Acc.4a"/>nait<app from="#Acc.4a">
+            <lem wit="#Bd">nait</lem>
+            <rdg wit="#Tr">nunt</rdg>
+            <rdg wit="#Em">nad</rdg></app>
+          mester<lb/></item>
+        <item n="5"><anchor xml:id="Acc.5a"/>Plentiuus 
+          <app from="#Acc.5a">
+            <lem wit="#Bd">Plentiuus </lem>
+            <rdg wit="#Tr">Plantivus e</rdg>
+            <rdg wit="#Em">Plentius e</rdg>
+          </app> de pesaunte chiere<lb/></item>
+        <item n="6">Meintefeiz <anchor xml:id="Acc.6a"/>en des espeir
+          <app from="#Acc.6a">
+            <lem wit="#Em">en despeyr</lem>
+            <rdg wit="#Tr">enuis desasper</rdg>
+            <rdg wit="#Bd">en des espeir</rdg>
+          </app>
+          <lb/></item>
+        <item n="7">Estre sanz solaz del seint 
+          <w>es<choice><abbr><am>&#42833;</am></abbr><expan>pir</expan></choice>it</w><lb/></item>
+      </list>
+      <list n="Ava" rend="align(center)"><head rend="align(left)">Avarice<lb/></head>
+        <addSpan rend="align (left)" spanTo="#P04"/>
+        <item n="1"><hi rend="red">¶</hi><w>su<choice>
+        <abbr><am>&#x305;</am></abbr><expan>n</expan></choice></w>
+          <w><choice><abbr><am>&#42835;</am></abbr><expan>pro</expan></choice>esme</w><anchor xml:id="P04"/><lb/>
+          Fet home <w>p<choice><abbr><am>&#x305;</am></abbr><expan>ur</expan></choice>penser</w>
+          <w>nouelerie<choice><abbr><hi rend="superscript">s</hi></abbr><expan>s</expan></choice></w>
+          <w>come<choice><abbr><am>&#x305;</am></abbr><expan>n</expan></choice>t</w>
+          il <w>p<choice><abbr><am>&#42864;</am></abbr><expan>us</expan></choice>se</w><anchor xml:id="Ava.1a"/>
+          <app from="#Ava.1a">
+            <lem wit="#Tr">plus cointement</lem>
+            <rdg wit="#Bd"></rdg>
+            <rdg wit="#Em">plus coyntement</rdg></app>
+          deceuir<lb/></item> 
+        <item n="2">Desirer la mort sun <w><choice><abbr><am>&#42835;</am></abbr><expan>pro</expan></choice>esme</w><lb/></item>
+        <item n="3">Mentir <choice><abbr>⁊</abbr><expan>e</expan></choice>
+          pariurer <choice><abbr>⁊</abbr><expan>e</expan></choice>
+          tesmoiner faus<lb/></item>
+        <item n="4">Embler e rauir <anchor xml:id="Ava.4a"/>atort
+          <app from="#Ava.4a">
+          <lem wit="#Bd">atort</lem>
+          <rdg wit="#Tr">acord</rdg>
+          <rdg wit="#Em">a tuz</rdg></app>
+          <lb/></item>
+        <item n="5">Losenger les mauueis<lb/></item>
+        <item n="6">Cunsentir a tuz pechez<lb/></item>
+        <item n="7">Duner faus iugement<lb/></item></list>
+      
+      <list n="Lec" rend="align(center)"><head rend="align(left)">Lecherie</head>
+        <note resp="#KAM">In the Bodleian MS, the order of these last two lists is reversed.</note><lb/>
+        <item n="1">Fet home ord en <anchor xml:id="Lec.1a"/>cors
+          <app from="#Lec.1a">
+          <lem wit="#Bd">cors</lem>
+          <rdg wit="#Tr">queor</rdg>
+          <rdg wit="#Em">cors</rdg></app> 
+          <choice><abbr>⁊</abbr><expan>e</expan></choice> en alme<lb/></item>
+        <item n="2">Puir deuant deu <choice><abbr>⁊</abbr><expan>e</expan></choice> ses aungles<lb/></item>
+        <item n="3"><anchor xml:id="Lec.3a"/>Fol de sage deuenir
+          <app from="#Lec.3a">
+            <lem wit="#Bd">Fol de sage deuenir</lem>
+          <rdg wit="#Tr">Fol de sache</rdg>
+          <rdg wit="#Em">De sage fol</rdg></app>
+          <lb/></item>
+        <item n="4">Parler de ordure <choice><abbr>⁊</abbr><expan>e</expan></choice> de uilanie<lb/></item>
+        <item n="5">Penser de mal<lb/></item>
+      
+      <pb n="f.87v" type="verso"></pb> 
+        <item n="6">Blaundir <anchor xml:id="Lec.6a"/><choice><abbr>⁊</abbr><expan>e</expan></choice> losenger
+          <app from="#Lec.6a">
+            <lem wit="#Bd"><choice><abbr>⁊</abbr><expan>e</expan></choice> losenger</lem>
+            <rdg wit="#Tr"></rdg>
+            <rdg wit="#Em">a tuiz pur feire sa folie</rdg></app>
+          <lb/></item>
+        <item n="7">Enchace le seint 
+          <w>es<choice><abbr><am>&#42833;</am></abbr><expan>pir</expan></choice>it</w>
+          e dissolt <choice><abbr>⁊</abbr><expan>e</expan></choice> <anchor xml:id="Lec.7a"/>desafeit
+          <note resp="#KAM">The Anglo-Norman Dictionary includes an entry for "desacreeit,"
+            a word that Olwen Rhys gives in her printing of the Trinity manuscript version of the "Effects of the Seven Sins."
+            The dictionary suggests that it means "to diminish." However, the word seems to have been a transcription mistake on Rhys' part.
+            The word "desacreeit" is not attested elsewhere; Rhys' transcription is the only example in the Anglo-Norman Dictionary.
+            Reichl transcribes this word as "deshenfaite," and I see the same (fol. 81v). "Deshenfaite" is itself surely a scribal error for
+            "desafeit."
+          </note>
+          <app from="#Lec.7a">
+            <lem wit="#Bd">desafeit</lem>
+            <rdg wit="#Tr">deshenfaite</rdg>
+            <rdg wit="#Em">desafeite</rdg></app>
+          <lb/></item>
+      </list>
+      
+      <list n="Glo" rend="align(center)"><head rend="align(left)">Glotonie<lb/></head>
+        <item n="1">Fet home ublier deu<lb/></item>
+        <item n="2">Destrut naturels biens<lb/></item>
+        <item n="3">Abrege la uie del home<lb/></item>
+        <item n="4">Tout<anchor xml:id="Glo.4a"/><app from="#Glo.4a">
+          <lem wit="#Em">tuite</lem>
+          <rdg wit="#Tr"></rdg>
+          <rdg wit="#Bd"></rdg></app>
+          <anchor xml:id="Glo.4b"/>sen<app from="#Glo.4b">
+            <lem wit="#Bd">sen</lem>
+            <rdg wit="#Tr">sen</rdg>
+            <rdg wit="#Em">seinte</rdg></app>
+          <choice><abbr>⁊</abbr><expan>e</expan></choice>
+          memoire<lb/></item>
+        <item n="5">Amenuse la force <choice><abbr>⁊</abbr><expan>e</expan></choice> la biaute del cors<lb/></item>
+        <item n="6">Engendre yveresce ke rien ne <anchor xml:id="Glo.6a"/>fet
+          <app from="#Glo.6a">
+          <lem wit="#Bd">fet</lem>
+          <rdg wit="#Tr">poet</rdg>
+          <rdg wit="#Em">feit</rdg></app>
+          celer<lb/></item>
+        <item n="7">Fet home <anchor xml:id="Glo.7a"/>jangler<app from="#Glo.7a">
+          <lem wit="#Bd">jangler</lem>
+          <rdg wit="#Tr">sangler</rdg>
+          <rdg wit="#Em">jangler</rdg></app>
+          <choice><abbr>⁊</abbr><expan>e</expan></choice> <anchor xml:id="Glo.7b"/><w>pro<unclear reason="illegible">nuncier</unclear></w>
+          <app from="#Glo.7b">
+            <lem wit="#Bd"><w>pro<unclear reason="illegible">nuncier</unclear></w></lem>
+            <rdg wit="#Tr">pur runine</rdg>
+            <rdg wit="#Em">pronuncier</rdg></app>
+          abhominaciun<lb/></item>
+      </list>
+  </body>
+  </text>
+</TEI>
