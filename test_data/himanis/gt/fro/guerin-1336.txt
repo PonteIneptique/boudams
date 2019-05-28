@@ -1,176 +1,168 @@
-Loys,etc	Loys , etc
-etc.Savoirfaisons,etc.nous	etc . Savoir faisons , etc . nous
-avoirreceuel’umblesupplicaciondeJehanet	avoir receue l ’ umble supplicacion de Jehan et
-SavinViaulx	Savin Viaulx
-,frères,laboureurs.,	, frères , laboureurs . ,
-,enfansdeClementViault,demourantenlachastelleniede	, enfans de Clement Viault , demourant en la chastellenie de
-SaintSavin,contenantque,	Saint Savin , contenant que ,
-lepremierjourdecepresentkaresme,vint	le premier jour de ce present karesme , vint
-àleurhostel	à leur hostel
-delaFormelièreungjeuneenfant.,nomméDenisDuvergier	de la Formelière ung jeune enfant . , nommé Denis Duvergier
-Duvergier,querirde	Duvergier , querir de
-del’uylle,pourcequ	de l ’ uylle , pour ce qu
-qu’ilzlafontàleurdithostel,	qu ’ ilz la font à leurdit hostel ,
-etens’enretournantd’icelluy,	et en s ’ en retournant d ’ icelluy ,
-ungcrugeond’uylleenungsacàson	ung crugeon d ’ uylle en ung sac à son
-soncol,rencontraungcompaignonpassantcheminquivenoit	son col , rencontra ung compaignon passant chemin qui venoit
-deversSaintSavin,	devers Saint Savin ,
-duquell’onnescetautrementlenom	duquel l ’ on ne scet autrement le nom
-,quiestoiten	, qui estoit en
-enhabitd’omme	en habit d ’ omme
-ommedeguerre,vestucourtd’une	omme de guerre , vestu court d ’ une
-unejaquete,unegrantespéeàsoncol,avecques	une jaquete , une grant espée à son col , avecques
-avecquesungpetit	avecques ung petit
-manteauetunebougette	manteau et une bougette
-trousséeàsonespéeetunedague	troussée à son espée et une dague
-àsasaintureet	à sa sainture et
-etungbecquetenun	et ung becquet en un
-exsilensamain,	exsil en sa main ,
-lequelbecquetil	lequel becquet il
-ilavoitostécelluyjourà	il avoit osté celluy jour à
-àungmarchantdepoissonduBlancen	à ung marchant de poisson du Blanc en
-enBerry.Lequelcompaignonretourna	en Berry . Lequel compaignon retourna
-leditDenis,quis	ledit Denis , qui s
-s’.enalloitauditlieudeSaintSavin	s ’ . en alloit audit lieu de Saint Savin
-dontilest,jusquesaudroitduditlieuet	dont il est , jusques au droit dudit lieu et
-ethosteldelaFornollière	et hostel de la Fornollière
-Fornollière,oultre.songréetvolentéenlefaisant	Fornollière , oultre . son gré et volenté en le faisant
-tomberdevantluy,etlui	tomber devant luy , et lui
-disoitqu’illuimonstreroit	disoit qu ’ il lui monstreroit
-lecheminpouraleràIngrandeprès	le chemin pour aler à Ingrande près
-prèsleditBlancen..Berry,	près ledit Blanc en . . Berry ,
-etques’	et que s ’
-ilcouchoitdehors,siseroit	il couchoit dehors , si seroit
-seroitilavecquesluy	seroit il avecques luy
-,etauquelDenisilosta	, et auquel Denis il osta
-sessoliers,	ses soliers ,
-commeil.disoit.	comme il . disoit .
-EtquantleditDenisDuvergier,quiest	Et quant ledit Denis Duvergier , qui est
-jeuneenfantdel’aagedexii	jeune enfant de l ’ aage de xii
-.ansouenvironetavoit	. ans ou environ et avoit
-avoitpeurduditcompaignonquilemenastplusloing,pour	avoit peur dudit compaignon qui le menast plus loing , pour
-cequ’ilestoittart,fut	ce qu ’ il estoit tart , fut
-endroitlevillagedelaFornollièreou	endroit le village de la Fornollière ou
-chemin,ils’enfouitauditvillaige	chemin , il s ’ en fouit audit villaige
-villaigejusquesau	villaige jusques au
-dedansd’une	dedans d ’ une
-clyeprèsetaurezdesmaisons.AuquelDenis	clye près et au rez des maisons . Auquel Denis
-Denislequelcompaignondistlors:«Tum’	Denis lequel compaignon dist lors :« Tu m ’
-’astrompé»,etleditDenis	’ as trompé », et ledit Denis
-Denis.luidist:«Rendezmoymes	Denis . lui dist :« Rendez moy mes
-souliers».Lequelcompaignonluifistresponsequ’	souliers ». Lequel compaignon lui fist response qu ’
-’iln’enferoistrien	’ il n ’ en feroist rien
-,s’ilneluimonstroitlechemin.	, s ’ il ne lui monstroit le chemin .
-.Etalors	. Et alors
-ungnommé	ung nommé
-JehandeFaugères,qui	Jehan de Faugères , qui
-illecestoitauprèsduditvillage,audedansd’	illec estoit auprès dudit village , au dedans d ’
-unchamp.,quiestoitaussiallé	un champ . , qui estoit aussi allé
-querirdel’uylleetparloitaudit	querir de l ’ uylle et parloit audit
-Clement,pèredesdizsupplians,quiillecbesoignoit,	Clement , père desdiz supplians , qui illec besoignoit ,
-distauditcompaignon.	dist audit compaignon .
-qu’ilrendist	qu ’ il rendist
+Loys,etc.Savoir	Loys , etc . Savoir
+faisons,etc.nousavoirreceuel’umble	faisons , etc . nous avoir receue l ’ umble
+umblesupplicaciondeJehanet	umble supplicacion de Jehan et
+SavinViaulx,frères	Savin Viaulx , frères
+,laboureurs,	, laboureurs ,
+enfansdeClementViault,	enfans de Clement Viault ,
+demourant.enlachastellenie	demourant . en la chastellenie
+deSaintSavin,contenantque	de Saint Savin , contenant que
+,..lepremier	, . . le premier
+jourdece	jour de ce
+present..karesme,vintàleurhosteldelaFormelière	present . . karesme , vint à leur hostel de la Formelière
+ungjeuneenfant,nomméDenisDuvergier,querir	ung jeune enfant , nommé Denis Duvergier , querir
+del’uylle,pource	de l ’ uylle , pour ce
+qu’ilzlafont	qu ’ ilz la font
+fontàleurdit	font à leurdit
+leurdithostel,	leurdit hostel ,
+et..ens’enretournantd’	et . . en s ’ en retournant d ’
+’icelluy,ungcrugeond’	’ icelluy , ung crugeon d ’
+uylleenungsacà.soncol,rencontraung	uylle en ung sac à . son col , rencontra ung
+compaignonpassantcheminquivenoitdeversSaintSavin,duquel	compaignon passant chemin qui venoit devers Saint Savin , duquel
+l’onnescet	l ’ on ne scet
+autrementlenom,quiestoit	autrement le nom , qui estoit
+estoitenhabitd’ommedeguerre,	estoit en habit d ’ omme de guerre ,
+,vestucourt	, vestu court
+d’.unejaquete,unegrantespéeàson	d ’ . une jaquete , une grant espée à son
+col,avecquesungpetitmanteauetune	col , avecques ung petit manteau et une
+unebougettetroussée..	une bougette troussée . .
+.à.sonespéeetunedagueàsasaintureet	. à . son espée et une dague à sa sainture et
+ungbecquetenunexsil	ung becquet en un exsil
+ensamain	en sa main
+main,lequelbecquet..il	main , lequel becquet . . il
+avoitostécelluyjouràungmarchantde	avoit osté celluy jour à ung marchant de
+poissonduBlancenBerry..Lequelcompaignon	poisson du Blanc en Berry . . Lequel compaignon
+retournaleditDenis,quis.’enalloitaudit	retourna ledit Denis , qui s . ’ en alloit audit
+auditlieudeSaintSavindontilest,	audit lieu de Saint Savin dont il est ,
+jusquesaudroitdudit	jusques au droit dudit
+lieuethosteldelaFornollière,oultre	lieu et hostel de la Fornollière , oultre
+songréet	son gré et
+volentéenlefaisant	volenté en le faisant
+faisanttomberdevant	faisant tomber devant
+devantluy,etluidisoitqu’illui	devant luy , et lui disoit qu ’ il lui
+monstreroitlecheminpouraler	monstreroit le chemin pour aler
+àIngrande	à Ingrande
+IngrandeprèsleditBlancenBerry,etque	Ingrande près ledit Blanc en Berry , et que
+s’ilcouchoitdehors,siseroitil	s ’ il couchoit dehors , si seroit il
+avecquesluy	avecques luy
+,etauquelDenisilostasessoliers,comme	, et auquel Denis il osta ses soliers , comme
+commeildisoit.EtquantleditDenisDuvergier,qui	comme il disoit . Et quant ledit Denis Duvergier , qui
+quiestjeuneenfantdel	qui est jeune enfant de l
+’.aagede	’ . aage de
+xii.ansouenviron	xii . ans ou environ
+etavoitpeurduditcompaignonquile	et avoit peur dudit compaignon qui le
+menast..plusloing,pourcequ’	menast . . plus loing , pour ce qu ’
+’ilestoittart,fut	’ il estoit tart , fut
+endroitlevillagedelaFornollièreouchemin,il	endroit le village de la Fornollière ou chemin , il
+s’enfouit	s ’ en fouit
+auditvillaigejusquesaudedansd’	audit villaige jusques au dedans d ’
+’uneclyeprèsetaurezdesmaisons	’ une clye près et au rez des maisons
+.AuquelDenislequelcompaignondistlors:«	. Auquel Denis lequel compaignon dist lors :«
+Tum’astrompé»,etledit	Tu m ’ as trompé », et ledit
+leditDenisluidist:«	ledit Denis lui dist :«
+Rendezmoymessouliers	Rendez moy mes souliers
+».Lequelcompaignonlui	». Lequel compaignon lui
+fistresponsequ’iln’	fist response qu ’ il n ’
+enferoistrien,s’il	en feroist rien , s ’ il
+ilneluimonstroitle.chemin.	il ne lui monstroit le . chemin .
+.Etalorsungnommé	. Et alors ung nommé
+JehandeFaugères,quiillecestoitauprèsduditvillage	Jehan de Faugères , qui illec estoit auprès dudit village
+,audedansd	, au dedans d
+’un.champ,	’ un . champ ,
+quiestoit..aussialléquerir	qui estoit . . aussi allé querir
+del’uylleetparloit	de l ’ uylle et parloit
+auditClement,pèredesdizsupplians,..quiillec	audit Clement , père desdiz supplians , . . qui illec
+illecbesoignoit,distauditcompaignonqu’il	illec besoignoit , dist audit compaignon qu ’ il
+ilrendistles	il rendist les
 lessolliersauditDenis	les solliers audit Denis
-Denis,quiestoitpovreenfantorfelin.Lequel	Denis , qui estoit povre enfant orfelin . Lequel
-compaignonfistresponceenmanièrederigueur	compaignon fist responce en manière de rigueur
-auditdeFaugères	audit de Faugères
-,enluidisant:«Vienslesquerretoy	, en lui disant :« Viens les querre toy
-mesmes»,	mesmes »,
-etpeuaprèsleditClement,pèredesdizsupplians	et peu après ledit Clement , père desdiz supplians
-,s’enalla	, s ’ en alla
-àleurmaisonetdistàiceulxsupplianssesenfans	à leur maison et dist à iceulx supplians ses enfans
-,quiestoient	, qui estoient
-enleurdithostel	en leurdit hostel
-hostel,tellesparoles	hostel , telles paroles
-parolesousemblables:«Ilestillecpasséungcompaignonqui	paroles ou semblables :« Il est illec passé ung compaignon qui
-aostéles	a osté les
-soliersàcepauvreenfant,quiestoiticy	soliers à ce pauvre enfant , qui estoit icy
-icyvenuquerirdel’uylle,lequelestlà	icy venu querir de l ’ uylle , lequel est là
-dehorsoùilpleure.	dehors où il pleure .
-.Vousferezbiend’aleraprèsà	. Vous ferez bien d ’ aler après à
-luydemanderlessouliersdudit	luy demander les souliers dudit
-enfant,	enfant ,
-quiestpovre	qui est povre
-orfelin,etluidirequ’	orfelin , et lui dire qu ’
-’illesluivueillerendre	’ il les lui vueille rendre
+,quiestoitpovre..enfantorfelin	, qui estoit povre . . enfant orfelin
+.Lequelcompaignonfistresponceen	. Lequel compaignon fist responce en
+manière.derigueuraudit	manière . de rigueur audit
+auditdeFaugères,enluidisant:«Viensles	audit de Faugères , en lui disant :« Viens les
+les.querretoymesmes»,	les . querre toy mesmes »,
+etpeuaprès	et peu après
+leditClement,pèredesdizsupplians,	ledit Clement , père desdiz supplians ,
+s’enalla	s ’ en alla
+àleurmaisonet	à leur maison et
+distàiceulxsupplians.sesenfans,qui	dist à iceulx supplians . ses enfans , qui
+estoienten.leurdithostel	estoient en . leurdit hostel
+,telles	, telles
+telles.parolesousemblables	telles . paroles ou semblables
+semblables:«Ilest..	semblables :« Il est . .
+illecpasséungcompaignonquia	illec passé ung compaignon qui a
+ostélessoliersàce	osté les soliers à ce
+pauvreenfant.,	pauvre enfant . ,
+quiestoiticyvenuquerirdel’uylle	qui estoit icy venu querir de l ’ uylle
+,lequelestlàdehorsoùilpleure.Vous	, lequel est là dehors où il pleure . Vous
+ferezbiend’aleraprèsàluydemanderles	ferez bien d ’ aler après à luy demander les
+souliersdudit	souliers dudit
+enfant,.quiestpovreorfelin	enfant , . qui est povre orfelin
+,etluidirequ’	, et lui dire qu ’
+illesluivueille	il les lui vueille
 rendre,etil	rendre , et il
-ilferabien.»	il fera bien .»
-LesquellesparollesleditClementViautdist	Lesquelles parolles ledit Clement Viaut dist
-à..sesdizenfans,	à . . sesdiz enfans ,
-sanspenserennulmal.	sans penser en nul mal .
-.Etincontinantlesdis	. Et incontinant les dis
-supplians,quisontbonslaboureurs	supplians , qui sont bons laboureurs
-laboureursetdetrèsbonnerenommée,sansestrebrigueurs	laboureurs et de très bonne renommée , sans estre brigueurs
-brigueurs,noyzeux.,murtriersnebateurs	brigueurs , noyzeux . , murtriers ne bateurs
-degens,	de gens ,
-,allèrentaprèsleditcompaignon,..ungpeuavantsoulleilcouchant	, allèrent après ledit compaignon , . . ung peu avant soulleil couchant
-,sansporterneavoiravecqueseulxaucuns	, sans porter ne avoir avecques eulx aucuns
-aucunsferremens..,forsqueungpetit	aucuns ferremens . . , fors que ung petit
-bastonblancdelalongueurdequatrepyezouenviron	baston blanc de la longueur de quatre pyez ou environ
-,queleditJehansuppliantavoit	, que ledit Jehan suppliant avoit
-ensamain.Etquantilz	en sa main . Et quant ilz
-l’eurentaconsceuetfurent	l ’ eurent aconsceu et furent
-prèsduditcompaignon,lequelestoitarrestéauprèsduchemin..	près dudit compaignon , lequel estoit arresté auprès du chemin . .
-où.ilparloit	où . il parloit
-àungpetitgarson,	à ung petit garson ,
-,ilzluidistrent..tellesparollesou	, ilz lui distrent . . telles parolles ou
-ouensubstance	ou en substance
-:«Galant	:« Galant
-Galant.,rendésles	Galant . , rendés les
-souliersquevousavezostéàung	souliers que vous avez osté à ung
-pouvre.enfant	pouvre . enfant
-enfant..illecouchemin.»	enfant . . illec ou chemin .»
-.»Lequelcompaignonalorstoutrigoureusement	.» Lequel compaignon alors tout rigoureusement
-rigoureusementleurdist:«Querandré	rigoureusement leur dist :« Que randré
-randréje?»	randré je ?»
-etincontinantprintunepierreensamainet	et incontinant print une pierre en sa main et
-sonespéeenl’autre,	son espée en l ’ autre ,
-etjectasonditmanteau	et jecta sondit manteau
-manteauoubougetteà	manteau ou bougette à
-terre,enregnyantDieuqu’illesturoit	terre , en regnyant Dieu qu ’ il les turoit
+ferabien.»LesquellesparollesleditClementViautdist	fera bien .» Lesquelles parolles ledit Clement Viaut dist
+àsesdizenfans,	à sesdiz enfans ,
+sanspenserennulmal.Etincontinantlesdis	sans penser en nul mal . Et incontinant les dis
+dissupplians,quisontbonslaboureurset	dis supplians , qui sont bons laboureurs et
+detrèsbonnerenommée,sansestrebrigueurs,noyzeux	de très bonne renommée , sans estre brigueurs , noyzeux
+noyzeux,murtriersnebateursdegens,allèrent	noyzeux , murtriers ne bateurs de gens , allèrent
+allèrentaprèsledit	allèrent après ledit
+compaignon,ungpeuavantsoulleil	compaignon , ung peu avant soulleil
+couchant,sansporterneavoir	couchant , sans porter ne avoir
+avoiravecqueseulxaucunsferremens,forsqueungpetitbaston	avoir avecques eulx aucuns ferremens , fors que ung petit baston
+blancdelalongueurde	blanc de la longueur de
+dequatrepyezouenviron.,queleditJehansuppliant	de quatre pyez ou environ . , que ledit Jehan suppliant
+avoitensamain.Et.quantilz	avoit en sa main . Et . quant ilz
+l’eurentaconsceuetfurentprèsduditcompaignon..	l ’ eurent aconsceu et furent près dudit compaignon . .
+.,lequelestoitarrestéauprèsdu	. , lequel estoit arresté auprès du
+cheminoùilparloitàungpetit	chemin où il parloit à ung petit
+garson,ilzluidistrenttellesparollesouensubstance	garson , ilz lui distrent telles parolles ou en substance
+:«Galant,rendéslessouliersque	:« Galant , rendés les souliers que
+vousavezostéàung	vous avez osté à ung
+pouvreenfant.illecouchemin.»Lequelcompaignon	pouvre enfant . illec ou chemin .» Lequel compaignon
+compaignonalorstoutrigoureusementleurdist..:«Querandré	compaignon alors tout rigoureusement leur dist . . :« Que randré
+randréje?»etincontinantprint	randré je ?» et incontinant print
+unepierreensamainetsonespée	une pierre en sa main et son espée
+espéeenl’autre	espée en l ’ autre
+,etjecta	, et jecta
+sonditmanteauoubougette	sondit manteau ou bougette
+àterre,enregnyantDieuqu’illes	à terre , en regnyant Dieu qu ’ il les
 turoit,et	turoit , et
-venant.contreeulx	venant . contre eulx
-.Lesquelzsupplians,voyansqueleditcompaignonestoit	. Lesquelz supplians , voyans que ledit compaignon estoit
-malesmeu	mal esmeu
-etainsivenoitcontreeulx	et ainsi venoit contre eulx
-,serecullèrenten	, se recullèrent en
-eulxvoulantretourner,eteneulxrecullantledit	eulx voulant retourner , et en eulx recullant ledit
-compaignongectaunepierrequ	compaignon gecta une pierre qu
-’ilavoit	’ il avoit
-ensamaincontre..	en sa main contre . .
-eulx,delaquelle	eulx , de laquelle
-ilfrappaleditJehansuppliantparmy	il frappa ledit Jehan suppliant parmy
-parmylacuisse;lequelsoy	parmy la cuisse ; lequel soy
-voyantestrefrappé	voyant estre frappé
-frappétellement.qu’ilne	frappé tellement . qu ’ il ne
-nepovoitbonnementfouir	ne povoit bonnement fouir
-,sebessapourprandreunepierrepourgecter	, se bessa pour prandre une pierre pour gecter
-gecteraudit.compaignon;maisledit	gecter audit . compaignon ; mais ledit
-leditcompaignons	ledit compaignon s
-s’aprouchadeluietdel’espéequ	s ’ aproucha de lui et de l ’ espée qu
-’ilavoitou	’ il avoit ou
-oupoing,frappaleditsuppliantdessoubzl	ou poing , frappa ledit suppliant dessoubz l
-l’aisselle	l ’ aisselle
-soubzlatetyne,tellement	soubz la tetyne , tellement
-queladicteespée	que ladicte espée
-entrademypiédedans,ainsiquedientles	entra demy pié dedans , ainsi que dient les
-barbiersquil’ontvisité,tellementque	barbiers qui l ’ ont visité , tellement que
-parlemoienduditcoupilestalléde	par le moien dudit coup il est allé de
-vieàtrespassement.Al’occasionduquel	vie à trespassement . A l ’ occasion duquel
-duquelcas,	duquel cas ,
-,lesdizsuppliansdoubtans	, lesdiz supplians doubtans
-rigueurdejustice..	rigueur de justice . .
-,sesont..absentez,etc.,	, se sont . . absentez , etc .,
-etn’yoseroient,.etc.,se	et n ’ y oseroient , . etc ., se
-nozgrace,etc.Pour.	noz grace , etc . Pour .
-quoy,..etc	quoy , . . etc
-.,voulans,etc.,ausdizsuppliansavonsle	., voulans , etc ., ausdiz supplians avons le
-faitetcasdessusdeclaréquicté	fait et cas dessus declaré quicté
-quicté,..remisetpardonné,etc.,avec	quicté , . . remis et pardonné , etc ., avec
-toutepeineenquoy,etc.Sidonnons	toute peine en quoy , etc . Si donnons
-donnonsenmandementauseneschal	donnons en mandement au seneschal
-dePoictou,etc.DonnéàSaumur,	de Poictou , etc . Donné à Saumur ,
-oumoisdemarsl’andegracemil	ou mois de mars l ’ an de grace mil
-iiiiclxiiii,etdenostrerègneleiiiie	iiiic lxiiii , et de nostre règne le iiiie
-iiiie.Signé:Par	iiiie . Signé : Par
-leconseil.Gautier	le conseil . Gautier
+venantcontreeulx.Lesquelzsupplians	venant contre eulx . Lesquelz supplians
+,.voyansqueledit	, . voyans que ledit
+leditcompaignonestoitmalesmeu	ledit compaignon estoit mal esmeu
+etainsivenoitcontreeulx,serecullèrenteneulx	et ainsi venoit contre eulx , se recullèrent en eulx
+voulantretourner,et	voulant retourner , et
+eneulxrecullantleditcompaignongectaune	en eulx recullant ledit compaignon gecta une
+pierrequ’il.	pierre qu ’ il .
+avoitensamaincontreeulx,delaquelle	avoit en sa main contre eulx , de laquelle
+ilfrappa	il frappa
+leditJehansuppliantparmylacuisse;lequelsoyvoyant	ledit Jehan suppliant parmy la cuisse ; lequel soy voyant
+voyantestrefrappétellementqu’ilnepovoitbonnement	voyant estre frappé tellement qu ’ il ne povoit bonnement
+fouir,sebessapourprandre	fouir , se bessa pour prandre
+prandreunepierrepourgecterauditcompaignon;maisleditcompaignon	prandre une pierre pour gecter audit compaignon ; mais ledit compaignon
+s’aprouchadeluietde	s ’ aproucha de lui et de
+l’espéequ’ilavoitoupoing	l ’ espée qu ’ il avoit ou poing
+poing,frappa	poing , frappa
+leditsuppliantdessoubzl’aissellesoubz	ledit suppliant dessoubz l ’ aisselle soubz
+latetyne,tellementqueladicteespéeentra	la tetyne , tellement que ladicte espée entra
+demypiédedans	demy pié dedans
+,ainsiquedientlesbarbiersquil	, ainsi que dient les barbiers qui l
+’ontvisité,tellementqueparle	’ ont visité , tellement que par le
+le.moienduditcoup	le . moien dudit coup
+ilestallédevieàtrespassement.A	il est allé de vie à trespassement . A
+l’occasionduquelcas,lesdiz	l ’ occasion duquel cas , lesdiz
+suppliansdoubtansrigueurdejustice,sesont	supplians doubtans rigueur de justice , se sont
+absentez,	absentez ,
+etc.,etn’yoseroient,etc.,	etc ., et n ’ y oseroient , etc .,
+se..nozgrace	se . . noz grace
+grace,etc.Pour..quoy,etc.,voulans	grace , etc . Pour . . quoy , etc ., voulans
+,etc.,ausdizsuppliansavonslefaitet	, etc ., ausdiz supplians avons le fait et
+casdessusdeclaréquicté,remisetpardonné,	cas dessus declaré quicté , remis et pardonné ,
+,etc.,avectoutepeineenquoy,etc	, etc ., avec toute peine en quoy , etc
+.Sidonnonsenmandement	. Si donnons en mandement
+auseneschal	au seneschal
+dePoictou,etc.DonnéàSaumur	de Poictou , etc . Donné à Saumur
+Saumur,oumoisdemarsl’ande	Saumur , ou mois de mars l ’ an de
+gracemiliiiiclxiiii,etdenostre	grace mil iiiic lxiiii , et de nostre
+règneleiiiie.Signé:Parle.conseil.	règne le iiiie . Signé : Par le . conseil .
+.Gautier.	. Gautier .

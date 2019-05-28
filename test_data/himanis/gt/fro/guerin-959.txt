@@ -1,53 +1,51 @@
-Charles,filzdu	Charles , filz du
-roydeFrance,regentleroyaume,daulphin	roy de France , regent le royaume , daulphin
-deViennois,duc.deBerry	de Viennois , duc . de Berry
-,deTouraineet	, de Touraine et
-contedePoictou.Anozamezetfeaulxconseillers	conte de Poictou . A noz amez et feaulx conseillers
-demonseigneuretdenous,lesgens	de monseigneur et de nous , les gens
-tenansleParlementàPoictiers,salutetdilection.	tenans le Parlement à Poictiers , salut et dilection .
-Commeledemainedenostrecontéde	Comme le demaine de nostre conté de
-Poictou,.lequelsouloitestredegrant	Poictou , . lequel souloit estre de grant
-valeuretrevenue,soitgrandementetexcessivementdiminué.	valeur et revenue , soit grandement et excessivement diminué .
-parlafaulteetnegligencedesofficiersquipuisaucun	par la faulte et negligence des officiers qui puis aucun
-tempsençaavoientetontl’administracionetrecepte	temps ença avoient et ont l ’ administracion et recepte
-d’iceluidemaine,et	d ’ icelui demaine , et
-parmaintesautresmanieres,sicommeentendu	par maintes autres manieres , si comme entendu
-avons.Nous	avons . Nous
-vousmandons,commandonsetexpressementenjoingnons	vous mandons , commandons et expressement enjoingnons
-enjoingnonsqueparaucunsdesconseillersde.ladictecourtqui	enjoingnons que par aucuns des conseillers de . la dicte court qui
-parvousseront.ence	par vous seront . en ce
-ceordonnez,..vous	ce ordonnez , . . vous
-vousvousinformeztantparvisiondesanciens	vous vous informez tant par vision des anciens
-registresdeladictecontécomme.autrement	registres de la dicte conté comme . autrement
-autrement,deuement,partoutesvoies	autrement , deuement , par toutes voies
-deuesetraisonnables,de	deues et raisonnables , de
-l’estat,.valeur	l ’ estat , . valeur
-etrevenuedudemainede	et revenue du demaine de
-ladictecontédescausesetmanieres	la dicte conté des causes et manieres
-deladiminuciond’.	de la diminucion d ’ .
-icelui,et	icelui , et
-pourveezoufaictespourveoiraurecouvrementetinformacion	pourveez ou faictes pourveoir au recouvrement et informacion
-d’icelui	d ’ icelui
-demaine,toutainsietpar	demaine , tout ainsi et par
-laformeetmaniereque	la forme et maniere que
-vousaviserezestreà	vous aviserez estre à
-faire,encontraignantrigoureusementetsansdeporttous	faire , en contraignant rigoureusement et sans deport tous
-tousceulxquitiennentou	tous ceulx qui tiennent ou
-usurpentaucunechoseduditdemaine	usurpent aucune chose dudit demaine
-,àlerendre..,restabliretrestitueren	, à le rendre . . , restablir et restituer en
-nozmains,.etsur	noz mains , . et sur
-ceetles	ce et les
-dependancesfaictesetadministrezraisonetjustice..Car	dependances faictes et administrez raison et justice . . Car
-ainsinousplaistilet.voulonsestrefait.	ainsi nous plaist il et . voulons estre fait .
-Mandonsetcommandonsàtouslesjusticiers	Mandons et commandons à tous les justiciers
-,officierset	, officiers et
-subgezdemonditseigneuretdenous	subgez de mon dit seigneur et de nous
-,queàvousetàvozcommiset	, que à vous et à voz commis et
-deputezobeissentetentendentdiligemment.Donné	deputez obeissent et entendent diligemment . Donné
-Donnéennostre	Donné en nostre
-villede	ville de
-deBourges,lexxviie	de Bourges , le xxviie
-jourdedecembrel’.	jour de decembre l ’ .
-.andegracemil..cccc.xix.Ainsi	. an de grace mil . . cccc . xix . Ainsi
-Ainsisigné:Parmonseigneurleregentdaulphin,	Ainsi signé : Par monseigneur le regent daulphin ,
-àlarelaciondesonconseilestantàBourges	à la relacion de son conseil estant à Bourges
+Charles,filz	Charles , filz
+duroydeFrance,regentleroyaume,daulphin	du roy de France , regent le royaume , daulphin
+deViennois,ducdeBerry,deTouraine	de Viennois , duc de Berry , de Touraine
+etcontedePoictou.Anozamezet	et conte de Poictou . A noz amez et
+feaulxconseillers	feaulx conseillers
+demonseigneuret.	de monseigneur et .
+denous,lesgenstenansle	de nous , les gens tenans le
+leParlementàPoictiers,salutetdilection.Comme	le Parlement à Poictiers , salut et dilection . Comme
+ledemainedenostrecontédePoictou,lequelsouloit	le demaine de nostre conté de Poictou , lequel souloit
+estredegrantvaleuret	estre de grant valeur et
+revenue,soitgrandementetexcessivementdiminuépar	revenue , soit grandement et excessivement diminué par
+lafaulteetnegligencedesofficiersquipuisaucuntemps	la faulte et negligence des officiers qui puis aucun temps
+ençaavoientetontl’administracionet	ença avoient et ont l ’ administracion et
+recepted’iceluidemaine,et	recepte d ’ icelui demaine , et
+parmaintes	par maintes
+maintesautresmanieres,sicommeentenduavons.Nousvous	maintes autres manieres , si comme entendu avons . Nous vous
+vousmandons,commandonset	vous mandons , commandons et
+expressementenjoingnonsqueparaucunsdesconseillersdeladicte	expressement enjoingnons que par aucuns des conseillers de la dicte
+dictecourtquiparvousseront	dicte court qui par vous seront
+enceordonnez,vousvousinformez	en ce ordonnez , vous vous informez
+informeztantparvision	informez tant par vision
+visiondesanciensregistresdeladictecontécommeautrement,	vision des anciens registres de la dicte conté comme autrement ,
+deuement,partoutesvoiesdeuesetraisonnables,de	deuement , par toutes voies deues et raisonnables , de
+del’estat	de l ’ estat
+,valeuretrevenuedudemainedela	, valeur et revenue du demaine de la
+ladictecontédescausesetmanieresdela	la dicte conté des causes et manieres de la
+ladiminuciond’icelui,etpourveezou	la diminucion d ’ icelui , et pourveez ou
+oufaictespourveoiraurecouvrementetinformacion	ou faictes pourveoir au recouvrement et informacion
+d’iceluidemaine,toutainsiet	d ’ icelui demaine , tout ainsi et
+parlaforme	par la forme
+formeetmanierequevous	forme et maniere que vous
+aviserezestreàfaire,encontraignantrigoureusement	aviserez estre à faire , en contraignant rigoureusement
+etsansdeporttous	et sans deport tous
+ceulxquitiennent.ouusurpentaucune	ceulx qui tiennent . ou usurpent aucune
+chose..duditdemaine,à	chose . . dudit demaine , à
+àlerendre,restabliretrestituer	à le rendre , restablir et restituer
+ennozmains,etsurceetlesdependances	en noz mains , et sur ce et les dependances
+faictesetadministrezraisonetjustice	faictes et administrez raison et justice
+justice.Carainsinous	justice . Car ainsi nous
+plaistiletvoulonsestre	plaist il et voulons estre
+fait..Mandonsetcommandonsàtouslesjusticiers	fait . . Mandons et commandons à tous les justiciers
+,officiersetsubgezdemonditseigneur	, officiers et subgez de mon dit seigneur
+seigneuretde	seigneur et de
+nous,queàvousetà	nous , que à vous et à
+vozcommisetdeputezobeissentetentendentdiligemment.	voz commis et deputez obeissent et entendent diligemment .
+Donné.ennostrevilledeBourges	Donné . en nostre ville de Bourges
+,lexxviiejourdedecembrel’ande	, le xxviie jour de decembre l ’ an de
+degracemilcccc.xix.	de grace mil cccc . xix .
+.Ainsisigné:Parmonseigneurleregentdaulphin,	. Ainsi signé : Par monseigneur le regent daulphin ,
+,àlarelacion	, à la relacion
+desonconseilestantàBourges.Alain.	de son conseil estant à Bourges . Alain .

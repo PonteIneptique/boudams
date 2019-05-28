@@ -1,160 +1,156 @@
-Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
-faisons,etc.	faisons , etc .
+Charles,etc.Savoirfaisons,etc.nous	Charles , etc . Savoir faisons , etc . nous
 nousavoirreceuel’umblesupplicacionde	nous avoir receue l ’ umble supplicacion de
-deJehanGendrot,marchantdemourantàThouars,contenant	de Jehan Gendrot , marchant demourant à Thouars , contenant
-contenantque,.	contenant que , .
-jaçoitcequ’ilsoit	jaçoit ce qu ’ il soit
-hommede	homme de
-bonnevieetrenomméeetquitoutsontemps	bonne vie et renommée et qui tout son temps
-ausédefaitde	a usé de fait de
-demarchandise,etaucunesfoizdefaitdechangepour	de marchandise , et aucunes foiz de fait de change pour
-soustenirla	soustenir la
-vieetestat	vie et estat
-delui,safemmeetenfans,enquoy	de lui , sa femme et enfans , en quoy
-etentoutesautreschosesils’..est	et en toutes autres choses il s ’ . . est
-estbienetdeuementgouverné,sansavoirestéreprins	est bien et deuement gouverné , sans avoir esté reprins
-,actaintneconvaincu	, actaint ne convaincu
-convaincud’.aucun	convaincu d ’ . aucun
-vilaincas,blasmeoureprouche,ettelement	vilain cas , blasme ou reprouche , et telement
-quepourlabonnerenomméede.lui,nostrebien	que pour la bonne renommée de . lui , nostre bien
-bienaméAnthoineVousy,receveur	bien amé Anthoine Vousy , receveur
-denozaidesenPoictouetdestailles	de noz aides en Poictou et des tailles
-misessus,tantpournozaffaires	mises sus , tant pour noz affaires
-affairescommepourlepaiementdes	affaires comme pour le paiement des
-gensd’armes	gens d ’ armes
-armeslogiezouditpaïs,l’	armes logiez oudit païs , l ’
-aordonnéet.faitsoncommisoupaïs	a ordonné et . fait son commis ou païs
-deThouarçoiset..enplusieurs	de Thouarçois et . . en plusieurs
-plusieursautreslieux..,enquoyils’estaussi	plusieurs autres lieux . . , en quoy il s ’ est aussi
-bienetnotablement	bien et notablement
-gouvernéetgouvernesanscequeaucun	gouverné et gouverne sans ce que aucun
-seplaigne	se plaigne
-delui,etque	de lui , et que
-depuisnaguères	depuis naguères
-naguèresnous..eussionsenvoyéennostreditpaïs	naguères nous . . eussions envoyé en nostre dit païs
-de..Poictounostreamé	de . . Poictou nostre amé
-etfealconseillermaistreJehan	et feal conseiller maistre Jehan
-Bureau,	Bureau ,
-tresorierdeFrance,pourreformer	tresorier de France , pour reformer
-toutesmanièresdegensde	toutes manières de gens de
-detouscas;etdepuisayonsdonnéaboliciongenerale	de tous cas ; et depuis ayons donné abolicion generale
-àtousleshabitansduditpaïsdetousles	à tous les habitans dudit païs de tous les
-casqu’ilzpourroientavoircommiset..perpetrez	cas qu ’ ilz pourroient avoir commis et . . perpetrez
-,tantengeneralqueenparticulier,supposé	, tant en general que en particulier , supposé
-qu’ilznefeussentexprimezen	qu ’ ilz ne feussent exprimez en
-nos..dicteslettres	nos . . dictes lettres
-lettresd’abolicion,exceptédecrimedelèzemajesté	lettres d ’ abolicion , excepté de crime de lèze majesté
+deJehanGendrot,marchant	de Jehan Gendrot , marchant
+demourantàThouars,contenantque,jaçoitce	demourant à Thouars , contenant que , jaçoit ce
+qu’ilsoithomme..debonne	qu ’ il soit homme . . de bonne
+vieetrenomméeetquitoutsontemps	vie et renommée et qui tout son temps
+ausédefaitdemarchandise,etaucunes	a usé de fait de marchandise , et aucunes
+foizdefaitdechangepoursoustenirlavieet	foiz de fait de change pour soustenir la vie et
+estatdelui	estat de lui
+,safemme	, sa femme
+femmeetenfans,en	femme et enfans , en
+enquoyet	en quoy et
+entoutesautreschoses	en toutes autres choses
+ils’estbienet	il s ’ est bien et
+deuementgouverné,sansavoirestéreprins	deuement gouverné , sans avoir esté reprins
+,actaint	, actaint
+actaintneconvaincud’	actaint ne convaincu d ’
+aucunvilain	aucun vilain
+vilain..cas,blasmeou	vilain . . cas , blasme ou
+reprouche,ettelement	reprouche , et telement
+quepourlabonne	que pour la bonne
+bonnerenomméedelui,nostre	bonne renommée de lui , nostre
+nostrebienamé	nostre bien amé
+AnthoineVousy	Anthoine Vousy
+Vousy,receveurde.nozaidesen	Vousy , receveur de . noz aides en
+Poictouetdestailles	Poictou et des tailles
+misessus	mises sus
+sus,tantpournoz	sus , tant pour noz
+nozaffairescommepourlepaiement..	noz affaires comme pour le paiement . .
+desgensd’armeslogiezoudit	des gens d ’ armes logiez oudit
+païs,l’aordonnéet	païs , l ’ a ordonné et
+faitsoncommisoupaïsde	fait son commis ou païs de
+Thouarçoisetenplusieursautreslieux,en.quoyil	Thouarçois et en plusieurs autres lieux , en . quoy il
+s’estaussibienetnotablementgouvernéet	s ’ est aussi bien et notablement gouverné et
+gouvernesansceque	gouverne sans ce que
+aucunseplaigne	aucun se plaigne
+delui,et	de lui , et
+etquedepuisnaguèresnouseussions	et que depuis naguères nous eussions
+envoyéennostreditpaïsde	envoyé en nostre dit païs de
+PoictounostreaméetfealconseillermaistreJehanBureau	Poictou nostre amé et feal conseiller maistre Jehan Bureau
+,tresorierdeFrance,pourreformertoutesmanières	, tresorier de France , pour reformer toutes manières
+degensde	de gens de
+touscas;..	tous cas ; . .
+etdepuisayonsdonné	et depuis ayons donné
+aboliciongeneraleàtousleshabitansduditpaïsdetous	abolicion generale à tous les habitans dudit païs de tous
+lescasqu’ilzpourroientavoircommiset	les cas qu ’ ilz pourroient avoir commis et
+perpetrez,tantengeneralqueen	perpetrez , tant en general que en
+particulier,supposéqu’	particulier , supposé qu ’
+ilznefeussentexprimezennosdicteslettres	ilz ne feussent exprimez en nos dictes lettres
+d’abolicion,exceptéde	d ’ abolicion , excepté de
+crimedelèzemajesté	crime de lèze majesté
 ,herezieetmeurdre	, herezie et meurdre
-d’aguetapensé	d ’ aguet apensé
-..Neantmoins,pour	. . Neantmoins , pour
-pourcequetroisansaouenviron	pour ce que trois ans a ou environ
-environparavantnostredicteabolicion,	environ paravant nostre dicte abolicion ,
-leditsuppliantachetta	ledit suppliant achetta
-achettaoufistachetter	achetta ou fist achetter
-deungappelléFremin	de ung appellé Fremin
-Caignettrenteouquarante..milliersdemaillesquel	Caignet trente ou quarante . . milliers de mailles que l
-’enavoitapportéesdupaïs	’ en avoit apportées du païs
-duLiègeeteneutcinqousixpour	du Liège et en eut cinq ou six pour
-ungdeniertournois,et.lesexploicta	ung denier tournois , et . les exploicta
-,etenbailloitaucunesfoiz	, et en bailloit aucunes foiz
-foizquatre,aucunes	foiz quatre , aucunes
-foizcinqpourungdenier;carlors	foiz cinq pour ung denier ; car lors
-onnepovoitbonnementfinerdechange,obstantque	on ne povoit bonnement finer de change , obstant que
-bienlongtemps	bien longtemps
-paravantonn’avoitennoz..monnoyesforgié	paravant on n ’ avoit en noz . . monnoyes forgié
-doublesmailles,	doubles mailles ,
-deniersneautremenuchangeetenavoitle	deniers ne autre menu change et en avoit le
-peuplegrantdisetteousouffrance,	peuple grant disette ou souffrance ,
-carsouventesfoizles	car souventes foiz les
-povresgens	povres gens
-envoyentquerirmaillede	envoyent querir maille de
-moustarde,dechandelleouautres..petiteschosesà	moustarde , de chandelle ou autres . . petites choses à
-eulxnecessaires,	eulx necessaires ,
-,quin’ontdequoypluslargementenacheter	, qui n ’ ont de quoy plus largement en acheter
-;etparce	; et par ce
-aussiquel’enaaucunement	aussi que l ’ en a aucunement
-acoustumédeuserdesdictes	acoustumé de user desdictes
-maillesenfaitdechangeau	mailles en fait de change au
-païs,ilnecuidoit.enriens	païs , il ne cuidoit . en riens
-riensmesprendre...Etsupposéqueaucune	riens mesprendre . . . Et supposé que aucune
-aucunefaultey	aucune faulte y
-eust,siendevroit..ilestre	eust , si en devroit . . il estre
-quictemoyennantnostreaboliciondessusdicte,et	quicte moyennant nostre abolicion dessus dicte , et
-etqueleditFreminCaignetaesté	et que ledit Fremin Caignet a esté
-trouvédepuissaisydecertainsfaulxdoubles	trouvé depuis saisy de certains faulx doubles
-etdeniers,dontledit.suppliant	et deniers , dont ledit . suppliant
-n’ariensveune	n ’ a riens veu ne
-neeu,etàceste	ne eu , et à ceste
-occasion..aestéprinsetmenéàParis	occasion . . a esté prins et mené à Paris
-Parisprisonnierpardeversles	Paris prisonnier par devers les
+d’aguetapensé..Neantmoins,pour	d ’ aguet apensé . . Neantmoins , pour
+pourcequetrois..ansaou	pour ce que trois . . ans a ou
+ouenvironparavantnostredicteabolicion,leditsuppliant	ou environ paravant nostre dicte abolicion , ledit suppliant
+suppliantachettaoufistachetterdeung	suppliant achetta ou fist achetter de ung
+appelléFreminCaignettrente	appellé Fremin Caignet trente
+ouquarantemilliersdemaillesquel’en	ou quarante milliers de mailles que l ’ en
+avoitapportéesdupaïsduLiègeet	avoit apportées du païs du Liège et
+eteneutcinqousixpour	et en eut cinq ou six pour
+ungdeniertournois,etlesexploicta,et	ung denier tournois , et les exploicta , et
+enbailloitaucunesfoizquatre	en bailloit aucunes foiz quatre
+quatre,aucunesfoizcinqpourungdenier;	quatre , aucunes foiz cinq pour ung denier ;
+;carlors	; car lors
+onnepovoitbonnement..finer	on ne povoit bonnement . . finer
+dechange,.obstantquebienlongtempsparavantonn	de change , . obstant que bien longtemps paravant on n
+’avoiten..	’ avoit en . .
+.nozmonnoyes..	. noz monnoyes . .
+forgié.doublesmailles,	forgié . doubles mailles ,
+deniersneautremenu	deniers ne autre menu
+menuchangeetenavoitlepeuplegrantdisette	menu change et en avoit le peuple grant disette
+disetteousouffrance,carsouventesfoiz	disette ou souffrance , car souventes foiz
+lespovresgensenvoyentquerirmaille	les povres gens envoyent querir maille
+de..moustarde	de . . moustarde
+,dechandelleouautres	, de chandelle ou autres
+petiteschosesàeulxnecessaires	petites choses à eulx necessaires
+necessaires,quin’ontdequoypluslargementen	necessaires , qui n ’ ont de quoy plus largement en
+enacheter;etparceaussique	en acheter ; et par ce aussi que
+quel’enaaucunementacoustumé	que l ’ en a aucunement acoustumé
+deuserdesdictesmailles	de user desdictes mailles
+enfaitdechangeaupaïs,il	en fait de change au païs , il
+necuidoiten	ne cuidoit en
+riensmesprendre.Et	riens mesprendre . Et
+supposéqueaucunefaulte	supposé que aucune faulte
+yeust,siendevroitil.estrequictemoyennant	y eust , si en devroit il . estre quicte moyennant
+nostreaboliciondessusdicte,etqueledit	nostre abolicion dessus dicte , et que ledit
+leditFreminCaignetaestétrouvédepuissaisy	ledit Fremin Caignet a esté trouvé depuis saisy
+decertains..faulxdoublesetdeniers,dont	de certains . . faulx doubles et deniers , dont
+leditsuppliantn’ariensveu	ledit suppliant n ’ a riens veu
+neeu,etàcesteoccasion..aesté	ne eu , et à ceste occasion . . a esté
+estéprins..etmenéàParisprisonnierpardeversles	esté prins . . et mené à Paris prisonnier par devers les
 lesgeneraulxmaistresdenozmonnoyes,etledit	les generaulx maistres de noz monnoyes , et ledit
-suppliantaestéadjournéà	suppliant a esté adjourné à
-comparoirenpersonnepardevantlesdizgeneraulxmaistres	comparoir en personne par devant les diz generaulx maistres
-de..nosdictesmonnoies	de . . nos dictes monnoies
-àParis.,aulendemain	à Paris . , au lendemain
-delasaint	de la saint
-Andréprouchainementvenant.Et..doubte	André prouchainement venant . Et . . doubte
-doubteiceluisuppliantque,soubzumbrede.	doubte icelui suppliant que , soubz umbre de .
-cequedit	ce que dit
-est,l’on	est , l ’ on
-le.vueillemolesteret	le . vueille molester et
-travailler,etdireleditcasnonestrecomprins	travailler , et dire le dit cas non estre comprins
+suppliantaestéadjournéàcomparoirenpersonne	suppliant a esté adjourné à comparoir en personne
+personnepardevant	personne par devant
+lesdizgeneraulxmaistresdenosdictesmonnoiesàParis	les diz generaulx maistres de nos dictes monnoies à Paris
+Paris,aulendemaindelasaint..Andréprouchainementvenant.	Paris , au lendemain de la saint . . André prouchainement venant .
+Etdoubteiceluisuppliantque,soubz	Et doubte icelui suppliant que , soubz
+umbredecequeditest,l’on	umbre de ce que dit est , l ’ on
+levueillemolesterettravailler,etdireledit	le vueille molester et travailler , et dire le dit
+casnonestrecomprins	cas non estre comprins
+comprinsenl’.aboliciondessusdicte,ensongrant	comprins en l ’ . abolicion dessus dicte , en son grant
+prejudiceetdommaige,	prejudice et dommaige ,
+,separnousne	, se par nous ne
+neluiestoitsurce	ne lui estoit sur ce
+pourveu.deremèdeconvenable,commeil	pourveu . de remède convenable , comme il
+ildit,requeranthumblement	il dit , requerant humblement
+que,attendu	que , attendu
+cequeditestet	ce que dit est et
+etqueauditpaïsa	et que audit païs a
+couruetencorescourentplusieurs	couru et encores courent plusieurs
+etdiversesmonnoyes,et	et diverses monnoyes , et
+quelesmaillesdessusdictesn’estoientpointmarquées	que les mailles dessus dictes n ’ estoient point marquées
+ànostremarque,etenauséen	à nostre marque , et en a usé en
+faisantchangeou	faisant change ou
+faitdesadictemarchandise,en.defaultd	fait de sa dicte marchandise , en . default d
+’autrechange	’ autre change
+change,sanscontraindreaucunàlesprendre,mais	change , sans contraindre aucun à les prendre , mais
+lesprenoitl’en	les prenoit l ’ en
+voulentiers,etseleditcasn’estdeclairé	voulentiers , et se ledit cas n ’ est declairé
 enl’abolicion	en l ’ abolicion
-dessusdicte,.ensongrantprejudiceetdommaige,	dessus dicte , . en son grant prejudice et dommaige ,
-separnousne	se par nous ne
-luiestoitsurcepourveuderemèdeconvenable	lui estoit sur ce pourveu de remède convenable
-convenable,comme.ildit,requeranthumblementque	convenable , comme . il dit , requerant humblement que
-,..attendu	, . . attendu
-cequeditestetque	ce que dit est et que
-queauditpaïsacouruetencorescourentplusieurset	que audit païs a couru et encores courent plusieurs et
-etdiversesmonnoyes,etquelesmaillesdessusdictes	et diverses monnoyes , et que les mailles dessus dictes
-n’estoientpointmarquéesànostre	n ’ estoient point marquées à nostre
-marque,	marque ,
-,etenausé	, et en a usé
-uséenfaisantchangeoufaitdesadictemarchandise,	usé en faisant change ou fait de sa dicte marchandise ,
-endefault.d’	en default . d ’
-autrechange	autre change
-change,sanscontraindreaucunàlesprendre	change , sans contraindre aucun à les prendre
-,maislesprenoit	, mais les prenoit
-prenoitl’envoulentiers,	prenoit l ’ en voulentiers ,
-etseleditcasn	et se ledit cas n
-’estdeclairéenl’aboliciondessus	’ est declairé en l ’ abolicion dessus
-dicte,aussin’	dicte , aussi n ’
-estilpasexpressement[	est il pas expressement [
-nommé]enl’expedicion	nommé ] en l ’ expedicion
-,nousluivueillonssubvenirdenosdizgrace.	, nous lui vueillons subvenir de nos diz grace .
-etremède.Pourquoynous,etc.,audit	et remède . Pour quoy nous , etc ., audit
-suppliantavonsoctroyéetoctroyons,	suppliant avons octroyé et octroyons ,
-,degraceespecial	, de grace especial
-parcespresentes	par ces presentes
-,queparle	, que par le
-lemoyendel’abolissiondessusdicte,ainsi	le moyen de l ’ abolission dessus dicte , ainsi
-ainsigeneralementdonnéeauxhabitansduditpaïsdePoictou,	ainsi generalement donnée aux habitans dudit païs de Poictou ,
-,ildemeurequicte	, il demeure quicte
-etpaisibleducasdessusdit	et paisible du cas dessus dit
-dit,tout	dit , tout
-toutainsicommes’ilfeustenicelle	tout ainsi comme s ’ il feust en icelle
-abolicionexpressementdeclairé,etlequel	abolicion expressement declairé , et lequel
-cas,entantquebesoingest,	cas , en tant que besoing est ,
-,nousavonsabolyetabolissons	, nous avons aboly et abolissons
-,etl’avons	, et l ’ avons
-avonsremis,quictéetpardonné	avons remis , quicté et pardonné
-,etc.Sidonnons	, etc . Si donnons
-donnonsen.mandementànosamezetfeaulxconseillersles	donnons en . mandement à nos amez et feaulx conseillers les
-genstenans	gens tenans
-tenansetquitendrontnostreParlementàParis,aux	tenans et qui tendront nostre Parlement à Paris , aux
-auxgeneraulxmaistresdenozmonnoyes,au	aux generaulx maistres de noz monnoyes , au
-seneschal.dePoictouetàtousnoz	seneschal . de Poictou et à tous noz
-autresjusticiers,etc.	autres justiciers , etc .
-DonnéàRazillé,ou	Donné à Razillé , ou
-moisdeseptembrel’andegrace	mois de septembre l ’ an de grace
-milcccc.quarante	mil cccc . quarante
-quaranteethuit.,etdenostrerègnelexxvi	quarante et huit . , et de nostre règne le xxvi
-me.Ainsisigné	me . Ainsi signé
-:Parleroy,l	: Par le roy , l
-l’evesquedeMagalonne,lessires	l ’ evesque de Magalonne , les sires
-dePrecigny	de Precigny
-PrecignyetdeGaucourtetautrespresens.	Precigny et de Gaucourt et autres presens .
-.Rolant.—Visa.	. Rolant .— Visa .
-Contentor..E.	Contentor . . E .
+aboliciondessusdicte,aussin’estilpasexpressement	abolicion dessus dicte , aussi n ’ est il pas expressement
+[nommé]	[ nommé ]
+enl’expedicion	en l ’ expedicion
+,nousluivueillonssubvenirdenosdiz	, nous lui vueillons subvenir de nos diz
+graceetremède.Pourquoynous	grace et remède . Pour quoy nous
+nous,etc.,auditsuppliant	nous , etc ., audit suppliant
+avons.octroyéetoctroyons	avons . octroyé et octroyons
+,degrace	, de grace
+especialparcespresentes,queparlemoyende	especial par ces presentes , que par le moyen de
+l’abolissiondessusdicte,ainsigeneralement	l ’ abolission dessus dicte , ainsi generalement
+donnéeauxhabitansduditpaïsdePoictou,il	donnée aux habitans dudit païs de Poictou , il
+demeurequicteet..paisibleducasdessus	demeure quicte et . . paisible du cas dessus
+dit,toutainsicommes’il	dit , tout ainsi comme s ’ il
+feustenicelleabolicionexpressement	feust en icelle abolicion expressement
+declairé,etlequel.cas,entant	declairé , et lequel . cas , en tant
+quebesoing.est,	que besoing . est ,
+nousavons.abolyetabolissons,etl’avons	nous avons . aboly et abolissons , et l ’ avons
+remis,quictéet	remis , quicté et
+pardonné,etc.Sidonnonsen	pardonné , etc . Si donnons en
+enmandementànosamezetfeaulxconseillerslesgens	en mandement à nos amez et feaulx conseillers les gens
+tenansetqui	tenans et qui
+tendrontnostreParlementà	tendront nostre Parlement à
+Paris,auxgeneraulxmaistresdenozmonnoyes	Paris , aux generaulx maistres de noz monnoyes
+,auseneschaldePoictou.età	, au seneschal de Poictou . et à
+tousnozautresjusticiers	tous noz autres justiciers
+,etc.DonnéàRazillé,ou	, etc . Donné à Razillé , ou
+oumoisdeseptembrel’an	ou mois de septembre l ’ an
+andegracemil..cccc.	an de grace mil . . cccc .
+quaranteethuit,etdenostrerègnele	quarante et huit , et de nostre règne le
+xxvime.Ainsi	xxvi me . Ainsi
+signé:Par	signé : Par
+leroy,l’evesquedeMagalonne	le roy , l ’ evesque de Magalonne
+,lessiresdePrecignyet	, les sires de Precigny et
+etdeGaucourtetautrespresens.	et de Gaucourt et autres presens .
+Rolant.—Visa.Contentor.E...	Rolant .— Visa . Contentor . E . . .
 Froment.	Froment .

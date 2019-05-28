@@ -1,39 +1,44 @@
-Philippes,parlagracedeDieu,rois	Philippes , par la grace de Dieu , rois
-deFrance,ànostreaméetfeelle	de France , à nostre amé et feel le
-seignord'..EngleureHuguesLarcevesqueHugueLarcevesque,	seignor d ' . . Engleure Hugues Larcevesque Hugue Larcevesque ,
-,.salut.Labrietédutemps,liestatdes	, . salut . La brieté du temps , li estat des
-desbesoignes,larebelliondenosennemisdespartiesde	des besoignes , la rebellion de nos ennemis des parties de
-Flandres,quidejourenjours'efforcent	Flandres , qui de jour en jour s ' efforcent
-efforcentdeferegriefetdespizetont	efforcent de fere grief et despiz et ont
-faitdenouvel;,	fait de nouvel ;,
-sicommenouscroionsquevousavezoï,et..	si comme nous croions que vous avez oï , et . .
-sevantentqueilveulent	se vantent que il veulent
-àcertain.jourcombatrecontrenous,	à certain . jour combatre contre nous ,
-nousmeuventà	nous meuvent à
-àcequenousauplushasteementquenouspoons	à ce que nous au plus hasteement que nous poons
-,alliensallions	, alliens allions
-allionsèsditespartiespourcombattreàeuset	allions ès dites parties pour combattre à eus et
-lourorguilleur	lour orguil leur
-ougueilabbatre,ol'aide	ougueil abbatre , o l ' aide
-deDieuquiestgarde	de Dieu qui est garde
-guardede..	guarde de . .
-véritéetdejustice	vérité et de justice
-,etseronsàArrazpour	, et serons à Arraz pour
+Philippes,parlagracedeDieu	Philippes , par la grace de Dieu
+,roisdeFrance,ànostre..amé	, rois de France , à nostre . . amé
+améetfeelle	amé et feel le
+seignord'Engleure	seignor d ' Engleure
+HuguesLarcevesqueHugueLarcevesque,..	Hugues Larcevesque Hugue Larcevesque , . .
+salut.Labrietédutemps	salut . La brieté du temps
+,liestat..	, li estat . .
+desbesoignes,larebelliondenos	des besoignes , la rebellion de nos
+ennemisdespartiesdeFlandres	ennemis des parties de Flandres
+Flandres,qui.	Flandres , qui .
+.dejourenjours'efforcentdefere	. de jour en jour s ' efforcent de fere
+feregriefetdespizet	fere grief et despiz et
+etontfaitdenouvel;,	et ont fait de nouvel ;,
+si..commenouscroions	si . . comme nous croions
+quevous	que vous
+avezoï,etsevantentque	avez oï , et se vantent que
+ilveulentàcertainjourcombatrecontrenous,	il veulent à certain jour combatre contre nous ,
+,nousmeuventàcequenous.au	, nous meuvent à ce que nous . au
+plushasteement.que	plus hasteement . que
+nouspoons,alliensallionsèsditespartiespour	nous poons , alliens allions ès dites parties pour
+combattreàeus	combattre à eus
+etlourorguilleurougueilabbatre,ol	et lour orguil leur ougueil abbatre , o l
+l'aidedeDieuquiestgardeguarde	l ' aide de Dieu qui est garde guarde
+guardedevéritéetdejustice,	guarde de vérité et de justice ,
+etseronsàArraz	et serons à Arraz
 pourpoursuivrede	pour poursuivre de
-delànostre.voiesanzdelai,le	de là nostre . voie sanz delai , le
-dimancheaprèslaquinzainedecestemiaoust	dimanche après la quinzaine de ceste mi aoust
-,etpourcevousescrisonsbriement	, et pour ce vous escrisons briement
-briement,enpriantetenrequerantvostre	briement , en priant et en requerant vostre
-feautésiacertescommeplusnous	feauté si acertes comme plus nous
-nouspoons,etavec	nous poons , et avec
-avecceenmandantàvousque..,	avec ce en mandant à vous que . . ,
-sicommevousaurezetavezchiernous	si comme vous aurez et avez chier nous
-etleroiaume	et le roiaume
-,vousvoushastezdevenirànous	, vous vous hastez de venir à nous
-,sibienaccompaignezde	, si bien accompaignez de
-gentàchevaletdepiécomme	gent à cheval et de pié comme
-vouspourrezmieuzmieux.Donnéà	vous pourrez mieuz mieux . Donné à
-àParis,xxi.	à Paris , xxi .
-.jouroumoisd'..	. jour ou mois d ' . .
-aoust,.l'	aoust , . l '
-andegracem.ccc.et	an de grace m . ccc . et
+lànostrevoiesanzdelai,le	là nostre voie sanz delai , le
+ledimancheaprèsla	le dimanche après la
+quinzainedecestemiaoust,	quinzaine de ceste mi aoust ,
+etpource	et pour ce
+vousescrisonsbriement,en.prianteten	vous escrisons briement , en . priant et en
+requerantvostrefeautésiacertescommeplusnous	requerant vostre feauté si acertes comme plus nous
+poons,..et	poons , . . et
+etavecceenmandantàvousque,si	et avec ce en mandant à vous que , si
+commevousaurezetavezchier	comme vous aurez et avez chier
+nousetleroiaume,	nous et le roiaume ,
+vousvous.hastezdevenirànous	vous vous . hastez de venir à nous
+,sibienaccompaignezdegentà	, si bien accompaignez de gent à
+chevaletdepiécommevouspourrezmieuzmieux.	cheval et de pié comme vous pourrez mieuz mieux .
+.DonnéàParis,..xxi	. Donné à Paris , . . xxi
+xxi.jour..	xxi . jour . .
+.oumois	. ou mois
+d'aoust,l'	d ' aoust , l '
+andegracem.ccc.et.trois.	an de grace m . ccc . et . trois .

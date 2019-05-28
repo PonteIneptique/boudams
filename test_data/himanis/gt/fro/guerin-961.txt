@@ -1,96 +1,107 @@
-Charles,filzduroydeFrance,regent	Charles , filz du roy de France , regent
-leroyaume,dauphindeViennois,ducde	le royaume , dauphin de Viennois , duc de
-Berry,deTouraineetcontede	Berry , de Touraine et conte de
-Poictou.Anozamez	Poictou . A noz amez
+Charles,filzduroydeFrance,	Charles , filz du roy de France ,
+,regentleroyaume,dauphindeViennois,	, regent le royaume , dauphin de Viennois ,
+ducdeBerry	duc de Berry
+,de..Touraine	, de . . Touraine
+TouraineetcontedePoictou	Touraine et conte de Poictou
+Poictou.A	Poictou . A
+nozamez	noz amez
 etfeaulxconseillers	et feaulx conseillers
-demonditseigneuretde	de mon dit seigneur et de
-nous,lesgenstenens	nous , les gens tenens
-tenensleParlement.	tenens le Parlement .
-de.mondit	de . mon dit
-ditseigneurennostrevilledePoictiers	dit seigneur en nostre ville de Poictiers
-Poictiers,salut	Poictiers , salut
-salutetdilection.Pour	salut et dilection . Pour
-PourcequelesAnglois,anciens	Pour ce que les Anglois , anciens
-anciensennemisetadversairesdemon	anciens ennemis et adversaires de mon
-monditseigneuretdenous,	mon dit seigneur et de nous ,
-,sonten	, sont en
-plusieurspartiesdeceroyaumeetmesmementvers	plusieurs parties de ce royaume et mesmement vers
-verslesmarchesde	vers les marches de
-nostrepaïsdePoictou.,	nostre païs de Poictou . ,
-etaussiquedenouvel..estvenuà	et aussi que de nouvel . . est venu à
-nostrecongnoissanceque	nostre congnoissance que
-,depuispeu.detempsença	, depuis peu . de temps ença
-,aucunsd’iceulxennemisetadversaires,	, aucuns d ’ iceulx ennemis et adversaires ,
-,ouautres.gensd’armes	, ou autres . gens d ’ armes
-armesetdecompaignies,soubzumbred..’iceulxennemis	armes et de compaignies , soubz umbre d . . ’ iceulx ennemis
-,sesontefforciez	, se sont efforciez
-deeulxbouter	de eulx bouter
-ennostredit	en nostre dit
-païsdePoictouetdeyprocederparvoyede	païs de Poictou et de y proceder par voye de
-faitetdeguerre,etavecceprendre	fait et de guerre , et avec ce prendre
-etoccuperaucunesdesvilles	et occuper aucunes des villes
-,chasteauxetforteressesd’icelluipays	, chasteaux et forteresses d ’ icellui pays
-,nontenables	, non tenables
-etbienemparez.	et bien emparez .
-.,donttrèsgrantinconvenientetdommage	. , dont très grant inconvenient et dommage
-dommageirreparablesepourroitensuir,ouprejudice	dommage irreparable se pourroit ensuir , ou prejudice
-demonditseigneur,denousetaussi	de mon dit seigneur , de nous et aussi
-aussideshommes,vassaulxetsubgiezdemon	aussi des hommes , vassaulx et subgiez de mon
-ditseigneuretde..nous	dit seigneur et de . . nous
-,etdelachosepublique,	, et de la chose publique ,
-separnousn..’estoit	se par nous n . . ’ estoit
-surcehastivementpourveu.Pour..ceest	sur ce hastivement pourveu . Pour . . ce est
-ilquenous,qui	il que nous , qui
-denostrepovoir	de nostre povoir
-volonsobvierauxentreprinsesdesdessus	volons obvier aux entreprinses des dessus
-diz,etpourveoiraubienetseurtédemon	diz , et pourveoir au bien et seurté de mon
-ditseigneuretdenousetdeladicte	dit seigneur et de nous et de la dicte
-chosepublique,vousmandons,	chose publique , vous mandons ,
-commandonsetestroictementenjoingnonsquetantostet	commandons et estroictement enjoingnons que tantost et
-etsanzdelayvousou..lesaucunsdevous,	et sanz delay vous ou . . les aucuns de vous ,
-,voustransportezèslieux,villes	, vous transportez ès lieux , villes
-,chasteaulx	, chasteaulx
-chasteaulx,forteresseseteglisesfortiffiéesdenostre	chasteaulx , forteresses et eglises fortiffiées de nostre
-dictpaïsetcontédePoictou,	dict païs et conté de Poictou ,
-etdespaïsetlieuxcirconvoisinsetenclavezen	et des païs et lieux circonvoisins et enclavez en
-ycelluypaïsetconté,eticeulxlieux	ycelluy païs et conté , et iceulx lieux
-,villes,chasteaulx,forteresseset	, villes , chasteaulx , forteresses et
-eteglises,avec	et eglises , avec
-aveclafortiffication	avec la fortiffication
-fortifficationdesdicteseglises	fortiffication des dictes eglises
-fortiffiées,appellezavecvousouceulxdevousqui	fortiffiées , appellez avec vous ou ceulx de vous qui
-quiencevaquerontetentendronttelespersonnescommebonvous	qui en ce vaqueront et entendront teles personnes comme bon vous
-semblera..,veezetvisitezdiligemment.En	semblera . . , veez et visitez diligemment . En
-faisantincontinantetsansdelayladicte	faisant incontinant et sans delay la dicte
-visitacion,faictesdemoliretabbatretousleslieux,	visitacion , faictes demolir et abbatre tous les lieux ,
-villes,chasteaulxetforteressesquevousverrezet	villes , chasteaulx et forteresses que vous verrez et
-ettrouverezestrenontenables..nedefensables,	et trouverez estre non tenables . . ne defensables ,
-,etlestenables	, et les tenables
-etdefensablesfaitesavitailleretreparerbien	et defensables faites avitailler et reparer bien
-etsouffisanment;et	et souffisanment ; et
-avecce,faitespourveoir	avec ce , faites pourveoir
-debonneetseuregardeetaussid	de bonne et seure garde et aussi d
-’armeuresetdetrait.Etàcefaire	’ armeures et de trait . Et à ce faire
-fairecontraignezoufaitescontraindrevigueureusementetsansaucundeport	faire contraignez ou faites contraindre vigueureusement et sans aucun deport
-deport,partouteslesvoyesetmanieres	deport , par toutes les voyes et manieres
-quevousverrezestreexpediensetconvenables,	que vous verrez estre expediens et convenables ,
-tousceulxquipourceferontàcontraindre,et	tous ceulx qui pour ce feront à contraindre , et
-telementquepardefautdeschoses..	telement que par defaut des choses . .
-.dessusdictesoud’aucunesd	. dessus dictes ou d ’ aucunes d
-d’icellesaucundommaigeouinconvenientnesepuisseou	d ’ icelles aucun dommaige ou inconvenient ne se puisse ou
-doyeensuir,	doye ensuir ,
-ouprejudicedemonditseigneur	ou prejudice de mon dit seigneur
-,denousetdes	, de nous et des
+demondit	de mon dit
+seigneuretdenous,lesgenstenensleParlement	seigneur et de nous , les gens tenens le Parlement
+demonditseigneurennostre	de mon dit seigneur en nostre
+villedePoictiers.	ville de Poictiers .
+,salutetdilection.	, salut et dilection .
+.Pour..ce	. Pour . . ce
+cequelesAnglois,	ce que les Anglois ,
+anciensennemisetadversairesdemonditseigneuretde	anciens ennemis et adversaires de mon dit seigneur et de
+denous,sontenplusieurs	de nous , sont en plusieurs
+partiesdeceroyaumeetmesmementverslesmarchesde	parties de ce royaume et mesmement vers les marches de
+denostrepaïsdePoictou,etaussiquedenouvel	de nostre païs de Poictou , et aussi que de nouvel
+nouvelestvenuànostre	nouvel est venu à nostre
+congnoissanceque,..depuis	congnoissance que , . . depuis
+peudetempsença,aucunsd’iceulxennemis	peu de temps ença , aucuns d ’ iceulx ennemis
+ennemisetadversaires	ennemis et adversaires
+,ouautresgens.d	, ou autres gens . d
+’armes.etdecompaignies,	’ armes . et de compaignies ,
+,soubzumbre	, soubz umbre
+umbred’	umbre d ’
+iceulxennemis..,	iceulx ennemis . . ,
+se..sontefforciez	se . . sont efforciez
+deeulxbouterennostre	de eulx bouter en nostre
+nostreditpaïsdePoictouetde	nostre dit païs de Poictou et de
+de.yprocederparvoyedefaitet	de . y proceder par voye de fait et
+etdeguerre	et de guerre
+,etavecceprendreetoccuperaucunesdes	, et avec ce prendre et occuper aucunes des
+villes,chasteauxetforteressesd’icellui	villes , chasteaux et forteresses d ’ icellui
+pays,non	pays , non
+tenablesetbienemparez,donttrès	tenables et bien emparez , dont très
+grantinconvenientetdommageirreparable	grant inconvenient et dommage irreparable
+sepourroit..ensuir,	se pourroit . . ensuir ,
+ou.prejudicedemonditseigneur,de	ou . prejudice de mon dit seigneur , de
+nousetaussi	nous et aussi
+deshommes,..vassaulx	des hommes , . . vassaulx
+etsubgiez	et subgiez
+subgiezdemonditseigneuretde..nous,etde	subgiez de mon dit seigneur et de . . nous , et de
+lachose	la chose
+chosepublique,	chose publique ,
+separnous	se par nous
+n’estoitsur	n ’ estoit sur
+surcehastivementpourveu.Pourceest	sur ce hastivement pourveu . Pour ce est
+ilque..nous	il que . . nous
+,quidenostre	, qui de nostre
+nostrepovoirvolonsobvierauxentreprinsesdesdessusdiz	nostre povoir volons obvier aux entreprinses des dessus diz
+,et..pourveoir	, et . . pourveoir
+pourveoiraubienetseurtédemondit	pourveoir au bien et seurté de mon dit
+ditseigneuretdenousetdela	dit seigneur et de nous et de la
+dictechosepublique,vousmandons,commandons	dicte chose publique , vous mandons , commandons
+etestroictement	et estroictement
+estroictementenjoingnonsquetantostetsanzdelayvousoules	estroictement enjoingnons que tantost et sanz delay vous ou les
+aucunsdevous,vous	aucuns de vous , vous
+transportezèslieux,villes,	transportez ès lieux , villes ,
+chasteaulx,forteresseseteglisesfortiffiées	chasteaulx , forteresses et eglises fortiffiées
+denostredictpaïsetcontéde	de nostre dict païs et conté de
+dePoictou,etdespaïsetlieuxcirconvoisinsetenclavez	de Poictou , et des païs et lieux circonvoisins et enclavez
+enycelluypaïset	en ycelluy païs et
+conté,eticeulxlieux,villes,chasteaulx,	conté , et iceulx lieux , villes , chasteaulx ,
+forteresseseteglises,aveclafortiffication	forteresses et eglises , avec la fortiffication
+desdicteseglises	des dictes eglises
+eglisesfortiffiées,appellezavecvousouceulxdevousqui	eglises fortiffiées , appellez avec vous ou ceulx de vous qui
+quience	qui en ce
+vaquerontetentendronttelespersonnescomme	vaqueront et entendront teles personnes comme
+commebonvoussemblera,veezetvisitezdiligemment.	comme bon vous semblera , veez et visitez diligemment .
+.Enfaisantincontinant	. En faisant incontinant
+etsansdelayladictevisitacion,faictesdemoliret	et sans delay la dicte visitacion , faictes demolir et
+etabbatretousleslieux	et abbatre tous les lieux
+,villes,chasteaulxetforteressesquevousverrez	, villes , chasteaulx et forteresses que vous verrez
+verrezettrouverezestrenontenablesnedefensables,etles..	verrez et trouverez estre non tenables ne defensables , et les . .
+tenablesetdefensables	tenables et defensables
+faitesavitailleretreparerbien	faites avitailler et reparer bien
+etsouffisanment;etavecce,faitespourveoirde	et souffisanment ; et avec ce , faites pourveoir de
+bonneetseure	bonne et seure
+gardeet	garde et
+aussid’armeuresetdetrait	aussi d ’ armeures et de trait
+trait.Etàcefairecontraignezoufaitescontraindrevigueureusement	trait . Et à ce faire contraignez ou faites contraindre vigueureusement
+etsansaucun	et sans aucun
+deport,partouteslesvoyes	deport , par toutes les voyes
+etmanieresquevousverrezestreexpedienset	et manieres que vous verrez estre expediens et
+etconvenables,	et convenables ,
+,tousceulx	, tous ceulx
+quipourceferontàcontraindre,ettelementque	qui pour ce feront à contraindre , et telement que
+quepardefautdeschosesdessusdictesoud’aucunes	que par defaut des choses dessus dictes ou d ’ aucunes
+d’icellesaucundommaigeou	d ’ icelles aucun dommaige ou
+inconvenientnese	inconvenient ne se
+sepuisseou	se puisse ou
+doye..ensuir,ouprejudicedemonditseigneur,	doye . . ensuir , ou prejudice de mon dit seigneur ,
+denousetdes	de nous et des
 dizhommes,vassaulx	diz hommes , vassaulx
-etsubgiez.de	et subgiez . de
-ladictechosepublique.	la dicte chose publique .
-Carainsilevoulonsetnousplaist	Car ainsi le voulons et nous plaist
-estrefait	estre fait
-,nonobstantquelxconques	, non obstant quelxconques
-allegacions,opposicionsouappellacionsfaictesouàfaire,	allegacions , opposicions ou appellacions faictes ou à faire ,
-etlettressubreptices,empetréesouà	et lettres subreptices , empetrées ou à
-empetrer,àce	empetrer , à ce
-cecontraires.DonnéàViennelezJargueau,le	ce contraires . Donné à Vienne lez Jargueau , le
-lexxvmejourd’aoustl’	le xxvme jour d ’ aoust l ’
-’andegrace	’ an de grace
-gracemilcccc.etvingt.	grace mil cccc . et vingt .
+etsubgiezdeladicte	et subgiez de la dicte
+chosepublique.Carainsi	chose publique . Car ainsi
+levoulonsetnousplaistestrefait,.	le voulons et nous plaist estre fait , .
+nonobstantquelxconquesallegacions	non obstant quelxconques allegacions
+,opposicionsouappellacionsfaictesouàfaire,	, opposicions ou appellacions faictes ou à faire ,
+etlettressubreptices,empetréesou	et lettres subreptices , empetrées ou
+àempetrer,àcecontraires.	à empetrer , à ce contraires .
+DonnéàVienne	Donné à Vienne
+lezJargueau,.lexxvmejour	lez Jargueau , . le xxvme jour
+jourd’aoustl’andegrace	jour d ’ aoust l ’ an de grace
+gracemilcccc.et	grace mil cccc . et

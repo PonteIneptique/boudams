@@ -1,100 +1,104 @@
-Charles,	Charles ,
-,filsduroydeFrance,	, fils du roy de France ,
-regentleroyaume.,dalphindeViennois,	regent le royaume . , dalphin de Viennois ,
-,ducdeBerry,deTouraineetcontede	, duc de Berry , de Touraine et conte de
-Poictou.Anozamezetfeaulxconseilliers	Poictou . A noz amez et feaulx conseilliers
-demonseigneuretde.nous	de monseigneur et de . nous
-nous,les	nous , les
-genstenansleParlementdePoictiers,salutet	gens tenans le Parlement de Poictiers , salut et
-dilection.Receueavonsl’	dilection . Receue avons l ’
-umblesupplicaciondesmaire	umble supplicacion des maire
-maire,eschevinsetautresmanansethabitansen	maire , eschevins et autres manans et habitans en
-lavilledelaRochelle	la ville de la Rochelle
-Rochelle,contenantque,commeilzaientestéetsoient	Rochelle , contenant que , comme ilz aient esté et soient
-soientvraizbons.	soient vraiz bons .
-etloyaulxsubgiezdemonseigneur.	et loyaulx subgiez de monseigneur .
-.etdenous..	. et de nous . .
-,etaient..euet	, et aient . . eu et
-encoresaientàsupporterplusieurs	encores aient à supporter plusieurs
-gransfraizetchargespourgarderetconserverla	grans fraiz et charges pour garder et conserver la
-dictevilleenlabonne.obeissancedemonditseigneur	dicte ville en la bonne . obeissance de mon dit seigneur
-seigneuretdenous,etresisterà	seigneur et de nous , et resister à
-l’entreprinsedes	l ’ entreprinse des
-Angloiz,anciensennemisdeceroyaume,	Angloiz , anciens ennemis de ce royaume ,
-quiontmoult	qui ont moult
-desiréet	desiré et
-desirentmettrela	desirent mettre la
-dictevilleenleurobeissance,queDieunevueille	dicte ville en leur obeissance , que Dieu ne vueille
-vueille;laquellelesdizsuppliansnepourroientgarder	vueille ; laquelle les diz supplians ne pourroient garder
-etpreserverdesdizennemis,mesmementencasde	et preserver des diz ennemis , mesmement en cas de
-siege,seilz	siege , se ilz
-n’estoientconvenablement	n ’ estoient convenablement
-fournizetgarnizdeblez.Etcombien.que	fourniz et garniz de blez . Et combien . que
-queilzaientvoulentéetentenciondegarniret	que ilz aient voulenté et entencion de garnir et
-etfairegarniretpourveoir	et faire garnir et pourveoir
-deblezet	de blez et
-autresvivresladicte	autres vivres la dicte
-dicteville,etemploieren	dicte ville , et emploier en
-enceetautreschosesnecessaires	en ce et autres choses necessaires
-pourlagardeetconservaciond’icellelargementde	pour la garde et conservacion d ’ icelle largement de
-leurchevance,sicommeilzdient,	leur chevance , si comme ilz dient ,
-neantmoinsobstanscertainesdefensesparnousfaictesdenon	neantmoins obstans certaines defenses par nous faictes de non
-faire.[traire]horsnostrepaysde	faire . [ traire ] hors nostre pays de
-Poictou,lesdizsuppliansnepourroientbonnementfiner	Poictou , les diz supplians ne pourroient bonnement finer
-laquantitédesblezqui	la quantité des blez qui
-leurestnecessairepourbienfournirla	leur est necessaire pour bien fournir la
-dicteville	dicte ville
-,commemestierenest.Requeranshumblementque,	, comme mestier en est . Requerans humblement que ,
-nonobstanslesdictesdefenses,nousleurvueillons	non obstans les dictes defenses , nous leur vueillons
-donnercongiéetlicence	donner congié et licence
-detraire	de traire
+Charles,filsduroy	Charles , fils du roy
+deFrance,regentleroyaume,dalphindeViennois	de France , regent le royaume , dalphin de Viennois
+Viennois,ducdeBerry,	Viennois , duc de Berry ,
+,deTouraine.etcontedePoictou.Anozamez	, de Touraine . et conte de Poictou . A noz amez
+etfeaulxconseilliersde	et feaulx conseilliers de
+demonseigneuretdenous,lesgenstenans	de monseigneur et de nous , les gens tenans
+tenansleParlementdePoictiers,salutetdilection.Receue	tenans le Parlement de Poictiers , salut et dilection . Receue
+avonsl’umblesupplicaciondesmaire,eschevinset	avons l ’ umble supplicacion des maire , eschevins et
+autresmanansethabitansenla	autres manans et habitans en la
+villedelaRochelle,	ville de la Rochelle ,
+,contenantque..,	, contenant que . . ,
+commeilzaientestéetsoientvraizbonset	comme ilz aient esté et soient vraiz bons et
+loyaulxsubgiezdemonseigneuret	loyaulx subgiez de monseigneur et
+denous,etaienteuetencoresaient	de nous , et aient eu et encores aient
+àsupporterplusieursgransfraizetchargespourgarderet	à supporter plusieurs grans fraiz et charges pour garder et
+conserverladictevilleenla..bonne	conserver la dicte ville en la . . bonne
+obeissancedemonditseigneur	obeissance de mon dit seigneur
+etdenous,	et de nous ,
+,etresisteràl’entreprinsedesAngloiz,	, et resister à l ’ entreprinse des Angloiz ,
+anciensennemisdeceroyaume,qui	anciens ennemis de ce royaume , qui
+ontmoultdesiréet..desirent	ont moult desiré et . . desirent
+mettreladictevilleen	mettre la dicte ville en
+leurobeissance,queDieunevueille;laquelle	leur obeissance , que Dieu ne vueille ; laquelle
+laquellelesdizsuppliansne.pourroient	laquelle les diz supplians ne . pourroient
+garderetpreserverdes	garder et preserver des
+dizennemis,mesmementencasde	diz ennemis , mesmement en cas de
+siege,seilzn’estoient	siege , se ilz n ’ estoient
+convenablementfournizetgarnizdeblez	convenablement fourniz et garniz de blez
+blez.Et	blez . Et
+combien..queilz	combien . . que ilz
+aientvoulentéetentencionde	aient voulenté et entencion de
+garniretfairegarniretpourveoirdeblez	garnir et faire garnir et pourveoir de blez
+etautresvivresla	et autres vivres la
+dicteville,etemploier	dicte ville , et emploier
+emploierenceetautreschosesnecessairespour	emploier en ce et autres choses necessaires pour
+pourlagardeetconservaciond’icellelargement	pour la garde et conservacion d ’ icelle largement
+largementdeleurchevance,sicommeilzdient,	largement de leur chevance , si comme ilz dient ,
+neantmoinsobstanscertainesdefensesparnous	neantmoins obstans certaines defenses par nous
+faictesdenon.faire[traire]horsnostrepays	faictes de non . faire [ traire ] hors nostre pays
+dePoictou,lesdizsupplians	de Poictou , les diz supplians
+nepourroientbonnement	ne pourroient bonnement
+finerlaquantitédesblezqui	finer la quantité des blez qui
+leurestnecessairepourbienfournirladicteville,	leur est necessaire pour bien fournir la dicte ville ,
+commemestier..enest	comme mestier . . en est
+.Requeranshumblementque,..nonobstansles	. Requerans humblement que , . . non obstans les
+lesdictesdefenses,nousleurvueillonsdonnercongiéet	les dictes defenses , nous leur vueillons donner congié et
+etlicencedetrairedes	et licence de traire des
 desblezdenostreditpaïsdePoictou	des blez de nostre dit païs de Poictou
-pourlaprovisiondeladicteville	pour la provision de la dicte ville
-ville,commeilzfaisoientetpovoientfaireparavanticelles	ville , comme ilz faisoient et povoient faire paravant icelles
-icellesdefences.	icelles defences .
-Pourquoy	Pour quoy
-nous,aiansconsideracion	nous , aians consideracion
-auxchoses	aux choses
-dessusdictes,voulans	dessus dictes , voulans
-favorablementtraictierlesdizsupplians..,pource	favorablement traictier les diz supplians . . , pour ce
-cequepresentementvousestesresidansennostredit	ce que presentement vous estes residans en nostre dit
-païsdePoictou,pourquoy	païs de Poictou , pour quoy
-pourrezplainementsavoirlaveritéde	pourrez plainement savoir la verité de
-decequeditest	de ce que dit est
-est,nousvousmandonsetcommandonsencommettant	est , nous vous mandons et commandons en commettant
-,semestierest,quevouspourveoiezauxdiz	, se mestier est , que vous pourveoiez aux diz
-supplianssurleschosesdessusdictes,enleurdonnant	supplians sur les choses dessus dictes , en leur donnant
-facultéet	faculté et
-et.licencedepouvoirtraireoufairetrairecertaine	et . licence de pouvoir traire ou faire traire certaine
-quantitédeblez,tellesque	quantité de blez , telles que
+Poictoupourlaprovisionde	Poictou pour la provision de
+ladicteville,commeilz	la dicte ville , comme ilz
+ilzfaisoientetpovoientfaireparavanticellesdefences	ilz faisoient et povoient faire paravant icelles defences
+.Pourquoy..	. Pour quoy . .
+.nous,aians	. nous , aians
+aiansconsideracionauxchosesdessusdictes	aians consideracion aux choses dessus dictes
+dictes,voulansfavorablementtraictierlesdizsupplians,pource	dictes , voulans favorablement traictier les diz supplians , pour ce
+quepresentementvousestesresidansennostreditpaïs..	que presentement vous estes residans en nostre dit païs . .
+dePoictou,	de Poictou ,
+,pourquoypourrezplainement..savoirlaveritéde	, pour quoy pourrez plainement . . savoir la verité de
+cequeditest,	ce que dit est ,
+,nousvousmandons	, nous vous mandons
+mandonsetcommandonsencommettant,semestier	mandons et commandons en commettant , se mestier
+est,..que	est , . . que
+que.vouspourveoiezauxdizsupplianssurleschosesdessusdictes	que . vous pourveoiez aux diz supplians sur les choses dessus dictes
+dictes,.enleurdonnant	dictes , . en leur donnant
+donnantfacultéetlicence	donnant faculté et licence
+depouvoirtraire	de pouvoir traire
+traireoufairetrairecertainequantité	traire ou faire traire certaine quantité
+quantitédeblez	quantité de blez
+,tellesque	, telles que
 verrezestreàfaireetquidoiesouffirepour	verrez estre à faire et qui doie souffire pour
-laprovisiondeladicteville,en	la provision de la dicte ville , en
-leurdefendant.	leur defendant .
-.expressementdeparmonditseigneur	. expressement de par mon dit seigneur
-etnous,surbonnesetgrosses	et nous , sur bonnes et grosses
-peines,queilzneaucund’eulxne	peines , que ilz ne aucun d ’ eulx ne
-porteou	porte ou
-mene,ou	mene , ou
-facentporter	facent porter
-porteretmenerle.ditbléailleurs	porter et mener le . dit blé ailleurs
-queenladicteville,etpourla	que en la dicte ville , et pour la
-laprovisiond’icelle.Et	la provision d ’ icelle . Et
-oucasquevoustrouverez	ou cas que vous trouverez
-trouverez.aucunsquifacent	trouverez . aucuns qui facent
-facentous’efforcentdefairelecontraire,punissez	facent ou s ’ efforcent de faire le contraire , punissez
-les,avecleursfauteurs,adherans	les , avec leurs fauteurs , adherans
-etconsentans,s’aucunsenont,telement	et consentans , s ’ aucuns en ont , telement
-etsigriefmentque	et si griefment que
-quecesoitexempleàtousautres.Carainsi	que ce soit exemple à tous autres . Car ainsi
-nousplaistilestrefaitet	nous plaist il estre fait et
-ausdizsuppliansl’avonsoctroyéet	aus diz supplians l ’ avons octroyé et
-octroionsdegraceespecialparcespresentes,non	octroions de grace especial par ces presentes , non
-obstans.lesdictes	obstans . les dictes
-deffenses,ordonnancesetmandemensàce	deffenses , ordonnances et mandemens à ce
-cecontraires..Donnéennostreville	ce contraires . . Donné en nostre ville
-deBourges,lexixejour	de Bourges , le xixe jour
-denovembrel’andegracemil	de novembre l ’ an de grace mil
-milcccc..xix.Ainsisigné:Par	mil cccc . . xix . Ainsi signé : Par
-Parmonseigneurle	Par monseigneur le
-regentdaulphin,ensongrantconseil	regent daulphin , en son grant conseil
+pourlaprovisiondeladicteville,	pour la provision de la dicte ville ,
+enleurdefendantexpressementdeparmonditseigneur	en leur defendant expressement de par mon dit seigneur
+seigneuretnous,	seigneur et nous ,
+,surbonnesetgrossespeines,	, sur bonnes et grosses peines ,
+,queilzneaucund’eulxneporte	, que ilz ne aucun d ’ eulx ne porte
+oumene,	ou mene ,
+,oufacentporteretmenerleditbléailleursque	, ou facent porter et mener le dit blé ailleurs que
+enladicteville,etpourlaprovisiond	en la dicte ville , et pour la provision d
+’icelle.Etoucas	’ icelle . Et ou cas
+casquevoustrouverezaucunsquifacentous’	cas que vous trouverez aucuns qui facent ou s ’
+efforcentdefaire	efforcent de faire
+lecontraire,punissez.les	le contraire , punissez . les
+les,avecleurs	les , avec leurs
+fauteurs.,	fauteurs . ,
+adheransetconsentans,s	adherans et consentans , s
+’aucunsen	’ aucuns en
+ont,telementetsi	ont , telement et si
+griefmentquecesoitexempleàtousautres...	griefment que ce soit exemple à tous autres . . .
+.Carainsinousplaistilestre	. Car ainsi nous plaist il estre
+faitetausdizsuppliansl’avonsoctroyéet	fait et aus diz supplians l ’ avons octroyé et
+octroionsdegraceespecial.	octroions de grace especial .
+parcespresentes	par ces presentes
+,nonobstanslesdictes	, non obstans les dictes
+dictesdeffenses..,	dictes deffenses . . ,
+,ordonnanceset..mandemensà	, ordonnances et . . mandemens à
+àcecontraires.	à ce contraires .
+Donnéennostrevillede	Donné en nostre ville de
+Bourges,lexixe	Bourges , le xixe
+jourdenovembre	jour de novembre
+l’andegracemilcccc	l ’ an de grace mil cccc
+.xix.Ainsisigné:Parmonseigneur	. xix . Ainsi signé : Par monseigneur
+monseigneurleregentdaulphin,enson	monseigneur le regent daulphin , en son
+son..grantconseil	son . . grant conseil
 .J.Campion.	. J . Campion .

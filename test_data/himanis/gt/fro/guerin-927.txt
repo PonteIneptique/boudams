@@ -1,131 +1,121 @@
 Charles,par	Charles , par
-lagracedeDieuroyde	la grace de Dieu roy de
-France.Savoirfaisons	France . Savoir faisons
-àtous,presensetavenir,nous	à tous , presens et avenir , nous
-avoirreceuel’umblesupplicaciondes	avoir receue l ’ umble supplicacion des
-desamischarnelzdeJehannin	des amis charnelz de Jehannin
-Massé,povrevarletservant,.	Massé , povre varlet servant , .
-aagiédevintansouenviron	aagié de vint ans ou environ
-environ,prisonnier	environ , prisonnier
-èsprisonsdulieu	ès prisons du lieu
-lieu..d’Aissenois	lieu . . d ’ Aissenois
-AissenoisdèslaTiphaine	Aissenois dès la Tiphaine
-derrenierementpassée,contenantqueleditJehanninMassé	derrenierement passée , contenant que le dit Jehannin Massé
-aservilong	a servi long
-longespacedetemps,commevarlet	long espace de temps , comme varlet
+parlagracedeDieu	par la grace de Dieu
+DieuroydeFrance	Dieu roy de France
+.Savoirfaisonsàtous,presensetavenir,	. Savoir faisons à tous , presens et avenir ,
+,nousavoir..receuel’umblesupplicaciondesamischarnelz	, nous avoir . . receue l ’ umble supplicacion des amis charnelz
+deJehanninMassé,povrevarletservant,aagiéde	de Jehannin Massé , povre varlet servant , aagié de
+vintansouenviron,prisonnierès	vint ans ou environ , prisonnier ès
+prisonsdulieu	prisons du lieu
+lieud’Aissenois	lieu d ’ Aissenois
+dèslaTiphainederrenierementpassée	dès la Tiphaine derrenierement passée
+passée,contenantqueleditJehanninMassé	passée , contenant que le dit Jehannin Massé
+aservilongespace..	a servi long espace . .
+.detemps,comme..varlet	. de temps , comme . . varlet
 servantaloué,GuillaumeMarchès,tanneurde	servant aloué , Guillaume Marchès , tanneur de
-cuirsdemourantenladicteville	cuirs demourant en la dicte ville
-d’Aissenoisen	d ’ Aissenois en
-Poitou,etpendant	Poitou , et pendant
-pendanticeluiservice,le	pendant icelui service , le
-ditJehannin	dit Jehannin
-s’estaccoinctié	s ’ est accoinctié
-deJehanne,fillenaturelleet	de Jehanne , fille naturelle et
-etlegitimeduditGuillaume,son	et legitime du dit Guillaume , son
-son.maistre,etdesafemme	son . maistre , et de sa femme
-femmequiestancienne,aagiéeladictefillede	femme qui est ancienne , aagiée la dicte fille de
-xxv...ansouenviron,et	xxv . . . ans ou environ , et
-duconsentement	du consentement
-,gréetvoulentéd’ellel’a	, gré et voulenté d ’ elle l ’ a
-congneuecharnelmentenl’ostel	congneue charnelment en l ’ ostel
-desonditmaistreetaillieurs,parpluseurset	de son dit maistre et aillieurs , par pluseurs et
-diversesfoiz,etpar	diverses foiz , et par
-longueespacede	longue espace de
-temps.EtcependantlesdizGuillaumeet	temps . Et ce pendant les diz Guillaume et
-sadictefemmequiestmoultaagiéefemme,comme	sa dicte femme qui est moult aagiée femme , comme
-commeditest	comme dit est
-est,etquisefierentmoultenleur	est , et qui se fierent moult en leur
-dictefillequiavoitlaplus	dicte fille qui avoit la plus
-grantpartiedugouvernementdeleurhostel	grant partie du gouvernement de leur hostel
-hostel.,etluibailloitsadictemerepluseursfoiz	hostel . , et lui bailloit sa dicte mere pluseurs foiz
-lesclefzdesoncoffre,et	les clefz de son coffre , et
-aussisefioyentenleurditvarlet,	aussi se fioyent en leur dit varlet ,
-ladictefillebaillaauditJehanninMasséde	la dicte fille bailla au dit Jehannin Massé de
-l’argentdesesdizpereetmere	l ’ argent de ses diz pere et mere
-lasommedevintescuz,enluipriantqu	la somme de vint escuz , en lui priant qu
-’ill’enmenast,cequ	’ il l ’ enmenast , ce qu
-’ilne.fist	’ il ne . fist
-fistpas.Etdepuis	fist pas . Et depuis
-,environlafestede	, environ la feste de
-Penthecouste,icelleJehannebailladerechiefdel’	Penthecouste , icelle Jehanne bailla de rechief de l ’
+cuirsdemourantenladictevilled’Aissenois	cuirs demourant en la dicte ville d ’ Aissenois
+enPoitou.,etpendanticeluiservice,	en Poitou . , et pendant icelui service ,
+leditJehannins’estaccoinctiédeJehanne	le dit Jehannin s ’ est accoinctié de Jehanne
+Jehanne,fille	Jehanne , fille
+naturelleetlegitimeduditGuillaume.,	naturelle et legitime du dit Guillaume . ,
+,sonmaistre,etdesafemmequi	, son maistre , et de sa femme qui
+estancienne.,	est ancienne . ,
+,aagiéeladictefille	, aagiée la dicte fille
+filledexxv.	fille de xxv .
+ansou..environ,etduconsentement,gré	ans ou . . environ , et du consentement , gré
+gréetvoulentéd’..ellel’acongneuecharnelment	gré et voulenté d ’ . . elle l ’ a congneue charnelment
+charnelmentenl’osteldesonditmaistreet	charnelment en l ’ ostel de son dit maistre et
+aillieurs,par	aillieurs , par
+pluseursetdiversesfoiz	pluseurs et diverses foiz
+foiz,et	foiz , et
+parlongueespacedetemps.	par longue espace de temps .
+Etcependantlesdiz	Et ce pendant les diz
+dizGuillaumeetsadictefemmequiestmoultaagiée	diz Guillaume et sa dicte femme qui est moult aagiée
+femme,commeditest,.etqui	femme , comme dit est , . et qui
+qui..sefierentmoultenleur	qui . . se fierent moult en leur
+leurdictefille.quiavoitlaplusgrant	leur dicte fille . qui avoit la plus grant
+grant.partiedugouvernementdeleurhostel,etlui	grant . partie du gouvernement de leur hostel , et lui
+bailloitsadictemerepluseursfoizlesclefzde	bailloit sa dicte mere pluseurs foiz les clefz de
+soncoffre,etaussisefioyent.	son coffre , et aussi se fioyent .
+enleurdit	en leur dit
+ditvarlet,	dit varlet ,
+ladictefillebaillaauditJehanninMassé	la dicte fille bailla au dit Jehannin Massé
+del’argent	de l ’ argent
+argentdesesdizpere	argent de ses diz pere
+etmerela	et mere la
+lasommedevintescuz	la somme de vint escuz
+,enluipriantqu’ill	, en lui priant qu ’ il l
+’enmenast	’ enmenast
+,cequ’ilne	, ce qu ’ il ne
+nefistpas.Etdepuis	ne fist pas . Et depuis
+,environlafestedePenthecouste,icelle	, environ la feste de Penthecouste , icelle
+Jehannebailla	Jehanne bailla
+bailladerechief..del’	bailla de rechief . . de l ’
 argentdesesdizpereetmereaudit	argent de ses diz pere et mere au dit
-ditJehanninMassédeuxnoblesd’Angleterre,	dit Jehannin Massé deux nobles d ’ Angleterre ,
-quatrefransàchevaletdeuxfransà	quatre frans à cheval et deux frans à
-àpié,luiestantouservice	à pié , lui estant ou service
-desonditmaistre	de son dit maistre
-.Aprèslesquelleschoses,environla	. Après lesquelles choses , environ la
-festedelamiaoustderrenierement.	feste de la mi aoust derrenierement .
-passée,leditJehanninMassésepartide	passée , le dit Jehannin Massé se parti de
-desondit	de son dit
-ditmaistreets’enala	dit maistre et s ’ en ala
-alaaillieursgaignerenvendanges,	ala aillieurs gaigner en vendanges ,
-etbaillaàgarderaumaistred’escole	et bailla à garder au maistre d ’ escole
-duditlieududitargentxi	du dit lieu du dit argent xi
-xi.fransx.solztournois,etcinq	xi . frans x . solz tournois , et cinq
-peaulxdebeufsen.la	peaulx de beufs en . la
-valeurdecentsolz	valeur de cent solz
-tournoisàson	tournois à son
-pere;maissitostqu’ilfut	pere ; mais si tost qu ’ il fut
-retournédevendenges,cuidantretourner	retourné de vendenges , cuidant retourner
-retournerchieuxsonditmaistre,leditJehanninMacé	retourner chieux son dit maistre , le dit Jehannin Macé
-Macé,quiavoitestéencuséparladicte	Macé , qui avoit esté encusé par la dicte
-dicteJehannette,	dicte Jehannette ,
-laquelle..est	laquelle . . est
-estàpresentmariée,futmisen	est à present mariée , fut mis en
-prisonèsprisonsduditlieud’Aissenois,	prison ès prisons du dit lieu d ’ Aissenois ,
-,oùilaestédepuisla	, où il a esté depuis la
-dicteThiphaineetestencoresàgrant	dicte Thiphaine et est encores à grant
-grantpovretéetmisere,	grant povreté et misere ,
-pour.occasion	pour . occasion
-duditcas,et.estenperild	du dit cas , et . est en peril d
-’estrepuni	’ estre puni
-rigoreusementpar.justice	rigoreusement par . justice
-justice,sesurcene	justice , se sur ce ne
-luiestoitimpartienostregraceetremede,si	lui estoit impartie nostre grace et remede , si
-commedientlesdiz	comme dient les diz
-dizsupplians,requeranthumblementicelle.Pourceest	diz supplians , requerant humblement icelle . Pour ce est
-est..ilquenous,etc.,attenduelagrant	est . . il que nous , etc ., attendue la grant
-jeunesseduditJehanninMasséetl	jeunesse du dit Jehannin Massé et l
-’aagedela	’ aage de la
-dicteJehanne,etque.icelleJehanne	dicte Jehanne , et que . icelle Jehanne
-Jehanneestoitdèslorsrenommée	Jehanne estoit dès lors renommée
-renomméed’avoireuecompaigniecharneled’autres	renommée d ’ avoir eue compaignie charnele d ’ autres
-hommes,lapovretédelui,la	hommes , la povreté de lui , la
-ladictelongueprison,	la dicte longue prison ,
-etqu’ilnefutoncquesmais..reprins	et qu ’ il ne fut oncques mais . . reprins
-niactaintd’autre	ni actaint d ’ autre
-autrevillaincas	autre villain cas
-oublasme,	ou blasme ,
-,maisaestéautrement	, mais a esté autrement
-debonnevie	de bonne vie
-,renomméeethonnesteconversacion.,oucasdessus	, renommée et honneste conversacion . , ou cas dessus
-dessusdit,	dessus dit ,
-audit.Jehannin	au dit . Jehannin
-Masséavonsquictié,	Massé avons quictié ,
-remisetpardonné	remis et pardonné
-,etc.,pourveutoutes	, etc ., pourveu toutes
-toutesvoyesque	toutes voyes que
-,avecqueslapeinequ’ila	, avecques la peine qu ’ il a
-soufferte,	soufferte ,
-iltenraprisonaupainet	il tenra prison au pain et
-etàl’eauequinzejoursseulement	et à l ’ eaue quinze jours seulement
-.Sidonnonsenmandement	. Si donnons en mandement
-mandementaubaillideTouraineetdesressorset	mandement au bailli de Touraine et des ressors et
-Exempcionsd’.Anjou	Exempcions d ’ . Anjou
-,duMaineet	, du Maine et
-dePoitou,etàtous	de Poitou , et à tous
-nozautres	noz autres
-justiciers,etc.Donné	justiciers , etc . Donné
-àParis,ou	à Paris , ou
-moisdemarsl’andegrace	mois de mars l ’ an de grace
-gracemilcccc.	grace mil cccc .
-ettreze	et treze
-treze,etdenostreregnele	treze , et de nostre regne le
-xxxiiiie.Ainsisignées:Es	xxxiiiie . Ainsi signées : Es
-requestesparvoustenues	requestes par vous tenues
-,ducommandementduroy,ès	, du commandement du roy , ès
-quellesmaistres.Jehande	quelles maistres . Jehan de
-Vesly,president,JehanRomain	Vesly , president , Jehan Romain
-,conseillier,GuillaumeCousinot,	, conseillier , Guillaume Cousinot ,
-,advocatenParlement,etpluseursautresestoient.J	, advocat en Parlement , et pluseurs autres estoient . J
-.deCaours	. de Caours
+ditJehanninMassédeuxnoblesd’Angleterre	dit Jehannin Massé deux nobles d ’ Angleterre
+,quatrefransàchevaletdeux	, quatre frans à cheval et deux
+deuxfransàpié,luiestantouservicede	deux frans à pié , lui estant ou service de
+sonditmaistre.Aprèslesquelleschoses	son dit maistre . Après lesquelles choses
+,environlafestedelamiaoust	, environ la feste de la mi aoust
+derrenierementpassée,leditJehanninMasséseparti	derrenierement passée , le dit Jehannin Massé se parti
+partidesonditmaistreets’	parti de son dit maistre et s ’
+enala..aillieursgaigner	en ala . . aillieurs gaigner
+en..vendanges,etbailla	en . . vendanges , et bailla
+àgarderaumaistre	à garder au maistre
+d’escole	d ’ escole
+duditlieu	du dit lieu
+du..ditargent	du . . dit argent
+xi...fransx.solztournois,et	xi . . . frans x . solz tournois , et
+cinqpeaulxdebeufsen	cinq peaulx de beufs en
+enlavaleurdecentsolztournoisà	en la valeur de cent solz tournois à
+sonpere	son pere
+pere;maissitost.qu	pere ; mais si tost . qu
+qu’ilfut	qu ’ il fut
+retournédevendenges,.cuidantretournerchieuxsondit	retourné de vendenges , . cuidant retourner chieux son dit
+maistre,leditJehanninMacé,	maistre , le dit Jehannin Macé ,
+,quiavoitesté..encuséparladicte	, qui avoit esté . . encusé par la dicte
+dicteJehannette,laquelleestàpresentmariée,fut	dicte Jehannette , laquelle est à present mariée , fut
+misenprisonèsprisons	mis en prison ès prisons
+duditlieud’Aissenois,oùila	du dit lieu d ’ Aissenois , où il a
+aestédepuisladicte	a esté depuis la dicte
+dicteThiphaineetestencoresàgrantpovretéet	dicte Thiphaine et est encores à grant povreté et
+misere,pouroccasiondudit	misere , pour occasion du dit
+cas,etestenperild	cas , et est en peril d
+’estrepunirigoreusementparjustice,.sesurce	’ estre puni rigoreusement par justice , . se sur ce
+ceneluiestoitimpartienostregraceetremede,si	ce ne lui estoit impartie nostre grace et remede , si
+commedientlesdizsupplians,requeranthumblementicelle	comme dient les diz supplians , requerant humblement icelle
+.Pourceestilque	. Pour ce est il que
+nous,etc.,attenduela	nous , etc ., attendue la
+grantjeunesseduditJehanninMasséetl’	grant jeunesse du dit Jehannin Massé et l ’
+aagedeladicteJehanne,etqueicelle	aage de la dicte Jehanne , et que icelle
+Jehanneestoitdès	Jehanne estoit dès
+dèslorsrenomméed’avoireuecompaignie..charneled’	dès lors renommée d ’ avoir eue compaignie . . charnele d ’
+’autreshommes	’ autres hommes
+,lapovretédelui,ladictelongueprison	, la povreté de lui , la dicte longue prison
+prison,etqu’ilnefut	prison , et qu ’ il ne fut
+oncquesmaisreprinsniactaintd’	oncques mais reprins ni actaint d ’
+autrevillaincasoublasme,	autre villain cas ou blasme ,
+maisaestéautrementde..	mais a esté autrement de . .
+bonnevie,renomméeethonneste	bonne vie , renommée et honneste
+honnesteconversacion,oucasdessusdit,	honneste conversacion , ou cas dessus dit ,
+auditJehanninMassé	au dit Jehannin Massé
+avonsquictié	avons quictié
+,..remiset	, . . remis et
+pardonné,.etc.,pourveutoutesvoyesque,avecques	pardonné , . etc ., pourveu toutes voyes que , avecques
+lapeinequ’ilasoufferte,iltenra	la peine qu ’ il a soufferte , il tenra
+prisonaupainetàl’..	prison au pain et à l ’ . .
+eauequinzejoursseulement	eaue quinze jours seulement
+seulement.Sidonnonsenmandementau	seulement . Si donnons en mandement au
+baillideTouraineetdesressorset	bailli de Touraine et des ressors et
+Exempcionsd’Anjou,duMaine	Exempcions d ’ Anjou , du Maine
+etdePoitou,etàtousnoz	et de Poitou , et à tous noz
+autresjusticiers,etc.Donné	autres justiciers , etc . Donné
+àParis,oumoisdemars	à Paris , ou mois de mars
+l’andegracemil	l ’ an de grace mil
+cccc.ettreze	cccc . et treze
+,etdenostreregnelexxxiiiie	, et de nostre regne le xxxiiiie
+xxxiiiie.Ainsisignées:Es.requestes	xxxiiiie . Ainsi signées : Es . requestes
+requestesparvoustenues,	requestes par vous tenues ,
+,ducommandementduroy,èsquellesmaistresJehande	, du commandement du roy , ès quelles maistres Jehan de
+Vesly,president,Jehan	Vesly , president , Jehan
+JehanRomain,conseillier,GuillaumeCousinot,advocat..en	Jehan Romain , conseillier , Guillaume Cousinot , advocat . . en
+Parlement,etpluseursautresestoient.J.de	Parlement , et pluseurs autres estoient . J . de

@@ -1,42 +1,43 @@
-Phelippes,..parla	Phelippes , . . par la
-lagracedeDieu,roysdeFrance.Savoir	la grace de Dieu , roys de France . Savoir
-faisonsàtouzpresensetavenir.que,	faisons à touz presens et avenir . que ,
-commeBonsdeSingny	comme Bons de Singny
-Singny,chevalier,jadiz	Singny , chevalier , jadiz
-fondastensonvivant,enl'égliseSaincte	fondast en son vivant , en l ' église Saincte
-CroizdeLoudun	Croiz de Loudun
-unechapellenie,	une chapellenie ,
-laquelleildoadecent	la quelle il doa de cent
-soulzdeannueletperpetuelrente,la	soulz de annuel et perpetuel rente , la
-laquellen'estencoresamortie,nous	la quelle n ' est encores amortie , nous
-,àla..requestedeJeliandeMailli	, à la . . requeste de Jelian de Mailli
-Mailli.,escuier	Mailli . , escuier
-,et..desafame	, et . . de sa fame
-,filleet	, fille et
-hoirduditchevalier	hoir du dit chevalier
-,octroionsdegraceespecialetpour.ceque	, octroions de grace especial et pour . ce que
-noussoionsparticipanzausbiensfaiz	nous soions participanz aus biensfaiz
-biensfaizdeladictechapellenie,que	biensfaiz de la dicte chapellenie , que
-ladicteeglisede	la dicte eglise de
-SaincteCroiset	Saincte Crois et
-lechapellainquitientetdessert,etceus	le chapellain qui tient et dessert , et ceus
-quipourletempsavenirtenrontetdesserviront	qui pour le temps avenir tenront et desserviront
-desservirontla.ditechapellenie	desserviront la . dite chapellenie
-chapelleniepuissentpaisiblementetperpetuelmenttenirettiegnentladiterente	chapellenie puissent paisiblement et perpetuelment tenir et tiegnent la dite rente
-,senzcequ'ilsoientconstrainzàla	, senz ce qu ' il soient constrainz à la
-lavendreoumettrehorsdeleurmain	la vendre ou mettre hors de leur main
-etsenzpaierfinance,quellequeellesoit,	et senz paier finance , quelle que elle soit ,
-laquellenousleurquittons	la quelle nous leur quittons
-quittonspourle	quittons pour le
-le..saludenostre	le . . salu de nostre
-nostreame.Etàperpetuellefermetédecestechose	nostre ame . Et à perpetuelle fermeté de ceste chose
-,nousavons	, nous avons
-faitmettrenostreseelenceslettres.Sauve	fait mettre nostre seel en ces lettres . Sauve
-nostredroitenautres	nostre droit en autres
-chosesetl'autruientoutes	choses et l ' autrui en toutes
-toutes.DonnéàMafliers,l'andegrace	toutes . Donné à Mafliers , l ' an de grace
-gracemil..troiscenzettrente,	grace mil . . trois cenz et trente ,
-,oumoysd'octobre.Parle	, ou moys d ' octobre . Par le
-leroi,àla	le roi , à la
-relacionBaudoindeRoches.	relacion Baudoin de Roches .
-Barriere.	Barriere .
+Phelippes,parlagracedeDieu,roys	Phelippes , par la grace de Dieu , roys
+roysdeFrance.Savoir	roys de France . Savoir
+faisonsàtouzpresens.etavenirque,commeBons	faisons à touz presens . et avenir que , comme Bons
+deSingny,chevalier,jadizfondast	de Singny , chevalier , jadiz fondast
+ensonvivant	en son vivant
+,enl'église.	, en l ' église .
+SaincteCroiz.	Saincte Croiz .
+.deLoudununechapellenie,laquelleildoade	. de Loudun une chapellenie , la quelle il doa de
+centsoulzdeannueletperpetuelrente,la	cent soulz de annuel et perpetuel rente , la
+quellen'estencores	quelle n ' est encores
+encoresamortie,nous,àla	encores amortie , nous , à la
+larequestede	la requeste de
+deJeliande	de Jelian de
+Mailli,escuier,etdesafame	Mailli , escuier , et de sa fame
+,filleethoir..	, fille et hoir . .
+.duditchevalier,..octroionsdegraceespecial	. du dit chevalier , . . octroions de grace especial
+especialetpourcequenoussoionsparticipanz..ausbiensfaiz	especial et pour ce que nous soions participanz . . aus biensfaiz
+deladictechapellenie,que	de la dicte chapellenie , que
+ladicteeglisedeSaincteCroisetlechapellainqui	la dicte eglise de Saincte Crois et le chapellain qui
+tientetdessert,et	tient et dessert , et
+ceusquipourletemps	ceus qui pour le temps
+avenirtenrontetdesservirontladitechapellenie	avenir tenront et desserviront la dite chapellenie
+puissentpaisiblementetperpetuelmenttenir	puissent paisiblement et perpetuelment tenir
+tenirettiegnent	tenir et tiegnent
+laditerente,	la dite rente ,
+senzcequ'ilsoientconstrainz	senz ce qu ' il soient constrainz
+àlavendre	à la vendre
+oumettrehorsde	ou mettre hors de
+leurmainetsenzpaierfinance,quelleque	leur main et senz paier finance , quelle que
+ellesoit,laquellenous	elle soit , la quelle nous
+leurquittonspour	leur quittons pour
+pourlesaludenostre	pour le salu de nostre
+nostreame.Etàperpetuellefermetédecestechose,	nostre ame . Et à perpetuelle fermeté de ceste chose ,
+nousavonsfaitmettre	nous avons fait mettre
+mettrenostreseelenceslettres.Sauvenostredroit..en	mettre nostre seel en ces lettres . Sauve nostre droit . . en
+autreschoseset	autres choses et
+l'autruientoutes.Donnéà	l ' autrui en toutes . Donné à
+Mafliers.,l'an	Mafliers . , l ' an
+degracemiltroiscenz..ettrente	de grace mil trois cenz . . et trente
+,oumoysd'octobre.	, ou moys d ' octobre .
+Parleroi,àlarelacion	Par le roi , à la relacion
+relacionBaudoindeRoches	relacion Baudoin de Roches
+.Barriere.	. Barriere .

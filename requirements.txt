@@ -3,3 +3,4 @@ tqdm>=4.31.1
 unidecode>=1.0.23
 leven==1.0.4
 click>=7.0,<=8.0
+regex==2019.5.25

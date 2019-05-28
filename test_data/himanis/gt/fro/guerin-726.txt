@@ -1,196 +1,187 @@
-Charles,etc..	Charles , etc . .
-Savoirfaisonsàtous,presensetavenir,nous	Savoir faisons à tous , presens et avenir , nous
-avoirreceul'umblesupplicacionde	avoir receu l ' umble supplicacion de
-denostreaméetfeal	de nostre amé et feal
-Estienned'Aventoys,chevalier,etdeKatherine	Estienne d ' Aventoys , chevalier , et de Katherine
-Senescallesafemme,contenant	Senescalle sa femme , contenant
-contenantquecomme,pour	contenant que comme , pour
-letempsqueleprincedeGalestenoitla	le temps que le prince de Gales tenoit la
-duchiédeGuienne,la.dictesuppliante,estant	duchié de Guienne , la . dicte suppliante , estant
-enl'aagede	en l ' aage de
-XIIIIansou..	XIIII ans ou . .
-environ,eustestéconjoincteparmariage	environ , eust esté conjoincte par mariage
-parsesparens	par ses parens
-etamis,	et amis ,
-,etmesmement	, et mesmement
-mesmementduconseilet	mesmement du conseil et
-consentementdeRagond	consentement de Ragond
-Bechetesamere	Bechete sa mere
-mere,aveeJehanHarpedanne,chevalierangloisd'Angleterre	mere , avee Jehan Harpedanne , chevalier anglois d ' Angleterre
-,aprèslequel.	, après lequel .
-mariageainsifaitetparfait	mariage ainsi fait et parfait
-iceulxmariezdemourerentlongtempsoupaïsdePoitou	iceulx mariez demourerent longtemps ou païs de Poitou
-Poitou,surles	Poitou , sur les
-leslieuxetterres	les lieux et terres
-d'icellesupplianteet	d ' icelle suppliante et
-jusquesà..cequeledit	jusques à . . ce que le dit
-ditprincesdeGailescommist	dit princes de Gailes commist
-lesrebellionset..désobéissances	les rebellions et . . désobéissances
-parlesquellesilforfistladicte	par lesquelles il forfist la dicte
-dicteduchiéetque	dicte duchié et que
-leditpaïsdePoitoucommençaàretournerà	le dit païs de Poitou commença à retourner à
-nostreobéissance,quelorssonditmaryseparti	nostre obéissance , que lors son dit mary se parti
-duditpaïsetemmena	du dit païs et emmena
-emmena..oufistemmenerycelle	emmena . . ou fist emmener ycelle
-ycellesupplianteenAngleterre,àquoy	ycelle suppliante en Angleterre , à quoy
-elleparaffectionde	elle par affection de
-demariageetamournaturelequ'	de mariage et amour naturele qu '
-elleavoitàsonditmary	elle avoit à son dit mary
-,seconsenti,neaussielle.n	, se consenti , ne aussi elle . n
-'eustoséou	' eust osé ou
-peucontredire	peu contredire
-,veuqu'elleestoitensa.puissanceet	, veu qu ' elle estoit en sa . puissance et
-qu'ill'eustpeu	qu ' il l ' eust peu
-peuemmener,voulsist	peu emmener , voulsist
-ounon,etpourtants	ou non , et pour tant s
-'enalaavecluietlaissa	' en ala avec lui et laissa
-sonditmaryaucunesforteressesd	son dit mary aucunes forteresses d
-'icellesuppliante..	' icelle suppliante . .
-garniesd'Anglois.Et	garnies d ' Anglois . Et
-Etpource	Et pour ce
-ceasseztostaprès	ce assez tost après
-aprèsleurdépartement	après leur département
-,ycellesforteresseset	, ycelles forteresses et
-semblablementtoutesles.terresd'icellesuppliante	semblablement toutes les . terres d ' icelle suppliante
-suppliantefurentprinses	suppliante furent prinses
-,lesaucunesparnoz	, les aucunes par noz
-nozgensetofficiers,etmisesennostre	noz gens et officiers , et mises en nostre
-main,et	main , et
-depuistransportées..	depuis transportées . .
+Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
+àtous,..presensetavenir	à tous , . . presens et avenir
+,nousavoirreceul'umblesupplicaciondenostre	, nous avoir receu l ' umble supplicacion de nostre
+améetfealEstienned'	amé et feal Estienne d '
+Aventoys,chevalier,etde..Katherine	Aventoys , chevalier , et de . . Katherine
+Katherine.Senescallesa	Katherine . Senescalle sa
+safemme,	sa femme ,
+contenantquecomme	contenant que comme
+comme,pourletempsqueleprince	comme , pour le temps que le prince
+princedeGalestenoitladuchiédeGuienne,la	prince de Gales tenoit la duchié de Guienne , la
+dictesuppliante,estantenl'aagedeXIIII	dicte suppliante , estant en l ' aage de XIIII
+ansouenviron,eustestéconjoinctepar	ans ou environ , eust esté conjoincte par
+mariageparsesparensetamis,etmesmementdu	mariage par ses parens et amis , et mesmement du
+duconseiletconsentementdeRagond	du conseil et consentement de Ragond
+Bechetesamere,aveeJehanHarpedanne,chevalier	Bechete sa mere , avee Jehan Harpedanne , chevalier
+chevalierangloisd'Angleterre,aprèslequelmariage	chevalier anglois d ' Angleterre , après lequel mariage
+mariageainsifaitetparfaiticeulx	mariage ainsi fait et parfait iceulx
+iceulx.mariezdemourerentlongtempsou	iceulx . mariez demourerent longtemps ou
+païsdePoitou,sur	païs de Poitou , sur
+leslieuxet	les lieux et
+terresd'icellesupplianteetjusquesàce	terres d ' icelle suppliante et jusques à ce
+queleditprincesdeGailescommistles	que le dit princes de Gailes commist les
+lesrebellionsetdésobéissances	les rebellions et désobéissances
+parlesquellesilforfistla	par lesquelles il forfist la
+dicteduchiéetqueleditpaïsdePoitou	dicte duchié et que le dit païs de Poitou
+Poitoucommençaàretournerànostre	Poitou commença à retourner à nostre
+obéissance,quelorssondit	obéissance , que lors son dit
+ditmarysepartiduditpaïsetemmena	dit mary se parti du dit païs et emmena
+oufistemmener	ou fist emmener
+ycelle..suppliante	ycelle . . suppliante
+supplianteenAngleterre,àquoyelleparaffection	suppliante en Angleterre , à quoy elle par affection
+affectiondemariage	affection de mariage
+mariageetamournaturelequ'elleavoità	mariage et amour naturele qu ' elle avoit à
+sonditmary,	son dit mary ,
+,seconsenti	, se consenti
+,neaussi	, ne aussi
+ellen'eustosé	elle n ' eust osé
+oupeucontredire,veuqu	ou peu contredire , veu qu
+'elleestoit	' elle estoit
+ensa.puissanceetqu	en sa . puissance et qu
+qu'il..l'	qu ' il . . l '
+'eustpeuemmener,	' eust peu emmener ,
+voulsistounon,etpourtants'	voulsist ou non , et pour tant s '
+'enalaaveclui	' en ala avec lui
+etlaissasonditmaryaucunesforteressesd	et laissa son dit mary aucunes forteresses d
+d'icellesuppliante	d ' icelle suppliante
+garniesd'Anglois.Etpourceassez	garnies d ' Anglois . Et pour ce assez
+tostaprèsleur	tost après leur
+département,ycellesforteresseset	département , ycelles forteresses et
+semblablementtouteslesterresd	semblablement toutes les terres d
+'icellesuppliantefurentprinses..,lesaucunespar	' icelle suppliante furent prinses . . , les aucunes par
+nozgensetofficiers,et	noz gens et officiers , et
+misesennostremain,etdepuistransportées	mises en nostre main , et depuis transportées
 enplusieursetdiversesmains,etles	en plusieurs et diverses mains , et les
-lesautresoccupéespar.	les autres occupées par .
-.pluseursautresgensdu	. pluseurs autres gens du
-païsquionttenuesetexploictéestousjoursdepuisle	païs qui ont tenues et exploictées tousjours depuis le
-dittempsycelles.terres,	dit temps ycelles . terres ,
-,etencorestiennentetoccupent.	, et encores tiennent et occupent .
-,ladictesuppliante	, la dicte suppliante
-supplianteestantabsentdenostreroyaume,commedit	suppliante estant absent de nostre royaume , comme dit
-ditest,etjusquesànagaires	dit est , et jusques à nagaires
-queleditHarpedenneest	que le dit Harpedenne est
-alé.devieàtrespassement.Après	alé . de vie à trespassement . Après
-letrespasduquel,	le trespas duquel ,
-ladictesuppliante,qui	la dicte suppliante , qui
-oncquesn'eutentencionouvoulentéde	oncques n ' eut entencion ou voulenté de
-demourerpardelàneenobeissance	demourer par delà ne en obeissance
-d'autrequedenous	d ' autre que de nous
-etdenostreroyaume,s'enest	et de nostre royaume , s ' en est
-tantostrevenuepardeçà	tantost revenue par deçà
-etatrouvésesdictesterresoccupéespar	et a trouvé ses dictes terres occupées par
-parlamaniere	par la maniere
-queditest	que dit est
-,etpourtants'est	, et pour tant s ' est
-traictepardeversnostretrèschierettrèsamé	traicte par devers nostre très chier et très amé
-oncleleducdeBerry,lequelbieninformé	oncle le duc de Berry , le quel bien informé
+autresoccupéesparpluseursautresgens	autres occupées par pluseurs autres gens
+dupaïsqui	du païs qui
+onttenuesetexploictéestousjoursdepuisledittemps	ont tenues et exploictées tousjours depuis le dit temps
+ycellesterres,etencorestiennentet	ycelles terres , et encores tiennent et
+occupent,	occupent ,
+ladictesupplianteestant	la dicte suppliante estant
+estantabsentdenostreroyaume,commeditest,	estant absent de nostre royaume , comme dit est ,
+etjusquesànagairesqueledit	et jusques à nagaires que le dit
+Harpedenneestalédevieàtrespassement.Après	Harpedenne est alé de vie à trespassement . Après
+letrespasduquel,ladictesuppliante,	le trespas duquel , la dicte suppliante ,
+quioncquesn	qui oncques n
+'eutentencionouvoulentédedemourerpardelà	' eut entencion ou voulenté de demourer par delà
+neenobeissanced'autrequedenous	ne en obeissance d ' autre que de nous
+nousetdenostreroyaume,s'enesttantost	nous et de nostre royaume , s ' en est tantost
+tantostrevenuepardeçàetatrouvé..ses	tantost revenue par deçà et a trouvé . . ses
+dictesterresoccupées	dictes terres occupées
+parlamaniereque	par la maniere que
+ditest,etpourtants'esttraicte	dit est , et pour tant s ' est traicte
+pardeversnostretrèschierettrèsaméonclele	par devers nostre très chier et très amé oncle le
+ducde..Berry,	duc de . . Berry ,
+,lequelbieninformé	, le quel bien informé
 delabonnevoulentéd'icellesupplianteetautres	de la bonne voulenté d ' icelle suppliante et autres
-autreschosesdessusdictes,lui..	autres choses dessus dictes , lui . .
-.enarendu	. en a rendu
-renduetfaitrendre	rendu et fait rendre
-aucunnepartiequ'il	aucunne partie qu ' il
-entenoit.;maizcequ	en tenoit . ; maiz ce qu
-qu'ilestoitenautresmains,l'en	qu ' il estoit en autres mains , l ' en
-neluiavoulurendre,etsedoubte	ne lui a voulu rendre , et se doubte
-doubtemoultqu.	doubte moult qu .
-'elleneles	' elle ne les
-lespeustrecouvrer.Et	les peust recouvrer . Et
-Etquiplusest,	Et qui plus est ,
-sedoubtequel'enne	se doubte que l ' en ne
-nevoulsistdirequ'elleeustcommis	ne voulsist dire qu ' elle eust commis
-commiscrimedelezemagestéouautrementdelinquéenvers	commis crime de leze magesté ou autrement delinqué envers
-nous,pouravoirestéou..dit	nous , pour avoir esté ou . . dit
-païsd'Angleterre	païs d ' Angleterre
-,etqueparceelleeustforfaitenvers.nous	, et que par ce elle eust forfait envers . nous
-nouscorpsetbiens,dontelleseroitenvoie	nous corps et biens , dont elle seroit en voie
-voiedeperdicionetd'estredeshonnouréeluiet	voie de perdicion et d ' estre deshonnourée lui et
-etsalignée,ouaumoinsexillée	et sa lignée , ou au moins exillée
-etmendiant	et mendiant
-toutesavie,separnousnelui	toute sa vie , se par nous ne lui
-est.surceextenduenostregrace	est . sur ce extendue nostre grace
-,.sicommeelledit,requéranthumblement	, . si comme elle dit , requérant humblement
-que,commefeuGuy..le	que , comme feu Guy . . le
-Senesclialchevalier,sonpere,	Senesclial chevalier , son pere ,
-et..sesautres	et . . ses autres
-parensetamisaientservi	parens et amis aient servi
-servi,leursviesdurans,nozpredecesseursroiz	servi , leurs vies durans , noz predecesseurs roiz
-deFranceenleursguerresetautrement,senzaucun	de France en leurs guerres et autrement , senz aucun
-reprouche,etaussi	reprouche , et aussi
-queentoutesautreschoses	que en toutes autres choses
-ladictesupplianteaestédebonne	la dicte suppliante a esté de bonne
-bonnefame,.renomméeethonnesteconversation,senzce	bonne fame , . renommée et honneste conversation , senz ce
-qu'ellefeustoncquesreprinsed	qu ' elle feust oncques reprinse d
-d'aucunvillaincas	d ' aucun villain cas
-,..nousluiveuillonssur	, . . nous lui veuillons sur
-ceimpartirnostredictegrace.	ce impartir nostre dicte grace .
-Pourquoynous,considéréesleschosesdessusdictesetles	Pourquoy nous , considérées les choses dessus dictes et les
-bons.etnotablesservicesque	bons . et notables services que
-queleditsuppliant,maryd'	que le dit suppliant , mary d '
-'icellesuppliante,nousafaiz	' icelle suppliante , nous a faiz
-enpluseurs.manieresennozguerreset	en pluseurs . manieres en noz guerres et
-autrement..,	autrement . . ,
-,àladictesuppliantede	, à la dicte suppliante de
-nostregraceespecial,plainepuissanceet	nostre grace especial , plaine puissance et
-etauctoritéroyaloucas	et auctorité royal ou cas
-dessusditavonsquicté,remiset	dessus dit avons quicté , remis et
-pardonné,etpar	pardonné , et par
-parcesprésentes	par ces présentes
-quictons,remettonsetpardonnons,entant	quictons , remettons et pardonnons , en tant
-tantquemestier	tant que mestier
-luiestoupourroitestre,toutlefaitdessus	lui est ou pourroit estre , tout le fait dessus
-ditavectoutepeine,	dit avec toute peine ,
-,amendeet	, amende et
+chosesdessus	choses dessus
+dictes,luienarenduet	dictes , lui en a rendu et
+faitrendreaucunnepartiequ'ilentenoit;	fait rendre aucunne partie qu ' il en tenoit ;
+maizcequ'ilestoit	maiz ce qu ' il estoit
+estoitenautresmains,l'enne	estoit en autres mains , l ' en ne
+neluiavoulurendre,etse	ne lui a voulu rendre , et se
+sedoubtemoultqu	se doubte moult qu
+'ellenelespeustrecouvrer	' elle ne les peust recouvrer
+.Etquiplusest,sedoubteque	. Et qui plus est , se doubte que
+l'ennevoulsist	l ' en ne voulsist
+direqu'elle	dire qu ' elle
+elleeustcommiscrimedelezemagestéou	elle eust commis crime de leze magesté ou
+ouautrementdelinquéenversnous,pour	ou autrement delinqué envers nous , pour
+avoiresté..	avoir esté . .
+.ouditpaïsd'	. ou dit païs d '
+Angleterre,etque	Angleterre , et que
+queparceelleeustforfaitenversnouscorpset	que par ce elle eust forfait envers nous corps et
+biens,dont.	biens , dont .
+.elleseroitenvoiedeperdicionet	. elle seroit en voie de perdicion et
+d'estredeshonnouréeluietsalignée,ou	d ' estre deshonnourée lui et sa lignée , ou
+aumoinsexilléeet	au moins exillée et
+mendianttoute	mendiant toute
+savie,separ	sa vie , se par
+parnousnelui..est	par nous ne lui . . est
+estsurceextenduenostregrace	est sur ce extendue nostre grace
+grace,sicommeelledit,requéranthumblementque	grace , si comme elle dit , requérant humblement que
+,commefeuGuyleSenesclialchevalier,	, comme feu Guy le Senesclial chevalier ,
+,sonpere,	, son pere ,
+etsesautresparensetamisaientservi	et ses autres parens et amis aient servi
+servi,leursviesdurans	servi , leurs vies durans
+durans,nozpredecesseursroizdeFranceenleursguerres	durans , noz predecesseurs roiz de France en leurs guerres
+etautrement,senz	et autrement , senz
+senzaucunreprouche	senz aucun reprouche
+,etaussiqueentoutesautreschosesla	, et aussi que en toutes autres choses la
+dictesupplianteaestédebonne	dicte suppliante a esté de bonne
+fame,renomméeethonnesteconversation,senz	fame , renommée et honneste conversation , senz
+cequ'ellefeustoncquesreprinsed'	ce qu ' elle feust oncques reprinse d '
+'..aucunvillaincas,nouslui	' . . aucun villain cas , nous lui
+veuillonssurceimpartirnostredictegrace.	veuillons sur ce impartir nostre dicte grace .
+Pourquoynous,considérées	Pourquoy nous , considérées
+les.chosesdessusdictes	les . choses dessus dictes
+etlesbonsetnotablesservicesquele	et les bons et notables services que le
+ditsuppliant	dit suppliant
+,maryd'icellesuppliante,..nousa	, mary d ' icelle suppliante , . . nous a
+afaizenpluseursmanieres	a faiz en pluseurs manieres
+ennozguerresetautrement,à	en noz guerres et autrement , à
+ladictesuppliantedenostregraceespecial,	la dicte suppliante de nostre grace especial ,
+,plainepuissanceetauctoritéroyaloucasdessusditavons	, plaine puissance et auctorité royal ou cas dessus dit avons
+avonsquicté,remisetpardonné,etparces	avons quicté , remis et pardonné , et par ces
+présentesquictons,remettonset	présentes quictons , remettons et
+pardonnons,en.tantquemestierluiestoupourroit	pardonnons , en . tant que mestier lui est ou pourroit
+pourroitestre,tout	pourroit estre , tout
+toutlefaitdessusditavectoutepeine,amende	tout le fait dessus dit avec toute peine , amende
 etoffensecorporele,crimineleet	et offense corporele , crimineleet
-crimineleetcivileenquoy,	crimineleet civile en quoy ,
-,pouroccasiondecequeditest	, pour occasion de ce que dit est
-estoude	est ou de
-sesdeppendences,elle	ses deppendences , elle
-pourroitestreencourue	pourroit estre encourue
-enversnousetjustice	envers nous et justice
-,.etlarestituons	, . et la restituons
-àsabonnefame,renommée,au	à sa bonne fame , renommée , au
-païsetàsesbiens,terres	païs et à ses biens , terres
-,actions,saisines,possessionset	, actions , saisines , possessions et
-droizquelconques	droiz quelconques
-,touten	, tout en
-lafourmeetmanierequ'elleestoitau	la fourme et maniere qu ' elle estoit au
-jouretparavantqu	jour et paravant qu
-qu'elle	qu ' elle
-semariaauditanglois.Etsurceimposons	se maria au dit anglois . Et sur ce imposons
-imposonssilenceperpetuel	imposons silence perpetuel
-perpetuelanostreprocureuretà.tousautres.Sidonnons	perpetuel a nostre procureur et à . tous autres . Si donnons
-en.mandementau	en . mandement au
-bailli.desExempcionsdePoitou,	bailli . des Exempcions de Poitou ,
-deTouraine,d'Anjouetdu	de Touraine , d ' Anjou et du
-Maine,etàtousnozautres	Maine , et à tous noz autres
-autresjusticiersetofficiers,ouàleurslieuxtenans	autres justiciers et officiers , ou à leurs lieuxtenans
-,presensetadveniretàchascund	, presens et advenir et à chascun d
-d'eulx,sicommeàluiappartendra,que	d ' eulx , si comme à lui appartendra , que
-ladictesuppliantedenostreprésentegrace.et	la dicte suppliante de nostre présente grace . et
-remissionfacent,sueffrentetlaissentjoïretuser	remission facent , sueffrent et laissent joïr et user
-userplainementetpaisiblement,	user plainement et paisiblement ,
-senzl'empeschier,molester	senz l ' empeschier , molester
+civileenquoy,	civile en quoy ,
+pouroccasiondecequeditest	pour occasion de ce que dit est
+estoudesesdeppendences,ellepourroitestreencourue	est ou de ses deppendences , elle pourroit estre encourue
+enversnouset	envers nous et
+justice,et	justice , et
+larestituonsàsabonne	la restituons à sa bonne
+bonnefame,renommée,aupaïsetàsesbiens	bonne fame , renommée , au païs et à ses biens
+biens,terres,actions,saisines..,possessionset	biens , terres , actions , saisines . . , possessions et
+droizquelconques,toutenla	droiz quelconques , tout en la
+fourmeetmaniere..qu	fourme et maniere . . qu
+'elleestoitau	' elle estoit au
+aujouret	au jour et
+paravantqu'elle	paravant qu ' elle
+ellesemaria	elle se maria
+auditanglois	au dit anglois
+anglois.Etsurceimposonssilenceperpetuela	anglois . Et sur ce imposons silence perpetuel a
+nostreprocureuretàtousautres...Sidonnonsen	nostre procureur et à tous autres . . . Si donnons en
+mandementaubaillides	mandement au bailli des
+desExempcionsdePoitou	des Exempcions de Poitou
+,deTouraine,d'Anjou	, de Touraine , d ' Anjou
+etduMaine,etàtousnoz	et du Maine , et à tous noz
+autresjusticiersetofficiers,ou.àleurs	autres justiciers et officiers , ou . à leurs
+leurslieuxtenans,presens	leurs lieuxtenans , presens
+etadvenir	et advenir
+etàchascund	et à chascun d
+'eulx,sicommeà.	' eulx , si comme à .
+luiappartendra	lui appartendra
+appartendra,queladictesuppliantedenostreprésentegrace	appartendra , que la dicte suppliante de nostre présente grace
+etremissionfacent,sueffrent	et remission facent , sueffrent
+etlaissentjoïret..user	et laissent joïr et . . user
+plainementetpaisiblement,senzl'empeschier,molester	plainement et paisiblement , senz l ' empeschier , molester
 outraveillier	ou traveillier
-,souffrirestre	, souffrir estre
-molestée,	molestée ,
-,traveilliéeouempeschiéeencorpsouenbiens..	, traveilliée ou empeschiée en corps ou en biens . .
-,ores[ne]	, ores [ ne ]
-]outemps	] ou temps
-tempsaveniraucunementaucontraire,ainçoysses..biens,	temps avenir aucunement au contraire , ainçoys ses . . biens ,
+,souffrirestremolestée,	, souffrir estre molestée ,
+traveilliéeouempeschiéeencorpsouen	traveilliée ou empeschiée en corps ou en
+enbiens,ores[ne]ou	en biens , ores [ ne ] ou
+tempsaveniraucunementaucontraire..,ainçoyssesbiens	temps avenir aucunement au contraire . . , ainçoys ses biens
 ,terresetpossessions,entantqu'	, terres et possessions , en tant qu '
-ilnoustoucheou.puet	il nous touche ou . puet
-puettouchier,ouquipouroccasiond'	puet touchier , ou qui pour occasion d '
-'icelluifaitont.estémisennostremain	' icellui fait ont . esté mis en nostre main
-,commeditest,luirendent..etdélivrent	, comme dit est , lui rendent . . et délivrent
-,oufacent	, ou facent
-rendreetdélivrer	rendre et délivrer
-senzaucuncontredit.Etpource	senz aucun contredit . Et pour ce
-quecesoitferme	que ce soit ferme
-choseetestableà	chose etestable à
-tousjours,nousavonsfait	tousjours , nous avons fait
-mettrenostreseelàces.présentes.Saufen	mettre nostre seel à ces . présentes . Sauf en
-autreschoses..nostredroitetTautruyentoutes.	autres choses . . nostre droit et Tautruy en toutes .
-.DonnéàCompiegne,	. Donné à Compiegne ,
-oumoisde	ou mois de
-septembrel'andegracemilCCCIIIIXX	septembre l ' an de grace mil CCC IIIIXX
-IIIIXXetdix,etleXe	IIIIXX et dix , et le Xe
-denostreregne	de nostre regne
-.Parleroyensonconseil.	. Par le roy en son conseil .
-D'Aunoy.	D ' Aunoy .
+'ilnoustoucheoupuettouchier,	' il nous touche ou puet touchier ,
+ouquipouroccasiond'icellui	ou qui pour occasion d ' icellui
+icelluifaitont..esté	icellui fait ont . . esté
+misennostre	mis en nostre
+main,commeditest,lui	main , comme dit est , lui
+rendentetdélivrent,ou	rendent et délivrent , ou
+oufacentrendre	ou facent rendre
+rendreetdélivrersenzaucuncontredit.Et	rendre et délivrer senz aucun contredit . Et
+pourcequecesoit	pour ce que ce soit
+ferme.choseetestableàtousjours,	ferme . chose etestable à tousjours ,
+nousavonsfaitmettrenostre.	nous avons fait mettre nostre .
+.seelà.cesprésentes.	. seel à . ces présentes .
+Saufenautres	Sauf en autres
+chosesnostredroit	choses nostre droit
+etTautruyen.toutes.	et Tautruy en . toutes .
+.DonnéàCompiegne,oumoisdeseptembrel'	. Donné à Compiegne , ou mois de septembre l '
+andegracemilCCCIIIIXXet.dix,	an de grace mil CCC IIIIXX et . dix ,
+etleXede	et le Xe de
+nostreregne.Parleroyensonconseil	nostre regne . Par le roy en son conseil
+.D'Aunoy.	. D ' Aunoy .

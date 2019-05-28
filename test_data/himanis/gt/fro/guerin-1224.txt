@@ -1,210 +1,214 @@
-Charles,etc.Savoirfaisons,etc	Charles , etc . Savoir faisons , etc
-.,nousavoirreceul'umble	., nous avoir receu l ' umble
-suplicacionde.	suplicacion de .
-PierrePompart,delaparroisse	Pierre Pompart , de la parroisse
-deVaallesennostrepaysdePoictou,contenant	de Vaalles en nostre pays de Poictou , contenant
-que,depuis..certaintemps	que , depuis . . certain temps
-ença,leditsupliantachatad'unnomméPierre	ença , ledit supliant achata d ' un nommé Pierre
-PierreFerronungmillierdelatele	Pierre Ferron ung millier de late le
-prisetsomme	pris et somme
-detrezesolz	de treze solz
-quatredeniers,.duquelargentleditsupliantpaya	quatre deniers , . duquel argent ledit supliant paya
-etbaillalors	et bailla lors
-auditFerronlamoité;etcertaintempsaprès	audit Ferron la moité ; et certain temps après
-vintleditFerrondireauditsupliantqu'il	vint ledit Ferron dire audit supliant qu ' il
-ilallastquerirladictelate	il allast querir ladicte late
-.Lequelyalaetaussiyalaceluià	. Lequel y ala et aussi y ala celui à
-qui[estoit	qui [ estoit
-]lamaisonoùdevoit	] la maison où devoit
-estremiseicellelate,	estre mise icelle late ,
-etbaillaleditPompart	et bailla ledit Pompart
-cincqsolzauditFerron,et.ne	cincq solz audit Ferron , et . ne
-luydevoitplus	luy devoit plus
-quedeuxsolzungdenieràcauseduditmillier	que deux solz ung denier à cause du dit millier
-millierdelate.Etluymonstraledit	millier de late . Et luy monstra ledit
-Ferronicellelatequiestoitenung	Ferron icelle late qui estoit en ung
-tax,endisantqu'ilenyavoit	tax , en disant qu ' il en y avoit
-avoitplusd'ungmillier,lequelsupliant	avoit plus d ' ung millier , lequel supliant
-distqu'iln'ensavoit	dist qu ' il n ' en savoit
-riens;etnefutpoint	riens ; et ne fut point
-lorscomptée.Etseptouhuit[	lors comptée . Et sept ou huit [
-jours]après,ledit	jours ] après , ledit
-leditFerronaladevie	ledit Ferron ala de vie
-vieàtrespassementbiensouldainement.Etaprès	vie à trespassement bien souldainement . Et après
-aprèsleditsupliants'enalaàlavefvedudit	après ledit supliant s ' en ala à la vefve dudit
-duditFerron,quisavoitbienqu..'il	dudit Ferron , qui savoit bien qu . . ' il
-avoitpayéàsonditfeumaryladictelate	avoit payé à son dit feu mary la dicte late
-,exceptélèsdictzdeuxsolzungdenier,etluy	, excepté lèsdictz deux solz ung denier , et luy
-distqu'elleluyalast	dist qu ' elle luy alast
-alastcompterladictelate,dont	alast compter la dicte late , dont
-dontellefutcontente;ets'en	dont elle fut contente ; et s ' en
-[alèrent..	[ alèrent . .
-]luietladicte..femme	] lui et la dicte . . femme
-auboysetcomptèrent	au boys et comptèrent
-comptèrentladicte	comptèrent la dicte
-lateettrouvèrentqu	late et trouvèrent qu
-qu'ilen	qu ' il en
-failloitduditmillierungcentettrentelates.	failloit dudit millier ung cent et trente lates .
-.Etincontinanticelle	. Et incontinant icelle
-femmes'en	femme s ' en
-enaladeversJehanVadier,qu	en ala devers Jehan Vadier , qu
-qu'elle..pensoitqu'ilavoitprinscequ	qu ' elle . . pensoit qu ' il avoit prins ce qu
-'il.failloitduditmillier	' il . failloit dudit millier
-,pourcequ'ildisoitque	, pour ce qu ' il disoit que
-sonmaryluy	son mary luy
+Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
+,etc.,nous	, etc ., nous
+nousavoirreceu	nous avoir receu
+l'umblesuplicaciondePierrePompart	l ' umble suplicacion de Pierre Pompart
+,delaparroisse	, de la parroisse
+deVaallesennostrepaysde	de Vaalles en nostre pays de
+Poictou,	Poictou ,
+contenantque,depuiscertain	contenant que , depuis certain
+tempsença,leditsupliantachatad	temps ença , ledit supliant achata d
+d'unnomméPierre..Ferronungmillierde	d ' un nommé Pierre . . Ferron ung millier de
+latelepriset	late le pris et
+et.sommedetreze	et . somme de treze
+solzquatredeniers,duquelargentleditsupliantpayaet	solz quatre deniers , duquel argent ledit supliant paya et
+etbaillalorsauditFerronla	et bailla lors audit Ferron la
+lamoité;etcertaintempsaprès.	la moité ; et certain temps après .
+vintledit	vint ledit
+Ferrondireauditsupliantqu'ilallastquerir	Ferron dire audit supliant qu ' il allast querir
+ladictelate.Lequelyala	ladicte late . Lequel y ala
+alaetaussiyalaceluiàqui[	ala et aussi y ala celui à qui [
+estoit]lamaisonoùdevoit	estoit ] la maison où devoit
+estremiseicellelate,etbaillaleditPompart	estre mise icelle late , et bailla ledit Pompart
+cincqsolzauditFerron,etneluydevoit	cincq solz audit Ferron , et ne luy devoit
+plusquedeuxsolzungdenieràcausedu	plus que deux solz ung denier à cause du
+ditmillierdelate.EtluymonstraleditFerron	dit millier de late . Et luy monstra ledit Ferron
+Ferronicelle.latequiestoitenung	Ferron icelle . late qui estoit en ung
+tax,endisantqu'ileny	tax , en disant qu ' il en y
+avoitplusd..'ungmillier,lequelsupliant	avoit plus d . . ' ung millier , lequel supliant
+supliantdistqu'iln'ensavoitriens	supliant dist qu ' il n ' en savoit riens
+;etnefut	; et ne fut
+pointlorscomptée.	point lors comptée .
+Etseptouhuit[jours	Et sept ou huit [ jours
+]après,	] après ,
+leditFerronala.de	ledit Ferron ala . de
+vieàtrespassementbiensouldainement...	vie à trespassement bien souldainement . . .
+Etaprèsleditsupliants'	Et après ledit supliant s '
+enalaàlavefvedudit	en ala à la vefve dudit
+duditFerron,quisavoitbienqu'ilavoit	dudit Ferron , qui savoit bien qu ' il avoit
+payéàsonditfeumaryla..	payé à son dit feu mary la . .
+.dictelate,exceptélèsdictzdeux	. dicte late , excepté lèsdictz deux
+solzungdenier,etluydist	solz ung denier , et luy dist
+qu'elleluyalastcompterla..dicte	qu ' elle luy alast compter la . . dicte
+late.,dontellefut	late . , dont elle fut
+contente;et..s'en[alèrent]	contente ; et . . s ' en [ alèrent ]
+]..luietla	] . . lui et la
+ladictefemmeauboyset	la dicte femme au boys et
+etcomptèrentla	et comptèrent la
+dictelateettrouvèrentqu'	dicte late et trouvèrent qu '
+ilenfailloitduditmillierungcentet	il en failloit dudit millier ung cent et
+ettrentelates.Et	et trente lates . Et
+incontinanticellefemme	incontinant icelle femme
+s'enaladeversJehan.Vadier	s ' en ala devers Jehan . Vadier
+,qu'ellepensoitqu'ilavoitprins	, qu ' elle pensoit qu ' il avoit prins
+prinscequ'.ilfailloitduditmillier	prins ce qu ' . il failloit dudit millier
+,.pource	, . pour ce
+qu'ildisoitquesonmaryluy	qu ' il disoit que son mary luy
 devoitdel'argent,etenlapresence	devoit de l ' argent , et en la presence
-deplusieurspersonnes	de plusieurs personnes
-personnes,luydist:«Vousavezprinsung	personnes , luy dist :« Vous avez prins ung
-ungcentettrentelatesd	ung cent et trente lates d
-d'ung.millier	d ' ung . millier
-quemonmaryavoitfaictes	que mon mary avoit faictes
-faictesàJehanPompart	faictes à Jehan Pompart
-cypresent.Baillezlesluiou	cy present . Baillez les lui ou
-nouslesironsprendre.»	nous les irons prendre .»
-LequelVadier	Lequel Vadier
-distqu'il	dist qu ' il
-n'enbailleroitpoint.	n ' en bailleroit point .
-Etadoncleditsuppliant,voyant	Et adonc ledit suppliant , voyant
-queledictVadierneluivouloitbaillerladicte	que ledict Vadier ne lui vouloit bailler la dicte
-late,ilalaluy	late , il ala luy
-,ladictefemmeet	, ladicte femme et
-etlevarletduditPompartsupliant,làoù	et le varlet dudit Pompart supliant , là où
-estoiticellelate;etcommençaicelluisupliantàcompter	estoit icelle late ; et commença icellui supliant à compter
-lesditescentettrentelatesqu'il	les dites cent et trente lates qu ' il
-ilfailloitduditmillier	il failloit dudit millier
-millier.Etquantledit..Vadiervitque	millier . Et quant ledit . . Vadier vit que
-leditsupliantcommençoitàcompter,ilsedescendit	ledit supliant commençoit à compter , il se descendit
-descenditdedessusungchevalletàsier	descendit de dessus ung chevallet à sier
-boisoùilestoit,etprintunglevier	bois où il estoit , et print ung levier
-levierensa	levier en sa
-samain,etvintversleditsupliant.Et	sa main , et vint vers ledit supliant . Et
-incontinantqueicelluyPompart	incontinant que icelluy Pompart
-levit,illuy	le vit , il luy
-demandaqu'ilvouloitfaire	demanda qu ' il vouloit faire
-duditlevier,et	dudit levier , et
-leditVadiernesonnamotetseprint	ledit Vadier ne sonna mot et se print
+presencedeplusieurs	presence de plusieurs
+personnes,luydist:«Vousavezprins	personnes , luy dist :« Vous avez prins
+ungcentettrente	ung cent et trente
+latesd'ungmillierquemon	lates d ' ung millier que mon
+maryavoitfaictesàJehanPompartcypresent.	mary avoit faictes à Jehan Pompart cy present .
+Baillezles	Baillez les
+lesluiounouslesirons	les lui ou nous les irons
+ironsprendre.»Lequel..	irons prendre .» Lequel . .
+Vadierdistqu'iln'enbailleroitpoint	Vadier dist qu ' il n ' en bailleroit point
+.Etadonc.ledit	. Et adonc . ledit
+leditsuppliant,voyant.que	ledit suppliant , voyant . que
+ledictVadierneluivouloitbaillerladicte	ledict Vadier ne lui vouloit bailler la dicte
+dictelate,	dicte late ,
+,ilalaluy,ladictefemmeetle.	, il ala luy , ladicte femme et le .
+varletduditPompartsupliant,.làoùestoiticellelate	varlet dudit Pompart supliant , . là où estoit icelle late
+;etcommençaicelluisupliantàcompterlesdites	; et commença icellui supliant à compter les dites
+centettrentelatesqu'ilfailloitdudit	cent et trente lates qu ' il failloit dudit
+millier.Et	millier . Et
+EtquantleditVadiervitqueleditsupliantcommençoità	Et quant ledit Vadier vit que ledit supliant commençoit à
+compter..,ilsedescenditde	compter . . , il se descendit de
+dessusungchevalletàsierboisoùilestoit,	dessus ung chevallet à sier bois où il estoit ,
+,etprintunglevierensa	, et print ung levier en sa
+samain,	sa main ,
+etvintversledit	et vint vers ledit
+supliant.Et	supliant . Et
+incontinantqueicelluyPompartlevit,	incontinant que icelluy Pompart le vit ,
+illuydemandaqu'ilvouloitfaireduditlevier	il luy demanda qu ' il vouloit faire dudit levier
+,etleditVadiernesonnamotetseprint	, et ledit Vadier ne sonna mot et se print
 àlalatequeledit	à la late que ledit
-supliantetsonvarletcomptoient,etdistaudit	supliant et son varlet comptoient , et dist audit
-supliantqu'iln'enauroit	supliant qu ' il n ' en auroit
-point.Et..	point . Et . .
-.adoncledit.	. adonc ledit .
-Pompartluydistquesy.auroit	Pompart luy dist que sy . auroit
-etqu'il	et qu ' il
-illaissastleditlevier.LequelVadier	il laissast ledit levier . Lequel Vadier
-Vadierlemistàterreet	Vadier le mist à terre et
-derrechefleditsupliant	derrechef ledit supliant
-seprintàcompterladictelate,luyetsondit	se print à compter ladicte late , luy et sondit
-varlet,commeparavant.Et	varlet , comme par avant . Et
-EtadoncquesleditVadier	Et adoncques ledit Vadier
-s'efforçad'	s ' efforça d '
-osteraudit[	oster audit [
-supliant]	supliant ]
-etàsonvarlet	et à son varlet
-ladicte..late,eteurent	ladicte . . late , et eurent
-ensembleplusieursparollesinjurieuses,etcommencèrent	ensemble plusieurs parolles injurieuses , et commencèrent
-àdesmentirl'unl'	à desmentir l ' un l '
-'autre,tant	' autre , tant
-tantqu'ilzs'	tant qu ' ilz s '
-'entrefrappèrentl'unl	' entrefrappèrent l ' un l
-l'..autre	l ' . . autre
-autredupoing,etenceconflictleditVadier	autre du poing , et en ce conflict ledit Vadier
-printunelateeten..frappalevarlet	print une late et en . . frappa le varlet
-duditPompart	dudit Pompart
-,supliant,autraversdubras,et	, supliant , au travers du bras , et
-leditsupliantprintlelevierqueleditVadieravoitapporté	ledit supliant print le levier que ledit Vadier avoit apporté
-,etlecuida	, et le cuida
-frappersurlesespaulles;maiz	frapper sur les espaulles ; maiz
-ille.frappa	il le . frappa
-surl'oye,dont	sur l ' oye , dont
-icelluyVadierchey	icelluy Vadier chey
-surladictelateetserelievatantost,et	sur la dicte late et se relieva tantost , et
-distauditPompartqu'il.n	dist audit Pompart qu ' il . n
-'auroitpointicellelate.,etladeust	' auroit point icelle late . , et la deust
-deustilgarderjouretnuyt.Etincontinanticeluysupliant	deust il garder jour et nuyt . Et incontinant iceluy supliant
-supliants'	supliant s '
-'enalaauxautrespersonnesquiestoientbienprèsd	' en ala aux autres personnes qui estoient bien près d
-'illecques,làoùilavoitdufeu,	' illecques , là où il avoit du feu ,
-etleditVadiervintincontinantaprèsluyetse	et ledit Vadier vint incontinant après luy et se
-couchaaupiéd'unesouché	coucha au pié d ' une souché
-souché,sansprendrepointdechapperon	souché , sans prendre point de chapperon
-.Etluydist.ungnomméSimon	. Et luy dist . ung nommé Simon
-Liege,qui	Liege , qui
-quiillecquesestoit..,qu'	qui illecques estoit . . , qu '
-ilprintsarobe	il print sa robe
-etqu'ilvensistaufeu,dont	et qu ' il vensist au feu , dont
-ilnevoult	il ne voult
-voultriensfaire	voult riens faire
-fairedupremiercop.Toutesvoyes.tantostaprèsils	faire du premier cop . Toutesvoyes . tantost après il s
-s'aprouchadufeuetprint	s ' aproucha du feu et print
-sarobe;etadoncqueslafemmeduditFerron	sa robe ; et adoncques la femme dudit Ferron
-vintàluyetluydemandadel	vint à luy et luy demanda de l
-'argentpourquerirdel'autre	' argent pour querir de l ' autre
-late,s'ilneluivouloit	late , s ' il ne lui vouloit
-baillercellelà.EtadoncleditVadier	bailler celle là . Et adonc ledit Vadier
-luydemandaàemprunterdel'argentaudict	luy demanda à emprunter de l ' argent audict
-SimonLiege	Simon Liege
-quiestoitenlapresence	qui estoit en la presence
-,etledit	, et ledit
-SimonLiegeluidistqu	Simon Liege lui dist qu
-'.iln'enavoitpoint.	' . il n ' en avoit point .
-EtlorsicelluiVadierdistà	Et lors icellui Vadier dist à
-ladictefemmequelle.alastfairecompter	la dicte femme quelle . alast faire compter
-leditcentet	ledit cent et
-trentelates..etqu	trente lates . . et qu
-'elleles.baillastauditsupliant.Et	' elle les . baillast audit supliant . Et
-incontinantladictefemmealafairecomptericelle	incontinant la dicte femme ala faire compter icelle
-lateàungnommé	late à ung nommé
-PierreBillerot	Pierre Billerot
-etlabaillaauditsupliant.Ets	et la bailla audit supliant . Et s
-'en..allaledit	' en . . alla le dit
-supliantàsamaison	supliant à sa maison
-,etlaissaleditVadieretautresillec.Et	, et laissa ledit Vadier et autres illec . Et
-Ettantost.aprèsleditSimonLegeetautresenvoyèrentquerirla	Et tantost . après ledit Simon Lege et autres envoyèrent querir la
-femmeduditVadieretluydistrentque..sonmaryestoit	femme dudit Vadier et luy distrent que . . son mary estoit
-bienmalade,etluienmenèrent	bien malade , et lui enmenèrent
-enunecharrète	en une charrète
-ensonhoustel,etledit	en son houstel , et ledit
-leditjour,environminuyt,	ledit jour , environ minuyt ,
-,alaiceluiVadier,	, ala icelui Vadier ,
-parfaultedegouvernementouautrement,	par faulte de gouvernement ou autrement ,
-devieàtrespassement.Et	de vie à trespassement . Et
-incontinantfurentprinsetsaisiztoussesbiens	incontinant furent prins et saisiz tous ses biens
-biensparlajusticeduditlieu	biens par la justice dudit lieu
-oùilestoit	où il estoit
-demourant.Pouroccasion	demourant . Pour occasion
-duquelcas,leditsupliant,doubtantrigueurde	duquel cas , ledit supliant , doubtant rigueur de
-justice,s'estabsentédupays	justice , s ' est absenté du pays
+leditsupliantetsonvarletcomptoient,	ledit supliant et son varlet comptoient ,
+etdistauditsupliantqu'iln'en	et dist audit supliant qu ' il n ' en
+auroitpoint.Etadoncledit	auroit point . Et adonc ledit
+Pompartluydistquesy	Pompart luy dist que sy
+auroitetqu'illaissastledit	auroit et qu ' il laissast ledit
+levier.LequelVadierle	levier . Lequel Vadier le
+mistàterreetderrechef	mist à terre et derrechef
+leditsupliantse	ledit supliant se
+seprintàcompter	se print à compter
+ladictelate,luyetsonditvarlet,comme	ladicte late , luy et sondit varlet , comme
+paravant	par avant
+.EtadoncquesleditVadiers'efforçad	. Et adoncques ledit Vadier s ' efforça d
+'osteraudit[supliant]età	' oster audit [ supliant ] et à
+àsonvarletladictelate	à son varlet ladicte late
+,eteurentensemble	, et eurent ensemble
+plusieursparollesinjurieuses,et	plusieurs parolles injurieuses , et
+etcommencèrentàdesmentirl'un	et commencèrent à desmentir l ' un
+unl'autre,tant	un l ' autre , tant
+qu'ilzs..	qu ' ilz s . .
+'entrefrappèrentl'unl'autredu	' entrefrappèrent l ' un l ' autre du
+poing,etenceconflictledit	poing , et en ce conflict ledit
+Vadierprintunelateetenfrappale	Vadier print une late et en frappa le
+varletduditPompart,supliant,au	varlet dudit Pompart , supliant , au
+traversdubras,etleditsupliantprintlelevier.	travers du bras , et ledit supliant print le levier .
+queleditVadieravoitapporté,etlecuida	que ledit Vadier avoit apporté , et le cuida
+frappersurlesespaulles;maizille	frapper sur les espaulles ; maiz il le
+frappasurl.'oye,donticelluy	frappa sur l . ' oye , dont icelluy
+Vadiercheysurladictelateetserelievatantost	Vadier chey sur la dicte late et se relieva tantost
+,etdistauditPompartqu'il	, et dist audit Pompart qu ' il
+n'auroit	n ' auroit
+pointicellelate,etladeust	point icelle late , et la deust
+deustilgarder	deust il garder
+jouretnuyt.Etincontinanticeluysupliant	jour et nuyt . Et incontinant iceluy supliant
+supliants'enalaaux	supliant s ' en ala aux
+autrespersonnesquiestoientbien	autres personnes qui estoient bien
+prèsd'illecques,	près d ' illecques ,
+làoùilavoit	là où il avoit
+dufeu,etleditVadiervint	du feu , et ledit Vadier vint
+vintincontinantaprèsluyetsecouchaaupiéd	vint incontinant après luy et se coucha au pié d
+'unesouché,sansprendre.	' une souché , sans prendre .
+pointdechapperon.EtluydistungnomméSimon	point de chapperon . Et luy dist ung nommé Simon
+Liege,quiillecquesestoit,qu'	Liege , qui illecques estoit , qu '
+ilprintsarobeetqu'ilvensist	il print sa robe et qu ' il vensist
+aufeu,dont	au feu , dont
+ilnevoult..	il ne voult . .
+.riensfairedu	. riens faire du
+premiercop.Toutesvoyestantostaprès.il	premier cop . Toutesvoyes tantost après . il
+ils'aprouchadu	il s ' aproucha du
+feuetprintsarobe;etadoncqueslafemme	feu et print sa robe ; et adoncques la femme
+duditFerronvintàluy	dudit Ferron vint à luy
+luyetluydemandadel'argentpour	luy et luy demanda de l ' argent pour
+querirde.l'autrelate	querir de . l ' autre late
+,s'ilneluivouloit	, s ' il ne lui vouloit
+baillercellelà.EtadoncleditVadierluydemanda	bailler celle là . Et adonc ledit Vadier luy demanda
+àemprunterde	à emprunter de
+l'argentaudict	l ' argent audict
+audictSimonLiegequiestoit	audict Simon Liege qui estoit
+enlapresence,etleditSimonLiegelui	en la presence , et ledit Simon Liege lui
+luidistqu'	lui dist qu '
+iln'enavoit	il n ' en avoit
+point.EtlorsicelluiVadierdistà	point . Et lors icellui Vadier dist à
+à.ladictefemmequellealastfairecompter	à . la dicte femme quelle alast faire compter
+leditcent	ledit cent
+ettrentelatesetqu'	et trente lates et qu '
+ellelesbaillastauditsupliant.Et	elle les baillast audit supliant . Et
+incontinantladictefemmealafaire	incontinant la dicte femme ala faire
+fairecomptericellelateàungnomméPierre	faire compter icelle late à ung nommé Pierre
+PierreBillerotetla	Pierre Billerot et la
+baillaauditsupliant.Ets'en	bailla audit supliant . Et s ' en
+allaleditsupliantà	alla le dit supliant à
+àsamaison,etlaissaleditVadieretautres	à sa maison , et laissa ledit Vadier et autres
+autresillec.Ettantostaprès	autres illec . Et tantost après
+leditSimonLegeetautresenvoyèrent	ledit Simon Lege et autres envoyèrent
+querirlafemmeduditVadier	querir la femme dudit Vadier
+etluydistrentquesonmaryestoitbienmalade	et luy distrent que son mary estoit bien malade
+,etluienmenèrentenunecharrète	, et lui enmenèrent en une charrète
+en.sonhoustel	en . son houstel
+houstel,etleditjour,	houstel , et ledit jour ,
+environminuyt,alaiceluiVadier,parfaultede	environ minuyt , ala icelui Vadier , par faulte de
+gouvernementouautrement,	gouvernement ou autrement ,
+devieàtrespassement.Etincontinantfurent.prins	de vie à trespassement . Et incontinant furent . prins
+etsaisiztoussesbiensparlajusticedudit	et saisiz tous ses biens par la justice dudit
+duditlieuoù	dudit lieu où
+ilestoitdemourant.Pouroccasionduquelcas	il estoit demourant . Pour occasion duquel cas
+cas,leditsupliant,doubtantrigueurde	cas , ledit supliant , doubtant rigueur de
+dejustice,s'	de justice , s '
+estabsentédupays	est absenté du pays
 ,auquelil	, auquel il
-n'oseroitjamès.	n ' oseroit jamès .
-.retourner,.conversernidemourer,se	. retourner , . converser ni demourer , se
-nostregraceetmisericordeneluiestoientsur..ce	nostre grace et misericorde ne lui estoient sur . . ce
-imparties,	imparties ,
-,ainsiqu'ildit.Et	, ainsi qu ' il dit . Et
-pour,cenousahumblementfaitsupplieret	pour , ce nous a humblement fait supplieret
-requerirque,attenducequeditest..,que	requerir que , attendu cequedit est . . , que
-leditsupliantn'apasestéagresseur..,maiz	ledit supliant n ' a pas esté agresseur . . , maiz
-leditfeuVadier,etqueentousautres	ledit feu Vadier , et que en tous autres
-autrescasIeditsupliantaestéet	autres cas Ie dit supliant a esté et
-estdebonnefame	est de bonne fame
-etrenommée,sansavoirjamès	et renommée , sans avoir jamès
-estéactaintouconvaincud'aucunautrevillain	esté actaint ou convaincu d ' aucun autre villain
-villaincas,blasmeou.reprouche,ilnous	villain cas , blasme ou . reprouche , il nous
-plaisesurceluyimpartirnostredictegraceet	plaise sur ce luy impartir nostre dicte grace et
-misericorde.Pourquoynous..,	misericorde . Pour quoy nous . . ,
-,leschosesdessusdictes	, les choses dessus dictes
-dictesconsiderées,voulansmisericordeprefereràrigueurde	dictes considerées , voulans misericorde preferer à rigueur de
-dejustice,audit.PierrePompart,	de justice , audit . Pierre Pompart ,
-supliant,avons,au	supliant , avons , au
-casdessusdict,quicté,remisetpardonné	cas dessus dict , quicté , remis et pardonné
-pardonné,etc..Sidonnonsenmandement,parces	pardonné , etc . . Si donnons en mandement , par ces
-mesmespresentes,ànostresenneschaldePoictouetà	mesmes presentes , à nostre senneschal de Poictou et à
-tousnoz	tous noz
-nozautresjusticiers,.etc.DonnéàTours,ou	noz autres justiciers , . etc . Donné à Tours , ou
-moysd.'avril	moys d . ' avril
-l.'andegrace	l . ' an de grace
-milcccc.	mil cccc .
-.cinquantehuit,etdenostrerègnelexxxvieaprès	. cinquante huit , et de nostre règne le xxxvie après
-Pasques.Ainsi	Pasques . Ainsi
-signé:Parleroy,àlarelaciondu	signé : Par le roy , à la relacion du
-conseil.Briconnet...—	conseil . Briconnet . . .—
-.—Visa.Contentor.	.— Visa . Contentor .
+n'oseroitjamès	n ' oseroit jamès
+retourner,	retourner ,
+conversernidemourer,senostre	converser ni demourer , se nostre
+graceetmisericordeneluiestoient	grace et misericorde ne lui estoient
+surceimparties,ainsi	sur ce imparties , ainsi
+qu'ildit.	qu ' il dit .
+....Etpour,cenous	. . . . Et pour , ce nous
+ahumblementfaitsupplieretrequerirque,	a humblement fait supplieret requerir que ,
+attenducequeditest,que	attendu cequedit est , que
+leditsupliantn'apasestéagresseur,	ledit supliant n ' a pas esté agresseur ,
+maizledit.feuVadier,etqueentous	maiz ledit . feu Vadier , et que en tous
+autrescas	autres cas
+Ieditsupliantaestéetestdebonne	Ie dit supliant a esté et est de bonne
+bonnefameet..renommée	bonne fame et . . renommée
+,sansavoirjamèsestéactaintou	, sans avoir jamès esté actaint ou
+convaincud'aucunautrevillaincas,blasme	convaincu d ' aucun autre villain cas , blasme
+oureprouche,ilnousplaise	ou reprouche , il nous plaise
+surceluy	sur ce luy
+luyimpartirnostredictegraceetmisericorde.Pour..	luy impartir nostre dicte grace et misericorde . Pour . .
+quoynous	quoy nous
+nous,leschosesdessusdictesconsiderées	nous , les choses dessus dictes considerées
+,voulansmisericorde	, voulans misericorde
+prefereràrigueurde	preferer à rigueur de
+justice,auditPierrePompart,supliant,avons	justice , audit Pierre Pompart , supliant , avons
+,aucasdessusdict,quicté,remis	, au cas dessus dict , quicté , remis
+remisetpardonné,	remis et pardonné ,
+,etc.Sidonnonsenmandement..,par	, etc . Si donnons en mandement . . , par
+cesmesmespresentes,ànostresenneschaldePoictou	ces mesmes presentes , à nostre senneschal de Poictou
+etàtous	et à tous
+nozautres	noz autres
+autresjusticiers,etc.Donné	autres justiciers , etc . Donné
+àTours,oumoys	à Tours , ou moys
+d'avrill'ande	d ' avril l ' an de
+degracemilcccc	de grace mil cccc
+.cinquantehuit,etdenostrerègnelexxxvie	. cinquante huit , et de nostre règne le xxxvie
+aprèsPasques.Ainsisigné:	après Pasques . Ainsi signé :
+Parleroy	Par le roy
+,àlarelacionduconseil	, à la relacion du conseil
+conseil.Briconnet	conseil . Briconnet
+Briconnet.—Visa.	Briconnet .— Visa .
+Contentor.DuBan.	Contentor . Du Ban .

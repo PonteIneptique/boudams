@@ -1,163 +1,173 @@
-Jehan,ainsnéfilz	Jehan , ainsné filz
-etlieutenantduroydeFrance,duc	et lieu tenant du roy de France , duc
-ducdeNormandie	duc de Normandie
-,contede..Poitiers,d'	, conte de . . Poitiers , d '
-'AnjouetduMaine	' Anjou et du Maine
-.Savoir	. Savoir
-faisonsàtouz,presenset	faisons à touz , presens et
-avenir,quenous	avenir , que nous
-avonsveuesuneslettressainnesetentieres,	avons veues unes lettres sainnes et entieres ,
-contenanslaformequis'ensuit	contenans la forme qui s ' ensuit
-:InnomineDomini,amen.Noverintuniversi.et	: In nomine Domini , amen . Noverint universi . et
-et..singuli,hoc	et . . singuli , hoc
-hocpresensinstrumentumpublicuminspecturi,visuriaceciamaudituriquod	hoc presens instrumentum publicum inspecturi , visuri ac eciam audituri quod
-,annoabIncarnacioneejusdemmillesimo	, anno ab Incarnacione ejusdem millesimo
-trecentesimoquadragesimotercio	trecentesimo quadragesimo tercio
-,inlocovocatoTofou,	, in loco vocato Tofou ,
-parrochiedeBonis,Pictavensis	parrochie de Bonis , Pictavensis
-Pictavensisdiocesis.,diexxv.mensisaugusti,regnanteillustrissimo	Pictavensis diocesis . , die xxv . mensis augusti , regnante illustrissimo
-principe,dominoPhilippo,Dei..gracia,Francorum	principe , domino Philippo , Dei . . gracia , Francorum
-rege,constitutisetexistentibuspersonaliter,in	rege , constitutis et existentibus personaliter , in
-inpresenciameinotariiettestiumsubscriptorum	in presencia mei notarii et testium subscriptorum
+Jehan,ainsnéfilzet	Jehan , ainsné filz et
+lieutenantduroyde	lieu tenant du roy de
+deFrance,ducdeNormandie,	de France , duc de Normandie ,
+contede	conte de
+Poitiers,d	Poitiers , d
+d'AnjouetduMaine...Savoirfaisons	d ' Anjou et du Maine . . . Savoir faisons
+àtouz,presens	à touz , presens
+presensetavenir,quenousavonsveues..unes	presens et avenir , que nous avons veues . . unes
+lettressainneset	lettres sainnes et
+entieres,contenanslaformequis'	entieres , contenans la forme qui s '
+ensuit:InnomineDomini	ensuit : In nomine Domini
+Domini,amen.Noverintuniversi	Domini , amen . Noverint universi
+etsinguli	et singuli
+,hocpresensinstrumentumpublicuminspecturi,visuriac	, hoc presens instrumentum publicum inspecturi , visuri ac
+eciamaudituriquod..	eciam audituri quod . .
+,annoab	, anno ab
+Incarnacioneejusdemmillesimotrecentesimoquadragesimotercio,inloco	Incarnacione ejusdem millesimo trecentesimo quadragesimo tercio , in loco
+vocatoTofou,parrochiede	vocato Tofou , parrochie de
+Bonis,Pictavensis..diocesis	Bonis , Pictavensis . . diocesis
+,diexxv.mensisaugusti,	, die xxv . mensis augusti ,
+regnanteillustrissimoprincipe,	regnante illustrissimo principe ,
+,dominoPhilippo,Deigracia,	, domino Philippo , Dei gracia ,
+Francorumrege,constitutisetexistentibuspersonaliter,inpresencia	Francorum rege , constitutis et existentibus personaliter , in presencia
+presenciameinotariiettestium	presencia mei notarii et testium
 subscriptorum,nobilivirodominoGuillelmoTrocelli,milite	subscriptorum , nobili viro domino Guillelmo Trocelli , milite
-,Andegavensisdiocesis.,	, Andegavensis diocesis . ,
-etnobilidomina,dominaMargaritade	et nobili domina , domina Margarita de
-deBaussaio,ejusuxore,deetcumlicenciaet	de Baussaio , ejus uxore , de et cum licencia et
-auctoritatedictivirisui,	auctoritate dicti viri sui ,
-proseetsuis	pro se et suis
-,exparte	, ex parte
-una,etnobiliviroPetro..deSanctoMarciali	una , et nobili viro Petro . . de Sancto Marciali
-,domicello,Tutellensis.diocesis,prose	, domicello , Tutellensis . diocesis , pro se
-etsuis,expartealtera.,dicticonjugesdixerunt	et suis , ex parte altera . , dicti conjuges dixerunt
-,asserueruntetrecognoveruntquod..dictusmiles	, asseruerunt et recognoverunt quod . . dictus miles
-,proseet	, pro se et
-nominedictedomineMargarite,ejus	nomine dicte domine Margarite , ejus
-uxoris,vendideratpure	uxoris , vendiderat pure
-,libereetperfecte,ettitulopureetperfecte	, libere et perfecte , et titulo pure et perfecte
-vendicionis,	vendicionis ,
-,cesseratdictodomicelloterramipsorumconjugum,vocatam	, cesserat dicto domicello terram ipsorum conjugum , vocatam
-deMaravalle	de Maravalle
-Maravallecumalbergamento,sitaminparrochiadeFromentau,	Maravalle cum albergamento , sitam in parrochia de Fromentau ,
-Lemovicensisdiocesis,	Lemovicensis diocesis ,
-redditibus,censibus,juribus	redditibus , censibus , juribus
-,deveriis,hominibustalhiabilibuset	, deveriis , hominibus talhiabilibus et
-explectabilibus,nemoribus,	explectabilibus , nemoribus ,
-garennisetomnibus	garennis et omnibus
-etsingulisjuribusdicteterre,etaddictamterram	et singulis juribus dicte terre , et ad dictam terram
-terrampertinentibus,ubicunqueexistant,preciomillesexcentorumdenariorum	terram pertinentibus , ubicunque existant , precio mille sexcentorum denariorum
-denariorumaurivocatorumàl'escut;cujusmodi	denariorum auri vocatorum à l ' escut ; cujusmodi
-cujusmodivenditadictusmiles,proseetnominequo	cujusmodi vendita dictus miles , pro se et nomine quo
-supra,asseruerat	supra , asseruerat
-dictoemptorivalerequinquaginta	dicto emptori valere quinquaginta
-treslibrasrenduales,adusus..etconsuetudinem	tres libras renduales , ad usus . . et consuetudinem
-patrie,cumproprietatetamin	patrie , cum proprietate tam in
-biadoquamdenariiset	biado quam denariis et
-hominibustalhiabilibusetexplectabilibusexistentibus,talhiis	hominibus talhiabilibus et explectabilibus existentibus , talhiis
-etexplectisdictorumhominumtalhiabiliumet	et explectis dictorum hominum talhiabilium et
-etexplectabiliuminsortemseuvaloremminimecomputatis.Asserueratet	et explectabilium in sortem seu valorem minime computatis . Asseruerat et
-dictusmiles,proseetnominequosupra	dictus miles , pro se et nomine quo supra
-,decimam,prepositatgium	, decimam , prepositatgium
-prepositatgium,seubladumdebitumracioneprepositatgii,etgallinas,	prepositatgium , seu bladum debitum racione prepositatgii , et gallinas ,
-nemora,garenam,stangnumetalia,	nemora , garenam , stangnum et alia ,
-ultradictasquinquagintatreslibras,ad	ultra dictas quinquaginta tres libras , ad
-addictumalbergamentumpertinencia,unacumdictoalbergamento	ad dictum albergamentum pertinencia , una cum dicto albergamento
-,valereannuatimtrigintalibras,secundum	, valere annuatim triginta libras , secundum
-communemextimacionempatrie	communem extimacionem patrie
-.Itemdixeruntquodprefatus	. Item dixerunt quod prefatus
-miles,proseet	miles , pro se et
-etnominequo	et nomine quo
-supra,.assitamet	supra , . assitam et
-assignacionemdictorumreddituum,ut	assignacionem dictorum reddituum , ut
-premittitur,feceratdictodomicello..,juxtapacta	premittitur , fecerat dicto domicello . . , juxta pacta
-pactaetconvencioneshabitasinterdictaspartes,etquoddictus	pacta et convenciones habitas inter dictas partes , et quod dictus
-milespromiserat	miles promiserat
-facere,etcurare	facere , et curare
-cumeffectu,ratifficare	cum effectu , ratifficare
-vendicionemetassignacionem	vendicionem et assignacionem
-assignacionemhujusmodiperprefatamdominamMargaritam,uxoremsuam,	assignacionem hujusmodi per prefatam dominam Margaritam , uxorem suam ,
-etconcediperearnlitterasetinstrumentaobligatoria	et concedi per earn litteras et instrumenta obligatoria
-,cumjuramentis	, cum juramentis
-juramentisetrenunciacionibusadremfacientibus,	juramentis et renunciacionibus ad rem facientibus ,
-etfaceredictedomineMargariterecompensacionemsuflicientem	et facere dicte domine Margarite recompensacionem suflicientem
-,congruametrealem,cumpremissa	, congruam et realem , cum premissa
-premissavenditaessentdotaliaetindotem	premissa vendita essent dotalia et in dotem
-dictomiliticumprefatadominaMargaritaassegnata..,	dicto militi cum prefata domina Margarita assegnata . . ,
-,proutpremissacontentaindictavenda	, prout premissa contenta in dicta venda
-dicticonjugesasserueruntlaciuscontineriinquodam	dicti conjuges asseruerunt lacius contineri in quodam
-publicoinstrumento,signoetsuscripcione	publico instrumento , signo et suscripcione
-JohannisTartarini,.	Johannis Tartarini , .
-Ambianensisdiocesisauctoritateregiapublici..	Ambianensis diocesis auctoritate regia publici . .
-.notarii,cujusinstrumentitenorinferiustotaliterestinsertus	. notarii , cujus instrumenti tenor inferius totaliter est insertus
-.Prefatusmiles,volensrecompensacionempredictamfaceredicte	. Prefatus miles , volens recompensacionem predictam facere dicte
-dictedomineuxorisue,ne	dicte domine uxori sue , ne
-indotataremaneret,in	indotata remaneret , in
-recompensacionepredictorumvenditorum,cessit,	recompensacione predictorum venditorum , cessit ,
-dedit,assignavitpenitusetperpetuoquictavitdictedomine	dedit , assignavit penitus et perpetuo quictavit dicte domine
-domineMargarite,uxorisue,presenti,et	domine Margarite , uxori sue , presenti , et
-presentemrecompensacionem	presentem recompensacionem
-,etomniaetsingulain..presentirecompensacionecontenta	, et omnia et singula in . . presenti recompensacione contenta
-,proseet	, pro se et
-suis,stipulantet	suis , stipulant et
-etrecipienti,etexcausadicterecompensacionis	et recipienti , et ex causa dicte recompensacion is
-isdotalisaffecitoctiesvigintilibrasrenduales,	is dotalis affecit octies viginti libras renduales ,
-adususetconsuetudinem	ad usus et consuetudinem
-antiquampatrieTuronensis,videlicetterciampartemin	antiquam patrie Turonensis , videlicet terciam partem in
-blado..,etterciaminvino,etterciam	blado . . , et terciam in vino , et terciam
-terciamindenariis,inet	terciam in denariis , in et
-etsuperalbergamentissuisdeRochabutotetdeRochausse	et super albergamentis suis de Rochabutot et de Rochausse
-,diocesisTuronensis,	, diocesis Turonensis ,
-etinpertineneiisdictorumalbergamentorum,videlicetinparrochiaSancti	et in pertineneiis dictorum albergamentorum , videlicet in parrochia Sancti
-SanctiAnthoninideSemblansaisetdeCharentile,etaliis	Sancti Anthonini de Semblansais et de Charentile , et aliis
-pertinenciisdictorum	pertinenciis dictorum
-dictorumlocorumuniversis.Actoexpresse..etinpactum	dictorum locorum universis . Acto expresse . . et in pactum
-pactumdeductopersolemnemstipulacionem	pactum deducto per solemnem stipulacionem
-stipulacionemvallatointer	stipulacionem vallato inter
-dictosconjugesquod,incasuin	dictos conjuges quod , in casu in
-quodicteocto	quo dicte octo
-octovigintilibrerendualesdictus	octo viginti libre renduales dictus
-dictusmilesdicte	dictus miles dicte
-domineuxorisue,inlocispredictis,ut	domine uxori sue , in locis predictis , ut
-premittitur,assidere	premittitur , assidere
-etassignarecomodenonposset	et assignare comode non posset
-,quodresiduumquodrestabitadassidendumeidem.domineuxori	, quod residuum quod restabit ad assidendum eidem . domine uxori
-sueassignet,assignareetassituareteneatur	sue assignet , assignare et assituare teneatur
-teneatur,adsolam.simplicemrequestamdicte	teneatur , ad solam . simplicem requestam dicte
-domine,inaliaterraipsiusmilitis,	domine , in alia terra ipsius militis ,
-adbonamcedenciamipsiusdomine,	ad bonam cedenciam ipsius domine ,
-albergamentiset	albergamentis et
-jurisdicionibustamendictorumlocoruminassita	jurisdicionibus tamen dictorum locorum in assita
-hujusmodiminimecomputatis,adhabendas,levandas	hujusmodi minime computatis , ad habendas , levandas
-,tenendas,possidendas,explectandasetamodopercipiendas	, tenendas , possidendas , explectandas et amodo percipiendas
-percipiendasdictasocto.vigintilibrasrendualespereandem,etalias	percipiendas dictas octo . viginti libras renduales per eandem , et alias
-deeisdemfaciendum,proutejusdem	de eisdem faciendum , prout ejusdem
-domineplacueritvoluntati,	domine placuerit voluntati ,
-,invitapariteretinmorte.Devestiens	, in vita pariter et in morte . Devestiens
-Devestiensseprelibatusmiles,..proseetsuis	Devestiens se prelibatus miles , . . pro se et suis
-,dedictisoctovigintilibrisrendualibus	, de dictis octo viginti libris rendualibus
-,.dictedomineassignatis	, . dicte domine assignatis
-assignatisettraditis,inrecompensacionempredictorum,etdictamdominam	assignatis et traditis , in recompensacionem predictorum , et dictam dominam
-investivit.pertradicionemnotulehujusmodipresentis	investivit . per tradicionem notule hujusmodi presentis
-publiciinstrument,perpetuovalituri	publici instrument , perpetuo valituri
-.Promittensdictusmiles,etc.Lesquelleslettreset	. Promittens dictus miles , etc . Lesquelles lettres et
-ettoutesleschosescontenuesen.ycellesavonsfermeset	et toutes les choses contenues en . ycelles avons fermes et
-etagreables,ycellestoutezet.chescuned'icellesagreons	et agreables , ycelles toutez et . chescune d ' icelles agreons
-agreons,confermons	agreons , confermons
-confermonsetaprovons,duplainpovoiret.auctoritérealà	confermons et aprovons , du plain povoir et . auctorité real à
-nouscommisparnostredit..seigneuret	nous commis par nostre dit . . seigneur et
-pere,decertainnescienceetdegrace	pere , de certainne science et de grace
-especial.Et	especial . Et
-quecesoitchosefermeetestableà	que ce soit chose ferme et estable à
-àtouzjours,nousavonsfaitmettrenostreseel	à touz jours , nous avons fait mettre nostre seel
-seelences	seel en ces
-lettres.Saufledroitde	lettres . Sauf le droit de
-nostreditseigneuretpereèsautres	nostre dit seigneur et pere ès autres
-chosesetl'	choses et l '
-autruyentoutes.Donné	autruy en toutes . Donné
-àlaVileneuveprèsd'Avignon,l'	à la Vileneuve près d ' Avignon , l '
-andegrace	an de grace
-gracemilccc..xliiij.,lepremier	grace mil ccc . . xliiij ., le premier
-premierjourdumoisdejuing	premier jour du mois de juing
-.Parmonseigneur	. Par monseigneur
-leduc,à	le duc , à
-vostrerelacion.Francon.Sinefinancia,	vostre relacion . Francon . Sine financia ,
-,demandatogenciumcompotorumexistenciumcumdominoduce.Francon	, de mandato gencium compotorum existencium cum domino duce . Francon
+,Andegavensisdiocesis,etnobilidomina	, Andegavensis diocesis , et nobili domina
+domina,dominaMargaritadeBaussaio,ejusuxore	domina , domina Margarita de Baussaio , ejus uxore
+,de..etcumlicenciaet	, de . . et cum licencia et
+auctoritatedicti.virisui,pro	auctoritate dicti . viri sui , pro
+seetsuis,exparteuna,et	se et suis , ex parte una , et
+etnobiliviroPetrodeSanctoMarciali,domicello,Tutellensis	et nobili viro Petro de Sancto Marciali , domicello , Tutellensis
+Tutellensisdiocesis,proseetsuis,	Tutellensis diocesis , pro se et suis ,
+expartealtera,dicticonjugesdixerunt	ex parte altera , dicti conjuges dixerunt
+,asserueruntetrecognoverunt	, asseruerunt et recognoverunt
+recognoveruntquoddictusmiles,proseetnominedictedomine	recognoverunt quod dictus miles , pro se et nomine dicte domine
+domineMargarite,ejusuxoris,vendideratpure	domine Margarite , ejus uxoris , vendiderat pure
+,libereetperfecte,ettitulo	, libere et perfecte , et titulo
+pureetperfectevendicionis,cesserat	pure et perfecte vendicionis , cesserat
+dictodomicelloterram	dicto domicello terram
+ipsorumconjugum.,vocatam	ipsorum conjugum . , vocatam
+deMaravalle..	de Maravalle . .
+.cumalbergamento,sitamin	. cum albergamento , sitam in
+parrochiade	parrochia de
+Fromentau..,Lemovicensisdiocesis,redditibus,censibus	Fromentau . . , Lemovicensis diocesis , redditibus , censibus
+,juribus,deveriis,	, juribus , deveriis ,
+hominibustalhiabilibusetexplectabilibus,nemoribus,garennis	hominibus talhiabilibus et explectabilibus , nemoribus , garennis
+etomnibuset	et omnibus et
+singulisjuribusdicteterre	singulis juribus dicte terre
+,etaddictam	, et ad dictam
+terrampertinentibus,ubicunque	terram pertinentibus , ubicunque
+existant,preciomillesexcentorumdenariorum	existant , precio mille sexcentorum denariorum
+aurivocatorumàl'	auri vocatorum à l '
+'escut;	' escut ;
+cujusmodivenditadictusmiles,	cujusmodi vendita dictus miles ,
+proseetnomine	pro se et nomine
+quosupra,asserueratdictoemptorivalerequinquagintatres	quo supra , asseruerat dicto emptori valere quinquaginta tres
+treslibrasrenduales,adususet	tres libras renduales , ad usus et
+consuetudinem..patrie	consuetudinem . . patrie
+patrie,cumproprietatetaminbiadoquamdenariis	patrie , cum proprietate tam in biado quam denariis
+denariisethominibustalhiabilibusetexplectabilibusexistentibus,talhiisetexplectis	denariis et hominibus talhiabilibus et explectabilibus existentibus , talhiis et explectis
+explectisdictorum.hominum	explectis dictorum . hominum
+hominumtalhiabiliumetexplectabiliuminsortemseuvaloremminimecomputatis.	hominum talhiabilium et explectabilium in sortem seu valorem minime computatis .
+Asserueratet.dictusmiles,prose	Asseruerat et . dictus miles , pro se
+etnominequosupra,decimam,prepositatgium,	et nomine quo supra , decimam , prepositatgium ,
+seubladumdebitumracioneprepositatgii,etgallinas	seu bladum debitum racione prepositatgii , et gallinas
+gallinas,nemora	gallinas , nemora
+,garenam,stangnumetalia,ultradictas	, garenam , stangnum et alia , ultra dictas
+quinquagintatres	quinquaginta tres
+libras.,ad	libras . , ad
+addictumalbergamentumpertinencia,unacumdictoalbergamento,	ad dictum albergamentum pertinencia , una cum dicto albergamento ,
+valereannuatimtrigintalibras,secundum	valere annuatim triginta libras , secundum
+communem..extimacionempatrie.Itemdixeruntquodprefatusmiles	communem . . extimacionem patrie . Item dixerunt quod prefatus miles
+,proseetnominequosupra,	, pro se et nomine quo supra ,
+assitametassignacionemdictorumreddituum,utpremittitur,	assitam et assignacionem dictorum reddituum , ut premittitur ,
+feceratdictodomicello,	fecerat dicto domicello ,
+juxtapactaetconvencioneshabitasinterdictaspartes,	juxta pacta et convenciones habitas inter dictas partes ,
+etquoddictusmiles..promiseratfacere,	et quod dictus miles . . promiserat facere ,
+etcurarecumeffectu,ratifficare	et curare cum effectu , ratifficare
+vendicionemetassignacionemhujusmodiper	vendicionem et assignacionem hujusmodi per
+perprefatamdominamMargaritam,uxoremsuam,et..concedi	per prefatam dominam Margaritam , uxorem suam , et . . concedi
+per.earnlitteras	per . earn litteras
+etinstrumentaobligatoria,cumjuramentiset	et instrumenta obligatoria , cum juramentis et
+renunciacionibusadrem	renunciacionibus ad rem
+remfacientibus,etfaceredictedomineMargariterecompensacionemsuflicientem	rem facientibus , et facere dicte domine Margarite recompensacionem suflicientem
+,congruamet	, congruam et
+etrealem,cumpremissa..venditaessentdotaliaetin	et realem , cum premissa . . vendita essent dotalia et in
+dotemdictomiliti	dotem dicto militi
+cumprefatadominaMargaritaassegnata,proutpremissacontenta	cum prefata domina Margarita assegnata , prout premissa contenta
+indictavenda	in dicta venda
+dicticonjugesasserueruntlaciuscontineriinquodampublico	dicti conjuges asseruerunt lacius contineri in quodam publico
+publicoinstrumento,signoetsuscripcioneJohannisTartarini	publico instrumento , signo et suscripcione Johannis Tartarini
+,Ambianensisdiocesisauctoritateregiapublicinotarii,	, Ambianensis diocesis auctoritate regia publici notarii ,
+cujusinstrumentitenorinferiustotaliterestinsertus.Prefatusmiles	cujus instrumenti tenor inferius totaliter est insertus . Prefatus miles
+miles,volens	miles , volens
+volensrecompensacionempredictamfacere	volens recompensacionem predictam facere
+dictedomineuxorisue,neindotataremaneret,	dicte domine uxori sue , ne indotata remaneret ,
+inrecompensacione.	in recompensacione .
+.predictorumvenditorum,cessit,dedit	. predictorum venditorum , cessit , dedit
+,assignavitpenitusetperpetuoquictavit	, assignavit penitus et perpetuo quictavit
+dictedomineMargarite,uxorisue	dicte domine Margarite , uxori sue
+sue,presenti,etpresentemrecompensacionem,etomniaet	sue , presenti , et presentem recompensacionem , et omnia et
+singula..inpresentirecompensacionecontenta,	singula . . in presenti recompensacione contenta ,
+,proseetsuis,stipulantetrecipienti	, pro se et suis , stipulant et recipienti
+recipienti,etexcausadicterecompensacionis..	recipienti , et ex causa dicte recompensacion is . .
+dotalisaffecitoctiesvigintilibrasrenduales,	dotalis affecit octies viginti libras renduales ,
+,adususetconsuetudinemantiquampatrie	, ad usus et consuetudinem antiquam patrie
+Turonensis,videlicetterciamparteminblado,etterciam	Turonensis , videlicet terciam partem in blado , et terciam
+terciaminvino,etterciamindenariis	terciam in vino , et terciam in denariis
+,inetsuperalbergamentissuisdeRochabutotetde	, in et super albergamentis suis de Rochabutot et de
+Rochausse,	Rochausse ,
+diocesisTuronensis,etinpertineneiis.dictorumalbergamentorum	diocesis Turonensis , et in pertineneiis . dictorum albergamentorum
+,videlicetinparrochiaSanctiAnthonini	, videlicet in parrochia Sancti Anthonini
+Anthonini..deSemblansaisetdeCharentile	Anthonini . . de Semblansais et de Charentile
+,etaliis	, et aliis
+pertinenciisdictorumlocorumuniversis.Actoexpresse	pertinenciis dictorum locorum universis . Acto expresse
+etinpactumdeductopersolemnemstipulacionem	et in pactum deducto per solemnem stipulacionem
+vallatointerdictosconjuges	vallato inter dictos conjuges
+conjugesquod,in	conjuges quod , in
+incasuinquodicteoctoviginti	in casu in quo dicte octo viginti
+librerendualesdictusmilesdictedomine	libre renduales dictus miles dicte domine
+domineuxorisue,	domine uxori sue ,
+inlocispredictis,ut	in locis predictis , ut
+premittitur,assidereetassignarecomode	premittitur , assidere et assignare comode
+nonposset,	non posset ,
+,quodresiduumquodrestabitadassidendum	, quod residuum quod restabit ad assidendum
+eidemdomineuxorisueassignet,assignare	eidem domine uxori sue assignet , assignare
+assignareetassituareteneatur,adsolamsimplicem	assignare et assituare teneatur , ad solam simplicem
+requestamdictedomine,	requestam dicte domine ,
+inaliaterra	in alia terra
+ipsiusmilitis,adbonamcedenciam	ipsius militis , ad bonam cedenciam
+ipsiusdomine,albergamentisetjurisdicionibustamendictorumlocorum	ipsius domine , albergamentis et jurisdicionibus tamen dictorum locorum
+inassitahujusmodiminimecomputatis,adhabendas	in assita hujusmodi minime computatis , ad habendas
+habendas,levandas,tenendas,possidendas	habendas , levandas , tenendas , possidendas
+,explectandasetamodopercipiendasdictasoctovigintilibrasrenduales	, explectandas et amodo percipiendas dictas octo viginti libras renduales
+pereandem,etaliasde	per eandem , et alias de
+eisdemfaciendum,proutejusdem..domineplacueritvoluntati	eisdem faciendum , prout ejusdem . . domine placuerit voluntati
+,invitapariter	, in vita pariter
+etinmorte	et in morte
+morte.Devestiens	morte . Devestiens
+Devestiens..seprelibatusmiles,prose	Devestiens . . se prelibatus miles , pro se
+seetsuis	se et suis
+suis,dedictisoctovigintilibrisrendualibus,dicte	suis , de dictis octo viginti libris rendualibus , dicte
+domineassignatisettraditis,	domine assignatis et traditis ,
+inrecompensacionempredictorum,	in recompensacionem predictorum ,
+etdictamdominaminvestivit	et dictam dominam investivit
+pertradicionem	per tradicionem
+notulehujusmodipresentispubliciinstrument,perpetuovalituri.	notule hujusmodi presentis publici instrument , perpetuo valituri .
+Promittensdictusmiles,etc.Lesquelleslettresettoutes	Promittens dictus miles , etc . Lesquelles lettres et toutes
+toutes.leschosescontenuesenycelles	toutes . les choses contenues en ycelles
+ycellesavonsfermesetagreables,	ycelles avons fermes et agreables ,
+,ycellestoutezetchescune.	, ycelles toutez et chescune .
+d'icellesagreons	d ' icelles agreons
+,..confermonsetaprovons,duplainpovoiretauctorité	, . . confermons et aprovons , du plain povoir et auctorité
+realànouscommis	real à nous commis
+parnostreditseigneuretpere,decertainne	par nostre dit seigneur et pere , de certainne
+science..etdegraceespecial	science . . et de grace especial
+.Etquecesoit	. Et que ce soit
+soitchosefermeet	soit chose ferme et
+estableàtouzjours	estable à touz jours
+jours,nousavonsfaitmettrenostre	jours , nous avons fait mettre nostre
+nostreseelenceslettres...Saufledroitde	nostre seel en ces lettres . . . Sauf le droit de
+nostreditseigneuretpereèsautreschoses	nostre dit seigneur et pere ès autres choses
+etl'autruy	et l ' autruy
+entoutes.Donnéà	en toutes . Donné à
+laVileneuveprèsd'Avignon,l'..an	la Vileneuve près d ' Avignon , l ' . . an
+degrace..	de grace . .
+milccc.xliiij.,	mil ccc . xliiij .,
+.,lepremierjourdu	., le premier jour du
+dumoisdejuing	du mois de juing
+.Parmonseigneurle	. Par monseigneur le
+leduc,àvostrerelacion.Francon.Sinefinancia	le duc , à vostre relacion . Francon . Sine financia
+,demandatogencium	, de mandato gencium
+compotorumexistenciumcumdominoduce.Francon.	compotorum existencium cum domino duce . Francon .

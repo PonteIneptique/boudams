@@ -1,106 +1,108 @@
-Charles,etc.Savoir	Charles , etc . Savoir
-Savoirfaisonsàtous,presenset..avenir,nous	Savoir faisons à tous , presens et . . avenir , nous
-avoirreceul	avoir receu l
-’umblesupplicaciondeBerthomé	’ umble supplicacion de Berthomé
-Aufferrat,ditBonneau	Aufferrat , dit Bonneau
-Bonneau,povrehommedelabour,	Bonneau , povre homme de labour ,
-contenantque,xviii.ansa	contenant que , xviii . ans a
-ouenvironet.durantlesguerresetdivisions	ou environ et . durant les guerres et divisions
-quionteucoursenceroyaume,	qui ont eu cours en ce royaume ,
-,etqueles	, et que les
-gensdeguerrequiestoientlorssurles	gens de guerre qui estoient lors sur les
-leschampsfaisoientplusieursgrans..excès,dommaiges	les champs faisoient plusieurs grans . . excès , dommaiges
-etoultragesau	et oultrages au
-pouvrepeuple	pouvre peuple
-,ungnomméBoysGlavy	, ung nommé Boys Glavy
-,lorscappitainedegensd’armes,	, lors cappitaine de gens d ’ armes ,
-vintparnuytet..	vint par nuyt et . .
-d’embléeavecquesplusieursgens	d ’ emblée avecques plusieurs gens
-deguerreoubourg	de guerre ou bourg
-bourgdeChastelGuillaumeoupaïsdePoictou,ouquel	bourg de Chastel Guillaume ou païs de Poictou , ou quel
-bourg..ilzse	bourg . . ilz se
-logèrentetytuèrent	logèrent et y tuèrent
-tuèrentplusieurshommesetfemmesetcertainequantité	tuèrent plusieurs hommes et femmes et certaine quantité
-debestiail,et	de bestiail , et
-aprèscepillèrentledit..bourgets	après ce pillèrent ledit . . bourg et s
-’enalèrentenungautrebourg	’ en alèrent en ung autre bourg
-bourgappelléVouhet.Etlejourque	bourg appellé Vouhet . Et le jour que
-iceulxgensdeguerredeslogèrentduditbourgdeChastel	iceulx gens de guerre deslogèrent dudit bourg de Chastel
-Guillaume,etainsiquetroisdesdizgensde	Guillaume , et ainsi que trois desdiz gens de
-guerrede.la	guerre de . la
-lacompagnieduditBoysGlavy,quiestoientdemourezderrière	la compagnie dudit Boys Glavy , qui estoient demourez derrière
-,s’enaloient	, s ’ en aloient
-aprèsleurditcappitaine,enpassantauprèsd’un	après leurdit cappitaine , en passant auprès d ’ un
-unpetitboucagedeboysprèsduditChastelGuillaume,ilz	un petit boucage de boys près dudit Chastel Guillaume , ilz
-ilztrouvèrenttroishommesduditpaïsquiavoientperdupluseurs	ilz trouvèrent trois hommes dudit païs qui avoient perdu pluseurs
-deleursparensetamiset	de leurs parens et amis et
-grantquantité	grant quantité
-deleursbiensparleditBoysGlavyetsesgens	de leurs biens par ledit Boys Glavy et ses gens
+Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
+àtous,presens.etavenir,nousavoirreceu	à tous , presens . et avenir , nous avoir receu
+receul’umblesupplicaciondeBerthomé	receu l ’ umble supplicacion de Berthomé
+Aufferrat,dit	Aufferrat , dit
+Bonneau,povrehomme.	Bonneau , povre homme .
+delabour,contenantque,xviii.	de labour , contenant que , xviii .
+ansaouenvironetdurant	ans a ou environ et durant
+lesguerresetdivisionsquionteucoursence	les guerres et divisions qui ont eu cours en ce
+royaume,etquelesgens	royaume , et que les gens
+deguerre	de guerre
+quiestoientlorssur	qui estoient lors sur
+leschampsfaisoientplusieursgransexcès,dommaiges	les champs faisoient plusieurs grans excès , dommaiges
+etoultragesaupouvrepeuple,..ungnommé	et oultrages au pouvre peuple , . . ung nommé
+nomméBoysGlavy,lorscappitainede	nommé Boys Glavy , lors cappitaine de
+gensd’armes,vintparnuytetd	gens d ’ armes , vint par nuyt et d
+’embléeavecquesplusieursgensde	’ emblée avecques plusieurs gens de
+guerreoubourgdeChastelGuillaume	guerre ou bourg de Chastel Guillaume
+oupaïsdePoictou,ouquel	ou païs de Poictou , ou quel
+bourgilzselogèrentet	bourg ilz se logèrent et
+etytuèrentplusieurshommesetfemmes	et y tuèrent plusieurs hommes et femmes
+etcertainequantitédebestiail,etaprèsce	et certaine quantité de bestiail , et après ce
+pillèrentleditbourgets’enalèrenten	pillèrent ledit bourg et s ’ en alèrent en
+ungautrebourg	ung autre bourg
+appelléVouhet.Etlejourqueiceulxgens	appellé Vouhet . Et le jour que iceulx gens
+gensdeguerredeslogèrent	gens de guerre deslogèrent
+duditbourgdeChastel.Guillaume,etainsiquetrois	dudit bourg de Chastel . Guillaume , et ainsi que trois
+troisdesdizgensde	trois desdiz gens de
+guerredelacompagniedudit	guerre de la compagnie dudit
+BoysGlavy,quiestoientdemourezderrière	Boys Glavy , qui estoient demourez derrière
+derrière,s’enaloientaprèsleurditcappitaine	derrière , s ’ en aloient après leurdit cappitaine
+,enpassantauprèsd’un	, en passant auprès d ’ un
+petitboucagedeboysprès	petit boucage de boys près
+dudit..ChastelGuillaume,ilz	dudit . . Chastel Guillaume , ilz
+ilztrouvèrenttroishommesdudit	ilz trouvèrent trois hommes dudit
+païsquiavoientperdupluseursde	païs qui avoient perdu pluseurs de
+deleursparensetamisetgrantquantitédeleursbiens	de leurs parens et amis et grant quantité de leurs biens
+parledit	par ledit
+BoysGlavyetsesgens,	Boys Glavy et ses gens ,
 ,lesquelzalèrentaprèslesdiztroishommesdeguerre,	, lesquelz alèrent après lesdiz trois hommes de guerre ,
-etappellèrent.	et appellèrent .
-leditsuppliantquigardoitdesbestesprès	ledit suppliant qui gardoit des bestes près
-prèsd’ilecpour	près d ’ ilec pour
-lesacompaigner.Lequel	les acompaigner . Lequel
-yalaetles	y ala et les
-lessuivy.Etincontinantqueiceulxtroishommesdudit	les suivy . Et incontinant que iceulx trois hommes dudit
-duditpaïseurent..	dudit païs eurent . .
-aconceuzlesdizgensdeguerre,ilzleurdemandèrent	aconceuz lesdiz gens de guerre , ilz leur demandèrent
-s’ilzestoientdes	s ’ ilz estoient des
-desgensd’	des gens d ’
-armes,lesquelz.respondirentqueoy	armes , lesquelz . respondirent que oy
-oy,etsurcese	oy , et sur ce se
-meutdebatentreeulx,	meut debat entre eulx ,
-tellementquel	tellement que l
-l’undesdiztroishommesdeguerrefutfrappéd	l ’ un desdiz trois hommes de guerre fut frappé d
-’.unespiotpar	’ . un espiot par
-l’undesdiztroishommesduditpaïs;	l ’ un desdiz trois hommes dudit païs ;
-;et..tantostaprèsleditsuppliantarriva	; et . . tantost après ledit suppliant arriva
-arrivaauditdebat,enentenciondesecouriretaiderausdiz	arriva audit debat , en entencion de secourir et aider ausdiz
-troishommesduditpaïs,..sebesoing	trois hommes dudit païs , . . se besoing
-eneussenteu..Etquantilfutilecques	en eussent eu . . Et quant il fut ilecques
-arrivé,ledithomme.deguerrequiestoit	arrivé , ledit homme . de guerre qui estoit
-blecié,s’en	blecié , s ’ en
-vintversluietluidisttelesousemblables	vint vers lui et lui dist teles ou semblables
-parolles:«Jesuismortetmerensàvous	parolles :« Je suis mort et me rens à vous
-.Cesgensycym	. Ces gens ycy m
-’ontblecié»,etse	’ ont blecié », et se
-print.dela	print . de la
-mainaudit	main audit
-suppliant,lequel.luidit:«Vous	suppliant , lequel . lui dit :« Vous
-Vousn’enmourrezjà.»Mais.tantostaprèsil	Vous n ’ en mourrez jà .» Mais . tantost après il
-aladevie	ala de vie
-vieàtrespassementouchamp	vie à trespassement ou champ
-champetenlaplaceoùil	champ et en la place où il
-estoit.Pour	estoit . Pour
-occasionduquelcas,dontleditsuppliantn	occasion duquel cas , dont ledit suppliant n
-n’estautrementcoulpablequedit	n ’ est autrement coulpable que dit
+etappellèrentleditsuppliantqui	et appellèrent ledit suppliant qui
+gardoitdesbestesprèsd’	gardoit des bestes près d ’
+ilecpourlesacompaigner.Lequelyala	ilec pour les acompaigner . Lequel y ala
+alaetlessuivy...Et	ala et les suivy . . . Et
+Etincontinantqueiceulxtroishommesduditpaïseurentaconceuzlesdiz	Et incontinant que iceulx trois hommes dudit païs eurent aconceuz lesdiz
+gensdeguerre	gens de guerre
+guerre,ilzleurdemandèrent..	guerre , ilz leur demandèrent . .
+s’ilzestoient	s ’ ilz estoient
+desgensd’armes,lesquelzrespondirent	des gens d ’ armes , lesquelz respondirent
+queoy,etsurcese..meut	que oy , et sur ce se . . meut
+debatentreeulx,tellementquel	debat entre eulx , tellement que l
+’undesdiztroishommesde	’ un desdiz trois hommes de
+guerrefutfrappéd’unespiotpar	guerre fut frappé d ’ un espiot par
+l’undesdiztroishommesdudit	l ’ un desdiz trois hommes dudit
+païs;ettantostaprès.ledit	païs ; et tantost après . ledit
+suppliantarrivaaudit	suppliant arriva audit
+debat,enentenciondesecouriretaiderausdiz	debat , en entencion de secourir et aider ausdiz
+troishommesduditpaïs,sebesoingen	trois hommes dudit païs , se besoing en
+eussenteu.Etquantilfut	eussent eu . Et quant il fut
+ilecquesarrivé,ledit	ilecques arrivé , ledit
+ledithommedeguerrequiestoit..blecié	ledit homme de guerre qui estoit . . blecié
+blecié,s’..	blecié , s ’ . .
+envintversluietluidistteles	en vint vers lui et lui dist teles
+ousemblables	ou semblables
+parolles:«Jesuis.mortet	parolles :« Je suis . mort et
+merensàvous.Cesgensycy	me rens à vous . Ces gens ycy
+m’ontblecié»,et	m ’ ont blecié », et
+seprintdelamainauditsuppliant	se print de la main audit suppliant
+,lequelluidit	, lequel lui dit
+:«..Vousn’enmourrezjà.»Maistantost	:« . . Vous n ’ en mourrez jà .» Mais tantost
+après.ilalade	après . il ala de
+vieàtrespassement	vie à trespassement
+ouchampeten	ou champ et en
+laplaceoùilestoit	la place où il estoit
+estoit.Pouroccasionduquel	estoit . Pour occasion duquel
+duquelcas,	duquel cas ,
+,dontledit	, dont ledit
+suppliantn..’estautrementcoulpableque	suppliant n . . ’ est autrement coulpable que
 ditest,etnefrapaaucunementicelluihomme	dit est , et ne frapa aucunement icellui homme
-deguerrequiestainsi	de guerre qui est ainsi
-alédevieàtrespassement,nen’estoit	alé de vie à trespassement , ne n ’ estoit
-estoitpresentàl’eurequ’ilfutmutilé	estoit present à l ’ eure qu ’ il fut mutilé
-etblecié,maisyarrivaincontinantaprès	et blecié , mais y arriva incontinant après
-,commedessusestdit,doubtantrigueurdejustice	, comme dessus est dit , doubtant rigueur de justice
-,..iln’oseroitjamais	, . . il n ’ oseroit jamais
-seurementdemourerouditpaïs,senostre	seurement demourer oudit païs , se nostre
-nostregraceetmisericordeneluiestoit	nostre grace et misericorde ne lui estoit
-surceimpartie,requerant	sur ce impartie , requerant
-humblementicelle.Pourquoynous	humblement icelle . Pour quoy nous
-nous,ceschoses	nous , ces choses
-chosesconsiderées,voulansmisericordeprefererà	choses considerées , voulans misericorde preferer à
-àrigueurde.justice,auditsuppliantavonslefait	à rigueur de . justice , audit suppliant avons le fait
-etcasdessus.dizquicté	et cas dessus . diz quicté
-,remisetpardonné,etc.Si	, remis et pardonné , etc . Si
-Sidonnonsenmandementpar	Si donnons en mandement par
-ces.presentesauseneschaldePoictou	ces . presentes au seneschal de Poictou
-etàtousnozautresjusticiers,etc.	et à tous noz autres justiciers , etc .
-.Donnéà	. Donné à
-Mehunsur	Mehun sur
-Yèvre,oumoysdejanvierl	Yèvre , ou moys de janvier l
-l’andegracemilcccc	l ’ an de grace mil cccc
-cccc.cinquanteetquatre.	cccc . cinquante et quatre .
-.,etdenostrerègnelexxxiiie.	. , et de nostre règne le xxxiiie .
-.Ainsisignées..	. Ainsi signées . .
-:Parleroy,àla	: Par le roy , à la
-relacionduconseil.J.Rogier	relacion du conseil . J . Rogier
-.—Visa.	.— Visa .
-Contentor.Chaligaut	Contentor . Chaligaut
+deguerrequiest	de guerre qui est
+ainsialédevieàtrespassement	ainsi alé de vie à trespassement
+trespassement..,nen’	trespassement . . , ne n ’
+’estoitpresentà	’ estoit present à
+l’eurequ’ilfutmutiléet	l ’ eure qu ’ il fut mutilé et
+blecié,maisyarrivaincontinantaprès	blecié , mais y arriva incontinant après
+,commedessus	, comme dessus
+estdit,doubtantrigueurdejustice,iln	est dit , doubtant rigueur de justice , il n
+’oseroitjamais..seurement	’ oseroit jamais . . seurement
+demourerouditpaïs,senostre	demourer oudit païs , se nostre
+graceetmisericordeneluiestoitsur	grace et misericorde ne lui estoit sur
+ceimpartie	ce impartie
+,requeranthumblementicelle.Pour	, requerant humblement icelle . Pour
+quoy.nous,	quoy . nous ,
+ceschosesconsiderées,voulansmisericordeprefereràrigueurde	ces choses considerées , voulans misericorde preferer à rigueur de
+justice,auditsuppliantavonsle	justice , audit suppliant avons le
+lefaitetcasdessusdizquicté,remisetpardonné	le fait et cas dessus diz quicté , remis et pardonné
+,etc.Si	, etc . Si
+donnonsenmandementparcespresentesau	donnons en mandement par ces presentes au
+seneschaldePoictouetàtousnozautresjusticiers,	seneschal de Poictou et à tous noz autres justiciers ,
+etc.DonnéàMehunsurYèvre,	etc . Donné à Mehun sur Yèvre ,
+,oumoysdejanvierl’	, ou moys de janvier l ’
+andegracemilcccc.cinquanteetquatre.,	an de grace mil cccc . cinquante et quatre . ,
+etdenostre	et de nostre
+règnelexxxiiie.Ainsi.signées:Par	règne le xxxiiie . Ainsi . signées : Par
+leroy,à	le roy , à
+àlarelacionduconseil.J	à la relacion du conseil . J
+.Rogier.	. Rogier .
+..—Visa.Contentor.Chaligaut	. .— Visa . Contentor . Chaligaut
+Chaligaut.	Chaligaut .

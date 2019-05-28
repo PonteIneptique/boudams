@@ -1,111 +1,120 @@
-Charles,etc	Charles , etc
-.Savoirfaisons,etc.,	. Savoir faisons , etc .,
-.,nousavoirreceul	., nous avoir receu l
-’umblesupplicacion	’ umble supplicacion
-deLoysYvain	de Loys Yvain
-Yvain,ouvrierdenozmonnoyesdusermant	Yvain , ouvrier de noz monnoyes du sermant
-deFrance,.	de France , .
-.dedroitestocetligne,	. de droit estoc et ligne ,
-chargiédefemmeet	chargié de femme et
-desixenfans,demourantprèsnostre	de six enfans , demourant près nostre
-villedelaRochelle,contenantque,	ville de la Rochelle , contenant que ,
-xv.ansaouenviron,	xv . ans a ou environ ,
-feuJehandelaRoche,lors	feu Jehan de la Roche , lors
-vivantetestant	vivant et estant
-seneschal..dePoictouetcapitained’Angolesme,qui	seneschal . . de Poictou et capitaine d ’ Angolesme , qui
-sedisoitavoirlettres	se disoit avoir lettres
-decongiéetlicencedenous	de congié et licence de nous
-depovoirfaireouvreretmonnoyercertainequantitéd’	de povoir faire ouvrer et monnoyer certaine quantité d ’
-argent.enautremonnoyequeèsnostres,	argent . en autre monnoye que ès nostres ,
-sebonluisembloit	se bon lui sembloit
-,fistsigniffieret	, fist signiffier et
-savoircequeditestàplusieursouvrierset..	savoir ce que dit est à plusieurs ouvriers et . .
-monnoyersduserementdeFrance,	monnoyers du serement de France ,
-,lorsdemouransouestansauditlieudela	, lors demourans ou estans audit lieu de la
-laRochelle,lesquelzvoyansquenostremonnoyedela	la Rochelle , lesquelz voyans que nostre monnoye de la
-dictevilledelaRochelleestoitenchommaigeet	dicte ville de la Rochelle estoit en chommaige et
-quel’ennebesongnoitpoint	que l ’ en ne besongnoit point
-,etmesmementleditsuppliant,quinesavoitautre	, et mesmement ledit suppliant , qui ne savoit autre
-mestiernen..	mestier ne n . .
-’avoitautremaniere	’ avoit autre maniere
-devivreque	de vivre que
-dufaitdesdictesmonnoyes,aladeversledit..	du fait des dictes monnoyes , ala devers le dit . .
-delaRocheetydemouracertaineespacede	de la Roche et y demoura certaine espace de
-temps,etcuidantqueleditdelaRoche	temps , et cuidant que le dit de la Roche
-Rocheeustpuissancé,congié	Roche eust puissancé , congié
-et..licencedenousde	et . . licence de nous de
-defaireouvreretmonnoyerlaquantitéd’	de faire ouvrer et monnoyer la quantité d ’
-’argentqu’il	’ argent qu ’ il
-seventoit..lui	se ventoit . . lui
-luiavoirpar	lui avoir par
-parnousestéoctroyée,besoingnaèsdictesmonnoyesdu	par nous esté octroyée , besoingna ès dictes monnoyes du
-ditdela..	dit de la . .
-Roche,auditlieu.d	Roche , audit lieu . d
-’Angolesme..,par	’ Angolesme . . , par
-parcertaintempsetjusquesàcequeleditsuppliantentendit	par certain temps et jusques à ce que ledit suppliant entendit
-entenditqueparnousoulesgeneraulxmaistresdenozmonnoyes	entendit que par nous ou les generaulx maistres de noz monnoyes
-,lesouvriersetmonnoyersde	, les ouvriers et monnoyers de
-denostremonnoyedelaRochelle,	de nostre monnoye de la Rochelle ,
-delaquelleilestoit	de laquelle il estoit
-estoit,avoientesté.mandezpour	estoit , avoient esté . mandez pour
-besoingnerenladictevilledelaRochelle,	besoingner en la dicte ville de la Rochelle ,
+Charles,etc.Savoirfaisons,etc	Charles , etc . Savoir faisons , etc
+.,nousavoir	., nous avoir
+avoirreceul’	avoir receu l ’
+umblesupplicacion.de	umble supplicacion . de
+LoysYvain,ouvrier	Loys Yvain , ouvrier
+ouvrierdenozmonnoyesdusermantde	ouvrier de noz monnoyes du sermant de
+France,dedroitestocetligne	France , de droit estoc et ligne
+,chargié..	, chargié . .
+defemme	de femme
+etdesixenfans	et de six enfans
+,demourantprèsnostrevilledela	, demourant près nostre ville de la
+laRochelle,..	la Rochelle , . .
+contenantque,xv...	contenant que , xv . . .
+ansaouenviron	ans a ou environ
+,feuJehan	, feu Jehan
+JehandelaRoche,	Jehan de la Roche ,
+lorsvivant	lors vivant
+etestantseneschal	et estant seneschal
+dePoictouetcapitained’Angolesme,	de Poictou et capitaine d ’ Angolesme ,
+quisedisoitavoirlettresde	qui se disoit avoir lettres de
+congiéetlicencedenousdepovoir	congié et licence de nous de povoir
+faireouvreretmonnoyercertainequantitéd’	faire ouvrer et monnoyer certaine quantité d ’
+argentenautremonnoye	argent en autre monnoye
+queèsnostres..	que ès nostres . .
+,sebonluisembloit,fistsigniffier	, se bon lui sembloit , fist signiffier
+etsavoircequeditestàplusieursouvriers..	et savoir ce que dit est à plusieurs ouvriers . .
+etmonnoyersduserementdeFrance,lors	et monnoyers du serement de France , lors
+demouransouestansauditlieu.delaRochelle,lesquelz	demourans ou estans audit lieu . de la Rochelle , lesquelz
+voyansquenostremonnoyedeladictevilledela	voyans que nostre monnoye de la dicte ville de la
+Rochelleestoiten..chommaigeet	Rochelle estoit en . . chommaige et
+quel’en	que l ’ en
+nebesongnoitpoint,..	ne besongnoit point , . .
+etmesmementleditsuppliant	et mesmement ledit suppliant
+,quinesavoitautre	, qui ne savoit autre
+mestiernen’avoitautremaniere	mestier ne n ’ avoit autre maniere
+manieredevivrequedufaitdesdictesmonnoyes	maniere de vivre que du fait des dictes monnoyes
+,aladeversleditdela	, ala devers le dit de la
+Rocheetydemouracertaineespacedetemps,et	Roche et y demoura certaine espace de temps , et
+cuidantqueleditdela	cuidant que le dit de la
+laRocheeustpuissancé,congiéetlicence	la Roche eust puissancé , congié et licence
+denousde	de nous de
+faireouvreretmonnoyer	faire ouvrer et monnoyer
+la..quantitéd’argentqu’	la . . quantité d ’ argent qu ’
+ilseventoitluiavoirparnousestéoctroyée	il se ventoit lui avoir par nous esté octroyée
+,besoingnaèsdictesmonnoyesdudit	, besoingna ès dictes monnoyes du dit
+delaRoche	de la Roche
+Roche,auditlieud’	Roche , audit lieu d ’
+Angolesme,parcertaintempsetjusquesàceque	Angolesme , par certain temps et jusques à ce que
+leditsuppliantentenditqueparnous	ledit suppliant entendit que par nous
+oulesgeneraulxmaistres	ou les generaulx maistres
+denozmonnoyes,	de noz monnoyes ,
+lesouvriersetmonnoyers	les ouvriers et monnoyers
+denostremonnoyedela	de nostre monnoye de la
+Rochelle,.	Rochelle , .
+delaquelleilestoit,avoientestémandez	de laquelle il estoit , avoient esté mandez
+mandezpourbesoingner	mandez pour besoingner
+enladicteville.delaRochelle,	en la dicte ville . de la Rochelle ,
 etqueavions	et que avions
-avionsfaitfairedefencedenonplusbesoingnerès	avions fait faire defence de non plus besoingner ès
-dictesmonnoyesduditdelaRoche,qu’	dictes monnoyes du dit de la Roche , qu ’
-ils’envintduditlieud	il s ’ en vint dudit lieu d
-d’AngolesmeauditlieudelaRochelle	d ’ Angolesme au dit lieu de la Rochelle
-;etpourcequ	; et pour ce qu
-qu’iln’avoitapportéavecqueslui	qu ’ il n ’ avoit apporté avecques lui
-sesostilzqu’ilyavoitportez	ses ostilz qu ’ il y avoit portez
-pourbesoingner	pour besoingner
-besoingner,retourna.audit	besoingner , retourna . au dit
-lieud’Angolesmeetcuidales	lieu d ’ Angolesme et cuida les
-enemporter,ceque..vintàlacongnoissancedudit	en emporter , ce que . . vint à la congnoissance dudit
-feuJehandelaRoche,quiparforceet	feu Jehan de la Roche , qui par force et
-etcontrainctelefist.encores	et contraincte le fist . encores
-encoresbesoingnierensadicte	encores besoingnier en sa dicte
-monnoye.Maispeuaprèsils’	monnoye . Mais peu après il s ’
-emblaetlaissatoussesdizostilz	embla et laissa tous ses diz ostilz
-auditlieud’Angolesme,lesquelzy	au dit lieu d ’ Angolesme , lesquelz y
-sontencores	sont encores
-encores,ets’en	encores , et s ’ en
-envintdutoutau	en vint du tout au
-ditlieu..delaRochelle,	dit lieu . . de la Rochelle ,
-sansplusretournerauditlieu	sans plus retourner au dit lieu
-lieud’Angolesme	lieu d ’ Angolesme
-Angolesme.Etcombien	Angolesme . Et combien
-combienqueleditfeudelaRocheeustenson	combien que le dit feu de la Roche eust en son
-vivantremissionetabolicion	vivant remission et abolicion
-abolicionduditcas,	abolicion du dit cas ,
-,tantpourluiquepourlesouvriers,monnoyerset	, tant pour lui que pour les ouvriers , monnoyers et
-autresgens	autres gens
-quiavoientbesoingnéèsdictesmonnoyes,etquesoubz	qui avoient besoingné ès dictes monnoyes , et que soubz
-soubzicelleleditsuppliantsoitcomprins,neantmoins	soubz icelle ledit suppliant soit comprins , neantmoins
-icelluisuppliantdoubteque..justiceoresou	icellui suppliant doubte que . . justice ores ou
-oupourletempsavenirne	ou pour le temps avenir ne
-levoulsissent(sic)pugnir	le voulsissent ( sic ) pugnir
-duditcasoupouroccasiond	dudit cas ou pour occasion d
-’icellui.	’ icellui .
-autrementlevexeroutravailler,quiseroit	autrement le vexer ou travailler , qui seroit
-seroitensontrèsgrantdommaige	seroit en son très grant dommaige
-etprejudice	et prejudice
-prejudice,..sicommeildit	prejudice , . . si comme il dit
-.Requeranthumblementque,leschoses	. Requerant humblement que , les choses
-dessusdictesconsiderées,etenreverancedeNostreSeigneur	dessus dictes considerées , et en reverance de Nostre Seigneur
-JhesuCristquisouffristmortetpassion	Jhesu Crist qui souffrist mort et passion
-àteljourqu’ilestaujourd	à tel jour qu ’ il est aujourd
+fait.fairedefence	fait . faire defence
+denonplusbesoingnerèsdictesmonnoyes	de non plus besoingner ès dictes monnoyes
+monnoyesduditdelaRoche,qu’ils	monnoyes du dit de la Roche , qu ’ il s
+s’envintdudit	s ’ en vint dudit
+duditlieud	dudit lieu d
+d’Angolesmeauditlieudela	d ’ Angolesme au dit lieu de la
+Rochelle;etpourcequ’	Rochelle ; et pour ce qu ’
+iln’avoitapportéavecquesluisesostilzqu	il n ’ avoit apporté avecques lui ses ostilz qu
+’ilyavoitportez.pourbesoingner	’ il y avoit portez . pour besoingner
+,retournaauditlieud’Angolesme	, retourna au dit lieu d ’ Angolesme
+etcuidalesenemporter,cequevintà	et cuida les en emporter , ce que vint à
+lacongnoissanceduditfeuJehan	la congnoissance dudit feu Jehan
+delaRoche	de la Roche
+Roche,quiparforceetcontraincte	Roche , qui par force et contraincte
+contrainctelefistencoresbesoingnier	contraincte le fist encores besoingnier
+ensadictemonnoye..Maispeuaprès	en sa dicte monnoye . . Mais peu après
+ils’embla	il s ’ embla
+emblaetlaissatoussesdizostilzaudit	embla et laissa tous ses diz ostilz au dit
+lieud’Angolesme,lesquelzysont	lieu d ’ Angolesme , lesquelz y sont
+encores,et	encores , et
+s’en.vintdutoutauditlieu	s ’ en . vint du tout au dit lieu
+delaRochelle	de la Rochelle
+,sansplusretournerau..ditlieud’Angolesme	, sans plus retourner au . . dit lieu d ’ Angolesme
+.Etcombien..queleditfeu	. Et combien . . que le dit feu
+de.laRocheeust	de . la Roche eust
+eustenson..vivant	eust en son . . vivant
+vivantremissionetabolicionduditcas..,tant	vivant remission et abolicion du dit cas . . , tant
+tantpourluiquepourlesouvriers,monnoyers	tant pour lui que pour les ouvriers , monnoyers
+etautresgensquiavoientbesoingnéèsdictesmonnoyes	et autres gens qui avoient besoingné ès dictes monnoyes
+,etquesoubzicelleledit	, et que soubz icelle ledit
+suppliantsoitcomprins,neantmoinsicellui	suppliant soit comprins , neantmoins icellui
+suppliantdoubtequejusticeoresoupourle	suppliant doubte que justice ores ou pour le
+tempsavenirnelevoulsissent(sic	temps avenir ne le voulsissent ( sic
+)pugnirduditcasoupouroccasiond’icellui	) pugnir dudit cas ou pour occasion d ’ icellui
+autrementlevexeroutravailler,qui.	autrement le vexer ou travailler , qui .
+seroitensontrèsgrant	seroit en son très grant
+dommaigeet.prejudice,si	dommaige et . prejudice , si
+commeildit..Requeranthumblement	comme il dit . . Requerant humblement
+que,leschosesdessusdictesconsiderées,	que , les choses dessus dictes considerées ,
+etenreverancede	et en reverance de
+deNostreSeigneurJhesu..Cristquisouffristmortetpassion	de Nostre Seigneur Jhesu . . Crist qui souffrist mort et passion
+passionàtel	passion à tel
+jour..qu’ilestaujourd	jour . . qu ’ il est aujourd
 ’uy,nousluivueillonssurce	’ uy , nous lui vueillons sur ce
-impartirnozgraceetmisericorde.Pour	impartir noz grace et misericorde . Pour
-Pourceestilquenous,ces	Pour ce est il que nous , ces
-ceschosesconsiderées,etc.,à	ces choses considerées , etc ., à
-à.icelluisuppliantlefaitetcasdessusdeclairéavonsremis	à . icellui suppliant le fait et cas dessus declairé avons remis
-,quictéetpardonné,etc...Sidonnonsen	, quicté et pardonné , etc . . . Si donnons en
-mandementànozamezetfeaulxconseillersles	mandement à noz amez et feaulx conseillers les
-generaulxconseillersdenozmonnoyesetàtousnoz	generaulx conseillers de noz monnoyes et à tous noz
-autresjusticiers..,	autres justiciers . . ,
-,etc.DonnéàChinon,oumoisd	, etc . Donné à Chinon , ou mois d
-’avrill’andegracemil	’ avril l ’ an de grace mil
-cccc.xlv..,etdenostreregnelexxiiiie	cccc . xlv . . , et de nostre regne le xxiiiie
-avantPasques.Ainsisigné:Parle	avant Pasques . Ainsi signé : Par le
-leroyensonconseil.Giraudeau.—Visa.	le roy en son conseil . Giraudeau .— Visa .
-Contentor.Charlet.	Contentor . Charlet .
+impartir.noz	impartir . noz
+graceetmisericorde.Pourceestilquenous	grace et misericorde . Pour ce est il que nous
+,ces..chosesconsiderées,etc	, ces . . choses considerées , etc
+.,àicelluisuppliantle	., à icellui suppliant le
+faitetcasdessusdeclairéavonsremis,quictéet	fait et cas dessus declairé avons remis , quicté et
+pardonné,etc.Si	pardonné , etc . Si
+donnonsenmandementànozamezetfeaulx	donnons en mandement à noz amez et feaulx
+conseillerslesgeneraulx.conseillersdenozmonnoyesetàtous	conseillers les generaulx . conseillers de noz monnoyes et à tous
+nozautresjusticiers,etc.Donné	noz autres justiciers , etc . Donné
+àChinon,oumois	à Chinon , ou mois
+moisd’avril	mois d ’ avril
+l’andegracemilcccc.	l ’ an de grace mil cccc .
+xlv,et..de	xlv , et . . de
+denostreregne	de nostre regne
+regnelexxiiiieavantPasques.Ainsisigné:	regne le xxiiiie avant Pasques . Ainsi signé :
+:Parleroyensonconseil.Giraudeau.—	: Par le roy en son conseil . Giraudeau .—
+Visa.Contentor.	Visa . Contentor .
+Charlet.	Charlet .

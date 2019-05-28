@@ -2,7 +2,7 @@ import glob
 import os
 import os.path
 import random
-import re
+import regex as re
 
 from typing import Iterable, Union
 

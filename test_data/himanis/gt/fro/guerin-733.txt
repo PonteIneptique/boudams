@@ -1,53 +1,59 @@
-Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
-àtouz,presensetavenir	à touz , presens et avenir
-,nousavoirreceul'umblesupplicacionde	, nous avoir receu l ' umble supplicacion de
-JehanDavy,demourantenPoitou..en	Jehan Davy , demourant en Poitou . . en
-lavilledeSaint	la ville de Saint
-SaintAubindelaPlaigne,contenant.queXXVI	Saint Aubin de la Plaigne , contenant . que XXVI
-ansaouenviron,parolesinjurieusess	ans a ou environ , paroles injurieuses s
-'esmurententreluietfeuJehanRichart,demourant	' esmurent entre lui et feu Jehan Richart , demourant
-demourant..auditlieudeSaintAubin,ettantque	demourant . . au dit lieu de Saint Aubin , et tant que
-queenprocedant	que en procedant
-deparolesafait,ilzs	de paroles a fait , ilz s
-'entrebatirentetenchaleur	' entrebatirent et en chaleur
-ycellisuppliantferiledit	ycelli suppliant feri le dit
-Richartparlajoed	Richart par la joe d
-'unpetitcoustelàtrenchierpainuncop	' un petit coustel à trenchier pain un cop
-tantseulement,dontleditRichart	tant seulement , dont le dit Richart
-fuparaucuntempsmalades,maisdepuisilala	fu par aucun temps malades , mais depuis il ala
-etvintparmiladictevilleet,par	et vint parmi ladicte ville et , par
-l'espacedesixsepmaineset.	l ' espace de six sepmaines et .
-plus,butetmengaencompaignied'autres	plus , but et menga en compaignie d ' autres
-genz,disantqu'	genz , disant qu '
-ilestoitguaris,etdepuis	il estoit guaris , et depuis
-pourlamortalitéquiestoitetfuau	pour la mortalité qui estoit et fu au
-aupays,luiprintlabosse,.	au pays , lui print la bosse , .
-.dontilmorut,sicommeildisoit,recongnoissant	. dont il morut , si comme il disoit , recongnoissant
-recongnoissantqu'ilne	recongnoissant qu ' il ne
-nemoroitpointpourleditcop	ne moroit point pour ledit cop
-.Pouroccasionduquelfait,leditsuppliant	. Pour occasion du quel fait , le dit suppliant
-quiestaagiéhomme	qui est aagié homme
-sedoubte	se doubte
-,àl'instigacionet..pourchasd'	, à l ' instigacion et . . pourchas d '
-aucunsses.hayneuxetmalveillans,estreou	aucuns ses . hayneux et malveillans , estre ou
-outempsavenirpoursuisparjustice,requéranthumblement	ou temps avenir poursuis par justice , requérant humblement
-humblementnostregrace	humblement nostre grace
-etmisericordeluiestresurce	et misericorde lui estre sur ce
-impartie.	impartie .
-Pourceestilquenous,etc	Pour ce est il que nous , etc
-.,àycelluisuppliantouditcas..avonsquicté	., à ycellui suppliant ou dit cas . . avons quicté
-,.remisetpardonné,	, . remis et pardonné ,
-,etc.Sidonnons	, etc . Si donnons
-en..mandementau	en . . mandement au
-seneschaldeXanctonge,augouverneurdelaRochelle	seneschal de Xanctonge , au gouverneur de la Rochelle
-,aubaillidesExemptions	, au bailli des Exemptions
-ExemptionsdeTouraine	Exemptions de Touraine
-Touraine,d'Anjou,duMaineetdePoitou	Touraine , d ' Anjou , du Maine et de Poitou
-,etàtouznoz	, et à touz noz
-autresjusticiers,etàchascund'eulx,	autres justiciers , et à chascun d ' eulx ,
-,etc.DonnéàParis,oumoys	, etc . Donné à Paris , ou moys
-demayl'an..de	de may l ' an . . de
-degracemilCCCIIIIXX	de grace mil CCC IIIIXX
-etonze,etdenostreregnel	et onze , et de nostre regne l
-l'..onziesme.Par	l ' . . onziesme . Par
-Parleroy,àlarelacion.duconseil.Freron	Par le roy , à la relacion . du conseil . Freron
+Charles,etc.Savoir	Charles , etc . Savoir
+faisonsàtouz	faisons à touz
+,presens..etavenir	, presens . . et avenir
+avenir,nousavoirreceul'umblesupplicaciondeJehan	avenir , nous avoir receu l ' umble supplicacion de Jehan
+Davy,demourant	Davy , demourant
+enPoitouenlavilledeSaintAubindela	en Poitou en la ville de Saint Aubin de la
+Plaigne,.contenantque	Plaigne , . contenant que
+XXVIansa	XXVI ans a
+ouenviron	ou environ
+,parolesinjurieusess	, paroles injurieuses s
+'esmurententrelui	' esmurent entre lui
+et.feuJehanRichart,	et . feu Jehan Richart ,
+,demourantaudit	, demourant au dit
+lieudeSaintAubin,ettantque	lieu de Saint Aubin , et tant que
+enprocedantdeparolesafait,ilzs'	en procedant de paroles a fait , ilz s '
+entrebatirentet.	entrebatirent et .
+enchaleurycelli.suppliantferile	en chaleur ycelli . suppliant feri le
+ditRichartparlajoe	dit Richart par la joe
+d'unpetitcoustelàtrenchier	d ' un petit coustel à trenchier
+trenchierpainuncoptantseulement,dontle	trenchier pain un cop tant seulement , dont le
+ditRichart	dit Richart
+fuparaucuntemps	fu par aucun temps
+malades,maisdepuisilalaetvintparmi	malades , mais depuis il ala et vint parmi
+ladictevilleet,	ladicte ville et ,
+parl'espacedesix	par l ' espace de six
+sepmainesetplus,butet	sepmaines et plus , but et
+mengaencompaignied'autres	menga en compaignie d ' autres
+genz,disantqu'ilestoitguaris,et..	genz , disant qu ' il estoit guaris , et . .
+depuispourlamortalitéquiestoit	depuis pour la mortalité qui estoit
+etfuaupays	et fu au pays
+,luiprintlabosse,dont	, lui print la bosse , dont
+ilmorut,sicommeildisoit	il morut , si comme il disoit
+disoit,recongnoissantqu'il.nemoroit	disoit , recongnoissant qu ' il . ne moroit
+pointpourledit..cop.Pouroccasion	point pour ledit . . cop . Pour occasion
+occasionduquelfait,leditsuppliant	occasion du quel fait , le dit suppliant
+quiestaagiéhommesedoubte,à	qui est aagié homme se doubte , à
+l'instigacionetpourchasd'aucunsses	l ' instigacion et pourchas d ' aucuns ses
+seshayneuxetmalveillans,estreoutempsavenirpoursuispar	ses hayneux et malveillans , estre ou temps avenir poursuis par
+parjustice,requéranthumblementnostregraceetmisericordelui	par justice , requérant humblement nostre grace et misericorde lui
+estresurce	estre sur ce
+impartie.Pourceestilque	impartie . Pour ce est il que
+nous,etc.,àycelluisuppliantoudit	nous , etc ., à ycellui suppliant ou dit
+ditcasavonsquicté	dit cas avons quicté
+quicté,remiset	quicté , remis et
+pardonné,etc.Sidonnonsenmandementau.seneschal	pardonné , etc . Si donnons en mandement au . seneschal
+deXanctonge,	de Xanctonge ,
+augouverneurdela	au gouverneur de la
+Rochelle,aubaillidesExemptions	Rochelle , au bailli des Exemptions
+deTouraine,d'Anjou,duMaineet	de Touraine , d ' Anjou , du Maine et
+dePoitou,etàtouznozautres	de Poitou , et à touz noz autres
+justiciers,età	justiciers , et à
+chascund'.eulx,etc.	chascun d ' . eulx , etc .
+DonnéàParis,..	Donné à Paris , . .
+oumoysdemayl'an..	ou moys de may l ' an . .
+.degracemilCCCIIIIXXet	. de grace mil CCC IIIIXX et
+etonze,etdenostreregne	et onze , et de nostre regne
+l'onziesme.Parleroy,à	l ' onziesme . Par le roy , à
+larelaciondu	la relacion du
+conseil.Freron.	conseil . Freron .

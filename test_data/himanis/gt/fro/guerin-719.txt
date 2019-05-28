@@ -1,109 +1,111 @@
-Charles,etc...Savoirfaisons,etc.,	Charles , etc . . . Savoir faisons , etc .,
-.,nousavoiroydel’umblerequesteousupplicacion	., nous avoir oy de l ’ umble requeste ou supplicacion
-denostreaméetfealAudoyn	de nostre amé et feal Audoyn
-Chauveron,chevalier,nagairesPrevost	Chauveron , chevalier , nagaires Prevost
-denostreville	de nostre ville
-de.ParisetgardedelaPrevostédesmarchansde	de . Paris et garde de la Prevosté des marchans de
-nostredicteville,contenantque,	nostre dicte ville , contenant que ,
-,commenostreprocureurgeneralaitbaillezet	, comme nostre procureur general ait baillez et
-proposezcertainscasetarticles.contreleditAudoyn,	proposez certains cas et articles . contre le dit Audoyn ,
-pardevantnoz	par devant noz
-amezetfeaulzconseillersmaistre	amez et feaulz conseillers maistre
-SymonFoison,..	Symon Foison , . .
-presidentennostreParlement,	president en nostre Parlement ,
-,TristanduBois	, Tristan du Bois
-,chevalier,etmaistreRobertCordelier,	, chevalier , et maistre Robert Cordelier ,
-maistresdesrequestesdenostrehostel	maistres des requestes de nostre hostel
-hostel,auxquelzcas	hostel , aux quelz cas
-etchascund’eulz	et chascun d ’ eulz
-ycelluiAudoynarespondupromptement,enluiexcusantet	ycellui Audoyn a respondu promptement , en lui excusant et
-defendantsurce,lesquelzcas	defendant sur ce , les quelz cas
-cass’ensuivent	cas s ’ ensuivent
-ensuivent:...................Item,aditetproposéle	ensuivent :................... Item , a dit et proposé le
-ditprocureurcontreleditAudoinqueparsaforce	dit procureur contre le dit Audoin que par sa force
-forceetpuissance,etsoubzumbredesonoffice	force et puissance , et soubz umbre de son office
-,ilamariéeunefillede	, il a mariée une fille de
-denostredictevilledeParis,nommée	de nostre dicte ville de Paris , nommée
-PerretteAlebrain,.laquelle	Perrette Alebrain , . la quelle
-avoitbienvaillantvcfranset	avoit bien vaillant vc frans et
-laquelen’avoitpas	la quele n ’ avoit pas
-pasx.ans.àun	pas x . ans . à un
-serviteurduditAudoin,.lequel	serviteur du dit Audoin , . le quel
-quelestoitunpovres..homsdepetitestatetd	quel estoit un povres . . homs de petit estat et d
-’estrange.païs	’ estrange . païs
-païs,etditque,supposé	païs , et dit que , supposé
-quelesamiss’iconsentissent,ceauroit	que les amis s ’ i consentissent , ce auroit
-estédeboucheetnonpasdecueur,	esté de bouche et non pas de cueur ,
-,etpource	, et pour ce
-a.conclud	a . conclud
-àprivaciond’officesroyaulzetpubliquesobtenuzet	à privacion d ’ offices royaulz et publiques obtenuz et
-à..teniramendehonnorableaus	à . . tenir amende honnorable aus
-amis..etproufitabledeiiiim	amis . . et proufitable de iiiim
-livres,etànousdeviiimlivres.A	livres , et à nous de viiim livres . A
-quoyledit	quoy le dit
-ditAudoina	dit Audoin a
-aresponduque,àlarequestedeAnthoine	a respondu que , à la requeste de Anthoine
-deBuxeron	de Buxeron
+Charles,etc.Savoir	Charles , etc . Savoir
+faisons,etc.,nousavoir	faisons , etc ., nous avoir
+avoiroydel’umblerequesteou	avoir oy de l ’ umble requeste ou
+ousupplicaciondenostreaméet	ou supplicacion de nostre amé et
+etfealAudoynChauveron,	et feal Audoyn Chauveron ,
+chevalier,nagairesPrevostde	chevalier , nagaires Prevost de
+nostrevilledeParis	nostre ville de Paris
+etgardedelaPrevostédesmarchansdenostredicte	et garde de la Prevosté des marchans de nostre dicte
+ville,contenantque,commenostre	ville , contenant que , comme nostre
+nostreprocureurgeneralaitbaillez	nostre procureur general ait baillez
+etproposez	et proposez
+proposezcertainscasetarticlescontreledit	proposez certains cas et articles contre le dit
+ditAudoyn,pardevantnoz	dit Audoyn , par devant noz
+nozamezetfeaulzconseillers	noz amez et feaulz conseillers
+maistreSymonFoison,	maistre Symon Foison ,
+presidentennostre	president en nostre
+Parlement,TristanduBois,chevalier..,	Parlement , Tristan du Bois , chevalier . . ,
+etmaistreRobert	et maistre Robert
+Cordelier,	Cordelier ,
+,maistresdesrequestesde	, maistres des requestes de
+nostrehostel,auxquelzcaset	nostre hostel , aux quelz cas et
+chascund’eulzycelluiAudoynarespondu	chascun d ’ eulz ycellui Audoyn a respondu
+respondupromptement,.	respondu promptement , .
+enluiexcusantetdefendantsurce	en lui excusant et defendant sur ce
+,lesquelz.cass’ensuivent:...................	, les quelz . cas s ’ ensuivent :...................
+Item,aditetproposé	Item , a dit et proposé
+proposéleditprocureurcontreleditAudoinque..parsa	proposé le dit procureur contre le dit Audoin que . . par sa
+forceetpuissance,etsoubz	force et puissance , et soubz
+soubzumbredesonoffice,ilamariéeunefille	soubz umbre de son office , il a mariée une fille
+filledenostredictevilledeParis,nommée	fille de nostre dicte ville de Paris , nommée
+PerretteAlebrain,	Perrette Alebrain ,
+,laquelleavoitbienvaillantvcfranset	, la quelle avoit bien vaillant vc frans et
+laquelen’avoitpasx.ansà	la quele n ’ avoit pas x . ans à
+unserviteurdudit	un serviteur du dit
+Audoin,lequelestoitun.povreshomsdepetit	Audoin , le quel estoit un . povres homs de petit
+petitestatetd’estrangepaïs,et	petit estat et d ’ estrange païs , et
+ditque,supposéquelesamiss’	dit que , supposé que les amis s ’
+iconsentissent,ceauroitestédebouche	i consentissent , ce auroit esté de bouche
+etnonpasdecueur,et	et non pas de cueur , et
+pourceaconcludàprivaciond’offices	pour ce a conclud à privacion d ’ offices
+royaulzetpubliquesobtenuzet..	royaulz et publiques obtenuz et . .
+àteniramende	à tenir amende
+honnorableausamiset	honnorable aus amis et
+etproufitabledeiiiimlivres,etànousde	et proufitable de iiiim livres , et à nous de
+viiimlivres.A	viiim livres . A
+quoy..ledit	quoy . . le dit
+Audoinaresponduque	Audoin a respondu que
+que,à.larequeste	que , à . la requeste
+deAnthoinedeBuxeron	de Anthoine de Buxeron
 ,bourgeoisdeLymoges	, bourgeois de Lymoges
-Lymoges,orfevreetgardedelaMonnoye	Lymoges , orfevre et garde de la Monnoye
-dePoitiers,lequelest	de Poitiers , le quel est
-unhomme	un homme
-hommebiennéetricheshomsetnostre	homme bien né et riches homs et nostre
-officier,..	officier , . .
-.etlequeln	. et lequel n
-’..estoitnefuoncques	’ . . estoit ne fu oncques
-sonfamilierouserviteur,	son familier ou serviteur ,
-qu’ilparla	qu ’ il parla
-ausamis	aus amis
-charnelzde	charnelz de
-ladictePerrettedumariage	la dicte Perrette du mariage
-du..ditAnthoine	du . . dit Anthoine
-Anthoineetdeelle,caràellenefailloitpoint	Anthoine et de elle , car à elle ne failloit point
-parler,pource..qu’elleestoitparavantd	parler , pour ce . . qu ’ elle estoit paravant d
-’accordauditAnthoine,commeil	’ accord au dit Anthoine , comme il
-aoyparpluseurs	a oy par pluseurs
-foizdireàceulzquilesavoient	foiz dire à ceulz qui le savoient
-,et.quelesamisse	, et . que les amis se
-consentirentsenzaucuneforcenecontrainte,etfurent	consentirent senz aucune force ne contrainte , et furent
-enfiançaillesdeNoell’	en fiançailles de Noel l ’
-aniiiixxetunjusquesaudymencheavant	an iiiixx et un jusques au dymenche avant
-avantlasaintJehanl’	avant la saint Jehan l ’
-’aniiiixxet	’ an iiiixx et
-etdeux,etavecquesce,quelesnoces	et deux , et avecques ce , que les noces
-furentfaictespubliquementetyfurenttous	furent faictes publiquement et y furent tous
-lesamisdeladictefille	les amis de la dicte fille
-fille,etfirentlacemoncelesamisdela	fille , et firent la cemonce les amis de la
-ladictefille,etavoitladictefille	la dicte fille , et avoit la dicte fille
-bienxvi.ans..,comme	bien xvi . ans . . , comme
-ilappertparle	il appert par le
-regartde	regart de
-ladictefille;etaussirespond	la dicte fille ; et aussi respond
-qu’iln’estnulz	qu ’ il n ’ est nulz
-nulz,forsDieu,quipeustcongnoistreceque	nulz , fors Dieu , qui peust congnoistre ce que
-quenostredit	que nostre dit
-procureurditquelesamisn’avoientpasau	procureur dit que les amis n ’ avoient pas au
-cuercequ’ilzdisoient	cuer ce qu ’ ilz disoient
-disoientdebouche,etaussi	disoient de bouche , et aussi
-aussiqu’iln’ya	aussi qu ’ il n ’ y a
-pointdepartie	point de partie
-poursuivantnecomplaignant	poursuivant ne complaignant
-,ainçoisestlafilledemourantàPoitiersavec	, ainçois est la fille demourant à Poitiers avec
-sonditmary	son dit mary
-mary,richementetmieulzmariéequefrerene	mary , richement et mieulz mariée que frere ne
-suerqu’	suer qu ’
-elleait;etsia	elle ait ; et si a
-afferméladictefille,parsonserement,que	affermé la dicte fille , par son serement , que
-cefudesonbongréetbonnevoulenté.	ce fu de son bon gré et bonne voulenté .
-Etpourcedoitestredecetenuzquictes	Et pour ce doit estre de ce tenuz quictes
-etabsolz................DonnéàLionsurle	et absolz ................ Donné à Lion sur le
-Rosne,oumois	Rosne , ou mois
-dejanvierl	de janvier l
-’andegrace	’ an de grace
-milccc.iiiixxetix	mil ccc . iiiixx et ix
-,etdenostre	, et de nostre
-nostreregneledisiesme.Parleroy,presens.le	nostre regne le disiesme . Par le roy , presens . le
-leconnestable,l’evesquedeNoyon	le connestable , l ’ evesque de Noyon
-,lesiredeCoucyetmaistre	, le sire de Coucy et maistre
-OdartdeMolins.	Odart de Molins .
-.J.Bertaut	. J . Bertaut
-Bertaut.	Bertaut .
+Lymoges,orfevreetgardedelaMonnoyedePoitiers	Lymoges , orfevre et garde de la Monnoye de Poitiers
+,lequel	, le quel
+quelestunhommebiennéet	quel est un homme bien né et
+richeshoms	riches homs
+homsetnostre	homs et nostre
+officier,etlequeln’estoitnefuoncques	officier , et lequel n ’ estoit ne fu oncques
+oncquessonfamilierouserviteur,qu’il	oncques son familier ou serviteur , qu ’ il
+parlaausamischarnelzdeladictePerrette	parla aus amis charnelz de la dicte Perrette
+PerrettedumariageduditAnthoine	Perrette du mariage du dit Anthoine
+etdeelle,caràellene	et de elle , car à elle ne
+nefailloit..pointparler,	ne failloit . . point parler ,
+pourcequ’elle..estoit	pour ce qu ’ elle . . estoit
+paravantd’accordau	paravant d ’ accord au
+ditAnthoine,commeila	dit Anthoine , comme il a
+oyparpluseurs	oy par pluseurs
+foizdireà	foiz dire à
+ceulzquilesavoient,	ceulz qui le savoient ,
+etquelesamisseconsentirent	et que les amis se consentirent
+senzaucuneforcenecontrainte,	senz aucune force ne contrainte ,
+etfurentenfiançaillesdeNoell	et furent en fiançailles de Noel l
+l’aniiiixxetunjusquesau	l ’ an iiiixx et un jusques au
+dymencheavantlasaintJehanl	dymenche avant la saint Jehan l
+’aniiiixxetdeux,etavecquesce,	’ an iiiixx et deux , et avecques ce ,
+quelesnocesfurentfaictespubliquementetyfurenttous	que les noces furent faictes publiquement et y furent tous
+touslesamisdeladicte	tous les amis de la dicte
+fille..,etfirent	fille . . , et firent
+lacemoncelesamisdeladicte	la cemonce les amis de la dicte
+fille,etavoitladicte	fille , et avoit la dicte
+dictefillebien.xvi.ans,comme	dicte fille bien . xvi . ans , comme
+ilappertparleregartde	il appert par le regart de
+ladictefille;et	la dicte fille ; et
+etaussirespondqu’	et aussi respond qu ’
+’iln’est	’ il n ’ est
+nulz.,fors	nulz . , fors
+forsDieu,quipeustcongnoistrece	fors Dieu , qui peust congnoistre ce
+cequenostreditprocureurditquelesamis	ce que nostre dit procureur dit que les amis
+n’avoientpasaucuerce	n ’ avoient pas au cuer ce
+cequ’ilz	ce qu ’ ilz
+disoientdebouche..,	disoient de bouche . . ,
+et..aussiqu’iln’yapoint	et . . aussi qu ’ il n ’ y a point
+departiepoursuivantnecomplaignant,ainçois	de partie poursuivant ne complaignant , ainçois
+estlafilledemourant	est la fille demourant
+àPoitiersavecsonditmary,richementetmieulz	à Poitiers avec son dit mary , richement et mieulz
+mieulzmariéequefrerenesuerqu’..	mieulz mariée que frere ne suer qu ’ . .
+elleait.;	elle ait . ;
+etsiaafferméladictefille,par	et si a affermé la dicte fille , par
+parsonserement,quecefu..de	par son serement , que ce fu . . de
+sonbongréetbonnevoulenté	son bon gré et bonne voulenté
+.Etpour	. Et pour
+cedoitestredecetenuzquictes	ce doit estre de ce tenuz quictes
+etabsolz................DonnéàLionsur	et absolz ................ Donné à Lion sur
+surleRosne,ou	sur le Rosne , ou
+oumoisdejanvierl’ande	ou mois de janvier l ’ an de
+degracemil	de grace mil
+ccc.iiiixxet	ccc . iiiixx et
+ix,etdenostreregne	ix , et de nostre regne
+le.disiesme.Parleroy,presens	le . disiesme . Par le roy , presens
+leconnestable,..l’	le connestable , . . l ’
+’evesquedeNoyon,lesiredeCoucyet	’ evesque de Noyon , le sire de Coucy et
+maistreOdartdeMolins.	maistre Odart de Molins .
+J.Bertaut.	J . Bertaut .

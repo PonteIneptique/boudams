@@ -1,341 +1,344 @@
-Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
-faisonsàtouz,presens	faisons à touz , presens
-presensetavenir,nousavoirreceue	presens et avenir , nous avoir receue
-l’umble	l ’ umble
-supplicacionde	supplicacion de
-JehanneMartelle,femmedeGiletSymes,	Jehanne Martelle , femme de Gilet Symes ,
-,contenantqueJehanneJourdaine,fille	, contenant que Jehanne Jourdaine , fille
-defeuJehanJourdain	de feu Jehan Jourdain
-JourdainetdeJehanneJousseaume,jadizsafemme,estant	Jourdain et de Jehanne Jousseaume , jadiz sa femme , estant
-mineurd’ans	mineur d ’ ans
-enlatutele,gardeetgouvernementdudit	en la tutele , garde et gouvernement du dit
+Charles,etc.Savoirfaisonsàtouz,presens	Charles , etc . Savoir faisons à touz , presens
+presensetavenir,nousavoirreceuel’umblesupplicacion	presens et avenir , nous avoir receue l ’ umble supplicacion
+supplicaciondeJehanneMartelle,	supplicacion de Jehanne Martelle ,
+femmedeGilet	femme de Gilet
+Symes,contenantqueJehanneJourdaine,	Symes , contenant que Jehanne Jourdaine ,
+filledefeu	fille de feu
+JehanJourdainet	Jehan Jourdain et
+etdeJehanneJousseaume,jadizsa	et de Jehanne Jousseaume , jadiz sa
+femme,estantmineurd’ans	femme , estant mineur d ’ ans
+enlatutele,gardeetgouvernement	en la tutele , garde et gouvernement
+duditGiletSymesparordonnancetestamentoiredudit	du dit Gilet Symes par ordonnance testamentoire du dit
+feuJehanJourdain,peredeladicteJourdaine	feu Jehan Jourdain , pere de la dicte Jourdaine
+Jourdaine,etparauctorité	Jourdaine , et par auctorité
+dejusticeconfirmée,LoysdeLestanc,parent	de justice confirmée , Loys de Lestanc , parent
+etfilleuldeladictesupplianteetqui	et filleul de la dicte suppliante et qui
+parcemoienetaussiparlemoien	par ce moien et aussi par le moien
+moiendenostrebienaméRegnaultde	moien de nostre bien amé Regnault de
+deVivonne,seigneurdeThors	de Vivonne , seigneur de Thors
+etdePoiroux,sonmaistre,quiestun	et de Poiroux , son maistre , qui est un
+trèsgrantseigneuretpuissantaupays..	très grant seigneur et puissant au pays . .
+,avoitgrantentréeenl’osteldudit	, avoit grant entrée en l ’ ostel du dit
 GiletSymes	Gilet Symes
-parordonnancetestamentoire	par ordonnance testamentoire
-duditfeuJehanJourdain,peredela	du dit feu Jehan Jourdain , pere de la
-ladicteJourdaine,	la dicte Jourdaine ,
-etparauctoritéde	et par auctorité de
-justiceconfirmée..,LoysdeLestanc,parentet	justice confirmée . . , Loys de Lestanc , parent et
-filleuldeladictesupplianteet	filleul de la dicte suppliante et
-etquiparcemoienetaussipar.le	et qui par ce moien et aussi par . le
-lemoiende..	le moien de . .
-.nostrebienaméRegnaultdeVivonne,seigneurdeThors	. nostre bien amé Regnault de Vivonne , seigneur de Thors
-et..dePoiroux,sonmaistre,qui	et . . de Poiroux , son maistre , qui
-quiestuntrès..grantseigneuret	qui est un très . . grant seigneur et
-puissantaupays,avoitgrantentréeenl	puissant au pays , avoit grant entrée en l
-l’osteldudit	l ’ ostel du dit
-GiletSymes,alaetvintparaucunes	Gilet Symes , ala et vint par aucunes
-foisenl’osteld’iceluiGilet,	fois en l ’ ostel d ’ icelui Gilet ,
-,..appelélaDruillardiere,ouqueliltenoitsaresidenceet	, . . appelé la Druillardiere , ouquel il tenoit sa residence et
-demeure;etentrelesautres,setransporta	demeure ; et entre les autres , se transporta
-leditLoysou	le dit Loys ou
-dithostel	dit hostel
-hostelà..uncertain	hostel à . . un certain
-jourety..	jour et y . .
-trouvaicellesuppliante,absentleditGilet,	trouva icelle suppliante , absent le dit Gilet ,
-sonmary,etparlaàelle,	son mary , et parla à elle ,
-etentre	et entre
-entreautreschoses	entre autres choses
-chosesluidisteneffectetsubstancequ’	choses lui dist en effect et substance qu ’
-ilavoittousjoursesperéqueladicteJehanneJourdainefeust	il avoit tousjours esperé que la dicte Jehanne Jourdaine feust
-mariéeavecMiletSymes,sonfilz,etque	mariée avec Milet Symes , son filz , et que
-quel’entenoitaupays	que l ’ en tenoit au pays
-queRegnéJosseaume,..	que Regné Josseaume , . .
-chevalier,entendoitàellemarieravecquesGuillaumeJosseaume	chevalier , entendoit à elle marier avecques Guillaume Josseaume
-Josseaume,sonfilz	Josseaume , son filz
-filz.A..quoi	filz . A . . quoi
-icellesupplianterespondiqueladicteJehanne	icelle suppliante respondique la dicte Jehanne
-Josseaumé,..	Josseaumé , . .
-mere..deladicteJourdaine,	mere . . de la dicte Jourdaine ,
-estoitmalcontente.ethayneuse	estoit mal contente . et hayneuse
-dudit..Giletetd’	du dit . . Gilet et d ’
+,alaetvint..	, ala et vint . .
+paraucunesfoisenl’	par aucunes fois en l ’
+osteld’	ostel d ’
+iceluiGilet,	icelui Gilet ,
+appelélaDruillardiere,ouqueliltenoit	appelé la Druillardiere , ouquel il tenoit
+saresidenceet.demeure;	sa residence et . demeure ;
+etentrelesautres,se	et entre les autres , se
+setransportaleditLoysou.dit	se transporta le dit Loys ou . dit
+hostelàuncertain..jouretytrouvaicelle	hostel à un certain . . jour et y trouva icelle
+icellesuppliante,absentledit	icelle suppliante , absent le dit
+ditGilet,sonmary,etparlaàelle,.	dit Gilet , son mary , et parla à elle , .
+etentreautreschosesluidisteneffectetsubstance	et entre autres choses lui dist en effect et substance
+substancequ’	substance qu ’
+’ilavoit	’ il avoit
+tousjoursesperéqueladicteJehanneJourdainefeustmariée	tousjours esperé que la dicte Jehanne Jourdaine feust mariée
+avecMiletSymes,.sonfilz,etquel	avec Milet Symes , . son filz , et que l
+’..entenoit	’ . . en tenoit
+tenoitaupays	tenoit au pays
+queRegnéJosseaume,chevalier,entendoit	que Regné Josseaume , chevalier , entendoit
+àellemarier	à elle marier
+avecquesGuillaumeJosseaume,	avecques Guillaume Josseaume ,
+sonfilz.Aquoiicellesupplianterespondiquela	son filz . A quoi icelle suppliante respondique la
+dicteJehanneJosseaumé,merede	dicte Jehanne Josseaumé , mere de
+deladicteJourdaine,estoitmalcontenteet	de la dicte Jourdaine , estoit mal contente et
+ethayneuseduditGiletetd’elle	et hayneuse du dit Gilet et d ’ elle
 elle,pource	elle , pource
-queladicte	que la dicte
-JehanneJosseaumeestant	Jehanne Josseaume estant
-ensonhosteldesGranges,	en son hostel des Granges ,
-,èsvendengeslorsderrenierement	, ès vendenges lors derrenierement
-passées,ilzluiavoientreffusébaillersadicte	passées , ilz lui avoient reffusé bailler sa dicte
-dictefille,pourl’acompaignertant	dicte fille , pour l ’ acompaigner tant
-tantqu’..elleyseroit	tant qu ’ . . elle y seroit
-seroit,etaussipourcause..decertainplaitet	seroit , et aussi pour cause . . de certain plait et
-procèsqueicelui	procès que icelui
-iceluiGilet,commetuteurdela	icelui Gilet , comme tuteur de la
-dicteJourdaine,avoitintentécontreicelleJosseaume,	dicte Jourdaine , avoit intenté contre icelle Josseaume ,
-enl’assisedeBoingt,etdoubtoiticelle	en l ’ assise de Boingt , et doubtoit icelle
-suppliante[queelle]etnostre	suppliante [ que elle ] et nostre
-nostreaméet	nostre amé et
-fealHuguesCatus,chevalier,son	feal Hugues Catus , chevalier , son
-sonmary,lavoulsissentmarieravecques..Jehan	son mary , la voulsissent marier avecques . . Jehan
-Catus,frerepuisnéduditCatus,	Catus , frere puisné du dit Catus ,
-etqueparce	et que par ce
-ceicelleJosseaumen’eustpasaggreable	ce icelle Josseaume n ’ eust pas aggreable
-aggreablequ’ellefeustmariéeavecquesle	aggreable qu ’ elle feust mariée avecques le
-ditMilet.Etlorsle	dit Milet . Et lors le
-ditLoysdistàladicte..suppliantequ’il	dit Loys dist à la dicte . . suppliante qu ’ il
-vouldroitestre	vouldroit estre
-mariéavecladicte.	marié avec la dicte .
-JehanneJourdaine.,enpriantà	Jehanne Jourdaine . , en priant à
-àla..dictesuppliantequ’elleen	à la . . dicte suppliante qu ’ elle en
-voulsistsonbien,carsanssonaideil.ne	voulsist son bien , car sans son aide il . ne
-pourroitbonnementfaire	pourroit bonnement faire
-faire.Auquel	faire . Auquel
-icellesupplianterespondiqu’ellel	icelle suppliante respondi qu ’ elle l
-’avoitbienaggreable,maisqueicelle	’ avoit bien aggreable , mais que icelle
-Jourdaineetlesplusgransde	Jourdaine et les plus grans de
-sesamislevoulsissent.	ses amis le voulsissent .
-Etdefait	Et de fait
-fait..separtileditLoys,etdepuisce,	fait . . se parti le dit Loys , et depuis ce ,
-retournamaladed’uneboceau..	retourna malade d ’ une boce au . .
-.ditlieudelaDouillardiere	. dit lieu de la Douillardiere
-Douillardiere,etydemouramalade	Douillardiere , et y demoura malade
-parl’espacedexv.joursou	par l ’ espace de xv . jours ou
-environ,.pendant	environ , . pendant
-pendantlequeltempsladicteJourdainelevisitaparpluseursfois	pendant lequel temps la dicte Jourdaine le visita par pluseurs fois
-.Etence..faisant,iceluiLoys	. Et en ce . . faisant , icelui Loys
-parloità..	parloit à . .
-elleenappertet	elle en appert et
-etenprivécequebonluisembloit	et en privé ce que bon lui sembloit
-sembloit,saichantetconsentanticellesuppliante	sembloit , saichant et consentant icelle suppliante
-suppliante,pourlaparentéetaffinitéquiestoit	suppliante , pour la parenté et affinité qui estoit
-entreelleet	entre elle et
-etleditLoys.Et	et le dit Loys . Et
-quanticeluiLoysfuaussicomme	quant icelui Loys fu aussi comme
-commesurlepointd’estreguerydeladicte	comme sur le point d ’ estre guery de la dicte
-dictebosse,ils’enalapardevers	dicte bosse , il s ’ en ala par devers
-sonditmaistre	son dit maistre
-auditlieude	au dit lieu de
-Peiroux,	Peiroux ,
-distantduditlieu	distant du dit lieu
-delaDruillardiere	de la Druillardiere
+queladicteJehanneJosseaume	que la dicte Jehanne Josseaume
+estantenson.hosteldesGranges	estant en son . hostel des Granges
+,èsvendengeslorsderrenierementpassées,ilzlui	, ès vendenges lors derrenierement passées , ilz lui
+avoientreffusébaillersadictefille,	avoient reffusé bailler sa dicte fille ,
+pourl’acompaignertant	pour l ’ acompaigner tant
+qu’elleyseroit,etaussipourcause	qu ’ elle y seroit , et aussi pour cause
+decertainplaitetprocèsqueiceluiGilet,	de certain plait et procès que icelui Gilet ,
+,commetuteurde	, comme tuteur de
+ladicteJourdaine,avoit	la dicte Jourdaine , avoit
+intentécontre	intenté contre
+icelleJosseaume,enl’assisede	icelle Josseaume , en l ’ assise de
+deBoingt,etdoubtoiticellesuppliante[que	de Boingt , et doubtoit icelle suppliante [ que
+queelle]etnostre	que elle ] et nostre
+améetfealHugues.	amé et feal Hugues .
+Catus,chevalier,sonmary,la	Catus , chevalier , son mary , la
+lavoulsissentmarieravecquesJehanCatus,frerepuisnédudit	la voulsissent marier avecques Jehan Catus , frere puisné du dit
+Catus,etquepar	Catus , et que par
+parceicelleJosseaumen’eustpas	par ce icelle Josseaume n ’ eust pas
+pasaggreablequ’ellefeustmariéeavecquesleditMilet	pas aggreable qu ’ elle feust mariée avecques le dit Milet
+.Etlors	. Et lors
+leditLoysdist	le dit Loys dist
+à.ladicte	à . la dicte
+suppliantequ’	suppliante qu ’
+ilvouldroitestremariéavecla	il vouldroit estre marié avec la
+dicteJehanneJourdaine,enpriantàladicte	dicte Jehanne Jourdaine , en priant à la dicte
+dictesuppliantequ’elleenvoulsistsonbien	dicte suppliante qu ’ elle en voulsist son bien
+,carsans	, car sans
+sanssonaideil	sans son aide il
+nepourroitbonnementfaire.Auquel	ne pourroit bonnement faire . Auquel
+icellesupplianterespondiqu’elle	icelle suppliante respondi qu ’ elle
+ellel’avoitbien	elle l ’ avoit bien
+bienaggreable,maisque	bien aggreable , mais que
+icelleJourdaineetlesplusgransdeses	icelle Jourdaine et les plus grans de ses
+amislevoulsissent	amis le voulsissent
+voulsissent.Etdefaitse	voulsissent . Et de fait se
+partileditLoys,et	parti le dit Loys , et
+etdepuisce,retournamaladed’.uneboce	et depuis ce , retourna malade d ’ . une boce
+auditlieudela.Douillardiere,ety	au dit lieu de la . Douillardiere , et y
+demouramaladepar	demoura malade par
+parl’espacedexv.joursouenviron	par l ’ espace de xv . jours ou environ
+,pendantlequeltempsla	, pendant lequel temps la
+ladicteJourdainelevisitaparpluseursfois.Et	la dicte Jourdaine le visita par pluseurs fois . Et
+encefaisant,iceluiLoysparloitàelle	en ce faisant , icelui Loys parloit à elle
+enappertetenprivécequebonlui	en appert et en privé ce que bon lui
+sembloit,saichantetconsentanticellesuppliante,pour	sembloit , saichant et consentant icelle suppliante , pour
+laparentéetaffinitéquiestoitentreelleet	la parenté et affinité qui estoit entre elle et
+etleditLoys.Etquanticelui	et le dit Loys . Et quant icelui
+Loysfuaussicomme..surlepoint	Loys fu aussi comme . . sur le point
+pointd’	point d ’
+estreguerydeladictebosse	estre guery de la dicte bosse
+,ils’enalapar	, il s ’ en ala par
+pardeverssonditmaistreauditlieudePeiroux,	par devers son dit maistre au dit lieu de Peiroux ,
+,distant..du	, distant . . du
+ditlieudela	dit lieu de la
 Druillardiereunelieueou	Druillardiere une lieue ou
-environ.Etparaucuntempsaprès.,retourna	environ . Et par aucun temps après . , retourna
+environ.Etparaucuntempsaprès,retourna	environ . Et par aucun temps après , retourna
 retournaderechieficeluiLoys	retourna de rechief icelui Loys
-Loysauditlieudela	Loys au dit lieu de la
-Druillardiereoùil	Druillardiere où il
-trouvaladictesupplianteet	trouva la dicte suppliante et
-ladicteJourdaine;etaprèscequ’	la dicte Jourdaine ; et après ce qu ’
-ileutparlé.	il eut parlé .
-.àicelleJourdainesecretement	. à icelle Jourdaine secretement
-secretementcequebonluiotsemblé,il	secretement ce que bon lui ot semblé , il
-alapardeversicellesupplianteetluidistquelui	ala par devers icelle suppliante et lui dist que lui
-etladicteJourdaine	et la dicte Jourdaine
-avoientpromisl..’unàl’	avoient promis l . . ’ un à l ’
-autrequ’ilzseprendroientparnom	autre qu ’ ilz se prendroient par nom
-demariage,et	de mariage , et
-qu’ilvendroitqueriricelleJourdainepour	qu ’ il vendroit querir icelle Jourdaine pour
-l’enmeneretacomplirleditmariage,	l ’ enmener et acomplir le dit mariage ,
-lesabmedi	le sabmedi
-avantl’Ascensionl’anmilcccc	avant l ’ Ascension l ’ an mil cccc
-.xi,ensoyrecommandantde	. xi , en soy recommandant de
-ceàladictesupplianteetpriantqu’	ce à la dicte suppliante et priant qu ’
-’elleportastsonfaitet	’ elle portast son fait et
-eniceluileconseillastetaidast,disantque	en icelui le conseillast et aidast , disant que
+auditlieudela	au dit lieu de la
+Druillardiereoùiltrouvaladictesupplianteetladicte	Druillardiere où il trouva la dicte suppliante et la dicte
+Jourdaine;etaprèscequ’il	Jourdaine ; et après ce qu ’ il
+eutparléàicelleJourdainesecretementcequebonlui	eut parlé à icelle Jourdaine secretement ce que bon lui
+luiotsemblé,..ilalapardeversicellesuppliante	lui ot semblé , . . il ala par devers icelle suppliante
+etluidist.que	et lui dist . que
+luietladicte	lui et la dicte
+Jourdaineavoientpromisl’unàl’	Jourdaine avoient promis l ’ un à l ’
+autrequ’	autre qu ’
+ilzseprendroientparnom	ilz se prendroient par nom
+nom.demariage,etqu’	nom . de mariage , et qu ’
+ilvendroitquerir	il vendroit querir
+queriricelleJourdainepourl	querir icelle Jourdaine pour l
+’enmeneretacomplir	’ enmener et acomplir
+acomplirleditmariage,le	acomplir le dit mariage , le
+sabmediavantl’Ascension	sabmedi avant l ’ Ascension
+l’anmilcccc.xi,en.	l ’ an mil cccc . xi , en .
+soy..recommandantdeceàla	soy . . recommandant de ce à la
+dictesupplianteetpriantqu’elleportastsonfait	dicte suppliante et priant qu ’ elle portast son fait
+faiteteniceluileconseillastet..aidast,disant	fait et en icelui le conseillast et . . aidast , disant
 quelesamis	que les amis
-d’icelle	d ’ icelle
-Jourdaineenestoient	Jourdaine en estoient
-estoientd’accordet	estoient d ’ accord et
-qu’ilen	qu ’ il en
-estoitàunavec	estoit à un avec
-eulx.Aquoyladictesuppliante,cuidantque	eulx . A quoy la dicte suppliante , cuidant que
-ainsifeust,	ainsi feust ,
-respondiquevoulentiers	respondi que voulentiers
-detoutsonpovoir	de tout son povoir
-leferoit,etse	le feroit , et se
-consentiàce,	consenti à ce ,
-,ettantquelejourde	, et tant que le jour de
-sabmedidevantladictefestedel’	sabmedi devant la dicte feste de l ’
-Ascencionduditancccc.xi,	Ascencion du dit an cccc . xi ,
-leditLoysetJaques,	le dit Loys et Jaques ,
-,sonfrere,armezdehaubergons,	, son frere , armez de haubergons ,
-,avansbraz,espées	, avansbraz , espées
-espéesetdagues,acompaignezdedeuxvarlès	espées et dagues , acompaignez de deux varlès
-varlès,setransporterentauditlieudelaDouillardiere,	varlès , se transporterent au dit lieu de la Douillardiere ,
-,environheuredebassesvespres,etpourcequ	, environ heure de basses vespres , et pour ce qu
-’ilztrouverentlagrantporte	’ ilz trouverent la grant porte
-dudithostelfermée,	du dit hostel fermée ,
-telementqu’ilzn’y	telement qu ’ ilz n ’ y
-ypeurententrer	y peurent entrer
-parladicteporte,ilzs’en	par la dicte porte , ilz s ’ en
-enalerentpar	en alerent par
-derriereiceluihosteletentrerentouboysd’icelui	derriere icelui hostel et entrerent ou boys d ’ icelui
-hostel,etd’.ilecen	hostel , et d ’ . ilec en
-unpetitjardinquiestoitfermédepalys,joignant	un petit jardin qui estoit fermé de palys , joignant
-joignantd’iceluihostel;lequelpalizilzrompirent	joignant d ’ icelui hostel ; le quel paliz ilz rompirent
-audroitduverroueilduditjardin,	au droit du verroueil du dit jardin ,
-quiestderrierela	qui est derriere la
-saledudit	sale du dit
-hostel.Etcefait	hostel . Et ce fait
-fait,entrerentoudithostelpar	fait , entrerent ou dit hostel par
-parunefenestre	par une fenestre
-deladictesale;etd’	de la dicte sale ; et d ’
-ilecalerentouballet,oùilztrouverentladicte	ilec alerent ou ballet , où ilz trouverent la dicte
-dicte.suppliante,laqueleilz	dicte . suppliante , laquele ilz
-saluerent,etelleleurrespondi:«Je	saluerent , et elle leur respondi :« Je
-nevoussaluepoint,vous	ne vous salue point , vous
-nevalez	ne valez
-riens.Alez,alez,	riens . Alez , alez ,
-elleestlaissus.»Ettantostalerentà	elle est laissus .» Et tantost alerent à
-lachambreduditGiletSymes,oùestoitla	la chambre du dit Gilet Symes , où estoit la
-dicteJourdaine,laquelechambreestoitfermée	dicte Jourdaine , laquele chambre estoit fermée
-,ethurterent	, et hurterent
-parpluseursfois	par pluseurs fois
-àl’uysde	à l ’ uys de
-ladictechambre,enl’appellant.	la dicte chambre , en l ’ appellant .
-Etpourcequ’ellene	Et pour ce qu ’ elle ne
-voultpasouvrirtantostladictechambre,	voult pas ouvrir tantost la dicte chambre ,
-leditLoystraysadagueeten	le dit Loys tray sa dague et en
-envoltouvrirledithuys.Et	en volt ouvrir le dit huys . Et
-EtlorsladicteJourdaineouvryledithuysbien	Et lors la dicte Jourdaine ouvry le dit huys bien
-ennuysetàgrantcrainte,sicomme	ennuys et à grant crainte , si comme
-commeondit.Etentrerent.dedensladicte	comme on dit . Et entrerent . dedens la dicte
-chambreetsaluerent	chambre et saluerent
-icelleJourdaine,ets’entrebaiserent	icelle Jourdaine , et s ’ entrebaiserent
-eulxetelle;etlui..recitaiceluiLoys	eulx et elle ; et lui . . recita icelui Loys
-lesdictespromessesetconvenancesde..	les dictes promesses et convenances de . .
-.mariageautresfoisparléesentreeulx,	. mariage autresfois parlées entre eulx ,
-commeditest,en	comme dit est , en
-enluidemandants.’ellelesvouloittenir	en lui demandant s . ’ elle les vouloit tenir
-.Aquoyelle	. A quoy elle
-respondiqueoy,maisqueleditGiletSymes	respondi que oy , mais que le dit Gilet Symes
-,sontuteur,quiestoit	, son tuteur , qui estoit
-absent,luiavoitdefenduparpluseurs	absent , lui avoit defendu par pluseurs
-pluseursfoysqu’ellene	pluseurs foys qu ’ elle ne
-semariastàhomme.du	se mariast à homme . du
-dumonde,sanslecongiédeluiet	du monde , sans le congié de lui et
-desesautresamis,	de ses autres amis ,
-etqueladictesupplianteenpourroitbienestrebatue	et que la dicte suppliante en pourroit bien estre batue
-batue,etpluseursautresparoleseurententreeulx..,si	batue , et pluseurs autres paroles eurent entre eulx . . , si
-commeicellesupplianteadepuysoydire	comme icelle suppliante a depuys oy dire
-dire;carellen’estoitpaspresenteàce	dire ; car elle n ’ estoit pas presente à ce
-.Etaprèsce,leditJaques,	. Et après ce , le dit Jaques ,
-frereduditLoys,pristladicteJourdainepar	frere du dit Loys , prist la dicte Jourdaine par
-la.main,etcombien	la . main , et combien
-combienqu’elle	combien qu ’ elle
-deistqu’ellenes’en	deist qu ’ elle ne s ’ en
-vouloitpoint	vouloit point
-aleret.qu’	aler et . qu ’
-ellesepristàunehucheoucoffrequi	elle se prist à une huche ou coffre qui
-estoitenladictechambre,iceluiJaquesla	estoit en la dicte chambre , icelui Jaques la
-trahyhorsde	trahy hors de
-deladictechambre,etlorsellese	de la dicte chambre , et lors elle se
-pristàploureret..	prist à plourer et . .
-faireautressignesde.courroux,	faire autres signes de . courroux ,
-jusquesaudehorsdudithostel..	jusques au dehors du dit hostel . .
-Etcombienqueladictesupplianteveistcequedit	Et combien que la dicte suppliante veist ce que dit
-est,elle.dissimulaetlaissa	est , elle . dissimula et laissa
-passersans	passer sans
-enfaireaucunsemblant.Al’issueduquel	en faire aucun semblant . A l ’ issue duquel
-hostel,leditMilet,filz	hostel , le dit Milet , filz
-duditGilet,	du dit Gilet ,
-vintàeulxetleurdistquecen	vint à eulx et leur dist que ce n
-’estoitpasbienfaitdeprendreetemmener	’ estoit pas bien fait de prendre et emmener
-ainsilesdamoisellesetqu’.	ainsi les damoiselles et qu ’ .
-ilzlalaissassent,dontilzne.	ilz la laissassent , dont ilz ne .
-.vouldrentriensfaire.	. vouldrent riens faire .
-;ets’escrialorsicelleJourdaine,	; et s ’ escria lors icelle Jourdaine ,
-disantqu’ellenes’en	disant qu ’ elle ne s ’ en
-yroitpointsanzlecongiédudit	yroit point sanz le congié du dit
-ditGilet.	dit Gilet .
-Etencedisant	Et en ce disant
-leditJaqueslamontaàcheval,	le dit Jaques la monta à cheval ,
-,contresavoulenté,derriereleditLoys	, contre sa voulenté , derriere le dit Loys
-sonfrere	son frere
-frere,maisicelleJourdaine	frere , mais icelle Jourdaine
-en.criantsegecta	en . criant se gecta
-surlesespaulesdu	sur les espaules du
-ditJaques,qui	dit Jaques , qui
-parforce..etviolencelamistdevantledit	par force . . et violence la mist devant le dit
-ditLoysenlasellesurledit	dit Loys en la selle sur le dit
-ditcheval.Etatants’enpartirentetemmenerent.	dit cheval . Et atant s ’ en partirent et emmenerent .
-ladicte..Jourdainelàou	la dicte . . Jourdaine là ou
-bonleursembla.Etditon	bon leur sembla . Et dit on
-onque.depuisasseztost	on que . depuis assez tost
-aprèsleditLoyslafiença	après le dit Loys la fiença
-,etlelendemain..desditesfiançailles	, et le lendemain . . des dites fiançailles
-fiançaillesl’espousaaulieudelaChappelleHaudry.	fiançailles l ’ espousa au lieu de la Chappelle Haudry .
-Aprèslesqueles.chosesainsifaictes,	Après lesqueles . choses ainsi faictes ,
-iceluiLoysenmenaladicteJourdaineenpluseurset	icelui Loys enmena la dicte Jourdaine en pluseurs et
-diverslieuxetl’a	divers lieux et l ’ a
-detenueparaucuntemps,	detenue par aucun temps ,
-durantlequelilaeusacompaignie	durant lequel il a eu sa compaignie
-compaigniecharnele,sicommeondit.Pourlequel	compaignie charnele , si comme on dit . Pour lequel
-cas,ouquell’enditnostresauvegarde	cas , ou quel l ’ en dit nostre sauvegarde
-sauvegardeavoiresté	sauvegarde avoir esté
-enfrainte,portd.’armes,forcepubliqueet	enfrainte , port d . ’ armes , force publique et
-ravissementdampnablesavoirestécommiset	ravissement dampnables avoir esté commis et
-perpetrez,procèsaestémeuetpendpar	perpetrez , procès a esté meu et pend par
-devantnostre..baillideTouraineousonlieutenantàChinon	devant nostre . . bailli de Touraine ou son lieutenant à Chinon
-,tantentrenostreprocureur	, tant entre nostre procureur
-illecet	illec et
-lesamis..charnelz	les amis . . charnelz
-charnelzd’icelleJourdaine,demandeurs,d	charnelz d ’ icelle Jourdaine , demandeurs , d
-’unepart,etla	’ une part , et la
-dictesuppliante,ledit..GilesSymes,	dicte suppliante , le dit . . Giles Symes ,
-,sonmary,lesdiz	, son mary , les diz
-dizLoysetJaquesetautres	diz Loys et Jaques et autres
-autres,defendeurs,	autres , defendeurs ,
-d’autrepart.Sur	d ’ autre part . Sur
-quoytant	quoy tant
-aestéprocedéentre	a esté procedé entre
-lesdictespartiesque,parlemoiende	les dictes parties que , par le moien de
-certaineappellacionfaicteànostrecourtdeParlementparles	certaine appellacion faicte à nostre court de Parlement par les
-lesdizdemandeurs,etaussi..decertainnes	les diz demandeurs , et aussi . . de certainnes
-nozlettrespareulxsurceobtenues,lesparties	noz lettres par eulx sur ce obtenues , les parties
-oyessurl’enterinementdenos	oyes sur l ’ enterinement de nos
-nosdicteslettresobtenuesparlesdizamischarnelz	nos dictes lettres obtenues par les diz amis charnelz
-charnelzd..’icelleJourdaine,	charnelz d . . ’ icelle Jourdaine ,
-,ladicteappellacionaestémiseauneant	, la dicte appellacion a esté mise au neant
-sansamende,touzdespensreservezendiffinitive	sans amende , touz despens reservez en diffinitive
-.Etaordonné	. Et a ordonné
-ordonnénostre.dictecourtque	ordonné nostre . dicte court que
-lacauseprincipaldemourraenicellenostre	la cause principal demourra en icelle nostre
-nostrecourt,et	nostre court , et
-etquelespartiesy	et que les parties y
-yprocederontauxjoursdeVermendois	y procederont aux jours de Vermendois
-decepresentParlement,commeil	de ce present Parlement , comme il
-appartendrapar.	appartendra par .
-raison.Ausquelzjoursicellesuppliante	raison . Ausquelz jours icelle suppliante
-aestéadjournéeparcrypubliqueàcomparoir	a esté adjournée par cry publique à comparoir
-personnelment,surpeinedebannissement	personnelment , sur peine de bannissement
-etdeconfiscacionde	et de confiscacion de
-touzetchascunssesbiens...Ettoutesvoyes	touz et chascuns ses biens . . . Et toutes voyes
-elle..n’y	elle . . n ’ y
-yapeucomparoirenpersonne,obstantcequ’	y a peu comparoir en personne , obstant ce qu ’
-’elleest	’ elle est
-estdetenuedemaladie	est detenue de maladie
-maladie.,et	maladie . , et
-etparceyaenvoyé	et par ce y a envoyé
-sonexonyedeladictemaladie,etaesté	son exonye de la dicte maladie , et a esté
-estédonnédefaut	esté donné defaut
-contreelleàsespartiesadverses,saufla	contre elle à ses parties adverses , sauf la
-verifficaciondeladicteexonye	verifficacion de la dicte exonye
-exonye.Laquelesuppliante	exonye . Laquele suppliante
-quiestsimpleetygnorante,etne	qui est simple et ygnorante , et ne
-cuydoitriensmesprendreenceque	cuydoit riens mesprendre en ce que
-dessusestdit	dessus est dit
-,attenduqueleditLoysluidonnoitàentendre	, attendu que le dit Loys lui donnoit à entendre
+d’icelleJourdaineenestoientd’accord	d ’ icelle Jourdaine en estoient d ’ accord
+etqu’ilenestoit	et qu ’ il en estoit
+àunaveceulx	à un avec eulx
+.Aquoyladictesuppliante,cuidant	. A quoy la dicte suppliante , cuidant
+cuidantqueainsifeust,.respondique	cuidant que ainsi feust , . respondi que
+voulentiersdetoutsonpovoirleferoit,et	voulentiers de tout son povoir le feroit , et
+seconsentiàce,ettantquele	se consenti à ce , et tant que le
+lejourdesabmedidevantladictefestedel	le jour de sabmedi devant la dicte feste de l
+’Ascencion	’ Ascencion
+duditancccc.xi,	du dit an cccc . xi ,
+leditLoysetJaques,sonfrere,armez	le dit Loys et Jaques , son frere , armez
+armezdehaubergons,avansbraz	armez de haubergons , avansbraz
+,espéesetdagues,acompaignezdedeuxvarlès	, espées et dagues , acompaignez de deux varlès
+,setransporterent	, se transporterent
+auditlieudelaDouillardiere	au dit lieu de la Douillardiere
+,environheuredebassesvespres,et	, environ heure de basses vespres , et
+pourcequ’ilztrouverentla	pour ce qu ’ ilz trouverent la
+grantportedudithostel	grant porte du dit hostel
+hostel.fermée,telementqu’ilzn	hostel . fermée , telement qu ’ ilz n
+’ypeurent	’ y peurent
+entrerparladicte.porte,	entrer par la dicte . porte ,
+ilzs’enalerentparderriere	ilz s ’ en alerent par derriere
+iceluihosteletentrerentouboysd’	icelui hostel et entrerent ou boys d ’
+iceluihostel,etd’ilecenunpetit	icelui hostel , et d ’ ilec en un petit
+jardinquiestoitfermédepalys,joignant	jardin qui estoit fermé de palys , joignant
+d’icelui	d ’ icelui
+hostel;lequelpalizilzrompirentau	hostel ; le quel paliz ilz rompirent au
+droitdu.verroueildudit	droit du . verroueil du dit
+ditjardin,quiest	dit jardin , qui est
+derrierelasaledu	derriere la sale du
+dithostel.Etcefait,entrerentou	dit hostel . Et ce fait , entrerent ou
+dithostelparunefenestredeladictesale	dit hostel par une fenestre de la dicte sale
+;etd’ilecalerentouballet,	; et d ’ ilec alerent ou ballet ,
+oùilztrouverent..	où ilz trouverent . .
+.ladictesuppliante,laqueleilzsaluerent,et	. la dicte suppliante , laquele ilz saluerent , et
+etelleleurrespondi:«	et elle leur respondi :«
+Jenevoussaluepoint,vousne	Je ne vous salue point , vous ne
+valezriens.Alez	valez riens . Alez
+,alez,elleestlaissus.»Ettantost	, alez , elle est laissus .» Et tantost
+tantostalerentàlachambreduditGiletSymes,	tantost alerent à la chambre du dit Gilet Symes ,
+oùestoitla.dicteJourdaine	où estoit la . dicte Jourdaine
+,laquele	, laquele
+chambreestoitfermée,et	chambre estoit fermée , et
+hurterentparpluseursfoisà	hurterent par pluseurs fois à
+l’uysde	l ’ uys de
+ladictechambre,en	la dicte chambre , en
+l’appellant.Etpourcequ	l ’ appellant . Et pour ce qu
+’ellenevoultpasouvrir.tantost	’ elle ne voult pas ouvrir . tantost
+ladictechambre	la dicte chambre
+,leditLoystraysadagueeten.volt	, le dit Loys tray sa dague et en . volt
+ouvrirledithuys.Etlorsladicte	ouvrir le dit huys . Et lors la dicte
+Jourdaineouvry	Jourdaine ouvry
+ledithuysbienennuysetàgrantcrainte,	le dit huys bien ennuys et à grant crainte ,
+sicommeondit.Et	si comme on dit . Et
+entrerentdedensladictechambreetsaluerenticelle	entrerent dedens la dicte chambre et saluerent icelle
+Jourdaine,ets’entrebaiserenteulxetelle	Jourdaine , et s ’ entrebaiserent eulx et elle
+;etlui..recitaiceluiLoyslesdictespromesses	; et lui . . recita icelui Loys les dictes promesses
+promessesetconvenancesdemariageautresfoisparléesentre	promesses et convenances de mariage autresfois parlées entre
+eulx,commedit	eulx , comme dit
+est,enlui	est , en lui
+luidemandants’elle	lui demandant s ’ elle
+ellelesvouloittenir.Aquoyellerespondi	elle les vouloit tenir . A quoy elle respondi
+respondiqueoy,mais	respondi que oy , mais
+queleditGiletSymes,sontuteur	que le dit Gilet Symes , son tuteur
+,quiestoitabsent,lui	, qui estoit absent , lui
+avoitdefendupar..	avoit defendu par . .
+.pluseursfoysqu	. pluseurs foys qu
+qu’ellenese	qu ’ elle ne se
+mariastàhomme	mariast à homme
+du.monde,	du . monde ,
+,sanslecongiédeluietdeses	, sans le congié de lui et de ses
+sesautresamis,et	ses autres amis , et
+etqueladicte	et que la dicte
+dictesupplianteenpourroitbienestrebatue	dicte suppliante en pourroit bien estre batue
+,etpluseursautresparoles	, et pluseurs autres paroles
+eurententreeulx	eurent entre eulx
+,sicommeicellesupplianteadepuys	, si comme icelle suppliante a depuys
+oydire;carellen	oy dire ; car elle n
+’estoitpaspresenteàce.Etaprès	’ estoit pas presente à ce . Et après
+ce,leditJaques	ce , le dit Jaques
+,frereduditLoys,	, frere du dit Loys ,
+,pristladicteJourdaineparlamain,et	, prist la dicte Jourdaine par la main , et
+combienqu’elledeist	combien qu ’ elle deist
+deistqu’ellenes’envouloit	deist qu ’ elle ne s ’ en vouloit
+pointaleret	point aler et
+etqu’elle	et qu ’ elle
+seprist	se prist
+àunehucheou	à une huche ou
+coffrequiestoitenladicte	coffre qui estoit en la dicte
+chambre,iceluiJaqueslatrahyhorsdela	chambre , icelui Jaques la trahy hors de la
+dictechambre,etlors	dicte chambre , et lors
+lorsellesepristàploureretfaireautres	lors elle se prist à plourer et faire autres
+autressignesdecourroux	autres signes de courroux
+courroux,jusquesaudehorsdu	courroux , jusques au dehors du
+dudithostel.Etcombienque	du dit hostel . Et combien que
+queladictesupplianteveistcequeditest,elle	que la dicte suppliante veist ce que dit est , elle
+dissimulaet	dissimula et
+laissapassersansenfaireaucun	laissa passer sans en faire aucun
+semblant.Al’issue	semblant . A l ’ issue
+issueduquelhostel,leditMilet,.filzdudit	issue duquel hostel , le dit Milet , . filz du dit
+ditGilet,vintàeulxet	dit Gilet , vint à eulx et
+leurdist	leur dist
+quecen’	que ce n ’
+’..estoitpasbienfaitdeprendreetemmenerainsiles	’ . . estoit pas bien fait de prendre et emmener ainsi les
+damoisellesetqu’ilzlalaissassent	damoiselles et qu ’ ilz la laissassent
+laissassent,dontilznevouldrentriensfaire;ets	laissassent , dont ilz ne vouldrent riens faire ; et s
+’escria..lorsicelleJourdaine,disantqu	’ escria . . lors icelle Jourdaine , disant qu
+’ellenes’en	’ elle ne s ’ en
+yroitpoint.sanz	yroit point . sanz
+lecongiéduditGilet.	le congié du dit Gilet .
+EtencedisantleditJaqueslamonta	Et en ce disant le dit Jaques la monta
+montaàcheval,contresa	monta à cheval , contre sa
+voulenté,derriereleditLoys	voulenté , derriere le dit Loys
+Loyssonfrere,maisicelleJourdaine.encriantse	Loys son frere , mais icelle Jourdaine . en criant se
+gectasurlesespaulesdudit	gecta sur les espaules du dit
+Jaques,quiparforceetviolencelamistdevant	Jaques , qui par force et violence la mist devant
+devantleditLoysenlaselle	devant le dit Loys en la selle
+surledit	sur le dit
+cheval.Et.	cheval . Et .
+.atants	. atant s
+’enpartirent	’ en partirent
+etemmenerentla	et emmenerent la
+dicteJourdainelà.oubonleur	dicte Jourdaine là . ou bon leur
+leursembla.Etditonquedepuisasseztostaprès	leur sembla . Et dit on que depuis assez tost après
+leditLoys	le dit Loys
+Loyslafiença,etlelendemaindesditesfiançaillesl	Loys la fiença , et le lendemain des dites fiançailles l
+’espousaaulieude	’ espousa au lieu de
+laChappelleHaudry.Aprèslesqueleschosesainsifaictes	la Chappelle Haudry . Après lesqueles choses ainsi faictes
+,iceluiLoysenmenaladicte.	, icelui Loys enmena la dicte .
+Jourdaineenpluseursetdiverslieuxet	Jourdaine en pluseurs et divers lieux et
+l’adetenue..	l ’ a detenue . .
+paraucuntemps,durantlequelilaeusa	par aucun temps , durant lequel il a eu sa
+compaigniecharnele	compaignie charnele
+charnele,si	charnele , si
+comme.on	comme . on
+dit.Pourlequel	dit . Pour lequel
+cas,ouquel	cas , ou quel
+l’endit	l ’ en dit
+ditnostresauvegardeavoirestéenfrainte,	dit nostre sauvegarde avoir esté enfrainte ,
+portd’armes,forcepublique	port d ’ armes , force publique
+etravissementdampnablesavoirestécommis	et ravissement dampnables avoir esté commis
+etperpetrez,procès	et perpetrez , procès
+aestémeuetpendpardevantnostrebaillide.	a esté meu et pend par devant nostre bailli de .
+TouraineousonlieutenantàChinon,tantentre	Touraine ou son lieutenant à Chinon , tant entre
+nostreprocureurillecetles	nostre procureur illec et les
+lesamischarnelzd’icelleJourdaine,demandeurs	les amis charnelz d ’ icelle Jourdaine , demandeurs
+demandeurs,..d’unepart,etla	demandeurs , . . d ’ une part , et la
+dictesuppliante,leditGiles	dicte suppliante , le dit Giles
+Symes,sonmary,lesdizLoys	Symes , son mary , les diz Loys
+etJaques..et	et Jaques . . et
+etautres,	et autres ,
+defendeurs,	defendeurs ,
+d’autrepart	d ’ autre part
+.Surquoytantaestéprocedéentrelesdictes	. Sur quoy tant a esté procedé entre les dictes
+parties..que,parlemoiendecertaineappellacion	parties . . que , par le moien de certaine appellacion
+faicteànostrecourtde	faicte à nostre court de
+Parlementparlesdizdemandeurs	Parlement par les diz demandeurs
+demandeurs,etaussidecertainnesnozlettrespareulxsur	demandeurs , et aussi de certainnes noz lettres par eulx sur
+ceobtenues.,	ce obtenues . ,
+,.lespartiesoyessurl’	, . les parties oyes sur l ’
+enterinementdenosdicteslettresobtenuespar	enterinement de nos dictes lettres obtenues par
+parlesdizamischarnelzd’icelleJourdaine,la	par les diz amis charnelz d ’ icelle Jourdaine , la
+dicteappellacionaestémise	dicte appellacion a esté mise
+auneantsansamende	au neant sans amende
+,touzdespensreservezendiffinitive..Eta	, touz despens reservez en diffinitive . . Et a
+ordonnénostredictecourtquelacauseprincipaldemourraen	ordonné nostre dicte court que la cause principal demourra en
+icellenostrecourt,..etquelesparties	icelle nostre court , . . et que les parties
+partiesyprocederontaux.joursdeVermendoisde	parties y procederont aux . jours de Vermendois de
+cepresentParlement,commeilappartendraparraison.	ce present Parlement , comme il appartendra par raison .
+Ausquelzjoursicellesupplianteaestéadjournéeparcrypublique	Ausquelz jours icelle suppliante a esté adjournée par cry publique
+àcomparoir	à comparoir
+personnelment,surpeinedebannissementetde	personnelment , sur peine de bannissement et de
+deconfiscaciondetouzet	de confiscacion de touz et
+chascunsses.biens.	chascuns ses . biens .
+.Ettoutesvoyes	. Et toutes voyes
+ellen’yapeu	elle n ’ y a peu
+comparoirenpersonne,obstantcequ’.elleest	comparoir en personne , obstant ce qu ’ . elle est
+estdetenuede	est detenue de
+maladie,etparceyaenvoyéson	maladie , et par ce y a envoyé son
+exonyedeladictemaladie,	exonye de la dicte maladie ,
+etaestédonnédefautcontreelleàses	et a esté donné defaut contre elle à ses
+partiesadverses,	parties adverses ,
+,sauflaverifficacion	, sauf la verifficacion
+verifficaciondeladicte	verifficacion de la dicte
+exonye.Laquelesuppliantequiestsimpleetygnorante,	exonye . Laquele suppliante qui est simple et ygnorante ,
+etnecuydoitriensmesprendreenceque	et ne cuydoit riens mesprendre en ce que
+dessusestdit,attendu	dessus est dit , attendu
+queleditLoysluidonnoitàentendre	que le dit Loys lui donnoit à entendre
 queladicteJourdaineetsesamisestoientd’	que la dicte Jourdaine et ses amis estoient d ’
-accort..du	accort . . du
-duditmariage,doubteestredurement	du dit mariage , doubte estre durement
-etriguoreusementtraictéeparjustice,	et riguoreusement traictée par justice ,
-,pourcause.ducaset	, pour cause . du cas et
-faictdessusdit,separnousneluiest	faict dessus dit , se par nous ne lui est
-sur..ceimpartienostre	sur . . ce impartie nostre
-grace,sicommeelledit,requeranthumblementicelle	grace , si comme elle dit , requerant humblement icelle
-.Pourquoynous,	. Pour quoy nous ,
-ceschosesconsiderées,voulansmisericordeestrepreferéeà	ces choses considerées , voulans misericorde estre preferée à
-rigueurdejustice	rigueur de justice
-,àladicte	, à la dicte
-dictesupplianteavonsquictié,etc.,	dicte suppliante avons quictié , etc .,
-etc.Sidonnons	etc . Si donnons
-enmandementpacesmesmes	en mandement pa ces mesmes
-presentesànozamezetfeaulxconseillersles	presentes à noz amez et feaulx conseillers les
-genstenansnostrepresentParlementet	gens tenans nostre present Parlement et
-quiletendront	qui le tendront
-pourletempsavenir,auprevostdeParis,	pour le temps avenir , au prevost de Paris ,
-aubaillideTouraineetàtouznoz	au bailli de Touraine et à touz noz
-nozautresjusticiers,etc.Donnéà	noz autres justiciers , etc . Donné à
-Paris,oumoisdenovembrel’	Paris , ou mois de novembre l ’
-’andegracemilcccc.etdouzeetde	’ an de grace mil cccc . et douze et de
-nostreregnelexxxiiie.Parleroy,monseigneur	nostre regne le xxxiiie . Par le roy , monseigneur
-d’Ivoyetpluseursautrespresens.J	d ’ Ivoy et pluseurs autres presens . J
-.Desquay.	. Desquay .
+accortdu	accort du
+ditmariage,doubteestredurementetriguoreusementtraictéepar	dit mariage , doubte estre durement et riguoreusement traictée par
+justice,pour..	justice , pour . .
+causeducasetfaict	cause du cas et faict
+faictdessusdit,separ	faict dessus dit , se par
+nousnelui	nous ne lui
+luiestsurceimpartienostregrace,	lui est sur ce impartie nostre grace ,
+sicommeelledit,requeranthumblementicelle.Pour	si comme elle dit , requerant humblement icelle . Pour
+quoynous,ceschosesconsiderées,	quoy nous , ces choses considerées ,
+,voulansmisericordeestrepreferée..	, voulans misericorde estre preferée . .
+àrigueurdejustice,àla	à rigueur de justice , à la
+dictesupplianteavonsquictié	dicte suppliante avons quictié
+quictié,etc.,etc	quictié , etc ., etc
+.Sidonnonsen	. Si donnons en
+mandementpacesmesmespresentesànoz	mandement pa ces mesmes presentes à noz
+amezetfeaulxconseillerslesgenstenansnostrepresentParlement	amez et feaulx conseillers les gens tenans nostre present Parlement
+et..quile	et . . qui le
+tendront..pourle	tendront . . pour le
+tempsavenir,auprevostdeParis,au	temps avenir , au prevost de Paris , au
+baillideTouraineetàtouz.noz	bailli de Touraine et à touz . noz
+nozautresjusticiers	noz autres justiciers
+,etc.DonnéàParis,oumois	, etc . Donné à Paris , ou mois
+denovembre..	de novembre . .
+l’andegrace	l ’ an de grace
+gracemilcccc.etdouzeetde	grace mil cccc . et douze et de
+nostreregne	nostre regne
+lexxxiiie.Parleroy,monseigneurd’	le xxxiiie . Par le roy , monseigneur d ’
+’Ivoyetpluseursautrespresens.J.Desquay	’ Ivoy et pluseurs autres presens . J . Desquay
+Desquay.	Desquay .

@@ -1,36 +1,30 @@
-Philippes,	Philippes ,
-parlagrace..	par la grace . .
-deDieu,roys	de Dieu , roys
-roysdeFrance.Savoirfaisonsàtouz,presenset	roys de France . Savoir faisons à touz , presens et
-avenir,que,de	avenir , que , de
-degraceespecialetdecerteinescienceet	de grace especial et de certeine science et
-denostre	de nostre
-pooirroyal,et	pooir royal , et
-pourcon-sideraciondebonsservicesqueRegnaut,.	pour con - sideracion de bons services que Regnaut , .
-ditCrollebois,nostre	dit Crollebois , nostre
-receveuurdePoitou	receveuur de Poitou
-etdeXanctonge,nousafaiz,nous	et de Xanctonge , nous a faiz , nous
-yceluiRegnaut	ycelui Regnaut
-,liquiex	, li quiex
-estdescenduz.	est descenduz .
-delignienon	de lignie non
-nonnoble..,avonsnobli	non noble . . , avons nobli
-etnoblissons,etvoulonsetlioctroionsquedores	et noblissons , et voulons et li octroions que dores
-enavant,ilettoutesaposterité	en avant , il et toute sa posterité
-presenteetavenir.,	presente et avenir . ,
-,descendanspardroiteligne	, descendans par droite ligne
-desonproprecorps,soientreputezet	de son propre corps , soient reputez et
-ettenuzpournobles,etque	et tenuz pour nobles , et que
-queiljoissentetusentde.touz	que il joissent et usent de . touz
-droiz,franchises..et	droiz , franchises . . et
-libertez,dontlesautresnoblesdenostre	libertez , dont les autres nobles de nostre
-nostreroyaumejoissentetusent.Entesmoing	nostre royaume joissent et usent . En tesmoing
-desquelleschoses,etqueellessoient	des quelles choses , et que elles soient
-fermesetestablesàtouzjoursmais,nous	fermes et estables à touz jours mais , nous
-avonsfaitmettre	avons fait mettre
-nostreseelences	nostre seel en ces
-ceslettres.DonnéàBecoysel,	ces lettres . Donné à Becoysel ,
-lexxijejourdejullet	le xxije jour de jullet
-l'andegrace	l ' an de grace
-milccc.trente.etsix	mil ccc . trente . et six
-six.Parleroy.Barriere	six . Par le roy . Barriere
+Philippes,parlagracede	Philippes , par la grace de
+Dieu,roysdeFrance.Savoir	Dieu , roys de France . Savoir
+faisonsàtouz,presensetavenir	faisons à touz , presens et avenir
+avenir,que,..de	avenir , que , . . de
+graceespecialetdecerteinescienceetdenostre	grace especial et de certeine science et de nostre
+pooirroyal,etpourcon-sideracionde	pooir royal , et pour con - sideracion de
+bonsservicesqueRegnaut	bons services que Regnaut
+,ditCrollebois,	, dit Crollebois ,
+nostrereceveuurdePoitouetdeXanctonge,	nostre receveuur de Poitou et de Xanctonge ,
+nousafaiz,nousyceluiRegnaut,	nous a faiz , nous ycelui Regnaut ,
+liquiexestdescenduzdelignienon	li quiex est descenduz de lignie non
+nonnoble,avonsnoblietnoblissons,etvoulonset	non noble , avons nobli et noblissons , et voulons et
+etlioctroions	et li octroions
+quedoresenavant,ilet	que dores en avant , il et
+ettoutesaposterité	et toute sa posterité
+presenteetavenir,descendanspardroiteligne	presente et avenir , descendans par droite ligne
+de..sonproprecorps,soient	de . . son propre corps , soient
+soientreputezettenuzpournobles,etqueil	soient reputez et tenuz pour nobles , et que il
+joissentetusentdetouzdroiz,	joissent et usent de touz droiz ,
+,franchisesetlibertez,dontles	, franchises et libertez , dont les
+autresnobles.	autres nobles .
+denostreroyaumejoissentetusent.En	de nostre royaume joissent et usent . En
+Entesmoingdesquelleschoses,etqueellessoientfermes	En tesmoing des quelles choses , et que elles soient fermes
+etestablesàtouzjoursmais,nous	et estables à touz jours mais , nous
+avonsfait.mettrenostreseelen	avons fait . mettre nostre seel en
+ceslettres.DonnéàBecoysel,lexxijejour	ces lettres . Donné à Becoysel , le xxije jour
+dejulletl.'andegrace	de jullet l . ' an de grace
+gracemilccc.	grace mil ccc .
+.trenteetsix	. trente et six
+.Parleroy.Barriere	. Par le roy . Barriere

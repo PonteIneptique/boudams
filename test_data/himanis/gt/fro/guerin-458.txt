@@ -1,138 +1,122 @@
-Charles,etc.Savoir.faisons	Charles , etc . Savoir . faisons
-àtous,presens.	à tous , presens .
-etavenir,quenostreaméchevalier,Pierre	et avenir , que nostre amé chevalier , Pierre
-PierredeCraon,nousaexposéque,jasoitce	Pierre de Craon , nous a exposé que , jasoit ce
-queàcausede	que à cause de
-Katherinede	Katherine de
-Machecoul,safemme,ildeust	Machecoul , sa femme , il deust
-estreheritierseuletpourletoutdesbiens	estre heritier seul et pour le tout des biens
-biens,possessions	biens , possessions
-etheritagesdeMargueritedeBauçay,venansetdescendens	et heritages de Marguerite de Bauçay , venans et descendens
-delaligneetducostéd'icelleMarguerite	de la ligne et du costé d ' icelle Marguerite
-,neantmoinsladite..	, neantmoins la dite . .
-.Marguerite,	. Marguerite ,
-,femmeàpresentdeSimonBurelé,chevalieranglois	, femme à present de Simon Burelé , chevalier anglois
-,nostreennemy,fistdonnacion	, nostre ennemy , fist donnacion
-auditBurelédetous	au dit Burelé de tous
-toussesdis.heritages	tous ses dis . heritages
-,avantle	, avant le
-mariaged'eulx	mariage d ' eulx
-deux.,pourfrauderetprivernostreditchevalier	deux . , pour frauder et priver nostre dit chevalier
-dudroitqui	du droit qui
-lidevoitappartenirenyceulx,àcause	li devoit appartenir en yceulx , à cause
-causedeladiteKatherine,safemme	cause de la dite Katherine , sa femme
-,au..tiltreduqueldonettransport,ycelli	, au . . tiltre du quel don et transport , ycelli
-Burelé,anglois,enestentrez,mis	Burelé , anglois , en est entrez , mis
-misoureceuenlafoy	mis ou receu en la foy
-,homageousouffrance	, homage ou souffrance
-souffrancedes.seigneurs,dontlesheritagesetpossessionsdessusdites	souffrance des . seigneurs , dont les heritages et possessions dessus dites
-sont.tenues,etpour	sont . tenues , et pour
-pourceleschosesdessusditesvenues	pour ce les choses dessus dites venues
-venuesàlacognoissanceduditchevalier,il	venues à la cognoissance du dit chevalier , il
-aitfaitadjorner,selonlacoustumedespaïsoù	ait fait adjorner , selon la coustume des païs où
-lesdizheritagessontassis	les diz heritages sont assis
-,encausede	, en cause de
-retraitleditangloisèsassises	retrait le dit anglois ès assises
-etlieux,juridicionsdesquielzles	et lieux , juridicions des quielz les
-lesditeschosessonttenues,c	les dites choses sont tenues , c
-'estassavoiren	' est assavoir en
-ennostrejurisdicionetsouverainnté,	en nostre jurisdicion et souverainnté ,
-tantàSaumur,qui	tant à Saumur , qui
-est..ennostreobeissance,	est . . en nostre obeissance ,
-,commeàPoitiers...Lequel	, comme à Poitiers . . . Le quel
-anglois,pour	anglois , pour
-pourcequ'il	pour ce qu ' il
-iltient..lapartiede	il tient . . la partie de
-nozennemis,nes'ouseroit	noz ennemis , ne s ' ouseroit
-comparoir..auditlieu	comparoir . . au dit lieu
-deSaumur,pourprocederenladite	de Saumur , pour proceder en la dite
-cause.deretrait,	cause . de retrait ,
-nesemblablement..aussi	ne semblablement . . aussi
+Charles,	Charles ,
+etc.Savoirfaisonsàtous,presens	etc . Savoir faisons à tous , presens
+etavenir	et avenir
+,quenostreamé	, que nostre amé
+chevalier,	chevalier ,
+PierredeCraon,nousaexposéque,jasoit	Pierre de Craon , nous a exposé que , jasoit
+cequeàcausedeKatherine	ce que à cause de Katherine
+deMachecoul.	de Machecoul .
+,safemme,ildeustestreheritierseul..	, sa femme , il deust estre heritier seul . .
+etpourletoutdesbiens,possessionsetheritages	et pour le tout des biens , possessions et heritages
+deMargueritedeBauçay,venansetdescendensdela	de Marguerite de Bauçay , venans et descendens de la
+ligneetducostéd'icelleMarguerite,neantmoins	ligne et du costé d ' icelle Marguerite , neantmoins
+neantmoinsladiteMarguerite,femmeà	neantmoins la dite Marguerite , femme à
+presentdeSimonBurelé,chevalier	present de Simon Burelé , chevalier
+anglois,nostreennemy	anglois , nostre ennemy
+ennemy,fistdonnacionauditBurelédetous	ennemy , fist donnacion au dit Burelé de tous
+sesdisheritages,avantle..mariaged	ses dis heritages , avant le . . mariage d
+'eulxdeux,pourfrauder	' eulx deux , pour frauder
+etprivernostre..ditchevalier	et priver nostre . . dit chevalier
+chevalierdudroitquilidevoitappartenirenyceulx	chevalier du droit qui li devoit appartenir en yceulx
+,àcause	, à cause
+deladiteKatherine	de la dite Katherine
+,safemme,autiltreduqueldon	, sa femme , au tiltre du quel don
+donettransport,ycelliBurelé,anglois,..en	don et transport , ycelli Burelé , anglois , . . en
+enestentrez.,	en est entrez . ,
+,misoureceuenlafoy,homageou	, mis ou receu en la foy , homage ou
+souffrancedesseigneurs,dontlesheritageset	souffrance des seigneurs , dont les heritages et
+possessionsdessusditessonttenues,etpourceles	possessions dessus dites sont tenues , et pour ce les
+chosesdessusditesvenuesàlacognoissance	choses dessus dites venues à la cognoissance
+duditchevalier,	du dit chevalier ,
+ilaitfait	il ait fait
+faitadjorner,selonlacoustumedespaïsoùlesdiz	fait adjorner , selon la coustume des païs où les diz
+dizheritagessontassis,encausederetrait	diz heritages sont assis , en cause de retrait
+leditangloisèsassisesetlieux,	le dit anglois ès assises et lieux ,
+juridicionsdesquielzlesditeschosessonttenues	juridicions des quielz les dites choses sont tenues
+tenues,c'estassavoirennostrejurisdicionet	tenues , c ' est assavoir en nostre jurisdicion et
+souverainnté,tantàSaumur,..qui	souverainnté , tant à Saumur , . . qui
+estennostreobeissance,commeàPoitiers.	est en nostre obeissance , comme à Poitiers .
+Lequelanglois,pourcequ'iltient	Le quel anglois , pour ce qu ' il tient
+lapartiedenozennemis,nes..	la partie de noz ennemis , ne s . .
+'ouseroitcomparoirauditlieudeSaumur	' ouseroit comparoir au dit lieu de Saumur
+,pourprocederenladitecausederetrait	, pour proceder en la dite cause de retrait
+retrait,nesemblablementaussi..le	retrait , ne semblablement aussi . . le
 leditde	le dit de
-deCraonàPoitiers,pource	de Craon à Poitiers , pour ce
-qu'iltientnostreparty,	qu ' il tient nostre party ,
-etparce	et par ce
-estledroit	est le droit
-d'icelly.	d ' icelly .
-en..obscurté,empeschiéetoccupéparnos	en . . obscurté , empeschié et occupé par nos
-disennemis	dis ennemis
-malveuillansetcontreraison.Supplianthumblementque	malveuillans et contre raison . Suppliant humblement que
-que,commeil	que , comme il
-ilaittousjoursestéet	il ait tousjours esté et
-etsoitappareillédenousserviretnousaitfait	et soit appareillé de nous servir et nous ait fait
-faitpluseursloiauxservices,consideré..aussila	fait pluseurs loiaux services , consideré . . aussi la
-fraudedessusditeetce.quele	fraude dessus dite et ce . que le
-ditangloisaforfait,etestànous	dit anglois a forfait , et est à nous
-acquisetconfisquiéladiteterre,foyethomagede	acquis et confisquié la dite terre , foy ethomage de
-cequ'iltenoitettientennostredite	ce qu ' il tenoit et tient en nostre dite
-souverainnetéetobeissance,	souverainneté et obeissance ,
-nousyceulxheritagesetsuccessions,	nous yceulx heritages et successions ,
-desquelzleditchevalierdevroitestreheritieret	des quelz le dit chevalier devroit estre heritier et
-etsuccesseurlegitime,ainsidonnezettransportezparla	et successeur legitime , ainsi donnez et transportez par la
-diteMargueriteauditAnglois,commeditest,	dite Marguerite audit Anglois , comme dit est ,
-encestcas	en cest cas
-liveuillonsdenostre	li veuillons de nostre
-liberalitéetgraceespecialdonner.	liberalité et grace especial donner .
-Etnous,	Et nous ,
-inclinansàsaditesupplicacion,consideranscequedit	inclinans à sa dite supplicacion , considerans ce que dit
-estouditcas	est ou dit cas
-cas.,avonsdonné,cedéettransporté,	cas . , avons donné , cedé et transporté ,
-etdenostreditegraceespecial,	et de nostre dite grace especial ,
-,certainescienceetauctorité	, certaine science et auctorité
-auctoritéroyal,donnons,cedons	auctorité royal , donnons , cedons
-ettransportonsperpetuelmentethereditablement..	et transportons perpetuelment et hereditablement . .
-.auditsuppliant	. au dit suppliant
-,pourli,.	, pour li , .
-seshoirsnaturelxetaianscausedeli,	ses hoirs naturelx et aians cause de li ,
-,lesdisheritagesetsuccessions,èsquelzou	, les dis heritages et successions , ès quelz ou
-ouèsquelesilaetdoit	ou ès queles il a et doit
-avoircausederetraitoudesuccessionlegitime	avoir cause de retrait ou de succession legitime
-legitime,ànousappartenansetconfisquiés,	legitime , à nous appartenans et confisquiés ,
-,commeditest,et	, comme dit est , et
-etestansen..nostreditejuridicion,souverainnetéoupuissance,	et estans en . . nostre dite juridicion , souverainneté ou puissance ,
-enlefaisantetconstituantdeceou	en le faisant et constituant de ce ou
-ditcasproprietaireetsegneur,commede	dit cas proprietaire et segneur , comme de
-sapropre	sa propre
-chose,ostéetdeboutédu	chose , osté et debouté du
-dutoutleditangloisettoutautrepossesseur	du tout le dit anglois et tout autre possesseur
-etdetenteurd'..iceulxheritages,	et detenteur d ' . . iceulx heritages ,
-quin'auroitsurce.don	qui n ' auroit sur ce . don
-donoulettresprecedensendatecespresentes,par	don ou lettres precedens en date ces presentes , par
-nousoctroiéesoudonnées,lafoyethomageet	nous octroiées ou données , la foy et homage et
-autresdroisqueenceavons	autres drois que en ce avons
-etdevonsavoirànoussaufset	et devons avoir à nous saufs et
-reservez.Sidonnonsen	reservez . Si donnons en
-mandementet.	mandement et .
-commandons..,	commandons . . ,
-parcespresentes	par ces presentes
-,à..tousnos	, à . . tous nos
-justiciers,presensetavenir	justiciers , presens et avenir
-,ouàleurslieuxtenans,..ànos	, ou à leurs lieux tenans , . . à nos
-nosamésetfeaulxgensdenos	nos amés et feaulx gens de nos
-comptesàParis,	comptes à Paris ,
-,etàchascun	, et à chascun
-d'eulx,sicommeàliappartiendra	d ' eulx , si comme à li appartiendra
-,queleditsuppliantouditcasil	, que le dit suppliant ou dit cas il
-ilfacentetlessentjoiretuserpaisiblementdenostrepresente	il facent et lessent joir et user paisiblement de nostre presente
-presentegrace,donetoctroy,selon	presente grace , don et octroy , selon
-laformeetteneurdessusdite,et	la forme et teneur dessus dite , et
-etcontreycellenelemolestentouempeschentoresne	et contre ycelle ne le molestent ou empeschent ores ne
-outempsavenir,commentque	ou temps avenir , comment que
-cesoit,nonobstant	ce soit , non obstant
-l'adjornement	l ' adjornement
-ouevocaciondessus	ou evocacion dessus
-dessusdis,neautreslettressubrepticesàce	dessus dis , ne autres lettres subreptices à ce
-cecontraires.Etquecesoitferme	ce contraires . Et que ce soit ferme
-etdurablechoseà	et durable chose à
-tousjoursperpetuelment,nousavonsfaitmettrenostre	tous jours perpetuelment , nous avons fait mettre nostre
-seelàces	seel à ces
-presentes.Saufenautreschosesnostredroitet	presentes . Sauf en autres choses nostre droit et
-etl'autrui	et l ' autrui
-entoutes	en toutes
-.DonnéàParis,l'	. Donné à Paris , l '
-'andegrace	' an de grace
-milccc.soixanteneuf,etdenostreregne	mil ccc . soixante neuf , et de nostre regne
-lesizieme,oumoisdejuillet.Par	le sizieme , ou mois de juillet . Par
-leroy,en	le roy , en
-sesRequestes	ses Requestes
-.HenriciClerici..	. Henrici Clerici . .
+CraonàPoitiers	Craon à Poitiers
+,pource	, pour ce
+qu'iltientnostreparty	qu ' il tient nostre party
+,etparceestledroitd'icelly	, et par ce est le droit d ' icelly
+enobscurté,empeschiéetoccupé	en obscurté , empeschié et occupé
+parnosdisennemismalveuillansetcontreraison.Suppliant	par nos dis ennemis malveuillans et contre raison . Suppliant
+Supplianthumblementque,commeilaittousjoursesté	Suppliant humblement que , comme il ait tousjours esté
+etsoit..appareillé	et soit . . appareillé
+denousserviretnousaitfaitpluseurs	de nous servir et nous ait fait pluseurs
+pluseursloiauxservices,consideré..aussilafraudedessusdite	pluseurs loiaux services , consideré . . aussi la fraude dessus dite
+etcequeleditanglois	et ce que le dit anglois
+aforfait,etestà	a forfait , et est à
+nousacquisetconfisquiéladiteterre,foyethomage	nous acquis et confisquié la dite terre , foy ethomage
+decequ'iltenoitet	de ce qu ' il tenoit et
+tientennostre	tient en nostre
+ditesouverainnetéet	dite souverainneté et
+obeissance,nousyceulxheritages	obeissance , nous yceulx heritages
+etsuccessions,desquelzle	et successions , des quelz le
+ditchevalierdevroitestreheritieretsuccesseurlegitime,ainsi	dit chevalier devroit estre heritier et successeur legitime , ainsi
+donnezettransportez	donnez et transportez
+parladiteMargueriteauditAnglois	par la dite Marguerite audit Anglois
+Anglois,commeditest,encestcasliveuillons	Anglois , comme dit est , en cest cas li veuillons
+denostreliberalitéetgraceespecialdonner.Et	de nostre liberalité et grace especial donner . Et
+nous,inclinansàsaditesupplicacion,consideransce	nous , inclinans à sa dite supplicacion , considerans ce
+queditestouditcas,avonsdonné,	que dit est ou dit cas , avons donné ,
+cedéettransporté,et	cedé et transporté , et
+denostreditegraceespecial,	de nostre dite grace especial ,
+certainescienceetauctoritéroyal,donnons,cedons..et	certaine science et auctorité royal , donnons , cedons . . et
+ettransportonsperpetuelmentethereditablementauditsuppliant	et transportons perpetuelment et hereditablement au dit suppliant
+suppliant,pourli,seshoirsnaturelxet	suppliant , pour li , ses hoirs naturelx et
+etaianscausedeli..,lesdisheritagesetsuccessions	et aians cause de li . . , les dis heritages et successions
+,èsquelzou	, ès quelz ou
+èsquelesilaetdoitavoircausederetrait	ès queles il a et doit avoir cause de retrait
+oudesuccessionlegitime.	ou de succession legitime .
+,ànousappartenansetconfisquiés,commedit	, à nous appartenans et confisquiés , comme dit
+ditest,etestansen	dit est , et estans en
+ennostreditejuridicion,souverainnetéoupuissance,enle	en nostre dite juridicion , souverainneté ou puissance , en le
+faisantetconstituant	faisant et constituant
+deceouditcasproprietaireetsegneur,comme	de ce ou dit cas proprietaire et segneur , comme
+commedesaproprechose,ostéetdebouté	comme de sa propre chose , osté et debouté
+deboutédutoutle	debouté du tout le
+leditangloisettoutautrepossesseuretdetenteurd'	le dit anglois et tout autre possesseur et detenteur d '
+iceulxheritages,.quin'	iceulx heritages , . qui n '
+auroitsurcedonoulettresprecedensendate	auroit sur ce don ou lettres precedens en date
+cespresentes,parnousoctroiéesoudonnées	ces presentes , par nous octroiées ou données
+,lafoyet	, la foy et
+ethomageetautresdroisqueence	et homage et autres drois que en ce
+ceavonsetdevonsavoirà	ce avons et devons avoir à
+noussaufsetreservez...Si	nous saufs et reservez . . . Si
+donnonsenmandementetcommandons	donnons en mandement et commandons
+,parcespresentes,àtousnosjusticiers	, par ces presentes , à tous nos justiciers
+,presens	, presens
+presensetavenir,ouàleurslieuxtenans,à	presens et avenir , ou à leurs lieux tenans , à
+nosamésetfeaulx.gensde	nos amés et feaulx . gens de
+noscomptesàParis,	nos comptes à Paris ,
+etàchascun	et à chascun
+d'eulx,sicomme	d ' eulx , si comme
+àliappartiendra,queleditsuppliant	à li appartiendra , que le dit suppliant
+ouditcasilfacentetlessentjoiret	ou dit cas il facent et lessent joir et
+userpaisiblementdenostrepresentegrace,donetoctroy	user paisiblement de nostre presente grace , don et octroy
+octroy,selonlaformeetteneurdessusdite	octroy , selon la forme et teneur dessus dite
+dite,etcontreycellenelemolestentouempeschent	dite , et contre ycelle ne le molestent ou empeschent
+oresneoutempsavenir	ores ne ou temps avenir
+avenir,commentquecesoit,nonobstantl'	avenir , comment que ce soit , non obstant l '
+adjornementouevocaciondessusdis,	adjornement ou evocacion dessus dis ,
+,neautreslettressubrepticesàcecontraires.Et	, ne autres lettres subreptices à ce contraires . Et
+quecesoitfermeetdurablechoseàtousjours	que ce soit ferme et durable chose à tous jours
+joursperpetuelment,nousavonsfaitmettrenostre.seelàces	jours perpetuelment , nous avons fait mettre nostre . seel à ces
+cespresentes.Saufenautres	ces presentes . Sauf en autres
+autreschosesnostredroitetl	autres choses nostre droit et l
+'autruientoutes.DonnéàParis,	' autrui en toutes . Donné à Paris ,
+l'andegrace	l ' an de grace
+gracemilccc.	grace mil ccc .
+soixanteneuf,etde	soixante neuf , et de
+denostreregnelesizieme,oumois	de nostre regne le sizieme , ou mois
+dejuillet.	de juillet .
+Parleroy.,en	Par le roy . , en
+sesRequestes.HenriciClerici.	ses Requestes . Henrici Clerici .

@@ -7,6 +7,7 @@ import collections
 import random
 import json
 import unidecode
+import copy
 from operator import itemgetter
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -17,7 +18,7 @@ DEFAULT_UNK_TOKEN = "<UNK>"
 DEFAULT_MASK_TOKEN = "x"
 
 
-GT_PAIR = collections.namedtuple("GT", ("x", "x_length", "y", "y_length"))
+GT_PAIR = collections.namedtuple("GT", ("x", "x_length", "y", "y_length", "line_index"))
 
 
 class DatasetIterator:
@@ -76,12 +77,15 @@ class DatasetIterator:
         """
         logging.info("DatasetIterator reading indexes of lines")
         with open(self.file, "r") as fio:
-            for line in fio.readlines():
+            for line_index, line in enumerate(fio.readlines()):
+                if not line.strip():
+                    continue
                 x, y = self._l_e.readunit(line.strip())
                 self.encoded.append(
                     GT_PAIR(
                         *self._l_e.inp_to_numerical(x),
-                        *self._l_e.gt_to_numerical(y)
+                        *self._l_e.gt_to_numerical(y),
+                        line_index
                     )
                 )
 
@@ -117,13 +121,17 @@ class DatasetIterator:
                     xs.append(gt_pair.x)
                     y_trues.append(gt_pair.y)
 
-                x_tensor, x_length, x_order = self._l_e.pad_and_tensorize(xs, padding=max_len_x, device=device)
-                y_tensor, y_length, y_order = self._l_e.pad_and_tensorize(
-                    y_trues,
-                    padding=max_len_y,
-                    device=device,
-                    reorder=x_order
-                )
+                try:
+                    x_tensor, x_length, x_order = self._l_e.pad_and_tensorize(xs, padding=max_len_x, device=device)
+                    y_tensor, y_length, y_order = self._l_e.pad_and_tensorize(
+                        y_trues,
+                        padding=max_len_y,
+                        device=device,
+                        reorder=x_order
+                    )
+                except ValueError:
+                    print([b.line_index for b in lines[n:n+self.batch_size]])
+                    raise
                 yield (
                     x_tensor,
                     x_length,
@@ -290,6 +298,7 @@ class LabelEncoder:
         lengths = []
         order = []
 
+        original_order = copy.deepcopy(sentences)
         # If GT order was computer, we get it from there
         if reorder:
             sequences = [sentences[index] for index in reorder]
@@ -298,8 +307,8 @@ class LabelEncoder:
 
         # Packed sequence need to be in decreasing size order
         for current in sequences:
-            order.append(sentences.index(current))
-            sentences[order[-1]] = None  # We replace this index with nothing in case some segments are equals
+            order.append(original_order.index(current))
+            original_order[order[-1]] = None  # We replace this index with nothing in case some segments are equals
             tensor.append(current + [self.pad_token_index] * (max_len - len(current)))
             lengths.append(len(tensor[-1]) - max(0, max_len - len(current)))
 

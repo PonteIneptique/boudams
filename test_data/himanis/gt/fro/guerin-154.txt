@@ -1,57 +1,50 @@
-Phelippes,parlagracede	Phelippes , par la grace de
-Dieu,roysdeFrance	Dieu , roys de France
-France.Savoirfaisonsàtouzpresenzet	France . Savoir faisons à touz presenz et
-avenirquenous	avenir que nous
-,àlasupplicacion	, à la supplicacion
-supplicaciondenostre	supplicacion de nostre
-améetfealJehan,ditLarcevesque,seigneurde	amé et feal Jehan , dit Larcevesque , seigneur de
-Partenay,nostre	Partenay , nostre
-chevalier..etconseiller	chevalier . . et conseiller
-,avonsfaiteschange	, avons fait eschange
-etpermutacionavecques	et permutacion avecques
-luydevint	luy de vint
-vintet.cinclivresderenteendeniers,queil	vint et . cinc livres de rente en deniers , que il
-nousdevoitchascunanàhéritage,c'	nous devoit chascun an à héritage , c '
-estassavoir.vintlivresdetournoissusla	est assavoir . vint livres de tournois sus la
-censedeSaint	cense de Saint
-Rogacienen	Rogacien en
-Aunisetcentsouztournoissuslacohuç	Aunis et cent souz tournois sus la cohuç
-deVovant,avecvint	de Vovant , avec vint
-etcinclivrestournois	et cinc livres tournois
-tournoisqueleditseigneurdePartenay,ounomde	tournois que le dit seigneur de Partenay , ou nom de
-desesenfanz,nez	de ses enfanz , nez
-defeuMaguerite	de feu Maguerite
-Maguerite.,fillejadis	Maguerite . , fille jadis
-jadisGuyleVidame,safame,avoitet	jadis Guy le Vidame , sa fame , avoit et
-prenoitchascunanàhéritage.	prenoit chascun an à héritage .
-surnostretresor..à	sur nostre tresor . . à
-Paris.Et	Paris . Et
-parmicesteschangeleditseigneur	parmi cest eschange le dit seigneur
-etsihoirsdemeurentquictezà.	et si hoirs demeurent quictez à .
-.touzjoursdorezenaventdes	. touz jours dorez en avent des
-dictesvintetcinclivresde	dictes vint et cinc livres de
-rente..queilnousdevoitchascun	rente . . que il nous devoit chascun
-an..ounom	an . . ou nom
-nomdesesdizenfenzprevoitchascunan	nom de ses diz enfenz prevoit chascun an
-susleschosesdessusdictes.,	sus les choses dessus dictes . ,
+Phelippes,parlagracedeDieu	Phelippes , par la grace de Dieu
+,roysdeFrance.Savoirfaisons	, roys de France . Savoir faisons
+àtouzpresenzet.avenirquenous,	à touz presenz et . avenir que nous ,
+àlasupplicaciondenostreaméetfeal	à la supplicacion de nostre amé et feal
+Jehan,ditLarcevesque,seigneurdePartenay,nostre	Jehan , dit Larcevesque , seigneur de Partenay , nostre
+chevalieretconseiller,avonsfaiteschangeetpermutacionavecques	chevalier et conseiller , avons fait eschange et permutacion avecques
+luy..devint	luy . . de vint
+vintetcinclivresderenteen	vint et cinc livres de rente en
+deniers,	deniers ,
+,queilnousdevoitchascunanàhéritage,	, que il nous devoit chascun an à héritage ,
+c'estassavoir	c ' est assavoir
+vintlivres	vint livres
+livresdetournoissuslacensedeSaintRogacienenAunis	livres de tournois sus la cense de Saint Rogacien en Aunis
+etcentsouztournoissuslacohuç	et cent souz tournois sus la cohuç
+deVovant,avecvintetcinclivrestournoisque	de Vovant , avec vint et cinc livres tournois que
+queleditseigneurdePartenay,	que le dit seigneur de Partenay ,
+ounomdesesenfanz	ou nom de ses enfanz
+,nezdefeu	, nez de feu
+feuMaguerite,fillejadisGuyleVidame,	feu Maguerite , fille jadis Guy le Vidame ,
+safame,avoitetprenoitchascun	sa fame , avoit et prenoit chascun
+anàhéritagesurnostretresoràParis.	an à héritage sur nostre tresor à Paris .
+.Etparmicesteschange	. Et parmi cest eschange
+leditseigneur	le dit seigneur
+etsihoirsdemeurentquictez	et si hoirs demeurent quictez
+àtouzjoursdorezen	à touz jours dorez en
+enaventdesdictesvintetcinclivresde	en avent des dictes vint et cinc livres de
+rentequeilnousdevoit	rente que il nous devoit
+chascunanounom	chascun an ou nom
+nomde..sesdizenfenzprevoitchascunansus	nom de . . ses diz enfenz prevoit chascun an sus
+leschosesdessusdictes,	les choses dessus dictes ,
 etnossuccesseursdemorentquicte	et nos successeurs demorent quicte
-quicteperpetuelmentdesditesvintetcinclivresderente	quicte perpetuelment des dites vint et cinc livres de rente
-rentequeil,ounomdeses	rente que il , ou nom de ses
-sesdizenfenz	ses diz enfenz
-,prenoitchascunanennostretresoret	, prenoit chascun an en nostre tresor et
-detouzlesarreragesqueilnousenporoit	de touz les arrerages que il nous en poroit
-demander.Et	demander . Et
-pourceque	pour ce que
-cestechosesoitfermeetestableàtouzjours,	ceste chose soit ferme et estable à touzjours ,
-nous,àlarequestedou..ditseigneur	nous , à la requeste dou . . dit seigneur
-seigneurdePartenay,avonsfaitmetrenostreseelences	seigneur de Partenay , avons fait metre nostre seel en ces
-presenteslettres.Saufèsautreschoses	presentes lettres . Sauf ès autres choses
-chosesnostredroiteten	choses nostre droit et en
-touteschoses	toutes choses
-l..'autrui	l . . ' autrui
-.DonnéàParis	. Donné à Paris
-Paris,l'andegracemilccc.	Paris , l ' an de grace mil ccc .
-ettrente,ou	et trente , ou
-oumoisdemay.Parle	ou mois de may . Par le
-leroy,àla.relacionM.desAsseris	le roy , à la . relacion M . des Asseris
-.deMolins.	. de Molins .
+perpetuelment.desdites	perpetuelment . des dites
+vintetcinclivresderentequeil,ou	vint et cinc livres de rente que il , ou
+nom.desesdizenfenz,prenoitchascunan	nom . de ses diz enfenz , prenoit chascun an
+anennostretresoret.detouz	an en nostre tresor et . de touz
+touzlesarrerages	touz les arrerages
+arreragesqueilnousenporoitdemander.Et	arrerages que il nous en poroit demander . Et
+pource..quecestechosesoit	pour ce . . que ceste chose soit
+fermeetestable..	ferme et estable . .
+àtouzjours,	à touzjours ,
+,nous,àla	, nous , à la
+requestedouditseigneurde	requeste dou dit seigneur de
+Partenay,avonsfaitmetrenostreseelen	Partenay , avons fait metre nostre seel en
+encespresenteslettres.Saufèsautreschosesnostredroit	en ces presentes lettres . Sauf ès autres choses nostre droit
+etentouteschosesl'autrui	et en toutes choses l ' autrui
+.Donnéà	. Donné à
+àParis,l'andegracemilccc.	à Paris , l ' an de grace mil ccc .
+ettrente,oumoisdemay.Parle	et trente , ou mois de may . Par le
+roy,àla	roy , à la
+larelacionM.desAsseris.de	la relacion M . des Asseris . de

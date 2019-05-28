@@ -1,42 +1,40 @@
-Philippes,parlagracedeDieu,roys..	Philippes , par la grace de Dieu , roys . .
-de..France	de . . France
-France.Savoirfaisons	France . Savoir faisons
-àtouz,presenzet	à touz , presenz et
-avenir,que,nous	avenir , que , nous
-enregartdepitiéet.en	en regart de pitié et . en
-pureaumousneavonsdonnéet	pure aumousne avons donné et
-octroyé,donnonsetoctroyons,degrace	octroyé , donnons et octroyons , de grace
-especial,au..prieurdeSaint	especial , au . . prieur de Saint
--MerceldeMontmoreillon	- Mercel de Montmoreillon
-,pourluietpoursessuccesseurs	, pour lui et pour ses successeurs
-successeurs,prieursduditlieu,.etpourlesmalades	successeurs , prieurs du dit lieu , . et pour les malades
-confluanzaudit	confluanz au dit
-saint,tout	saint , tout
-autelusageennozboisdeCharvaingne	au tel usage en noz bois de Charvaingne
-,commepluseursdeshabitansdela	, comme pluseurs des habitans de la
-diteville	dite ville
-villeyont,tantpourchauffaigecommeautrement,	ville y ont , tant pour chauffaige comme autrement ,
-seainsi	se ainsi
-est.quesenz	est . que senz
-prejudicedesdizusagiersil	prejudice des diz usagiers il
-puisseestrefait.Donnansen	puisse estre fait . Donnans en
-enmandementausgardesdesdizbois,presenzetavenir	en mandement aus gardes des diz bois , presenz et avenir
-,queleditprieur..etsessuccesseurs,prieurs	, que le dit prieur . . et ses successeurs , prieurs
-duditlieu	du dit lieu
-lieu,..poureuls	lieu , . . pour euls
-eulsetpour	euls et pour
-lesdizmalades,..pourleur	les diz malades , . . pour leur
-leurhostel,illaissentetfacentjoiret	leur hostel , il laissent et facent joir et
-userdenotrepresentegrace,seloncla	user de notre presente grace , selonc la
-condiciondessus..dite.Etpource	condicion dessus . . dite . Et pour ce
-quecesoitfermeetestableàtouz	que ce soit ferme et estable à touz
-touzjours,nousavonsfait	touz jours , nous avons fait
-mettrenostreseelenceslettres.Saufenautres	mettre nostre seel en ces lettres . Sauf en autres
-autreschosesnostredroitetentouteschosesle..droit	autres choses nostre droit et en toutes choses le . . droit
-d'autruy.Donnéauboisde	d ' autruy . Donné au bois de
-deVinciennes,l'an	de Vinciennes , l ' an
-de.gracemilccc.trenteet	de . grace mil ccc . trente et
-etsept,oumoisdemars.Parleroy	et sept , ou mois de mars . Par le roy
-roy,àlarelaciondel'	roy , à la relacion de l '
-aumosnier,	aumosnier ,
-R.deMolins	R . de Molins
+Philippes,parlagracede	Philippes , par la grace de
+Dieu.,roysdeFrance.Savoirfaisonsà	Dieu . , roys de France . Savoir faisons à
+àtouz,presenzetavenir	à touz , presenz et avenir
+,que,nousenregartdepitiéeten	, que , nous en regart de pitié et en
+pureaumousneavonsdonné	pure aumousne avons donné
+etoctroyé,donnons	et octroyé , donnons
+donnonsetoctroyons,de	donnons et octroyons , de
+graceespecial,auprieurdeSaint-Mercel	grace especial , au prieur de Saint - Mercel
+deMontmoreillon,pourluietpoursessuccesseurs	de Montmoreillon , pour lui et pour ses successeurs
+successeurs,prieursduditlieu,	successeurs , prieurs du dit lieu ,
+etpourlesmaladesconfluanzau	et pour les malades confluanz au
+ditsaint,..toutautel	dit saint , . . tout au tel
+usageennozboisde	usage en noz bois de
+Charvaingne,commepluseurs	Charvaingne , comme pluseurs
+deshabitansdeladiteville.	des habitans de la dite ville .
+yont,tantpourchauffaigecommeautrement,	y ont , tant pour chauffaige comme autrement ,
+,seainsiestquesenzprejudice	, se ainsi est que senz prejudice
+prejudice..desdizusagiersilpuisse	prejudice . . des diz usagiers il puisse
+estrefait.Donnansenmandementausgardesdesdiz	estre fait . Donnans en mandement aus gardes des diz
+bois,presenz.etavenir,	bois , presenz . et avenir ,
+queleditprieuretsessuccesseurs,	que le dit prieur et ses successeurs ,
+prieursduditlieu,poureulset	prieurs du dit lieu , pour euls et
+pourlesdizmalades,pourleur	pour les diz malades , pour leur
+hostel,illaissentetfacentjoiretuserde	hostel , il laissent et facent joir et user de
+notrepresentegrace,selonc	notre presente grace , selonc
+lacondiciondessusdite.	la condicion dessus dite .
+Etpourcequecesoitferme	Et pour ce que ce soit ferme
+etestableàtouzjours,nous	et estable à touz jours , nous
+avonsfaitmettrenostreseelenceslettres.Sauf	avons fait mettre nostre seel en ces lettres . Sauf
+enautreschosesnostre.	en autres choses nostre .
+..droitet	. . droit et
+entouteschoses	en toutes choses
+ledroit	le droit
+d'autruy.DonnéauboisdeVinciennes	d ' autruy . Donné au bois de Vinciennes
+Vinciennes,l'ande	Vinciennes , l ' an de
+gracemilccc.	grace mil ccc .
+.trenteetsept,oumois	. trente et sept , ou mois
+moisdemars.Parleroy,àlarelacion	mois de mars . Par le roy , à la relacion
+del'aumosnier,	de l ' aumosnier ,
+R.deMolins.	R . de Molins .

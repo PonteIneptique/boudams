@@ -1,170 +1,174 @@
-Charles,etc.	Charles , etc .
-Savoirfaisonsàtous	Savoir faisons à tous
-tous,presenset..avenir,nousavoirreceuel'	tous , presens et . . avenir , nous avoir receue l '
-umblesupplicaciondeMathelindeGascougnolle,escuier,aagé	umble supplicacion de Mathelin de Gascougnolle , escuier , aagé
-detrenteans	de trente ans
-ouenviron,filslegitimedeJehan	ou environ , fils legitime de Jehan
-[de]Gascoignolleescuier,contenant	[ de ] Gascoignolle escuier , contenant
-contenantquecomme,environle	contenant que comme , environ le
-venrediprouchaindevantla.saint	venredi prouchain devant la . saint
-saintMichiell'anmilCCCIIIIXXetquatorse	saint Michiel l ' an mil CCC IIIIXX et quatorse
-,leditsuppliant,	, le dit suppliant ,
-pouretounomdesondit	pour et ou nom de son dit
-ditpere,feustenunfiefappelléla	dit pere , feust en un fief appellé la
-VessetetouchantoubailliagedeSaintLigieretdeMelle	Vessete touchant ou bailliage de Saint Ligier et de Melle
-Melle,pourfairevendengieretrecevoir	Melle , pour faire vendengier et recevoir
-lequartpourdroitdecomplantseignorable	le quart pour droit de complant seignorable
-,àluiappartenant	, à lui appartenant
-enlavendangeetfruizduditfief,	en la vendange et fruiz du dit fief ,
-etensacompaignie	et en sa compaignie
-estoitunautregentilhommeappelléGuillaumeBonnin,demourant	estoit un autre gentil homme appellé Guillaume Bonnin , demourant
-auditMelle,teneurdudit	au dit Melle , teneur du dit
-fief,eteulx.ensemblepourcequele	fief , et eulx . ensemble pour ce que le
-leditsuppliant	le dit suppliant
-oyungrandeffroyet.crier	oy un grand effroy et . crier
-crieraumurtre,	crier au murtre ,
-separtiet	se parti et
-ettransportajusquesàunpasou..ouverturedu	et transporta jusques à un pas ou . . ouverture du
-duditfief,ou	du dit fief , ou
-ouquelsonditpereavoitacoustuméde	ou quel son dit pere avoit acoustumé de
-derecevoirsondroitduditcomptant,ettrouva	de recevoir son droit du dit comptant , et trouva
-trouvaunhommeappelléArnault	trouva un homme appellé Arnault
-ArnaultGaucher..,demourantauditSaintLigier,le	Arnault Gaucher . . , demourant au dit Saint Ligier , le
-lequelilavoitlaissiéetordenéou	le quel il avoit laissié et ordené ou
-ditlieu,pouretou	dit lieu , pour et ou
-nomdesonditpere,	nom de son dit pere ,
-pourrecevoirledroitdudit	pour recevoir le droit du dit
-complantaveccertainsteneurs	complant avec certains teneurs
-duditfiefetautres	du dit fief et autres
-,ausquelz.ildemandaquec'	, aus quelz . il demanda que c '
-estoit.,lesquelzlui	estoit . , les quelz lui
-respondirentquec'estoitunvarlet	respondirent que c ' estoit un varlet
-àcheval	à cheval
-chevalappelléGuillaume..Gouin	cheval appellé Guillaume . . Gouin
-Gouin,ettenoitl'ennottoirementaupaïs	Gouin , et tenoit l ' en nottoirement au païs
-païsleditGuillaume	païs le dit Guillaume
-estrefilz	estre filz
+Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
+àtous,presensetavenir	à tous , presens et avenir
+,nousavoirreceuel'umblesupplicaciondeMathelin	, nous avoir receue l ' umble supplicacion de Mathelin
+deGascougnolle,escuier,.aagé	de Gascougnolle , escuier , . aagé
+aagédetrenteansouenviron,	aagé de trente ans ou environ ,
+filslegitimedeJehan[	fils legitime de Jehan [
+de]Gascoignolleescuier,contenantque	de ] Gascoignolle escuier , contenant que
+comme,environlevenrediprouchaindevant	comme , environ le venredi prouchain devant
+devantlasaint..Michiel	devant la saint . . Michiel
+Michiell'an	Michiel l ' an
+milCCCIIIIXX	mil CCC IIIIXX
+IIIIXXetquatorse,leditsuppliant,pour	IIIIXX et quatorse , le dit suppliant , pour
+etounom	et ou nom
+nomdesonditpere,feustenunfiefappellé.	nom de son dit pere , feust en un fief appellé .
+laVessetetouchantoubailliagedeSaintLigieretde	la Vessete touchant ou bailliage de Saint Ligier et de
+Melle,pour	Melle , pour
+faire.vendengier	faire . vendengier
+etrecevoirlequartpour	et recevoir le quart pour
+droitdecomplantseignorable,	droit de complant seignorable ,
+àlui.appartenant	à lui . appartenant
+enlavendangeetfruizdudit	en la vendange et fruiz du dit
+fief,etensacompaignieestoitunautregentil	fief , et en sa compaignie estoit un autre gentil
+hommeappelléGuillaumeBonnin,demourantauditMelle	homme appellé Guillaume Bonnin , demourant au dit Melle
+,teneurduditfief,et	, teneur du dit fief , et
+eteulxensemblepourcequele	et eulx ensemble pour ce que le
+leditsuppliantoy	le dit suppliant oy
+ungrandeffroyetcrierau	un grand effroy et crier au
+murtre,separti.ettransportajusquesàunpas	murtre , se parti . et transporta jusques à un pas
+ououverture	ou ouverture
+du.ditfief,ouquel	du . dit fief , ou quel
+quelsonditpereavoitacoustuméderecevoirsondroit	quel son dit pere avoit acoustumé de recevoir son droit
+duditcomptant,ettrouvaunhomme	du dit comptant , et trouva un homme
+appelléArnaultGaucher,demourantaudit..	appellé Arnault Gaucher , demourant au dit . .
+SaintLigier,le	Saint Ligier , le
+lequelil..avoitlaissiéetordenéouditlieu	le quel il . . avoit laissié et ordené ou dit lieu
+lieu,pouret	lieu , pour et
+etounomdesonditpere,pour	et ou nom de son dit pere , pour
+pourrecevoirledroit	pour recevoir le droit
+duditcomplantaveccertainsteneursduditfief	du dit complant avec certains teneurs du dit fief
+etautres,ausquelzildemandaquec'	et autres , aus quelz il demanda que c '
+'estoit,lesquelzluirespondirentque..c'estoit	' estoit , les quelz lui respondirent que . . c ' estoit
+estoitunvarletà	estoit un varlet à
+chevalappelléGuillaumeGouin,ettenoit	cheval appellé Guillaume Gouin , et tenoit
+l'ennottoirementau	l ' en nottoirement au
+aupaïsleditGuillaumeestrefilz.du	au païs le dit Guillaume estre filz . du
 ducuréde	du curé de
-deCheis,lequelGuillaume.Gouins'estoitlassezà	de Cheis , lequel Guillaume . Gouin s ' estoit lassez à
-àbatred'un..grandcousteauJehanGrossartduvilaige	à batre d ' un . . grand cousteau Jehan Grossart du vilaige
-vilaigedeParchumbaut,teneurduditfief,sanzce	vilaige de Parchumbaut , teneur du dit fief , sanz ce
-queleditJehanluieustfaitmal,	que le dit Jehan lui eust fait mal ,
-forsseulement,sicommel'endit,	fors seulement , si comme l ' en dit ,
-,pouroccasiondecequeleditJehanGrossart	, pour occasion de ce que le dit Jehan Grossart
-Grossartquimenoitunejumentchargéedevendange	Grossart qui menoit une jument chargée de vendange
-nesevoltpasremuernedestournerdela	ne se volt pas remuer ne destourner de la
-voieduditGouin,etcombienqueycelluiGouin	voie du dit Gouin , et combien que ycellui Gouin
-eustbatule	eust batu le
-leditJehanGrossart,filz	le dit Jehan Grossart , filz
-duditteneur,etqueparsa	du dit teneur , et que par sa
-forceet..doubteluieust	force et . . doubte lui eust
-faitlaissierlecheminroyalet.	fait laissier le chemin royal et .
-publique,toutesvoiesenperseverantensonoultrageetmauvais	publique , toutesvoies en perseverant en son oultrage et mauvais
-proposilseefforça	propos il se efforça
-devouloirrecouvreretbatrederechiefle	de vouloir recouvrer et batre derechief le
-lefilzdu.ditteneuretcouroitaprèsluià	le filz du . dit teneur et couroit après lui à
-cheval,	cheval ,
-,lecouteauoupoing,etesperoitle	, le couteau ou poing , et esperoit le
-filzduditteneurque..de	filz du dit teneur que . . de
-faitl'eustoccisettué,se	fait l ' eust occis et tué , se
-seilnes'enfeust	se il ne s ' en feust
-fouysversleditsuppliant;eten	fouys vers ledit suppliant ; et en
-fuiantcelle	fuiant celle
-partdevantledit	part devant le dit
-Gouinpourdoubtedemort,icelluiJehanGrossart	Gouin pour doubte de mort , icellui Jehan Grossart
-Grossart,filzduditteneur,distpluseurs	Grossart , filz du dit teneur , dist pluseurs
-foizencriant«aumurtre,Mathelin	foiz en criant « au murtre , Mathelin
-Mathelin,Mathelin,l'enmeveulttuer»,	Mathelin , Mathelin , l ' en me veult tuer »,
-»,.etsegectaàterreauspiezdudit	», . et se gecta à terre aus piez du dit
-supplianttoutenvers,afin	suppliant tout envers , afin
-qu'illegardastdemortcontre	qu ' il le gardast de mort contre
-leditGouin.Et	le dit Gouin . Et
-lorsleditsuppliant..	lors le dit suppliant . .
-,veantqueledit	, veant que le dit
-Gouin.,quichevauchoithastivement	Gouin . , qui chevauchoit hastivement
-entenantenson	en tenant en son
-sonpoinguncousteautoutnu,etqu'il	son poing un cousteau tout nu , et qu ' il
-estoitmalmeueten	estoit mal meu et en
-voulenté..demalfaireoude	voulenté . . de mal faire ou de
-tuerleditJehanGrossart,filz	tuer le dit Jehan Grossart , filz
-duteneurdu	du teneur du
-pereduditsuppliant	pere du dit suppliant
-suppliant,comme	suppliant , comme
-dessusestdit,lequel	dessus est dit , le quel
-suppliant,pour[amour	suppliant , pour [ amour
-]etaffinitéqu	] et affinité qu
-'ilavoitau.dit	' il avoit au . dit
-Grossart,distauditGouindeuxoutrois	Grossart , dist au dit Gouin deux ou trois
-foizqu..'ilmeist	foiz qu . . ' il meist
-meistsoncousteauensagaine;et	meist son cousteau en sa gaine ; et
-adoncycelluisuppliant,meuetcouroucié	adonc ycellui suppliant , meu et couroucié
-desondit	de son dit
-amy,lequelavoitjaestébatuetvillené	amy , le quel avoit ja esté batu et villené
-commeditestdechaudecole	comme dit est de chaude cole
+Cheis..,lequelGuillaumeGouins	Cheis . . , lequel Guillaume Gouin s
+'estoitlassez.	' estoit lassez .
+àbatred'un	à batre d ' un
+ungrandcousteauJehanGrossartduvilaigedeParchumbaut,	un grand cousteau Jehan Grossart du vilaige de Parchumbaut ,
+teneurduditfief,sanzcequeledit	teneur du dit fief , sanz ce que le dit
+Jehanlui	Jehan lui
+eustfaitmal,forsseulement	eust fait mal , fors seulement
+,sicomme	, si comme
+commel'en	comme l ' en
+endit,pour	en dit , pour
+occasiondecequeleditJehanGrossartquimenoit	occasion de ce que le dit Jehan Grossart qui menoit
+menoitunejumentchargéede	menoit une jument chargée de
+devendangenesevoltpasremuer	de vendange ne se volt pas remuer
+nedestournerdelavoie	ne destourner de la voie
+duditGouin	du dit Gouin
+,etcombienqueycelluiGouineust	, et combien que ycellui Gouin eust
+batuleditJehanGrossart,filzdu	batu le dit Jehan Grossart , filz du
+duditteneur,et	du dit teneur , et
+queparsaforceetdoubteluieustfaitlaissier	que par sa force et doubte lui eust fait laissier
+le.cheminroyaletpublique,toutesvoiesen	le . chemin royal et publique , toutesvoies en
+perseverantensonoultrageetmauvaispropos	perseverant en son oultrage et mauvais propos
+ilse..efforçadevouloir	il se . . efforça de vouloir
+vouloirrecouvreretbatrederechieflefilzdudit	vouloir recouvrer et batre derechief le filz du dit
+teneuret..couroit	teneur et . . couroit
+couroitaprèsluiàcheval,	couroit après lui à cheval ,
+lecouteauoupoing,et	le couteau ou poing , et
+esperoitlefilzduditteneurquede	esperoit le filz du dit teneur que de
+faitl'eustoccisettué,seil	fait l ' eust occis et tué , se il
+ilnes'en	il ne s ' en
+feustfouysversleditsuppliant;etenfuiant	feust fouys vers ledit suppliant ; et en fuiant
+fuiantcellepartdevantleditGouinpourdoubte	fuiant celle part devant le dit Gouin pour doubte
+demort,icellui	de mort , icellui
+JehanGrossart..,	Jehan Grossart . . ,
+filzduditteneur,distpluseursfoiz	filz du dit teneur , dist pluseurs foiz
+foizencriant«aumurtre,Mathelin,	foiz en criant « au murtre , Mathelin ,
+Mathelin.,	Mathelin . ,
+l'enmeveulttuer»,et	l ' en me veult tuer », et
+segectaà	se gecta à
+terre.auspiezduditsuppliant	terre . aus piez du dit suppliant
+supplianttoutenvers,afinqu	suppliant tout envers , afin qu
+'.illegardast	' . il le gardast
+demortcontre	de mort contre
+contreleditGouin.Etlorsleditsuppliant	contre le dit Gouin . Et lors le dit suppliant
+,veantqueleditGouin	, veant que le dit Gouin
+Gouin,qui	Gouin , qui
+chevauchoithastivementen..tenantensonpoinguncousteautout	chevauchoit hastivement en . . tenant en son poing un cousteau tout
+nu,etqu'ilestoitmal	nu , et qu ' il estoit mal
+meuetenvoulenté	meu et en voulenté
+voulentédemalfaireoudetuerledit	voulenté de mal faire ou de tuer le dit
+JehanGrossart,filzduteneurdupere	Jehan Grossart , filz du teneur du pere
+duditsuppliant,comme..dessusestdit,	du dit suppliant , comme . . dessus est dit ,
+lequelsuppliant	le quel suppliant
+,pour.[amour	, pour . [ amour
+]etaffinitéqu'il	] et affinité qu ' il
+avoitau	avoit au
+ditGrossart,distauditGouin	dit Grossart , dist au dit Gouin
+deuxoutroisfoizqu	deux ou trois foiz qu
+'ilmeistsoncousteau	' il meist son cousteau
+cousteauensagaine	cousteau en sa gaine
+gaine;etadoncycelluisuppliant,	gaine ; et adonc ycellui suppliant ,
+meuetcourouciédesonditamy,.	meu et couroucié de son dit amy , .
+lequelavoit..jaesté	le quel avoit . . ja esté
+batuetvillenécommeditestdechaudecole	batu et villené comme dit est de chaude cole
 frapaunseul	frapa un seul
-coupd'espéeleditGouin	coup d ' espée le dit Gouin
-Gouinsurlateste,aprèsceque.ycelluiGouin	Gouin sur la teste , après ce que . ycellui Gouin
-Gouineustmissoncoustelensagaine,	Gouin eust mis son coustel en sa gaine ,
-duquelcoupycelluiGouin	du quel coup ycellui Gouin
-Gouinacouchamalade	Gouin acoucha malade
-aulitoùilfuquatreoucinqjours,	au lit où il fu quatre ou cinq jours ,
-,etaprèsse	, et après se
-selevaets'	se leva et s '
-enalajouerhorsdeson..	en ala jouer hors de son . .
-hostel,environuntrait.d'are	hostel , environ un trait . d ' are
-loingoùilfulagreigneurpartiedujour.	loing où il fu la greigneur partie du jour .
-,eten.soy	, et en . soy
-retournantensonhostel,chey	retournant en son hostel , chey
-trèsrudementàterreettantqueaucheoir	très rudement à terre et tant que au cheoir
-ilsefroissalateste	il se froissa la teste
-testetrès.rudementet	teste très . rudement et
-telementqu'ilconvintqu'il	telement qu ' il convint qu ' il
-seracouchastau	se racouchast au
-litmalade,etnevesquiaprèsce	lit malade , et ne vesqui après ce
-queneufoudixjours	que neuf ou dix jours
-jours,enlafindes	jours , en la fin des
-quelzjours,pourlacheoiteetfreseureque	quelz jours , pour la cheoite et freseure que
-leditGouinse.fistensadicte	le dit Gouin se . fist en sa dicte
-dicteteste,ilalade	dicte teste , il ala de
-vieàtrespassement,etnonpas	vie à trespassement , et non pas
-pasdelanavreure	pas de la navreure
-navreurequeledit	navreure que le dit
-suppliantluifist.Maiscenonobstantle	suppliant lui fist . Mais ce non obstant le
-ditsuppliant,pouroccasionduditfait,doubtant	dit suppliant , pour occasion du dit fait , doubtant
-doubtantrigueurdejustice	doubtant rigueur de justice
-,s..'estabsentezdupaïsouquelil	, s . . ' est absentez du païs ou quel il
-n'oseroitseurementconverser,demourernehabiter	n ' oseroit seurement converser , demourer ne habiter
-,senostregraceneluiestoitsurce	, se nostre grace ne lui estoit sur ce
-ceimpartie,sicommeildit	ce impartie , si comme il dit
-,ennoushumblementsuppliant,..	, en nous humblement suppliant , . .
-veuqu'ilafaitpaisetsatisfacion	veu qu ' il a fait pais et satisfacion
-àpartieetque	à partie et que
-leditfaitadvintpour	le dit fait advint pour
-casdefortuneetdechaudecole,sansce	cas de fortune et de chaude cole , sans ce
-queleditsupplianteustauparavantcontentne	que le dit suppliant eust au paravant content ne
-noiseàycelluifeuGouin,mais	noise à ycellui feu Gouin , mais
-maisestoitdepetitgouvernement..,	mais estoit de petit gouvernement . . ,
-,rioteuxetnoiseus	, rioteux et noiseus
-aupaïs,etaussiquele	au païs , et aussi que le
-leditsuppliantapourtoutsontemps	le dit suppliant a pour tout son temps
-estédebonnefame,renomméeetconversacion	esté de bonne fame , renommée et conversacion
-honneste,sans..avoirestérepris	honneste , sans . . avoir esté repris
-,convaincuneactainsd	, convaincu ne actains d
-'aucunautrevillain	' aucun autre villain
-blasme,nousluiveillonssurceimpartirnostre	blasme , nous lui veillons sur ce impartir nostre
-dictegrace.Pourquoynous,ces	dicte grace . Pour quoy nous , ces
-chosesconsiderées,etc.,au	choses considerées , etc ., au
-ditsuppliantou	dit suppliant ou
-oucas..dessus	ou cas . . dessus
-ditavonsquicté.	dit avons quicté .
-,remisetpardonné,	, remis et pardonné ,
-etc.Sidonnons.	etc . Si donnons .
+coupd'espéeleditGouinsurlateste	coup d ' espée le dit Gouin sur la teste
+teste,aprèscequeycelluiGouineust	teste , après ce que ycellui Gouin eust
+missoncoustelensagaine,duquel	mis son coustel en sa gaine , du quel
+coupycelluiGouinacouchamaladeau	coup ycellui Gouin acoucha malade au
+litoùilfuquatreou	lit où il fu quatre ou
+oucinqjours,	ou cinq jours ,
+,etaprès..selevaets'enala	, et après . . se leva et s ' en ala
+jouerhorsdesonhostel,	jouer hors de son hostel ,
+environuntraitd'areloing	environ un trait d ' are loing
+loingoùilfu.lagreigneurpartiedujour	loing où il fu . la greigneur partie du jour
+,etensoyretournanten	, et en soy retournant en
+sonhostel,cheytrèsrudementàterreet	son hostel , chey très rudement à terre et
+ettantqueaucheoirilsefroissalateste	et tant que au cheoir il se froissa la teste
+trèsrudementettelementqu'ilconvintqu'	très rudement et telement qu ' il convint qu '
+'ilseracouchastaulitmalade	' il se racouchast au lit malade
+,etnevesqui	, et ne vesqui
+aprèsce	après ce
+ce..queneuf	ce . . que neuf
+oudixjours,en..lafindesquelzjours	ou dix jours , en . . la fin des quelz jours
+,pour..lacheoiteetfreseurequeledit	, pour . . la cheoite et freseure que le dit
+ditGouinsefisten.sa	dit Gouin se fist en . sa
+dicteteste,ilaladevieà	dicte teste , il ala de vie à
+trespassement,etnonpasdelanavreureque	trespassement , et non pas de la navreure que
+queleditsuppliant	que le dit suppliant
+suppliantluifist.Maiscenonobstantledit	suppliant lui fist . Mais ce non obstant le dit
+ditsuppliant,pouroccasionduditfait,doubtantrigueur	dit suppliant , pour occasion du dit fait , doubtant rigueur
+dejustice,s'estabsentezdupaïs	de justice , s ' est absentez du païs
+païsouquel	païs ou quel
+queliln'oseroitseurement	quel il n ' oseroit seurement
+seurementconverser,demourernehabiter,senostre	seurement converser , demourer ne habiter , se nostre
+nostregraceneluiestoitsurce	nostre grace ne lui estoit sur ce
+ceimpartie,	ce impartie ,
+,sicommeildit,ennoushumblementsuppliant,	, si comme il dit , en nous humblement suppliant ,
+veuqu'ilafaitpais	veu qu ' il a fait pais
+etsatisfacionàpartie	et satisfacion à partie
+etquele	et que le
+leditfaitadvintpourcasdefortuneet	le dit fait advint pour cas de fortune et
+etdechaudecole,sanscequele	et de chaude cole , sans ce que le
+ditsupplianteustauparavantcontentnenoiseàycellui	dit suppliant eust au paravant content ne noise à ycellui
+feu..Gouin	feu . . Gouin
+Gouin,maisestoitdepetitgouvernement,	Gouin , mais estoit de petit gouvernement ,
+,rioteuxetnoiseusaupaïs,et.aussi	, rioteux et noiseus au païs , et . aussi
+queleditsuppliantapourtoutson	que le dit suppliant a pour tout son
+tempsestédebonnefame	temps esté de bonne fame
+,renommée	, renommée
+etconversacionhonneste,sans	et conversacion honneste , sans
+avoirestérepris,convaincuneactains..d	avoir esté repris , convaincu ne actains . . d
+'aucunautre	' aucun autre
+villainblasme,nouslui	villain blasme , nous lui
+veillonssur.ceimpartirnostredicte	veillons sur . ce impartir nostre dicte
+dictegrace.	dicte grace .
+Pourquoynous,ceschosesconsiderées,etc.,	Pour quoy nous , ces choses considerées , etc .,
+.,auditsuppliant	., au dit suppliant
+oucasdessusditavonsquicté,	ou cas dessus dit avons quicté ,
+remisetpardonné,	remis et pardonné ,
+etc.Sidonnons	etc . Si donnons
 enmandementauseneschald'Angoulesmeet	en mandement au seneschal d ' Angoulesme et
-àtousnozautresjusticiers,etc	à tous noz autres justiciers , etc
-.DonnéàParis	. Donné à Paris
-Paris,..oumoys	Paris , . . ou moys
-moysd'avril	moys d ' avril
-l'andegracemilCCCIIIIXXetseize	l ' an de grace mil CCC IIIIXX et seize
-,etdenostre	, et de nostre
-regneleseziesme.Parleroy,àla	regne le seziesme . Par le roy , à la
-relacionduconseil.Chaligaut.	relacion du conseil . Chaligaut .
+àtousnoz	à tous noz
+autresjusticiers,etc.Donné	autres justiciers , etc . Donné
+àParis,oumoysd'avrill	à Paris , ou moys d ' avril l
+'andegracemilCCCIIIIXXetseize	' an de grace mil CCC IIIIXX et seize
+,etdenostreregnele	, et de nostre regne le
+seziesme.Parleroy.,àlarelaciondu	seziesme . Par le roy . , à la relacion du
+conseil.Chaligaut.	conseil . Chaligaut .

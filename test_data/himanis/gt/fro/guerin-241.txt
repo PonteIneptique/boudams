@@ -1,82 +1,86 @@
-Philippes,parlagrace	Philippes , par la grace
-gracedeDieu,	grace de Dieu ,
-roysdeFrance.Savoirfaisons	roys de France . Savoir faisons
-àtouz,presenzetavenir,	à touz , presenz et avenir ,
-,que,comme	, que , comme
-commenostreamé..etfealleprieur	comme nostre amé . . et feal le prieur
-deCousturesd'Argençon,du	de Coustures d ' Argençon , du
-diocesedePoitou,sire	diocese de Poitou , sire
-deladiteville,nouseust	de la dite ville , nous eust
-eustsuppliéquede	eust supplié que de
-degraceespecialnouslivousissionsoctroierunmarchié,chascune	de grace especial nous li vousissions octroier un marchié , chascune
-semaine,enladiteville	semaine , en la dite ville
-villedeCoustures,	ville de Coustures ,
-au..jourdumerquedi,nous,voulanzsavoir	au . . jour du merquedi , nous , voulanz savoir
-proufitouquel	proufit ou quel
-domagenouspourrionsavoir,senousoctroiionsau	domage nous pourrions avoir , se nous octroiions au
-ditprieurladitegrace,	dit prieur la dite grace ,
-etsenous.	et se nous .
-lepourrionsfairesanzprejudiced'autrui,mandasmes	le pourrions faire sanz prejudice d ' autrui , mandasmes
-auseneschaldePoitou,ou	au seneschal de Poitou , ou
-àsonlieutenant,que	à son lieu tenant , que
-queils'enfourmastsurcesouffisanment,..etl	que il s ' enfourmast sur ce souffisanment , . . et l
-'informacionqu'ilenferoitnousenvoiast	' informacion qu ' il en feroit nous envoiast
-enclosesouzsonseel,àfinque	enclose souz son seel , à fin que
-,ycelleveue,	, ycelle veue ,
-nousenpeussionsordenercequebonnous	nous en peussions ordener ce que bon nous
-sembleroit.Alaquelle	sembleroit . A la quelle
-informacionfaireleditseneschal,empeschiezd'autres	informacion faire le dit seneschal , empeschiez d ' autres
-besoignes..,commistGuillaumede	besoignes . . , commist Guillaume de
-Montmillon,mairede	Montmillon , maire de
-Nyort,etmestrePierrePert	Nyort , et mestre Pierre Pert
--ses-chauses,	- ses - chauses ,
-clerc,sageendroit,etchascun.	clerc , sage en droit , et chascun .
-.pourletout.Le	. pour le tout . Le
-quelmestrePierre,parvertudesadite	quel mestre Pierre , par vertu de sa dite
-commission,alaauditlieudeCoustures	commission , ala au dit lieu de Coustures
-Coustures,et,appellé	Coustures , et , appellé
-pardevantsoypluseurspersonnesduditlieu	par devant soy pluseurs personnes du dit lieu
-etdesvillesvoisinesd	et des villes voisines d
-d'environ,c'estassavoirnostre	d ' environ , c ' est assavoir nostre
+Philippes,parlagracedeDieu,roys	Philippes , par la grace de Dieu , roys
+deFrance	de France
+.Savoirfaisonsàtouz	. Savoir faisons à touz
+,presenzetavenir,que,comme	, presenz et avenir , que , comme
+commenostreaméetfeal	comme nostre amé et feal
+leprieurdeCousturesd'Argençon,dudiocese	le prieur de Coustures d ' Argençon , du diocese
+dePoitou,sire	de Poitou , sire
+siredeladite..ville,nouseustsuppliéquede	sire de la dite . . ville , nous eust supplié que de
+graceespecialnouslivousissionsoctroierunmarchié,chascune	grace especial nous li vousissions octroier un marchié , chascune
+chascunesemaine,en	chascune semaine , en
+enladitevilledeCoustures..,au	en la dite ville de Coustures . . , au
+jourdumerquedi..	jour du merquedi . .
+,nous..,voulanzsavoirproufitouqueldomagenous	, nous . . , voulanz savoir proufit ou quel domage nous
+pourrionsavoir,senousoctroiions	pourrions avoir , se nous octroiions
+auditprieur..	au dit prieur . .
+laditegrace,et	la dite grace , et
+senouslepourrionsfairesanzprejudiced'autrui	se nous le pourrions faire sanz prejudice d ' autrui
+,mandasmesauseneschaldePoitou,	, mandasmes au seneschal de Poitou ,
+,ouàsonlieu	, ou à son lieu
+lieutenant,queils'enfourmast	lieu tenant , que il s ' enfourmast
+surcesouffisanment	sur ce souffisanment
+,etl'informacionqu'il	, et l ' informacion qu ' il
+enferoit	en feroit
+nousenvoiastenclosesouz	nous envoiast enclose souz
+son..seel,à	son . . seel , à
+àfinque,ycelleveue,nousenpeussions	à fin que , ycelle veue , nous en peussions
+ordenercequebonnoussembleroit	ordener ce que bon nous sembleroit
+.Alaquelleinformacionfairele	. A la quelle informacion faire le
+leditseneschal	le dit seneschal
+,empeschiez	, empeschiez
+d'autresbesoignes,commistGuillaumedeMontmillon	d ' autres besoignes , commist Guillaume de Montmillon
+,mairede	, maire de
+deNyort,etmestrePierre	de Nyort , et mestre Pierre
+PierrePert-ses-	Pierre Pert - ses -
+chauses,clerc,sage	chauses , clerc , sage
+endroit,et	en droit , et
+etchascunpourletout.	et chascun pour le tout .
+LequelmestrePierre,parvertu.de	Le quel mestre Pierre , par vertu . de
+saditecommission,alaauditlieudeCoustures	sa dite commission , ala au dit lieu de Coustures
+,et,appellépardevantsoypluseurs	, et , appellé par devant soy pluseurs
+pluseurspersonnesdu	pluseurs personnes du
+ditlieu	dit lieu
+etdesvillesvoisinesd.	et des villes voisines d .
+.'environ	. ' environ
+environ,c'estassavoirnostre	environ , c ' est assavoir nostre
 procureur,nobles,religieusesetautrespersonnes,il	procureur , nobles , religieuses et autres personnes , il
-fistinformacionsurleschosesdessusdites	fist informacion sur les choses dessus dites
-,selonlateneurde	, selon la teneur de
-nostreditmandement.La	nostre dit mandement . La
-Laquelleinformacionnousarenvoiéeleditseneschal	La quelle informacion nous a renvoiée le dit seneschal
-souzleseel	souz le seel
-delaseneschaucieetsouzceluidudit	de la seneschaucie et souz celui du dit
-commissaire;laquellenous	commissaire ; la quelle nous
-nousavonsfaitregarderparnosamezet	nous avons fait regarder par nos amez et
-etfeaulzgensdesrequestesdenostrehostel.Etpour	et feaulz gens des requestes de nostre hostel . Et pour
-ceque,oyelarelaciondenozditesgenz	ce que , oye la relacion de noz dites genz
-surce,nousavonstrouvéquesenousoctroions	sur ce , nous avons trouvé que se nous octroions
-auditprieur	au dit prieur
-prieurleditmarchié.,ceseroit	prieur le dit marchié . , ce seroit
+fistinformacionsur	fist informacion sur
+surleschosesdessusdites,selonlateneur	sur les choses dessus dites , selon la teneur
+denostreditmandement.Laquelleinformacionnousa	de nostre dit mandement . La quelle informacion nous a
+renvoiéeleditseneschalsouzleseeldelaseneschaucie	renvoiée le dit seneschal souz le seel de la seneschaucie
+etsouzceluiduditcommissaire	et souz celui du dit commissaire
+;laquellenous	; la quelle nous
+avonsfait	avons fait
+regarderparnos	regarder par nos
+amezetfeaulzgensdesrequestesdenostrehostel.	amez et feaulz gens des requestes de nostre hostel .
+.Etpourceque,oye	. Et pour ce que , oye
+larelacion	la relacion
+relaciondenozditesgenzsurce,nous	relacion de noz dites genz sur ce , nous
+avonstrouvé	avons trouvé
+quesenous	que se nous
+octroionsauditprieurleditmarchié,ce	octroions au dit prieur le dit marchié , ce
 seroitlecommun	seroit le commun
-proufitdu..païset	proufit du . . païs et
-silepourrionsfairesanz	si le pourrions faire sanz
-prejudicede	prejudice de
-nousned'	nous ne d '
-'autrui,	' autrui ,
-,nous,decertainescienceetde..grace	, nous , de certaine science et de . . grace
-especial,.avonsoctroié	especial , . avons octroié
-etoctroionsauditprieur	et octroions au dit prieur
-prieurleditmarchié,etdesjal'establissons,	prieur le dit marchié , et desja l ' establissons ,
-à.seoiraujour	à . seoir au jour
-jourdumerquedidessus..ditdèsoresenavant	jour du merquedi dessus . . dit dès ores en avant
-,enlamaniere	, en la maniere
-queilestaccoustuméàfaire	que il est accoustumé à faire
-etàuserèsautreslieus	et à user ès autres lieus
-voisins.Etpourcequece	voisins . Et pour ce que ce
-soitferme	soit ferme
-choseetestableà	chose et estable à
-àtouzjours,nousavonsfait	à touz jours , nous avons fait
-faitmettrenostreseelencespresenteslettres	fait mettre nostre seel en ces presentes lettres
-lettres.Saufenautreschoses..	lettres . Sauf en autres choses . .
-.nostredroitetentoutesl'	. nostre droit et en toutes l '
-'autrui.Ce	' autrui . Ce
-fufaitàGiemsurLayre,l'an	fu fait à Giem sur Layre , l ' an
-degracemilccc.xxxiiij.,	de grace mil ccc . xxxiiij .,
-oumoisdefevrier.Parle	ou mois de fevrier . Par le
-leroy,àlarelacionmesseigneursJ.desPrez	le roy , à la relacion messeigneurs J . des Prez
-PrezetJaquesRousselot.Savigny.	Prez et Jaques Rousselot . Savigny .
+communproufitdupaïsetsile..pourrions	commun proufit du païs et si le . . pourrions
+fairesanzprejudicedenousned'autrui	faire sanz prejudice de nous ne d ' autrui
+,nous,decertainescience	, nous , de certaine science
+etdegraceespecial,avonsoctroiéet..	et de grace especial , avons octroié et . .
+.octroionsaudit	. octroions au dit
+prieurledit	prieur le dit
+marchié,etdesja	marchié , et desja
+l'establissons,àseoiraujour	l ' establissons , à seoir au jour
+dumerquedidessusditdèsores	du merquedi dessus dit dès ores
+enavant,enlamanierequeilest.	en avant , en la maniere que il est .
+accoustuméàfaireetàuserèsautreslieusvoisins	accoustumé à faire et à user ès autres lieus voisins
+.Etpource.quecesoit	. Et pour ce . que ce soit
+fermechoseetestable	ferme chose et estable
+estableàtouz	estable à touz
+jours,nousavonsfaitmettre	jours , nous avons fait mettre
+mettrenostreseelencespresenteslettres.	mettre nostre seel en ces presentes lettres .
+.Saufenautreschosesnostredroitetentoutes	. Sauf en autres choses nostre droit et en toutes
+l'autrui.Cefufait	l ' autrui . Ce fu fait
+àGiemsurLayre,	à Giem sur Layre ,
+l'andegracemilccc	l ' an de grace mil ccc
+ccc.xxxiiij.,oumois	ccc . xxxiiij ., ou mois
+defevrier.Parleroy,àlarelacion	de fevrier . Par le roy , à la relacion
+messeigneursJ.desPrezetJaques	messeigneurs J . des Prez et Jaques
+JaquesRousselot.Savigny.	Jaques Rousselot . Savigny .

@@ -1,366 +1,377 @@
-Charles,etc	Charles , etc
-.Savoirfaisons,etc.,nousavoirreceu	. Savoir faisons , etc ., nous avoir receu
-['umblesupplicacion.deJehandeVivonneescuier,	[' umble supplicacion . de Jehan de Vivonne escuier ,
-,àpresentdetenuprisonnierèsprisonsdelaConciergerie	, à present detenu prisonnier ès prisons de la Conciergerie
-ConciergeriedenostrePalaizàParis,contenantque,	Conciergerie de nostre Palaiz à Paris , contenant que ,
-tantàl'occasiondecertaingros	tant à l ' occasion de certain gros
-procèsqu.	procès qu .
-'ilaeuà	' il a eu à
-àrencontredenostreaméetfeall'evesquede	à rencontre de nostre amé et feal l ' evesque de
-Luxonenquoyil	Luxon en quoy il
-amoultfrayéetdespendu,que	a moult frayé et despendu , que
-quedece..qu'	que de ce . . qu '
-ilaestédetenu	il a esté detenu
-longuementmaladiequiluia	longuement maladie qui lui a
-beaucoupcousté	beaucoup cousté
-,queaussiqu'..ilesthomme	, que aussi qu ' . . il est homme
-depetiteconduite	de petite conduite
-etgouvernement	et gouvernement
-oufaitde.sadespence,ils'	ou fait de . sa despence , il s '
-'estfortendebté,	' est fort endebté ,
-,etavendusurluiàEmeryBertin,de	, et a vendu sur lui à Emery Bertin , de
-Fontenay,etàautrescertainegrantrente,et	Fontenay , et à autres certaine grant rente , et
-doubtantque,seladicte	doubtant que , se ladicte
-rentecouroitsurlui,saterredel	rente couroit sur lui , sa terre de l
-l'Oblouynièrefustvendueàvilpris,se	l ' Oblouynière fust vendue à vil pris , se
-setrahyjàpieçàpar	se trahy jà pieçà par
-deversfeue	devers feue
-nostrecousineYsabeaude	nostre cousine Ysabeau de
-deVivonne,dame	de Vivonne , dame
-d'Avaugour,deThors,	d ' Avaugour , de Thors ,
-desEssarsdelaquelleilestoitprouchainparent,la	des Essars de laquelle il estoit prouchain parent , la
-priaetrequistqu'ellevoulsistachetterlesdites	pria et requist qu ' elle voulsist achetter lesdites
-rentes,àceque.ladicte	rentes , à ce que . la dicte
-dicteterrenefustperdue	dicte terre ne fust perdue
-,cequ'ellefist.	, ce qu ' elle fist .
-.Etaprèsceschoses,ilfutconseilléparmaistre	. Et après ces choses , il fut conseillé par maistre
-maistreJehanMacaire,lorssonseneschaldela	maistre Jehan Macaire , lors son seneschal de la
-ladicteterredelaBlouynière,pour	la dicte terre de la Blouynière , pour
-demourerquicteenversladictedeVivonne	demourer quicte envers la dicte de Vivonne
-deladicte	de la dicte
-rentequ'elleavoitdroitdeprendresur	rente qu ' elle avoit droit de prendre sur
+Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
+faisons,etc.,nousavoirreceu['umblesupplicacion	faisons , etc ., nous avoir receu [' umble supplicacion
+deJehandeVivonneescuier,à	de Jehan de Vivonne escuier , à
+presentdetenuprisonnierèsprisons.delaConciergerie	present detenu prisonnier ès prisons . de la Conciergerie
+denostrePalaizàParis,	de nostre Palaiz à Paris ,
+contenant.que	contenant . que
+,tantàl	, tant à l
+l'occasiondecertaingrosprocèsqu	l ' occasion de certain gros procès qu
+'ilaeuàrencontrede	' il a eu à rencontre de
+nostreaméetfeall'evesquedeLuxonen	nostre amé et feal l ' evesque de Luxon en
+quoyilamoultfrayéetdespendu	quoy il a moult frayé et despendu
+,quedecequ'il	, que de ce qu ' il
+ilaestédetenulonguementmaladiequiluia	il a esté detenu longuement maladie qui lui a
+beaucoupcousté,queaussi	beaucoup cousté , que aussi
+aussiqu'ilesthomme	aussi qu ' il est homme
+depetiteconduiteetgouvernementou	de petite conduite et gouvernement ou
+faitde..sa	fait de . . sa
+sadespence,ils'estfort	sa despence , il s ' est fort
+endebté,.	endebté , .
+etavendusurluiàEmeryBertin,	et a vendu sur lui à Emery Bertin ,
+deFontenay,etàautrescertainegrantrente,	de Fontenay , et à autres certaine grant rente ,
+etdoubtantque,	et doubtant que ,
+seladicterentecouroitsurlui,	se ladicte rente couroit sur lui ,
+saterredel'Oblouynièrefust	sa terre de l ' Oblouynière fust
+vendueàvilpris,setrahyjàpieçàpar	vendue à vil pris , se trahy jà pieçà par
+deversfeuenostrecousine	devers feue nostre cousine
+YsabeaudeVivonne,damed..'Avaugour,de	Ysabeau de Vivonne , dame d . . ' Avaugour , de
+Thors,desEssarsde	Thors , des Essars de
+laquelleilestoit	laquelle il estoit
+estoitprouchainparent,lapriaetrequistqu'	estoit prouchain parent , la pria et requist qu '
+ellevoulsist	elle voulsist
+voulsistachetterlesditesrentes,..àcequeladicte	voulsist achetter lesdites rentes , . . à ce que la dicte
+terrene.	terre ne .
+fustperdue,cequ	fust perdue , ce qu
+qu'ellefist	qu ' elle fist
+.Etaprès	. Et après
+aprèsces.choses,	après ces . choses ,
+ilfutconseillé.parmaistreJehanMacaire,lorsson	il fut conseillé . par maistre Jehan Macaire , lors son
+sonseneschaldeladicteterredelaBlouynière,pour	son seneschal de la dicte terre de la Blouynière , pour
+pourdemourerquicteenversladictedeVivonnedela	pour demourer quicte envers la dicte de Vivonne de la
+ladicterentequ'elle	la dicte rente qu ' elle
+avoit..droitdeprendre	avoit . . droit de prendre
 surlui,	sur lui ,
-desarreragesquiluienpovoitdevoir,etmoiennant	des arrerages qui lui en povoit devoir , et moiennant
-viiieescuz.	viiie escuz .
-qu'elle	qu ' elle
-elleluibailla	elle lui bailla
-baillacontent,queaussi.	bailla content , que aussi .
-qu'elleluidonnadroitdechastellenie	qu ' elle lui donna droit de chastellenie
-etseaulxauxcontractz,etcertainsseshommes	et seaulx aux contractz , et certains ses hommes
-pourestregaystables	pour estre gaystables
-àsonchasteldelaBlouynière,illuidonna	à son chastel de la Blouynière , il lui donna
-ettransportasadicteterreetseigneuriede	et transporta sa dicte terre et seigneurie de
-laBlouynière	la Blouynière
-,retenul	, retenu l
-l'usuffruitsaviedurantseulement.Après	l ' usuffruit sa vie durant seulement . Après
-laquelledonacionainsifaicteet	laquelle donacion ainsi faicte et
-queellefutvenueàlanoticedesamis	que elle fut venue à la notice des amis
-duditsuppliant,etqui	dudit suppliant , et qui
-quileblasmèrentd'	qui le blasmèrent d '
-'avoir..faitladictedonnacion,leditsuppliant	' avoir . . fait ladicte donnacion , le dit suppliant
-deistauditmaistreJehanMacaire	deist audit maistre Jehan Macaire
-Macaire,son	Macaire , son
-seneschal,qu	seneschal , qu
-'ill'avoitmalconseilléde	' il l ' avoit mal conseillé de
-luiavoirfaitfaireladictedonnacionetquetoute	lui avoir fait faire la dicte donnacion et que toute
-lachargeen	la charge en
-enestoitsurlui.Etalors..leditMacairedist	en estoit sur lui . Et alors . . ledit Macaire dist
-qu'ilypourverroit	qu ' il y pourverroit
-bienetdemandaaudit	bien et demanda audit
-suppliants'ilavoitlalettredudroit	suppliant s ' il avoit la lettre du droit
-dechastellenieque	de chastellenie que
-queladicteYsabeaudeVivonneluiavoitdonné.;lequeldist	que ladicte Ysabeau de Vivonne lui avoit donné . ; lequel dist
-queoy.Lequel	que oy . Lequel
-LequelMacairedistàicelluysuppliantqu'	Lequel Macaire dist à icelluy suppliant qu '
-'illesluiportast,etquelesnotaires	' il les lui portast , et que les notaires
-quiavoientpassélecontractdeladictedonnacion,	qui avoient passé le contract de la dicte donnacion ,
-qu'ilavoitfaicteàicelleYsabeau	qu ' il avoit faicte à icelle Ysabeau
-,estoientceulxquiavoientpassséleslettres	, estoient ceulx qui avoient passsé les lettres
-dudondu	du don du
-droitdeladictechastellenie	droit de la dicte chastellenie
-,queicelleYsabeaudeVivonneavoit	, que icelle Ysabeau de Vivonne avoit
-donnéàicelluisuppliant	donné à icellui suppliant
-suppliant,quiestoitsignéesdesseingsmanuelzdeGuillaume	suppliant , qui estoit signées des seings manuelz de Guillaume
-FuretetdeJehanLoys,notairesauxcontractzde	Furet et de Jehan Loys , notaires aux contractz de
-Boussac.Etfist	Boussac . Et fist
-icelluiMacaireune	icellui Macaire une
-minuted'	minute d '
-'unelettrederevocacionduditdon,laquelleilbailla	' une lettre de revocacion dudit don , laquelle il bailla
-audit.suppliant...,luideistqu'	audit . suppliant ..., lui deist qu '
-'illuifeistfaire	' il lui feist faire
-faireetgrossoyer,etqu'illa	faire et grossoyer , et qu ' il la
-luienvoyastensa.maison,etqueonne	lui envoyast en sa . maison , et que on ne
-pourrait.failliràcontrefaireles	pourrait . faillir à contrefaire les
-seingsdesdiznotaires,	seings des diz notaires ,
-puisqu'onlesavoit.Lequelsuppliantenvoya	puisqu ' on les avoit . Lequel suppliant envoya
-querirung	querir ung
-nomméThibaultLegendre,	nommé Thibault Legendre ,
-auquel.ilfistgrosserladicteminute	auquel . il fist grosser ladicte minute
-enparcheminetenfeistdeuxgrosses,jasoitce	en parchemin et en feist deux grosses , jasoit ce
-queleditsuppliantcuidast	que ledit suppliant cuidast
-qu'iln'	qu ' il n '
-eneustfait	en eust fait
-queune.Etaprèsce,icelluisuppliantdemanda	que une . Et après ce , icellui suppliant demanda
-àungdeses	à ung de ses
-serviteurs,nomméBertran,	serviteurs , nommé Bertran ,
-,natifdeSaintLaurenssurSèvre,s	, natif de Saint Laurens sur Sèvre , s
-'.ilsavoitqu'ilyeustaucun	' . il savoit qu ' il y eust aucun
-bon.escripvainauditlieu;	bon . escripvain audit lieu ;
-lequelrespondiqueoy.Et	lequel respondi que oy . Et
-Etlorsleditsuppliant	Et lors ledit suppliant
-luibaillaunecoppiede	lui bailla une coppie de
-ladictelettrepourluialerfairegrosseret	la dicte lettre pour lui aler faire grosser et
-luibaillaargentpour	lui bailla argent pour
-pourcefaire.Lequelserviteur	pour ce faire . Lequel serviteur
-duditsuppliantapportaàicelluisuppliantdeuxgrossesdela	dudit suppliant apporta à icellui suppliant deux grosses de la
-ladictelettre,faictesà	la dicte lettre , faictes à
-Mortagne..sur	Mortagne . . sur
-surSèvre;lequelles	sur Sèvre ; lequel les
-lesenvoyaauditMacaireensamaison,ala	les envoya audit Macaire en sa maison , ala
-Macayère.	Macayère .
-LequelMacaires'enalatenirles	Lequel Macaire s ' en ala tenir les
-lesassisesà	les assises à
-Montagu.Etce	Montagu . Et ce
-cependantsurvint	ce pendant survint
-ungnommé,maistreJehan	ung nommé , maistre Jehan
-JehanBertrand,praticien	Jehan Bertrand , praticien
-àSaincteSecille	à Saincte Secille
-Secille,dontleditsuppliantestdeparroisse,pour	Secille , dont le dit suppliant est de parroisse , pour
-unejournéequi	une journée qui
-estoitentrepriseentrecertainsgentilzhommes	estoit entreprise entre certains gentilz hommes
-hommes.Etenalantleditsuppliantàlamesseaudit	hommes . Et en alant ledit suppliant à la messe audit
-auditlieudeSaincteSecille,	audit lieu de Saincte Secille ,
-rancontraicelluimaistreJehanBertran,auquel	rancontra icellui maistre Jehan Bertran , auquel
-ildemandaquil'avoitlà	il demanda qui l ' avoit là
-mené,quiluirespondi	mené , qui lui respondi
-qu'ilyestoit	qu ' il y estoit
-estoitvenupourcertainejournéeentreprinsed'undebat	estoit venu pour certaine journée entreprinse d ' un debat
-quiestoitentrecertainsgentilzhommesdupaïs.	qui estoit entre certains gentilz hommes du païs .
-AuquelBertranleditsuppliantdist	Auquel Bertran ledit suppliant dist
-que,s'ils	que , s ' il s
-'enaloitsanslevenir	' en aloit sans le venir
-veoirensamaisonetboire	veoir en sa maison et boire
-desonvin,	de son vin ,
-quejamaisnel'ameroit.	que jamais ne l ' ameroit .
-.LequelBertranfut	. Lequel Bertran fut
-veoirleditsuppliantensonhosteldelaBlouynière	veoir ledit suppliant en son hostel de la Blouynière
-Blouynière,etluiestantaudit	Blouynière , et lui estant audit
-hostel,leditsuppliantlui	hostel , ledit suppliant lui
-luicomptale	lui compta le
-contractetdonnacion..qu'ilavoit	contract et donnacion . . qu ' il avoit
-avoitfaicteà	avoit faicte à
-ladicteYsabeaudeVivonne,etluipriaqu	la dicte Ysabeau de Vivonne , et lui pria qu
-'illuifist	' il lui fist
-uneminutederevocacionduditdon	une minute de revocacion dudit don
-don,etlaluifist	don , et la lui fist
-leplussever.etprouffitablequ'il	le plus se ver . et prouffitable qu ' il
-pourroit,	pourroit ,
-,affinquesesheritieisnepuissentvenirau	, affin que ses heritieis ne puissent venir au
+,desarrerages..quiluien	, des arrerages . . qui lui en
+povoitdevoir,	povoit devoir ,
+,etmoiennantviiieescuzqu'	, et moiennant viiie escuz qu '
+'elleluibaillacontent	' elle lui bailla content
+content,queaussi..qu'	content , que aussi . . qu '
+elleluidonnadroitdechastellenieet..seaulx	elle lui donna droit de chastellenie et . . seaulx
+seaulxauxcontractz,et..certainsseshommespourestre	seaulx aux contractz , et . . certains ses hommes pour estre
+estregaystablesàsonchasteldela	estre gaystables à son chastel de la
+la.Blouynière,illui	la . Blouynière , il lui
+luidonnaettransportasadicteterreet	lui donna et transporta sa dicte terre et
+seigneuriedela	seigneurie de la
+Blouynière,retenul'usuffruit..savie	Blouynière , retenu l ' usuffruit . . sa vie
+viedurantseulement	vie durant seulement
+seulement.Aprèslaquelledonacionainsifaicteetqueelle	seulement . Après laquelle donacion ainsi faicte et que elle
+futvenue.àla	fut venue . à la
+noticedesamisduditsuppliant,etquileblasmèrent	notice des amis dudit suppliant , et qui le blasmèrent
+d'avoirfaitladicte	d ' avoir fait ladicte
+donnacion.,ledit	donnacion . , le dit
+ditsuppliantdeist	dit suppliant deist
+auditmaistreJehanMacaire,sonseneschal,	audit maistre Jehan Macaire , son seneschal ,
+qu'ill'	qu ' il l '
+avoitmalconseillé	avoit mal conseillé
+deluiavoir	de lui avoir
+avoirfait.fairela	avoir fait . faire la
+dictedonnacionetquetoutelachargeenestoitsur	dicte donnacion et que toute la charge en estoit sur
+surlui.Etalors	sur lui . Et alors
+alorsleditMacairedistqu'ilypourverroitbien	alors ledit Macaire dist qu ' il y pourverroit bien
+bienetdemanda	bien et demanda
+auditsuppliants..'il	audit suppliant s . . ' il
+avoitlalettredudroitde.chastellenieque	avoit la lettre du droit de . chastellenie que
+ladicteYsabeaudeVivonnelui	ladicte Ysabeau de Vivonne lui
+avoitdonné;lequeldistqueoy.LequelMacaire	avoit donné ; lequel dist que oy . Lequel Macaire
+distàicelluysuppliantqu'illes	dist à icelluy suppliant qu ' il les
+lesluiportast,etquelesnotairesquiavoientpassé	les lui portast , et que les notaires qui avoient passé
+passélecontractdela	passé le contract de la
+dicte.donnacion,qu'ilavoitfaicte	dicte . donnacion , qu ' il avoit faicte
+àicelle	à icelle
+Ysabeau,estoientceulxquiavoient	Ysabeau , estoient ceulx qui avoient
+passséleslettresdudondudroitdeladicte	passsé les lettres du don du droit de la dicte
+chastellenie,que	chastellenie , que
+icelleYsabeaudeVivonneavoit	icelle Ysabeau de Vivonne avoit
+avoitdonnéà	avoit donné à
+icelluisuppliant,quiestoitsignéesdesseings	icellui suppliant , qui estoit signées des seings
+seingsmanuelzdeGuillaumeFuretetdeJehanLoys,	seings manuelz de Guillaume Furet et de Jehan Loys ,
+,notairesauxcontractzdeBoussac...Et	, notaires aux contractz de Boussac . . . Et
+fisticellui.	fist icellui .
+Macaireuneminuted'unelettrede	Macaire une minute d ' une lettre de
+revocacionduditdon,laquelle	revocacion dudit don , laquelle
+laquelleilbaillaauditsuppliant...,luideistqu'	laquelle il bailla audit suppliant ..., lui deist qu '
+'illuifeist	' il lui feist
+faireetgrossoyer,etqu'illalui..	faire et grossoyer , et qu ' il la lui . .
+envoyastensamaison.	envoyast en sa maison .
+,etqueon	, et que on
+nepourrait	ne pourrait
+failliràcontrefaireles.seingsdesdiznotaires,	faillir à contrefaire les . seings des diz notaires ,
+puisqu'onlesavoit.	puisqu ' on les avoit .
+Lequelsuppliantenvoya..querirung	Lequel suppliant envoya . . querir ung
+nomméThibaultLegendre,auquel	nommé Thibault Legendre , auquel
+auquelilfistgrosserladicteminuteenparchemin	auquel il fist grosser ladicte minute en parchemin
+etenfeist	et en feist
+deuxgrosses,jasoitcequeledit	deux grosses , jasoit ce que ledit
+suppliantcuidastqu'il	suppliant cuidast qu ' il
+n'eneustfaitqueune.Et	n ' en eust fait que une . Et
+aprèsce,	après ce ,
+,icelluisuppliant	, icellui suppliant
+demandaà..ungde	demanda à . . ung de
+ses.serviteurs,	ses . serviteurs ,
+nomméBertran,natifde	nommé Bertran , natif de
+SaintLaurenssurSèvre	Saint Laurens sur Sèvre
+Sèvre,s'ilsavoit	Sèvre , s ' il savoit
+savoitqu'ilyeustaucunbonescripvainauditlieu	savoit qu ' il y eust aucun bon escripvain audit lieu
+lieu;lequelrespondiqueoy.Et	lieu ; lequel respondi que oy . Et
+lorsleditsuppliantluibaillaunecoppie	lors ledit suppliant lui bailla une coppie
+coppiedeladictelettrepourluialer	coppie de la dicte lettre pour lui aler
+fairegrosser	faire grosser
+grosseretluibaillaargentpour	grosser et lui bailla argent pour
+cefaire.Lequel	ce faire . Lequel
+serviteurduditsuppliantapporta	serviteur dudit suppliant apporta
+apportaàicellui..suppliantdeuxgrossesdela	apporta à icellui . . suppliant deux grosses de la
+dictelettre,faictesà	dicte lettre , faictes à
+MortagnesurSèvre;	Mortagne sur Sèvre ;
+lequel.lesenvoya	lequel . les envoya
+auditMacaireensa	audit Macaire en sa
+maison,alaMacayère.	maison , ala Macayère .
+.LequelMacaires'	. Lequel Macaire s '
+'enalatenirlesassises	' en ala tenir les assises
+assisesàMontagu.Etcependantsurvintungnommé	assises à Montagu . Et ce pendant survint ung nommé
+,maistreJehanBertrand,praticienà	, maistre Jehan Bertrand , praticien à
+SaincteSecille,dontleditsuppliantestdeparroisse	Saincte Secille , dont le dit suppliant est de parroisse
+,pourunejournéequiestoit	, pour une journée qui estoit
+entrepriseentrecertainsgentilzhommes.Etenalant	entreprise entre certains gentilz hommes . Et en alant
+alantleditsuppliantàlamesseauditlieu	alant ledit suppliant à la messe audit lieu
+deSaincteSecille	de Saincte Secille
+,rancontra	, rancontra
+icelluimaistre..JehanBertran,auquel	icellui maistre . . Jehan Bertran , auquel
+ildemandaquil'	il demanda qui l '
+'avoitlàmené,quiluirespondiqu'il	' avoit là mené , qui lui respondi qu ' il
+ilyestoitvenupourcertainejournéeentreprinsed	il y estoit venu pour certaine journée entreprinse d
+'undebatquiestoitentre	' un debat qui estoit entre
+certainsgentilzhommesdupaïs.AuquelBertranleditsuppliant	certains gentilz hommes du païs . Auquel Bertran ledit suppliant
+distque,s'il..s	dist que , s ' il . . s
+'enaloitsanslevenirveoiren	' en aloit sans le venir veoir en
+samaisonetboiredesonvin,	sa maison et boire de son vin ,
+quejamaisnel	que jamais ne l
+'ameroit.	' ameroit .
+LequelBertranfutveoirleditsuppliantensonhostelde	Lequel Bertran fut veoir ledit suppliant en son hostel de
+delaBlouynière	de la Blouynière
+,etluiestant	, et lui estant
+audithostel,leditsuppliantluicomptalecontractet	audit hostel , ledit suppliant lui compta le contract et
+donnacionqu'..ilavoit	donnacion qu ' . . il avoit
+faicteà	faicte à
+à..ladicteYsabeaudeVivonne,	à . . la dicte Ysabeau de Vivonne ,
+,etluipriaqu'illui	, et lui pria qu ' il lui
+fistuneminutederevocacionduditdon,etla	fist une minute de revocacion dudit don , et la
+luifistleplusseveretprouffitablequ'	lui fist le plus se ver et prouffitable qu '
+ilpourroit,affinquesesheritieis	il pourroit , affin que ses heritieis
+nepuissentveniraucontraire	ne puissent venir au contraire
 contraire.LequelmaistreJehan	contraire . Lequel maistre Jehan
-JehanBertranfistladicteminute,oùilmistque,	Jehan Bertran fist ladicte minute , où il mist que ,
-silesheritiersdeladictedamoiselleYsabeaualoientaucontraire	si les heritiers de ladicte damoiselle Ysabeau aloient au contraire
-,ilzencourussentlapeineou(	, ilz encourussent la peine ou (
-sic)..latierce	sic ) . . la tierce
-partiedetouslesheritagesdeladitefeue	partie de tous les heritages de la dite feue
-feueYsabeau..deVivonne.	feue Ysabeau . . de Vivonne .
-EtbaillaleditBertranladiteminuteauditsuppliantetlui	Et bailla ledit Bertran ladite minute audit suppliant et lui
-demandas'ilavoitplusquefaire	demanda s ' il avoit plus que faire
-delui;auquelildistque.non.Et	de lui ; auquel il dist que . non . Et
-asseztostaprès	assez tost après
-,retournaleditMacaireduditMontagu,où.ilavoit	, retourna ledit Macaire dudit Montagu , où . il avoit
-avoittenulesassises,etfut	avoit tenu les assises , et fut
-futauditlieudelaBlouinièretenirlesassises	fut audit lieu de la Blouinière tenir les assises
-duditsuppliant.Etquantil	dudit suppliant . Et quant il
-ilyfut,ledit	il y fut , ledit
-leditsuppliantluideisttellesparolles:«	ledit suppliant lui deist telles parolles :«
-Etpuis,se	Et puis , se
-fera.bienlabesongne?»Lequel	fera . bien la besongne ?» Lequel
-LequelMacairerespondiqu'ilestoitseurqu'	Lequel Macaire respondi qu ' il estoit seur qu '
-'elleseferoitbien,	' elle se feroit bien ,
-,etquecelluiqui	, et que cellui qui
-quilafaisoitsedevoitrendre..àsonhostel	qui la faisoit se devoit rendre . . à son hostel
-hostelàlaMacairière,etluidevoitapporterles	hostel à la Macairière , et lui devoit apporter les
-lesbesongnestoutesprestes.Etaprèsce,leditsuppliant	les besongnes toutes prestes . Et après ce , ledit suppliant
-distauditMacaire	dist audit Macaire
-que,depuis	que , depuis
-qu'ilavoient	qu ' il avoient
-parléensemble,maistreJehanBertran	parlé ensemble , maistre Jehan Bertran
-estoitvenu.	estoit venu .
-.auditlieudelaBlouynièreetluiavoitfait	. audit lieu de la Blouynière et lui avoit fait
-uneminutesur	une minute sur
-lamatière	la matière
-qu'ilsavoit.Laquelleminuteledit	qu ' il savoit . Laquelle minute ledit
-suppliantmonstraauditMacaire.Lequellalutet	suppliant monstra audit Macaire . Lequel la lut et
-,aprèsce	, après ce
-ce,distauditsuppliantqu'ellevaloitmieulxet	ce , dist audit suppliant qu ' elle valoit mieulx et
-estoitplusseureque	estoit plus seure que
-quecellequ'ilavoitfaicte;	que celle qu ' il avoit faicte ;
-;etemportaicelleminute..	; et emporta icelle minute . .
-etsechargealafaire	et se chargea la faire
-grosser.etsigner.Etdepuis	grosser . et signer . Et depuis
-depuisceque	depuis ce que
-celluiquidevoitapporterlesautreslettres	cellui qui devoit apporter les autres lettres
-lettressignéesfustvenu	lettres signées fust venu
-enl'ostelduditMacaire,.	en l ' ostel dudit Macaire , .
-icelluiMacaireledemanda	icellui Macaire le demanda
-demandaauditsuppliantetqu'ilalapardeverslui	demanda audit suppliant et qu ' il ala par devers lui
-àsamaisondela	à sa maison de la
-laMacairièreetapportastx...escuz,ce	la Macairière et apportast x . . . escuz , ce
-cequefistleditsuppliant..;etquantil	ce que fist le dit suppliant . . ; et quant il
-ilyfut,leditMacaireluimonstracelluyqui	il y fut , ledit Macaire lui monstra celluy qui
-quiavoitcontrefaitlesseingsdesnotaires,queon	qui avoit contrefait les seings des notaires , que on
-onnommoitJehan	on nommoit Jehan
-ouGuillaumeLemée	ou Guillaume Lemée
-Lemée,et..leditsuppliantdemanda	Lemée , et . . le dit suppliant demanda
-demandaauditMacaire..se	demanda audit Macaire . . se
-c'estoitcelluyquidevoitfaire..les	c ' estoit celluy qui devoit faire . . les
-besongnes,quiluidistque	besongnes , qui lui dist que
-oy.EtalorsleditMacairedist	oy . Et alors ledit Macaire dist
-auditsuppliantque	audit suppliant que
-,quantleditMée	, quant ledit Mée
-Méeyroitàsamaisonqu'illui	Mée yroit à sa maison qu ' il lui
-feistbonnechièreetcongneustleplaisirqu	feist bonne chière et congneust le plaisir qu
-'illuifaisoit,qui	' il lui faisoit , qui
-distquesiferoitil.	dist que si feroit il .
-Etdemourèrenttouteslesditeslettresentreles	Et demourèrent toutes lesdites lettres entre les
-lesmainsduditMacaireplus	les mains dudit Macaire plus
-d'un..quart	d ' un . . quart
-d'an,par	d ' an , par
-cequeleditMacairelesvoultavoirdevers	ce que ledit Macaire les voult avoir devers
-lui,jusquesàce	lui , jusques à ce
-queladictedamoiselle	que ladicte damoiselle
-damoiselleYsabeaufust	damoiselle Ysabeau fust
-trespassée.LequelMacairedistauditsuppliantqu	trespassée . Lequel Macaire dist audit suppliant qu
-'illuidiroitquantilseroit	' il lui diroit quant il seroit
-tempsdeluiaiderdesditeslettres.	temps de lui aider desdites lettres .
-Etaprès..ce	Et après . . ce
-queladitedemoiselleYsabeaufuttrespassée,leditMacaire	que ladite demoiselle Ysabeau fut trespassée , ledit Macaire
-portalesditeslettres..audit	porta lesdites lettres . . audit
-auditsuppliantetluidistqu'il	audit suppliant et lui dist qu ' il
-lesgardastbien,parespeciallagrandequiparloit	les gardast bien , par especial la grande qui parloit
-delatiercepartie;etauregartdes	de la tierce partie ; et au regart des
-autres,lui..dist	autres , lui . . dist
-distqu'ellesne	dist qu ' elles ne
-luiservoientderiens.Lequelsuppliant..mist	lui servoient de riens . Lequel suppliant . . mist
-mistlesditeslettresensonhostel,encertains	mist lesdites lettres en son hostel , en certains
-coffres.Etaprèsce,pour	coffres . Et après ce , pour
-pourcertaindebat	pour certain debat
-quisurvintentrenostreamé.etfealconseillerl'	qui survint entre nostre amé . et feal conseiller l '
-'.evesquedeLuxonetleditsuppliant	' . evesque de Luxon et ledit suppliant
-,etàlarequestedenostreditconseilleret	, et à la requeste de nostre dit conseiller et
-etde..nozofficiersenPoictou,	et de . . noz officiers en Poictou ,
-certainsnoz..officiers,ledit	certains noz . . officiers , ledit
-suppliantestantabsentethorsdesadicte	suppliant estant absent et hors de sa dicte
-maison,entrèrentdedansicelle,lamirenten	maison , entrèrent dedans icelle , la mirent en
-nostremain,.	nostre main , .
-rompirentlescoffresdudit.suppliant,prindrentsesbiens	rompirent les coffres dudit . suppliant , prindrent ses biens
-etentreautreschosesdeuxdesdicteslettreset	et entre autres choses deux des dictes lettres et
-unecoppiequi	une coppie qui
-furentbailléesà	furent baillées à
-nostreditcousinlecontede..	nostre dit cousin le conte de . .
-Penthevre.Etau	Penthevre . Et au
-regartdelagrantlettre	regart de la grant lettre
-parlantdelatierce.partie	parlant de la tierce . partie
-partie,ellecheutenautres	partie , elle cheut en autres
-mainset	mains et
-futrendueauditsuppliantpar	fut rendue audit suppliant par
-ungnommé	ung nommé
-GuillaumeFrançois,soubzumbrede	Guillaume François , soubz umbre de
-decertainemonicionqueleditsuppliantfistpubliercontre	de certaine monicion que ledit suppliant fist publier contre
-contretousceulxqui	contre tous ceulx qui
-auroient..prinssesbiens.	auroient . . prins ses biens .
-.Etquantleditsuppliantotrecouvertladictelettre,	. Et quant ledit suppliant ot recouvert la dicte lettre ,
+Bertranfist	Bertran fist
+fistladicte.minute	fist ladicte . minute
+minute,..oùilmistque,si	minute , . . où il mist que , si
+lesheritiersdeladictedamoiselleYsabeaualoientau	les heritiers de ladicte damoiselle Ysabeau aloient au
+contraire,ilzencourussentlapeineou..	contraire , ilz encourussent la peine ou . .
+(sic)latiercepartiedetousles	( sic ) la tierce partie de tous les
+heritagesde	heritages de
+deladitefeue	de la dite feue
+YsabeaudeVivonne.EtbaillaleditBertranladite	Ysabeau de Vivonne . Et bailla ledit Bertran ladite
+minuteauditsuppliantetluidemandas	minute audit suppliant et lui demanda s
+'ilavoitplusquefairedelui;	' il avoit plus que faire de lui ;
+auquelildistquenon.Etassez	auquel il dist que non . Et assez
+tostaprès	tost après
+,retournaleditMacaireduditMontagu,oùilavoit	, retourna ledit Macaire dudit Montagu , où il avoit
+tenulesassises	tenu les assises
+,.etfutauditlieudelaBlouinièretenir	, . et fut audit lieu de la Blouinière tenir
+lesassisesduditsuppliant...	les assises dudit suppliant . . .
+Etquant	Et quant
+ilyfut,	il y fut ,
+,leditsuppliantluideisttellesparolles..:«Et	, ledit suppliant lui deist telles parolles . . :« Et
+puis,se	puis , se
+ferabienlabesongne?»Lequel	fera bien la besongne ?» Lequel
+Macairerespondiqu'ilestoitseurqu'	Macaire respondi qu ' il estoit seur qu '
+'elleseferoit	' elle se feroit
+bien,etquecelluiquilafaisoitsedevoit	bien , et que cellui qui la faisoit se devoit
+rendreàson	rendre à son
+hostelàlaMacairière,etluidevoitapporter	hostel à la Macairière , et lui devoit apporter
+lesbesongnestoutesprestes.Etaprès	les besongnes toutes prestes . Et après
+ce,leditsuppliant	ce , ledit suppliant
+distauditMacaireque,depuis	dist audit Macaire que , depuis
+depuisqu'ilavoientparlé	depuis qu ' il avoient parlé
+ensemble,maistreJehan	ensemble , maistre Jehan
+Bertranestoitvenuauditlieu	Bertran estoit venu audit lieu
+lieudelaBlouynière	lieu de la Blouynière
+etluiavoitfaituneminutesurlamatière..qu	et lui avoit fait une minute sur la matière . . qu
+qu'ilsavoit.Laquelleminuteleditsuppliantmonstraaudit	qu ' il savoit . Laquelle minute ledit suppliant monstra audit
+auditMacaire.Lequellalutet,	audit Macaire . Lequel la lut et ,
+,après.ce,	, après . ce ,
+distauditsuppliantqu'elle	dist audit suppliant qu ' elle
+valoitmieulxetestoit	valoit mieulx et estoit
+plusseurequecellequ'ilavoit	plus seure que celle qu ' il avoit
+faicte;etemportaicelleminuteetsechargea	faicte ; et emporta icelle minute et se chargea
+chargealafaire	chargea la faire
+grosseretsigner	grosser et signer
+.Etdepuiscequecelluiquidevoitapporterles	. Et depuis ce que cellui qui devoit apporter les
+autreslettressignéesfustvenuenl'osteldudit	autres lettres signées fust venu en l ' ostel dudit
+Macaire,icelluiMacaireledemandaaudit	Macaire , icellui Macaire le demanda audit
+suppliantetqu'ilalapar	suppliant et qu ' il ala par
+pardeversluià	par devers lui à
+samaisondelaMacairière..et	sa maison de la Macairière . . et
+etapportastx...escuz	et apportast x . . . escuz
+,cequefistle	, ce que fist le
+leditsuppliant;etquantilyfut	le dit suppliant ; et quant il y fut
+,leditMacaire	, ledit Macaire
+luimonstracelluyquiavoitcontrefait	lui monstra celluy qui avoit contrefait
+lesseingsdes	les seings des
+desnotaires,queonnommoitJehanouGuillaumeLemée	des notaires , que on nommoit Jehan ou Guillaume Lemée
+Lemée,etledit	Lemée , et le dit
+suppliantdemandaaudit	suppliant demanda audit
+auditMacairesec'estoitcelluyquidevoitfaire	audit Macaire se c ' estoit celluy qui devoit faire
+lesbesongnes,quiluidist	les besongnes , qui lui dist
+queoy.Et	que oy . Et
+EtalorsleditMacairedistauditsuppliantque,quantledit.	Et alors ledit Macaire dist audit suppliant que , quant ledit .
+Méeyroitàsa	Mée yroit à sa
+maisonqu'illuifeistbonnechière	maison qu ' il lui feist bonne chière
+chièreetcongneustleplaisirqu'illuifaisoit	chière et congneust le plaisir qu ' il lui faisoit
+,quidistque	, qui dist que
+siferoitil.Et	si feroit il . Et
+demourèrenttoutes	demourèrent toutes
+lesditeslettresentrelesmainsduditMacaire	lesdites lettres entre les mains dudit Macaire
+plusd'unquart.d'an	plus d ' un quart . d ' an
+an,parcequeleditMacairelesvoultavoir	an , par ce que ledit Macaire les voult avoir
+deverslui,jusquesà	devers lui , jusques à
+cequeladictedamoiselleYsabeaufusttrespassée	ce que ladicte damoiselle Ysabeau fust trespassée
+.LequelMacaire	. Lequel Macaire
+Macairedistauditsuppliantqu'illuidiroit	Macaire dist audit suppliant qu ' il lui diroit
+quantilseroittempsdeluiaider	quant il seroit temps de lui aider
+desditeslettres.Etaprèsce	desdites lettres . Et après ce
+queladitedemoiselleYsabeaufuttrespassée,leditMacaireporta	que ladite demoiselle Ysabeau fut trespassée , ledit Macaire porta
+lesditeslettresauditsuppliantetluidistqu	lesdites lettres audit suppliant et lui dist qu
+'illesgardast	' il les gardast
+bien,parespeciallagrandequiparloit	bien , par especial la grande qui parloit
+delatiercepartie;etauregart	de la tierce partie ; et au regart
+desautres,	des autres ,
+,luidist	, lui dist
+distqu'	dist qu '
+'ellesneluiservoientderiens...Lequelsuppliant	' elles ne lui servoient de riens . . . Lequel suppliant
+suppliantmistlesditeslettresenson	suppliant mist lesdites lettres en son
+hostel,.encertains	hostel , . en certains
+certainscoffres.Etaprèsce,	certains coffres . Et après ce ,
+pourcertain	pour certain
+debatquisurvintentrenostreaméet	debat qui survint entre nostre amé et
+fealconseillerl'evesquedeLuxonetleditsuppliant	feal conseiller l ' evesque de Luxon et ledit suppliant
+,etàlarequeste	, et à la requeste
+denostreditconseiller	de nostre dit conseiller
+etdenozofficiersenPoictou,certainsnozofficiers	et de noz officiers en Poictou , certains noz officiers
+,leditsuppliantestantabsentethorsdesa	, ledit suppliant estant absent et hors de sa
+sadictemaison,entrèrentdedansicelle,	sa dicte maison , entrèrent dedans icelle ,
+lamirenten	la mirent en
+nostremain,rompirentlescoffresduditsuppliant	nostre main , rompirent les coffres dudit suppliant
+,prindrentsesbiensetentre.autreschoses	, prindrent ses biens et entre . autres choses
+deux..des	deux . . des
+desdicteslettresetunecoppiequi	des dictes lettres et une coppie qui
+furentbailléesànostre	furent baillées à nostre
+ditcousinlecontedePenthevre.Etauregart	dit cousin le conte de Penthevre . Et au regart
+de.lagrant	de . la grant
+lettreparlantdelatiercepartie	lettre parlant de la tierce partie
+,ellecheutenautresmainsetfutrendue	, elle cheut en autres mains et fut rendue
+auditsuppliantparungnommé	audit suppliant par ung nommé
+GuillaumeFrançois,soubz..	Guillaume François , soubz . .
+umbredecertaine	umbre de certaine
+monicionqueleditsuppliant	monicion que ledit suppliant
+fistpublier	fist publier
+contretousceulxquiauroientprinssesbiens.	contre tous ceulx qui auroient prins ses biens .
+.Etquant	. Et quant
+leditsuppliantotrecouvertla	ledit suppliant ot recouvert la
+dicte.lettre,	dicte . lettre ,
 ilenvoyaquerirle	il envoya querir le
-ditmaistreJehan	dit maistre Jehan
-Macaireetlaluimonstra	Macaire et la lui monstra
-.LequelMacaireenfutbienjoyeulx..et	. Lequel Macaire en fut bien joyeulx . . et
-dist..auditsuppliant	dist . . audit suppliant
-queenfistfairetroisouquatrevidimus	que en fist faire trois ou quatre vidimus
-,etaprèsluiportastl'original	, et après lui portast l ' original
-originaldesditeslettres,ceque	original desdites lettres , ce que
-que..leditsuppliantfist.EtlorsleditMacairedist	que . . ledit suppliant fist . Et lors ledit Macaire dist
-auditsuppliantque,s'	audit suppliant que , s '
-ilvouloit,..il	il vouloit , . . il
-s'aideroitdesditeslettres.Lequelsuppliantluidemanda	s ' aideroit desdites lettres . Lequel suppliant lui demanda
-la.manièrecomment	la . manière comment
-comment,etledit	comment , et ledit
-MacairedeistqueGillesBoissière,serviteurdela..dite	Macaire deist que Gilles Boissière , serviteur de la . . dite
-damoiselleYsabeau,etlequelelleaymoitbien..etse	damoiselle Ysabeau , et lequel elle aymoit bien . . et se
-sefioiten..lui,	se fioit en . . lui ,
-estoittrespassé,etqueleditsuppliantdiroitque	estoit trespassé , et que ledit suppliant diroit que
-leditBoissièrelui	ledit Boissière lui
-luiavoitapportédeparladite..Ysabeautoutes	lui avoit apporté de par ladite . . Ysabeau toutes
-lesditeslettres.EtaprèsleditMacairecheustmalade	lesdites lettres . Et après ledit Macaire cheust malade
-maladeoulit	malade ou lit
-lit,delamaladiedont	lit , de la maladie dont
-dontiltrespassa	dont il trespassa
-trespassa..,et,luiestantainsi	trespassa . . , et , lui estant ainsi
-malade,mandaquerirleditsuppliantet	malade , manda querir ledit suppliant et
-luibaillaladicte	lui bailla ladicte
-lettre,etluidisttellesparolles	lettre , et lui dist telles parolles
-:«Monseigneur,jevouspryquetenezà	:« Monseigneur , je vous pry que tenez à
-mon..filz	mon . . filz
-filzcequevousluiavez	filz ce que vous lui avez
-promis».Lequelsuppliant,commedit	promis ». Lequel suppliant , comme dit
-est,enfeist	est , en feist
-fairequatre	faire quatre
-quatregrossesouvidimusdeladitelettreparColas	quatre grosses ou vidimus de la dite lettre par Colas
-Regnault,	Regnault ,
-,sanscequeledit	, sans ce que ledit
-suppliantaitfaitautrechosedes	suppliant ait fait autre chose des
-diteslettresetcoppies,nequed'icelles	dites lettres et coppies , ne que d ' icelles
-ilsesoitaucunementaidé.Neantmoinspuisnaguèreset	il se soit aucunement aidé . Neantmoins puis naguères et
-après.ces'enalaledit	après . ce s ' en ala ledit
-leditcompaignonet..	ledit compaignon et . .
-.oncquespuisneleveistleditsuppliant.Etaprès	. oncques puis ne le veist ledit suppliant . Et après
-letrespasde	le trespas de
-deladicteYsabeaudeVivonne,nostrechieretamé	de ladicte Ysabeau de Vivonne , nostre chier et amé
-amécousinJehandeBrossechevalier,conte	amé cousin Jehan de Brosse chevalier , conte
-dePenthèvre,etNicoledeBretaigne	de Penthèvre , et Nicole de Bretaigne
-Bretaigne,safemme,estans	Bretaigne , sa femme , estans
-estansadvertizqueledit	estans advertiz que ledit
-leditsuppliantavoitlesditeslettres,jasoitceque	ledit suppliant avoit lesdites lettres , jasoit ce que
-d'icellesilnese	d ' icelles il ne se
-fustaidéenaucunemanière,commedit	fust aidé en aucune manière , comme dit
-est,ontobtenudenostrechancellerielettres,par	est , ont obtenu de nostre chancellerie lettres , par
-parvertudesquelles,informacionprecedent	par vertu desquelles , informacion precedent
-,leditsuppliantaestéadjornéà.comparoiren	, ledit suppliant a esté adjorné à . comparoir en
-personnepardevantnoz..amezetfeaulxconseillersles	personne par devant noz . . amez et feaulx conseillers les
-genstenansles	gens tenans les
-requestesdenostrePalaisà	requestes de nostre Palais à
-Paris.Pardevantlesquelz.ilacomparueta	Paris . Par devant lesquelz . il a comparu et a
-aestépareulxinterrogué..surledit	a esté par eulx interrogué . . sur ledit
-caspardiversesfoiz	cas par diverses foiz
-,etanyéparserementavoirfaitfaire	, et a nyé par serement avoir fait faire
-les.dizseings	les . diz seings
-seingsetcontrefaitlesditeslettres.Etdepuisa,	seings et contrefait les dites lettres . Et depuis a ,
-,parleurordonnance,..estéconstitué	, par leur ordonnance , . . esté constitué
-prisonnieretacogneuetconfesséavoircommisetperpetré	prisonnier et a cogneu et confessé avoir commis et perpetré
-leditcasetfaitcontrefaire	le dit cas et fait contrefaire
-lesdizseingsdesdiznotairesparlamanièredessus	les diz seings desdiz notaires par la manière dessus
-declairée.Etcombienquedesditeslettresilne	declairée . Et combien que desdites lettres il ne
-nesefustnesoitaucunementaidécontrenosdiz	ne se fust ne soit aucunement aidé contre nosdiz
-cousinetcousine,leconte	cousin et cousine , le conte
-et.contessedePenthèvre,nesemblablementcontrefeue	et . contesse de Penthèvre , ne semblablement contre feue
-YsabeaudeVivonne	Ysabeau de Vivonne
+ditmaistre..JehanMacaireet	dit maistre . . Jehan Macaire et
+etla..luimonstra.	et la . . lui monstra .
+LequelMacaireen.	Lequel Macaire en .
+futbienjoyeulxetdistaudit	fut bien joyeulx et dist audit
+suppliantqueen	suppliant que en
+fistfairetroisou	fist faire trois ou
+ouquatrevidimus,etaprès	ou quatre vidimus , et après
+luiportastl'originaldesditeslettres	lui portast l ' original desdites lettres
+,cequeleditsuppliantfist	, ce que ledit suppliant fist
+fist.EtlorsleditMacairedistauditsuppliant	fist . Et lors ledit Macaire dist audit suppliant
+que,s'il	que , s ' il
+vouloit,ils'aideroitdesdites	vouloit , il s ' aideroit desdites
+desditeslettres.Lequelsuppliant	desdites lettres . Lequel suppliant
+luidemandalamanièrecomment,.et	lui demanda la manière comment , . et
+leditMacaire.deistque	ledit Macaire . deist que
+GillesBoissière,	Gilles Boissière ,
+serviteurdela	serviteur de la
+laditedamoiselleYsabeau,et..lequel	la dite damoiselle Ysabeau , et . . lequel
+lequel.elleaymoitbienet	lequel . elle aymoit bien et
+sefioitenlui,estoittrespassé	se fioit en lui , estoit trespassé
+,etqueleditsuppliantdiroitqueledit	, et que ledit suppliant diroit que ledit
+Boissièreluiavoitapportéde	Boissière lui avoit apporté de
+parladiteYsabeautouteslesditeslettres.	par ladite Ysabeau toutes lesdites lettres .
+Etaprès.leditMacairecheustmaladeoulit,de	Et après . ledit Macaire cheust malade ou lit , de
+lamaladiedont	la maladie dont
+iltrespassa,et,lui	il trespassa , et , lui
+estantainsimalade	estant ainsi malade
+malade,mandaquerirleditsuppliantetluibailla..ladicte	malade , manda querir ledit suppliant et lui bailla . . ladicte
+ladictelettre,etluidisttellesparolles	ladicte lettre , et lui dist telles parolles
+:«Monseigneur,jevouspryquetenezàmon	:« Monseigneur , je vous pry que tenez à mon
+monfilzcequevouslui	mon filz ce que vous lui
+avezpromis».Lequelsuppliant,commeditest,	avez promis ». Lequel suppliant , comme dit est ,
+enfeistfairequatregrossesouvidimus	en feist faire quatre grosses ou vidimus
+vidimusdeladite..lettrepar	vidimus de la dite . . lettre par
+parColasRegnault,sansceque	par Colas Regnault , sans ce que
+leditsuppliant	ledit suppliant
+ait.faitautrechosedesdites	ait . fait autre chose des dites
+lettresetcoppies,nequed'icellesil	lettres et coppies , ne que d ' icelles il
+sesoitaucunementaidé.Neantmoinspuisnaguères	se soit aucunement aidé . Neantmoins puis naguères
+etaprèsces'enala	et après ce s ' en ala
+leditcompaignonetoncquespuisneleveistleditsuppliant	ledit compaignon et oncques puis ne le veist ledit suppliant
+.EtaprèsletrespasdeladicteYsabeaude	. Et après le trespas de ladicte Ysabeau de
+Vivonne,	Vivonne ,
+,nostrechieretamécousinJehandeBrosse	, nostre chier et amé cousin Jehan de Brosse
+chevalier,contedePenthèvre,etNicoledeBretaigne	chevalier , conte de Penthèvre , et Nicole de Bretaigne
+,safemme	, sa femme
+femme,estansadvertizqueleditsuppliantavoitlesditeslettres	femme , estans advertiz que ledit suppliant avoit lesdites lettres
+,jasoitcequed'icellesilne	, jasoit ce que d ' icelles il ne
+sefustaidéenaucunemanière..,	se fust aidé en aucune manière . . ,
+commedit..est,	comme dit . . est ,
+,.ontobtenudenostrechancellerielettres,parvertudesquelles	, . ont obtenu de nostre chancellerie lettres , par vertu desquelles
+,informacion	, informacion
+precedent,leditsuppliant	precedent , ledit suppliant
+suppliantaestéadjorné	suppliant a esté adjorné
+àcomparoirenpersonnepardevantnoz	à comparoir en personne par devant noz
+amezetfeaulxconseillers	amez et feaulx conseillers
+lesgenstenanslesrequestesdenostrePalaisàParis	les gens tenans les requestes de nostre Palais à Paris
+.Pardevantlesquelzilacomparuet	. Par devant lesquelz il a comparu et
+etaestépareulxinterroguésur	et a esté par eulx interrogué sur
+leditcas	ledit cas
+caspardiversesfoiz,etanyépar	cas par diverses foiz , et a nyé par
+serementavoirfait	serement avoir fait
+fairelesdiz	faire les diz
+dizseingsetcontrefaitlesditeslettres.Etdepuisa	diz seings et contrefait les dites lettres . Et depuis a
+a,parleurordonnance,esté	a , par leur ordonnance , esté
+constituéprisonniereta	constitué prisonnier et a
+acogneuetconfessé.avoircommiset	a cogneu et confessé . avoir commis et
+perpetréleditcasetfait	perpetré le dit cas et fait
+contrefaire..les	contrefaire . . les
+dizseingsdesdiz.notairesparla	diz seings desdiz . notaires par la
+lamanièredessusdeclairée.Et	la manière dessus declairée . Et
+Etcombienquedesditeslettresil.nesefustnesoit	Et combien que desdites lettres il . ne se fust ne soit
+aucunementaidécontre.nosdizcousin	aucunement aidé contre . nosdiz cousin
+etcousine,leconteetcontesse	et cousine , le conte et contesse
+contessedePenthèvre,	contesse de Penthèvre ,
+nesemblablementcontrefeueYsabeaudeVivonne	ne semblablement contre feue Ysabeau de Vivonne
 ,mèredenostreditecousine	, mère de nostre dite cousine
-cousine,etqu'	cousine , et qu '
-il..aitfaitgrosseret	il . . ait fait grosser et
-signerlesditeslettresparsimplesseetexortaciond	signer les dites lettres par simplesse et exortacion d
-d'autruyetc.,nouslui	d ' autruy etc ., nous lui
-vueillonsimpartirnostregrace.Pourceestilque	vueillons impartir nostre grace . Pour ce est il que
-nous,voulansmisericordeprefereràrigueurde	nous , voulans misericorde preferer à rigueur de
-justice,auditsuppliantavonsoucas	justice , audit suppliant avons ou cas
-dessusditquicté,remisetpardonné,etc	dessus dit quicté , remis et pardonné , etc
-etc.Si..donnonsenmandement,par	etc . Si . . donnons en mandement , par
-cespresentes,ànozamezetfeaulxconseillerles	ces presentes , à noz amez et feaulx conseiller les
-genstenanslesrequestesdenostrePalaizà	gens tenans les requestes de nostre Palaiz à
-Parisetàtousnozautresjusticiers,	Paris et à tous noz autres justiciers ,
-etc.DonnéàSaintPoursain	etc . Donné à Saint Poursain
-,lesixiesme	, le sixiesme
-jourd'aoustl	jour d ' aoust l
-'andegracemilcccc.lvii.	' an de grace mil cccc . lvii .
-etdenostrerègnelexxxve.	et de nostre règne le xxxve .
-Ainsisigné:Parleroy,àlarelacion	Ainsi signé : Par le roy , à la relacion
-duconseil.Rolant	du conseil . Rolant
-.—Visa.Contentor.	.— Visa . Contentor .
+,etqu'ilaitfait	, et qu ' il ait fait
+faitgrosseretsignerlesditeslettrespar	fait grosser et signer les dites lettres par
+simplesseetexortaciond'autruyetc.,nous	simplesse et exortacion d ' autruy etc ., nous
+luivueillonsimpartirnostre	lui vueillons impartir nostre
+grace.Pourceest	grace . Pour ce est
+ilquenous,voulansmisericordeprefereràrigueurde	il que nous , voulans misericorde preferer à rigueur de
+justice,auditsuppliant	justice , audit suppliant
+suppliantavonsoucasdessusdit	suppliant avons ou cas dessus dit
+ditquicté,remis	dit quicté , remis
+remisetpardonné,etc.	remis et pardonné , etc .
+Sidonnonsenmandement,parcespresentes,à	Si donnons en mandement , par ces presentes , à
+noz.amezetfeaulxconseillerlesgenstenans	noz . amez et feaulx conseiller les gens tenans
+tenanslesrequestesdenostre	tenans les requestes de nostre
+PalaizàParisetàtous.	Palaiz à Paris et à tous .
+nozautresjusticiers,etc.Donnéà	noz autres justiciers , etc . Donné à
+SaintPoursain,lesixiesme..jourd'aoust	Saint Poursain , le sixiesme . . jour d ' aoust
+l'andegrace	l ' an de grace
+milcccc.	mil cccc .
+.lvii.etdenostrerègnelexxxve.Ainsi	. lvii . et de nostre règne le xxxve . Ainsi
+signé:Parleroy,àlarelaciondu	signé : Par le roy , à la relacion du
+conseil.Rolant.—Visa.Contentor	conseil . Rolant .— Visa . Contentor

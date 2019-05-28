@@ -1,136 +1,130 @@
-Charles,par	Charles , par
-lagrace..de	la grace . . de
-deDieuroydeFrance.Savoirfaisonsàtous	de Dieu roy de France . Savoir faisons à tous
-tous,presensetavenir,de.lapartied	tous , presens et avenir , de . la partie d
-'aucunsamischarnelzde	' aucuns amis charnelz de
-deJehanChantrerlejeune,povrehommelaboureur	de Jehan Chantrer le jeune , povre homme laboureur
-,.chargié	, . chargié
-defemmeetdetroispetis	de femme et de trois petis
-petisenfans,delaparroissedeNantuylprèsdeSaint	petis enfans , de la parroisse de Nantuyl près de Saint
-MaixentenPoitou,prisonnierèsprisonsdenostretrès	Maixent en Poitou , prisonnier ès prisons de nostre très
-trèscherettrèsaméonclele	très cher et très amé oncle le
-ducdeBerryenlavillede	duc de Berry en la ville de
-Nyort,nousaesté	Nyort , nous a esté
-exposécomme	exposé comme
-enl'anmilCCCIIIIXX	en l ' an mil CCC IIIIXX
-XIIII,enunjourdePentecouste,.ledit	XIIII , en un jour de Pentecouste , . le dit
-ditJehan..Chantrer,estanten	dit Jehan . . Chantrer , estant en
-lacompaignie	la compaignie
-compaigniedeJehanBeurer,MaixentetGuillaumeChantreretautres	compaignie de Jehan Beurer , Maixent et Guillaume Chantrer et autres
-,sevenoientde	, se venoient de
-esbatreensemblede	esbatre ensemble de
-lafontainedudit	la fontaine du dit
-dit..Nantuyl,	dit . . Nantuyl ,
-eteneulzenvenantdeladictefontainetrouverent	et en eulz en venant de la dicte fontaine trouverent
-ourencontrerent,àheuredejour	ou rencontrerent , à heure de jour
-jourcouchié,ouditvillagedeNantuylprèsd'	jour couchié , ou dit village de Nantuyl près d '
-'uncarrefour,appellé	' un carrefour , appellé
-appelléle..carrefourRapion,	appellé le . . carrefour Rapion ,
-,JehanBoissonneau	, Jehan Boissonneau
-,JehanBabinel	, Jehan Babinel
-etJehanDayal,..lesquelz	et Jehan Dayal , . . les quelz
-semisdrent	se misdrent
-tousensemblepour	tous ensemble pour
-poureulzesbatre,	pour eulz esbatre ,
-,eteulzestansouditcarrefour,Boissonneauetle	, et eulz estans ou dit carrefour , Boissonneau et le
-leditJehanChantrerseassirentàterrepourjouer	le dit Jehan Chantrer se assirent à terre pour jouer
-joueràtireraubaston	jouer à tirer au baston
-,etenjouant	, et en jouant
-jouantauditjeu,leditJehanChantrerleva	jouant audit jeu , ledit Jehan Chantrer leva
-leditBoissonneau,dontyceluiBoissonneauot	le dit Boissonneau , dont ycelui Boissonneau ot
-etprinst	et prinst
-àgrantdesplaisirleditJehan	à grant desplaisir le dit Jehan
-JehanChantrer,endisantàycelui	Jehan Chantrer , en disant à ycelui
-JehanChantrerqu'	Jehan Chantrer qu '
-ilestoitbienfortdel'avoirainsitiré	il estoit bien fort de l ' avoir ainsi tiré
-;etlorsleditJehanChantrerluirespondiparmaniere	; et lors ledit Jehan Chantrer lui respondi par maniere
-d'esbatement:«ores	d ' esbatement :« ores
+Charles,	Charles ,
+parlagracedeDieuroydeFrance	par la grace de Dieu roy de France
+.Savoirfaisonsàtous	. Savoir faisons à tous
+,presenset	, presens et
+avenir,delapartied'aucunsamis	avenir , de la partie d ' aucuns amis
+amischarnelzdeJehanChantrerle..jeune,	amis charnelz de Jehan Chantrer le . . jeune ,
+povrehommelaboureur,chargiédefemmeetde	povre homme laboureur , chargié de femme et de
+troispetisenfans,de	trois petis enfans , de
+delaparroissede..NantuylprèsdeSaintMaixentenPoitou	de la parroisse de . . Nantuyl près de Saint Maixent en Poitou
+,prisonnierès	, prisonnier ès
+èsprisonsdenostretrèscheret	ès prisons de nostre très cher et
+trèsaméoncleleducde	très amé oncle le duc de
+deBerryenlavillede	de Berry en la ville de
+deNyort,nousaestéexposécommeenl	de Nyort , nous a esté exposé comme en l
+'anmilCCC.IIIIXXXIIII,en	' an mil CCC . IIIIXX XIIII , en
+enunjourdePentecouste..,	en un jour de Pentecouste . . ,
+leditJehanChantrer..,estant	le dit Jehan Chantrer . . , estant
+enlacompaigniedeJehanBeurer,	en la compaignie de Jehan Beurer ,
+MaixentetGuillaume	Maixent et Guillaume
+Chantreretautres,sevenoient..de	Chantrer et autres , se venoient . . de
+deesbatreensembledelafontaineduditNantuyl	de esbatre ensemble de la fontaine du dit Nantuyl
+,eteneulzenvenantdeladictefontaine	, et en eulz en venant de la dicte fontaine
+trouverentourencontrerent,à	trouverent ou rencontrerent , à
+heure..dejourcouchié,	heure . . de jour couchié ,
+,ouditvillagedeNantuylprèsd'	, ou dit village de Nantuyl près d '
+'uncarrefour,.appellé	' un carrefour , . appellé
+lecarrefourRapion,JehanBoissonneau	le carrefour Rapion , Jehan Boissonneau
+,JehanBabineletJehan	, Jehan Babinel et Jehan
+Dayal,lesquelz	Dayal , les quelz
+semisdrenttous	se misdrent tous
+ensemblepoureulzesbatre,eteulz	ensemble pour eulz esbatre , et eulz
+eulzestansouditcarrefour,	eulz estans ou dit carrefour ,
+Boissonneauetle.ditJehanChantrerse	Boissonneau et le . dit Jehan Chantrer se
+assirentàterrepourjoueràtireraubaston,	assirent à terre pour jouer à tirer au baston ,
+,etenjouantauditjeu,ledit	, et en jouant audit jeu , ledit
+JehanChantrerlevaledit	Jehan Chantrer leva le dit
+Boissonneau,dontyceluiBoissonneauotet	Boissonneau , dont ycelui Boissonneau ot et
+etprinstàgrantdesplaisirleditJehanChantrer,en	et prinst à grant desplaisir le dit Jehan Chantrer , en
+endisantàyceluiJehanChantrerqu'ilestoit	en disant à ycelui Jehan Chantrer qu ' il estoit
+bienfortdel'avoirainsitiré	bien fort de l ' avoir ainsi tiré
+;etlors..	; et lors . .
+leditJehanChantrer	ledit Jehan Chantrer
+Chantrerluirespondiparmaniere	Chantrer lui respondi par maniere
+d'esbatement:«.ores	d ' esbatement :« . ores
 [tuveux	[ tu veux
-]mocquer.,	] mocquer . ,
-,Boissonneau.»Et	, Boissonneau .» Et
-EttantostleditBoissonneauetJehanChantrerseleverentde	Et tantost ledit Boissonneau et Jehan Chantrer se leverent de
-terreoùilzestoientassiz,	terre où ilz estoient assiz ,
-etdistle..dit	et dist le . . dit
-ditBoissonneauauditJehan..Chantrerqueilne	dit Boissonneau au dit Jehan . . Chantrer que il ne
-vouloitpointqueill'appellastBoissonneau	vouloit point que il l ' appellast Boissonneau
-.Aquoyle	. A quoy le
-ditJehanChantrerluidist	dit Jehan Chantrer lui dist
-dist:«orestbien»,ouparolessemblablesen	dist :« or est bien », ou paroles semblables en
-substance;	substance ;
-etadont	et adont
-leditBoissonneaucommençaàparlerbas	le dit Boissonneau commença à parler bas
-basoumurmurercontreledit	bas ou murmurer contre le dit
-JehanChantrer,en	Jehan Chantrer , en
-prenantle	prenant le
-bastonàquoyilzavoientainsi	baston à quoy ilz avoient ainsi
-ainsi.jouéàtirer,etenfrappaycelui	ainsi . joué à tirer , et en frappa ycelui
-JehanChantrersurlateste,etlorsledit	Jehan Chantrer sur la teste , et lors le dit
-ditJehanChantrer,	dit Jehan Chantrer ,
-soysentantainsiestreferuetinjurié,doubtantque	soy sentant ainsi estre feru et injurié , doubtant que
-leditBoissonneaun'eust	le dit Boissonneau n ' eust
-eustledessusdelui,etcomme	eust le dessus de lui , et comme
-courciéetindignéqu	courcié et indigné qu
-qu'ilestoitdece,et	qu ' il estoit de ce , et
-aussipour	aussi pour
-escheveràlamalevolontéduditBoissonneau	eschever à la male volonté du dit Boissonneau
-,..sachaunpetitcoustel	, . . sacha un petit coustel
-àtaillerpain	à tailler pain
-qu'ilavoitet	qu ' il avoit et
-etencuidaferirledit	et en cuida ferir le dit
-Boissonneauparlajoe;etainsiqueyceluiBoissonneau	Boissonneau par la joe ; et ainsi que ycelui Boissonneau
-Boissonneauvitvenirle	Boissonneau vit venir le
-copduditJehanChantrer,iltourna	cop du dit Jehan Chantrer , il tourna
-satesteàl'autre	sa teste à l ' autre
-part,etparainsilecopdu	part , et par ainsi le cop du
-ditcousteldescendienvironlagorgeet	dit coustel descendi environ la gorge et
-l'espaule	l ' espaule
-espauledudit..Boissonneautelementqued	espaule du dit . . Boissonneau telement que d
-'iceluicopainsi	' icelui cop ainsi
-faitparle..	fait par le . .
-.ditJehan.Chantrer,qui	. dit Jehan . Chantrer , qui
-fucommeglichant,le	fu comme glichant , le
-ditBoissonneaualadevieàtrespassementla	dit Boissonneau ala de vie à trespassement la
-dictenuyt;pourlequelcas	dicte nuyt ; pour lequel cas
-leditJehanChantrer,	le dit Jehan Chantrer ,
-,doubtantrigueurdejustice	, doubtant rigueur de justice
-justice,seabsentadupaïs.Et	justice , se absenta du païs . Et
-depuis,environPasquesderrenierpassé,vintenla	depuis , environ Pasques derrenier passé , vint en la
-villedeNyort,enlaquelle	ville de Nyort , en la quelle
-ilfupris	il fu pris
-prisetarrestéprisonnierès	pris et arresté prisonnier ès
-èsprisonsdenostreditoncle,ès.quellesprisons	ès prisons de nostre dit oncle , ès . quelles prisons
-prisonsilatousjoursdepuisestéetest	prisons il a tousjours depuis esté et est
-estengrantmisereetpovreté,etenaventurede	est en grant misere et povreté , et en aventure de
-mourirvituperement.	mourir vituperement .
-.Sinousontsesdizamistrès	. Si nous ont ses diz amis très
-humblementfaitrequerirque	humblement fait requerir que
-que,commeleditJehanChantreraittoutsontemps	que , comme le dit Jehan Chantrer ait tout son temps
-tempsestéetsoitde	temps esté et soit de
-bonnevie,renomméeethonesteconversacion	bonne vie , renommée et honeste conversacion
-,sanzavoir	, sanz avoir
-estéreprins,actaintne	esté reprins , actaint ne
-convaincud.'aucunautre	convaincu d . ' aucun autre
-mauvaisviceou..reprousche,et	mauvais vice ou . . reprousche , et
-queouditfaitledit.Boissonneaufutagresseur	que ou dit fait le dit . Boissonneau fut agresseur
-agresseuretassailleur	agresseur et assailleur
-,commedessus	, comme dessus
-estrecité,nousau	est recité , nous au
-ditJehanChantrervoulsissions..	dit Jehan Chantrer voulsissions . .
-.extendreet	. extendre et
-impartir.nostregrace	impartir . nostre grace
-etmisericorde.	et misericorde .
-.Pourceestilquenous	. Pour ce est il que nous
-adecertes,ceschosesconsiderées	adecertes , ces choses considerées
-,etc.,auditJehanChantrer,	, etc ., au dit Jehan Chantrer ,
-,etc.,avonsquicté,remis..et	, etc ., avons quicté , remis . . et
-pardonné,etc.Sidonnonsenmandementaubailli	pardonné , etc . Si donnons en mandement au bailli
-deTouraineetdesressorset	de Touraine et des ressors et
-Exempcionsd'Anjou,duMaineetdePoitou	Exempcions d ' Anjou , du Maine et de Poitou
-et.àtousnozautresjusticiers,	et . à tous noz autres justiciers ,
-,etc...DonnéàParis,ou	, etc ... Donné à Paris , ou
-moisd'avrill'an.de	mois d ' avril l ' an . de
-degracemil	de grace mil
-milCCCIIIIXX.etseze,etdenostreregnele	mil CCC IIIIXX . et seze , et de nostre regne le
-leXVIe.Parleroy,àlarelacion	le XVIe . Par le roy , à la relacion
-duconseil.	du conseil .
-.Tumery.	. Tumery .
+]mocquer,	] mocquer ,
+,Boissonneau...»Ettantost	, Boissonneau . . .» Et tantost
+leditBoissonneauetJehanChantrerseleverentde	ledit Boissonneau et Jehan Chantrer se leverent de
+terreoùilzestoientassiz,etdist	terre où ilz estoient assiz , et dist
+leditBoissonneauauditJehanChantrer	le dit Boissonneau au dit Jehan Chantrer
+Chantrerqueilnevouloitpointqueill	Chantrer que il ne vouloit point que il l
+l'appellastBoissonneau.Aquoyledit	l ' appellast Boissonneau . A quoy le dit
+JehanChantrerluidist:«orestbien	Jehan Chantrer lui dist :« or est bien
+»,..ouparolessemblablesensubstance;	», . . ou paroles semblables en substance ;
+etadontledit	et adont le dit
+Boissonneaucommençaàparlerbasoumurmurercontreledit	Boissonneau commença à parler bas ou murmurer contre le dit
+JehanChantrer,enprenantlebastonàquoyilz	Jehan Chantrer , en prenant le baston à quoy ilz
+avoientainsijouéàtirer,etenfrappaycelui	avoient ainsi joué à tirer , et en frappa ycelui
+yceluiJehanChantrer.sur	ycelui Jehan Chantrer . sur
+surlateste,etlorsleditJehan	sur la teste , et lors le dit Jehan
+Chantrer,soysentantainsiestre	Chantrer , soy sentant ainsi estre
+feru..etinjurié,doubtantque	feru . . et injurié , doubtant que
+leditBoissonneaun'eustledessusdelui	le dit Boissonneau n ' eust le dessus de lui
+,etcomme	, et comme
+commecourciéetindignéqu'ilestoit	comme courcié et indigné qu ' il estoit
+dece..,et	de ce . . , et
+aussipourescheveràlamalevolontédudit	aussi pour eschever à la male volonté du dit
+Boissonneau,sachaunpetitcoustelà	Boissonneau , sacha un petit coustel à
+taillerpainqu'ilavoitetencuidaferir	tailler pain qu ' il avoit et en cuida ferir
+leditBoissonneau..parlajoe	le dit Boissonneau . . par la joe
+;etainsique	; et ainsi que
+yceluiBoissonneauvit	ycelui Boissonneau vit
+venirlecopduditJehanChantrer	venir le cop du dit Jehan Chantrer
+,iltourna	, il tourna
+satesteàl'autrepart	sa teste à l ' autre part
+part,etparainsile	part , et par ainsi le
+copduditcousteldescendi	cop du dit coustel descendi
+environlagorgeet	environ la gorge et
+etl'.espaule	et l ' . espaule
+du..ditBoissonneau	du . . dit Boissonneau
+telementqued'iceluicopainsi..fait	telement que d ' icelui cop ainsi . . fait
+parleditJehanChantrer,quifucommeglichant	par le dit Jehan Chantrer , qui fu comme glichant
+glichant,le	glichant , le
+leditBoissonneaualadevieàtrespassementladicte	le dit Boissonneau ala de vie à trespassement la dicte
+nuyt;pourlequelcas	nuyt ; pour lequel cas
+casledit	cas le dit
+JehanChantrer,doubtantrigueurde	Jehan Chantrer , doubtant rigueur de
+dejustice,seabsentadupaïs.	de justice , se absenta du païs .
+Etdepuis,environ	Et depuis , environ
+environPasquesderrenierpassé,vint	environ Pasques derrenier passé , vint
+enlavilledeNyort,enla	en la ville de Nyort , en la
+quelleilfu.prisetarrestéprisonnierèsprisons	quelle il fu . pris et arresté prisonnier ès prisons
+denostreditoncle,èsquellesprisonsila	de nostre dit oncle , ès quelles prisons il a
+atousjoursdepuisesté	a tousjours depuis esté
+etestengrantmisereetpovreté,	et est en grant misere et povreté ,
+etenaventuredemourirvituperement.Sinousont	et en aventure de mourir vituperement . Si nous ont
+sesdizamis	ses diz amis
+trèshumblementfaitrequerirque,	très humblement fait requerir que ,
+commeleditJehan	comme le dit Jehan
+Chantreraittout	Chantrer ait tout
+toutsontempsestéetsoitde	tout son temps esté et soit de
+bonnevie	bonne vie
+vie,renommée	vie , renommée
+renomméeethonesteconversacion,	renommée et honeste conversacion ,
+sanzavoir..estéreprins,actaintneconvaincud'	sanz avoir . . esté reprins , actaint ne convaincu d '
+aucunautremauvaisvice	aucun autre mauvais vice
+viceoureprousche,et	vice ou reprousche , et
+queouditfaitleditBoissonneau	que ou dit fait le dit Boissonneau
+futagresseuretassailleur,commedessusest	fut agresseur et assailleur , comme dessus est
+recité,.	recité , .
+nousauditJehanChantrervoulsissionsextendreetimpartir	nous au dit Jehan Chantrer voulsissions extendre et impartir
+nostregraceetmisericorde.	nostre grace et misericorde .
+Pourceest	Pour ce est
+ilquenousadecertes,ceschosesconsiderées,etc	il que nous adecertes , ces choses considerées , etc
+etc.,au	etc ., au
+auditJehanChantrer,etc.,avonsquicté,remis	au dit Jehan Chantrer , etc ., avons quicté , remis
+etpardonné,etc.Si.	et pardonné , etc . Si .
+donnonsen.mandementau	donnons en . mandement au
+baillideTouraineet	bailli de Touraine et
+desressorsetExempcionsd'	des ressors et Exempcions d '
+'Anjou..,duMaineet	' Anjou . . , du Maine et
+dePoitouetàtousnoz.	de Poitou et à tous noz .
+autresjusticiers	autres justiciers
+,etc...	, etc ...
+DonnéàParis,oumois	Donné à Paris , ou mois
+d'avrill'andegracemil	d ' avril l ' an de grace mil
+CCCIIIIXXetseze,et	CCC IIIIXX et seze , et
+denostreregneleXVIe	de nostre regne le XVIe
+.Parleroy,à	. Par le roy , à
+larelacionduconseil.Tumery.	la relacion du conseil . Tumery .

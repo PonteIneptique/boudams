@@ -1,83 +1,72 @@
 Philippes,par	Philippes , par
-lagracedeDieu	la grace de Dieu
-,roysde	, roys de
-France...Savoirfaisonsàtouz,presenzet	France . . . Savoir faisons à touz , presenz et
-avenir,queenpure	avenir , que en pure
-pureetperpetuelleaumosne	pure et perpetuelle aumosne
-,denostre	, de nostre
-nostre.graceespecial,	nostre . grace especial ,
-nousavonsdonnéetdonnons	nous avons donné et donnons
-auprieur	au prieur
-del'egliseNostreDamedePlaisance	de l ' eglise Nostre Dame de Plaisance
-,pourluietpourses	, pour lui et pour ses
-successeurs,prieursdu	successeurs , prieurs du
-ditlieu,ladisme	dit lieu , la disme
-quenous	que nous
-avonsenla	avons en la
-lavilleetparroche	la ville et parroche
-dePierresac,laquellevaut	de Pierresac , laquelle vaut
-chascunanenvironxxij.	chascun an environ xxij .
-.sestiersdeblé,que	. sestiers de blé , que
-fourmentqueseigle,etaveccesixsestiers	fourment que seigle , et avec ce six sestiers
-debléappartenantàla	de blé appartenant à la
-ditedisme	dite disme
-,prisenladitevilleet	, pris en la dite ville et
-parroissedePierresac.	parroisse de Pierresac .
-.;etpuettoutvaloirenvironhuitlivrestournois	. ; et puet tout valoir environ huit livres tournois
-tournoischascunan	tournois chascun an
-an,àtenirduditprieuretdeses	an , à tenir du dit prieur et de ses
-dizsuccesseursàtouzjoursmaiz,ounon	diz successeurs à touz jours maiz , ou non
-deladiteeglise,	de la dite eglise ,
-,etàrecevoir	, et à recevoir
-recevoirpaisiblementdoresenavant	recevoir paisiblement dores en avant
-avant,sanz.aucunempeschementoucontredit,sicomme	avant , sanz . aucun empeschement ou contredit , si comme
-nozgenzlesrecevoient..pour	noz genz les recevoient . . pour
-pournous,sanzcequeleditprieurne	pour nous , sanz ce que le dit prieur ne
-sessuccesseurssoientcontraintàenpaierfinance,	ses successeurs soient contraint à en paier finance ,
-,ouàlesvendreoumettrehorsdeleur	, ou à les vendre ou mettre hors de leur
-mainenaucuntemps.Etcommepourlesalut	main en aucun temps . Et comme pour le salut
-denostreameetdesamesdenostre	de nostre ame et des ames de nostre
-chierecompaigneetdeJehannostre..	chiere compaigne et de Jehan nostre . .
-filz,leditprieurnousait	filz , le dit prieur nous ait
-aitoctroiéde.	ait octroié de .
-.sapurevolenté,pourlietpour	. sa pure volenté , pour li et pour
-sesdiz..successeursprieurs,troizmessesdeNostre	ses diz . . successeurs prieurs , troiz messes de Nostre
-NostreDame,chascune	Nostre Dame , chascune
-sepmaine,tant	sepmaine , tant
-commenousvivrons,et,aprèsnostredecès	comme nous vivrons , et , après nostre decès
-,deRequiem,à	, de Requiem , à
-àfairecelebrerperpetuelmentenladiteeglise,nouscest	à faire celebrer perpetuelment en la dite eglise , nous cest
-cestesperituelbeneficeoudonavonsaccepté,	cest esperituel benefice ou don avons accepté ,
-requeranzleditprieuretsesdiz	requeranz le dit prieur et ses diz
-successeursque,sicommegracieusement	successeurs que , si comme gracieusement
-gracieusementnousontoctroiele	gracieusement nous ont octroie le
-ditbenefice,le..veillentfaireetaccomplir	dit benefice , le . . veillent faire et accomplir
-,chascunan	, chascun an
-,..diliganment	, . . diliganment
-diliganmentetdevotement.Etnous	diliganment et devotement . Et nous
-donnonsenmandementauseneschaletreceveurde	donnons en mandement au seneschal et receveur de
-Poitouet.à	Poitou et . à
-àchascund..	à chascun d . .
-.'eulzque..de	. ' eulz que . . de
-deladitedisme,aveclesdizsixsestiers	de la dite disme , avec les diz six sestiers
-sestiersdebléàycelleappartenanz,baillent.	sestiers de blé à ycelle appartenanz , baillent .
-.tantostlasaisineauditprieur,etl'	. tantost la saisine au dit prieur , et l '
-enfacentjoirpaisiblement..	en facent joir paisiblement . .
-doresen.avantetses	dores en . avant et ses
-sesdizsuccesseurs,etànosgenzdescomptes	ses diz successeurs , et à nos genz des comptes
-àParis,queyceusostentdenostre	à Paris , que yceus ostent de nostre
-demaine..et	demaine . . et
-etendeschargentdu	et en deschargent du
-toutlesdiz	tout les diz
-seneschalet	seneschal et
-receveur,quisontà	receveur , qui sont à
-present,etceusqui	present , et ceus qui
-quipourletempsavenir.seront.Etquecesoit	qui pour le temps avenir . seront . Et que ce soit
-fermeetestableàtouzjours	ferme et estable à touz jours
-maiz,nous	maiz , nous
-avons..faitmettrenostreseelenceslettres.Donné	avons . . fait mettre nostre seel en ces lettres . Donné
-auditlieudePlaisance	au dit lieu de Plaisance
-,l'andegracemil.ccc.trente	, l ' an de grace mil . ccc . trente
-trenteetcinq,	trente et cinq ,
-oumoisde	ou mois de
+parla.gracedeDieu	par la . grace de Dieu
+Dieu,roysdeFrance	Dieu , roys de France
+.Savoirfaisonsà	. Savoir faisons à
+àtouz,presenzetavenir,que	à touz , presenz et avenir , que
+enpureetperpetuelleaumosne,denostregraceespecial	en pure et perpetuelle aumosne , de nostre grace especial
+,nousavonsdonnéetdonnonsauprieurdel	, nous avons donné et donnons au prieur de l
+'egliseNostreDame	' eglise Nostre Dame
+dePlaisance,pourluietpoursessuccesseurs	de Plaisance , pour lui et pour ses successeurs
+successeurs,prieursdudit.lieu,ladismeque	successeurs , prieurs du dit . lieu , la disme que
+nousavonsenlavilleetparrochedePierresac,	nous avons en la ville et parroche de Pierresac ,
+laquellevautchascunan	laquelle vaut chascun an
+environxxij...sestiers	environ xxij . . . sestiers
+sestiersdeblé,quefourmentqueseigle,	sestiers de blé , que fourment que seigle ,
+etavecce	et avec ce
+sixsestiersdebléappartenantàladitedisme,	six sestiers de blé appartenant à la dite disme ,
+prisenladite	pris en la dite
+villeetparroissedePierresac	ville et parroisse de Pierresac
+Pierresac;etpuettoutvaloirenviron	Pierresac ; et puet tout valoir environ
+environhuitlivrestournoischascunan,à	environ huit livres tournois chascun an , à
+tenirduditprieur	tenir du dit prieur
+prieuretdesesdiz	prieur et de ses diz
+dizsuccesseursàtouzjoursmaiz,ounonde	diz successeurs à touz jours maiz , ou non de
+laditeeglise,et	la dite eglise , et
+àrecevoirpaisiblementdoresenavant,sanzaucun	à recevoir paisiblement dores en avant , sanz aucun
+empeschementoucontredit.,si	empeschement ou contredit . , si
+sicommenozgenzlesrecevoientpournous,sanz	si comme noz genz les recevoient pour nous , sanz
+sanzcequeleditprieurneses	sanz ce que le dit prieur ne ses
+sessuccesseurs.soientcontraintàenpaier	ses successeurs . soient contraint à en paier
+finance,ou	finance , ou
+ouàlesvendreoumettrehors	ou à les vendre ou mettre hors
+deleurmain	de leur main
+enaucuntemps	en aucun temps
+temps..Etcommepourle	temps . . Et comme pour le
+salutdenostreameetdesamesde	salut de nostre ame et des ames de
+denostrechierecompaigneet	de nostre chiere compaigne et
+deJehannostrefilz,leditprieur	de Jehan nostre filz , le dit prieur
+prieurnousaitoctroiédesapurevolenté,	prieur nous ait octroié de sa pure volenté ,
+,pourlietpoursesdizsuccesseurs	, pour li et pour ses diz successeurs
+successeursprieurs,troizmessesdeNostreDame,	successeurs prieurs , troiz messes de Nostre Dame ,
+chascunesepmaine,tantcommenousvivrons,et,	chascune sepmaine , tant comme nous vivrons , et ,
+aprèsnostredecès,.deRequiem,àfairecelebrer	après nostre decès , . de Requiem , à faire celebrer
+perpetuelmentenladiteeglise	perpetuelment en la dite eglise
+,nouscestesperituelbeneficeoudonavons	, nous cest esperituel benefice ou don avons
+accepté,requeranzledit	accepté , requeranz le dit
+prieuretsesdizsuccesseursque,	prieur et ses diz successeurs que ,
+,sicommegracieusementnousontoctroiele	, si comme gracieusement nous ont octroie le
+ditbenefice	dit benefice
+benefice,leveillentfaireetaccomplir,chascunan,	benefice , le veillent faire et accomplir , chascun an ,
+diliganmentetdevotement.Etnousdonnonsenmandement	diliganment et devotement . Et nous donnons en mandement
+auseneschaletreceveurdePoitouetàchascund	au seneschal et receveur de Poitou et à chascun d
+'eulzquedeladitedisme,avec	' eulz que de la dite disme , avec
+lesdizsixsestiersdebléà.ycelleappartenanz	les diz six sestiers de blé à . ycelle appartenanz
+,baillenttantostlasaisineau	, baillent tantost la saisine au
+ditprieur,etl	dit prieur , et l
+l'enfacentjoir.paisiblementdoresen	l ' en facent joir . paisiblement dores en
+avantetsesdizsuccesseurs,et	avant et ses diz successeurs , et
+ànosgenzdescomptesà	à nos genz des comptes à
+àParis,queyceusostent	à Paris , que yceus ostent
+denostredemaineet	de nostre demaine et
+endeschargentdutoutlesdizseneschaletreceveur	en deschargent du tout les diz seneschal et receveur
+,quisontàpresent	, qui sont à present
+present,etceus	present , et ceus
+ceusquipourle.tempsavenirseront	ceus qui pour le . temps avenir seront
+.Etque.cesoitfermeetestable	. Et que . ce soit ferme et estable
+àtouzjoursmaiz,nous	à touz jours maiz , nous
+nousavonsfaitmettrenostre	nous avons fait mettre nostre
+nostreseelences	nostre seel en ces
+lettres.DonnéauditlieudePlaisance,l	lettres . Donné au dit lieu de Plaisance , l
+'andegracemilccc.trenteetcinq	' an de grace mil ccc . trente et cinq
+,oumoisde	, ou mois de
 dedecembre.Parleroy.Barriere	de decembre . Par le roy . Barriere

@@ -1,47 +1,48 @@
 Jehan,ainsné	Jehan , ainsné
-filzetlieu	filz et lieu
-tenantduroydeFrance,ducdeNormandie	tenant du roy de France , duc de Normandie
-etdeGuyenne,.	et de Guyenne , .
-.contede	. conte de
-Poitou,d'Anjou	Poitou , d ' Anjou
-etduMaine..Savoirfaisonsàtouz,	et du Maine . . Savoir faisons à touz ,
-,presenzetavenir.	, presenz et avenir .
-,nousavoirveuleslettrescontenanslaformequi	, nous avoir veu les lettres contenans la forme qui
-s..'ensuit:Alfons	s . . ' ensuit : Alfons
-,fyuzduroydeFrance,coeinsdePoitiers	, fyuz du roy de France , coeins de Poitiers
-etde.Tholose,à	et de . Tholose , à
-touzceulzqui..ces	touz ceulz qui . . ces
-cespresenteslettresverront,salutennostreSeigneur	ces presentes lettres verront , salut en nostre Seigneur
-.Nousfesonsàsavoiràtouz..quenousavons	. Nous fesons à savoir à touz . . que nous avons
-donnéetoctroié.ànostreaméetfeal	donné et octroié . à nostre amé et feal
-fealJohandeNantuel,chevalier	feal Johan de Nantuel , chevalier
-,seigneurdeTorz,etàHynde,	, seigneur de Torz , et à Hynde ,
-,safame..	, sa fame . .
-,etausheirsdeycelleHynde,marchiéà	, et aus heirs de ycelle Hynde , marchié à
-Forz,.sauve	Forz , . sauve
-nostredroitureetl'autruy.Etentesmoing	nostre droiture et l ' autruy . Et en tesmoing
-tesmoingdecestechose,nousavonsfaitcezpresenteslettres	tesmoing de ceste chose , nous avons fait cez presentes lettres
-seellerdenostre	seeller de nostre
-seel.Cefufait	seel . Ce fu fait
-enl'andel'Incarnacion	en l ' an de l ' Incarnacion
-nostreSeigneurmilcc	nostre Seigneur mil cc
-cc.etsexantediz,lemercredi	cc . et sexante diz , le mercredi
-prochainaprèslafestesaint	prochain après la feste saint
-JehanBaptiste.Nous	Jehan Baptiste . Nous
-Nousadecerteslesditeslettresettoutesleschosescontenues	Nous adecertes les dites lettres et toutes les choses contenues
-enycellesaiansaggreables,ycellesvoulons..,	en ycelles aians aggreables , ycelles voulons . . ,
-loons,approuvons	loons , approuvons
-,ratifionsetde	, ratifions et de
-graceespecialpar	grace especial par
-ceslettresconfermons.Saufenautreschoses	ces lettres confermons . Sauf en autres choses
-nostredroitetentoutesl'	nostre droit et en toutes l '
-'autruy.Etquecesoit	' autruy . Et que ce soit
-soitfermeetestable	soit ferme et estable
-àtouzjours,..nousavons	à touz jours , . . nous avons
-avonsfaitmettrenostreseelà	avons fait mettre nostre seel à
-ceslettres	ces lettres
-.DonnéàPoytiers,	. Donné à Poytiers ,
-l'an..degrace	l ' an . . de grace
-milccc.xl.etcinq	mil ccc . xl . et cinq
-cinq,oumoisdeseptembre.Par.monseigneur	cinq , ou mois de septembre . Par . monseigneur
-leduc,àvostrerelacion.Clavel.	le duc , à vostre relacion . Clavel .
+filzetlieutenantduroydeFrance	filz et lieu tenant du roy de France
+France,ducdeNormandieetdeGuyenne,conte	France , duc de Normandie et de Guyenne , conte
+dePoitou,d'Anjou	de Poitou , d ' Anjou
+etduMaine.Savoirfaisonsàtouz,presenz	et du Maine . Savoir faisons à touz , presenz
+etavenir..,	et avenir . . ,
+nousavoirveuleslettres	nous avoir veu les lettres
+lettres..contenanslaformequi	lettres . . contenans la forme qui
+s'ensuit:Alfons	s ' ensuit : Alfons
+Alfons,fyuzduroy	Alfons , fyuz du roy
+roydeFrance	roy de France
+France,coeinsdePoitiersetdeTholose,	France , coeins de Poitiers et de Tholose ,
+,àtouzceulz..	, à touz ceulz . .
+quicespresenteslettresverront,saluten	qui ces presentes lettres verront , salut en
+nostreSeigneur.Nousfesonsàsavoirà	nostre Seigneur . Nous fesons à savoir à
+touzquenousavonsdonnéetoctroié.	touz que nous avons donné et octroié .
+.ànostreamé	. à nostre amé
+etfealJohandeNantuel	et feal Johan de Nantuel
+Nantuel,chevalier,seigneurdeTorz,età	Nantuel , chevalier , seigneur de Torz , et à
+Hynde,sa	Hynde , sa
+fame,etausheirsdeycelle	fame , et aus heirs de ycelle
+Hynde,marchiéà	Hynde , marchié à
+Forz,sauvenostredroitureet	Forz , sauve nostre droiture et
+etl'autruy	et l ' autruy
+autruy.Etentesmoingdecestechose,	autruy . Et en tesmoing de ceste chose ,
+nousavonsfaitcezpresenteslettres.seellerde	nous avons fait cez presentes lettres . seeller de
+nostreseel.Ce	nostre seel . Ce
+fufaitenl'andel	fu fait en l ' an de l
+'IncarnacionnostreSeigneurmilcc..et	' Incarnacion nostre Seigneur mil cc . . et
+sexantediz,	sexante diz ,
+lemercrediprochainaprèslafestesaint	le mercredi prochain après la feste saint
+JehanBaptiste.Nousadecerteslesditeslettresettoutes	Jehan Baptiste . Nous adecertes les dites lettres et toutes
+toutes..leschosescontenuesenycellesaiansaggreables,ycellesvoulons	toutes . . les choses contenues en ycelles aians aggreables , ycelles voulons
+,loons,..	, loons , . .
+approuvons,ratifionsetdegraceespecialparceslettres	approuvons , ratifions et de grace especial par ces lettres
+lettresconfermons.Saufenautres	lettres confermons . Sauf en autres
+chosesnostredroitetentoutes	choses nostre droit et en toutes
+l'autruy.Et	l ' autruy . Et
+quecesoit	que ce soit
+soitfermeetestableà	soit ferme et estable à
+touzjours,nous	touz jours , nous
+avonsfaitmettre.nostreseelàces	avons fait mettre . nostre seel à ces
+lettres..Donné	lettres . . Donné
+àPoytiers,l	à Poytiers , l
+'andegracemilccc.	' an de grace mil ccc .
+xl.etcinq,oumoisdeseptembre.	xl . et cinq , ou mois de septembre .
+Parmonseigneurleduc,àvostre	Par monseigneur le duc , à vostre
+relacion.Clavel.	relacion . Clavel .

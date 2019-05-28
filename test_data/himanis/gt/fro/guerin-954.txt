@@ -1,112 +1,119 @@
-Charles,filz..du	Charles , filz . . du
-roydeFrance,regentleroyaume	roy de France , regent le royaume
-royaume,daulphindeViennois	royaume , daulphin de Viennois
-Viennois,ducdeBerry,	Viennois , duc de Berry ,
-deTouraineet..conte	de Touraine et . . conte
-dePoictou,auseneschaldePoictouou	de Poictou , au seneschal de Poictou ou
-àsonlieutenantetàtousnozautresofficiers	à son lieutenant et à tous noz autres officiers
-etjusticiersduditpaïs,salutetdilection.	et justiciers du dit païs , salut et dilection .
-.Commejàpieçà,..pourcequ’ilvint	. Comme jà pieçà , . . pour ce qu ’ il vint
-ànostrecongnoissancequetrèsgrantquantitédemarchans	à nostre congnoissance que très grant quantité de marchans
-etautreslevoient,	et autres levoient ,
-menoientettransportoient	menoient et transportoient
-horsdenostrepaïsdePoictou	hors de nostre païs de Poictou
-trèsgrantquantitédeblez,ettelementque,	très grant quantité de blez , et telement que ,
-sebriefremede	se brief remede
-n’yeustestémis,nostreditpaïs	n ’ y eust esté mis , nostre dit païs
-dePoictouetnozbonset	de Poictou et noz bons et
-loyaulxsubgiezd’.	loyaulx subgiez d ’ .
-iceluieussentestéengrantnecessité	icelui eussent esté en grant necessité
-necessitédeblez,eussionsoctroiéesnozlettresàvousadreçans	necessité de blez , eussions octroiées noz lettres à vous adreçans
-,par.vertudesquellesvousfeistesfaireladefenseen	, par . vertu desquelles vous feistes faire la defense en
-nostreditpaïsdePoictou	nostre dit païs de Poictou
-etès..extremitezd’icellui,de	et ès . . extremitez d ’ icellui , de
+Charles,filzduroyde	Charles , filz du roy de
+France,regent	France , regent
+leroyaume,daulphin..deViennois,ducde	le royaume , daulphin . . de Viennois , duc de
+Berry,deTouraineetcontedePoictou,au	Berry , de Touraine et conte de Poictou , au
+seneschalde..	seneschal de . .
+.Poictououàsonlieutenantetà	. Poictou ou à son lieutenant et à
+tousnozautres	tous noz autres
+officiersetjusticiersdu.ditpaïs	officiers et justiciers du . dit païs
+,salutetdilection.Commejà	, salut et dilection . Comme jà
+pieçà,pource	pieçà , pour ce
+qu’ilvintànostrecongnoissance	qu ’ il vint à nostre congnoissance
+quetrèsgrantquantité	que très grant quantité
+demarchans	de marchans
+etautreslevoient,menoientettransportoienthorsde	et autres levoient , menoient et transportoient hors de
+nostrepaïsdePoictoutrèsgrantquantitédeblez	nostre païs de Poictou très grant quantité de blez
+,ettelement	, et telement
+que,sebriefremeden’y	que , se brief remede n ’ y
+eustestémis,nostreditpaïsdePoictou	eust esté mis , nostre dit païs de Poictou
+etnozbonsetloyaulx	et noz bons et loyaulx
+subgiezd’iceluieussentestéengrantnecessitéde	subgiez d ’ icelui eussent esté en grant necessité de
+blez,eussions	blez , eussions
+octroiéesnoz	octroiées noz
+nozlettresà.vousadreçans	noz lettres à . vous adreçans
+,..parvertudesquellesvousfeistesfaireladefenseen	, . . par vertu desquelles vous feistes faire la defense en
+ennostreditpaïsde	en nostre dit païs de
+dePoictouetèsextremitezd’icellui,de	de Poictou et ès extremitez d ’ icellui , de
 parmondit	par mon dit
-ditseigneuretdeparnous,queaucun..,de	dit seigneur et de par nous , que aucun . . , de
-quelqueauctorité	quelque auctorité
-auctoritéqu’il	auctorité qu ’ il
-feust,ne	feust , ne
-transportastnefeisttransporternemeneraucuns	transportast ne feist transporter ne mener aucuns
-aucunsblezhors..dudit	aucuns blez hors . . du dit
-païsdePoictou,surpeinedeconfiscaciondu	païs de Poictou , sur peine de confiscacion du
-dubléetd’amende	du blé et d ’ amende
-arbitraire.Nonobstans	arbitraire . Non obstans
-lesquellesdefenses,	lesquelles defenses ,
-plusieurspersonnes.,tant	plusieurs personnes . , tant
-tantduditpaïsdePoictoucommeautres,.	tant du dit païs de Poictou comme autres , .
-.dejourenjourtransportentetfonttransportertrèsgrant	. de jour en jour transportent et font transporter très grant
-quantité.deblezduditpaïsdePoictou,	quantité . de blez du dit païs de Poictou ,
-etlesfont	et les font
-fontchargerèsrivieresdelaCharanteetde	font charger ès rivieres de la Charante et de
-laGironde,dontnozennemisanciens	la Gironde , dont noz ennemis anciens
-etautresestrangiersdeceroyaumesontetpevent	et autres estrangiers de ce royaume sont et pevent
-estreavitaillez,etnostreditpaïsde	estre avitaillez , et nostre dit païs de
-Poictouet..lessubgiezd’iceluidespourveuz	Poictou et . . les subgiez d ’ icelui despourveuz
-despourveuzetdesnuezde	despourveuz et desnuez de
-blezet..devivres	blez et . . de vivres
-,dontsont	, dont sont
-sontetpourroientensuirinconveniensirreparables,se	sont et pourroient ensuir inconveniens irreparables , se
+ditseigneuretdepar	dit seigneur et de par
+nous,queaucun,	nous , que aucun ,
+dequelque	de quelque
+auctoritéqu’ilfeust,netransportastnefeist	auctorité qu ’ il feust , ne transportast ne feist
+feisttransporterne.meneraucuns	feist transporter ne . mener aucuns
+blezhors	blez hors
+duditpaïsdePoictou	du dit païs de Poictou
+Poictou,surpeinedeconfiscaciondu	Poictou , sur peine de confiscacion du
+bléetd’	blé et d ’
+amendearbitraire.Nonobstanslesquelles	amende arbitraire . Non obstans lesquelles
+defenses,	defenses ,
+,plusieurspersonnes,tantduditpaïsdePoictoucomme	, plusieurs personnes , tant du dit païs de Poictou comme
+autres,dejour	autres , de jour
+enjourtransportentetfonttransporter	en jour transportent et font transporter
+trèsgrantquantitédeblez..duditpaïsde	très grant quantité de blez . . du dit païs de
+Poictou,etlesfontchargerèsrivieres	Poictou , et les font charger ès rivieres
+rivieresdelaCharanteetdelaGironde,dontnoz	rivieres de la Charante et de la Gironde , dont noz
+ennemisanciensetautresestrangiersde	ennemis anciens et autres estrangiers de
+ceroyaumesontetpevent	ce royaume sont et pevent
+estreavitaillez,etnostreditpaïs	estre avitaillez , et nostre dit païs
+de.Poictouetlessubgiezd	de . Poictou et les subgiez d
+’icelui	’ icelui
+despourveuzetdesnuezdeblezetdevivres	despourveuz et desnuez de blez et de vivres
+,dontsontetpourroientensuir	, dont sont et pourroient ensuir
+ensuirinconveniensirreparables	ensuir inconveniens irreparables
+irreparables,se	irreparables , se
 briefmentethastivementn’yestoitpourveu.Pour	briefment et hastivement n ’ y estoit pourveu . Pour
-Pourquoy..nous	Pour quoy . . nous
-nous,ceschosesconsiderées..,desiransde	nous , ces choses considerées . . , desirans de
-toutnostrecuerlaconservacion	tout nostre cuer la conservacion
-denostredit	de nostre dit
-païsdePoictou..	païs de Poictou . .
-etdessubgiezd’icelui,	et des subgiez d ’ icelui ,
-etobvierausdiz	et obvier aus diz
-dizinconveniens,vousmandons,commandonsetàchascun	diz inconveniens , vous mandons , commandons et à chascun
-de.voustrèsestroictementenjoingnons,encommettant	de . vous très estroictement enjoingnons , en commettant
-commettant,semestierest,	commettant , se mestier est ,
-,quetantostet	, que tantost et
-ethastivement,ceslettres	et hastivement , ces lettres
-veues,vousfaictesetfaictesfaire	veues , vous faictes et faictes faire
-defensedeparmonditseigneur..etdeparnous	defense de par mondit seigneur . . et de par nous
-,parcrypublique,entoutesles	, par cry publique , en toutes les
-villesnotablesduditpaïs	villes notables du dit païs
-etextremitezd’	et extremitez d ’
-’icelui,etailleursoùvousverrezestreàfaire	’ icelui , et ailleurs où vous verrez estre à faire
-,àtoutespersonnes.,dequelqueauctoritéqu	, à toutes personnes . , de quelque auctorité qu
-’ilzsoient,qu’ilznemainent	’ ilz soient , qu ’ ilz ne mainent
-,transportentnefacentous’	, transportent ne facent ou s ’
-efforcentmeneroutransporterhorsdenostreditpaïs	efforcent mener ou transporter hors de nostre dit païs
-païsdePoictouaucunsblez,surpainede	païs de Poictou aucuns blez , sur paine de
-deencourirnostreindignacion,deconfiscaciondesdenrées	de encourir nostre indignacion , de confiscacion des denrées
-,deschevauxetharnoizqui	, des chevaux et harnoiz qui
-lesmenroient,etsurpeined’	les menroient , et sur peine d ’
-amendearbitraire..	amende arbitraire . .
-.Etoultrecommettez,	. Et oultre commettez ,
+quoynous,ceschosesconsiderées,desiransde	quoy nous , ces choses considerées , desirans de
+toutnostrecuerlaconservaciondenostre	tout nostre cuer la conservacion de nostre
+ditpaïsdePoictou	dit païs de Poictou
+Poictouetdessubgiezd’icelui,etobvier	Poictou et des subgiez d ’ icelui , et obvier
+ausdizinconveniens	aus diz inconveniens
+,vousmandons,commandons.età	, vous mandons , commandons . et à
+chascundevoustrèsestroictementenjoingnons	chascun de vous très estroictement enjoingnons
+,encommettant	, en commettant
+,semestierest,..quetantostethastivement	, se mestier est , . . que tantost et hastivement
+,ceslettresveues,	, ces lettres veues ,
+,vousfaicteset	, vous faictes et
+faictesfairedefense.deparmonditseigneur	faictes faire defense . de par mondit seigneur
+seigneuretdeparnous,parcrypublique,	seigneur et de par nous , par cry publique ,
+entouteslesvillesnotables	en toutes les villes notables
+duditpaïsetextremitezd’.icelui	du dit païs et extremitez d ’ . icelui
+icelui,etailleursoùvousverrezestre	icelui , et ailleurs où vous verrez estre
+àfaire,	à faire ,
+àtoutespersonnes,dequelqueauctoritéqu’	à toutes personnes , de quelque auctorité qu ’
+ilzsoient,qu’	ilz soient , qu ’
+ilznemainent	ilz ne mainent
+,transportentnefacentous’efforcent	, transportent ne facent ou s ’ efforcent
+menerou..transporterhorsdenostreditpaïs	mener ou . . transporter hors de nostre dit païs
+dePoictouaucuns.blez,surpainedeencourirnostre	de Poictou aucuns . blez , sur paine de encourir nostre
+indignacion,deconfiscaciondesdenrées,deschevaux	indignacion , de confiscacion des denrées , des chevaux
+etharnoiz..	et harnoiz . .
+quilesmenroient,et	qui les menroient , et
+surpeined’amendearbitraire.Etoultre	sur peine d ’ amende arbitraire . Et oultre
+oultrecommettez,..	oultre commettez , . .
 deparmonditseigneur	de par mondit seigneur
-etdeparnous,aucunes	et de par nous , aucunes
-aucunesbonnespersonnesparlesporsetpassaiges	aucunes bonnes personnes par les pors et passaiges
-duditpaïs,et	du dit païs , et
-ailleursoù	ailleurs où
-oùvousverrezqu’ilserabesoingetexpedient,	où vous verrez qu ’ il sera besoing et expedient ,
-pourgarderetdefendreladictetraictedeblez	pour garder et defendre la dicte traicte de blez
-blez,enleurdonnantpuissanceetcommissiondecefaire	blez , en leur donnant puissance et commission de ce faire
-.Etavecce,voulonsetordonnonsque	. Et avec ce , voulons et ordonnons que
-ceulxqui	ceulx qui
-trouverontaucunespersonnestransportanslesdizblezhorsdu	trouveront aucunes personnes transportans les diz blez hors du
-duditpaïsetfaisanslecontrairedenostrepresenteordonnance	du dit païs et faisans le contraire de nostre presente ordonnance
-,etl’empescheront,	, et l ’ empescheront ,
-,rapporterontetdenoncerontà	, rapporteront et denonceront à
-justice,aientlequartdu	justice , aient le quart du
-proufitdelaconfiscacion,etdèsmaintenant	proufit de la confiscacion , et dès maintenant
-maintenantpourlorsleleurdonnonsetvoulons	maintenant pour lors le leur donnons et voulons
-qu’ilzen	qu ’ ilz en
-soientpaiez..	soient paiez . .
-sansaucunedifficulté	sans aucune difficulté
-.Etgardezqueencefaisantn’	. Et gardez que en ce faisant n ’
-aitaucunefaulteounegligence,	ait aucune faulte ou negligence ,
-enpunissantlestransgresseursetceulxquilesauront	en punissant les transgresseurs et ceulx qui le sauront
-etneledenonceront,de	et ne le denonceront , de
-detelepunicionquecesoitexemple	de tele punicion que ce soit exemple
-exempleàtousautres.Carainsinousplaistilet	exemple à tous autres . Car ainsi nous plaist il et
-etvoulons..estrefait,nonobstantquelzconqueslettressurreptices	et voulons . . estre fait , non obstant quelzconques lettres surreptices
-,impetrées	, impetrées
-impetrées..ouàimpetrer,àcecontraires.Donnéà	impetrées . . ou à impetrer , à ce contraires . Donné à
-Poictiers,le	Poictiers , le
-xxviiejourdeseptembre	xxviie jour de septembre
-septembrel’andegracemil	septembre l ’ an de grace mil
-iiiicetdixneuf.Ainsisigné:Par	iiiic et dix neuf . Ainsi signé : Par
-leconseil	le conseil
-.Gouaut.	. Gouaut .
+etdeparnous	et de par nous
+,aucunes	, aucunes
+aucunesbonnespersonnespar.lesporsetpassaigesduditpaïs	aucunes bonnes personnes par . les pors et passaiges du dit païs
+,etailleurs	, et ailleurs
+ailleursoùvousverrezqu’ilserabesoing	ailleurs où vous verrez qu ’ il sera besoing
+etexpedient	et expedient
+,pourgarder	, pour garder
+etdefendreladictetraictedeblez	et defendre la dicte traicte de blez
+,enleurdonnantpuissance	, en leur donnant puissance
+puissanceetcommissionde	puissance et commission de
+cefaire.Etavecce,	ce faire . Et avec ce ,
+voulonsetordonnonsqueceulxqui..trouverontaucunespersonnes	voulons et ordonnons que ceulx qui . . trouveront aucunes personnes
+transportanslesdizblezhorsduditpaïs	transportans les diz blez hors du dit païs
+etfaisansle	et faisans le
+contrairede	contraire de
+denostrepresenteordonnance,etl’empescheront,rapporteront	de nostre presente ordonnance , et l ’ empescheront , rapporteront
+etdenoncerontàjustice,aient	et denonceront à justice , aient
+lequartduproufitdelaconfiscacion,et	le quart du proufit de la confiscacion , et
+dèsmaintenantpourlorsleleurdonnonset..	dès maintenant pour lors le leur donnons et . .
+voulonsqu’ilzensoientpaiezsansaucune	voulons qu ’ ilz en soient paiez sans aucune
+difficulté.	difficulté .
+Etgardezqueen	Et gardez que en
+encefaisantn’aitaucunefaulteounegligence,	en ce faisant n ’ ait aucune faulte ou negligence ,
+enpunissantlestransgresseurset	en punissant les transgresseurs et
+ceulxquilesauront	ceulx qui le sauront
+etnele..denonceront,detelepunicion	et ne le . . denonceront , de tele punicion
+que..cesoitexempleàtousautres	que . . ce soit exemple à tous autres
+.Carainsinous	. Car ainsi nous
+plaistiletvoulonsestrefait,nonobstant	plaist il et voulons estre fait , non obstant
+quelzconqueslettres	quelzconques lettres
+surreptices,impetréesouàimpetrer,àce	surreptices , impetrées ou à impetrer , à ce
+contraires.DonnéàPoictiers,lexxviiejour	contraires . Donné à Poictiers , le xxviie jour
+deseptembrel.	de septembre l .
+’andegracemiliiiicetdix	’ an de grace mil iiiic et dix
+neuf.Ainsisigné:Parleconseil	neuf . Ainsi signé : Par le conseil
+conseil.Gouaut.	conseil . Gouaut .

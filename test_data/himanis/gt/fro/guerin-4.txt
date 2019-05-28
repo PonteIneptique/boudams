@@ -1,14 +1,17 @@
-Poittevĩs.Guill̃	Poittevi ̃ s . Guill ̃
-eLarcevesq̃.HuguesLarcevesq̃.Gieffroy	e Larcevesq ̃. Hugues Larcevesq ̃. Gieffroy
-deLesignen.AymardeValence.	de Lesignen . Aymar de Valence .
-GieffroydePonz,seign᷑deBerg̃	Gieffroy de Ponz , seign ᷑ de Berg ̃
-ac.Leseign᷑deMirmande.	ac . Le seign ᷑ de Mirmande .
-.GuydeRochechoart	. Guy de Rochechoart
-.RenautdePonz.Leseign᷑deBarbezieu	. Renaut de Ponz . Le seign ᷑ de Barbezieu
-Barbezieu.Leseign᷑deBeleville.	Barbezieu . Le seign ᷑ de Beleville .
-Guydela	Guy de la
-Marche.GirartChabot.HuguesdeThouarz	Marche . Girart Chabot . Hugues de Thouarz
-.Aymard'Archiac.Leseign᷑	. Aymar d ' Archiac . Le seign ᷑
-deMonlesun.LeviscontedeThouarz.Le	de Monlesun . Le visconte de Thouarz . Le
-seign᷑deMautaz.Jeh̃de	seign ᷑ de Mautaz . Jeh ̃ de
-deThoart.Mons.Huguede	de Thoart . Mons . Hugue de
+Poittevĩs..	Poittevi ̃ s . .
+Guill̃eLarcevesq̃...	Guill̃e Larcevesq̃ . . .
+HuguesLarcevesq̃	Hugues Larcevesq̃
+.GieffroydeLesignen.AymardeValence.	. Gieffroy de Lesignen . Aymar de Valence .
+.GieffroydePonz,seign᷑deBerg̃	. Gieffroy de Ponz , seign ᷑ de Berg ̃
+ac.Le.seign	ac . Le . seign
+᷑deMirmande.GuydeRochechoart.Renautde	᷑ de Mirmande . Guy de Rochechoart . Renaut de
+Ponz.Le	Ponz . Le
+Leseign᷑de	Le seign ᷑ de
+Barbezieu.Leseign᷑deBeleville.Guy	Barbezieu . Le seign ᷑ de Beleville . Guy
+delaMarche.GirartChabot.Huguesde	de la Marche . Girart Chabot . Hugues de
+Thouarz.Aymar	Thouarz . Aymar
+d'Archiac.Leseign᷑	d ' Archiac . Le seign ᷑
+᷑deMonlesun.Levisconte	᷑ de Monlesun . Le visconte
+de.Thouarz.Leseign᷑de	de . Thouarz . Le seign ᷑ de
+deMautaz.Jeh̃deThoart...Mons.	de Mautaz . Jeh ̃ de Thoart . . . Mons .
+.HuguedeThoart	. Hugue de Thoart

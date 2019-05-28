@@ -1,123 +1,109 @@
-Charles,etc.Savoir	Charles , etc . Savoir
-faisonsà	faisons à
-tous,presensetavenir,quede	tous , presens et avenir , que de
-delapartiedesamischarnelzde	de la partie des amis charnelz de
-MacéSavary,escuier,	Macé Savary , escuier ,
-,nousaesté	, nous a esté
-exposéque	exposé que
-,le.mercredidevantlaChandeleurl’an	, le . mercredi devant la Chandeleur l ’ an
-milcccc.etsix,il	mil cccc . et six , il
-iletunnomméRaouletdeKaraleusepartirent	il et un nommé Raoulet de Karaleu se partirent
-àcheval..de	à cheval . . de
-deMeréle	de Meré le
-Gauliepouraler	Gaulie pour aler
-aleràlaTourSaint	aler à la Tour Saint
-SaintGelin,enaucunes	Saint Gelin , en aucunes
-aucunesbesongnes..qu	aucunes besongnes . . qu
-’ilzyavoient	’ ilz y avoient
-àfaire.Etenalantleurchemin	à faire . Et en alant leur chemin
-chemin,ainsicommeentrel’euredevepreset	chemin , ainsi comme entre l ’ eure de vepres et
-desouleilcouchant.,vindrentaudevantd	de souleil couchant . , vindrent au devant d
-d’eulzprèsd’unhostel	d ’ eulz près d ’ un hostel
-nomméVoise,àunelieueouenviron	nommé Voise , à une lieue ou environ
-environduditlieude	environ du dit lieu de
-delaTourSaintGelin,deux	de la Tour Saint Gelin , deux
-personnes,l’uneàchevaletnomméeGuillaume	personnes , l ’ une à cheval et nommée Guillaume
-deSazillé..,et	de Sazillé . . , et
-l’autre	l ’ autre
-autreàpié	autre à pié
-pié;lesquelzMacéetRaouletsaluerentle	pié ; lesquelz Macé et Raoulet saluerent le
-ditGuillaumedeSazillé	dit Guillaume de Sazillé
-Sazilléendisantdequel	Sazillé en disant de quel
-partilvenoit,et	part il venoit , et
-etilleurresponditelesparoles:«	et il leur respondi teles paroles :«
-Maisvous,	Mais vous ,
-dontvenezvous?»Etatantpasserenttoutoultre,	dont venez vous ?» Et atant passerent tout oultre ,
-,enalantleurchemin	, en alant leur chemin
-chemin.LequelSazillé,semblant	chemin . Le quel Sazillé , semblant
-estreiréetcourroucié,les.poursuy	estre iré et courroucié , les . poursuy
-un..traitd’arcouenviron,	un . . trait d ’ arc ou environ ,
-disantqu’ilsauroitquelzgens	disant qu ’ il sauroit quelz gens
-ilzestoient,dontilzvenoientetoùilz	ilz estoient , dont ilz venoient et où ilz
-ilzaloient.,avantqueillesperdesist	ilz aloient . , avant que il les perdesist
-perdesistdeveue,etqueil	perdesist de veue , et que il
-yavoitlarronssurlepays	y avoit larrons sur le pays
-.Lesquelz	. Lesquelz
-MacéetRaouletluirespondirentqueil	Macé et Raoulet lui respondirent que il
-leslaissastaleretqu	les laissast aler et qu
-’ilzn’estoientpas	’ ilz n ’ estoient pas
-paslarrons,et	pas larrons , et
-queilzestoientgentilz	que ilz estoient gentilz
-gentilzhommesdu	gentilz hommes du
-paysquineluidemandoient	pays qui ne lui demandoient
-demandoientriens.Etendisant	demandoient riens . Et en disant
-disantles.parolesdessus	disant les . paroles dessus
-dessusdictesoupareillesensubstance,	dessus dictes ou pareilles en substance ,
+Charles,etc	Charles , etc
+.Savoirfaisonsà..tous,presensetavenir,	. Savoir faisons à . . tous , presens et avenir ,
+quedelapartiedesamischarnelzdeMacéSavary	que de la partie des amis charnelz de Macé Savary
+Savary,escuier,nousaestéexposé	Savary , escuier , nous a esté exposé
+que,lemercredi	que , le mercredi
+devantlaChandeleurl’anmilcccc.et	devant la Chandeleur l ’ an mil cccc . et
+six,iletun..nomméRaouletdeKaraleuse	six , il et un . . nommé Raoulet de Karaleu se
+partirentà	partirent à
+àchevaldeMeréleGaulie	à cheval de Meré le Gaulie
+GauliepouraleràlaTourSaintGelin,	Gaulie pour aler à la Tour Saint Gelin ,
+,enaucunesbesongnesqu’ilzyavoientà	, en aucunes besongnes qu ’ ilz y avoient à
+faire.Et..	faire . Et . .
+enalant.leurchemin,ainsicomme	en alant . leur chemin , ainsi comme
+commeentrel’eurede	comme entre l ’ eure de
+vepresetdesouleilcouchant,vindrent.au	vepres et de souleil couchant , vindrent . au
+devantd’eulzprès	devant d ’ eulz près
+d’unhostelnommé..Voise,àune	d ’ un hostel nommé . . Voise , à une
+lieueouenvironduditlieu	lieue ou environ du dit lieu
+delaTourSaintGelin,deuxpersonnes	de la Tour Saint Gelin , deux personnes
+,l’uneàchevaletnomméeGuillaumede	, l ’ une à cheval et nommée Guillaume de
+deSazillé,etl’autreàpié;	de Sazillé , et l ’ autre à pié ;
+lesquelzMacéetRaouletsaluerentle	lesquelz Macé et Raoulet saluerent le
+leditGuillaumedeSazilléendisantdequelpart	le dit Guillaume de Sazillé en disant de quel part
+partilvenoit,et..illeurresponditelesparoles	part il venoit , et . . il leur respondi teles paroles
+paroles:«Maisvous,dontvenezvous?»Et	paroles :« Mais vous , dont venez vous ?» Et
+Etatantpasserenttoutoultre,enalantleurchemin.	Et atant passerent tout oultre , en alant leur chemin .
+.Lequel	. Le quel
+Sazillé,semblantestre.	Sazillé , semblant estre .
+iréetcourroucié,	iré et courroucié ,
+lespoursuyuntraitd’arc	les poursuy un trait d ’ arc
+ouenviron,disantqu’ilsauroit	ou environ , disant qu ’ il sauroit
+quelzgensilzestoient,	quelz gens ilz estoient ,
+dontilzvenoientetoùilzaloient,avant	dont ilz venoient et où ilz aloient , avant
+avant..queil	avant . . que il
+lesperdesistdeveue.	les perdesist de veue .
+.,etqueil	. , et que il
+yavoitlarronssurle	y avoit larrons sur le
+lepays.LesquelzMacéetRaouletluirespondirent	le pays . Lesquelz Macé et Raoulet lui respondirent
+queilleslaissastaleretqu	que il les laissast aler et qu
+qu’ilzn’	qu ’ ilz n ’
+estoientpaslarrons,etqueilzestoient	estoient pas larrons , et que ilz estoient
+gentilzhommesdupaysquineluidemandoientriens	gentilz hommes du pays qui ne lui demandoient riens
+riens.Etendisantlesparolesdessusdictesou	riens . Et en disant les paroles dessus dictes ou
+pareillesensubstance.	pareilles en substance .
 ,celluiquiestoit	, cellui qui estoit
-àpiés’avançaet..vintpar	à pié s ’ avança et . . vint par
-parletraversd’unchampouforche	par le travers d ’ un champ ou forche
-forcheaudevantdesdizMacéetRaoulet,etse	forche au devant des diz Macé et Raoulet , et se
-mistaudevantdupremierd	mist au devant du premier d
-d’iceulxMacéetRaoulet,endisantqu	d ’ iceulx Macé et Raoulet , en disant qu
-’ilzlecomparroient,etmistmainàl	’ ilz le comparroient , et mist main à l
-l’espée	l ’ espée
-.Etenicelletirantetcourantsusàiceulx	. Et en icelle tirant et courant sus à iceulx
-MacéetRaoulet	Macé et Raoulet
-,distauditSazillé,soncompaignon,	, dist audit Sazillé , son compaignon ,
-qu’ildescendistà	qu ’ il descendist à
-piéetqueles	pié et que les
-lesdizMacéetRaouletfeussentbatuz.	les diz Macé et Raoulet feussent batuz .
-.LequelSazillé,enobtemperantàlaparole	. Lequel Sazillé , en obtemperant à la parole
-desonditcompaignon	de son dit compaignon
-,descendiàterreets’	, descendi à terre et s ’
-enalaprèsdesoncompaignon,etcefait	en ala près de son compaignon , et ce fait
-coururentsusausdizMacé	coururent sus aus diz Macé
-etRaoulet,leursespées	et Raoulet , leurs espées
-enleursmains	en leurs mains
-.EtquantlesdizMacé	. Et quant les diz Macé
-etRaouletsevirentainsiassaillizetdesi	et Raoulet se virent ainsi assailliz et de si
-prèsqueilznepovoient	près que ilz ne povoient
-povoientfouir,pourresisteràlaforce	povoient fouir , pour resister à la force
-quel’enleurfaisoit,et	que l ’ en leur faisoit , et
-poureulxdeffendre	pour eulx deffendre
-semirent	se mirent
-àpié,etsedefendirent,et	à pié , et se defendirent , et
-tantqueleditSazilléfuferuetnavré	tant que le dit Sazillé fu feru et navré
-navrételementqueparaprèsmorts’ensuyen	navré telement que par après mort s ’ ensuy en
-sapersonne.Pourlequel	sa personne . Pour lequel
-faitledit	fait le dit
-Macés’estdeffuyetabsenté,..et	Macé s ’ est deffuy et absenté , . . et
-ne.seosebonnementveoir	ne . se ose bonnement veoir
-commeilfaisoitparavant	comme il faisoit paravant
-.Etpourcenous	. Et pour ce nous
-ontsupplié	ont supplié
-sesdizamiz	ses diz amiz
-quesurceluivueillonsimpartirnostregraceetmisericorde	que sur ce lui vueillons impartir nostre grace et misericorde
-misericorde.Pourquoynous,	misericorde . Pour quoy nous ,
-,consideréesles.	, considerées les .
-chosesdessusdictesetmesmementqueleditMacé	choses dessus dictes et mesmement que le dit Macé
-Macéestnobleshoms,de	Macé est nobles homs , de
-debonneconversacionetrenommée,sansonquesavoiresté	de bonne conversacion et renommée , sans onques avoir esté
-estéreprinsouconvaincune	esté reprins ou convaincu ne
-actaintd’aucunautrevillaincas	actaint d ’ aucun autre villain cas
-oureprouche,voulansmisericorde	ou reprouche , voulans misericorde
-estrepreferéeà	estre preferée à
-rigueurdejustice,audit	rigueur de justice , au dit
-Macéoucas	Macé ou cas
-dessusdit,denostreplainepuissance.,	dessus dit , de nostre plaine puissance . ,
-etc.,avonsremis,quictéetpardonné,etc	etc ., avons remis , quicté et pardonné , etc
-.Sidonnonsen	. Si donnons en
-mandement.au	mandement . au
-baillideTouraineetdesressorset	bailli de Touraine et des ressors et
-Exempcionsd’..Anjou,duMaine	Exempcions d ’ . . Anjou , du Maine
-MaineetdePoitou,etàtousnoz	Maine et de Poitou , et à tous noz
-autresjusticiers,..	autres justiciers , . .
-etc.DonnéàParis,ou	etc . Donné à Paris , ou
-moysd’octobrel	moys d ’ octobre l
-l’andegrace	l ’ an de grace
-milcccc	mil cccc
-cccc.ethuit,etdenostreregne.le	cccc . et huit , et de nostre regne . le
-lexxixe.Parleroy,	le xxixe . Par le roy ,
-,àlarelacion	, à la relacion
-duconseil.	du conseil .
-Conflans.	Conflans .
+estoitàpié	estoit à pié
+s’avançaetvint	s ’ avança et vint
+par..letraversd’	par . . le travers d ’
+’unchampouforcheau.devantdes	’ un champ ou forche au . devant des
+desdizMacéetRaoulet,et	des diz Macé et Raoulet , et
+semistaudevantdupremier	se mist au devant du premier
+d’iceulxMacéetRaoulet,en	d ’ iceulx Macé et Raoulet , en
+disantqu’ilz	disant qu ’ ilz
+lecomparroient,etmist	le comparroient , et mist
+mistmainàl’espée.Eten	mist main à l ’ espée . Et en
+icelletirantetcourantsusà	icelle tirant et courant sus à
+iceulxMacéetRaoulet,distauditSazillé,son	iceulx Macé et Raoulet , dist audit Sazillé , son
+soncompaignon,qu’ildescendistàpié.etque	son compaignon , qu ’ il descendist à pié . et que
+lesdizMacéet	les diz Macé et
+Raouletfeussentbatuz.LequelSazillé,enobtemperantà	Raoulet feussent batuz . Lequel Sazillé , en obtemperant à
+àlaparoledesonditcompaignon,descendiàterre	à la parole de son dit compaignon , descendi à terre
+ets’..enala	et s ’ . . en ala
+prèsdesoncompaignon,et	près de son compaignon , et
+cefaitcoururentsusausdizMacéet	ce fait coururent sus aus diz Macé et
+Raoulet,leursespéesen..leursmains.Etquant	Raoulet , leurs espées en . . leurs mains . Et quant
+lesdizMacéetRaouletsevirentainsiassaillizet	les diz Macé et Raoulet se virent ainsi assailliz et
+desiprèsqueilzne.povoientfouir,pour	de si près que ilz ne . povoient fouir , pour
+resisteràlaforcequel’en	resister à la force que l ’ en
+leurfaisoit,et..	leur faisoit , et . .
+poureulxdeffendresemirentàpié,et	pour eulx deffendre se mirent à pié , et
+etsedefendirent,ettantque	et se defendirent , et tant que
+queledit..Sazilléfuferuet	que le dit . . Sazillé fu feru et
+etnavrételement.	et navré telement .
+queparaprèsmorts’ensuyensapersonne	que par après mort s ’ ensuy en sa personne
+.Pour..lequel	. Pour . . lequel
+faitleditMacés	fait le dit Macé s
+s’estdeffuyetabsenté	s ’ est deffuy et absenté
+absenté,etneseosebonnementveoircommeil.faisoit	absenté , et ne se ose bonnement veoir comme il . faisoit
+paravant.Etpourcenousontsuppliésesdiz	paravant . Et pour ce nous ont supplié ses diz
+amizque.	amiz que .
+surceluivueillonsimpartirnostregrace	sur ce lui vueillons impartir nostre grace
+etmisericorde	et misericorde
+.Pourquoy	. Pour quoy
+nous,considerées	nous , considerées
+leschosesdessusdictes	les choses dessus dictes
+dictesetmesmementqueleditMacéestnobleshoms,	dictes et mesmement que le dit Macé est nobles homs ,
+,debonneconversacionet	, de bonne conversacion et
+etrenommée,sansonquesavoir	et renommée , sans onques avoir
+avoirestéreprinsouconvaincuneactaintd	avoir esté reprins ou convaincu ne actaint d
+d’aucun..autrevillaincasou	d ’ aucun . . autre villain cas ou
+reprouche,voulansmisericordeestrepreferée	reprouche , voulans misericorde estre preferée
+àrigueurdejustice,au	à rigueur de justice , au
+audit.Macéoucasdessusdit,de	au dit . Macé ou cas dessus dit , de
+denostreplainepuissance,	de nostre plaine puissance ,
+etc.,avonsremis,quictéet	etc ., avons remis , quicté et
+pardonné,etc.Sidonnonsenmandementaubailli	pardonné , etc . Si donnons en mandement au bailli
+deTouraine	de Touraine
+etdes.ressorset	et des . ressors et
+Exempcionsd’	Exempcions d ’
+Anjou,duMaineetde	Anjou , du Maine et de
+dePoitou,	de Poitou ,
+,etàtousnozautres	, et à tous noz autres
+justiciers,etc	justiciers , etc
+etc.DonnéàParis,oumoysd’	etc . Donné à Paris , ou moys d ’
+octobrel.’ande	octobre l . ’ an de
+gracemilcccc...ethuit	grace mil cccc . . . et huit
+,etde..nostreregnelexxixe.	, et de . . nostre regne le xxixe .
+.Parleroy,àlarelacion	. Par le roy , à la relacion
+relacionduconseil.Conflans.	relacion du conseil . Conflans .

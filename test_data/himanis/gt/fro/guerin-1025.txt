@@ -1,192 +1,184 @@
-Charles,etc	Charles , etc
-.Savoirfaisons,etc.	. Savoir faisons , etc .
-nousavoirreceul’umblesupplicaciondeBartholomyBonnet	nous avoir receu l ’ umble supplicacion de Bartholomy Bonnet
-,laboureur,filzdefeu	, laboureur , filz de feu
-GuillaumeBonnet,demourantàVillennes..enlaparroisse	Guillaume Bonnet , demourant à Villennes . . en la parroisse
-d’Azayprèsnostreville	d ’ Azay près nostre ville
-deSaintMaixant..,contenantque,encepresent	de Saint Maixant . . , contenant que , en ce present
-moisdenovembre,ainsiqueleditsuppliant	mois de novembre , ainsi que le dit suppliant
-suppliantaloitaveclesbeufsetcharretedesondit	suppliant aloit avec les beufs et charrete de son dit
-pereàcertainsboysappellezles.boisdela	pere à certains boys appellez les . bois de la
-Chaslonniere,pourquerirdudit	Chaslonniere , pour querir du dit
-boispour	bois pour
-poureulxchaulfer	pour eulx chaulfer
-,leditsuppliant,en	, le dit suppliant , en
-enalant..auditbois,rencontraougrantchemin	en alant . . au dit bois , rencontra ou grant chemin
-parlequell’envaen	par lequel l ’ en va en
-ladictevilledeSaintMaixant,deux	la dicte ville de Saint Maixant , deux
-jeunesenfans,dontl’ainsnén’avoit	jeunes enfans , dont l ’ ainsné n ’ avoit
-pointplusdexiiii.ouxv.ans	point plus de xiiii . ou xv . ans
-,l’.undesquelzsefait	, l ’ . un desquelz se fait
-appeller.PierreBonnet,	appeller . Pierre Bonnet ,
-,filzdeBartholomyBonnet,etl’autre	, filz de Bartholomy Bonnet , et l ’ autre
-GuillaumeBonnet,filzdeJehanBonnet,demourant	Guillaume Bonnet , filz de Jehan Bonnet , demourant
-àlaBrosse	à la Brosse
-Brossed’Azay,sescousinsgermains;lesquelz	Brosse d ’ Azay , ses cousins germains ; lesquelz
-venoientduditboysde	venoient du dit boys de
-delaChaslonniere,etsurquatrejumensamenoyentdu	de la Chaslonniere , et sur quatre jumens amenoyent du
-boispoureulxchauffer,aveclesquelz	bois pour eulx chauffer , avec lesquelz
-enfansiltrouvafeuJehanCantinole,..	enfans il trouva feu Jehan Cantinole , . .
-lequelaussidemouroitenladictevillede	lequel aussi demouroit en la dicte ville de
-deSaintMaixent	de Saint Maixent
-,etlequeldist..ausdizenfansqu	, et lequel dist . . aus diz enfans qu
-’ilzavoientprinsle	’ ilz avoient prins le
-leditbois	le dit bois
-boisquiestoitsurlesdictesjumensenungsien	bois qui estoit sur les dictes jumens en ung sien
-marreaudeboysqu’il	marreau de boys qu ’ il
-ilavoitoudit	il avoit ou dit
-ditboysde[la]Chaslonniere	dit boys de [ la ] Chaslonniere
-,etappelloitlesdizenfanslarrons.Et	, et appelloit les diz enfans larrons . Et
-noncontentde	non content de
-ce,seprintàunedesdictesjumens,	ce , se print à une des dictes jumens ,
-laquelleappartenoitet.estoit	la quelle appartenoit et . estoit
-au.ditpere	au . dit pere
-pereduditsuppliant	pere du dit suppliant
-suppliant,etcouppalesanneaulxoùsetenoientlescrochez	suppliant , et couppa les anneaulx où se tenoient les crochez
-,èsquelzilzamenoientleboyssurladictejument	, èsquelz ilz amenoient le boys sur la dicte jument
-,.entellemaniere	, . en telle maniere
-qu.’ilfistcheoirla	qu . ’ il fist cheoir la
-dictejumentetleditboysdont.	dicte jument et le dit boys dont .
-.elleestoitchargéeenunefangeestantou	. elle estoit chargée en une fange estant ou
-ditchemin,etavecce	dit chemin , et avec ce
-s’efforçaetvoultcourirsusdefaitaus	s ’ efforça et voult courir sus de fait aus
+Charles,etc.Savoirfaisons,	Charles , etc . Savoir faisons ,
+,etc.nousavoirreceul’	, etc . nous avoir receu l ’
+umblesupplicacionde..BartholomyBonnet,laboureur,	umble supplicacion de . . Bartholomy Bonnet , laboureur ,
+,filzdefeuGuillaumeBonnet,demourant	, filz de feu Guillaume Bonnet , demourant
+àVillennesenlaparroissed’	à Villennes en la parroisse d ’
+’Azayprèsnostreville	’ Azay près nostre ville
+villedeSaintMaixant,contenant	ville de Saint Maixant , contenant
+contenantque,	contenant que ,
+ence.presentmoisdenovembre,ainsi	en ce . present mois de novembre , ainsi
+queleditsuppliantaloitaveclesbeufset	que le dit suppliant aloit avec les beufs et
+charretedesonditpereàcertainsboysappellez	charrete de son dit pere à certains boys appellez
+lesbois	les bois
+delaChaslonniere,pourquerirdu	de la Chaslonniere , pour querir du
+duditboispoureulxchaulfer,ledit	du dit bois pour eulx chaulfer , le dit
+ditsuppliant,en	dit suppliant , en
+alantauditbois,	alant au dit bois ,
+,rencontraougrantcheminparlequell	, rencontra ou grant chemin par lequel l
+’envaenladictevilledeSaint	’ en va en la dicte ville de Saint
+Maixant,deuxjeunesenfans,	Maixant , deux jeunes enfans ,
+dontl’ainsné	dont l ’ ainsné
+n’.avoit	n ’ . avoit
+pointplus	point plus
+dexiiii.ouxv.	de xiiii . ou xv .
+.ans,l’	. ans , l ’
+undesquelzsefaitappeller	un desquelz se fait appeller
+appellerPierreBonnet,filzdeBartholomyBonnet,et	appeller Pierre Bonnet , filz de Bartholomy Bonnet , et
+etl’autreGuillaume..Bonnet	et l ’ autre Guillaume . . Bonnet
+,filzdeJehanBonnet,demourantà	, filz de Jehan Bonnet , demourant à
+laBrossed’Azay,	la Brosse d ’ Azay ,
+,sescousinsgermains;lesquelzvenoientdudit	, ses cousins germains ; lesquelz venoient du dit
+boysdelaChaslonniere,etsurquatre	boys de la Chaslonniere , et sur quatre
+quatrejumensamenoyentduboispoureulx	quatre jumens amenoyent du bois pour eulx
+chauffer,aveclesquelzenfansiltrouvafeuJehan	chauffer , avec lesquelz enfans il trouva feu Jehan
+JehanCantinole,lequelaussidemouroitenladicte	Jehan Cantinole , lequel aussi demouroit en la dicte
+villede	ville de
+SaintMaixent,et	Saint Maixent , et
+lequeldist	lequel dist
+ausdizenfansqu’	aus diz enfans qu ’
+ilzavoient.prinsleditboisqui	ilz avoient . prins le dit bois qui
+quiestoitsurlesdictesjumensenungsienmarreaude	qui estoit sur les dictes jumens en ung sien marreau de
+boysqu’ilavoitouditboysde	boys qu ’ il avoit ou dit boys de
+[la]Chaslonniere	[ la ] Chaslonniere
+,etappelloit	, et appelloit
+lesdizenfanslarrons..	les diz enfans larrons . .
+.Etnoncontentdece	. Et non content de ce
+,seprintàune..desdictesjumens,	, se print à une . . des dictes jumens ,
+laquelleappartenoitetestoitaudit	la quelle appartenoit et estoit au dit
+pereduditsuppliant,etcouppales	pere du dit suppliant , et couppa les
+anneaulxoùsetenoientlescrochez,èsquelzilzamenoient..	anneaulx où se tenoient les crochez , èsquelz ilz amenoient . .
+.leboyssurladicte	. le boys sur la dicte
+jument,.entellemanierequ’	jument , . en telle maniere qu ’
+ilfistcheoirla	il fist cheoir la
+dictejumentetleditboysdontelleestoitchargée	dicte jument et le dit boys dont elle estoit chargée
+enunefangeestantoudit..chemin	en une fange estant ou dit . . chemin
+,etavecces’efforçaetvoultcourir	, et avec ce s ’ efforça et voult courir
+courirsusdefaitaus..	courir sus de fait aus . .
 dizenfans,ouàl’und’	diz enfans , ou à l ’ un d ’
-eulx.Lequel	eulx . Lequel
-suppliant,	suppliant ,
-veantledit.Cantinoleesmeu	veant le dit . Cantinole esmeu
-demalfaire,doubtantqu	de mal faire , doubtant qu
-qu’ilcourustsus,batist	qu ’ il courust sus , batist
-ouinjuriastde	ou injuriast de
-leurspersonnessesdiz	leurs personnes ses diz
-dizcousins,seavança	diz cousins , se avança
-etalavers	et ala vers
-versleditCantinole,auquelildistleplus	vers le dit Cantinole , au quel il dist le plus
-plusgracieusementqu’il	plus gracieusement qu ’ il
-peutquec’estoit	peut que c ’ estoit
-malfaitàluidevouloircourirsusainsi	mal fait à lui de vouloir courir sus ainsi
-àsesdizcousinset	à ses diz cousins et
-deainsi	de ainsi
-avoircouppélesdiz	avoir couppé les diz
-dizanneaulxetfaitcequedessus	diz anneaulx et fait ce que dessus
-estdit.	est dit .
-.LequelCantinolerespondi	. Lequel Cantinole respondi
-bienoultrageusementauditsuppliant	bien oultrageusement audit suppliant
-,enluidisant	, en lui disant
-qu’ilne..demourroitpointpourlui,	qu ’ il ne . . demourroit point pour lui ,
-etenregniant	et en regniant
-nostreCreateurplusieursfoiz.levoultets	nostre Createur plusieurs foiz . le voult et s
-’efforçafrapperd’	’ efforça frapper d ’
-unecognéequ	une cognée qu
+eulx.Lequelsuppliant	eulx . Lequel suppliant
+,veantledit.Cantinoleesmeudemalfaire	, veant le dit . Cantinole esmeu de mal faire
+,doubtantqu’ilcourust	, doubtant qu ’ il courust
+sus,batistouinjuriast	sus , batist ou injuriast
+deleurspersonnessesdizcousins,	de leurs personnes ses diz cousins ,
+seavançaetala..	se avança et ala . .
+.versleditCantinole,	. vers le dit Cantinole ,
+auquelildistle	au quel il dist le
+plusgracieusementqu’ilpeutquec’	plus gracieusement qu ’ il peut que c ’
+estoitmalfaitàluidevouloircourir	estoit mal fait à lui de vouloir courir
+susainsi	sus ainsi
+ainsiàsesdizcousins	ainsi à ses diz cousins
+etdeainsi	et de ainsi
+avoircouppélesdiz..anneaulxet	avoir couppé les diz . . anneaulx et
+faitcequedessusestdit	fait ce que dessus est dit
+dit.LequelCantinolerespondibienoultrageusementauditsuppliant,en	dit . Lequel Cantinole respondi bien oultrageusement audit suppliant , en
+luidisantqu’ilnedemourroitpointpourlui	lui disant qu ’ il ne demourroit point pour lui
+lui,etenregniantnostreCreateurplusieurs	lui , et en regniant nostre Createur plusieurs
+foizlevoultet	foiz le voult et
+s’efforçafrapperd’unecognéequ	s ’ efforça frapper d ’ une cognée qu
 ’ilavoit	’ il avoit
-entreses	entre ses
-mains,maisleditsuppliant	mains , mais le dit suppliant
-,veantsonmauvaizet	, veant son mauvaiz et
-feloncouraige,printungcouteldedeuxpiezde	felon couraige , print ung coutel de deux piez de
-longqu’	long qu ’
-ilavoità	il avoit à
-soncoustéet	son cousté et
-letirahorsdelagueyne,etlui	le tira hors de la gueyne , et lui
-distques’	dist que s ’
-illefrappoitde	il le frappoit de
-deladicte.cognée	de la dicte . cognée
-,qu’ille	, qu ’ il le
-frapperoitduditcoutel.Maiscenon	frapperoit dudit coutel . Mais ce non
-obstant,leditsuppliant,	obstant , le dit suppliant ,
-doubtantque	doubtant que
-queleditCantinolelefrappast,pourcequ	que le dit Cantinole le frappast , pour ce qu
-qu’ilnevouloitcesserets’efforçoitle	qu ’ il ne vouloit cesser et s ’ efforçoit le
-lefrapperde	le frapper de
-ladictecognée,leditsuppliant	la dicte cognée , le dit suppliant
-,pourevaderauditCantinole.,	, pour evader audit Cantinole . ,
-,commançaàfouyrenversla	, commança à fouyr envers la
-ladictecharretequ’il	la dicte charrete qu ’ il
-avoitamenée	avoit amenée
-pouremporterduditboys,eten	pour emporter du dit boys , et en
+entresesmains	entre ses mains
+mains,maisleditsuppliant,	mains , mais le dit suppliant ,
+veantsonmauvaizetfeloncouraige,	veant son mauvaiz et felon couraige ,
+printungcouteldedeuxpiez	print ung coutel de deux piez
+delongqu’ilavoitàsoncousté	de long qu ’ il avoit à son cousté
+etletirahorsde	et le tira hors de
+delagueyne,et	de la gueyne , et
+etluidistques’	et lui dist que s ’
+illefrappoitdeladictecognée.,qu	il le frappoit de la dicte cognée . , qu
+qu’illefrapperoitduditcoutel.Maiscenon..	qu ’ il le frapperoit dudit coutel . Mais ce non . .
+obstant,leditsuppliant	obstant , le dit suppliant
+,doubtantquele	, doubtant que le
+leditCantinolelefrappast,pourcequ’	le dit Cantinole le frappast , pour ce qu ’
+ilnevouloitcesserets’efforçoitlefrapper	il ne vouloit cesser et s ’ efforçoit le frapper
+frapper.deladictecognée,leditsuppliant,	frapper . de la dicte cognée , le dit suppliant ,
+pourevaderauditCantinole,	pour evader audit Cantinole ,
+commançaàfouyrenvers.ladictecharretequ’il	commança à fouyr envers . la dicte charrete qu ’ il
+avoitamenéepouremporterdudit	avoit amenée pour emporter du dit
+boys,et	boys , et
 enfuyant,ainsiqu’ilfutprèsde	en fuyant , ainsi qu ’ il fut près de
-ladictecharrete,ledit	la dicte charrete , le dit
-Cantinoleluigectaladictecognée.après	Cantinole lui gecta la dicte cognée . après
-aprèssesjambes,de	après ses jambes , de
-laquelleill’	laquelle il l ’
-eusttué,s	eust tué , s
-’ill’eustactaint,ou	’ il l ’ eust actaint , ou
-l..’eustmutilé	l . . ’ eust mutilé
-.Lequelsuppliant,veantlaobstinacion	. Le quel suppliant , veant la obstinacion
-obstinacionduditCantinole,remistsondit.coutel	obstinacion du dit Cantinole , remist son dit . coutel
-ensadictegueyne,	en sa dicte gueyne ,
-,etprint	, et print
-ungpaldeladictecharrete,etdist	ung pal de la dicte charrete , et dist
-auditCantinolequ’	au dit Cantinole qu ’
-ilcessast..de	il cessast . . de
-plusluicourirsus,maisleditCantinolen	plus lui courir sus , mais le dit Cantinole n
+ladictecharrete,leditCantinoleluigectala	la dicte charrete , le dit Cantinole lui gecta la
+dictecognéeaprèssesjambes	dicte cognée après ses jambes
+jambes,delaquelle..	jambes , de laquelle . .
+ill’eusttué,s’ill.	il l ’ eust tué , s ’ il l .
+.’eustactaint,	. ’ eust actaint ,
+,oul’eust	, ou l ’ eust
+mutilé.Lequelsuppliant,veant	mutilé . Le quel suppliant , veant
+laobstinacion	la obstinacion
+obstinacionduditCantinole,	obstinacion du dit Cantinole ,
+remistsonditcoutelensadictegueyne,	remist son dit coutel en sa dicte gueyne ,
+etprintungpaldeladicte	et print ung pal de la dicte
+charrete,etdistau	charrete , et dist au
+ditCantinole	dit Cantinole
+qu’ilcessastdeplus	qu ’ il cessast de plus
+luicourirsus	lui courir sus
+sus,maisleditCantinolen’	sus , mais le dit Cantinole n ’
 ’envoultrienfaire	’ en voult rien faire
 ,ainsperseveraensonmauvaizpropoz.Lesquelles	, ains persevera en son mauvaiz propoz . Lesquelles
-chosesveans	choses veans
-leditsuppliant,etqueleditCantinolene	le dit suppliant , et que le dit Cantinole ne
-vouloitcesserdetousjourslefrapper,	vouloit cesser de tousjours le frapper ,
-en.regniant	en . regniant
-folementnostreCreateur,pourdoubte.qu	folement nostre Createur , pour doubte . qu
-’ille.tuastoumurtrist	’ il le . tuast ou murtrist
-murtrist,considerant	murtrist , considerant
-queautrementnelui	que autrement ne lui
-povoitevader,sansentencionde	povoit evader , sans entencion de
-levouloirtuer,maisafinqu	le vouloir tuer , mais afin qu
-’ilpeusteschapperd’ilecet	’ il peust eschapper d ’ ilec et
-escheversa	eschever sa
-safureur,frappaleditCantinoleungseul	sa fureur , frappa le dit Cantinole ung seul
-seulcoupsurlatesteduditpal	seul coup sur la teste du dit pal
-;duquelcople	; duquel cop le
+Lesquelleschosesveansledit..suppliant,	Lesquelles choses veans le dit . . suppliant ,
+etqueleditCantinolenevouloitcesserde	et que le dit Cantinole ne vouloit cesser de
+tousjourslefrapper,enregniantfolement.	tousjours le frapper , en regniant folement .
+nostreCreateur,..pourdoubtequ’	nostre Createur , . . pour doubte qu ’
+illetuastoumurtrist,	il le tuast ou murtrist ,
+considerantqueautrementneluipovoitevader,	considerant que autrement ne lui povoit evader ,
+sansentenciondelevouloirtuer,	sans entencion de le vouloir tuer ,
+maisafinqu’ilpeusteschapperd’ilec	mais afin qu ’ il peust eschapper d ’ ilec
+ilecetescheversafureur,frappaledit	ilec et eschever sa fureur , frappa le dit
+Cantinoleungseulcoupsurla	Cantinole ung seul coup sur la
+lateste.duditpal;duquelcople	la teste . du dit pal ; duquel cop le
 ditCantinole,ceditjour,	dit Cantinole , ce dit jour ,
-aladevieàtrespassement.Pouroccasionduquelcas	ala de vie à trespassement . Pour occasion duquel cas
-,leditsuppliant	, le dit suppliant
-quiestjeuneshomsdel’	qui est jeunes homs de l ’
-’aage.dexxii.ouxxiii.	’ aage . de xxii . ou xxiii .
-.ansouenviron,mariéavecunejeunefemme	. ans ou environ , marié avec une jeune femme
-femmedexviii.ans,quientoussesautres	femme de xviii . ans , qui en tous ses autres
-faiz,aestédebonnefame,renomméeet	faiz , a esté de bonne fame , renommée et
-honnesteconversacion,	honneste conversacion ,
-sansoncquesmaisavoir	sans oncques mais avoir
-avoiresté..reprins	avoir esté . . reprins
-,actaientouconvaincu	, actaient ou convaincu
-d’aucunvillaincas,blasmeou	d ’ aucun villain cas , blasme ou
-reprouche,pourdoubtederigueur	reprouche , pour doubte de rigueur
-de.justice	de . justice
-justice,s’..estabsentédupaysetn’	justice , s ’ . . est absenté du pays et n ’
-yoseroitjamaisretourner,senostregraceetmisericorde	y oseroit jamais retourner , se nostre grace et misericorde
-misericordeneluiestoitsur.ce	misericorde ne lui estoit sur . ce
-ce..impartie,	ce . . impartie ,
-humblementrequerant	humblement requerant
-que,attenduqueleditsuppliant	que , attendu que le dit suppliant
-suppliant,lequel	suppliant , le quel
-,commeditest,.aagiéde	, comme dit est , . aagié de
+aladevieàtrespassement	ala de vie à trespassement
+.Pouroccasionduquel	. Pour occasion duquel
+duquelcas,leditsuppliantqui..estjeuneshoms	duquel cas , le dit suppliant qui . . est jeunes homs
+del’aagedexxii	de l ’ aage de xxii
 xxii.ouxxiii	xxii . ou xxiii
-.ansouenviron,chargiédejeunefemmede	. ans ou environ , chargié de jeune femme de
-del’aagedexviii.ansouenviron	de l ’ aage de xviii . ans ou environ
-environ,adelaisséesadicte.	environ , a delaissée sa dicte .
-.femmesansaucun	. femme sans aucun
-gouvernement,queledit	gouvernement , que le dit
-ditcasestavenud	dit cas est avenu d
-d’aventureetn’avoitledit	d ’ aventure et n ’ avoit le dit
-ditsuppliantparavantleditdebataucunemalveillanceou	dit suppliant paravant le dit debat aucune malveillance ou
-noiseavecleditCantinole,etfut	noise avec le dit Cantinole , et fut
-futicelluiCantinoleagresseuretinjuria	fut icellui Cantinole agresseur et injuria
-lescousinsduditsuppliantetlesappella	les cousins du dit suppliant et les appella
-larrons,ets’efforçadeleurcourirsus	larrons , et s ’ efforça de leur courir sus
-sus,etc.,..ilnous	sus , etc ., . . il nous
-nousplaisesurceluiimpartiricelles..Pourquoynous	nous plaise sur ce lui impartir icelles . . Pour quoy nous
-,ceschoses	, ces choses
-chosesconsiderées,	choses considerées ,
-voulansmisericordeprefereràrigueur	voulans misericorde preferer à rigueur
-dejustice,auditsuppliant	de justice , au dit suppliant
-oucasdessusditavonsremys,quicté	ou cas dessusdit avons remys , quicté
-quictéetpardonné,	quicté et pardonné ,
-etc.Sidonnonsenmandementparcespresentes	etc . Si donnons en mandement par ces presentes
-presentesauseneschaldePoictouetà	presentes au seneschal de Poictou et à
-àtousnozautresjusticiers,etc.Donné	à tous noz autres justiciers , etc . Donné
-àChinon,oumoisde.novembrel	à Chinon , ou mois de . novembre l
-’andegracemilcccc.quaranteet	’ an de grace mil cccc . quarante et
-cinq,etdenostre	cinq , et de nostre
-regnele	regne le
-xxiiiie.Ainsisigné:Parle	xxiiiie . Ainsi signé : Par le
-le.roy,àla	le . roy , à la
-relacionduconseil.N.DuBrueil	relacion du conseil . N . Du Brueil
-.—Visa.Contentor.E	.— Visa . Contentor . E
+.ansouenviron	. ans ou environ
+,mariéavecunejeunefemmedexviii.ans	, marié avec une jeune femme de xviii . ans
+,quientousses	, qui en tous ses
+sesautres.faiz,aestéde	ses autres . faiz , a esté de
+bonnefame	bonne fame
+,renommée	, renommée
+ethonnesteconversacion,sansoncquesmais..avoiresté	et honneste conversacion , sans oncques mais . . avoir esté
+estéreprins,actaientouconvaincud’aucunvillain	esté reprins , actaient ou convaincu d ’ aucun villain
+cas,blasmeoureprouche,pourdoubtede	cas , blasme ou reprouche , pour doubte de
+derigueurde.	de rigueur de .
+justice..,s’estabsentédupaysetn	justice . . , s ’ est absenté du pays et n
+n’yoseroitjamaisretourner,se	n ’ y oseroit jamais retourner , se
+nostregraceetmisericordeneluiestoitsurce	nostre grace et misericorde ne lui estoit sur ce
+impartie,humblementrequerantque,	impartie , humblement requerant que ,
+attenduqueleditsuppliant.,	attendu que le dit suppliant . ,
+,lequel,comme	, le quel , comme
+commeditest,aagiédexxii..ou	comme dit est , aagié de xxii . . ou
+ouxxiii.ansouenviron,chargiédejeune	ou xxiii . ans ou environ , chargié de jeune
+jeunefemmedel’aagedexviii.ans	jeune femme de l ’ aage de xviii . ans
+ouenviron	ou environ
+environ,adelaisséesadictefemme	environ , a delaissée sa dicte femme
+femmesansaucungouvernement,..que	femme sans aucun gouvernement , . . que
+leditcas	le dit cas
+estavenud’aventureetn’	est avenu d ’ aventure et n ’
+avoitleditsuppliant..paravantleditdebataucune	avoit le dit suppliant . . paravant le dit debat aucune
+aucunemalveillanceou	aucune malveillance ou
+noiseavecleditCantinole,etfuticelluiCantinole	noise avec le dit Cantinole , et fut icellui Cantinole
+Cantinoleagresseuretinjurialescousinsdu.	Cantinole agresseur et injuria les cousins du .
+ditsuppliantet.	dit suppliant et .
+lesappellalarrons,ets’efforça	les appella larrons , et s ’ efforça
+deleurcourirsus,etc.,	de leur courir sus , etc .,
+ilnous.plaisesurceluiimpartir	il nous . plaise sur ce lui impartir
+icelles.Pourquoynous,ceschosesconsiderées,	icelles . Pour quoy nous , ces choses considerées ,
+,voulansmisericorde	, voulans misericorde
+misericordeprefererà	misericorde preferer à
+rigueurde	rigueur de
+justice,audit	justice , au dit
+suppliantou	suppliant ou
+casdessusditavonsremys	cas dessusdit avons remys
+,quictéetpardonné,etc.Sidonnons	, quicté et pardonné , etc . Si donnons
+en.mandement	en . mandement
+parcespresentesauseneschaldePoictouet	par ces presentes au seneschal de Poictou et
+àtousnoz	à tous noz
+autresjusticiers,	autres justiciers ,
+,etc.DonnéàChinon,oumoisdenovembre	, etc . Donné à Chinon , ou mois de novembre
+novembrel’andegrace	novembre l ’ an de grace
+gracemilcccc.quaranteetcinq,etde	grace mil cccc . quarante et cinq , et de
+nostreregnelexxiiiie.Ainsi	nostre regne le xxiiiie . Ainsi
+signé:Parleroy,àlarelaciondu	signé : Par le roy , à la relacion du
+duconseil.N.DuBrueil.—Visa.Contentor	du conseil . N . Du Brueil .— Visa . Contentor
+.E.DuBan.	. E . Du Ban .

@@ -1,268 +1,256 @@
-Charles,etc.	Charles , etc .
-Savoirfaisonsàtouz,presenset	Savoir faisons à touz , presens et
-etavenir,nousavoirreceul	et avenir , nous avoir receu l
-’umblesupplicaciondesamischarnelzde	’ umble supplicacion des amis charnelz de
-deBertranBruneau,prisonnierennostreChastelletdeParis	de Bertran Bruneau , prisonnier en nostre Chastellet de Paris
-Paris,contenantquecomme	Paris , contenant que comme
-,pour.occasionde	, pour . occasion de
-decequeJehanGuillereau,..	de ce que Jehan Guillereau , . .
-chastellainetofficierdeJaquesdeSurgieres,chevalier	chastellain et officier de Jaques de Surgieres , chevalier
-chevalier,seigneurdelaFlocelliere,ensaterre	chevalier , seigneur de la Flocelliere , en sa terre
-terreduFiefTaveau,soubzumbredeson	terre du Fief Taveau , soubz umbre de son
-ditofficeetdelapuissanceduditchevalier	dit office et de la puissance du dit chevalier
-,son.maistre,ou	, son . maistre , ou
-autrementdesavolenté,avoitdurementtraictié	autrement de sa volenté , avoit durement traictié
-enpluseursmanieresettraictoitdejourenjour	en pluseurs manieres et traictoit de jour en jour
-leshommesetsubgiésduditBertranensa	les hommes et subgiés du dit Bertran en sa
-terredelaMoteFouquerent,quiest	terre de la Mote Fouquerent , qui est
-voisineetcontiguede	voisine et contigue de
-deladicteterreduFiefTaveau,et	de la dicte terre du Fief Taveau , et
-quelesplaintesd	que les plaintes d
-d’iceulxseshommesetsubgiezluienestoientvenues	d ’ iceulx ses hommes et subgiez lui en estoient venues
-venuesetvenoient	venues et venoient
-souvent,etaussipourl’	souvent , et aussi pour l ’
-occasiondece	occasion de ce
-cequeledit	ce que le dit
-chevalieravoitmisettenu.	chevalier avoit mis et tenu .
-enprocèsle	en procès le
-ditBertran,àChinon,pourcertainsherons	dit Bertran , à Chinon , pour certains herons
-queilavoulusupposeravoirestéprinsen	que il a voulu supposer avoir esté prins en
-ensesboisduditFief	en ses bois du dit Fief
-Taveaupar.leditBertran	Taveau par . le dit Bertran
-Bertranetautresseshommes,etde..	Bertran et autres ses hommes , et de . .
-son.commandement,ettantque	son . commandement , et tant que
-illuiaconvenu,pourluietses	il lui a convenu , pour lui et ses
-dizhommes,fineraudit	diz hommes , finer au dit
-chevalierà	chevalier à
-lx.francsouenviron	lx . francs ou environ
-,commepour	, comme pour
-certainsarticlesqueleditGuillereauavoitfait	certains articles que le dit Guillereau avoit fait
-etfaitbaillerà	et fait bailler à
-l’encontreduditBertranau	l ’ encontre du dit Bertran au
-siredeCommiquiers,età	sire de Commiquiers , et à
-sacourt,pouravoirfaitexcercerofficedesergent	sa court , pour avoir fait excercer office de sergent
-enlasergenterie	en la sergenterie
-sergenteriefiefféeduFiefCommuneau,tenue	sergenterie fieffée du Fief Communeau , tenue
-duditsiredeCommiquiers,par	du dit sire de Commiquiers , par
-autresqueparJosselindela.	autres que par Josselin de la .
-Forest,sergentd’icelle,ou	Forest , sergent d ’ icelle , ou
-parsonalloué,	par son alloué ,
-,etsur..ce	, et sur . . ce
-concluoiticelluisiredeCommiquiers	concluoit icellui sire de Commiquiers
-àconfiscacion	à confiscacion
-confiscaciondefief,	confiscacion de fief ,
-entreautres	entre autres
-choses,contreleditBertran,etqueicellui	choses , contre le dit Bertran , et que icellui
-Bertrantenoitet	Bertran tenoit et
-creoitque	creoit que
-ceschosesestoientmisesavant	ces choses estoient mises avant
-avantàl’encontredelui,parle	avant à l ’ encontre de lui , par le
-moyenetconseilduditGuillereau	moyen et conseil du dit Guillereau
-Guillereau;etautrementaiticelluiBertranconceu	Guillereau ; et autrement ait icellui Bertran conceu
+Charles,	Charles ,
+,etc.Savoirfaisons	, etc . Savoir faisons
+àtouz,presens	à touz , presens
+presensetavenir,nousavoirreceul’umble	presens et avenir , nous avoir receu l ’ umble
+umblesupplicaciondesamis	umble supplicacion des amis
+charnelzdeBertranBruneau,prisonnierennostreChastellet	charnelz de Bertran Bruneau , prisonnier en nostre Chastellet
+deParis,contenantquecomme,pour	de Paris , contenant que comme , pour
+occasiondeceque	occasion de ce que
+JehanGuillereau,chastellainetofficier	Jehan Guillereau , chastellain et officier
+officierdeJaques.deSurgieres,chevalier,seigneur	officier de Jaques . de Surgieres , chevalier , seigneur
+delaFlocelliere,	de la Flocelliere ,
+ensaterreduFiefTaveau,soubzumbre	en sa terre du Fief Taveau , soubz umbre
+umbredesonditofficeetdelapuissancedudit	umbre de son dit office et de la puissance du dit
+ditchevalier,sonmaistre,ouautrement	dit chevalier , son maistre , ou autrement
+desavolenté	de sa volenté
+,avoitdurementtraictiéenpluseurs	, avoit durement traictié en pluseurs
+pluseursmanieresettraictoitdejourenjourleshommeset	pluseurs manieres et traictoit de jour en jour les hommes et
+subgiésduditBertranensaterrede	subgiés du dit Bertran en sa terre de
+delaMoteFouquerent,quiest	de la Mote Fouquerent , qui est
+voisineetcontiguedeladicteterreduFiefTaveau	voisine et contigue de la dicte terre du Fief Taveau
+,etquelesplaintesd’iceulxses	, et que les plaintes d ’ iceulx ses
+hommesetsubgiezluienestoientvenues	hommes et subgiez lui en estoient venues
+etvenoientsouvent.,etaussipourl	et venoient souvent . , et aussi pour l
+’occasiondecequeleditchevalieravoitmis	’ occasion de ce que le dit chevalier avoit mis
+ettenuen	et tenu en
+procèsle	procès le
+ditBertran,àChinon,pourcertainsherons.	dit Bertran , à Chinon , pour certains herons .
+queilavoulu	que il a voulu
+supposeravoirestéprinsenses.bois	supposer avoir esté prins en ses . bois
+boisduditFiefTaveauparle	bois du dit Fief Taveau par le
+ditBertranetautres..	dit Bertran et autres . .
+.seshommes,	. ses hommes ,
+etdesoncommandement,ettantqueillui	et de son commandement , et tant que il lui
+aconvenu,pourluietsesdizhommes,	a convenu , pour lui et ses diz hommes ,
+,finerauditchevalier	, finer au dit chevalier
+àlx.francsouenviron,comme	à lx . francs ou environ , comme
+pourcertainsarticlesqueledit	pour certains articles que le dit
+Guillereauavoitfaitetfaitbaillerà	Guillereau avoit fait et fait bailler à
+l’encontreduditBertranausiredeCommiquiers	l ’ encontre du dit Bertran au sire de Commiquiers
+,etàsacourt	, et à sa court
+,pouravoirfaitexcercerofficede	, pour avoir fait excercer office de
+sergentenla	sergent en la
+sergenteriefiefféeduFief	sergenterie fieffée du Fief
+Communeau,	Communeau ,
+,tenueduditsirede	, tenue du dit sire de
+Commiquiers,parautresqueparJosselinde	Commiquiers , par autres que par Josselin de
+laForest,sergentd’icelle,ou	la Forest , sergent d ’ icelle , ou
+par..sonalloué,	par . . son alloué ,
+etsurceconcluoiticelluisiredeCommiquiersàconfiscacion	et sur ce concluoit icellui sire de Commiquiers à confiscacion
+defief,entre	de fief , entre
+autreschoses,	autres choses ,
+,contreleditBertran,et	, contre le dit Bertran , et
+que..icelluiBertrantenoitet	que . . icellui Bertran tenoit et
+creoitqueceschosesestoientmisesavant	creoit que ces choses estoient mises avant
+àl..’encontredelui,parlemoyen	à l . . ’ encontre de lui , par le moyen
+etconseilduditGuillereau	et conseil du dit Guillereau
+;etautrementaiticellui	; et autrement ait icellui
+Bertranconceumoult	Bertran conceu moult
 moultgranshaynesàl’encontreduditGuillereau	moult grans haynes à l ’ encontre dudit Guillereau
 ,etseallia	, et se allia
-alliaavecquesunautrepourlegrever	allia avecques un autre pour le grever
-,etpouricelle	, et pour icelle
-haynemettre	hayne mettre
-àexecucion,	à execucion ,
-aitleditBertranBruneau	ait le dit Bertran Bruneau
-BruneauinduitetsubornéMathurinAubinetJehanThommas	Bruneau induit et suborné Mathurin Aubin et Jehan Thommas
-,tesmoins..produisetexaminezen	, tesmoins . . produis et examinez en
-cestepartie,àdireetdeposer	ceste partie , à dire et deposer
-deposercontreveritéqu’ilzavoientveu	deposer contre verité qu ’ ilz avoient veu
-queleditGuillereauavoitfaitavorter	que le dit Guillereau avoit fait avorter
-safemmed’unenfant,	sa femme d ’ un enfant ,
-septans	sept ans
-avoit..ouenviron	avoit . . ou environ
-environ,par	environ , par
-labatreetvillener.,endisantàsadicte	la batre et villener . , en disant à sa dicte
-femmeque	femme que
-icelluienfentn’	icellui enfent n ’
-estoitpassien..,etqueleditenfentestoit	estoit pas sien . . , et que le dit enfent estoit
-estoitmortné,noir	estoit mort né , noir
-commecharbon,etqueil	comme charbon , et que il
-ilavoitestéenterréenla	il avoit esté enterré en la
-ruelled’unlitd’une	ruelle d ’ un lit d ’ une
-garderobeouappentiz,	garderobe ou appentiz ,
-,enl’ostel	, en l ’ ostel
-duditGuillereaumesmes,ouBrueil	du dit Guillereau mesmes , ou Brueil
-,..combienque	, . . combien que
-lesdiztesmoingsn’enseussentaucunechose.que	les diz tesmoings n ’ en seussent aucune chose . que
-queparl’avoiroydire	que par l ’ avoir oy dire
-direàladictefemme	dire à la dicte femme
-d’icelluiGuillereau,etaussi	d ’ icellui Guillereau , et aussi
-queledit	que le dit
-JehanThommasavoitveuqueleditGuillereau	Jehan Thommas avoit veu que le dit Guillereau
-avoitfaitavoir.à	avoit fait avoir . à
-àAgnèsDurande,sachamberiere,quiestoitgrosse	à Agnès Durande , sa chamberiere , qui estoit grosse
-d’enfant.de	d ’ enfant . de
-lui,commedisoiticelluiThomas	lui , comme disoit icellui Thomas
-Thomas,icelluienfantetfruitensang	Thomas , icellui enfant et fruit en sang
-sangparluiestraindreleventred	sang par lui estraindre le ventre d
-’unetouailleoulongiere	’ une touaille ou longiere
-,ettoutpour	, et tout pour
-pourlacuidermarierauditThomas,	pour la cuider marier au dit Thomas ,
-,combienqueicelluiThomasn’ensceust	, combien que icellui Thomas n ’ en sceust
-aucune..chosequepar	aucune . . chose que par
-par.l’avoiroydireàladicte	par . l ’ avoir oy dire à la dicte
-dictechamberiereetaussiàladictefemmed	dicte chamberiere et aussi à la dicte femme d
-d’icelluiGuillereau;etpour	d ’ icellui Guillereau ; et pour
-ceschosesdireetdeposeravoirveu	ces choses dire et deposer avoir veu
-defait,par	de fait , par
-devantlescommissairesdenostre	devant les commissaires de nostre
-trèscheret	très cher et
-trèsamé	très amé
-oncleleducdeBerry,contede	oncle le duc de Berry , conte de
-Poitou,avoitpromisicelluiBertranàfairebeaucoupde	Poitou , avoit promis icellui Bertran à faire beaucoup de
-bienausdiztesmoings,etquece	bien aus diz tesmoings , et que ce
-n’estoitpas	n ’ estoit pas
-grantpechié.	grant pechié .
+avecques.unautrepourlegrever,et	avecques . un autre pour le grever , et
+pouricellehaynemettreàexecucion,.aitle	pour icelle hayne mettre à execucion , . ait le
+ditBertranBruneauinduitetsubornéMathurinAubinet	dit Bertran Bruneau induit et suborné Mathurin Aubin et
+JehanThommas,tesmoinsproduisetexaminezencestepartie	Jehan Thommas , tesmoins produis et examinez en ceste partie
+,àdireet	, à dire et
+deposercontreveritéqu’ilzavoient	deposer contre verité qu ’ ilz avoient
+veuque.le	veu que . le
+ditGuillereauavoitfait	dit Guillereau avoit fait
+faitavorter.safemme	fait avorter . sa femme
+d’unenfant	d ’ un enfant
+,septans	, sept ans
+avoitouenviron,parlabatreetvillener,	avoit ou environ , par la batre et villener ,
+endisantàsa	en disant à sa
+dictefemmequeicelluienfent..n’estoitpas	dicte femme que icellui enfent . . n ’ estoit pas
+passien,etquele	pas sien , et que le
+leditenfentestoitmort	le dit enfent estoit mort
+né,noircommecharbon,etque	né , noir comme charbon , et que
+queilavoitestéenterréenlaruelled’	que il avoit esté enterré en la ruelle d ’
+unlitd’unegarderobeouappentiz,en	un lit d ’ une garderobe ou appentiz , en
+l’ostelduditGuillereaumesmes,ouBrueil	l ’ ostel du dit Guillereau mesmes , ou Brueil
+Brueil,combienquelesdiztesmoingsn’en	Brueil , combien que les diz tesmoings n ’ en
+enseussentaucunechoseque	en seussent aucune chose que
+parl’avoiroydireàladictefemme	par l ’ avoir oy dire à la dicte femme
+d’icelluiGuillereau,et	d ’ icellui Guillereau , et
+aussiqueleditJehan	aussi que le dit Jehan
+Thommasavoitveuqueledit	Thommas avoit veu que le dit
+ditGuillereauavoitfaitavoiràAgnèsDurande,sa	dit Guillereau avoit fait avoir à Agnès Durande , sa
+sachamberiere,quiestoit	sa chamberiere , qui estoit
+grossed’enfantdelui,comme	grosse d ’ enfant de lui , comme
+disoiticelluiThomas,icelluienfant	disoit icellui Thomas , icellui enfant
+etfruit.ensangparluiestraindre	et fruit . en sang par lui estraindre
+leventred’	le ventre d ’
+’unetouailleoulongiere,ettoutpour	’ une touaille ou longiere , et tout pour
+lacuidermarierauditThomas	la cuider marier au dit Thomas
+,combienqueicelluiThomas	, combien que icellui Thomas
+n’ensceust	n ’ en sceust
+aucunechosequeparl’avoiroydire	aucune chose que par l ’ avoir oy dire
+àladicte	à la dicte
+chamberiereetaussià	chamberiere et aussi à
+ladictefemme	la dicte femme
+d’icellui..	d ’ icellui . .
+Guillereau;etpour	Guillereau ; et pour
+ceschosesdireetdeposeravoirveudefait	ces choses dire et deposer avoir veu de fait
+,pardevant	, par devant
+lescommissairesdenostretrèscherettrèsaméoncle	les commissaires de nostre très cher et très amé oncle
+leducdeBerry,	le duc de Berry ,
+contedePoitou,	conte de Poitou ,
+avoitpromisicellui	avoit promis icellui
+Bertranàfaire.beaucoupdebienausdiztesmoings,	Bertran à faire . beaucoup de bien aus diz tesmoings ,
+,etquecen’estoitpasgrantpechiéde	, et que ce n ’ estoit pas grant pechié de
 defairemouriricelluiGuillereau,	de faire mourir icellui Guillereau ,
-etqueilavoittropvesqu;	et que il avoit trop vesqu ;
-;etsoubz	; et soubz
-umbredeceschosesetdesinformacionssurcefaictes	umbre de ces choses et des informacions sur ce faictes
-parladesposiciondesdiztesmoingsetautres	par la desposicion des diz tesmoings et autres
+etqueil	et que il
+avoittropvesqu..;etsoubzumbredeceschoses	avoit trop vesqu . . ; et soubz umbre de ces choses
+etdesinformacionssur	et des informacions sur
+cefaictesparladesposiciondes	ce faictes par la desposicion des
+diztesmoingset	diz tesmoings et
 autres,aesté	autres , a esté
-estéicelluiGuillelereauprinsetemprisonnéàPoictiers,àThouars	esté icellui Guillelereau prins et emprisonné à Poictiers , à Thouars
-etailleurs,etdepuisàla	et ailleurs , et depuis à la
-Gasnache,	Gasnache ,
-etsesbiensprins	et ses biens prins
-etempeschiez,et	et empeschiez , et
-aussiaestémutilé	aussi a esté mutilé
-mutiléd’unedesesjambes,etence	mutilé d ’ une de ses jambes , et en ce
-ce..agrandementestégrevé	ce . . a grandement esté grevé
-grevéetdommagié;etdepuis,	grevé et dommagié ; et depuis ,
-parlemoyendecertainsappelouappeaulx,est	par le moyen de certains appel ou appeaulx , est
-esttoutdevoluennostrecourtde..	est tout devolu en nostre court de . .
-Parlement.Etencores,ce	Parlement . Et encores , ce
-pendant,ale	pendant , a le
-dit..Bruneau	dit . . Bruneau
-,..parvertudecertainesnoz	, . . par vertu de certaines noz
-lettres,faitfairegransinformacionscontre	lettres , fait faire grans informacions contre
-leditGuillereauet	le dit Guillereau et
-autres,pourtousjourslevouloirgrever,et	autres , pour tousjours le vouloir grever , et
-faitdireet.proposericelluiGuillereauavoitfaitles	fait dire et . proposer icellui Guillereau avoit fait les
-dizmurdresetpluseursautresmalefices,etestre	diz murdres et pluseurs autres malefices , et estre
-hommedemauvaisevieetrenommée,etya	homme de mauvaise vie et renommée , et y a
-aperseveréen	a perseveré en
-ceprocès,en	ce procès , en
-ennostredictecourt,parlaqueleleditBertran	en nostre dicte court , par laquele le dit Bertran
-aesté,poursouspeçondeschoses	a esté , pour souspeçon des choses
-chosesdessusdictes,emprisonnéennostreditChastellet	choses dessus dictes , emprisonné en nostre dit Chastellet
-,et.paricelle	, et . par icelle
-nostre.court	nostre . court
-attaintela.dictesubornacion	attainte la . dicte subornacion
-,aestéledit	, a esté le dit
-ditBertrancondempnéàfaire	dit Bertran condempné à faire
-amendehonorableauditGuillereau,eten	amende honorable au dit Guillereau , et en
-enamendeproffitableenversnousetaussienverslui	en amende proffitable envers nous et aussi envers lui
-,et.poursesdommages	, et . pour ses dommages
-dommagesinterestzetdespensen	dommages interestz et despens en
-en.lasommede	en . la somme de
-cinqcenslivrestournois,etenvintlivresde	cinq cens livres tournois , et en vint livres de
-renteàlaviedu	rente à la vie du
-ditGuillereau,et	dit Guillereau , et
-aestretournéoupiloryunefoizà	a estre tourné ou pilory une foiz à
-àParis,	à Paris ,
-unefoizàThouarset.unefoiz	une foiz à Thouars et . une foiz
-foizàlaGasnache,	foiz à la Gasnache ,
-sicommepararrestdenostredictecourtsur	si comme par arrest de nostre dicte court sur
-cefaitceschosesentreautresl	ce fait ces choses entre autres l
-’endit..plusàplainapparroir;et	’ en dit . . plus à plain apparroir ; et
-ilsoitainsique	il soit ainsi que
-quesurceleditBertranaitjàestétournéou	que sur ce le dit Bertran ait jà esté tourné ou
-piloryàParisetaitfaitamendehonnorableau	pilory à Paris et ait fait amende honnorable au
-ditGuillereau,ettiegneprison	dit Guillereau , et tiegne prison
-pourlesamendesproffitables	pour les amendes proffitables
-d’icelluietdesnostres,.etence	d ’ icellui et des nostres , . et en ce
-aitgrandementestéscandaliséetdommaigiéen	ait grandement esté scandalisé et dommaigié en
-corpsetenbiens,.	corps et en biens , .
-etencoresplus	et encores plus
-seroitdesapersonne,se..ilestoit	seroit de sa personne , se . . il estoit
-tournéoupiloryàThouars[et]àla	tourné ou pilory à Thouars [ et ] à la
-laGasnache..,	la Gasnache . . ,
-etaussiseroientpourluisesdizparens	et aussi seroient pour lui ses diz parens
-parensetamis	parens et amis
-quidemourent..	qui demourent . .
-oupaïsd’	ou païs d ’
-environ,sicommeildient	environ , si comme il dient
-,ennoushumblementsuppliantque	, en nous humblement suppliant que
-,commele	, comme le
-ditBertranaitpour	dit Bertran ait pour
-leditmeffait..	le dit meffait . .
-.longuementestédetenuenprisonetencoressoit,à	. longuement esté detenu en prison et encores soit , à
+icelluiGuillelereauprinsetemprisonnéà	icellui Guillelereau prins et emprisonné à
+Poictiers,àThouarsetailleurs,etdepuis.à	Poictiers , à Thouars et ailleurs , et depuis . à
+laGasnache,etsesbiens	la Gasnache , et ses biens
+biensprinsetempeschiez,etaussiaestémutiléd	biens prins et empeschiez , et aussi a esté mutilé d
+’unedeses.jambes,eten	’ une de ses . jambes , et en
+enceagrandementestégrevéetdommagié;et	en ce a grandement esté grevé et dommagié ; et
+depuis,parle.	depuis , par le .
+moyendecertainsappelouappeaulx,	moyen de certains appel ou appeaulx ,
+esttoutdevoluennostrecourtdeParlement.Et	est tout devolu en nostre court de Parlement . Et
+encores,cependant,.aleditBruneau	encores , ce pendant , . a le dit Bruneau
+Bruneau..,parvertudecertaines	Bruneau . . , par vertu de certaines
+certainesnozlettres,faitfairegransinformacions	certaines noz lettres , fait faire grans informacions
+contrele	contre le
+ditGuillereauetautres	dit Guillereau et autres
+,pourtousjourslevouloirgrever	, pour tousjours le vouloir grever
+grever,etfait.dire	grever , et fait . dire
+etproposericelluiGuillereauavoitfaitlesdizmurdres	et proposer icellui Guillereau avoit fait les diz murdres
+etpluseursautres	et pluseurs autres
+autresmalefices,etestrehommedemauvaisevieetrenommée	autres malefices , et estre homme de mauvaise vie et renommée
+renommée,etyaperseveré	renommée , et y a perseveré
+enceprocès,en	en ce procès , en
+nostredictecourt,parlaquelele	nostre dicte court , par laquele le
+leditBertranaesté,poursouspeçondes	le dit Bertran a esté , pour souspeçon des
+chosesdessusdictes,emprisonnéennostre	choses dessus dictes , emprisonné en nostre
+ditChastellet,	dit Chastellet ,
+,etparicellenostrecourtattainteladictesubornacion	, et par icelle nostre court attainte la dicte subornacion
+,aestéle	, a esté le
+ditBertrancondempné	dit Bertran condempné
+àfaireamendehonorableau	à faire amende honorable au
+auditGuillereau,etenamendeproffitableenversnous	au dit Guillereau , et en amende proffitable envers nous
+etaussienverslui,	et aussi envers lui ,
+,etpoursesdommagesinterestzetdespens	, et pour ses dommages interestz et despens
+enlasommedecinq	en la somme de cinq
+censlivrestournois,et.envint	cens livres tournois , et . en vint
+vintlivresderenteàlavie	vint livres de rente à la vie
+viedudit.Guillereau	vie du dit . Guillereau
+Guillereau,etaestretournéoupilory	Guillereau , et a estre tourné ou pilory
+piloryune..foizàParis	pilory une . . foiz à Paris
+Paris,une	Paris , une
+unefoizàThouarsetunefoizàlaGasnache,	une foiz à Thouars et une foiz à la Gasnache ,
+sicommepararrestdenostredictecourtsurce	si comme par arrest de nostre dicte court sur ce
+faitces	fait ces
+ceschosesentreautres	ces choses entre autres
+autresl’enditplusàplain	autres l ’ en dit plus à plain
+apparroir;etilsoitainsiquesur..	apparroir ; et il soit ainsi que sur . .
+celedit	ce le dit
+BertranaitjàestétournéoupiloryàPariset	Bertran ait jà esté tourné ou pilory à Paris et
+etaitfaitamendehonnorableau	et ait fait amende honnorable au
+ditGuillereau,..et	dit Guillereau , . . et
+tiegneprisonpour	tiegne prison pour
+lesamendesproffitablesd’	les amendes proffitables d ’
+’icelluietdes	’ icellui et des
+desnostres,	des nostres ,
+,etenceaitgrandementesté	, et en ce ait grandement esté
+scandaliséetdommaigiéencorps	scandalisé et dommaigié en corps
+etenbiens,	et en biens ,
+,etencoresplusseroitde	, et encores plus seroit de
+sapersonne,seilestoittournéou	sa personne , se il estoit tourné ou
+oupiloryàThouars[et]àlaGasnache	ou pilory à Thouars [ et ] à la Gasnache
+Gasnache,etaussiseroientpour.lui	Gasnache , et aussi seroient pour . lui
+sesdizparensetamisqui.demourentou	ses diz parens et amis qui . demourent ou
+oupaïsd’environ,sicommeildient	ou païs d ’ environ , si comme il dient
+,ennoushumblementsuppliantque,commele	, en nous humblement suppliant que , comme le
+leditBertranaitpourleditmeffaitlonguementestédetenu	le dit Bertran ait pour le dit meffait longuement esté detenu
+enprisonetencoressoit,àgrant	en prison et encores soit , à grant
 grantpovretéetmisere,	grant povreté et misere ,
-etsoitmoultchargiédesdictesamendesproffitables	et soit moult chargié desdictes amendes proffitables
-,quisontgrossesenversnousetpartie,	, qui sont grosses envers nous et partie ,
-,etestenvoied’en	, et est en voie d ’ en
-estredesert,.	estre desert , .
-nousluivueillonssur.ceimpartirnostregraceetmisericorde	nous lui vueillons sur . ce impartir nostre grace et misericorde
-.Pourquoynous	. Pour quoy nous
-,inclinansàladicte	, inclinans à la dicte
-supplicacion,voulansmisericordeprefereràrigueurdejustice	supplicacion , voulans misericorde preferer à rigueur de justice
-,etpourfaveur.etcontemplaciondenostretrès	, et pour faveur . et contemplacion de nostre très
-chereet	chere et
-trèsamée	très amée
-améefillela	amée fille la
-duchessedeBretaigne,quidecenous	duchesse de Bretaigne , qui de ce nous
-afait.trèshumblement	a fait . très humblement
-humblementsupplieretrequerre,et..aussi	humblement supplier et requerre , et . . aussi
-pourl’onneuret	pour l ’ onneur et
-reverencedela	reverence de la
-sepmainesaincte,	sepmaine saincte ,
-,enlaquellenoussommesde	, en laquelle nous sommes de
-depresent,et	de present , et
-en.laquelle	en . laquelle
-NostreSeigneurJhesuCristreceutmort	Nostre Seigneur Jhesu Crist receut mort
-mortetpassion,etpourcertainesautres	mort et passion , et pour certaines autres
-causesetconsideracionsquiàcenousontmeuet	causes et consideracions qui à ce nous ont meu et
-meuvent,.	meuvent , .
-.auditBertranou	. audit Bertran ou
-ditcasavonsremis,quictiéetpardonné,.	dit cas avons remis , quictié et pardonné , .
-etc.,et	etc ., et
-etmesmementlapeined’	et mesmement la peine d ’
-estremisettourné	estre mis et tourné
-tournéoupiloryàThouarsetàlaGasnache	tourné ou pilory à Thouars et à la Gasnache
-,enquoyilestetpuet	, en quoy il est et puet
-puetestreencouruenversnouset	puet estre encouru envers nous et
-justice,.et	justice , . et
-etlerestituonsàsabonnefameetrenommée,au	et le restituons à sa bonne fame et renommée , au
-païsetàsesbiensnonconfisqués	païs et à ses biens non confisqués
-,nonobstantleditarrestoujugementde	, non obstant ledit arrest ou jugement de
-denostredictecourtdeParlement,etsur	de nostre dicte court de Parlement , et sur
-ceimposonssilenceperpetuelànostreprocureur	ce imposons silence perpetuel à nostre procureur
-,sattisfacionfaicteàpartiecivilement,parmicetoutesvoies	, sattisfacion faicte à partie civilement , parmi ce toutesvoies
-queilferaunpelerinageàNostre	que il fera un pelerinage à Nostre
-DamedeBouloignesurlamer,etseratenu	Dame de Bouloigne sur la mer , et sera tenu
-d’enrapporter	d ’ en rapporter
-rapportercertifficacion,	rapporter certifficacion ,
-,etpaieralesdictesamendescivilestantànous	, et paiera les dictes amendes civiles tant à nous
-commeàpartie,etaussipaieraà.l	comme à partie , et aussi paiera à . l
-’OstelDieude	’ Ostel Dieu de
-Pariscentfrancsd’	Paris cent francs d ’
-or,c’est	or , c ’ est
-assavoircinquante	assavoir cinquante
-francsàl’officedumaistre	francs à l ’ office du maistre
-etlesautrescinquanteàl’officede	et les autres cinquante à l ’ office de
-laprieuseduditHostelDieu.Sydonnons	la prieuse dudit Hostel Dieu . Sy donnons
-donnonsenmandementànozamezetfeaulx	donnons en mandement à noz amez et feaulx
-conseillersles	conseillers les
-lesgensdenostre	les gens de nostre
-nostreParlementàParis,aubaillideTouraineetdes	nostre Parlement à Paris , au bailli de Touraine et des
-ressorsetExemptionsd	ressors et Exemptions d
-’Anjou,dePoitouet	’ Anjou , de Poitou et
-duMaine	du Maine
-,etàtouznozautresjusticiers,etc.	, et à touz noz autres justiciers , etc .
-DonnéàParis,lexxviiie	Donné à Paris , le xxviiie
-xxviiiejourdemarsl’an	xxviiie jour de mars l ’ an
-andegracemiliiiicettrois,etle	an de grace mil iiiic et trois , et le
-xxiiiiedenostreregne	xxiiiie de nostre regne
-regne.Autresfoizainsisignée:Parle	regne . Autres foiz ainsi signée : Par le
-roy,presenspluseursdeschambellans,Fortement.	roy , presens pluseurs des chambellans , Fortement .
-.Etrescripteselonvostre	. Et rescripte selon vostre
-ordenanceèsrequestesparvoustenues,parlecommandement	ordenance ès requestes par vous tenues , par le commandement
-duroy,le	du roy , le
-lepatriarched’Alixandrie,l’arcevesqued’	le patriarche d ’ Alixandrie , l ’ arcevesque d ’
-Aux,lesevesquesdeNoyon,deTournay	Aux , les evesques de Noyon , de Tournay
-etdeLimoges,leseneschaldeXantongeet	et de Limoges , le seneschal de Xantonge et
-etpluseursautrespresens.G.Fortement	et pluseurs autres presens . G . Fortement
+etsoitmoultchargiédesdictesamendesproffitables,	et soit moult chargié desdictes amendes proffitables ,
+quisont	qui sont
+grossesenversnousetpartie,et	grosses envers nous et partie , et
+estenvoied’enestredesert,nous	est en voie d ’ en estre desert , nous
+luivueillonssurce	lui vueillons sur ce
+impartir.nostregraceetmisericorde.Pourquoynous,	impartir . nostre grace et misericorde . Pour quoy nous ,
+inclinans..àla	inclinans . . à la
+ladictesupplicacion,voulansmisericordeprefereràrigueur	la dicte supplicacion , voulans misericorde preferer à rigueur
+dejustice,	de justice ,
+,etpourfaveuretcontemplacionde	, et pour faveur et contemplacion de
+nostretrèschere.	nostre très chere .
+ettrèsaméefilleladuchessedeBretaigne	et très amée fille la duchesse de Bretaigne
+,quidecenousafaittrèshumblementsupplier	, qui de ce nous a fait très humblement supplier
+supplieretrequerre,	supplier et requerre ,
+etaussipourl’onneuretreverence	et aussi pour l ’ onneur et reverence
+delasepmaine	de la sepmaine
+sepmainesaincte,enlaquellenous	sepmaine saincte , en laquelle nous
+noussommesdepresent,etenlaquelleNostreSeigneurJhesu	nous sommes de present , et en laquelle Nostre Seigneur Jhesu
+Cristreceutmortetpassion,	Crist receut mort et passion ,
+,etpourcertainesautrescausesetconsideracionsquià	, et pour certaines autres causes et consideracions qui à
+cenousontmeu	ce nous ont meu
+etmeuvent,auditBertran	et meuvent , audit Bertran
+ouditcasavonsremis,quictiéetpardonné	ou dit cas avons remis , quictié et pardonné
+,etc.,et	, etc ., et
+mesmementlapeine	mesmement la peine
+d’estre	d ’ estre
+misettournéoupiloryàThouars	mis et tourné ou pilory à Thouars
+etàlaGasnache,	et à la Gasnache ,
+enquoyilestetpuetestreencouruenversnous	en quoy il est et puet estre encouru envers nous
+nousetjustice,etlerestituonsàsa	nous et justice , et le restituons à sa
+bonnefameetrenommée,aupaïsetà	bonne fame et renommée , au païs et à
+sesbiensnonconfisqués,	ses biens non confisqués ,
+,nonobstant..ledit	, non obstant . . ledit
+arrestoujugementdenostredictecourtde	arrest ou jugement de nostre dicte court de
+Parlement,etsurceimposonssilenceperpetuelànostre	Parlement , et sur ce imposons silence perpetuel à nostre
+procureur,	procureur ,
+sattisfacionfaicteàpartiecivilement	sattisfacion faicte à partie civilement
+,parmice	, parmi ce
+toutesvoiesqueilfera	toutesvoies que il fera
+unpelerinageàNostre	un pelerinage à Nostre
+NostreDamedeBouloignesurlamer,et	Nostre Dame de Bouloigne sur la mer , et
+seratenud’enrapportercertifficacion	sera tenu d ’ en rapporter certifficacion
+,etpaieralesdictesamendes.civilestant	, et paiera les dictes amendes . civiles tant
+ànouscommeàpartie,etaussi..	à nous comme à partie , et aussi . .
+paieraàl	paiera à l
+l’Ostel	l ’ Ostel
+DieudeParis	Dieu de Paris
+Pariscentfrancsd’or,	Paris cent francs d ’ or ,
+,c’estassavoircinquante	, c ’ est assavoir cinquante
+francsàl’officedumaistreetlesautres	francs à l ’ office du maistre et les autres
+cinquanteàl’officedelaprieusedudit	cinquante à l ’ office de la prieuse dudit
+HostelDieu.Sydonnons..enmandementànoz	Hostel Dieu . Sy donnons . . en mandement à noz
+nozamezetfeaulxconseillerslesgensde	noz amez et feaulx conseillers les gens de
+denostreParlementàParis	de nostre Parlement à Paris
+,aubaillideTouraineet	, au bailli de Touraine et
+desressorsetExemptionsd’Anjou	des ressors et Exemptions d ’ Anjou
+Anjou,dePoitouetduMaine,età	Anjou , de Poitou et du Maine , et à
+àtouznozautresjusticiers,etc.DonnéàParis	à touz noz autres justiciers , etc . Donné à Paris
+,lexxviiiejourdemarsl’ande	, le xxviiie jour de mars l ’ an de
+gracemil	grace mil
+miliiiicet	mil iiiic et
+ettrois,etlexxiiiiedenostre	et trois , et le xxiiiie de nostre
+nostreregne.Autres	nostre regne . Autres
+foizainsisignée:	foiz ainsi signée :
+:Parleroy,presenspluseursdeschambellans,Fortement	: Par le roy , presens pluseurs des chambellans , Fortement
+.Etrescripteselonvostre.ordenance	. Et rescripte selon vostre . ordenance
+èsrequestesparvoustenues,parlecommandement	ès requestes par vous tenues , par le commandement
+du.roy,lepatriarched	du . roy , le patriarche d
+d’Alixandrie,l’	d ’ Alixandrie , l ’
+’arcevesque.d’Aux	’ arcevesque . d ’ Aux
+Aux,lesevesquesdeNoyon,deTournayet	Aux , les evesques de Noyon , de Tournay et
+et.deLimoges,leseneschaldeXantongeetpluseursautres	et . de Limoges , le seneschal de Xantonge et pluseurs autres
+presens.G.Fortement.	presens . G . Fortement .

@@ -1,123 +1,120 @@
-Loys,etc.Savoir	Loys , etc . Savoir
-Savoirfaisonsàtous,	Savoir faisons à tous ,
-presensetavenir,nousavoirreceul’umble..	presens et avenir , nous avoir receu l ’ umble . .
-supplicaciondenostreamiHenrydeLaSalle,escuier	supplicacion de nostre ami Henry de La Salle , escuier
-escuier,homme	escuier , homme
-d’armesdenostreordonnance	d ’ armes de nostre ordonnance
-ordonnancesoubzlachargedenostreaméetfealcappitaineFrançoys	ordonnance soubz la charge de nostre amé et feal cappitaine Françoys
-FrançoysdeLaSauvagiere,contenant	Françoys de La Sauvagiere , contenant
-que,pourappaisercertainprocèsmeu	que , pour appaiser certain procès meu
-meuentreleditsuppliant,d’unepart	meu entre ledit suppliant , d ’ une part
+Loys,..etc	Loys , . . etc
+etc...Savoir	etc . . . Savoir
+Savoirfaisonsàtous,presenset	Savoir faisons à tous , presens et
+avenir,nousavoir	avenir , nous avoir
+avoirreceul’umblesupplicacion	avoir receu l ’ umble supplicacion
+supplicaciondenostreamiHenryde	supplicacion de nostre ami Henry de
+deLaSalle,escuier,hommed	de La Salle , escuier , homme d
+d’armesdenostreordonnancesoubzlachargedenostre	d ’ armes de nostre ordonnance soubz la charge de nostre
+améetfealcappitaine.FrançoysdeLaSauvagiere,contenant	amé et feal cappitaine . Françoys de La Sauvagiere , contenant
+que,pour	que , pour
+appaiser.certain	appaiser . certain
+procèsmeuentreleditsuppliant..	procès meu entre ledit suppliant . .
+,d’unepart	, d ’ une part
 ,etdeffunctJehanGrelot,ditdes	, et deffunct Jehan Grelot , dit des
-Monceaux,laboureur,demourantenlaparroissedeVernueil	Monceaux , laboureur , demourant en la parroisse de Vernueil
-,d’autre	, d ’ autre
-autrepart,fut,parlemoyend	autre part , fut , par le moyen d
-’aucunsleurs	’ aucuns leurs
-leursamys,accordéet	leurs amys , accordé et
-appointéque,pourlesfraizeuzet	appointé que , pour les fraiz euz et
-soustenuzauditprocèsparleditsuppliant,ledit	soustenuz audit procès par ledit suppliant , ledit
-desMonceauxpaieroitauditsuppliant	des Monceaux paieroit audit suppliant
-lasommede.	la somme de .
-..centescuz,etencefaisant	. . cent escuz , et en ce faisant
-leprincipaldontilestoit.	le principal dont il estoit .
-questionentreeulxdemourroit	question entre eulx demourroit
-auditdesMonceauxou	audit des Monceaux ou
-auxsiens;desquelzcent	aux siens ; desquelz cent
-escuzluienfurentlorspayez	escuz lui en furent lors payez
-contantdixhuit,et..lerestedesdiz	contant dix huit , et . . le reste desdiz
-centescuzluienfutpromispayerpar	cent escuz lui en fut promis payer par
-lesdizdes	lesdiz des
-Monceauxdedanscertaintempslors	Monceaux dedans certain temps lors
-avenir,..commepar	avenir , . . comme par
-lettressurcefaictesetpasséespardevant	lettres sur ce faictes et passées par devant
-notaire,enpresencedetesmoings,peutapparoir.	notaire , en presence de tesmoings , peut apparoir .
-Orestilainsique,le	Or est il ainsi que , le
-mercredidevantlafeste[saincte	mercredi devant la feste [ saincte
-]MarieMagdalenederrenierementpassée,ainsique	] Marie Magdalene derrenierement passée , ainsi que
-ledit.suppliantrevenoitàchevalde	ledit . suppliant revenoit à cheval de
-sesaffaires	ses affaires
-,rencontrad’	, rencontra d ’
-avanture,ou	avanture , ou
-bourgduditlieudeVernueil,ledit	bourg dudit lieu de Vernueil , ledit
-desMonceaux..,	des Monceaux . . ,
+Monceaux,	Monceaux ,
+,laboureur,demourant..enlaparroissedeVernueil,	, laboureur , demourant . . en la parroisse de Vernueil ,
+d’autrepart,fut,parle..	d ’ autre part , fut , par le . .
+moyend’	moyen d ’
+aucunsleursamys	aucuns leurs amys
+amys,accordéetappointéque,pourlesfraiz	amys , accordé et appointé que , pour les fraiz
+fraizeuzetsoustenuzauditprocèsparledit	fraiz euz et soustenuz audit procès par ledit
+leditsuppliant,leditdes	ledit suppliant , ledit des
+Monceauxpaieroitauditsuppliantlasommedecent	Monceaux paieroit audit suppliant la somme de cent
+escuz,eten	escuz , et en
+cefaisantleprincipaldontilestoitquestion	ce faisant le principal dont il estoit question
+entreeulxdemourroit.auditdesMonceaux	entre eulx demourroit . audit des Monceaux
+ouauxsiens;desquelzcent	ou aux siens ; desquelz cent
+centescuzluienfurentlorspayezcontantdixhuit,	cent escuz lui en furent lors payez contant dix huit ,
+etlereste	et le reste
+desdizcentescuzluienfutpromispayerparlesdiz	desdiz cent escuz lui en fut promis payer par lesdiz
+desMonceauxdedanscertain	des Monceaux dedans certain
+tempslorsavenir,commeparlettres	temps lors avenir , comme par lettres
+lettressurcefaictes	lettres sur ce faictes
+etpassées..pardevantnotaire	et passées . . par devant notaire
+,enpresencedetesmoings,peutapparoir.Or	, en presence de tesmoings , peut apparoir . Or
+Orestilainsi.	Or est il ainsi .
+.que,lemercredidevantlafeste[saincte	. que , le mercredi devant la feste [ saincte
+]MarieMagdalenederrenierementpassée,	] Marie Magdalene derrenierement passée ,
+ainsiqueleditsuppliantrevenoit	ainsi que ledit suppliant revenoit
+àchevaldesesaffaires,rencontrad’	à cheval de ses affaires , rencontra d ’
+avanture,oubourg	avanture , ou bourg
+duditlieudeVernueil,leditdesMonceaux,	dudit lieu de Vernueil , ledit des Monceaux ,
 auquelleditsuppliant	auquel ledit suppliant
 demandagracieusementlerestequ’il	demanda gracieusement le reste qu ’ il
-illuidevoitdesdizcentescuz;à	il lui devoit desdiz cent escuz ; à
-quoyleditdesMonceaux,quin’estoitque	quoy ledit des Monceaux , qui n ’ estoit que
-unghommedelabour,respondyfièrementetorguilleusementqu	ung homme de labour , respondy fièrement et orguilleusement qu
-’ilnelui..devoitriens.Etce	’ il ne lui . . devoit riens . Et ce
-oyanticeluisuppliant,lui..dist	oyant icelui suppliant , lui . . dist
-toutdoulcementqu’ilsavoitbienque	tout doulcement qu ’ il savoit bien que
-quesifaisoit;maisledit	que si faisoit ; mais ledit
-desMonceaux..	des Monceaux . .
-.respondyderechefarroganmentauditsuppliantqu’	. respondy de rechef arroganment audit suppliant qu ’
-’ilavoitmenty.Etsevoyantparledit	’ il avoit menty . Et se voyant par ledit
-leditsuppliant,quiesthommenoble,ainsidementy,	ledit suppliant , qui est homme noble , ainsi dementy ,
+luidevoitdesdizcentescuz;àquoyledit	lui devoit desdiz cent escuz ; à quoy ledit
+leditdesMonceaux,qui..	ledit des Monceaux , qui . .
+n’estoit..queunghommedelabour,	n ’ estoit . . que ung homme de labour ,
+,respondyfièrementet	, respondy fièrement et
+orguilleusementqu’ilneluidevoitriens.	orguilleusement qu ’ il ne lui devoit riens .
+Etceoyanticeluisuppliant,lui	Et ce oyant icelui suppliant , lui
+disttout..doulcement	dist tout . . doulcement
+qu’ilsavoitbien	qu ’ il savoit bien
+quesifaisoit;mais	que si faisoit ; mais
+leditdesMonceauxrespondyderechefarroganmentauditsuppliantqu	ledit des Monceaux respondy de rechef arroganment audit suppliant qu
+’ilavoitmenty.Etsevoyantpar	’ il avoit menty . Et se voyant par
+leditsuppliant.,qui	ledit suppliant . , qui
+quiesthommenoble,ainsidementy,	qui est homme noble , ainsi dementy ,
 villipendéetoultragépar	villipendé et oultragé par
-leditdes	ledit des
-desMonceaux,hommerural,pourdemanderle	des Monceaux , homme rural , pour demander le
-sien,futfortesmeuetcourroucé,et	sien , fut fort esmeu et courroucé , et
-desplaisantdesdictesparolles	desplaisant desdictes parolles
-parolles,descenditde	parolles , descendit de
-dessussonchevaletsemistà.pié	dessus son cheval et se mist à . pié
-pié.EtpourcequeleditdesMonceaux	pié . Et pour ce que ledit des Monceaux
-persistoittousjoursenses	persistoit tousjours en ses
-oultrageusesetvillainesparolles,ledit.supplianttirasonespée	oultrageuses et villaines parolles , ledit . suppliant tira son espée
-etainsiqu	et ainsi qu
-qu’ilcuidoit	qu ’ il cuidoit
-frapperduplatd’icelleledit	frapper du plat d ’ icelle ledit
-desMonceauxsurlateste.laditeespéeluitournaen	des Monceaux sur la teste . ladite espée lui tourna en
-lamain,tellementqu’illeblessa	la main , tellement qu ’ il le blessa
-.Al’occasion	. A l ’ occasion
-dequoy,..	de quoy , . .
-leditdesMonceaulx,pardeffault	ledit des Monceaulx , par deffault
-deffaultdebongouvernement	deffault de bon gouvernement
-etd’estre	et d ’ estre
-bienpenséouautrement,estalléde	bien pensé ou autrement , est allé de
-devieàtrespas.Pourraisonduquelcas,iceluy	de vie à trespas . Pour raison duquel cas , iceluy
-suppliant,doubtantrigueurdejustice	suppliant , doubtant rigueur de justice
-,s’estabsentédupaysetn	, s ’ est absenté du pays et n
-’yoseroit,etc.,senozgrace	’ y oseroit , etc ., se noz grace
-,etc.,humblement	, etc ., humblement
-requerantque,attenduquetoutsontemps	requerant que , attendu que tout son temps
-,ilnous	, il nous
-nousabienetloyaumentservyoufaitdenoz	nous a bien et loyaument servy ou fait de noz
-nozguerres,etdepuisunganençaaesté	noz guerres , et depuis ung an ença a esté
-prinsprisonnier	prins prisonnier
-parnozrebelleset	par noz rebelles et
-desobeysans[subjects,et]luiaconvenu	desobeysans [ subjects , et ] lui a convenu
-convenupayergrantfinancepoursesdelivrances,	convenu payer grant finance pour ses delivrances ,
-qu’iln’avoit	qu ’ il n ’ avoit
-avoitaucuneintenciondetuerleditdeffunct,	avoit aucune intencion de tuer ledit deffunct ,
-quedesamortleditsuppliantaestéet	que de sa mort ledit suppliant a esté et
-estfort	est fort
-desplaisant,marryetcourroucé,et	desplaisant , marry et courroucé , et
-queentous.autrescas	que en tous . autres cas
+leditdes.Monceaux	ledit des . Monceaux
+,hommerural,pourdemander	, homme rural , pour demander
+lesien,	le sien ,
+,futfortesmeuet	, fut fort esmeu et
+courroucé,.etdesplaisantdesdictesparolles,descenditde	courroucé , . et desplaisant desdictes parolles , descendit de
+dessussonchevaletsemistàpié.Et	dessus son cheval et se mist à pié . Et
+Etpourceque	Et pour ce que
+queleditdesMonceauxpersistoittousjoursensesoultrageuseset	que ledit des Monceaux persistoit tousjours en ses oultrageuses et
+villainesparolles,leditsupplianttirasonespéeetainsi	villaines parolles , ledit suppliant tira son espée et ainsi
+qu’ilcuidoitfrapperduplat	qu ’ il cuidoit frapper du plat
+platd’icelle.leditdesMonceauxsurlatesteladite	plat d ’ icelle . ledit des Monceaux sur la teste ladite
+espéeluitourna..enla	espée lui tourna . . en la
+lamain,tellementqu’illeblessa.A	la main , tellement qu ’ il le blessa . A
+l’..occasion	l ’ . . occasion
+dequoy,leditdes	de quoy , ledit des
+desMonceaulx,pardeffaultdebongouvernement	des Monceaulx , par deffault de bon gouvernement
+etd’estrebien	et d ’ estre bien
+penséouautrement,estallédevieàtrespas	pensé ou autrement , est allé de vie à trespas
+trespas.Pourraisonduquelcas,iceluy	trespas . Pour raison duquel cas , iceluy
+suppliant,doubtantrigueurdejustice,s’	suppliant , doubtant rigueur de justice , s ’
+estabsentédupaysetn’yoseroit,	est absenté du pays et n ’ y oseroit ,
+etc.,se	etc ., se
+senozgrace,etc.,humblementrequerantque,attendu	se noz grace , etc ., humblement requerant que , attendu
+quetoutsontemps,ilnousa	que tout son temps , il nous a
+bienetloyaumentservyoufait	bien et loyaument servy ou fait
+denozguerres,etdepuisunganença	de noz guerres , et depuis ung an ença
+aestéprinsprisonnierparnozrebelleset	a esté prins prisonnier par noz rebelles et
+desobeysans[subjects,et	desobeysans [ subjects , et
+et]luiaconvenu	et ] lui a convenu
+payergrantfinancepoursesdelivrances,qu’il	payer grant finance pour ses delivrances , qu ’ il
+iln’avoitaucuneintenciondetuerledit	il n ’ avoit aucune intencion de tuer ledit
+leditdeffunct,quedesamortleditsuppliant	ledit deffunct , que de sa mort ledit suppliant
+aestéetestfortdesplaisant,marry	a esté et est fort desplaisant , marry
+etcourroucé,	et courroucé ,
+etqueentousautrescas	et que en tous autres cas
 ,etc.,nous	, etc ., nous
-luivueillonssurceimpartirnosdictesgraceet	lui vueillons sur ce impartir nosdictes grace et
-misericorde.Pourquoynous,etc.,	misericorde . Pourquoy nous , etc .,
-.,auditFrançoisdelaSalleavonsquicté	., audit François de la Salle avons quicté
-quicté,remis,etc.,	quicté , remis , etc .,
-etparcespresentes,etc.,quictons,	et par ces presentes , etc ., quictons ,
-,remettonsetpardonnonslefait	, remettons et pardonnons le fait
-faitetcasdessusdit,	fait et cas dessus dit ,
-avectoutepeineetamende,	avec toute peine et amende ,
-etc.,enmettantauneant,etc.	etc ., en mettant au neant , etc .
-Etl’avonsrestitué,etc.Satisfacion	Et l ’ avons restitué , etc . Satisfacion
-,etc.Etsurce	, etc . Et sur ce
-ceimposonssilence,etc.Sidonnonsen.mandementpar	ce imposons silence , etc . Si donnons en . mandement par
-cesdictespresentesauseneschaldePoictouet	cesdictes presentes au seneschal de Poictou et
-àtous,etc.quedenozpresens	à tous , etc . que de noz presens
-grace,etc.,	grace , etc .,
-sans,etc.,	sans , etc .,
-.,ainçois,etc.Etafin	., ainçois , etc . Et afin
-afin,etc..Sauf,etc	afin , etc . . Sauf , etc
+luivueillonssurce..impartir	lui vueillons sur ce . . impartir
+nosdictesgrace	nosdictes grace
+etmisericorde.Pourquoynous,etc	et misericorde . Pourquoy nous , etc
+.,auditFrançoisdelaSalleavonsquicté..,remis	., audit François de la Salle avons quicté . . , remis
+,etc.,et	, etc ., et
+etparcespresentes,	et par ces presentes ,
+etc.,quictons,	etc ., quictons ,
+,remettonsetpardonnonslefaitet	, remettons et pardonnons le fait et
+casdessusdit,avectoutepeineetamende,	cas dessus dit , avec toute peine et amende ,
+etc.,enmettantauneant,etc.Et	etc ., en mettant au neant , etc . Et
+l.’avonsrestitué	l . ’ avons restitué
+,etc.Satisfacion	, etc . Satisfacion
+,etc.Etsurceimposonssilence	, etc . Et sur ce imposons silence
+silence,..etc.	silence , . . etc .
+Sidonnonsenmandementparcesdictespresentesau	Si donnons en mandement par cesdictes presentes au
+seneschalde..Poictou	seneschal de . . Poictou
+etàtous,etc.quede	et à tous , etc . que de
+nozpresensgrace,etc.,sans,	noz presens grace , etc ., sans ,
+,etc.,ainçois	, etc ., ainçois
+,etc.Etafin,etc.	, etc . Et afin , etc .
+Sauf,etc.	Sauf , etc .
 .DonnéàVendosmeoumoisd’aoustl	. Donné à Vendosme ou mois d ’ aoust l
-’andegracemilcccc	’ an de grace mil cccc
-.quatre	. quatre
-vings,etde	vings , et de
-denostrerègne	de nostre règne
-règnelevintiesme.	règne le vintiesme .
-.Ainsisigné:	. Ainsi signé :
-ParleConseil.Chambon	Par le Conseil . Chambon
-Chambon.—Visa.Contentor	Chambon .— Visa . Contentor
+l’andegrace..milcccc	l ’ an de grace . . mil cccc
+.quatrevings,etdenostrerègnelevintiesme	. quatre vings , et de nostre règne le vintiesme
+vintiesme.Ainsisigné:Parle	vintiesme . Ainsi signé : Par le
+Conseil.Chambon.—Visa.Contentor.Budé.	Conseil . Chambon .— Visa . Contentor . Budé .

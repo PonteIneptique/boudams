@@ -1,209 +1,222 @@
-Charles,etc.	Charles , etc .
-Savoirfaisons	Savoir faisons
-faisons,etc.nousavoirreceul’umblesupplicacion	faisons , etc . nous avoir receu l ’ umble supplicacion
-deEmeryArrignon,ditl’Espinaye,escuier	de Emery Arrignon , dit l ’ Espinaye , escuier
-,demourantàArdilleresenlachastellenie	, demourant à Ardilleres en la chastellenie
-chastelleniedeSurgeresou	chastellenie de Surgeres ou
-païsdeXanctonge	païs de Xanctonge
-,.chargiéde	, . chargié de
-defemmeetpetizenfans	de femme et petiz enfans
-enfans,contenantque,xxxiii.	enfans , contenant que , xxxiii .
-ansaouenviron,leditEmery,lors	ans a ou environ , ledit Emery , lors
-estantenl’aage.dexviii.ans	estant en l ’ aage . de xviii . ans
-ouenvironetdemourantavecquesfeufrereJehan	ou environ et demourant avecques feu frere Jehan
-deTorçay.,pour	de Torçay . , pour
-letempsabbédeMoustierNeufdePoictiers,lequel	le temps abbé de Moustier Neuf de Poictiers , lequel
-ilservoit,icelluideTorçay	il servoit , icellui de Torçay
-,abbédessusdit..,luicommandacomme	, abbé dessus dit . . , lui commanda comme
-commeàsonserviteurqu’ilalast	comme à son serviteur qu ’ il alast
-avecetenla	avec et en la
-lacompaigniedeAlixandredeTorçay,son	la compaignie de Alixandre de Torçay , son
-sonfrere,etqu’ilfistcequ’..	son frere , et qu ’ il fist ce qu ’ . .
-illuiordonneroitoucommanderoit.Lequel	il lui ordonneroit ou commanderoit . Lequel
-Emery,en	Emery , en
-obeissantaudit	obeissant audit
-abbé,sonmaistre	abbé , son maistre
-maistre,s’enpartitduditlieu	maistre , s ’ en partit du dit lieu
-dePoictiers.,enlacompaignied’	de Poictiers . , en la compaignie d ’
-icelluiAlixandreet	icellui Alixandre et
-etdeplusieursautres,etd’ilecalerentau	et de plusieurs autres , et d ’ ilec alerent au
-lieudePamprou,duquelestoitcapitaineleditAlixandre	lieu de Pamprou , duquel estoit capitaine ledit Alixandre
-,etlandemainoucertainjouraprès,	, et landemain ou certain jour après ,
-dontn’est..	dont n ’ est . .
-recorsleditEmery,icelluiEmery	recors ledit Emery , icellui Emery
-,Alixandreetautres,jusques	, Alixandre et autres , jusques
-jusquesaunombrededouze,separtirentdulieu	jusques au nombre de douze , se partirent du lieu
-lieudePamprouet..alerent	lieu de Pamprou et . . alerent
-enlavilledeSaintMaixant,etillec	en la ville de Saint Maixant , et illec
-selogierentenunehostellerie.	se logierent en une hostellerie .
-Etestoientledit	Et estoient ledit
-Alixandreetungautre,armezdehaubregons,	Alixandre et ung autre , armez de haubregons ,
-pourcequec’estoitlorstemps	pour ce que c ’ estoit lors temps
-deguerre,etdeleurs.espées,etledit	de guerre , et de leurs . espées , et ledit
-Emeryavoitson	Emery avoit son
-espéeseinteseulement,etestoitenviron	espée seinte seulement , et estoit environ
-environl’eured’entreprimeettierce.	environ l ’ eure d ’ entre prime et tierce .
-Etincontinantoupeuaprèsqu’ilz	Et incontinant ou peu après qu ’ ilz
-furentlogiez,leditAlixandre	furent logiez , ledit Alixandre
-Alixandre..alafairesabarbe	Alixandre . . ala faire sa barbe
-barbeàl	barbe à l
-’osteld’un.barbier,lequeldemouroit	’ ostel d ’ un . barbier , lequel demouroit
-devantl’osteldefeueJehanneMangnée,lors	devant l ’ ostel de feue Jehanne Mangnée , lors
-lorsveufvedefeumaistreGuillaumeAndraut,	lors veufve de feu maistre Guillaume Andraut ,
-etdistaubarbierqueleditfeu	et dist au barbier que ledit feu
+Charles,etc.Savoirfaisons,	Charles , etc . Savoir faisons ,
+etc.nousavoirreceul’umblesupplicacionde	etc . nous avoir receu l ’ umble supplicacion de
+EmeryArrignon,ditl’	Emery Arrignon , dit l ’
+’Espinaye,escuier,demourantàArdilleres	’ Espinaye , escuier , demourant à Ardilleres
+enlachastellenie	en la chastellenie
+deSurgeres	de Surgeres
+SurgeresoupaïsdeXanctonge,chargiédefemmeetpetiz	Surgeres ou païs de Xanctonge , chargié de femme et petiz
+petizenfans.,	petiz enfans . ,
+contenantque,xxxiii.ans	contenant que , xxxiii . ans
+aouenviron	a ou environ
+,ledit..Emery,lorsestantenl’aage	, ledit . . Emery , lors estant en l ’ aage
+aagedexviii..	aage de xviii . .
+.ansouenviron.etdemourantavecquesfeufrereJehan	. ans ou environ . et demourant avecques feu frere Jehan
+deTorçay	de Torçay
+,pourletempsabbé.	, pour le temps abbé .
+deMoustierNeufdePoictiers,lequelil	de Moustier Neuf de Poictiers , lequel il
+servoit,icellui	servoit , icellui
+deTorçay,abbé	de Torçay , abbé
+dessusdit,luicommandacommeàson	dessus dit , lui commanda comme à son
+serviteur.qu’ilalast	serviteur . qu ’ il alast
+avecetenlacompaigniedeAlixandre	avec et en la compaignie de Alixandre
+AlixandredeTorçay,sonfrere,etqu	Alixandre de Torçay , son frere , et qu
+’ilfist	’ il fist
+cequ’illuiordonneroitoucommanderoit	ce qu ’ il lui ordonneroit ou commanderoit
+.LequelEmery,enobeissantauditabbé,son	. Lequel Emery , en obeissant audit abbé , son
+maistre,	maistre ,
+s’enpartit	s ’ en partit
+du..ditlieu	du . . dit lieu
+lieudePoictiers,enlacompaignie	lieu de Poictiers , en la compaignie
+d.’icellui	d . ’ icellui
+Alixandreet	Alixandre et
+deplusieursautres,et..d’ilecalerentau	de plusieurs autres , et . . d ’ ilec alerent au
+lieudePamprou,duquel	lieu de Pamprou , duquel
+estoitcapitaineleditAlixandre,	estoit capitaine ledit Alixandre ,
+etlandemainoucertainjouraprès,dont	et landemain ou certain jour après , dont
+n’est.recorsleditEmery,icelluiEmery,	n ’ est . recors ledit Emery , icellui Emery ,
+Alixandreetautres,jusques	Alixandre et autres , jusques
+jusquesaunombrede	jusques au nombre de
+douze,separtirentdulieudePamprouet	douze , se partirent du lieu de Pamprou et
+etalerenten	et alerent en
+lavilledeSaintMaixant,	la ville de Saint Maixant ,
+etillecselogierentenunehostellerie.Etestoient	et illec se logierent en une hostellerie . Et estoient
+estoientleditAlixandreetung	estoient ledit Alixandre et ung
+autre,armezde	autre , armez de
+haubregons,pourcequec’estoitlorstemps	haubregons , pour ce que c ’ estoit lors temps
+deguerre,	de guerre ,
+etdeleursespées,et	et de leurs espées , et
+leditEmeryavoit	ledit Emery avoit
+avoitsonespéeseinteseulement,et	avoit son espée seinte seulement , et
+estoitenvironl’eured’entreprimeet	estoit environ l ’ eure d ’ entre prime et
+ettierce.Et	et tierce . Et
+incontinantou..peuaprès	incontinant ou . . peu après
+qu’ilzfurentlogiez,	qu ’ ilz furent logiez ,
+leditAlixandrealafaire..sa	ledit Alixandre ala faire . . sa
+barbeàl’ostel	barbe à l ’ ostel
+d’unbarbier	d ’ un barbier
+,lequeldemouroitdevantl’osteldefeue	, lequel demouroit devant l ’ ostel de feue
+JehanneMangnée,lorsveufvedefeumaistreGuillaumeAndraut	Jehanne Mangnée , lors veufve de feu maistre Guillaume Andraut
+,.etdistaubarbierqueleditfeu	, . et dist au barbier que ledit feu
 maistreGuillaumeavoitestédu	maistre Guillaume avoit esté du
-conseildesonpere,	conseil de son pere ,
-,qu.’illui	, qu . ’ il lui
-avoitbaillécertaineslettres	avoit baillé certaines lettres
-,lesquellesilestoit	, lesquelles il estoit
-estoitvenuquerir.	estoit venu querir .
-,etluidemandacommentilles	, et lui demanda comment il les
-pourroitrecouvrer	pourroit recouvrer
-..Lequelbarbier	. . Lequel barbier
-luiresponditqueson	lui respondit que son
-sonclercestoitoudithostel,duquelil	son clerc estoit oudit hostel , duquel il
-recouvreroitbiensesdicteslettres;etde	recouvreroit bien ses dictes lettres ; et de
-faitleditbarbierenvoya	fait ledit barbier envoya
-envoyapardeuxfoizsafemmeoudithostel	envoya par deux foiz sa femme ou dit hostel
-,lequelestoitferméetne	, lequel estoit fermé et ne
-parlaàaucunepersonne.Et..	parla à aucune personne . Et . .
-nesavoitlorsleditEmeryquevouloitfaire	ne savoit lors ledit Emery que vouloit faire
-leditAlixandre,nequelle	ledit Alixandre , ne quelle
-quelleentencionilavoit.	quelle entencion il avoit .
-Enfaisantlabarbeduquel,arriverent	En faisant la barbe duquel , arriverent
-arriverentillecungnomméMacéetungautre,	arriverent illec ung nommé Macé et ung autre ,
-dontn’estrecorsledit	dont n ’ est recors le dit
-ditsuppliantdunom.Etaprèsque	dit suppliant du nom . Et après que
-leditAlixandreeutfaitsadictebarbe	ledit Alixandre eut fait sa dicte barbe
-,printunepetiteeschellequ	, print une petite eschelle qu
-qu’iltrouvaenl’	qu ’ il trouva en l ’
-ouvrouer..duditbarbieretla	ouvrouer . . dudit barbier et la
-porta,ou.fistporterauditMacé	porta , ou . fist porter audit Macé
-,contrelemurdudithosteldeladictevefve,	, contre le mur dudit hostel de ladicte vefve ,
-endroitd	en droit d
-’unefenestre,laquelleestoit	’ une fenestre , laquelle estoit
-estoitouverte,etcommanda	estoit ouverte , et commanda
-auditEmeryquemontastpourentrer	audit Emery que montast pour entrer
-dedansparmyladictefenestre	dedans parmy ladicte fenestre
-.Lequelmonta,cuidant	. Lequel monta , cuidant
-quecefeustpourparleraudit.clerc	que ce feust pour parler audit . clerc
-etrecouvrer	et recouvrer
-lesdictes	les dictes
-dicteslettres,	dictes lettres ,
-,etyentra	, et y entra
+duconseilde	du conseil de
+son..pere	son . . pere
+,qu’illuiavoitbaillécertaineslettres	, qu ’ il lui avoit baillé certaines lettres
+,lesquellesilestoitvenu	, lesquelles il estoit venu
+querir,etluidemandacomment	querir , et lui demanda comment
+il.lespourroitrecouvrer	il . les pourroit recouvrer
+recouvrer.Lequelbarbierlui	recouvrer . Lequel barbier lui
+responditque	respondit que
+sonclercestoitoudithostel	son clerc estoit oudit hostel
+,..duquelilrecouvreroit	, . . duquel il recouvreroit
+biensesdicteslettres;et	bien ses dictes lettres ; et
+defaitledit	de fait ledit
+leditbarbierenvoyapardeuxfoiz	ledit barbier envoya par deux foiz
+safemme	sa femme
+femmeoudithostel,lequelestoitferméetneparla	femme ou dit hostel , lequel estoit fermé et ne parla
+àaucunepersonne.Etnesavoitlors	à aucune personne . Et ne savoit lors
+lorsleditEmeryquevouloitfaireleditAlixandre,nequelle	lors ledit Emery que vouloit faire ledit Alixandre , ne quelle
+entencionilavoit.Enfaisantlabarbeduquel,	entencion il avoit . En faisant la barbe duquel ,
+arriverentillecungnomméMacéetungautre,..dont	arriverent illec ung nommé Macé et ung autre , . . dont
+dontn’estrecors	dont n ’ est recors
+leditsuppliant	le dit suppliant
+dunom.Etaprèsque	du nom . Et après que
+queleditAlixandre	que ledit Alixandre
+Alixandreeutfaitsadictebarbe,	Alixandre eut fait sa dicte barbe ,
+printunepetiteeschellequ’iltrouvaen.	print une petite eschelle qu ’ il trouva en .
+l..’ouvrouer	l . . ’ ouvrouer
+duditbarbieretlaporta,	dudit barbier et la porta ,
+oufistporterauditMacé,contre	ou fist porter audit Macé , contre
+lemurdudithosteldeladictevefve,endroit	le mur dudit hostel de ladicte vefve , en droit
+d’unefenestre.	d ’ une fenestre .
+,laquelleestoitouverte.	, laquelle estoit ouverte .
+.,etcommandaauditEmeryquemontastpourentrer.dedans	. , et commanda audit Emery que montast pour entrer . dedans
+dedansparmy.ladictefenestre.Lequel	dedans parmy . ladicte fenestre . Lequel
+monta,cuidant	monta , cuidant
+cuidantquece.	cuidant que ce .
+.feustpourparlerauditclercetrecouvrerles	. feust pour parler audit clerc et recouvrer les
+dicteslettres,etyentra	dictes lettres , et y entra
 ;etquantilfutpardedans	; et quant il fut par dedans
-,incontinant,ladictevefve	, incontinant , ladicte vefve
-survintillecet	survint illec et
-etluidemandaqu’ilqueroitleans,et	et lui demanda qu ’ il queroit leans , et
-qu’elle.estoitfemmevefve.Etledit	qu ’ elle . estoit femme vefve . Et le dit
-Emeryresponditqu’ilyavoitung	Emery respondit qu ’ il y avoit ung
-unggentilhomme,lequeldemandoitleclercdeleans	ung gentilhomme , lequel demandoit le clerc de leans
-leans,etvouloitparleràlui,..pourrecouvrer	leans , et vouloit parler à lui , . . pour recouvrer
-deslettres.En	des lettres . En
-disantlesquellesparolles,leditAlixandre	disant lesquelles parolles , ledit Alixandre
-aprèsentraparmyla	après entra parmy la
-dictefenestre,et	dicte fenestre , et
-printladictefemme.parmylebrazet	print la dicte femme . parmy le braz et
-etlamenaembasàlaporte..del’entrée	et la mena embas à la porte . . de l ’ entrée
-dudit..hostel;laquelleelleouvryoufistouvrir,	dudit . . hostel ; laquelle elle ouvry ou fist ouvrir ,
-etneserecordeleditEmeryquellesparoles	et ne se recorde le dit Emery quelles paroles
-parolesdisoitleditAlixandreàla	paroles disoit le dit Alixandre à la
-ladictevefve	la dicte vefve
-,carilnesavoitàquellefinleditAlixandre	, car il ne savoit à quelle fin ledit Alixandre
-Alixandrelamenoitnequeilvouloit,.etcroyoitqu	Alixandre la menoit ne que il vouloit , . et croyoit qu
-qu’ilne	qu ’ il ne
-deustdemanderquelesdicteslettres	deust demander que lesdictes lettres
-etledit	et ledit
-leditclercpourlesrecouvrer.Etincontinantque	ledit clerc pour les recouvrer . Et incontinant que
-ladicteportefeustouverte.	la dicte porte feust ouverte .
-,ilztrouverent	, ilz trouverent
-trouverentleschevaulx..prestzdevant	trouverent les chevaulx . . prestz devant
-ledithostel,duquelleditAlixandremistdehors	ledit hostel , duquel ledit Alixandre mist dehors
-ladicteveufve,laquelledisoitplusieurs	ladicte veufve , laquelle disoit plusieurs
-paroles,desquellesleditEmery	paroles , desquelles ledit Emery
-neserecorde..	ne se recorde . .
-.,pourcequ’ilasilongtemps	. , pour ce qu ’ il a si long temps
-tempsqu’ilnel’apeuavoirà	temps qu ’ il ne l ’ a peu avoir à
-memoire.	memoire .
-.EttantostleditAlixandre	. Et tantost ledit Alixandre
-etleditMacéprindrentladicteveufveet	et ledit Macé prindrent ladicte veufve et
-lamisdrentàcheval,pardevant	la misdrent à cheval , par devant
-ungnomméJehandela	ung nommé Jehan de la
-Roche,lequelnelatintgueresfort	Roche , lequel ne la tint gueres fort
-,etasseztostellecheuàterredudit	, et assez tost elle cheu à terre dudit
-cheval.Etcefait	cheval . Et ce fait
-fait,incontinantleditAlixandreleurdist:«A	fait , incontinant ledit Alixandre leur dist :« A
-cheval,àcheval	cheval , à cheval
-!»Aprèslesquellesparoles..dictes,monterenttousàcheval	!» Après lesquelles paroles . . dictes , monterent tous à cheval
-chevalhorsde	cheval hors de
-deleurshostelz,.embastonnez.LeditAlixandreet	de leurs hostelz , . embastonnez . Ledit Alixandre et
-ceulxdesacompaignietirerentleursespéesenleursmains	ceulx de sa compaignie tirerent leurs espées en leurs mains
-mains,ets’enalerentenversla	mains , et s ’ en alerent envers la
-portedeladicteville,au	porte de la dicte ville , au
-dehorsd’icelle;ety	dehors d ’ icelle ; et y
-yavoitparavantaucunsdeladictecompaignie,afinde	y avoit paravant aucuns de la dicte compaignie , afin de
-garderquel..’enne	garder que l . . ’ en ne
-nefermast..lesportesdeladicteville.	ne fermast . . les portes de la dicte ville .
-.Quiilzestoientleditsuppliantnese	. Qui ilz estoient ledit suppliant ne se
-recorde.Mais	recorde . Mais
-Maisnetrouverentaucunempeschement	Mais ne trouverent aucun empeschement
-àeulxenaler,et	à eulx en aler , et
-saillirentdehors,ets’en	saillirent dehors , et s ’ en
-enretournerentd’ilecauditlieudePamprou.De	en retournerent d ’ ilec audit lieu de Pamprou . De
-Delaquellechose,ainsiqueleditsuppliantadepuisoy	De laquelle chose , ainsi que ledit suppliant a depuis oy
-oydire,leditAlixandreobtintgracepourtous,qui	oy dire , ledit Alixandre obtint grace pour tous , qui
-qui..futveriffiéeà	qui . . fut veriffiée à
-Poictiers,etcroitqu’il	Poictiers , et croit qu ’ il
-futpresent	fut present
-,maisproprementn	, mais proprement n
-’estdece..pasbien	’ est de ce . . pas bien
-bienrecors,pour	bien recors , pour
+,incontinant	, incontinant
+,ladictevefvesurvintillecetlui	, ladicte vefve survint illec et lui
+demandaqu’il	demanda qu ’ il
+queroitleans,etqu’elleestoitfemme	queroit leans , et qu ’ elle estoit femme
+vefve.Et	vefve . Et
+leditEmeryresponditqu..	le dit Emery respondit qu . .
+’ilyavoit	’ il y avoit
+unggentilhomme,lequeldemandoitleclercde	ung gentilhomme , lequel demandoit le clerc de
+leans,et	leans , et
+vouloitparleràlui,pourrecouvrerdeslettres.	vouloit parler à lui , pour recouvrer des lettres .
+.Endisant	. En disant
+disantlesquellesparolles	disant lesquelles parolles
+,leditAlixandreaprèsentra	, ledit Alixandre après entra
+parmyladictefenestre	parmy la dicte fenestre
+fenestre,etprintla	fenestre , et print la
+dictefemmeparmylebrazetlamena	dicte femme parmy le braz et la mena
+embasàlaportedel	embas à la porte de l
+’entréedudithostel	’ entrée dudit hostel
+;laquelleelleouvryou	; laquelle elle ouvry ou
+fistouvrir,et	fist ouvrir , et
+etneserecorde..leditEmeryquelles	et ne se recorde . . le dit Emery quelles
+quellesparolesdisoitleditAlixandreàladicte	quelles paroles disoit le dit Alixandre à la dicte
+vefve,carilnesavoitàquelle	vefve , car il ne savoit à quelle
+quellefinledit	quelle fin ledit
+leditAlixandrelamenoitne	ledit Alixandre la menoit ne
+nequeilvouloit,etcroyoit	ne que il vouloit , et croyoit
+qu’ilnedeustdemander	qu ’ il ne deust demander
+quelesdicteslettresetledit	que lesdictes lettres et ledit
+leditclercpourles	ledit clerc pour les
+recouvrer.Et	recouvrer . Et
+incontinantqueladicteportefeustouverte,ilztrouverent	incontinant que la dicte porte feust ouverte , ilz trouverent
+leschevaulxprestzdevantledithostel,	les chevaulx prestz devant ledit hostel ,
+duquelleditAlixandremistdehorsladicteveufve,laquelledisoit	duquel ledit Alixandre mist dehors ladicte veufve , laquelle disoit
+plusieursparoles,desquelles	plusieurs paroles , desquelles
+desquellesleditEmeryneserecorde.,pourcequ	desquelles ledit Emery ne se recorde . , pour ce qu
+’ilasilong	’ il a si long
+tempsqu’	temps qu ’
+ilnel’apeuavoir	il ne l ’ a peu avoir
+àmemoire..Ettantost	à memoire . . Et tantost
+tantostleditAlixandreetleditMacéprindrent	tantost ledit Alixandre et ledit Macé prindrent
+ladicteveufveetlamisdrentà	ladicte veufve et la misdrent à
+cheval,pardevantungnommé	cheval , par devant ung nommé
+JehandelaRoche	Jehan de la Roche
+,lequelnelatintgueres	, lequel ne la tint gueres
+fort..,etasseztost	fort . . , et assez tost
+ellecheuàterredudit	elle cheu à terre dudit
+cheval.Etcefait,incontinant	cheval . Et ce fait , incontinant
+leditAlixandreleurdist:«Acheval,	ledit Alixandre leur dist :« A cheval ,
+à.cheval	à . cheval
+cheval!»Aprèslesquellesparolesdictes,monterent..tousà	cheval !» Après lesquelles paroles dictes , monterent . . tous à
+chevalhorsdeleurshostelz,embastonnez	cheval hors de leurs hostelz , embastonnez
+embastonnez.LeditAlixandre	embastonnez . Ledit Alixandre
+etceulxde	et ceulx de
+desacompaignietirerent	de sa compaignie tirerent
+leursespées.enleurs	leurs espées . en leurs
+mains,ets	mains , et s
+s’enalerentenverslaportedeladicte	s ’ en alerent envers la porte de la dicte
+ville,audehorsd’	ville , au dehors d ’
+icelle;etyavoitparavantaucunsdeladicte	icelle ; et y avoit paravant aucuns de la dicte
+compaignie,afindegarderque..l’enne	compaignie , afin de garder que . . l ’ en ne
+nefermastlesportesdeladicteville.Quiilz	ne fermast les portes de la dicte ville . Qui ilz
+estoientleditsuppliantneserecorde.Maisne	estoient ledit suppliant ne se recorde . Mais ne
+trouverentaucunempeschement	trouverent aucun empeschement
+àeulxenaler	à eulx en aler
+aler,etsaillirentdehors,ets’	aler , et saillirent dehors , et s ’
+enretournerentd.’ilecauditlieu	en retournerent d . ’ ilec audit lieu
+lieudePamprou.De	lieu de Pamprou . De
+laquellechose,ainsiqueleditsuppliantadepuisoy	laquelle chose , ainsi que ledit suppliant a depuis oy
+dire,leditAlixandre	dire , ledit Alixandre
+Alixandreobtintgracepourtous,	Alixandre obtint grace pour tous ,
+quifutveriffiéeà	qui fut veriffiée à
+Poictiers,etcroitqu’	Poictiers , et croit qu ’
+ilfutpresent,maisproprementn	il fut present , mais proprement n
+’estdece	’ est de ce
+pasbien	pas bien
+recors,	recors ,
 pourcequ’ilasi	pour ce qu ’ il a si
-silong..tempsetqu’ilestoitjeune	si long . . temps et qu ’ il estoit jeune
-,commeditest.Al’occasionduquel..	, comme dit est . A l ’ occasion duquel . .
-cas,ledit	cas , ledit
-suppliantquilors..	suppliant qui lors . .
-estoitjeune	estoit jeune
-,etnesavoitriensd’	, et ne savoit riens d ’
-icellui,et	icellui , et
-etn’enfutoncquescontent,	et n ’ en fut oncques content ,
-maistrèsdesplaisant,	mais très desplaisant ,
-doubteque,nonobstantladictegraceainsiprinse	doubte que , non obstant ladicte grace ainsi prinse
-parleditAlixandre,pour	par ledit Alixandre , pour
-luiet..tousles	lui et . . tous les
-autres..,	autres . . ,
-,quiaestéveriffiéeauditPoictiers,que	, qui a esté veriffiée au dit Poictiers , que
-quepourletempsavenir	que pour le temps avenir
-justiceluifeustrigoureuse,etqueà	justice lui feust rigoureuse , et que à
-cestecauseon	ceste cause on
-lui..voulsistmettreoudonneraucunempeschement	lui . . voulsist mettre ou donner aucun empeschement
-encorpsouen	en corps ou en
-enbiens,sinostregracenelui	en biens , si nostre grace ne lui
+longtemps..	long temps . .
+etqu’ilestoitjeune,commeditest	et qu ’ il estoit jeune , comme dit est
+est.Al’	est . A l ’
+’occasionduquelcas,leditsuppliant	’ occasion duquel cas , ledit suppliant
+quilorsestoitjeune,et	qui lors estoit jeune , et
+nesavoit	ne savoit
+riensd’	riens d ’
+’icellui,et..n	’ icellui , et . . n
+’enfutoncquescontent,maistrèsdesplaisant,	’ en fut oncques content , mais très desplaisant ,
+,doubteque,nonobstantladictegraceainsi	, doubte que , non obstant ladicte grace ainsi
+prinseparledit..Alixandre,pour	prinse par ledit . . Alixandre , pour
+luiettouslesautres	lui et tous les autres
+,quiaestéveriffiéeau	, qui a esté veriffiée au
+ditPoictiers,quepourle	dit Poictiers , que pour le
+tempsavenir.justicelui	temps avenir . justice lui
+feustrigoureuse,etqueàcestecauseon	feust rigoureuse , et que à ceste cause on
+luivoulsistmettreoudonneraucunempeschementen	lui voulsist mettre ou donner aucun empeschement en
+en.corpsouenbiens	en . corps ou en biens
+,sinostregracene	, si nostre grace ne
 luiestoitsurceimpartie,si	lui estoit sur ce impartie , si
-sicommeil	si comme il
-dit,ennoushumblement	dit , en nous humblement
-requerantque,	requerant que ,
-attenduqu’ilatousjours,etdevant	attendu qu ’ il a tousjours , et devant
-etdepuis,estéhommedebonnevie,	et depuis , esté homme de bonne vie ,
-renomméeethonnesteconversacion,	renommée et honneste conversacion ,
-sansoncquesmaisavoirestéactaint	sans oncques mais avoir esté actaint
-ouconvaincu..d’	ou convaincu . . d ’
-’aucunautrevillaincas,blasmeoureprouche,	’ aucun autre villain cas , blasme ou reprouche ,
-ilnousplaiseicelle	il nous plaise icelle
-nostregracepiteablementlui	nostre grace piteablement lui
-luieslargir.Pourquoynous..,ceschoses	lui eslargir . Pour quoy nous . . , ces choses
-considerées,	considerées ,
-voulansmisericordeprefereràrigueurde	voulans misericorde preferer à rigueur de
-justice,auditsuppliantoucasdessusdit.avonsquicté	justice , audit suppliant ou cas dessus dit . avons quicté
-quicté,remiset	quicté , remis et
-pardonné,etc.Sidonnons.	pardonné , etc . Si donnons .
-.en..mandement,parcesmesmespresentes,auseneschal	. en . . mandement , par ces mesmes presentes , au seneschal
-seneschaldePoictouetàtousnozautresjusticiers,etc	seneschal de Poictou et à tous noz autres justiciers , etc
-.DonnéàChinon,oumoisde	. Donné à Chinon , ou mois de
-mayl’an	may l ’ an
-degracemilcccc.xlvi,et	de grace mil cccc . xlvi , et
-denostre	de nostre
-regnelexxiiiie.Ainsisigné:Par..le	regne le xxiiiie . Ainsi signé : Par . . le
-leroy,àlarelacion	le roy , à la relacion
-duconseil.Bochetel..	du conseil . Bochetel . .
-..—Visa.Contentor.Charlet.	. .— Visa . Contentor . Charlet .
+commeildit,ennous	comme il dit , en nous
+humblementrequerant..	humblement requerant . .
+.que,attenduqu’ilatousjours,	. que , attendu qu ’ il a tousjours ,
+,etdevant	, et devant
+devantetdepuis,estéhomme	devant et depuis , esté homme
+debonnevie	de bonne vie
+,renomméeethonnesteconversacion,sansoncquesmaisavoir	, renommée et honneste conversacion , sans oncques mais avoir
+estéactaintouconvaincud	esté actaint ou convaincu d
+’aucunautre	’ aucun autre
+villaincas	villain cas
+,blasmeoureprouche,ilnousplaiseicelle	, blasme ou reprouche , il nous plaise icelle
+nostre.gracepiteablementluieslargir.Pourquoynous,	nostre . grace piteablement lui eslargir . Pour quoy nous ,
+ces.chosesconsiderées	ces . choses considerées
+,voulansmisericordeprefererà	, voulans misericorde preferer à
+àrigueurdejustice,auditsuppliant	à rigueur de justice , audit suppliant
+suppliantoucasdessusditavonsquicté,remis	suppliant ou cas dessus dit avons quicté , remis
+etpardonné,.etc.	et pardonné , . etc .
+.Sidonnonsenmandement,parcesmesmespresentes	. Si donnons en mandement , par ces mesmes presentes
+,auseneschaldePoictouetàtousnozautres	, au seneschal de Poictou et à tous noz autres
+justiciers,	justiciers ,
+etc.DonnéàChinon,oumoisde	etc . Donné à Chinon , ou mois de
+mayl’andegracemilcccc.xlvi	may l ’ an de grace mil cccc . xlvi
+,etdenostre	, et de nostre
+nostreregnelexxiiiie.Ainsisigné:..Parle	nostre regne le xxiiiie . Ainsi signé : . . Par le
+roy,àlarelacionduconseil.Bochetel.—	roy , à la relacion du conseil . Bochetel .—
+.—Visa.Contentor.	.— Visa . Contentor .
+Charlet.	Charlet .

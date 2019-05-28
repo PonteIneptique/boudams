@@ -1,162 +1,171 @@
-Charles,etc.Savoirfaisonsàtouz,	Charles , etc . Savoir faisons à touz ,
-presens.et	presens . et
-avenir,nousavoirveu	avenir , nous avoir veu
-leslettresdenostretrèschier	les lettres de nostre très chier
-ettrèsaméoncle,leducdeBourbon	et très amé oncle , le duc de Bourbon
-Bourbon,lorslieutenantde	Bourbon , lors lieutenant de
-nousetdenostretrèschierettrès	nous et de nostre très chier et très
-améoncle,leducdeBerry	amé oncle , le duc de Berry
-Berry,contenanslaformequis	Berry , contenans la forme qui s
-s’ensuit	s ’ ensuit
-:LoysducdeBourbonnois	: Loys duc de Bourbonnois
-Bourbonnois,contedeClermontetdeForez,per	Bourbonnois , conte de Clermont et de Forez , per
-etchambrierdeFrance,etlieutenantduroyen	et chambrier de France , et lieutenant du roy en
-nozdiz.pays	noz diz . pays
-paysdeBourbonnoiset.deForès	pays de Bourbonnois et . de Forès
-Forès..,en	Forès . . , en
-Limosin,laMarche	Limosin , la Marche
-,Xaintongeet	, Xaintonge et
-etAngoulmoysetPierregourt,etde	et Angoulmoys et Pierregourt , et de
-demonseigneurdeBerryensespaysdeBerry..	de monseigneur de Berry en ses pays de Berry . .
-,d’AuvergneetdePoitou.	, d ’ Auvergne et de Poitou .
-Savoirfaisonsàtouz,presensetavenir,nous	Savoir faisons à touz , presens et avenir , nous
-nousavoiroyl	nous avoir oy l
-l’umblesupplicaciondeOlivier	l ’ umble supplicacion de Olivier
-Clerbaut,escuier,contenant	Clerbaut , escuier , contenant
-que,comme	que , comme
-commeil.et	comme il . et
-etMargotMarchande,vefve	et Margot Marchande , vefve
-vefvedefeu.JehanThabary,	vefve de feu . Jehan Thabary ,
-demourantenTalemondoys,eussentsecretementparlé	demourant en Talemondoys , eussent secretement parlé
-ensambled’estre	ensamble d ’ estre
-adjoinsl’	adjoins l ’
-unà..l’autreparmariage,	un à . . l ’ autre par mariage ,
-etceparlé,la..	et ce parlé , la . .
-dicteMargotsedoubtastque	dicte Margot se doubtast que
-,s’elleenparloit	, s ’ elle en parloit
-àaucuns.desesamis	à aucuns . de ses amis
-,qu’ilnevoulsissentconsentirne	, qu ’ il ne voulsissent consentir ne
-avoiraggreableleditmariage,et	avoir aggreable le dit mariage , et
-aussiseelle	aussi se elle
-lefaisoitsenzleconsentement..etvoulentéd’	le faisoit senz le consentement . . et voulenté d ’
-iceulx..,que	iceulx . . , que
-elleneencourustleurindignacion,et	elle ne encourust leur indignacion , et
-pourobvier	pour obvier
-adce,eust..	ad ce , eust . .
-parléavecleditOlivierqu	parlé avec le dit Olivier qu
-’illafeistprandre,	’ il la feist prandre ,
-aussicommesecenefeust	aussi comme se ce ne feust
-feustdesavoulenté,lequel	feust de sa voulenté , lequel
-Olivierinclinantàce,	Olivier inclinant à ce ,
-,lafistprandre,etavecqueselleetdeson	, la fist prandre , et avecques elle et de son
-sonconsentementetvoulentése	son consentement et voulenté se
+Charles,etc.Savoir	Charles , etc . Savoir
+faisonsàtouz,presenset	faisons à touz , presens et
+avenir,nousavoirveules	avenir , nous avoir veu les
+lettresdenostretrèschierettrèsaméoncle	lettres de nostre très chier et très amé oncle
+oncle,leduc	oncle , le duc
+deBourbon,lors	de Bourbon , lors
+lieutenantdenousetdenostretrès	lieutenant de nous et de nostre très
+chierettrès	chier et très
+améoncle,leducde	amé oncle , le duc de
+deBerry,contenansla	de Berry , contenans la
+formequis	forme qui s
+’ensuit:Loysducde	’ ensuit : Loys duc de
+Bourbonnois,contedeClermont	Bourbonnois , conte de Clermont
+etdeForez,peretchambrierdeFrance	et de Forez , per et chambrier de France
+France,etlieutenantduroy	France , et lieutenant du roy
+ennozdizpaysdeBourbonnois	en noz diz pays de Bourbonnois
+BourbonnoisetdeForès,enLimosin,laMarche,	Bourbonnois et de Forès , en Limosin , la Marche ,
+XaintongeetAngoulmoysetPierregourt,et	Xaintonge et Angoulmoys et Pierregourt , et
+de.monseigneurdeBerryensespaysde	de . monseigneur de Berry en ses pays de
+deBerry,d’Auvergneetde	de Berry , d ’ Auvergne et de
+Poitou.Savoirfaisonsàtouz,	Poitou . Savoir faisons à touz ,
+presensetavenir,nousavoiroy	presens et avenir , nous avoir oy
+l’umble.supplicaciondeOlivierClerbaut,	l ’ umble . supplicacion de Olivier Clerbaut ,
+escuier,contenantque,commeiletMargot	escuier , contenant que , comme il et Margot
+Marchande,vefvedefeuJehanThabary,demourant	Marchande , vefve de feu Jehan Thabary , demourant
+enTalemondoys	en Talemondoys
+,eussentsecretementparléensambled	, eussent secretement parlé ensamble d
+’estreadjoins	’ estre adjoins
+l’un.àl’	l ’ un . à l ’
+autreparmariage,et	autre par mariage , et
+etceparlé,ladicteMargotsedoubtast	et ce parlé , la dicte Margot se doubtast
+que,s’elle	que , s ’ elle
+elle..enparloitàaucunsdesesamis,qu’	elle . . en parloit à aucuns de ses amis , qu ’
+ilnevoulsissentconsentirne	il ne voulsissent consentir ne
+avoiraggreableleditmariage,	avoir aggreable le dit mariage ,
+,etaussiseellelefaisoitsenzle	, et aussi se elle le faisoit senz le
+consentementetvoulentéd’iceulx,queelle	consentement et voulenté d ’ iceulx , que elle
+neencourustleurindignacion	ne encourust leur indignacion
+indignacion,etpourobvieradce,eustparlé	indignacion , et pour obvier ad ce , eust parlé
+avecle..dit	avec le . . dit
+Olivierqu.	Olivier qu .
+’illa.feistprandre,	’ il la . feist prandre ,
+,aussicomme	, aussi comme
+secenefeustdesavoulenté,	se ce ne feust de sa voulenté ,
+,lequelOlivier	, lequel Olivier
+inclinantàce,lafistprandre,	inclinant à ce , la fist prandre ,
+etavecqueselleet	et avecques elle et
+etdesonconsentementet	et de son consentement et
+voulentése	voulenté se
 seadjoingnyetacomplit	se adjoingny et acomplit
-acomplitleditmariage,parlamanierequeentr’	acomplit le dit mariage , par la maniere que entr ’
-’eulxdeuxavoitestésecretemententrepris,	’ eulx deux avoit esté secretement entrepris ,
-,lequelmariageainsifaitladicteMargot	, lequel mariage ainsi fait la dicte Margot
-atousjourseu	a tousjours eu
-etencores..aaggreable	et encores . . a aggreable
-aggreable.EtcenonobstantleditOlivieraesté	aggreable . Et ce nonobstant le dit Olivier a esté
-estédepuisetencore	esté depuis et encore
-esttraictiéetmisen	est traictié et mis en
-procès,pouroccasiondufaitdessusdit	procès , pour occasion du fait dessus dit
-dit,parlesofficiersdedamoiselle	dit , par les officiers de damoiselle
-JehannedeRays,en	Jehanne de Rays , en
-sacourtetsiegedelaMeuriere	sa court et siege de la Meuriere
-Meuriere,enlaquellecourtilpourroitestrelonguement	Meuriere , en laquelle court il pourroit estre longuement
-.Etpource,	. Et pource ,
-nousasuppliéquesurceluivueillonsimpartir	nous a supplié que sur ce lui vueillons impartir
-nostregrace.Pourquoynous,attenduceque	nostre grace . Pour quoy nous , attendu ce que
-ditest,..	dit est , . .
-inclinanzàlasupplicacionduditescuier	inclinanz à la supplicacion du dit escuier
-,enfaveurduditmariage	, en faveur du dit mariage
-mariage,àycelli,oucasdessus	mariage , à ycelli , ou cas dessus
-dessusdit,avonsquictié,remisetpardonné,	dessus dit , avons quictié , remis et pardonné ,
-,etparces	, et par ces
-presentes,.	presentes , .
-.degraceespecial,plaine.puissanceet	. de grace especial , plaine . puissance et
-auctoritédontnoususons,quictons,remettons	auctorité dont nous usons , quictons , remettons
-etpardonnonslefaitetcasdessus	et pardonnons le fait et cas dessus
-dessusdit,avectoutepaine,amendeet	dessus dit , avec toute paine , amende et
-offensecorporelle,criminelleetcivile,	offense corporelle , criminelle et civile ,
-enquoyilpuetpourceavoiresté	en quoy il puet pour ce avoir esté
-estéetestreencouruzenversnosdizseigneursetjustice,	esté et estre encouruz envers nos diz seigneurs et justice ,
-etlerestituonsàsabonne	et le restituons à sa bonne
-fameetrenommée,s..’	fame et renommée , s . . ’
-enaucunemaniereestoitpource	en aucune maniere estoit pour ce
-cediminuéeouamendrie,au	ce diminuée ou amendrie , au
-paysetàsesbiens,voulanzqu’il	pays et à ses biens , voulanz qu ’ il
-ilsoitmishorsdetouz..plaizetprocès	il soit mis hors de touz . . plaiz et procès
-procès,èsquielxilestetpourroitestre	procès , ès quielx il est et pourroit estre
-pourlefaitetcausedessusdiz.Sidonnons	pour le fait et cause dessus diz . Si donnons
-donnonsenmandement,	donnons en mandement ,
-parcesmesmes	par ces mesmes
-lettres,auseneschaldePoitouet	lettres , au seneschal de Poitou et
-àtouzles..	à touz les . .
-autresjusticiersetofficiersdenostrelieutenance,presens	autres justiciers et officiers de nostre lieutenance , presens
-presensetavenir,ou	presens et avenir , ou
-àleurslieuxtenans,etàchascund’eulx	à leurs lieuxtenans , et à chascun d ’ eulx
-,sicommeàluiappartendra,que,ou.	, si comme à lui appartendra , que , ou .
-.casoùilleurapperraparlafoy	. cas où il leur apperra par la foy
-etserementdeladicteMargot	et serement de la dicte Margot
-Margotseulementleditmariageavoirestéfaitpar.la	Margot seulement le dit mariage avoir esté fait par . la
-manieredessusdicte,	maniere dessus dicte ,
-etqueelleaitestéetconversé	et que elle ait esté et conversé
-converséavecledit	conversé avec le dit
-escuiercommefemmedoit..faire	escuier comme femme doit . . faire
-avecsonmary,ilfacentycellui	avec son mary , il facent ycellui
-joiretuser	joir et user
-userpaisiblementdenostrepresentegrace	user paisiblement de nostre presente grace
+leditmariage,parlamanierequeentr	le dit mariage , par la maniere que entr
+’eulxdeuxavoitestésecretement	’ eulx deux avoit esté secretement
+secretemententrepris,lequelmariageainsifaitladicteMargota	secretement entrepris , lequel mariage ainsi fait la dicte Margot a
+atousjourseuet	a tousjours eu et
+encoresaaggreable.Etcenonobstant	encores a aggreable . Et ce nonobstant
+leditOlivier	le dit Olivier
+Olivieraestédepuisetencoreesttraictiéetmisen	Olivier a esté depuis et encore est traictié et mis en
+enprocès,pouroccasiondufaitdessusdit,par	en procès , pour occasion du fait dessus dit , par
+lesofficiersdedamoiselleJehannede.Rays,ensa	les officiers de damoiselle Jehanne de . Rays , en sa
+courtetsiegedela	court et siege de la
+Meuriere,enlaquellecourtil	Meuriere , en laquelle court il
+pourroitestrelonguement.Etpource,nousasupplié	pourroit estre longuement . Et pource , nous a supplié
+quesurceluivueillonsimpartirnostre	que sur ce lui vueillons impartir nostre
+grace.Pourquoynous,attenduce	grace . Pour quoy nous , attendu ce
+queditest,inclinanzàla	que dit est , inclinanz à la
+supplicacionduditescuier,enfaveurdudit.mariage	supplicacion du dit escuier , en faveur du dit . mariage
+,àycelli,oucasdessusdit,	, à ycelli , ou cas dessus dit ,
+avonsquictié,remisetpardonné,etpar	avons quictié , remis et pardonné , et par
+cespresentes,	ces presentes ,
+,degraceespecial..,plaine	, de grace especial . . , plaine
+puissanceetauctoritédontnoususons,quictons	puissance et auctorité dont nous usons , quictons
+,remettonsetpardonnonslefait	, remettons et pardonnons le fait
+etcasdessus.dit,avec	et cas dessus . dit , avec
+toutepaine,..amendeet	toute paine , . . amende et
+offensecorporelle,criminelleetcivile	offense corporelle , criminelle et civile
+civile,enquoy..ilpuet	civile , en quoy . . il puet
+pourceavoir	pour ce avoir
+estéetestreencouruzenvers	esté et estre encouruz envers
+envers..nosdizseigneursetjustice	envers . . nos diz seigneurs et justice
+,etlerestituons	, et le restituons
+àsabonnefameetrenommée	à sa bonne fame et renommée
+,s’enaucunemaniere	, s ’ en aucune maniere
+estoitpourcediminuée	estoit pour ce diminuée
+ouamendrie,aupaysetàsesbiens,	ou amendrie , au pays et à ses biens ,
+voulanzqu’ilsoit	voulanz qu ’ il soit
+soitmishorsdetouzplaizet	soit mis hors de touz plaiz et
+procès,	procès ,
+,èsquielxil	, ès quielx il
+ilestetpourroit	il est et pourroit
+estrepourlefaitetcausedessusdiz	estre pour le fait et cause dessus diz
+.Sidonnonsenmandement,parcesmesmes	. Si donnons en mandement , par ces mesmes
+lettres..,	lettres . . ,
+auseneschaldePoitouetàtouzles	au seneschal de Poitou et à touz les
+lesautresjusticiersetofficiersdenostrelieutenance,presenset	les autres justiciers et officiers de nostre lieutenance , presens et
+avenir,	avenir ,
+ou..àleurs	ou . . à leurs
+lieuxtenans,età	lieuxtenans , et à
+chascund’	chascun d ’
+’eulx,sicomme..àluiappartendra	’ eulx , si comme . . à lui appartendra
+appartendra,que,oucasoùil..leurapperrapar	appartendra , que , ou cas où il . . leur apperra par
+parlafoyetserementdeladicteMargotseulementle	par la foy et serement de la dicte Margot seulement le
+ditmariageavoir	dit mariage avoir
+avoirestéfaitparla	avoir esté fait par la
+manieredessusdicte,etqueelleaitestéet	maniere dessus dicte , et que elle ait esté et
+converséavecleditescuiercomme	conversé avec le dit escuier comme
+commefemmedoitfaireavecson	comme femme doit faire avec son
+sonmary,ilfacentycelluijoir	son mary , il facent ycellui joir
+etuserpaisiblementde	et user paisiblement de
+nostrepresente	nostre presente
 graceetremissionet	grace et remission et
-etlemettentoufacentmettrehorsdetouz	et le mettent ou facent mettre hors de touz
-plaizet..procès	plaiz et . . procès
-procès,èsquelxilestoupourroitestrepouroccasion	procès , ès quelx il est ou pourroit estre pour occasion
-duditfait,sanzlemolester,traveillierou	du dit fait , sanz le molester , traveillier ou
-empeschier,ou	empeschier , ou
-souffrirestremolesté,traveilliéou	souffrir estre molesté , traveillié ou
-ouempeschiéaucunementaucontraire;etsesoncorpsou	ou empeschié aucunement au contraire ; et se son corps ou
-aucunsdesesbiens.estoientpourcepriz	aucuns de ses biens . estoient pour ce priz
-ouarrestezparrecreanceouautrement,mettent	ou arrestez par recreance ou autrement , mettent
-lesoufacentmettresanzcontredit	les ou facent mettre sanz contredit
-àplainedelivrance.Etquecesoit.	à plaine delivrance . Et que ce soit .
-..fermechoseetestableàtousjours,nous	. . ferme chose et estable à tousjours , nous
-avonsfaitmettrenostreseelàceslettres.	avons fait mettre nostre seel à ces lettres .
-Saufen..autres	Sauf en . . autres
-autres.chosesledroit	autres . choses le droit
-demesdizseigneursetlenostre,etl	de mes diz seigneurs et le nostre , et l
-’autrui	’ autrui
-entoutes.DonnéàRuffiec,lepenultime	en toutes . Donné à Ruffiec , le penultime
-jourdejuilletl’an	jour de juillet l ’ an
-andegracemilccc.quatrevinsetcinq.	an de grace mil ccc . quatre vins et cinq .
-Les..quelleslettresdessus	Les . . quelles lettres dessus
-dessustranscriptesettoutlecontenuen..ycelles	dessus transcriptes et tout le contenu en . . ycelles
-ycellesnousayansfermesetagreables,	ycelles nous ayans fermes et agreables ,
-leslouons,ratiffionset	les louons , ratiffions et
-etapprouvons,denostregraceespecialetauctoritéroyal,	et approuvons , de nostre grace especial et auctorité royal ,
-etparlateneurdeces.presentesconfermons	et par la teneur de ces . presentes confermons
-confermons.Sidonnonsenmandement.à	confermons . Si donnons en mandement . à
-tousnozjusticiersetofficiers,	tous noz justiciers et officiers ,
-presensetavenir,ouàleurs	presens et avenir , ou à leurs
-lieuxtenans,etàchascund’eulx,si	lieuxtenans , et à chascun d ’ eulx , si
-sicommeàlui.appartendra,que	si comme à lui . appartendra , que
-queleditOlivierClerbautilfacent,seuffrentetlaissent	que le dit Olivier Clerbaut il facent , seuffrent et laissent
-joiretuserpaisiblementdenostre	joir et user paisiblement de nostre
-presentegraceetconfirmacion,selon	presente grace et confirmacion , selon
-la.forme	la . forme
-etteneurdeslettresdessustranscriptes,	et teneur des lettres dessus transcriptes ,
-sanzlemolesterouempeschier	sanz le molester ou empeschier
-empeschier,ousouffrirestremolestéouempeschiéencorps.ou	empeschier , ou souffrir estre molesté ou empeschié en corps . ou
-enbiens,oresneoutempsavenir,aucunement	en biens , ores ne ou temps avenir , aucunement
-aucontraire.Etquecesoitfermeetestable	au contraire . Et que ce soit ferme et estable
-àtousjours,nousavonsfaitmettre	à tousjours , nous avons fait mettre
-nostre..seelàcespresentes.Saufenautres	nostre . . seel à ces presentes . Sauf en autres
-autreschosesnostre	autres choses nostre
-droitetl’	droit et l ’
-autruientoutes.DonnéàParis	autrui en toutes . Donné à Paris
-Paris,l’andegracemilccc	Paris , l ’ an de grace mil ccc
-ccc.iiiixxetix,et	ccc . iiiixx et ix , et
-denostreregneleixe,oumoysdeseptembre	de nostre regne le ixe , ou moys de septembre
-.Parleroy	. Par le roy
-,àlarelacion	, à la relacion
-duconseil.	du conseil .
-.P.Christiani.	. P . Christiani .
+lemettent	le mettent
+oufacentmettrehorsdetouz	ou facent mettre hors de touz
+plaizet	plaiz et
+procès,	procès ,
+,èsquelxilestoupourroitestrepour	, ès quelx il est ou pourroit estre pour
+occasionduditfait,sanzle	occasion du dit fait , sanz le
+molester,traveillierouempeschier,ousouffrirestre	molester , traveillier ou empeschier , ou souffrir estre
+molesté,traveilliéou	molesté , traveillié ou
+empeschiéaucunementaucontraire	empeschié aucunement au contraire
+contraire;.et	contraire ; . et
+etsesoncorpsouaucunsde	et se son corps ou aucuns de
+desesbiensestoient	de ses biens estoient
+estoientpourceprizou	estoient pour ce priz ou
+arrestezparrecreance	arrestez par recreance
+ouautrement,mettentlesoufacentmettre	ou autrement , mettent les ou facent mettre
+mettresanzcontreditàplainedelivrance.Etque	mettre sanz contredit à plaine delivrance . Et que
+quecesoitfermechoseetestableà	que ce soit ferme chose et estable à
+àtousjours,	à tousjours ,
+nousavons	nous avons
+avonsfaitmettre..nostreseelàceslettres.Saufen	avons fait mettre . . nostre seel à ces lettres . Sauf en
+autreschosesle	autres choses le
+ledroitdemesdizseigneursetlenostre,et	le droit de mes diz seigneurs et le nostre , et
+l’autruientoutes	l ’ autrui en toutes
+toutes...DonnéàRuffiec,le	toutes . . . Donné à Ruffiec , le
+penultimejourdejuilletl’andegracemil	penultime jour de juillet l ’ an de grace mil
+ccc.quatrevinsetcinq.Lesquelles	ccc . quatre vins et cinq . Les quelles
+lettresdessustranscriptesettoutlecontenu	lettres dessus transcriptes et tout le contenu
+contenuenycellesnousayansfermesetagreables,	contenu en ycelles nous ayans fermes et agreables ,
+leslouons,	les louons ,
+,.ratiffionsetapprouvons	, . ratiffions et approuvons
+approuvons,denostregraceespecialet	approuvons , de nostre grace especial et
+auctoritéroyal,	auctorité royal ,
+et..parlateneur	et . . par la teneur
+decespresentes	de ces presentes
+confermons.Sidonnonsen..mandementà	confermons . Si donnons en . . mandement à
+tousnoz	tous noz
+nozjusticiersetofficiers,presens	noz justiciers et officiers , presens
+presensetavenir	presens et avenir
+,ouàleurslieuxtenans,	, ou à leurs lieuxtenans ,
+etàchascund’eulx,si	et à chascun d ’ eulx , si
+commeàluiappartendra,queleditOlivierClerbaut	comme à lui appartendra , que le dit Olivier Clerbaut
+ilfacent,seuffrent	il facent , seuffrent
+etlaissentjoiretuserpaisiblementde	et laissent joir et user paisiblement de
+denostrepresentegrace	de nostre presente grace
+et.confirmacion,selonlaformeetteneurdeslettres	et . confirmacion , selon la forme et teneur des lettres
+dessustranscriptes,sanzlemolesterouempeschier,ou	dessus transcriptes , sanz le molester ou empeschier , ou
+ousouffrirestre.molestéouempeschié	ou souffrir estre . molesté ou empeschié
+empeschiéencorpsouenbiens,oresne	empeschié en corps ou en biens , ores ne
+outempsavenir,aucunement	ou temps avenir , aucunement
+aucontraire.Etquece	au contraire . Et que ce
+soitfermeetestableàtousjours,nousavonsfait	soit ferme et estable à tousjours , nous avons fait
+mettrenostreseelàcespresentes.Saufen	mettre nostre seel à ces presentes . Sauf en
+autreschosesnostredroitetl’	autres choses nostre droit et l ’
+autruientoutes.Donné	autrui en toutes . Donné
+àParis.,l	à Paris . , l
+’andegrace..milccc.iiiixxet	’ an de grace . . mil ccc . iiiixx et
+etix,etdenostre	et ix , et de nostre
+regneleixe,oumoysdeseptembre.Par	regne le ixe , ou moys de septembre . Par
+Parleroy,àla..	Par le roy , à la . .
+relacionduconseil	relacion du conseil
+conseil.P.Christiani.	conseil . P . Christiani .

@@ -1,143 +1,139 @@
-Charles,etc.Savoirfaisons	Charles , etc . Savoir faisons
+Charles,	Charles ,
+,etc.Savoirfaisons	, etc . Savoir faisons
 àtouz,presens	à touz , presens
-etavenir,	et avenir ,
-,que,comme	, que , comme
-commepourconsideracion	comme pour consideracion
-desbons	des bons
-et..agreablesservicesquenostre	et . . agreables services que nostre
-nostreaméetfealchevalier,Alainde	nostre amé et feal chevalier , Alain de
-Beaumont,	Beaumont ,
-lequelavoitmisparforced	lequel avoit mis par force d
-’armesennostreobeissance	’ armes en nostre obeissance
-le.chasteldeSainteOnomoyeenPoitou,	le . chastel de Sainte Onomoye en Poitou ,
-,.quetenoitlesiredeMucidain,nostre	, . que tenoit le sire de Mucidain , nostre
-rebelle,nousavoit.faitennozguerres	rebelle , nous avoit . fait en noz guerres
-etfaisoit	et faisoit
-dejourenjour,nouslui	de jour en jour , nous lui
-aionsdonnéet	aions donné et
-etoctroiéleditchastelavecqueslachastellenied’	et octroié le dit chastel avecques la chastellenie d ’
-illeucetleursappartenances,lesquelxet	illeuc et leurs appartenances , les quelx et
-touteslesautresterresetpossessionsquele	toutes les autres terres et possessions que le
-dit..siredeMucidan	dit . . sire de Mucidan
-Mucidan,duquel.	Mucidan , du quel .
-.nousestionsetsommesseigneursouverainetdroiturier,nous	. nous estions et sommes seigneur souverain et droiturier , nous
-estoientvenuzen	estoient venuz en
-commisparsarebellion,quitenoitsicommeencorestient	commis par sa rebellion , qui tenoit si comme encorestient
-encorestientlepartidenostreadversaired	encorestient le parti de nostre adversaire d
-’Angleterreenla	’ Angleterre en la
-guerrequeilnous[a	guerre que il nous [ a
-a]nouvellement	a ] nouvellement
-nouvellementmeue,àteniryceulxchasteletchastellenieetappartenances	nouvellement meue , à tenir yceulx chastel et chastellenie et appartenances
-parleditAlainetpar	par le dit Alain et par
-seshoirsetsuccesseurs.	ses hoirs et successeurs .
-,etceulxquiaurontcausedelui	, et ceulx qui auront cause de lui
-luiàtousjours,enlavaleurdesixcens	lui à tous jours , en la valeur de six cens
-livresdeterreàtournois,pourveuque	livres de terre à tournois , pourveu que
-,seoutempsavenir,..	, se ou temps avenir , . .
-partraitié..	par traitié . .
-ouautrementestoitaccordéquelesdiz	ou autrement estoit accordé que les diz
-chastel..etchastelleniefussentrendues	chastel . . et chastellenie fussent rendues
-renduesauditsiredeMucidanouausaianzcause	rendues au dit sire de Mucidan ou aus aianz cause
-causedelui,ledit	cause de lui , le dit
-dit.Alainnenousenpeustdemander	dit . Alain ne nous en peust demander
-nenousne	ne nous ne
-nefeussionstenuzdeluienfaireaucunerecompensacion,si	ne feussions tenuz de lui en faire aucune recompensacion , si
-commeparnozautreslettresfaictessur	comme par noz autres lettres faictes sur
-leditdonondit	le dit don on dit
-àplainapparoir;nous,	à plain apparoir ; nous ,
-meuzdelaconsideraciondessusdicteetdesservicesque	meuz de la consideracion dessus dicte et des services que
-leditAlain	le dit Alain
-nousa..depuisfaizennoz	nous a . . depuis faiz en noz
-nozdictesguerresetfaitencoresdejouren	noz dictes guerres et fait encores de jour en
-jour,en	jour , en
-exposantpourcesoncorpsà	exposant pour ce son corps à
-touzperilz,	touz perilz ,
-sicommenoussommesplainnement	si comme nous sommes plainnement
-enformez..,voulonset	enformez . . , voulons et
-luiavons.octroié	lui avons . octroié
-etoctroionsdenostreauctoritéroyal,	et octroions de nostre auctorité royal ,
-decertainescienceet	de certaine science et
-et.graceespecial,	et . grace especial ,
-enaccroissantlavaleurdessuzdictede	en accroissant la valeur dessuz dicte de
-deiiiiclivresdeterreouderentepar	de iiiic livres de terre ou de rente par
-anàtournois	an à tournois
-tournois,quelesdizchastel,..	tournois , que les diz chastel , . .
-chastellenieetappartenancesilaitettiengne	chastellenie et appartenances il ait et tiengne
-,etsesdiz	, et ses diz
-hoirsetsuccesseursetceulxquide	hoirs et successeurs et ceulx qui de
-luiaurontcause,enlavaleurdemil	lui auront cause , en la valeur de mil
-millivresdeterre	mil livres de terre
-ouderenteà	ou de rente à
-tournoisparan,etles	tournois par an , et les
-dictes.iiiiclivresde	dictes . iiiic livres de
-terreou..derentelui	terre ou . . de rente lui
-luidonnonsdenostredicteauctoritéetgrace,àtenir	lui donnons de nostre dicte auctorité et grace , à tenir
-avecqueslesdictes	avecques les dictes
-viclivresdeterre,	vic livres de terre ,
-parlamaniereetcondicion..dessuzdictes	par la maniere et condicion . . dessuz dictes
-,avecquestoutcequeilena	, avecques tout ce que il en a
-perceudutempspassé.Etcommenous	perceu du temps passé . Et comme nous
-aionsentenduqueleditchastel	aions entendu que le dit chastel
-etchastellenien’estoientpasheritaigeduditsire	et chastellenie n ’ estoient pas heritaige du dit sire
-siredeMucidan,maislesavoit	sire de Mucidan , mais les avoit
-avoitettenoitengaigedexMfransd	avoit et tenoit en gaige de xM frans d
+presensetavenir,que	presens et avenir , que
+,commepourconsideraciondesbonset	, comme pour consideracion des bons et
+agreablesservicesquenostreaméetfealchevalier,Alain	agreables services que nostre amé et feal chevalier , Alain
+AlaindeBeaumont,lequelavoit	Alain de Beaumont , lequel avoit
+misparforced’armesennostre	mis par force d ’ armes en nostre
+obeissancelechasteldeSainteOnomoyeenPoitou,que	obeissance le chastel de Sainte Onomoye en Poitou , que
+tenoitle	tenoit le
+lesiredeMucidain	le sire de Mucidain
+Mucidain..,nostrerebelle	Mucidain . . , nostre rebelle
+,nousavoitfaitennozguerresetfaisoitde	, nous avoit fait en noz guerres et faisoit de
+jourenjour,nousluiaionsdonné	jour en jour , nous lui aions donné
+donnéetoctroiéleditchastelavecqueslachastellenied’	donné et octroié le dit chastel avecques la chastellenie d ’
+’illeucetleursappartenances,lesquelx	’ illeuc et leurs appartenances , les quelx
+ettoutes	et toutes
+lesautresterresetpossessionsquele	les autres terres et possessions que le
+ditsire..deMucidan,du	dit sire . . de Mucidan , du
+quelnousestionsetsommesseigneur.souverain	quel nous estions et sommes seigneur . souverain
+etdroiturier,	et droiturier ,
+nousestoient.venuzencommis	nous estoient . venuz en commis
+parsarebellion,qui	par sa rebellion , qui
+quitenoitsicomme	qui tenoit si comme
+encorestientleparti	encorestient le parti
+denostreadversaired’Angleterreenla	de nostre adversaire d ’ Angleterre en la
+laguerrequeil	la guerre que il
+ilnous[a]nouvellementmeue	il nous [ a ] nouvellement meue
+,àteniryceulxchasteletchastellenieet	, à tenir yceulx chastel et chastellenie et
+appartenancesparleditAlainetparseshoirset	appartenances par le dit Alain et par ses hoirs et
+successeurs,etceulxquiauront	successeurs , et ceulx qui auront
+cause..deluià	cause . . de lui à
+tousjours,enlavaleurde	tous jours , en la valeur de
+desixcens..livres	de six cens . . livres
+deterreàtournois,pourveuque,	de terre à tournois , pourveu que ,
+,seoutemps	, se ou temps
+avenir,partraitiéou..autrement	avenir , par traitié ou . . autrement
+autrementestoitaccordéquelesdizchastel	autrement estoit accordé que les diz chastel
+chasteletchastelleniefussentrenduesauditsiredeMucidanou	chastel et chastellenie fussent rendues au dit sire de Mucidan ou
+ausaianzcausede	aus aianz cause de
+lui,leditAlainne	lui , le dit Alain ne
+nenousenpeustdemandernenousne	ne nous en peust demander ne nous ne
+nefeussionstenuzdeluienfaire	ne feussions tenuz de lui en faire
+aucunerecompensacion	aucune recompensacion
+,sicommeparnozautreslettres	, si comme par noz autres lettres
+faictessur	faictes sur
+leditdonondità	le dit don on dit à
+plainapparoir;nous,meuzdela	plain apparoir ; nous , meuz de la
+consideraciondessusdicteetdesservices	consideracion dessus dicte et des services
+queleditAlainnousadepuisfaiz	que le dit Alain nous a depuis faiz
+ennozdictesguerresetfaitencoresde	en noz dictes guerres et fait encores de
+jourenjour,en..exposantpourcesoncorps	jour en jour , en . . exposant pour ce son corps
+àtouzperilz,sicommenoussommes	à touz perilz , si comme nous sommes
+plainnementenformez,voulonset	plainnement enformez , voulons et
+luiavonsoctroiéetoctroionsdenostreauctoritéroyal	lui avons octroié et octroions de nostre auctorité royal
+royal,decertainescienceetgraceespecial	royal , de certaine science et grace especial
+,enaccroissantlavaleurdessuzdicte.deiiiic	, en accroissant la valeur dessuz dicte . de iiiic
+iiiiclivres..deterreou	iiiic livres . . de terre ou
+derenteparan	de rente par an
+àtournois,queles	à tournois , que les
+dizchastel,chastellenie	diz chastel , chastellenie
+etappartenancesilaitettiengne,etses	et appartenances il ait et tiengne , et ses
+dizhoirsetsuccesseursetceulxquideluiauront	diz hoirs et successeurs et ceulx qui de lui auront
+cause,enlavaleurde	cause , en la valeur de
+millivresdeterreouderente	mil livres de terre ou de rente
+àtournoisparan,etlesdictesiiiic	à tournois par an , et les dictes iiiic
+livresdeterreou	livres de terre ou
+ouderente	ou de rente
+luidonnonsdenostredicteauctoritéetgrace..,à	lui donnons de nostre dicte auctorité et grace . . , à
+teniravecqueslesdictes	tenir avecques les dictes
+vic.livresdeterre	vic . livres de terre
+terre,parlamaniereetcondiciondessuzdictes,avecques	terre , par la maniere et condicion dessuz dictes , avecques
+toutcequeilen	tout ce que il en
+aperceudu	a perceu du
+tempspassé.Etcommenousaions	temps passé . Et comme nous aions
+entenduquele	entendu que le
+ditchastelet	dit chastel et
+chastellenien’	chastellenie n ’
+estoientpasheritaigedu	estoient pas heritaige du
+ditsiredeMucidan,maislesavoit	dit sire de Mucidan , mais les avoit
+ettenoitengaige	et tenoit en gaige
+gaigedexMfrans	gaige de xM frans
 d’or,que	d ’ or , que
-leseigneurd’iceulxluidevoitetlui	le seigneur d ’ iceulx lui devoit et lui
-luienestoittenuz	lui en estoit tenuz
-,nous,oyesurcelasupplicacion	, nous , oye sur ce la supplicacion
-supplicacionduditAlain,luiavonsoctroiéetoctroions	supplicacion du dit Alain , lui avons octroié et octroions
-,enampliantnostredictegrace,que,	, en ampliant nostre dicte grace , que ,
-,oucas..ou	, ou cas . . ou
-ilseroittrouvé..etdit	il seroit trouvé . . et dit
-quelesdizchasteletchastelleniene	que les diz chastel et chastellenie ne
-fussentheritaigeduditsiredeMucidan,etque	fussent heritaige du dit sire de Mucidan , et que
-enluipaiantxMfransunefoizleseigneur	en lui paiant xM frans une foiz le seigneur
-seigneur.lesenpeustretraire	seigneur . les en peust retraire
-etrecouvrer,yceulxdixmillefrans,quipar	et recouvrer , yceulx dix mille frans , qui par
-parlacausedessuzdictenousdoiventestreetsont	par la cause dessuz dicte nous doivent estre et sont
-sontconfisquez,soientau.dit	sont confisquez , soient au . dit
-Alain,auquel.	Alain , au quel .
-nouslesdonnonsenlieude	nous les donnons en lieu de
-dondesdizchastel,chastellenieetappartenances	don des diz chastel , chastellenie et appartenances
-.Etd’abondant	. Et d ’ abondant
-grace,luiavons	grace , lui avons
-octroiéqueyceulxchastelet	octroié que yceulx chastel et
-chastellenieilpuisseeschangier	chastellenie il puisse eschangier
-outransporterenautres,	ou transporter en autres ,
-etqueceulxenquiillestransportera	et que ceulx en qui il les transportera
-oueschangera,lestiengnentetpuissenttenirpar	ou eschangera , les tiengnent et puissent tenir par
-lamaniereetcondiciondessuz	la maniere et condicion dessuz
-dessuzdictes,ouaientlesdizdixmillefrans	dessuz dictes , ou aient les diz dix mille frans
-dessuzdiz,deuzauditsire	dessuz diz , deuz au dit sire
-deMucidan,enlieud’eulx,	de Mucidan , en lieu d ’ eulx ,
-encasde..retraitouderecouvrance,	en cas de . . retrait ou de recouvrance ,
-,commeditest,enjoissentdetel	, comme dit est , en joissent de tel
-droitcommeleditAlain.	droit comme le dit Alain .
-ya,paisiblementetcessanttoutempeschement.	y a , paisiblement et cessant tout empeschement .
-Sidonnonsenmandement,parlateneurdeces	Si donnons en mandement , par la teneur de ces
-lettres,àtouzles..justiciersde	lettres , à touz les . . justiciers de
-nostreroyaume	nostre royaume
-,presenset	, presens et
-etavenir,ouà	et avenir , ou à
-leurslieuxtenans,età	leurs lieux tenans , et à
-chascund’eulx.,	chascun d ’ eulx . ,
-sicommeàluiappartendra,.	si comme à lui appartendra , .
-.queledit	. que le dit
-Alainetceulx	Alain et ceulx
-enquiil	en qui il
-transporteraoueschangeralesdizchasteletchastelleniefacent	transportera ou eschangera les diz chastel et chastellenie facent
-facentetlessentjoir.et	facent et lessent joir . et
-etuserpaisiblementde	et user paisiblement de
-denostrepresentegrace,sanz	de nostre presente grace , sanz
-lesmolesterouempeschierenquelquemaniere	les molester ou empeschier en quelque maniere
-aucontraire.Etquecesoitfermechoseet	au contraire . Et que ce soit ferme chose et
-estableàtousjours,nousavonsfaitmettrenostre	estable à tousjours , nous avons fait mettre nostre
-seelàceslettres.Saufenautreschoses..nostre	seel à ces lettres . Sauf en autres choses . . nostre
-nostredroit,et	nostre droit , et
-l’.autrui	l ’ . autrui
-entoutes.	en toutes .
-DonnéàSaintGermainenLaye,lexe	Donné à Saint Germain en Laye , le xe
-xejourdefevrier,l’ande	xe jour de fevrier , l ’ an de
-gracem.ccc.lxxvi,	grace m . ccc . lxxvi ,
-,etlexiiiedenostreregne.Parleroy	, et le xiiie de nostre regne . Par le roy
-roy.Yvo	roy . Yvo
+leseigneurd’iceulxluidevoitetluien	le seigneur d ’ iceulx lui devoit et lui en
+enestoittenuz,nous,oyesurcelasupplicacion	en estoit tenuz , nous , oye sur ce la supplicacion
+duditAlain,luiavonsoctroiéetoctroions,	du dit Alain , lui avons octroié et octroions ,
+,enampliantnostredicte	, en ampliant nostre dicte
+grace,que	grace , que
+,oucasouilseroittrouvéetdit	, ou cas ou il seroit trouvé et dit
+ditquelesdizchasteletchastellenienefussent	dit que les diz chastel et chastellenie ne fussent
+fussentheritaige.duditsiredeMucidan,et	fussent heritaige . du dit sire de Mucidan , et
+etqueenluipaiantxMfransune.foiz	et que en lui paiant xM frans une . foiz
+foizleseigneurles	foiz le seigneur les
+lesenpeustretraireet	les en peust retraire et
+etrecouvrer,	et recouvrer ,
+,yceulxdixmillefrans,quiparlacausedessuz	, yceulx dix mille frans , qui par la cause dessuz
+dessuzdictenousdoiventestreetsontconfisquez	dessuz dicte nous doivent estre et sont confisquez
+,soientauditAlain,auquelnous	, soient au dit Alain , au quel nous
+lesdonnonsenlieudedon	les donnons en lieu de don
+desdizchastel,chastellenieetappartenances.Et	des diz chastel , chastellenie et appartenances . Et
+Etd’abondantgrace,luiavonsoctroié	Et d ’ abondant grace , lui avons octroié
+queyceulxchasteletchastellenieilpuisseeschangierou	que yceulx chastel et chastellenie il puisse eschangier ou
+outransporterenautres,etque	ou transporter en autres , et que
+ceulxenquiil	ceulx en qui il
+illestransporteraoueschangera,lestiengnentetpuissenttenir	il les transportera ou eschangera , les tiengnent et puissent tenir
+parlamaniereet	par la maniere et
+condiciondessuzdictes	condicion dessuz dictes
+,ouaient	, ou aient
+lesdizdix	les diz dix
+dixmillefransdessuzdiz,deuzaudit	dix mille frans dessuz diz , deuz au dit
+siredeMucidan,enlieu	sire de Mucidan , en lieu
+d’eulx,encasde	d ’ eulx , en cas de
+retraitouderecouvrance	retrait ou de recouvrance
+,commeditest,enjoissentdetel..	, comme dit est , en joissent de tel . .
+.droitcommeleditAlainy	. droit comme le dit Alain y
+a,paisiblementet	a , paisiblement et
+cessanttoutempeschement.Sidonnonsenmandement,par	cessant tout empeschement . Si donnons en mandement , par
+lateneurdeceslettres,àtouzlesjusticiers	la teneur de ces lettres , à touz les justiciers
+denostreroyaume,presensetavenir,ouà	de nostre royaume , presens et avenir , ou à
+leurslieuxtenans,etàchascund’eulx	leurs lieux tenans , et à chascun d ’ eulx
+,sicommeàluiappartendra,queledit	, si comme à lui appartendra , que le dit
+Alainetceulxen..quiiltransporteraou	Alain et ceulx en . . qui il transportera ou
+eschangeralesdizchastel	eschangera les diz chastel
+chasteletchastelleniefacentetlessent	chastel et chastellenie facent et lessent
+joiretuserpaisiblementdenostrepresente.grace,	joir et user paisiblement de nostre presente . grace ,
+sanzlesmolesterou.empeschier	sanz les molester ou . empeschier
+empeschierenquelquemaniere..aucontraire.Etquecesoit	empeschier en quelque maniere . . au contraire . Et que ce soit
+fermechoseetestableàtousjours,nous	ferme chose et estable à tousjours , nous
+avonsfaitmettre	avons fait mettre
+nostreseel	nostre seel
+seelàceslettres.	seel à ces lettres .
+.Saufenautreschosesnostre	. Sauf en autres choses nostre
+droit..,etl’	droit . . , et l ’
+autruientoutes.DonnéàSaintGermainen	autrui en toutes . Donné à Saint Germain en
+Laye,lexejourdefevrier,l	Laye , le xe jour de fevrier , l
+’andegrace	’ an de grace
+m.ccc.lxxvi,etlexiiie	m . ccc . lxxvi , et le xiiie
+denostreregne...Parle	de nostre regne . . . Par le
+leroy.Yvo.	le roy . Yvo .

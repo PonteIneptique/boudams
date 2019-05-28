@@ -1,72 +1,64 @@
-Philippes,.parlagrace	Philippes , . par la grace
-gracedeDieu,roydeFrance	grace de Dieu , roy de France
-.Savoir	. Savoir
-faisonsatouz,presensetavenir	faisons a touz , presens et avenir
-,quepourlesbonsetagreablesservicesque	, que pour les bons et agreables services que
-nostreamevalletservantdel'	nostre ame vallet servant de l '
-escuelleennostresale	escuelle en nostre sale
-,MacéMarciau,neveudenostre.améetfeal	, Macé Marciau , neveu de nostre . amé et feal
-fealchevalieretchambellain,RobertFretart,	feal chevalier et chambellain , Robert Fretart ,
-,.nousafaitoutemps	, . nous a fait ou temps
-passéetencoresfait	passé et encores fait
-faitchascunjour,et	fait chascun jour , et
-etpourconsideracion..	et pour consideracion . .
-decequed'	de ce que d '
-un..officede	un . . office de
-desergenterie,lequelnousluiavonsdonné	de sergenterie , le quel nous lui avons donné
-donné,iln'apeunepuet	donné , il n ' a peu ne puet
-puetjouir,ains	puet jouir , ains
-enest..pourveuà	en est . . pourveu à
-àunautre,	à un autre ,
-nous,de	nous , de
-graceespecial,avonsdonnéetoctroyé	grace especial , avons donné et octroyé
-,donnons	, donnons
-etoctroyons	et octroyons
-octroyonsparces.	octroyons par ces .
-.lettresauditMacéetàseshoirsquinze	. lettres au dit Macé et à ses hoirs quinze
-quinzejues.deterreou	quinze jues . de terre ou
-ouenviron,assisenchastelleriedeLodun	ou environ , assis en chastellerie de Lodun
-,tenuzà	, tenuz à
-cenzdeJehan	cenz de Jehan
-JehanOdart,	Jehan Odart ,
-chevalier..,segneur	chevalier . . , segneur
-deVerrieres,ànousappartenantparlaforfaiturede	de Verrieres , à nous appartenant par la forfaiture de
-RaouldeRy,	Raoul de Ry ,
-bannidenostreroyaumepourlefait	banni de nostre royaume pour le fait
-delamortperpetréeenlapersonne	de la mort perpetrée en la personne
-defeuGuillaume	de feu Guillaume
-Levraust,desquelsquinze	Levraust , des quels quinze
-juesdeterre	jues de terre
-lavalueneseurmontepassix	la value ne seurmonte pas six
-sixlivrestournoisparanderente,si	six livres tournois par an de rente , si
-commel'endit,	comme l ' en dit ,
-àtenir,avoiretpossesserdu.ditMacé	à tenir , avoir et possesser du . dit Macé
-Marciauetdeseshoirsheritablementetperpetuelment	Marciau et de ses hoirs heritablement et perpetuelment
-,commeleurspropres,etàen	, comme leurs propres , et à en
-enfaireleur	en faire leur
-leurpurevolonté,etdes	leur pure volonté , et des
-fruis,seaucunsenya,ou	fruis , se aucuns en y a , ou
-castoutevoyesquelesditesquinze	cas toutevoyes que les dites quinze
-quinzejuesde	quinze jues de
-terre..neexederont	terre . . ne exederont
-exederont..chascunanen	exederont . . chascun an en
-envaluelessixlivresdessus	en value les six livres dessus
-dites,non	dites , non
-noncontrestantautresdonsquefaitaions	non contrestant autres dons que fait aions
-aionsauditMacé.En	aions au dit Macé . En
-Entesmoingde	En tesmoing de
-laquellechose,nousavonsfaitmettreà	la quelle chose , nous avons fait mettre à
-ceslettresnostre	ces lettres nostre
-nostreseel.Saufenautreschosesnostredroit.eten	nostre seel . Sauf en autres choses nostre droit . et en
-entoutesl'autruy.Donnéà	en toutes l ' autruy . Donné à
-ConflansleslepontdeCharenton,l	Conflans les le pont de Charenton , l
-'andegrace	' an de grace
-gracemilccc.trenteet	grace mil ccc . trente et
-neuf,ou	neuf , ou
-oumoysdemay.Parleroy,	ou moys de may . Par le roy ,
+Philippes,	Philippes ,
+parlagracedeDieu,	par la grace de Dieu ,
+roydeFrance.Savoir.faisons	roy de France . Savoir . faisons
+atouz,presens	a touz , presens
+etavenir,quepourlesbons	et avenir , que pour les bons
+etagreablesservicesquenostreamevallet	et agreables services que nostre ame vallet
+servantdel'escuelle..	servant de l ' escuelle . .
+ennostresale,	en nostre sale ,
+MacéMarciau,neveu.denostre	Macé Marciau , neveu . de nostre
+améetfealchevalier	amé et feal chevalier
+etchambellain.,	et chambellain . ,
+,RobertFretart,nousa	, Robert Fretart , nous a
+faitoutemps	fait ou temps
+passéetencoresfaitchascunjour,	passé et encores fait chascun jour ,
+etpourconsideraciondece.	et pour consideracion de ce .
+qued'un	que d ' un
+officedesergenterie,lequelnousluiavonsdonné	office de sergenterie , le quel nous lui avons donné
+donné,iln'apeunepuet..jouir	donné , il n ' a peu ne puet . . jouir
+,ainsenestpourveuàun	, ains en est pourveu à un
+autre,nous,.degraceespecial,avons	autre , nous , . de grace especial , avons
+donnéetoctroyé,donnonset	donné et octroyé , donnons et
+etoctroyonsparceslettresaudit	et octroyons par ces lettres au dit
+ditMacéetàseshoirsquinzejuesdeterre.	dit Macé et à ses hoirs quinze jues de terre .
+ouenviron,assisenchastelleriedeLodun,	ou environ , assis en chastellerie de Lodun ,
+tenuzàcenzdeJehan	tenuz à cenz de Jehan
+JehanOdart,chevalier,	Jehan Odart , chevalier ,
+segneurde..	segneur de . .
+.Verrieres,ànousappartenant	. Verrieres , à nous appartenant
+parlaforfaituredeRaouldeRy	par la forfaiture de Raoul de Ry
+,bannidenostre	, banni de nostre
+nostreroyaumepourlefaitde	nostre royaume pour le fait de
+lamortperpetrée	la mort perpetrée
+perpetréeenla	perpetrée en la
+personnedefeuGuillaumeLevraust,desquelsquinzejues	personne de feu Guillaume Levraust , des quels quinze jues
+deterrelavalueneseurmontepas	de terre la value ne seurmonte pas
+sixlivrestournoispar	six livres tournois par
+anderente,sicommel'endit	an de rente , si comme l ' en dit
+,àtenir	, à tenir
+,avoiretpossesser	, avoir et possesser
+duditMacéMarciauetdeseshoirs	du dit Macé Marciau et de ses hoirs
+heritablementetperpetuelment,commeleurspropres	heritablement et perpetuelment , comme leurs propres
+,etàenfaireleurpurevolonté,	, et à en faire leur pure volonté ,
+etdesfruis,seaucunsen	et des fruis , se aucuns en
+ya,oucastoutevoyesquelesditesquinze	y a , ou cas toutevoyes que les dites quinze
+juesdeterreneexederontchascunan	jues de terre ne exederont chascun an
+en.valuelessixlivres	en . value les six livres
+livres..dessusdites,noncontrestantautresdons	livres . . dessus dites , non contrestant autres dons
+quefaitaions..auditMacé.En	que fait aions . . au dit Macé . En
+Entesmoingdelaquellechose,	En tesmoing de la quelle chose ,
+nousavonsfaitmettre	nous avons fait mettre
+àceslettresnostreseel.Saufenautreschoses	à ces lettres nostre seel . Sauf en autres choses
+chosesnostredroitet.entoutes	choses nostre droit et . en toutes
+l'autruy..	l ' autruy . .
+..DonnéàConflans	. . Donné à Conflans
+leslepontdeCharenton,l'	les le pont de Charenton , l '
+'andegracemilccc.trente	' an de grace mil ccc . trente
+etneuf,	et neuf ,
+,oumoys	, ou moys
+demay.Parleroy,à	de may . Par le roy , à
 àlarelaciondemessire	à la relacion de messire
-MoriceChamaillart	Morice Chamaillart
-etLoysdeVaucemain.M	et Loys de Vaucemain . M
-M.Boessel.Sinefinancia,deassensugentium	M . Boessel . Sine financia , de assensu gentium
-Compotorum,vobis..presente.R.deBaleham	Compotorum , vobis . . presente . R . de Baleham
-Baleham.	Baleham .
+messireMoriceChamaillartetLoysdeVaucemain.M	messire Morice Chamaillart et Loys de Vaucemain . M
+.Boessel.Sinefinancia.,de	. Boessel . Sine financia . , de
+assensugentiumCompotorum,vobis	assensu gentium Compotorum , vobis
+presente.R.deBaleham.	presente . R . de Baleham .

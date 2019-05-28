@@ -1,31 +1,25 @@
-Philippes,etc	Philippes , etc
-etc.Auseneschal	etc . Au seneschal
-seneschaldePoitououàsonlieutenant,	seneschal de Poitou ou à son lieutenant ,
-salut.Commenostreaméetfealcousin,	salut . Comme nostre amé et feal cousin ,
-leconte	le conte
-contedeEu	conte de Eu
-,connestabledeFrancenousaitexposéqueila	, connestable de France nous ait exposé que il a
-denouvelacquisl'ommageetlaterre	de nouvel acquis l ' ommage et la terre
-dufilzHuguetd'Ambois,quidoitestre	du filz Huguet d ' Ambois , qui doit estre
-estretenudenous	estre tenu de nous
-pourcausedelachastelleniede	pour cause de la chastellenie de
-deSaint-Maixent	de Saint - Maixent
-Maixent,savoir	Maixent , savoir
-savoirfaisonsquenousavonsoctroiéet,	savoir faisons que nous avons octroié et ,
-degraceespecial,denostrecerteinnescience,	de grace especial , de nostre certeinne science ,
-,octroyonsà	, octroyons à
-ànostreditcousin..queledithommage	à nostre dit cousin . . que le dit hommage
-hommageetterreiltiengne	hommage et terre il tiengne
-tiengnedenousadjointàla..	tiengne de nous adjoint à la . .
-foyethomage.	foy et homage .
-queilnousa	que il nous a
-faitetesttenuz	fait et est tenuz
-àfairepoursesautresterresde..laseneschauciede	à faire pour ses autres terres de . . la seneschaucie de
-dePoitou,senzce	de Poitou , senz ce
-quepourcestecauseilnoussoittenuzàfaire	que pour ceste cause il nous soit tenuz à faire
-autrehommage.	autre hommage .
-DonnéàSaint	Donné à Saint
--Germain-en-Laye,lexxe	- Germain - en - Laye , le xx e
-jourdejanvier..	jour de janvier . .
-.,l'аndegracemilccc.	. , l ' аn de grace mil ccc .
-quaranteetun.	quarante et un .
+Philippes,etc.AuseneschaldePoitououà	Philippes , etc . Au seneschal de Poitou ou à
+sonlieutenant,salut.Commenostreaméet	son lieutenant , salut . Comme nostre amé et
+fealcousin.,	feal cousin . ,
+,lecontedeEu,connestabledeFrancenousait	, le conte de Eu , connestable de France nous ait
+exposéqueiladenouvelacquisl'ommage	exposé que il a de nouvel acquis l ' ommage
+etlaterredu..	et la terre du . .
+.filz..Huguetd'Ambois,quidoitestretenu	. filz . . Huguet d ' Ambois , qui doit estre tenu
+denouspourcausedelachastellenie	de nous pour cause de la chastellenie
+chastelleniedeSaint-Maixent,savoirfaisonsque.nousavons	chastellenie de Saint - Maixent , savoir faisons que . nous avons
+octroiéet,degrace.especial,denostrecerteinne	octroié et , de grace . especial , de nostre certeinne
+science,octroyonsànostreditcousin	science , octroyons à nostre dit cousin
+queledit	que le dit
+dithommageetterreiltiengnedenousadjoint	dit hommage et terre il tiengne de nous adjoint
+adjointàlafoyethomagequeilnousafait	adjoint à la foy et homage que il nous a fait
+etesttenuzàfairepoursesautresterresde	et est tenuz à faire pour ses autres terres de
+laseneschaucie	la seneschaucie
+dePoitou,senzcequepourcestecause	de Poitou , senz ce que pour ceste cause
+ilnoussoittenuzàfaireautrehommage	il nous soit tenuz à faire autre hommage
+.DonnéàSaint-Germain-	. Donné à Saint - Germain -
+en-Laye,	en - Laye ,
+lexx.ejour	le xx . e jour
+dejanvier,..	de janvier , . .
+l'аndegrace	l ' аn de grace
+gracemil.ccc	grace mil . ccc
+ccc.quaranteetun.	ccc . quarante et un .

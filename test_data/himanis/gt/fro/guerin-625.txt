@@ -1,426 +1,434 @@
-Charles,etc.Savoir	Charles , etc . Savoir
-faisonsàtous,presensetavenir,de	faisons à tous , presens et avenir , de
-lapartiede	la partie de
-nostre..améetfealGuyTurpin,	nostre . . amé et feal Guy Turpin ,
-,chevalier,	, chevalier ,
-seigneurde.CrisséetdelaChaiseleViconte	seigneur de . Crissé et de la Chaise le Viconte
-,nousavoirestépresentéesles	, nous avoir esté presentées les
-leslettresdontlateneurs’ensuit:A	les lettres dont la teneur s ’ ensuit : A
-tousceulxquicespresenteslettresverrontetorront,	tous ceulx qui ces presentes lettres verront et orront ,
-GuillaumeGabereau,portansleseelauscontraizà	Guillaume Gabereau , portans le seel aus contraiz à
-Poitiers,establipourtrèsdoubtéseigneur,	Poitiers , establi pour très doubté seigneur ,
-monseigneurleducde	monseigneur le duc de
-Berryetd’Auvergne,contedePoitou	Berry et d ’ Auvergne , conte de Poitou
-,salut.Commecontens	, salut . Comme contens
-etdebatfeustesmeuzetpendistentrenoblehommemessire	et debat feust esmeuz et pendist entre noble homme messire
-GuyTurpin,chevalier.,	Guy Turpin , chevalier . ,
-seigneurde	seigneur de
-deCrisséetdelaChaiseleViconte,d	de Crissé et de la Chaise le Viconte , d
-’unepart	’ une part
-,etPierredeViezbourc,autrementdit	, et Pierre de Viezbourc , autrement dit
-Harpin,d’autrepart,surceque	Harpin , d ’ autre part , sur ce que
-leditmonseigneurGuydisoitetproposoitcontreledit	le dit monseigneur Guy disoit et proposoit contre le dit
-ditHarpinqueJehanBuef,jadizseigneurdeChistré	dit Harpin que Jehan Buef , jadiz seigneur de Chistré
-,etPernelleDenarde,safemme,pour..certaine	, et Pernelle Denarde , sa femme , pour . . certaine
-causejuste	cause juste
-justeetleue,vendirentettransporterent	juste et leue , vendirent et transporterent
-àmessireGuyTurpin,[ayeuldemessireGuy	à messire Guy Turpin ,[ ayeul de messire Guy
-],àpresentseigneurde.Crissé,etduquel	], à present seigneur de . Crissé , et du quel
-quelilestheritierparlemoyendesonfeu	quel il est heritier par le moyen de son feu
-pere,vintsextiersde	pere , vint sextiers de
-fromment,mesuredeChistré,	fromment , mesure de Chistré ,
-ethuitlivres..	et huit livres . .
-endeniersderentetournois	en deniers de rente tournois
-,monnoie	, monnoie
-monnoie.courant,letoutderente	monnoie . courant , le tout de rente
-annuelleetperpetuele,situez	annuelle et perpetuele , situez
-situezetassizsurle	situez et assiz sur le
-hebergementdeChistré	hebergement de Chistré
-etsurtous..	et sur tous . .
-lesautresbiensdesdizvendeurs,si	les autres biens des diz vendeurs , si
-commeilappert	comme il appert
-appertclerementparlettresautentiquessoubzseaulx	appert clerement par lettres autentiques soubz seaulx
-seaulxroyaulxconfaictes,	seaulx royaulx confaictes ,
-données,passéesetaccordées	données , passées et accordées
-,desquelles	, des quelles
-rentes..de	rentes . . de
-bléetdeniersleditmessire	blé et deniers le dit messire
-GuyTurpin,ayeuldu	Guy Turpin , ayeul du
-ditseigneurdeCrissé,	dit seigneur de Crissé ,
-joyà.plaindurantsavie.	joy à . plain durant sa vie .
-EtdepuismessireGuy..	Et depuis messire Guy . .
-Turpin,sonfilz,pereduditseigneurde	Turpin , son filz , pere du dit seigneur de
-Crissé..,etaussi	Crissé . . , et aussi
-leditmessireGuy,à	le dit messire Guy , à
-presentseigneur	present seigneur
+Charles,etc.Savoirfaisonsàtous,	Charles , etc . Savoir faisons à tous ,
+presensetavenir,delapartiedenostreamé	presens et avenir , de la partie de nostre amé
+etfealGuyTurpin,	et feal Guy Turpin ,
+,chevalier,seigneurdeCrissé	, chevalier , seigneur de Crissé
+et.delaChaise	et . de la Chaise
+leViconte	le Viconte
+,nousavoir	, nous avoir
+estépresentéesleslettresdontlateneurs’	esté presentées les lettres dont la teneur s ’
+’ensuit:.Atousceulx	’ ensuit : . A tous ceulx
+quicespresenteslettresverrontetorront,GuillaumeGabereau	qui ces presentes lettres verront et orront , Guillaume Gabereau
+Gabereau,portansle	Gabereau , portans le
+seelauscontraizàPoitiers	seel aus contraiz à Poitiers
+,establi.pourtrès	, establi . pour très
+trèsdoubtéseigneur,monseigneurleducdeBerryet	très doubté seigneur , monseigneur le duc de Berry et
+etd’Auvergne,contedePoitou,salut.	et d ’ Auvergne , conte de Poitou , salut .
+Commecontensetdebat	Comme contens et debat
+feustesmeuzetpendist	feust esmeuz et pendist
+pendist..entrenoble	pendist . . entre noble
+hommemessireGuyTurpin,chevalier,seigneurde	homme messire Guy Turpin , chevalier , seigneur de
+CrisséetdelaChaise	Crissé et de la Chaise
+leViconte,d’	le Viconte , d ’
+unepart,etPierredeViezbourc,.autrement	une part , et Pierre de Viezbourc , . autrement
+autrementditHarpin,	autrement dit Harpin ,
+d’autrepart,surcequeledit	d ’ autre part , sur ce que le dit
+ditmonseigneurGuydisoitet	dit monseigneur Guy disoit et
+proposoitcontreleditHarpin	proposoit contre le dit Harpin
+queJehanBuef,jadizseigneur	que Jehan Buef , jadiz seigneur
+deChistré,etPernelle.Denarde	de Chistré , et Pernelle . Denarde
+,sa..femme,pourcertaine	, sa . . femme , pour certaine
+causejusteetleue,vendirentettransporterentàmessire	cause juste et leue , vendirent et transporterent à messire
+messireGuyTurpin,[ayeuldemessireGuy],àpresent	messire Guy Turpin ,[ ayeul de messire Guy ], à present
+presentseigneurdeCrissé,etdu	present seigneur de Crissé , et du
+duquelilestheritierparle	du quel il est heritier par le
+moyendesonfeupere	moyen de son feu pere
+pere,vintsextiersdefromment,mesure	pere , vint sextiers de fromment , mesure
+deChistré,ethuit.livres	de Chistré , et huit . livres
+endeniers	en deniers
+derentetournois,monnoiecourant,letoutde	de rente tournois , monnoie courant , le tout de
+renteannuelleet	rente annuelle et
+perpetuele,situezetassizsurlehebergementde..Chistré	perpetuele , situez et assiz sur le hebergement de . . Chistré
+etsurtouslesautresbiensdesdiz	et sur tous les autres biens des diz
+vendeurs,si	vendeurs , si
+commeilappertclerementparlettresautentiquessoubzseaulxroyaulx	comme il appert clerement par lettres autentiques soubz seaulx royaulx
+confaictes,	confaictes ,
+données,passéesetaccordées,	données , passées et accordées ,
+desquellesrentesdeblé.etdeniers	des quelles rentes de blé . et deniers
+deniersleditmessireGuyTurpin,ayeulduditseigneur	deniers le dit messire Guy Turpin , ayeul du dit seigneur
 deCrissé	de Crissé
-Crissé,jusques	Crissé , jusques
-autempsetheurequeHuguet	au temps et heure que Huguet
-Buef,seigneurduditlieudeChistré,se	Buef , seigneur du dit lieu de Chistré , se
-opposaencontre	opposa encontre
-certainnesrequestesfaictesenlacourtdudit	certainnes requestes faictes en la court du dit
-seel,parvertudesdictes	seel , par vertu des dictes
-lettresroyaulx,parJehan	lettres royaulx , par Jehan
-Charrer,procureurdudit	Charrer , procureur du dit
-messireGuy,àpresentseigneurdeCrissé,en	messire Guy , à present seigneur de Crissé , en
-laquellerequesteetopposicionsedeffailli	la quelle requeste et opposicion se deffailli
-deffaillileditHuguespartantde	deffailli le dit Hugues par tant de
-deffauxsimplex	deffaux simplex
-(sic)et	( sic ) et
-jugezqueilfudit,sentenciéet	jugez que il fu dit , sentencié et
-desclairié,èsgransassisesde	desclairié , ès grans assises de
-Poitiers,quicommencerentle	Poitiers , qui commencerent le
-secondjourdejuingl’anmilccc	second jour de juing l ’ an mil ccc
-.lxxvi,qu’iln’estoit	. lxxvi , qu ’ il n ’ estoit
-mespartiequifust	mes partie qui fust
-àrecevoiràconduiresadicte	à recevoir à conduire sa dicte
-dicte.opposicion,etque	dicte . opposicion , et que
-larequesteduditmessireGuyseroitacomplie	la requeste du dit messire Guy seroit acomplie
-surledit	sur le dit
-Huguesetsursesbiens	Hugues et sur ses biens
-biens.LequelHuguet	biens . Le quel Huguet
-Buef,jadisseigneurduditlieude	Buef , jadis seigneur du dit lieu de
-Chistré,s’estjàpieçarenduzrebelle	Chistré , s ’ est jà pieça renduz rebelle
-etdesobeissantduroynostresire,duditmonseigneur	et desobeissant du roy nostre sire , du dit monseigneur
-monseigneurleduc,ets’estfaitde	monseigneur le duc , et s ’ est fait de
-l’obeissanceetpartieduroy	l ’ obeissance et partie du roy
-d’Angleterre,desesaliezet	d ’ Angleterre , de ses aliez et
-etadhereurs,etennemisduditmonseigneur..leduc	et adhereurs , et ennemis du dit monseigneur . . le duc
-etduroy.Etpourcestecause	et du roy . Et pour ceste cause
-,leditmonseigneur	, le dit monseigneur
-leduc,commelieutenantduroynostresire	le duc , comme lieutenant du roy nostre sire
-,etentantcommeluipovoit	, et en tant comme lui povoit
-touchier,donnaaudit.Pierrede	touchier , donna au dit . Pierre de
-Viezbourc,autrementdit	Viezbourc , autrement dit
-Harpin..,lestour	Harpin . . , les tour
-,lieu,terresetappartenances	, lieu , terres et appartenances
-deChistré	de Chistré
-perpetuelmentàheritage,commecommisetconfisquiez	perpetuelment à heritage , comme commis et confisquiez
-.Etpourceque	. Et pour ce que
-que..ledit	que . . le dit
-Harpin,commeseigneur	Harpin , comme seigneur
-,.proprietaire	, . proprietaire
-proprietaireetpossesseurde	proprietaire et possesseur de
-dela..dictetour,lieu,terres	de la . . dicte tour , lieu , terres
-etappartenancesdeChistré,fut	et appartenances de Chistré , fut
-aucunementdelaiantetendemeuredepaierauditmessire	aucunement delaiant et en demeure de paier au dit messire
-Guy,àpresent	Guy , à present
-seigneurde	seigneur de
-Crissé,lesarreragesdesadicte	Crissé , les arrerages de sa dicte
-rente,sur	rente , sur
-surcesouffisanmentrequis,leditmessireGuyobtint	sur ce souffisanment requis , le dit messire Guy obtint
-obtintcertainneslettresduroynostresire,	obtint certainnes lettres du roy nostre sire ,
-,parvertudesquellesil	, par vertu des quelles il
+Crissé,joyàplaindurantsavie.	Crissé , joy à plain durant sa vie .
+EtdepuismessireGuy	Et depuis messire Guy
+Turpin,sonfilz,pere	Turpin , son filz , pere
+duditseigneurdeCrissé,etaussile	du dit seigneur de Crissé , et aussi le
+ditmessire.Guy	dit messire . Guy
+,.àpresentseigneurde	, . à present seigneur de
+Crissé,jusquesautempset.heure	Crissé , jusques au temps et . heure
+queHuguetBuef,seigneurdudit	que Huguet Buef , seigneur du dit
+ditlieudeChistré	dit lieu de Chistré
+Chistré,seopposaencontrecertainnesrequestesfaictesenla	Chistré , se opposa encontre certainnes requestes faictes en la
+courtduditseel,parvertu	court du dit seel , par vertu
+desdicteslettresroyaulx,parJehanCharrer,	des dictes lettres royaulx , par Jehan Charrer ,
+procureurduditmessireGuy,àpresentseigneurde.	procureur du dit messire Guy , à present seigneur de .
+Crissé,enla	Crissé , en la
+laquellerequesteetopposicionsedeffaillileditHuguespar	la quelle requeste et opposicion se deffailli le dit Hugues par
+partantdedeffauxsimplex(sic	par tant de deffaux simplex ( sic
+)et..jugezqueilfu	) et . . jugez que il fu
+dit,sentenciéetdesclairié	dit , sentencié et desclairié
+desclairié,èsgransassisesdePoitiers,	desclairié , ès grans assises de Poitiers ,
+quicommencerentle.secondjourdejuingl’an	qui commencerent le . second jour de juing l ’ an
+anmilccc.lxxvi,qu	an mil ccc . lxxvi , qu
+’iln’estoitmespartiequifust	’ il n ’ estoit mes partie qui fust
+fustàrecevoiràconduiresadicteopposicion,etque	fust à recevoir à conduire sa dicte opposicion , et que
+quelarequesteduditmessire	que la requeste du dit messire
+Guyseroitacomplie	Guy seroit acomplie
+surleditHugueset	sur le dit Hugues et
+sursesbiens.LequelHuguetBuef,jadis	sur ses biens . Le quel Huguet Buef , jadis
+seigneurduditlieu.	seigneur du dit lieu .
+deChistré,s’estjà	de Chistré , s ’ est jà
+pieçarenduzrebelle	pieça renduz rebelle
+etdesobeissantduroy	et desobeissant du roy
+nostresire,duditmonseigneurleduc,	nostre sire , du dit monseigneur le duc ,
+ets’estfaitde	et s ’ est fait de
+l’obeissanceetpartieduroyd’	l ’ obeissance et partie du roy d ’
+’Angleterre,desesaliezetadhereurs	’ Angleterre , de ses aliez et adhereurs
+,etennemisduditmonseigneurleduc.et	, et ennemis du dit monseigneur le duc . et
+etduroy.Etpourcestecause,ledit	et du roy . Et pour ceste cause , le dit
+monseigneurleduc	monseigneur le duc
+duc,commelieutenantduroynostre	duc , comme lieutenant du roy nostre
+nostresire,etentantcommeluipovoittouchier,	nostre sire , et en tant comme lui povoit touchier ,
+donnaauditPierredeViezbourc,autrementdit	donna au dit Pierre de Viezbourc , autrement dit
+Harpin,lestour,lieu	Harpin , les tour , lieu
+,..terres	, . . terres
+terresetappartenancesdeChistréperpetuelmentàheritage,commecommis	terres et appartenances de Chistré perpetuelment à heritage , comme commis
+commiset..confisquiez.Etpour	commis et . . confisquiez . Et pour
+cequeledit	ce que le dit
+Harpin,.	Harpin , .
+commeseigneur,proprietaireetpossesseur	comme seigneur , proprietaire et possesseur
+deladicte	de la dicte
+tour,lieu,	tour , lieu ,
+terresetappartenancesdeChistré,fut	terres et appartenances de Chistré , fut
+aucunementdelaiantet.en	aucunement delaiant et . en
+demeuredepaieraudit..messireGuy,	demeure de paier au dit . . messire Guy ,
+àpresentseigneurdeCrissé,	à present seigneur de Crissé ,
+lesarrerages	les arrerages
+desadicterente	de sa dicte rente
+rente,surcesouffisanmentrequis,..	rente , sur ce souffisanment requis , . .
+leditmessireGuyobtint..certainneslettresdu	le dit messire Guy obtint . . certainnes lettres du
+roynostresire,parvertudesquellesilestoit	roy nostre sire , par vertu des quelles il estoit
 estoitmandéaupremiersergentroyalsurcerequis	estoit mandé au premier sergent royal sur ce requis
-,[qu’il]feistcommandementauditHarpin	,[ qu ’ il ] feist commandement au dit Harpin
-,ounom.que	, ou nom . que
-dessus,..queilfeistsatisfacionet	dessus , . . que il feist satisfacion et
-paiementauditseigneur	paiement au dit seigneur
-deCrissédesarrerages	de Crissé des arrerages
-arreragesdesesdictes	arrerages de ses dictes
-rentesde	rentes de
-bléetdeniers.Etoucasque	blé et deniers . Et ou cas que
-queleditHarpinseopposeroitencontreouseroitdelaiantou	que le dit Harpin se opposeroit encontre ou seroit delaiant ou
-refusantde.paier,que	refusant de . paier , que
-queilfustadjournezenParlementàcertainjouret	que il fust adjournez en Parlement à certain jour et
-et..competent.	et . . competent .
-.LequelPierrede..Viezbourc,autrementditHarpin	. Le quel Pierre de . . Viezbourc , autrement dit Harpin
-,savantetdeuementacertenédesdictes	, savant et deuement acertené des dictes
-rentes,neseopposa	rentes , ne se opposa
-nenevoult	ne ne voult
-voultaucunementsoy..opposercontrelecommandement	voult aucunement soy . . opposer contre le commandement
-qui,par	qui , par
-parvertudesdicteslettresroyaux,àlarequestedu	par vertu des dictes lettres royaux , à la requeste du
-ditmessireGuy,surceluifu.fait	dit messire Guy , sur ce lui fu . fait
-,maistoutesvoiesfucontredisantetendemeuredepaier	, mais toutesvoies fu contredisant et en demeure de paier
-paierau..ditmessireGuylesdizarrerages,et	paier au . . dit messire Guy les diz arrerages , et
-etpourceluifujour..	et pour ce lui fu jour . .
-assignéenParlement,	assigné en Parlement ,
-auxvejourdu	au xve jour du
-moysdejuing	moys de juing
-derrainpassé.Au	derrain passé . Au
-queljourleditHarpinne..ala	quel jour le dit Harpin ne . . ala
-alaneenvoya,etfumisen	ala ne envoya , et fu mis en
-deffautversledit	deffaut vers le dit
+requis,[qu	requis ,[ qu
+’il]feistcommandementauditHarpin,	’ il ] feist commandement au dit Harpin ,
+ounomquedessus,queil	ou nom que dessus , que il
+feistsatisfacionetpaiementauditseigneurde	feist satisfacion et paiement au dit seigneur de
+deCrissédesarreragesdesesdictesrentesdeblé	de Crissé des arrerages de ses dictes rentes de blé
+bléetdeniers.Etou	blé et deniers . Et ou
+oucasqueleditHarpinseopposeroitencontreouseroit	ou cas que le dit Harpin se opposeroit encontre ou seroit
+delaiantourefusantdepaier,queilfustadjournez	delaiant ou refusant de paier , que il fust adjournez
+enParlement	en Parlement
+Parlementàcertainjouretcompetent.Le	Parlement à certain jour et competent . Le
+quelPierredeViezbourc,autrement.dit	quel Pierre de Viezbourc , autrement . dit
+Harpin,savant	Harpin , savant
+etdeuementacertené	et deuement acertené
+desdictesrentes,ne	des dictes rentes , ne
+seopposanene	se opposa ne ne
+voultaucunement	voult aucunement
+soyopposer..contrele	soy opposer . . contre le
+lecommandementqui	le commandement qui
+qui.,parvertudesdictes	qui . , par vertu des dictes
+lettresroyaux,	lettres royaux ,
+àlarequesteduditmessireGuy,	à la requeste du dit messire Guy ,
+surceluifufait,maistoutesvoies	sur ce lui fu fait , mais toutesvoies
+fucontredisantetendemeure..depaier	fu contredisant et en demeure . . de paier
+auditmessireGuyles	au dit messire Guy les
+lesdizarrerages,etpourceluifu	les diz arrerages , et pour ce lui fu
+jourassignéenParlement	jour assigné en Parlement
+,auxvejourdumoysdejuingderrainpassé	, au xve jour du moys de juing derrain passé
+passé...Auquel	passé . . . Au quel
+queljourleditHarpinne	quel jour le dit Harpin ne
+nealane	ne ala ne
+envoya,et.	envoya , et .
+fumisendeffautversleditmessire	fu mis en deffaut vers le dit messire
+Guy,apparoissant	Guy , apparoissant
+apparoissantsouffisanment,etordené	apparoissant souffisanment , et ordené
+ordenéparla.courtduditParlementquele	ordené par la . court du dit Parlement que le
+ditseigneurdeCrisséseroitpaiez.desdizarrerages	dit seigneur de Crissé seroit paiez . des diz arrerages
+,nonobstans	, non obstans
+quelconquesopposicionsfaites.et	quelconques opposicions faites . et
+àfaireparle..ditHarpin.[LequelPierre]	à faire par le . . dit Harpin .[ Lequel Pierre ]
+deViezbourc,autrementditHarpin,atout	de Viezbourc , autrement dit Harpin , a tout
+toutcecongneuet	tout ce congneu et
+confessépardevantnousetennostrepresence.	confessé par devant nous et en nostre presence .
+Pourquoyendroit,ennostrecourtpresent	Pour quoy en droit , en nostre court present
+etpersonnelmentestablileditPierredeViezbourc,autrement	et personnelment establi le dit Pierre de Viezbourc , autrement
+ditHarpin,soubzmettantsoy,	dit Harpin , soubzmettant soy ,
+sesbiens,seshoirsetles	ses biens , ses hoirs et les
+lesbiensdeseshoirs,meublesetimmeubles,presens	les biens de ses hoirs , meubles et immeubles , presens
+presensetavenir,audestroit,jurisdicion,povoiret	presens et avenir , au destroit , jurisdicion , povoir et
+etcoherciondenostredictecourt,	et cohercion de nostre dicte court ,
+,sanz.autrepovoirnejuridicionadvoer,desa	, sanz . autre povoir ne juridicion advoer , de sa
+sabonnevolentéetpourceque..trèsbienliplait	sa bonne volenté et pour ce que . . très bien li plait
+plait,deuementetàplein,si	plait , deuement et à plein , si
+commeil	comme il
+ildit,acertenné	il dit , acertenné
+acertennédubon	acertenné du bon
+bondroitetfaizduditmessireGuy	bon droit et faiz du dit messire Guy
+,àpresentseigneurdeCrissé,etdu	, à present seigneur de Crissé , et du
+commandement,	commandement ,
+volentéetassentementduditmonseigneurleducet	volenté et assentement du dit monseigneur le duc et
+ensapresence,àycellui.	en sa presence , à ycellui .
+.messireGuy	. messire Guy
+,àpresent	, à present
+seigneurdeCrissé,à	seigneur de Crissé , à
+seshoirs	ses hoirs
+etsuccesseursetaianssacausepour	et successeurs et aians sa cause pour
+etàcause	et à cause
+desditesrentesetarreragesd’icelles,et	des dites rentes et arrerages d ’ icelles , et
+pour.endemourerdu	pour . en demourer du
+toutquicteetdeschargié,	tout quicte et deschargié ,
+abaillié,livré,	a baillié , livré ,
+quitté.,remisetdelaissié	quitté . , remis et delaissié
+etdutout	et du tout
+transporté,etencorelefait,ladictetour	transporté , et encore le fait , la dicte tour
+etjuridicion	et juridicion
+etlieu.de	et lieu . de
+ChistréenPoitou,avecquestouzles	Chistré en Poitou , avecques touz les
+hostelx,maisons,terres,vignes	hostelx , maisons , terres , vignes
+,bois,prez,cens,censes,	, bois , prez , cens , censes ,
+moulins,hommes,hommagesesclus,ettouteset	moulins , hommes , hommages esclus , et toutes et
+chascuneslesautreschosesquelconques,appartenanceset	chascunes les autres choses quelconques , appartenances et
+appendencesauditlieude	appendences au dit lieu de
+Chistré,etbiensquifurentet	Chistré , et biens qui furent et
+estoientdudit	estoient du dit
+ditHuguet,autempsdesadicterebellion,	dit Huguet , au temps de sa dicte rebellion ,
+,quelxqu’	, quelx qu ’
+ilzsoientetcommeilz..soientnommezet	ilz soient et comme ilz . . soient nommez et
+etappellez;eten	et appellez ; et en
+oultre,pourlepris	oultre , pour le pris
+etsommedequatrecenslivres	et somme de quatre cens livres
+tournois,monnoie	tournois , monnoie
+monnoiecourant,francde	monnoie courant , franc de
+finorlapiecepourvintsolz,	fin or la piece pour vint solz ,
+quemessireJehandelaTouche,	que messire Jehan de la Touche ,
+chevalier,apromisrendre	chevalier , a promis rendre
+etpaierau	et paier au
+ditHarpin,pour	dit Harpin , pour
+etounomduditmessire	et ou nom du dit messire
+GuyTurpin,sicommeilappert	Guy Turpin , si comme il appert
+appertparcertainneslettressurce,entreleditmessire	appert par certainnes lettres sur ce , entre le dit messire
+Jehanet	Jehan et
+etleditHarpinpasséesetaccordées	et le dit Harpin passées et accordées
+accordées...Delaquelle	accordées . . . De la quelle
+quelletouretlieudeChistré,	quelle tour et lieu de Chistré ,
+,terres,possessions,biens,appendencesetappartenances	, terres , possessions , biens , appendences et appartenances
+quelconquesleditHarpin	quelconques le dit Harpin
+s’estdu	s ’ est du
+dutoutdespoillé,desvetuetdessaisi,eten	du tout despoillé , desvetu et dessaisi , et en
+avestuetsaisileditmessire.Guy,	a vestu et saisi le dit messire . Guy ,
+pourlui	pour lui
+,seshoirsetsuccesseurs,	, ses hoirs et successeurs ,
+etquidely	et qui de ly
+auracause,ettransportéenluilasaisineet	aura cause , et transporté en lui la saisine et
+possessionettoutdroitdeproprieté,ensembleement	possession et tout droit de proprieté , ensembleement
+ensembleementettouslesdrois,noms,	ensembleement et tous les drois , noms ,
+,raisons,actions	, raisons , actions
+,peticionset.demandes	, peticions et . demandes
+quelconques,queledit	quelconques , que le dit
+Pierreavoit,avoirpovoitetdevoit	Pierre avoit , avoir povoit et devoit
+èsdictes.	ès dictes .
+choses,deluitransportéesetdelaissées	choses , de lui transportées et delaissées
+auditmessireGuy,et	au dit messire Guy , et
+versquelconquespersonnesquecesoit,parraison	vers quelconques personnes que ce soit , par raison
+raisond’icelles,ensaisissantet	raison d ’ icelles , en saisissant et
+constituant..sur	constituant . . sur
+celedit	ce le dit
 messireGuy	messire Guy
-,apparoissant	, apparoissant
-souffisanment,et	souffisanment , et
-ordenéparlacourtduditParlementqueledit	ordené par la court du dit Parlement que le dit
-seigneurde.Crissé	seigneur de . Crissé
-seroitpaiezdesdizarrerages,	seroit paiez des diz arrerages ,
-nonobstans	non obstans
-obstansquelconquesopposicionsfaitesetàfaireparleditHarpin	obstans quelconques opposicions faites et à faire par le dit Harpin
-.[LequelPierre]deViezbourc,autrementditHarpin	.[ Lequel Pierre ] de Viezbourc , autrement dit Harpin
-Harpin,a	Harpin , a
-toutcecongneuetconfessépardevant	tout ce congneu et confessé par devant
-devantnouseten	devant nous et en
-ennostrepresence.Pourquoyen	en nostre presence . Pour quoy en
-endroit,ennostre	en droit , en nostre
-courtpresentetpersonnelmentestablileditPierredeViezbourc	court present et personnelment establi le dit Pierre de Viezbourc
-,autrementditHarpin,soubzmettant	, autrement dit Harpin , soubzmettant
-soy,sesbiens,seshoirs	soy , ses biens , ses hoirs
-hoirsetles	hoirs et les
-biensdeseshoirs,meublesetimmeubles	biens de ses hoirs , meubles et immeubles
-,presensetavenir,audestroit,	, presens et avenir , au destroit ,
-,jurisdicion,povoir	, jurisdicion , povoir
-et..coherciondenostredicte	et . . cohercion de nostre dicte
-dictecourt,sanzautrepovoirnejuridicionadvoer,de	dicte court , sanz autre povoir ne juridicion advoer , de
-desabonnevolentéetpourcequetrès	de sa bonne volenté et pour ce que très
-bienliplait	bien li plait
-,deuementetàplein,sicommeil	, deuement et à plein , si comme il
-ildit,acertennédubondroitetfaizdu	il dit , acertenné du bon droit et faiz du
-duditmessireGuy,àpresentseigneurdeCrissé,	du dit messire Guy , à present seigneur de Crissé ,
-etducommandement,	et du commandement ,
-volentéetassentementdu	volenté et assentement du
-ditmonseigneurleducet	dit monseigneur le duc et
-etensapresence,àycellui	et en sa presence , à ycellui
-ycelluimessireGuy,àpresentseigneurdeCrissé,à	ycellui messire Guy , à present seigneur de Crissé , à
-seshoirsetsuccesseursetaianssacausepouret	ses hoirs et successeurs et aians sa cause pour et
-àcausedes	à cause des
-ditesrentes	dites rentes
-rentesetarreragesd’icelles,etpour	rentes et arrerages d ’ icelles , et pour
-endemourerdutout	en demourer du tout
-quicteetdeschargié,abaillié,livré,.	quicte et deschargié , a baillié , livré , .
-quitté,remisetdelaissiéetdutouttransporté,	quitté , remis et delaissié et du tout transporté ,
-etencorelefait,ladicte	et encore le fait , la dicte
-touretjuridicion..etlieudeChistréenPoitou	tour et juridicion . . et lieu de Chistré en Poitou
-,avecquestouzles	, avecques touz les
-leshostelx,maisons,terres,vignes.,bois,	les hostelx , maisons , terres , vignes . , bois ,
-prez,cens,censes,	prez , cens , censes ,
-moulins,hommes,hommagesesclus,..ettoutes	moulins , hommes , hommages esclus , . . et toutes
-etchascuneslesautreschosesquelconques,appartenanceset	et chascunes les autres choses quelconques , appartenances et
-etappendencesaudit	et appendences au dit
-lieudeChistré,etbiensquifurentet	lieu de Chistré , et biens qui furent et
-estoientduditHuguet,	estoient du dit Huguet ,
-autemps	au temps
-desadicterebellion,quelxqu	de sa dicte rebellion , quelx qu
-’..ilzsoient	’ . . ilz soient
-etcomme	et comme
-ilzsoientnommezetappellez..;	ilz soient nommez et appellez . . ;
-etenoultre,pourlepriset	et en oultre , pour le pris et
-sommedequatre	somme de quatre
-censlivrestournois,monnoie	cens livres tournois , monnoie
-courant,francdefinorlapiece	courant , franc de fin or la piece
-pourvintsolz,quemessireJehandela	pour vint solz , que messire Jehan de la
-Touche,..chevalier	Touche , . . chevalier
-,apromisrendreetpaier..au	, a promis rendre et paier . . au
-ditHarpin,pouretounom	dit Harpin , pour et ou nom
-duditmessireGuyTurpin.,sicommeilappert	du dit messire Guy Turpin . , si comme il appert
-appertparcertainneslettressurce,	appert par certainnes lettres sur ce ,
-entreledit	entre le dit
-messireJehanetleditHarpin	messire Jehan et le dit Harpin
-passéesetaccordées.Delaquelletouret	passées et accordées . De la quelle tour et
-lieudeChistré,terres	lieu de Chistré , terres
-,possessions.	, possessions .
-.,biens,appendencesetappartenancesquelconques	. , biens , appendences et appartenances quelconques
-ledit.Harpins’	le dit . Harpin s ’
-estdutoutdespoillé,	est du tout despoillé ,
-,desvetuet.dessaisi	, desvetu et . dessaisi
-,etenavestu	, et en a vestu
-vestuetsaisi.le	vestu et saisi . le
-leditmessireGuy,pourlui,ses	le dit messire Guy , pour lui , ses
-seshoirsetsuccesseurs	ses hoirs et successeurs
-successeurs,etqui	successeurs , et qui
-delyauracause,et..transporté	de ly aura cause , et . . transporté
-enluilasaisineetpossessionettoutdroitde	en lui la saisine et possession et tout droit de
-deproprieté,	de proprieté ,
-ensembleementettouslesdrois,	ensembleement et tous les drois ,
-noms,..raisons	noms , . . raisons
-,actions,peticionset	, actions , peticions et
-etdemandesquelconques,queleditPierre	et demandes quelconques , que le dit Pierre
-Pierreavoit,avoirpovoitetdevoitèsdicteschoses,	Pierre avoit , avoir povoit et devoit ès dictes choses ,
-deluitransportéesetdelaissées	de lui transportées et delaissées
-delaisséesauditmessireGuy,etversquelconquespersonnes	delaissées au dit messire Guy , et vers quelconques personnes
-personnesquecesoit,parraisond’icelles,	personnes que ce soit , par raison d ’ icelles ,
-,ensaisissantet	, en saisissant et
-constituantsurce..leditmessireGuyenycelleschoses	constituant sur ce . . le dit messire Guy en ycelles choses
-vrayseigneur,proprietaire,procureuretpossesseur	vray seigneur , proprietaire , procureur et possesseur
-possesseur,commeen..sapropre	possesseur , comme en . . sa propre
-chose,àluideuementacquise,sanz	chose , à lui deuement acquise , sanz
-sanzjamaisriensyavoir,demander,neretenir	sanz jamais riens y avoir , demander , ne retenir
-duditPierrenedessiens.Etveultet	du dit Pierre ne des siens . Et veult et
-estd’assentementleditPierreque	est d ’ assentement le dit Pierre que
-queleditmessireGuypraigneetpuisseprandre..	que le dit messire Guy praigne et puisse prandre . .
-et..apprehender,parluiet	et . . apprehender , par lui et
-etparautres,..ensonnom	et par autres , . . en son nom
-nometde	nom et de
-sapropreauctorité,lasaisine	sa propre auctorité , la saisine
-etpossession	et possession
-desdicteschosesets’	des dictes choses et s ’
-enfairevestiretsaisiràlaseignourie,senz	en faire vestir et saisir à la seignourie , senz
-yrequerreneappellerle	y requerre ne appeller le
-ditHarpin,etface	dit Harpin , et face
-facelafoyethommaged	face la foy et hommage d
-’icelleschoses	’ icelles choses
-àreverentpereenDieu,l’evesquede	à reverent pere en Dieu , l ’ evesque de
-Poitiers,duquel	Poitiers , du quel
-quelleditlieudeChistréesttenu,	quel le dit lieu de Chistré est tenu ,
-leditPierreà[ce]	le dit Pierre à [ ce ]
-presentouabsent,etsanzluisur	present ou absent , et sanz lui sur
-surcejamaisrequerreneappeller.Auquelreverentpere	sur ce jamais requerre ne appeller . Au quel reverent pere
-pereenDieule	pere en Dieu le
-[dit]Pierreprie	[ dit ] Pierre prie
-,supplieet	, supplie et
-requiertquedes	requiert que des
-desdicteschosesilliplaiseprandreet.recevoirà	des dictes choses il li plaise prandre et . recevoir à
-sadictefoyethommage	sa dicte foy et hommage
-hommageleditmessire	hommage le dit messire
-Guy.Les	Guy . Les
-LesquelleschosesleditPierreapromis	Les quelles choses le dit Pierre a promis
-promisetpromet,.estetseratenuet	promis et promet , . est et sera tenu et
-etobligezperpetuelmentgarentir,delivreret	et obligez perpetuelment garentir , delivrer et
-deffendreauditmessireGuy,	deffendre au dit messire Guy ,
-àses.hoirset	à ses . hoirs et
-etsuccesseursetquideliauracause	et successeurs et qui de li aura cause
-,verstousetcontretous	, vers tous et contre tous
-tous,detouz	tous , de touz
-troublesetempeschemens	troubles et empeschemens
-empeschemensquelconques,	empeschemens quelconques ,
-detoute	de toute
-touteeviction..et	toute eviction . . et
-detoutes	de toutes
-chargesetobligacionsmisesparliensonfait	charges et obligacions mises par li en son fait
-,etamendertouzcousts,fraiz	, et amender touz cousts , fraiz
-fraizetdommagesinterests,misesetdespens,quele	fraiz et dommages interests , mises et despens , que le
-ditmessireGuyTurpin,	dit messire Guy Turpin ,
-,lessiensouporteurdecespresentesferont	, les siens ou porteur de ces presentes feront
-feront,aurontousoustiendront.,pardeffautde	feront , auront ou soustiendront . , par deffaut de
-degarimentetautreschosesdessus	de gariment et autres choses dessus
-dictesou	dictes ou
-ouaucunesd’icellesnonfaictes,..	ou aucunes d ’ icelles non faictes , . .
-.enterinéesetacomplies,	. enterinées et acomplies ,
-àleurseul	à leur seul
+enycelleschoses	en ycelles choses
+vray..seigneur,proprietaire,	vray . . seigneur , proprietaire ,
+,procureuretpossesseur,commeensaproprechose,	, procureur et possesseur , comme en sa propre chose ,
+àluideuement	à lui deuement
+acquise,	acquise ,
+,sanzjamaisriensy	, sanz jamais riens y
+avoir,demander,neretenirdu	avoir , demander , ne retenir du
+ditPierrenedessiens	dit Pierre ne des siens
+.Etveultetestd’assentementledit	. Et veult et est d ’ assentement le dit
+ditPierrequeleditmessireGuypraigneetpuisse	dit Pierre que le dit messire Guy praigne et puisse
+prandreetapprehender,par	prandre et apprehender , par
+luietparautres,ensonnom	lui et par autres , en son nom
+nometdesapropreauctorité,lasaisineet	nom et de sa propre auctorité , la saisine et
+etpossessiondesdictes.choses	et possession des dictes . choses
+ets’enfaire	et s ’ en faire
+fairevestiretsaisirà	faire vestir et saisir à
+laseignourie..,senzyrequerreneappeller	la seignourie . . , senz y requerre ne appeller
+leditHarpin,etfacelafoy	le dit Harpin , et face la foy
+foyethommaged’icelleschoses	foy et hommage d ’ icelles choses
+àreverentpereenDieu,	à reverent pere en Dieu ,
+l’evesquedePoitiers,du	l ’ evesque de Poitiers , du
+duquelle.ditlieude	du quel le . dit lieu de
+de.Chistréest	de . Chistré est
+tenu,leditPierreà[ce]present	tenu , le dit Pierre à [ ce ] present
+presentouabsent	present ou absent
+,etsanzluisurcejamaisrequerreneappeller	, et sanz lui sur ce jamais requerre ne appeller
+.Au.quelreverentpereenDieu	. Au . quel reverent pere en Dieu
+Dieule[	Dieu le [
+dit]..Pierre	dit ] . . Pierre
+Pierreprie,supplieetrequiert	Pierre prie , supplie et requiert
+quedesdicteschosesilliplaiseprandreet	que des dictes choses il li plaise prandre et
+etrecevoiràsadicte	et recevoir à sa dicte
+dictefoyethommage..ledit	dicte foy et hommage . . le dit
+ditmessireGuy.	dit messire Guy .
+LesquelleschosesleditPierre	Les quelles choses le dit Pierre
+Pierreapromisetpromet,estetseratenu	Pierre a promis et promet , est et sera tenu
+tenuetobligezperpetuelmentgarentir,delivreret	tenu et obligez perpetuelment garentir , delivrer et
+deffendreau	deffendre au
+dit..messireGuy,àseshoirsetsuccesseurset	dit . . messire Guy , à ses hoirs et successeurs et
+quideliauracause,verstouset	qui de li aura cause , vers tous et
+contretous,detouztroublesetempeschemensquelconques	contre tous , de touz troubles et empeschemens quelconques
+quelconques,detouteevictionetdetouteschargeset	quelconques , de toute eviction et de toutes charges et
+obligacions.misesparlienson	obligacions . mises par li en son
+fait,et	fait , et
+amendertouzcousts,fraizetdommagesinterests.,	amender touz cousts , fraiz et dommages interests . ,
+miseset.despens,queleditmessireGuyTurpin	mises et . despens , que le dit messire Guy Turpin
+,lessiensou.porteurde	, les siens ou . porteur de
+decespresentesferont,	de ces presentes feront ,
+aurontousoustiendront,pardeffautdegarimentetautres	auront ou soustiendront , par deffaut de gariment et autres
+autreschosesdessusdictesouaucunesd	autres choses dessus dictes ou aucunes d
+d’icellesnonfaictes,enterinéeset	d ’ icelles non faictes , enterinées et
+etacomplies,àleur	et acomplies , à leur
 seuletsimple	seul et simple
-serementoudel’und’	serement ou de l ’ un d ’
-’eulx,sanz	’ eulx , sanz
-autrepreuvesurce..requerre.	autre preuve sur ce . . requerre .
-.RenunçantleditHarpinen	. Renunçant le dit Harpin en
-cestuisonfaitàtoutesexcepcionsetdecepcionsen	cestui son fait à toutes excepcions et decepcions en
-faitdemal	fait de mal
-mal,fraude,crainte,barat,tricherie,lesion	mal , fraude , crainte , barat , tricherie , lesion
-,circonvencion,machinacionsetexcepciond	, circonvencion , machinacions et excepcion d
-d’oultre	d ’ oultre
-oultremoitiédedroit	oultre moitié de droit
-pris,àplus	pris , à plus
-plusfaitet	plus fait et
-moinsescript,età	moins escript , et à
-l..’opposite,àtousestablissemens,constitucions,	l . . ’ opposite , à tous establissemens , constitucions ,
-privileges,ordonnances,statuzetgracede	privileges , ordonnances , statuz et grace de
-depape,d’empereur,deroy,	de pape , d ’ empereur , de roy ,
-denostreditseigneurleducetd	de nostre dit seigneur le duc et d
-d’autreprinceouseigneurquelconque,faizou	d ’ autre prince ou seigneur quelconque , faiz ou
-àfaireetdonnez	à faire et donnez
-ouàdonner,parcause	ou à donner , par cause
-deguerreouautrement,àtoutusage	de guerre ou autrement , à tout usage
-etcoustumede.païs	et coustume de . païs
-,àtoutdroitcanon[et]civil	, à tout droit canon [ et ] civil
-,etgeneralmentàtoutesautresexcepcions,etc.	, et generalment à toutes autres excepcions , etc .
-AcongneuleditHarpinlesdicteschoses	A congneu le dit Harpin les dictes choses
-chosesestrevraies,eta	choses estre vraies , et a
-juréetpromisaus	juré et promis aus
-sainsevangillesnostreSeigneur,touchiélelivre,	sains evangilles nostre Seigneur , touchié le livre ,
-etsurl’	et sur l ’
-obligaciondetouset.chacunsses	obligacion de tous et . chacuns ses
-biensmeublesetinmeubles,presensetavenir,	biens meubles et inmeubles , presens et avenir ,
-perpetuelmentteniretgarder	perpetuelment tenir et garder
-,enteriner..	, enteriner . .
-.etacomplirfermementet	. et acomplir fermement et
-etloyalment,	et loyalment ,
-,sanzenfraindreetsanzjamais.fairene	, sanz enfraindre et sanz jamais . faire ne
-venirencontreenaucunemaniere,entemps	venir encontre en aucune maniere , en temps
-avenir.Deetsurlesquelleschoses	avenir . De et sur les quelles choses
-chosesdessusdictesetchascuned’icellesledit	choses dessus dictes et chascune d ’ icelles le dit
-Harpinfujugiezetcondempnez,àsa	Harpin fu jugiez et condempnez , à sa
-sarequeste,parle	sa requeste , par le
-jugementdelacourtduditseel,àla	jugement de la court du dit seel , à la
-juridicionet.cohercionde	juridicion et . cohercion de
-lacourtduquel.ilsuppousa	la court duquel . il suppousa
-suppousalui,seshoirsettousses	suppousa lui , ses hoirs et tous ses
-sesbiensdessusdiz.,quantàce.Entesmoing	ses biens dessus diz . , quant à ce . En tesmoing
-desquelleschoses	des quelles choses
-,nousleditGuillaume	, nous le dit Guillaume
-GuillaumeGabereau,portantleditseel,ycellui,à	Guillaume Gabereau , portant le dit seel , ycellui , à
-àlasupplicacion	à la supplicacion
-etrequeste..duditHarpin,àces	et requeste . . du dit Harpin , à ces
-presenteslettres.avons	presentes lettres . avons
-misetapposé.Donnéetfait	mis et apposé . Donné et fait
-fait,presentàcemessireGuillaumeLarcevesque,chevalier	fait , present à ce messire Guillaume Larcevesque , chevalier
-,seigneurdePartenay,Loys	, seigneur de Partenay , Loys
-LoysdeHarecourt,vicontedeChastelleraut	Loys de Harecourt , viconte de Chastelleraut
-Chastelleraut,etmessireJehande	Chastelleraut , et messire Jehan de
-laTouche,chevalier,le	la Touche , chevalier , le
-lequartjourdumoysdeseptembre	le quart jour du moys de septembre
-l’anmil	l ’ an mil
-ccc..soixantedixethuit	ccc . . soixante dix et huit
-huit.—N.LeDoux.Etpourceque	huit .— N . Le Doux . Et pour ce que
-delapartie	de la partie
-duditchevalier,	du dit chevalier ,
-,duquelnousavonseubonne	, du quel nous avons eu bonne
-bonnerelacionque..bienetloyalmentil	bonne relacion que . . bien et loyalment il
-ilnousaservitant	il nous a servi tant
-ennozguerrescommeautrement,nousaestéexposé	en noz guerres comme autrement , nous a esté exposé
-qu’ilse.doubte	qu ’ il se . doubte
-queoutempsaveniraucunnevoulsissentdireetmaintenir	que ou temps avenir aucun ne voulsissent dire et maintenir
-leditdon,dontles	le dit don , dont les
-dicteslettresfont	dictes lettres font
-fontmencion,..ànous	font mencion , . . à nous
-apparteniretparnousdevoirestrefait,jaçoitce	appartenir et par nous devoir estre fait , jaçoit ce
-cequeleditHarpineust.le	ce que le dit Harpin eust . le
-ditdonde..nostretrèschieretaméfrerele	dit don de . . nostre très chier et amé frere le
-leducdeBerryetd’Auvergne,contede	le duc de Berry et d ’ Auvergne , conte de
-dePoitiers,comme	de Poitiers , comme
-nostrelieutenant,ilnousahumblementfaitsupplierque	nostre lieutenant , il nous a humblement fait supplier que
-lesdicteslettresetaccortcy	les dictes lettres et accort cy
-dessusencorporées,nousluivuillionsconfermer	dessus encorporées , nous lui vuillions confermer
-confermeretdenouvelluidonner,semestierest	confermer et de nouvel lui donner , se mestier est
-,ledroità	, le droit à
-nousappartenantetque.nouspovonsavoiren	nous appartenant et que . nous povons avoir en
-ladicteterre,	la dicte terre ,
-tour,appartenanceset	tour , appartenances et
-appendencesdeChistré	appendences de Chistré
-Chistré,plusàplaindesclairiéen..	Chistré , plus à plain desclairié en . .
-ycelleslettres.Nous,inclinansàsasupplicacion	ycelles lettres . Nous , inclinans à sa supplicacion
-,denostrecertainescience,	, de nostre certaine science ,
-,majestéroyalet	, majesté royal et
-graceespecial,les	grace especial , les
-lettresetaccortcydessusencorporées,etaussile	lettres et accort cy dessus encorporées , et aussi le
-ledonquienfufaitparnostreditfrereau	le don qui en fu fait par nostre dit frere au
-ditHarpin,confermonsetapprouvons,etde	dit Harpin , confermons et approuvons , et de
-nouvel,	nouvel ,
-,.d’abondant,se	, . d ’ abondant , se
-mestierest,donnonspar	mestier est , donnons par
-cespresentes,au	ces presentes , au
-dit..chevalierledroitànousappartenantenla	dit . . chevalier le droit à nous appartenant en la
-dicteterre,tour,etappartenancesetappendencesde	dicte terre , tour , et appartenances et appendences de
-deChistré,àteniretpossiderparlui,ses	de Chistré , à tenir et possider par lui , ses
-seshoirsetaianscause	ses hoirs et aians cause
-,outempsavenir,commeleurpropre	, ou temps avenir , comme leur propre
-chose,eten	chose , et en
-fairecequ’illeur	faire ce qu ’ il leur
-plaira.	plaira .
-Sidonnonsen	Si donnons en
-mandementànozamezetfeaulxgensdenozcomptes	mandement à noz amez et feaulx gens de noz comptes
-comptesàParis	comptes à Paris
-,presensetavenir,etàtous	, presens et avenir , et à tous
-nozautresjusticiersetofficiers,etàchascun	noz autres justiciers et officiers , et à chascun
-chascund’eulx,.queledit	chascun d ’ eulx , . que le dit
-chevalier,seshoirsouaianscauseoutemps	chevalier , ses hoirs ou aians cause ou temps
-tempsavenirfacentet	temps avenir facent et
-laissentjoir..	laissent joir . .
-etuserpaisiblement	et user paisiblement
-de..nostrepresentegrace	de . . nostre presente grace
-grace..,sanz	grace . . , sanz
-lesempeschierousouffrirestreempeschiezenaucune	les empeschier ou souffrir estre empeschiez en aucune
-aucunemaniereaucontraire.Entesmoingdece..	aucune maniere au contraire . En tesmoing de ce . .
-,nousavonsfaitmettrenostreseelàces	, nous avons fait mettre nostre seel à ces
-cespresentes.Sauf	ces presentes . Sauf
-Saufenautreschosesnostre	Sauf en autres choses nostre
-droitetl	droit et l
-l’autrui	l ’ autrui
-entoutes.DonnéennostrehosteldeSaint	en toutes . Donné en nostre hostel de Saint
-SaintPolàParis,leonziesmejourde	Saint Pol à Paris , le onziesme jour de
-decembrel’andegrace	decembre l ’ an de grace
-milccc...	mil ccc . . .
-.soixantedixethuit,et	. soixante dix et huit , et
-denostreregnele	de nostre regne le
-quinziesme.Parleroy.Bordes.	quinziesme . Par le roy . Bordes .
+serementoude..	serement ou de . .
+l’und’eulx	l ’ un d ’ eulx
+eulx,sanzautrepreuvesurcerequerre...Renunçant	eulx , sanz autre preuve sur ce requerre . . . Renunçant
+leditHarpin	le dit Harpin
+encestui..sonfaitàtoutesexcepcionset	en cestui . . son fait à toutes excepcions et
+decepcionsenfaitdemal,fraude,	decepcions en fait de mal , fraude ,
+crainte,.barat,tricherie,lesion,circonvencion	crainte , . barat , tricherie , lesion , circonvencion
+,machinacionset	, machinacions et
+etexcepciond	et excepcion d
+’oultremoitiédedroitpris	’ oultre moitié de droit pris
+,àplusfaitet	, à plus fait et
+moinsescript,etàl’	moins escript , et à l ’
+opposite,àtousestablissemens	opposite , à tous establissemens
+,constitucions,privileges,ordonnances,	, constitucions , privileges , ordonnances ,
+statuzetgracede.pape,d’empereur	statuz et grace de . pape , d ’ empereur
+,de.roy,	, de . roy ,
+denostre	de nostre
+ditseigneurleducetd’autreprince	dit seigneur le duc et d ’ autre prince
+ouseigneurquelconque,faiz	ou seigneur quelconque , faiz
+ouàfaire.et	ou à faire . et
+donnezouàdonner,parcausedeguerre	donnez ou à donner , par cause de guerre
+ouautrement,àtoutusageetcoustume..de	ou autrement , à tout usage et coustume . . de
+païs,à..toutdroit	païs , à . . tout droit
+droitcanon[et]	droit canon [ et ]
+civil,et	civil , et
+generalmentàtoutesautresexcepcions,etc.A	generalment à toutes autres excepcions , etc . A
+congneuleditHarpinlesdicteschoses	congneu le dit Harpin les dictes choses
+estrevraies,eta	estre vraies , et a
+juréetpromisaussains	juré et promis aus sains
+evangillesnostreSeigneur	evangilles nostre Seigneur
+Seigneur,touchiélelivre,etsurl	Seigneur , touchié le livre , et sur l
+’obligaciondetousetchacunsses	’ obligacion de tous et chacuns ses
+biensmeublesetinmeubles,presensetavenir,perpetuelment	biens meubles et inmeubles , presens et avenir , perpetuelment
+teniretgarder,	tenir et garder ,
+enterineretacomplirfermementetloyalment,	enteriner et acomplir fermement et loyalment ,
+,sanzenfraindreetsanzjamaisfaire..nevenirencontreen	, sanz enfraindre et sanz jamais faire . . ne venir encontre en
+enaucunemaniere,entempsavenir.Deetsur	en aucune maniere , en temps avenir . De et sur
+lesquelles	les quelles
+quelleschosesdessusdictes	quelles choses dessus dictes
+et.chascuned’icellesle	et . chascune d ’ icelles le
+leditHarpinfujugiezetcondempnez,àsa	le dit Harpin fu jugiez et condempnez , à sa
+requeste,parlejugementdela	requeste , par le jugement de la
+courtduditseel,à	court du dit seel , à
+lajuridicionet	la juridicion et
+etcoherciondela	et cohercion de la
+lacourtduquelilsuppousalui	la court duquel il suppousa lui
+,ses.hoirset	, ses . hoirs et
+ettousses..biensdessus	et tous ses . . biens dessus
+diz,quantàce.Entesmoingdesquelles	diz , quant à ce . En tesmoing des quelles
+choses,nous..ledit	choses , nous . . le dit
+GuillaumeGabereau,portant.	Guillaume Gabereau , portant .
+leditseel,ycellui,	le dit seel , ycellui ,
+àla.supplicacionetrequeste	à la . supplicacion et requeste
+duditHarpin,à.ces	du dit Harpin , à . ces
+presenteslettresavonsmisetapposé.Donnéetfait	presentes lettres avons mis et apposé . Donné et fait
+,presentàce	, present à ce
+messireGuillaumeLarcevesque	messire Guillaume Larcevesque
+,chevalier,seigneurdePartenay,Loys	, chevalier , seigneur de Partenay , Loys
+deHarecourt,viconte	de Harecourt , viconte
+deChastelleraut,etmessireJehandela	de Chastelleraut , et messire Jehan de la
+laTouche,chevalier,	la Touche , chevalier ,
+lequartjourdumoysdeseptembrel	le quart jour du moys de septembre l
+l’anmilccc.	l ’ an mil ccc .
+soixantedixet..	soixante dix et . .
+.huit.—N	. huit .— N
+.LeDoux	. Le Doux
+.Etpource	. Et pour ce
+quedela	que de la
+lapartie.duditchevalier,duquelnous	la partie . du dit chevalier , du quel nous
+avonseubonnerelacionquebienetloyalment	avons eu bonne relacion que bien et loyalment
+ilnousaservitantennozguerrescommeautrement	il nous a servi tant en noz guerres comme autrement
+,nousaestéexposéqu’ilse	, nous a esté exposé qu ’ il se
+sedoubtequeoutempsaveniraucunnevoulsissent	se doubte que ou temps avenir aucun ne voulsissent
+voulsissentdireetmaintenirle	voulsissent dire et maintenir le
+ditdon,dontles	dit don , dont les
+dictes.lettresfontmencion,à	dictes . lettres font mencion , à
+nousapparteniretparnousdevoirestre	nous appartenir et par nous devoir estre
+fait,jaçoit	fait , jaçoit
+jaçoitcequeleditHarpineustle	jaçoit ce que le dit Harpin eust le
+ditdonde..nostretrèschieret	dit don de . . nostre très chier et
+améfrereleducdeBerry	amé frere le duc de Berry
+Berryetd’Auvergne,contede	Berry et d ’ Auvergne , conte de
+Poitiers,commenostrelieutenant,	Poitiers , comme nostre lieutenant ,
+ilnousa.humblementfait	il nous a . humblement fait
+supplierquelesdicteslettres	supplier que les dictes lettres
+lettresetaccortcydessusencorporées	lettres et accort cy dessus encorporées
+,nousluivuillionsconfermeretdenouvellui	, nous lui vuillions confermer et de nouvel lui
+donner,semestierest	donner , se mestier est
+,..ledroit	, . . le droit
+à.nousappartenantet	à . nous appartenant et
+quenouspovons	que nous povons
+avoirenla	avoir en la
+dicteterre,tour,	dicte terre , tour ,
+appartenancesetappendencesdeChistré	appartenances et appendences de Chistré
+,plusàplaindesclairiéenycelles	, plus à plain desclairié en ycelles
+lettres.Nous,inclinansàsa	lettres . Nous , inclinans à sa
+supplicacion,de..nostrecertainescience	supplicacion , de . . nostre certaine science
+science,majestéroyal.	science , majesté royal .
+et..grace	et . . grace
+especial.,	especial . ,
+leslettresetaccort	les lettres et accort
+cydessusencorporées,et	cy dessus encorporées , et
+aussiledonquienfu	aussi le don qui en fu
+faitparnostreditfrereaudit	fait par nostre dit frere au dit
+Harpin,confermonsetapprouvons,etdenouvel	Harpin , confermons et approuvons , et de nouvel
+nouvel,d’	nouvel , d ’
+’abondant..,semestierest,donnonspar	’ abondant . . , se mestier est , donnons par
+parcespresentes,..auditchevalier	par ces presentes , . . au dit chevalier
+ledroitànousappartenant	le droit à nous appartenant
+appartenantenladicteterre,tour,etappartenances	appartenant en la dicte terre , tour , et appartenances
+etappendencesde	et appendences de
+Chistré,àteniret	Chistré , à tenir et
+etpossiderpar.	et possider par .
+lui,seshoirsetaianscause,	lui , ses hoirs et aians cause ,
+outempsavenir,comme	ou temps avenir , comme
+leurpropre	leur propre
+proprechose,etenfairecequ’illeur	propre chose , et en faire ce qu ’ il leur
+plaira..Sidonnonsenmandementànoz	plaira . . Si donnons en mandement à noz
+nozamezet	noz amez et
+feaulxgensdenozcomptesàParis	feaulx gens de noz comptes à Paris
+Paris,presensetavenir,età	Paris , presens et avenir , et à
+tousnozautresjusticiersetofficiers,et	tous noz autres justiciers et officiers , et
+àchascund.	à chascun d .
+.’eulx,queleditchevalier,	. ’ eulx , que le dit chevalier ,
+,seshoirsouaianscauseoutemps	, ses hoirs ou aians cause ou temps
+avenirfacentetlaissentjoiretuserpaisiblement	avenir facent et laissent joir et user paisiblement
+paisiblementdenostre	paisiblement de nostre
+nostrepresentegrace	nostre presente grace
+,sanzlesempeschierousouffrir	, sanz les empeschier ou souffrir
+estreempeschiezen	estre empeschiez en
+enaucunemaniereaucontraire.En	en aucune maniere au contraire . En
+tesmoingdece,nousavonsfait	tesmoing de ce , nous avons fait
+mettrenostre.	mettre nostre .
+seelàces	seel à ces
+presentes.	presentes .
+.Saufen	. Sauf en
+en..autreschosesnostredroitetl	en . . autres choses nostre droit et l
+l’autruientoutes.Donné..	l ’ autrui en toutes . Donné . .
+.ennostrehostel	. en nostre hostel
+deSaintPol	de Saint Pol
+àParis,leonziesmejourdedecembre	à Paris , le onziesme jour de decembre
+l’ande.grace	l ’ an de . grace
+milccc.soixantedixethuit	mil ccc . soixante dix et huit
+huit,etde	huit , et de
+nostreregne	nostre regne
+lequinziesme.Par	le quinziesme . Par
+leroy.Bordes.	le roy . Bordes .

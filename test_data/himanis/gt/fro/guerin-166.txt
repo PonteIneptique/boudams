@@ -1,55 +1,53 @@
-Philippes,..parlagracedeDieu,roys	Philippes , . . par la grace de Dieu , roys
-roysdeFrance.Savoirfaisonsà	roys de France . Savoir faisons à
-touzpresenz	touz presenz
-etavenir	et avenir
-avenirque,comme.lesiredeBauçaynousaitsupplié	avenir que , comme . le sire de Bauçay nous ait supplié
-quenousli	que nous li
-vueilliensoctrierque[en]	vueilliens octrier que [ en ]
-saterre,enunlieuappeléFaulant	sa terre , en un lieu appelé Faulant
-Faulant,parlequeletduquell'enva	Faulant , par lequel et duquel l ' en va
-àChinonetàl'	à Chinon et à l '
-'Ille-Bouchart	' Ille - Bouchart
-,ilpuissefaireunechauciéeetunestanà..	, il puisse faire une chauciée et un estan à . .
-.poissons,etnousaiensfaitfaire	. poissons , et nous aiens fait faire
-informacionet	informacion et
-enquestepoursavoirseceferoitaucunprejudiceànous	enqueste pour savoir se ce feroit aucun prejudice à nous
-etàautre,	et à autre ,
-parlaquelleraportéedeversnousetdiligemmentveue,	par la quelle raportée devers nous et diligemment veue ,
-ilaestétrovéque.nous	il a esté trové que . nous
-n'iariensnul	n ' i ariens nul
-prejudiceet.queceusquiontaucunechoseou	prejudice et . que ceus qui ont aucune chose ou
-ditlieus'iassentent,maisque	dit lieu s ' i assentent , mais que
-leditseigneurdeBauçay..	le dit seigneur de Bauçay . .
-.leurfacesurcesatisfacion,la	. leur face sur ce satisfacion , la
-la..queleil	la . . quele il
-illeurapromiseàfaire,si	il leur a promise à faire , si
-commeilaapparu.	comme il a apparu .
-parladiteinformacion,nous,enclinans	par la dite informacion , nous , enclinans
-àladitesupplicacion,	à la dite supplicacion ,
-octroionsparlateneurdeces..lettres,	octroions par la teneur de ces . . lettres ,
-degraceespecial,auditseigneur	de grace especial , au dit seigneur
-deBauçay,pourlietpourseshoirsà	de Bauçay , pour li et pour ses hoirs à
-touz..jours,	touz . . jours ,
-que,faitelasatisfaciondesusdite	que , faite la satisfacion desus dite
-diteauspersonnesàqui	dite aus personnes à qui
-iltouche	il touche
-,ilpuissefaireetavoir	, il puisse faire et avoir
-avoirouditlieuladitechauciéeetestan,	avoir ou dit lieu la dite chauciée et estan ,
-en..rendant	en . . rendant
-toutevoiesànous..età	toutevoies à nous . . et à
-nozsuccesseurs	noz successeurs
-successeurspource	successeurs pour ce
-cincsolzderenteanuel	cinc solz de rente anuel
-anueletperpetuelaustermesacoustumez.Etquecesoit	anuel et perpetuel aus termes acoustumez . Et que ce soit
-soitchosevalableàtouzjours,nousavons	soit chose valable à touz jours , nous avons
-faitmetre	fait metre
-nostreseel.àcespresenteslettres.Saufen	nostre seel . à ces presentes lettres . Sauf en
-touteschosesnostredroit	toutes choses nostre droit
-etl'autrui.	et l ' autrui .
-DonnéauVal	Donné au Val
-deRooil,l'andegracemilccc	de Rooil , l ' an de grace mil ccc
-...trenteetun,ou	. . . trente et un , ou
-moysdemay.Parleroy	moys de may . Par le roy
-roy,àlarelacionde	roy , à la relacion de
-mons.G.deNoe.	mons . G . de Noe .
-.Gervasii.	. Gervasii .
+Philippes,parlagracedeDieu	Philippes , par la grace de Dieu
+,roysde	, roys de
+France.Savoirfaisonsàtouzpresenz..	France . Savoir faisons à touz presenz . .
+etavenirque,	et avenir que ,
+commelesire..deBauçay	comme le sire . . de Bauçay
+nousaitsuppliéquenousli	nous ait supplié que nous li
+livueilliensoctrierque[en]saterre	li vueilliens octrier que [ en ] sa terre
+,enunlieuappeléFaulant,	, en un lieu appelé Faulant ,
+,parlequel..	, par lequel . .
+etduquell'envaàChinonetà	et duquel l ' en va à Chinon et à
+àl'Ille-Bouchart,ilpuisse	à l ' Ille - Bouchart , il puisse
+faireunechauciéeetun	faire une chauciée et un
+unestanàpoissons	un estan à poissons
+,etnousaiensfaitfaire	, et nous aiens fait faire
+faireinformacionetenquestepoursavoirse	faire informacion et enqueste pour savoir se
+ceferoit	ce feroit
+aucunprejudiceànous	aucun prejudice à nous
+etàautre,.parlaquelleraportéedevers	et à autre , . par la quelle raportée devers
+nousetdiligemmentveue	nous et diligemment veue
+,ila.estétrové	, il a . esté trové
+quenousn'i	que nous n ' i
+ariens.nulprejudiceetqueceus	ariens . nul prejudice et que ceus
+quiontaucunechoseouditlieu	qui ont aucune chose ou dit lieu
+s'iassentent,	s ' i assentent ,
+,maisqueleditseigneurdeBauçayleurfacesur	, mais que le dit seigneur de Bauçay leur face sur
+cesatisfacion,laqueleilleurapromise	ce satisfacion , la quele il leur a promise
+àfaire,sicommeil	à faire , si comme il
+ilaapparupar	il a apparu par
+laditeinformacion,nous,	la dite informacion , nous ,
+enclinansàladitesupplicacion,	enclinans à la dite supplicacion ,
+octroionsparlateneurdeceslettres,	octroions par la teneur de ces lettres ,
+degraceespecial	de grace especial
+,auditseigneurde	, au dit seigneur de
+Bauçay,pourlietpourseshoirs	Bauçay , pour li et pour ses hoirs
+hoirsàtouz	hoirs à touz
+jours,que,faitela	jours , que , faite la
+satisfaciondesusditeauspersonnesàqui	satisfacion desus dite aus personnes à qui
+iltouche,	il touche ,
+,ilpuissefaireetavoirouditlieuladite	, il puisse faire et avoir ou dit lieu la dite
+chauciéeetestan,en.rendanttoutevoiesànous	chauciée et estan , en . rendant toutevoies à nous
+etànozsuccesseurspourcecinc..solzde	et à noz successeurs pour ce cinc . . solz de
+derenteanuel..et	de rente anuel . . et
+perpetuelaustermesacoustumez.Etque	perpetuel aus termes acoustumez . Et que
+ce..soitchosevalable	ce . . soit chose valable
+valableàtouzjours,nousavonsfaitmetrenostreseel	valable à touz jours , nous avons fait metre nostre seel
+àcespresenteslettres.	à ces presentes lettres .
+Saufentouteschosesnostredroitetl'autrui	Sauf en toutes choses nostre droit et l ' autrui
+.DonnéauValdeRooil,l	. Donné au Val de Rooil , l
+'andegrace.milccc	' an de grace . mil ccc
+.trenteetun,oumoysdemay.	. trente et un , ou moys de may .
+Parleroy	Par le roy
+roy,àlarelacion	roy , à la relacion
+demons.G...deNoe.Gervasii.	de mons . G . . . de Noe . Gervasii .

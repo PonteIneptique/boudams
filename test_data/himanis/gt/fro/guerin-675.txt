@@ -1,82 +1,85 @@
-Charles,etc.Savoirfaisonsàtouz,presens	Charles , etc . Savoir faisons à touz , presens
-etavenir,que,commepar	et avenir , que , comme par
-lamortet..successiondefeuGuion	la mort et . . succession de feu Guion
-GuionGouppyetdesafemme,pereet	Guion Gouppy et de sa femme , pere et
-merejadiz	mere jadiz
-delafemmede..AndrivotdelaCroisille,soient	de la femme de . . Andrivot de la Croisille , soient
-avenuzetescheuzauxdizAndrivotetàsafemme	avenuz et escheuz aux diz Andrivot et à sa femme
-,àcaused	, à cause d
-d’elle,pluseursrentesetautres	d ’ elle , pluseurs rentes et autres
-autres.heritagesassisauxlieuxde	autres . heritages assis aux lieux de
-laVerséeetduBoysenlachastelleniedeMortemer	la Versée et du Boys en la chastellenie de Mortemer
-enPoitou,etaupaïsd	en Poitou , et au païs d
-’environ,enlavaleur	’ environ , en la valeur
-dexx.livresderenteouenvironpar	de xx . livres de rente ou environ par
-an,àlacoustume	an , à la coustume
-dupaïs,etaussileursoientescheuz	du païs , et aussi leur soient escheuz
-escheuzparlasuccessiondesdiztrespassezplusieursbiensmeubles	escheuz par la succession des diz trespassez plusieurs biens meubles
-enlavaleurdecentlivresparisisouenviron	en la valeur de cent livres parisis ou environ
-,lesquelznousappartiennentparcequelesdizAndrivot	, les quelz nous appartiennent parce que les diz Andrivot
-etsafemmeontestéet	et sa femme ont esté et
-sontdel’obeissancedenostre	sont de l ’ obeissance de nostre
-adversaired’Angleterre,etonttenuettiennent	adversaire d ’ Angleterre , et ont tenu et tiennent
-sonparticontrenous,encommettantcrime	son parti contre nous , en commettant crime
-delesemajesteenvers[nous],sicommeentendu	de lese majeste envers [ nous ], si comme entendu
-avons.Nous,	avons . Nous ,
-,consideranslesbonsetloyaulxservicesqueJehanDesCorces	, considerans les bons et loyaulx services que Jehan Des Corces
-Corces,escuier,nousafaizennoz	Corces , escuier , nous a faiz en noz
-guerresetautrement,enlacompaigniede	guerres et autrement , en la compaignie de
-nostretrèscherettrèsaméoncle	nostre très cher et très amé oncle
-oncleleducdeBerryet	oncle le duc de Berry et
-d’Auvergne	d ’ Auvergne
-,etfait	, et fait
-faitencoreschascun	fait encores chascun
-chascunjour,à..	chascun jour , à . .
-icelluiJehanavonsdonné	icellui Jehan avons donné
-,degraceespecialetdenostreauctorité	, de grace especial et de nostre auctorité
-royale,etdonnonsparla	royale , et donnons par la
-teneurdeces	teneur de ces
-lettreslesbiensmeubles,renteset.	lettres les biens meubles , rentes et .
-heritagesdessusdiz,à	heritages dessus diz , à
-nousavenuzetescheuzpar	nous avenuz et escheuz par
-lamaniereetenlavaleurdessusdicte	la maniere et en la valeur dessus dicte
+Charles.,etc.Savoir	Charles . , etc . Savoir
+Savoirfaisonsàtouz,	Savoir faisons à touz ,
+,presensetavenir,	, presens et avenir ,
+,que,commeparlamortet	, que , comme par la mort et
+successiondefeuGuionGouppyet	succession de feu Guion Gouppy et
+desafemme,pereetmerejadizde	de sa femme , pere et mere jadiz de
+delafemmedeAndrivotdelaCroisille,soientavenuz	de la femme de Andrivot de la Croisille , soient avenuz
+avenuzetescheuzaux	avenuz et escheuz aux
+dizAndrivotetàsafemme,à	diz Andrivot et à sa femme , à
+caused’	cause d ’
+elle,pluseursrentesetautresheritagesassisauxlieux	elle , pluseurs rentes et autres heritages assis aux lieux
+delaVerséeetdu	de la Versée et du
+duBoysenlachastellenie	du Boys en la chastellenie
+deMortemerenPoitou,et	de Mortemer en Poitou , et
+aupaïsd’environ	au païs d ’ environ
+,enlavaleur	, en la valeur
+valeurdexx.livresde	valeur de xx . livres de
+derenteouenvironparan,.àla	de rente ou environ par an , . à la
+coustumedupaïs	coustume du païs
+,etaussileursoientescheuzparla	, et aussi leur soient escheuz par la
+successiondesdiztrespassezplusieurs	succession des diz trespassez plusieurs
+plusieursbiensmeublesen	plusieurs biens meubles en
+lavaleurdecentlivresparisis	la valeur de cent livres parisis
+ouenviron,les	ou environ , les
+quelznousappartiennent..parceque	quelz nous appartiennent . . parce que
+que.lesdizAndrivotet	que . les diz Andrivot et
+sa.femmeontestéetsontdel	sa . femme ont esté et sont de l
+’obeissancedenostreadversaired’Angleterre	’ obeissance de nostre adversaire d ’ Angleterre
+,etonttenu	, et ont tenu
+tenuettiennent..sonparticontrenous,en	tenu et tiennent . . son parti contre nous , en
+commettantcrimede	commettant crime de
+lesemajesteenvers	lese majeste envers
+[nous],sicomme	[ nous ], si comme
+entenduavons.Nous,	entendu avons . Nous ,
+,consideranslesbons	, considerans les bons
+etloyaulxservicesqueJehanDesCorces	et loyaulx services que Jehan Des Corces
+,escuier,nousafaiz	, escuier , nous a faiz
+en.nozguerresetautrement,en	en . noz guerres et autrement , en
+lacompaignie	la compaignie
+compaigniedenostretrèscherettrèsaméoncleleduc	compaignie de nostre très cher et très amé oncle le duc
+deBerryet	de Berry et
+d’Auvergne,etfaitencoreschascun	d ’ Auvergne , et fait encores chascun
+jour,àicelluiJehanavonsdonné,degrace	jour , à icellui Jehan avons donné , de grace
+especialetde	especial et de
+nostreauctoritéroyale	nostre auctorité royale
+,etdonnons	, et donnons
+parlateneurdeceslettreslesbiensmeubles	par la teneur de ces lettres les biens meubles
+,renteset..	, rentes et . .
+heritagesdessus..diz,	heritages dessus . . diz ,
+ànousavenuzetescheuzparlamaniereet	à nous avenuz et escheuz par la maniere et
+etenlavaleurdessusdicte	et en la valeur dessus dicte
 ,oucasque	, ou cas que
-ycellesrentes	ycelles rentes
-etheritagesneseroient	et heritages ne seroient
-seroientappliquezànostredemainne.	seroient appliquez à nostre demainne .
-Sidonnonsen	Si donnons en
-mandementà	mandement à
-nozamezetfeaulxgenzdenozcomptes	noz amez et feaulx genz de noz comptes
-comptesàParis,augouverneurdu	comptes à Paris , au gouverneur du
-dubailliagede	du bailliage de
-deToursetdu	de Tours et du
-dubailliaged’Orleans,ou	du bailliage d ’ Orleans , ou
-àleurslieuxtenans,.et	à leurs lieuxtenans , . et
-àchascund’eulz	à chascun d ’ eulz
-eulz,sicommeà	eulz , si comme à
-àluiappartendra,	à lui appartendra ,
-queauditJehanbaillentetdelivrentlesdizbiens	que au dit Jehan baillent et delivrent les diz biens
-biensmeubles,	biens meubles ,
-etdesrentes	et des rentes
-etheritagesdessusdizlemettent	et heritages dessus diz le mettent
-,ousonprocureurpourlui,en	, ou son procureur pour lui , en
-possessionetsaisine,enladicte	possession et saisine , en la dicte
-dictevaleur,etl	dicte valeur , et l
-’enlaissentet	’ en laissent et
-etfacentjoiretuserpaisiblement,	et facent joir et user paisiblement ,
-,cessanttoutempeschement..	, cessant tout empeschement . .
-.Etque..cesoit	. Et que . . ce soit
-fermechose	ferme chose
-etestableàtousjours,nous	et estable à tousjours , nous
-nousavonsfaitmettrenostreseelàcespresentes	nous avons fait mettre nostre seel à ces presentes
-lettres.Saufenautreschosesnostredroitetl	lettres . Sauf en autres choses nostre droit et l
-l’autruientoutes.	l ’ autrui en toutes .
-.DonnéàParis,.	. Donné à Paris , .
-levejourde	le ve jour de
-demayl’	de may l ’
-andegracemilccc.iiiixxetcinq	an de grace mil ccc . iiiixx et cinq
-,etdenostre	, et de nostre
-regne..le	regne . . le
-quint.Parle	quint . Par le
-leroy,àlarelacoindeMonseigneur	le roy , à la relacoin de Monseigneur
-MonseigneurleducdeBourgongne.Yvo.	Monseigneur le duc de Bourgongne . Yvo .
+ycellesrentesetheritagesneseroientappliquez	ycelles rentes et heritages ne seroient appliquez
+appliquezànostredemainne.Sidonnonsenmandement	appliquez à nostre demainne . Si donnons en mandement
+ànozamezetfeaulx	à noz amez et feaulx
+genzde..nozcomptesàParis,augouverneur	genz de . . noz comptes à Paris , au gouverneur
+gouverneurdubailliagede	gouverneur du bailliage de
+Toursetdubailliaged	Tours et du bailliage d
+d’Orleans,ouàleurslieuxtenans,	d ’ Orleans , ou à leurs lieuxtenans ,
+,etàchascun	, et à chascun
+d..’eulz,si	d . . ’ eulz , si
+commeàluiappartendra,queauditJehanbaillent	comme à lui appartendra , que au dit Jehan baillent
+etdelivrentlesdiz	et delivrent les diz
+dizbiensmeubles	diz biens meubles
+,etdesrentes	, et des rentes
+rentesetheritagesdessus	rentes et heritages dessus
+dizlemettent	diz le mettent
+,ousonprocureurpour	, ou son procureur pour
+lui,enpossession	lui , en possession
+etsaisine,enladictevaleur,	et saisine , en la dicte valeur ,
+etl’enlaissent	et l ’ en laissent
+etfacentjoiret.userpaisiblement,cessanttoutempeschement	et facent joir et . user paisiblement , cessant tout empeschement
+empeschement.Etquecesoitfermechose	empeschement . Et que ce soit ferme chose
+etestable	et estable
+àtousjours,nousavons	à tousjours , nous avons
+avons.faitmettrenostreseelàcespresentes	avons . fait mettre nostre seel à ces presentes
+presenteslettres.Saufenautreschosesnostredroitetl	presentes lettres . Sauf en autres choses nostre droit et l
+’autrui..entoutes.	’ autrui . . en toutes .
+.DonnéàParis.,levejourdemayl	. Donné à Paris . , le ve jour de may l
+’andegrace	’ an de grace
+gracemilccc.iiiixxetcinq..,et	grace mil ccc . iiiixx et cinq . . , et
+etdenostreregnelequint	et de nostre regne le quint
+quint.Parleroy,à	quint . Par le roy , à
+larelacoindeMonseigneurleducdeBourgongne	la relacoin de Monseigneur le duc de Bourgongne
+Bourgongne.Yvo.	Bourgongne . Yvo .

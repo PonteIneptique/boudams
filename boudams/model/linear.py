@@ -19,9 +19,11 @@ from .bidir import Encoder as BiGruEncoder
 
 
 class LinearEncoderCNN(CNNEncoder):
-    def forward(self, src):
-        out = super(LinearEncoderCNN, self).forward(src)
-        return out
+    def forward(self, src, keep_pos=False):
+        o, p = super(LinearEncoderCNN, self).forward(src)
+        if keep_pos:
+            return p
+        return o
 
 
 class LinearLSTMEncoder(LSTMEncoder):
@@ -64,12 +66,14 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         encoder: CNNEncoder, decoder: LinearDecoder,
         device: str,
         pad_idx: int, sos_idx: int, eos_idx: int,
+        pos: bool = False,
         **kwargs
     ):
         super().__init__()
 
         self.encoder = encoder
         self.decoder: LinearDecoder = decoder
+        self.pos = pos
 
         self.pad_idx = pad_idx
         self.sos_idx = sos_idx
@@ -89,7 +93,7 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         # encoder_conved is output from final encoder conv. block
         # encoder_combined is encoder_conved plus (elementwise) src embedding plus positional embeddings
         if isinstance(self.encoder, LinearEncoderCNN):
-            _, second_step = self.encoder(src)
+            second_step = self.encoder(src, keep_pos=self.pos)
         elif isinstance(self.encoder, LinearLSTMEncoder):
             second_step, hidden, cell = self.encoder(src.t(), src_len)
             # -> tensor(sentence size, batch size, hid dim * n directions)

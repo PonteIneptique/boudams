@@ -1,305 +1,303 @@
 Charles,filz	Charles , filz
-filzduroyde.France	filz du roy de . France
-,regent	, regent
-leroyaume,daulphindeViennois	le royaume , daulphin de Viennois
-Viennois..,duc	Viennois . . , duc
-ducdeBerry,deTouraineetconte	duc de Berry , de Touraine et conte
-dePoictou.Savoirfaisons	de Poictou . Savoir faisons
-faisonsàtous,presensetavenir,nous	faisons à tous , presens et avenir , nous
-avoirveuesleslettresdefeunostre	avoir veues les lettres de feu nostre
-trèscheretaméoncleleducdeBerryet	très cher et amé oncle le duc de Berry et
-etd’..Auvergne,	et d ’ . . Auvergne ,
-contedePoictou,d’Estampes,de	conte de Poictou , d ’ Estampes , de
-Boulongneet	Boulongne et
-d.’Auvergne,desquelles	d . ’ Auvergne , desquelles
-desquelleslateneurs’ensuit:Jehan,	desquelles la teneur s ’ ensuit : Jehan ,
-filzderoydeFrance,ducdeBerryet	filz de roy de France , duc de Berry et
-etd’Auvergne,contedePoictou,d’	et d ’ Auvergne , conte de Poictou , d ’
-Estampes,deBoulongne	Estampes , de Boulongne
-etd’Auvergne,lieutenant	et d ’ Auvergne , lieutenant
-demonseigneurleroyennostredit	de monseigneur le roy en nostre dit
-paysdeBerry	pays de Berry
-,Poictouet	, Poictou et
-Auvergne,etèspaysdeLanguedocetduchié	Auvergne , et ès pays de Languedoc et duchié
-deGuienne..Savoirfaisonsàtous,	de Guienne . . Savoir faisons à tous ,
-,presensetavenir,nousavoir	, presens et avenir , nous avoir
-receul’umblesupplicacion	receu l ’ umble supplicacion
-denostrebienamépremier.barbieret	de nostre bien amé premier . barbier et
-etvarletde	et varlet de
-chambre,Gervaisot	chambre , Gervaisot
-Merlin,etdesautresbarbiersdetousnos	Merlin , et des autres barbiers de tous nos
-nosdizpays,tantdesbonnesvillescomme	nos diz pays , tant des bonnes villes comme
-desbanlieuesetvillaigesappartenansetrespondans	des banlieues et villaiges appartenans et respondans
-àicelles,	à icelles ,
-,contenantque,comme	, contenant que , comme
-commeennosdizpaysn’ayteule	comme en nos diz pays n ’ ayt eu le
-tempspasséaucuneordonnancesurlefaitdudit	temps passé aucune ordonnance sur le fait du dit
-mestier,parlesquelles	mestier , par lesquelles
-chosesplusieurs	choses plusieurs
-inconveniensetdommaiges	inconveniens et dommaiges
-s’ensontensuizetseroientenaventurede	s ’ en sont ensuiz et seroient en aventure de
+duroydeFrance,regentle..royaume	du roy de France , regent le . . royaume
+,daulphin	, daulphin
+deViennois,ducdeBerry,deTouraine	de Viennois , duc de Berry , de Touraine
+etcontedePoictou.Savoirfaisonsàtous,	et conte de Poictou . Savoir faisons à tous ,
+presenset	presens et
+etavenir,nousavoirveuesles	et avenir , nous avoir veues les
+lettresdefeunostretrèscheretaméonclele	lettres de feu nostre très cher et amé oncle le
+ducdeBerryetd’Auvergne,	duc de Berry et d ’ Auvergne ,
+,contedePoictou,d’	, conte de Poictou , d ’
+’Estampes,deBoulongneetd’	’ Estampes , de Boulongne et d ’
+’Auvergne,desquelleslateneurs’ensuit:Jehan	’ Auvergne , desquelles la teneur s ’ ensuit : Jehan
+,filzderoydeFrance	, filz de roy de France
+,ducdeBerry	, duc de Berry
+etd’Auvergne	et d ’ Auvergne
+,contedePoictou,d’Estampes,	, conte de Poictou , d ’ Estampes ,
+deBoulongneetd’Auvergne,	de Boulongne et d ’ Auvergne ,
+,lieutenantdemonseigneurleroyennostredit	, lieutenant de monseigneur le roy en nostre dit
+paysdeBerry,PoictouetAuvergne,et	pays de Berry , Poictou et Auvergne , et
+èspaysdeLanguedocetduchié	ès pays de Languedoc et duchié
+deGuienne.Savoir	de Guienne . Savoir
+faisonsàtous.	faisons à tous .
+,presensetavenir,nousavoirreceu	, presens et avenir , nous avoir receu
+l’umblesupplicacion	l ’ umble supplicacion
+denostrebienamépremierbarbieretvarlet	de nostre bien amé premier barbier et varlet
+varletdechambre,GervaisotMerlin,et	varlet de chambre , Gervaisot Merlin , et
+des.autresbarbiersde	des . autres barbiers de
+tousnosdizpays,	tous nos diz pays ,
+tantdes.bonnes	tant des . bonnes
+bonnesvillescommedesbanlieuesetvillaigesappartenansetrespondans	bonnes villes comme des banlieues et villaiges appartenans et respondans
+àicelles,contenantque,commeen	à icelles , contenant que , comme en
+nosdizpaysn’ayteuletempspassé	nos diz pays n ’ ayt eu le temps passé
+passéaucuneordonnancesurlefaitdudit	passé aucune ordonnance sur le fait du dit
+mestier,parlesquelleschoses.	mestier , par lesquelles choses .
+plusieursinconveniensetdommaigess’en	plusieurs inconveniens et dommaiges s ’ en
+sontensuizetseroientenaventurede	sont ensuiz et seroient en aventure de
 deplusfairedejourenjour	de plus faire de jour en jour
 jour,seremeden’yestoitmis.Voulans	jour , se remede n ’ y estoit mis . Voulans
 pourlebienpublicquedenosdiz	pour le bien publicque de nos diz
-dizpaysàceremedieretpourveoir,	diz pays à ce remedier et pourveoir ,
-avonsfaitveoiretvisiterdiligemmentlesprivileigesoctroyés	avons fait veoir et visiter diligemment les privileiges octroyés
-aupremierbarbierdemonseigneurleroyet	au premier barbier de monseigneur le roy et
-autresbarbiersde..lavillede	autres barbiers de . . la ville de
-Paris,etlesordonnancesfaictessurle..dit	Paris , et les ordonnances faictes sur le . . dit
-mestier..,etenensuyvant	mestier . . , et en ensuyvant
-icellesordonnanceset	icelles ordonnances et
-privileges,avonsvoulu,ordonnéetoctroyé,..voulons	privileges , avons voulu , ordonné et octroyé , . . voulons
-,ordonnonsetoctroyons,denostrecertainescience	, ordonnons et octroyons , de nostre certaine science
-,graceespecial,plainepuissanceet	, grace especial , plaine puissance et
-etauctoritéroyal	et auctorité royal
-dontnous	dont nous
-usonsencestepartie,semestier	usons en ceste partie , se mestier
-mestierest,parcespresentes,	mestier est , par ces presentes ,
-ànostreditpremierbarbieret	à nostre dit premier barbier et
-varletde.chambre	varlet de . chambre
-etauxautresbarbiersdenosdiz	et aux autres barbiers de nos diz
-pays,presens	pays , presens
-etavenir,cequis’	et avenir , ce qui s ’
-ensuit:Premierement,queleditpremier	ensuit : Premierement , que le dit premier
+paysàceremedieretpourveoir,avons	pays à ce remedier et pourveoir , avons
+faitveoiret.visiterdiligemmentlesprivileigesoctroyésau	fait veoir et . visiter diligemment les privileiges octroyés au
+premierbarbierdemonseigneurle	premier barbier de monseigneur le
+royetautres	roy et autres
+barbiersdelavilledeParis,et	barbiers de la ville de Paris , et
+etlesordonnancesfaictessurleditmestier	et les ordonnances faictes sur le dit mestier
+,etenensuyvant	, et en ensuyvant
+icellesordonnances	icelles ordonnances
+ordonnancesetprivileges,	ordonnances et privileges ,
+avons..voulu,ordonnéetoctroyé,voulons,	avons . . voulu , ordonné et octroyé , voulons ,
+ordonnonsetoctroyons,	ordonnons et octroyons ,
+denostre.certainescience,grace	de nostre . certaine science , grace
+especial,	especial ,
+,plainepuissanceetauctoritéroyaldontnoususonsen	, plaine puissance et auctorité royal dont nous usons en
+cestepartie	ceste partie
+partie,semestierest,	partie , se mestier est ,
+parcespresentes	par ces presentes
+,ànostreditpremierbarbieretvarletde	, à nostre dit premier barbier et varlet de
+chambreetauxautresbarbiersdenosdizpays,	chambre et aux autres barbiers de nos diz pays ,
+presensetavenir,cequis’ensuit	presens et avenir , ce qui s ’ ensuit
+:Premierement,queledit	: Premierement , que le dit
 premierbarbieretvarlet	premier barbier et varlet
-varletdechambre,quiàpresentest	varlet de chambre , qui à present est
-etserapourletempsavenir	et sera pour le temps avenir
-,estetseramaistreetgardeduditmestier	, est et sera maistre et garde du dit mestier
-mestieretpeutinstitueret	mestier et peut instituer et
-ordonnerlieutenantpoursoyen	ordonner lieutenant pour soy en
-chacunedesditesbonnesvillesdenosdizpays,	chacune des dites bonnes villes de nos diz pays ,
-quiauracongnoissancesurtous	qui aura congnoissance sur tous
-lesautresbarbiersdesditesbonnesvillesetdes	les autres barbiers des dites bonnes villes et des
-banlieuesetvillaiges	banlieues et villaiges
-villaigesappartenansetrespondansàicelles;auquellieutenantoucommis	villaiges appartenans et respondans à icelles ; auquel lieutenant ou commis
-commisles.autresbarbiersseronttenuzd’obeyr	commis les . autres barbiers seront tenuz d ’ obeyr
-,commeànostredit	, comme à nostre dit
-premier.barbier,entout	premier . barbier , en tout
-cequiauditmestierappartient	ce qui au dit mestier appartient
-oupourratoucherouappartenir.	ou pourra toucher ou appartenir .
-Item,avecceseront	Item , avec ce seront
-ordonnezdeuxoutroisjurezsurlefait	ordonnez deux ou trois jurez sur le fait
-duditmestier,et	du dit mestier , et
-serontesleuzlesplussouffisanspource	seront esleuz les plus souffisans pour ce
-cefaire,parl’ordonnancedenozseneschaulx	ce faire , par l ’ ordonnance de noz seneschaulx
-seneschaulx,bailliz,prevostzetautresofficiersqu’il	seneschaulx , bailliz , prevostz et autres officiers qu ’ il
-ilappartiendra,appellé	il appartiendra , appellé
-àcenostre	à ce nostre
-nostreditpremierbarbierousonditlieutenant,	nostre dit premier barbier ou son dit lieutenant ,
-etlesautresbarbiersplusexpersetsouffisansou	et les autres barbiers plus expers et souffisans ou
-ouditmestierdenosdizpays	ou dit mestier de nos diz pays
-pays,oupartied’iceulx.Item,	pays , ou partie d ’ iceulx . Item ,
-aulcunbarbier,dequelque	aulcun barbier , de quelque
-condicionqu’ilsoit,nepourra	condicion qu ’ il soit , ne pourra
-pourranedevrafaireofficedebarbier	pourra ne devra faire office de barbier
-ennosdiz	en nos diz
-paysneaucund.’	pays ne aucun d . ’
-iceulx,	iceulx ,
-s’iln’estessayé	s ’ il n ’ est essayé
-essayéeteprouvéparlesdizmaistreset	essayé et eprouvé par les diz maistres et
-etjurez.Item,	et jurez . Item ,
-aucunbarbier,dequelquecondicionqu’il	aucun barbier , de quelque condicion qu ’ il
-soit,nefaceofficedu..	soit , ne face office du . .
-ditmestier	dit mestier
-mestier,oucasqu’ilsera	mestier , ou cas qu ’ il sera
-reputéounotoirementdiffamé	reputé ou notoirement diffamé
-deteniretavoirosteldebordellerieet	de tenir et avoir ostel de bordellerie et
-macquerellerie.	macquerellerie .
-Ouquelcasilseraàtousjours	Ou quel cas il sera à tousjours
-privéduditmestier,sansaucunementàicelluyretourner	privé du dit mestier , sans aucunement à icelluy retourner
-,etquetousseshostilzsoientacquiset	, et que tous ses hostilz soient acquis et
-et..confisquez,moictiéànousetl’	et . . confisquez , moictié à nous et l ’
-aultremoictiéànostreditpremierbarbier,c	aultre moictié à nostre dit premier barbier , c
-c’estassavoirchaiere,bassins,	c ’ est assavoir chaiere , bassins ,
-rasouers,cuvrechiefzetautreshostilzappartenansau	rasouers , cuvrechiefz et autres hostilz appartenans au
-ditmestier.Item,qu’ilz	dit mestier . Item , qu ’ ilz
-nedoiventestre	ne doivent estre
-sihardizdefaire..officedebarbier	si hardiz de faire . . office de barbier
-,surladicte	, sur la dicte
-peine,..à	peine , . . à
-mesel.ou	mesel . ou
-àmeselle,en	à meselle , en
-quelquemanierequece	quelque maniere que ce
-soit.Item,qu’ilzne	soit . Item , qu ’ ilz ne
-doiventfaire,auxdimenchesneautres	doivent faire , aux dimenches ne autres
-autresfestesdeffendues	autres festes deffendues
-,deleurditmestier,forsdeseigneret	, de leur dit mestier , fors de seigner et
-etdepenier,surpeinede	et de penier , sur peine de
-cinqsolzd’amende,à	cinq solz d ’ amende , à
-applicquermoictiéànous,	applicquer moictié à nous ,
-,moictiéànostreditpremierbarbier.	, moictié à nostre dit premier barbier .
-.Item,queaucunbarbierne	. Item , que aucun barbier ne
-doitfaireoffice..oueuvrede	doit faire office . . ou euvre de
-debarbieraux	de barbier aux
-cinqfestesNostre	cinq festes Nostre
-Dame,saintCosmeet	Dame , saint Cosme et
-etsaintDamien	et saint Damien
-,auxquatrefestessolemnelz,	, aux quatre festes solemnelz ,
-etnedoibtpendrebassins	et ne doibt pendre bassins
-auxfestessolemnelzneauxfoiries	aux festes solemnelz ne aux foiries
-foiriesdeNoel,dePasquesetde	foiries de Noel , de Pasques et de
-dePentecouste,..surladicte	de Pentecouste , . . sur la dicte
-dictepeinedecinqsolz,àdistribueretapplicquercomme	dicte peine de cinq solz , à distribuer et applicquer comme
-commeditest	comme dit est
-.Item,s’aulcunbarbiervoulloitfaire	. Item , s ’ aulcun barbier voulloit faire
-lecontraire,..et	le contraire , . . et
-nevoulloitobeirauditmaistre,sonlieutenantet	ne voulloit obeir au dit maistre , son lieutenant et
-etjurez,que	et jurez , que
-nosdiz.seneschaulx	nos diz . seneschaulx
-,bailliz,prevostzetautresofficiersqu	, bailliz , prevostz et autres officiers qu
-qu’ilappartiendra,eulxinformezdece	qu ’ il appartiendra , eulx informez de ce
-ce..,lesfacentmaintenir	ce . . , les facent maintenir
-etuserde	et user de
-chascunarticledesdiz	chascun article des diz
-privileiges,encontraignantàce	privileiges , en contraignant à ce
-tousceulxqui	tous ceulx qui
-serontàcontraindre.Item,quese	seront à contraindre . Item , que se
-aucunbarbiervoulloitentrerenprocèspour	aucun barbier voulloit entrer en procès pour
-poursoustenirle	pour soustenir le
-droitet..	droit et . .
-privilegedesdizsupplians	privilege des diz supplians
-,quenostre	, que nostre
-procureurdulieusurceinformé,pour	procureur du lieu sur ce informé , pour
-pourlebienpublicqueetpourlenostre,soitadjoinct	pour le bien publicque et pour le nostre , soit adjoinct
-aveceulx,pourprocederpar	avec eulx , pour proceder par
-devantnosdiz	devant nos diz
-dizseneschaulx,bailliz,prevostzouautresofficiersqu’	diz seneschaulx , bailliz , prevostz ou autres officiers qu ’
-’ilappartiendra,etlescasyescheoit	’ il appartiendra , et les cas y escheoit
-escheoit,etquedecequi	escheoit , et que de ce qui
-quitouchelespoinsetarticlesdessus	qui touche les poins et articles dessus
-diz..,lacongnoissanceensoitrendueaudit	diz . . , la congnoissance en soit rendue au dit
-ditmaistreouàsonditlieutenantetauxjurez	dit maistre ou à son dit lieutenant et aux jurez
-.Item,queaucunbarbiernedoibtoster	. Item , que aucun barbier ne doibt oster
-nesoubstraireàungautre	ne soubstraire à ung autre
-barbiersonaprentizouvarlet,surpeine	barbier son aprentiz ou varlet , sur peine
-d’un..marcd’	d ’ un . . marc d ’
-argent,àestreainsidistribuécommedit	argent , à estre ainsi distribué comme dit
-est..Item	est . . Item
-,queseaucunbarbierest	, que se aucun barbier est
-estadjournéàcause	est adjourné à cause
-duditmestierpardevantlemaistre	du dit mestier par devant le maistre
-ousonlieutenant,qu	ou son lieutenant , qu
-’ilsoittenud’y.	’ il soit tenu d ’ y .
-.comparoir,surl’amende	. comparoir , sur l ’ amende
-desixdeniersauprouffitduditmaistre	de six deniers au prouffit du dit maistre
-maistreoudeson	maistre ou de son
-lieutenant.	lieutenant .
-Item,queencasd	Item , que en cas d
-’appeloud’amendement	’ appel ou d ’ amendement
-,nos..dizseneschaulx,bailliz,prevostzet	, nos . . diz seneschaulx , bailliz , prevostz et
-etautresofficiersqu’ilappartiendraaurontlacongnoissancedes	et autres officiers qu ’ il appartiendra auront la congnoissance des
-desdizbarbiers.Item,quele	des diz barbiers . Item , que le
-ditmaistreousonditlieutenantpuissefaire	dit maistre ou son dit lieutenant puisse faire
-faireassemblerles	faire assembler les
-dizbarbiers,poursavoirs	diz barbiers , pour savoir s
-’.ilzsontsouffisansets’	’ . ilz sont souffisans et s ’
-ilzontpoint	ilz ont point
-pointoffencéouditmestier.Item.	point offencé ou dit mestier . Item .
-...,queaucun	. . . , que aucun
-aucunbarbierdenosdizpaysneyranepourra	aucun barbier de nos diz pays ne yra ne pourra
+dechambre,quiàpresentest	de chambre , qui à present est
+etserapourletempsavenir,	et sera pour le temps avenir ,
+estetseramaistreetgardeduditmestier	est et sera maistre et garde du dit mestier
+etpeutinstitueret.ordonnerlieutenant	et peut instituer et . ordonner lieutenant
+lieutenantpoursoy	lieutenant pour soy
+enchacunedesditesbonnesvillesdenosdiz	en chacune des dites bonnes villes de nos diz
+pays,quiaura..congnoissancesur	pays , qui aura . . congnoissance sur
+tousles	tous les
+autresbarbiers.desditesbonnesvilles	autres barbiers . des dites bonnes villes
+etdesbanlieuesetvillaigesappartenansetrespondansàicelles	et des banlieues et villaiges appartenans et respondans à icelles
+;auquel	; auquel
+auquellieutenantoucommislesautresbarbiersseront	auquel lieutenant ou commis les autres barbiers seront
+tenuzd’	tenuz d ’
+obeyr,commeànostreditpremier.barbier,	obeyr , comme à nostre dit premier . barbier ,
+entoutcequiauditmestier	en tout ce qui au dit mestier
+appartientoupourratoucherouappartenir	appartient ou pourra toucher ou appartenir
+.Item,avecceserontordonnezdeuxoutrois	. Item , avec ce seront ordonnez deux ou trois
+jurezsurlefaitduditmestier,	jurez sur le fait du dit mestier ,
+etserontesleuzlesplussouffisanspource	et seront esleuz les plus souffisans pour ce
+faire,parl’ordonnancedenozseneschaulx	faire , par l ’ ordonnance de noz seneschaulx
+seneschaulx,bailliz,prevostzetautresofficiers..qu’	seneschaulx , bailliz , prevostz et autres officiers . . qu ’
+ilappartiendra,	il appartiendra ,
+appelléàcenostreditpremierbarbierou	appellé à ce nostre dit premier barbier ou
+ousonditlieutenant,etlesautresbarbiersplus.expers	ou son dit lieutenant , et les autres barbiers plus . expers
+etsouffisansoudit.mestierde	et souffisans ou dit . mestier de
+nosdizpays	nos diz pays
+,oupartied’iceulx.Item	, ou partie d ’ iceulx . Item
+,aulcunbarbier,dequelquecondicion.qu	, aulcun barbier , de quelque condicion . qu
+qu.’ilsoit	qu . ’ il soit
+,nepourra	, ne pourra
 nedevra	ne devra
-devraallerreyrene	devra aller reyre ne
-faireaucunechoseà	faire aucune chose à
-aucunepersonne,..aux	aucune personne , . . aux
-auxestuvesneautrepart,	aux estuves ne autre part ,
-forschosesetèslieuxhonnestes,surpeine	fors choses et ès lieux honnestes , sur peine
-d’estreprivédudit	d ’ estre privé du dit
-mestieret	mestier et
-etleurshostilzconfisquez,commeditest...Item	et leurs hostilz confisquez , comme dit est . . . Item
-,quetousles..	, que tous les . .
-.barbiersdenosdizpaysquiseignerontgensavantdisner	. barbiers de nos diz pays qui seigneront gens avant disner
-disner,seronttenuzdegecterle	disner , seront tenuz de gecter le
-sangdeceulxquiaurontesté	sang de ceulx qui auront esté
-estéseignez..dedensuneheureaprèsmidi,	esté seignez . . dedens une heure après midi ,
-etseaucunsparneccessitédemaladiesefont	et se aucuns par neccessité de maladie se font
-fontsaigneraprès	font saigner après
-midi,ilz	midi , ilz
-ilzseronttenuzdegecterlesangdedansdeuxheures	ilz seront tenuz de gecter le sang dedans deux heures
-aprèscequ’ilz	après ce qu ’ ilz
-serontsaignez,surpeinedeladicte	seront saignez , sur peine de la dicte
-dicteamendedecinqsolz,àapplicquercommedit	dicte amende de cinq solz , à applicquer comme dit
-est.Touslesquelz	est . Tous les quelz
-points,privileigesetarticles,sicomme	points , privileiges et articles , si comme
-ilzsontcy	ilz sont cy
-dessusescriptzetdeclairez,nousànostreditpremier	dessus escriptz et declairez , nous à nostre dit premier
-premierbarbieretàtousautresbarbiersdenosdiz	premier barbier et à tous autres barbiers de nos diz
-dizpays,poureulxetleurssuccesseursbarbiers.,	diz pays , pour eulx et leurs successeurs barbiers . ,
-leuravonsdonnéet	leur avons donné et
-octroyé,donnonsetoctroyonsparcespresentes,comme	octroyé , donnons et octroyons par ces presentes , comme
-dit..est,etvoulonsqu’ilzen	dit . . est , et voulons qu ’ ilz en
-enusent.à	en usent . à
-tousjoursparlaforme	tousjours par la forme
-formeetmanierequedessusestdeclairé.	forme et maniere que dessus est declairé .
-Sydonnonsenmandementànosdiz..seneschaulx,	Sy donnons en mandement à nos diz . . seneschaulx ,
-bailliz,prevostzetautresofficiersqu’ilapartiendra	bailliz , prevostz et autres officiers qu ’ il apartiendra
-apartiendra,quiàpresentsontetquipourle	apartiendra , qui à present sont et qui pour le
-tempsavenirseront,etàtousnoz	temps avenir seront , et à tous noz
+faireofficedebarbieren..	faire office de barbier en . .
+.nosdizpaysneaucun	. nos diz pays ne aucun
+d’iceulx,s’iln’est	d ’ iceulx , s ’ il n ’ est
+essayéeteprouvéparlesdizmaistres	essayé et eprouvé par les diz maistres
+etjurez.Item,aucunbarbier,	et jurez . Item , aucun barbier ,
+dequelquecondicionqu	de quelque condicion qu
+’ilsoit.,nefaceofficedu	’ il soit . , ne face office du
+ditmestier,ou	dit mestier , ou
+casqu.’il	cas qu . ’ il
+serareputéounotoirementdiffamédetenir..etavoir	sera reputé ou notoirement diffamé de tenir . . et avoir
+osteldebordellerieetmacquerellerie.Ouquelcas	ostel de bordellerie et macquerellerie . Ou quel cas
+casilseraàtousjoursprivéduditmestier	cas il sera à tousjours privé du dit mestier
+,sansaucunementàicelluy	, sans aucunement à icelluy
+retourner,	retourner ,
+etquetousseshostilzsoientacquiset	et que tous ses hostilz soient acquis et
+etconfisquez,moictiéànouset	et confisquez , moictié à nous et
+l’aultremoictié	l ’ aultre moictié
+ànostreditpremierbarbier,c	à nostre dit premier barbier , c
+c’estassavoirchaiere,bassins,rasouers,	c ’ est assavoir chaiere , bassins , rasouers ,
+cuvrechiefzetautreshostilzappartenans	cuvrechiefz et autres hostilz appartenans
+auditmestier.Item,qu’ilz.ne	au dit mestier . Item , qu ’ ilz . ne
+doiventestresihardizdefaireofficedebarbier,	doivent estre si hardiz de faire office de barbier ,
+,surladictepeine,à	, sur la dicte peine , à
+àmeselouàmeselle,enquelquemaniere	à mesel ou à meselle , en quelque maniere
+quecesoit	que ce soit
+.Item,qu’ilz	. Item , qu ’ ilz
+nedoiventfaire,auxdimenchesne	ne doivent faire , aux dimenches ne
+autresfestesdeffendues,deleurditmestier,fors	autres festes deffendues , de leur dit mestier , fors
+deseigneretdepenier.,surpeinede	de seigner et de penier . , sur peine de
+cinqsolzd’.amende,	cinq solz d ’ . amende ,
+àapplicquermoictiéànous,moictié	à applicquer moictié à nous , moictié
+moictiéànostreditpremierbarbier	moictié à nostre dit premier barbier
+.Item,que	. Item , que
+aucunbarbiernedoitfaireofficeou	aucun barbier ne doit faire office ou
+oueuvredebarbierauxcinq	ou euvre de barbier aux cinq
+cinqfestesNostreDame,saintCosmeetsaintDamien	cinq festes Nostre Dame , saint Cosme et saint Damien
+,auxquatrefestessolemnelz,etnedoibt	, aux quatre festes solemnelz , et ne doibt
+pendrebassinsaux	pendre bassins aux
+festessolemnelzneauxfoiriesde	festes solemnelz ne aux foiries de
+deNoel,dePasques.etdePentecouste,	de Noel , de Pasques . et de Pentecouste ,
+surladictepeinede	sur la dicte peine de
+cinqsolz,àdistribueretapplicquer	cinq solz , à distribuer et applicquer
+commeditest.Item,s’	comme dit est . Item , s ’
+’aulcunbarbiervoulloitfairelecontraire,etnevoulloit	’ aulcun barbier voulloit faire le contraire , et ne voulloit
+voulloitobeirauditmaistre,sonlieutenantet	voulloit obeir au dit maistre , son lieutenant et
+jurez,quenosdiz	jurez , que nos diz
+seneschaulx,bailliz	seneschaulx , bailliz
+,prevostzetautresofficiersqu’	, prevostz et autres officiers qu ’
+ilappartiendra,eulxinformezde	il appartiendra , eulx informez de
+ce,lesfacentmainteniretuser	ce , les facent maintenir et user
+userdechascunarticle.	user de chascun article .
+.desdizprivileiges,en	. des diz privileiges , en
+contraignant..àcetousceulxqui	contraignant . . à ce tous ceulx qui
+serontàcontraindre.	seront à contraindre .
+.Item,queseaucunbarbiervoulloit	. Item , que se aucun barbier voulloit
+voulloitentrerenprocès	voulloit entrer en procès
+poursoustenirledroitetprivilegedes	pour soustenir le droit et privilege des
+dizsupplians,quenostreprocureurdulieu	diz supplians , que nostre procureur du lieu
+lieusurceinformé,pour	lieu sur ce informé , pour
+pourlebienpublicque	pour le bien publicque
+etpourlenostre,soitadjoinctaveceulx,	et pour le nostre , soit adjoinct avec eulx ,
+pourprocederpardevantnos	pour proceder par devant nos
+dizseneschaulx,bailliz,prevostz..ouautresofficiersqu	diz seneschaulx , bailliz , prevostz . . ou autres officiers qu
+’ilappartiendra..,etlescasyescheoit,	’ il appartiendra . . , et les cas y escheoit ,
+etquedecequitoucheles	et que de ce qui touche les
+poinset	poins et
+articlesdessusdiz,lacongnoissanceensoitrendue	articles dessus diz , la congnoissance en soit rendue
+auditmaistreouàsondit	au dit maistre ou à son dit
+lieutenantetauxjurez...	lieutenant et aux jurez . . .
+Item,queaucunbarbiernedoibt.	Item , que aucun barbier ne doibt .
+osternesoubstraireàungautrebarbierson..	oster ne soubstraire à ung autre barbier son . .
+aprentizouvarlet,sur..	aprentiz ou varlet , sur . .
+peined’	peine d ’
+unmarcd’argent,à	un marc d ’ argent , à
+àestreainsi	à estre ainsi
+ainsidistribuécommeditest.Item,que	ainsi distribué comme dit est . Item , que
+seaucun	se aucun
+barbierestadjournéà	barbier est adjourné à
+causeduditmestier	cause du dit mestier
+pardevantlemaistreousonlieutenant,qu’	par devant le maistre ou son lieutenant , qu ’
+ilsoittenud	il soit tenu d
+’ycomparoir,surl’amendedesix	’ y comparoir , sur l ’ amende de six
+six..deniersau	six . . deniers au
+prouffitduditmaistreoudeson	prouffit du dit maistre ou de son
+lieutenant.Item	lieutenant . Item
+Item,que	Item , que
+encasd’	en cas d ’
+appeloud’	appel ou d ’
+amendement,nosdiz.	amendement , nos diz .
+seneschaulx,.bailliz,prevostz	seneschaulx , . bailliz , prevostz
+prevostzetautresofficiersqu’ilappartiendraaurontla	prevostz et autres officiers qu ’ il appartiendra auront la
+lacongnoissancedesdiz	la congnoissance des diz
+barbiers...Item,queledit	barbiers . . . Item , que le dit
+maistreousonditlieutenantpuissefaire	maistre ou son dit lieutenant puisse faire
+assemblerlesdizbarbiers,poursavoirs	assembler les diz barbiers , pour savoir s
+’ilzsontsouffisansets’ilzont	’ ilz sont souffisans et s ’ ilz ont
+ontpointoffencéouditmestier.Item,	ont point offencé ou dit mestier . Item ,
+,queaucunbarbierdenos	, que aucun barbier de nos
+dizpays..	diz pays . .
+ne.yrane	ne . yra ne
+nepourranedevra	ne pourra ne devra
+allerreyrenefaireaucunechose	aller reyre ne faire aucune chose
+àaucune.personne,	à aucune . personne ,
+,auxestuvesneautrepart,	, aux estuves ne autre part ,
+,forschosesetèslieux..honnestes,surpeined	, fors choses et ès lieux . . honnestes , sur peine d
+d.’estre	d . ’ estre
+estreprivéduditmestieretleurshostilzconfisquez,comme	estre privé du dit mestier et leurs hostilz confisquez , comme
+ditest.Item.	dit est . Item .
+,quetouslesbarbiers	, que tous les barbiers
+denosdiz..	de nos diz . .
+paysquiseigneront	pays qui seigneront
+gensavantdisner..,	gens avant disner . . ,
+,seronttenuzdegecterlesang	, seront tenuz de gecter le sang
+deceulx	de ceulx
+quiaurontestéseignez	qui auront esté seignez
+seignezdedensuneheureaprèsmidi,etseaucuns	seignez dedens une heure après midi , et se aucuns
+parneccessitédemaladiesefontsaigneraprèsmidi,	par neccessité de maladie se font saigner après midi ,
+ilzseronttenuzde	ilz seront tenuz de
+gecterlesangdedans	gecter le sang dedans
+deuxheuresaprèscequ’	deux heures après ce qu ’
+ilzserontsaignez,surpeinedeladicteamende	ilz seront saignez , sur peine de la dicte amende
+decinqsolz,àapplicquercomme	de cinq solz , à applicquer comme
+ditest.Tous	dit est . Tous
+lesquelzpoints,privileigesetarticles	les quelz points , privileiges et articles
+,sicommeilzsontcy.dessus	, si comme ilz sont cy . dessus
+escriptzetdeclairez,nous.	escriptz et declairez , nous .
+ànostredit	à nostre dit
+premierbarbieretàtousautresbarbiersdenos	premier barbier et à tous autres barbiers de nos
+dizpays,poureulxetleurssuccesseursbarbiers,	diz pays , pour eulx et leurs successeurs barbiers ,
+,leuravonsdonnéetoctroyé	, leur avons donné et octroyé
+octroyé,donnonsetoctroyonsparcespresentes,commedit	octroyé , donnons et octroyons par ces presentes , comme dit
+est,etvoulonsqu’	est , et voulons qu ’
+ilzenusentàtousjoursparlaformeet	ilz en usent à tousjours par la forme et
+manierequedessusestdeclairé.Sy	maniere que dessus est declairé . Sy
+donnons.en	donnons . en
+enmandementànosdizseneschaulx,	en mandement à nos diz seneschaulx ,
+bailliz,prevostzetautresofficiers	bailliz , prevostz et autres officiers
+qu’ilapartiendra,quiàpresentsontet	qu ’ il apartiendra , qui à present sont et
+quipourletempsavenir	qui pour le temps avenir
+seront,.etàtousnozautres	seront , . et à tous noz autres
 autresjusticiers,officiersetsubgiez,	autres justiciers , officiers et subgiez ,
-presensetavenir,ouàleurslieux	presens et avenir , ou à leurs lieux
-tenansetàchascund’	tenans et à chascun d ’
-’eulx,sicomme	’ eulx , si comme
-commeàluyappartiendra,quenosditpremierbarbieret	comme à luy appartiendra , que nos dit premier barbier et
-ettousles	et tous les
-autresbarbiers	autres barbiers
-denosdizpaïs,etceulx	de nos diz païs , et ceulx
-quioutempsavenirseront,facentetlaissent	qui ou temps avenir seront , facent et laissent
-joïretuserplainementetpaisiblementdes	joïr et user plainement et paisiblement des
-desdizprivileigescydessusescriptzetcontenuz,etde	des diz privileiges cy dessus escriptz et contenuz , et de
-chascund’eulx,sansleurfaire	chascun d ’ eulx , sans leur faire
-ousouffrirestrefaitsurcedestourbier	ou souffrir estre fait sur ce destourbier
-destourbierouempeschementaucun.,ainçoisrappellent	destourbier ou empeschement aucun . , ainçois rappellent
+,presensetavenir	, presens et avenir
+,ouàleurslieuxtenans	, ou à leurs lieux tenans
+tenansetàchascund’eulx,si	tenans et à chascun d ’ eulx , si
+commeàluyappartiendra,quenosditpremier	comme à luy appartiendra , que nos dit premier
+barbierettouslesautresbarbiersdenos	barbier et tous les autres barbiers de nos
+nosdizpaïs..,et	nos diz païs . . , et
+etceulxquiou	et ceulx qui ou
+tempsavenir	temps avenir
+seront,facentetlaissentjoïr	seront , facent et laissent joïr
+joïretuserplainementetpaisiblementdesdizprivileigescydessus	joïr et user plainement et paisiblement des diz privileiges cy dessus
+dessusescriptzetcontenuz,et	dessus escriptz et contenuz , et
+dechascund’	de chascun d ’
+eulx,sansleurfaireousouffrir	eulx , sans leur faire ou souffrir
+estrefaitsur	estre fait sur
+cedestourbierouempeschementaucun,ainçoisrappellent	ce destourbier ou empeschement aucun , ainçois rappellent
 etremettentaupremierestatetdeu	et remettent au premier estat et deu
-toutcequ’ilztrouverontestrefait	tout ce qu ’ ilz trouveront estre fait
-faitouactemptéaucontraire.Etaffinquecesoit	fait ou actempté au contraire . Et affin que ce soit
-chosefermeetestableàtousjoursmais,nousavons	chose ferme et estable à tousjours mais , nous avons
-faitmettrenostreseelàcesditespresentes.	fait mettre nostre seel à ces dites presentes .
-Saufenautreschosesnostredroitetl’	Sauf en autres choses nostre droit et l ’
-autruyentoutes	autruy en toutes
-toutes.DonnéouchasteldeLusignen	toutes . Donné ou chastel de Lusignen
-,oumoisd’aoustl’ande	, ou mois d ’ aoust l ’ an de
-degracemilcccc.etdix.Lesquelles	de grace mil cccc . et dix . Les quelles
-quelleslettresdenostreditonclecidessustranscripteset	quelles lettres de nostre dit oncle ci dessus transcriptes et
-ettoutlecontenuenycellesnous	et tout le contenu en ycelles nous
-avonsfermesetagreables,	avons fermes et agreables ,
-eticellesvoulons	et icelles voulons
-,louons,ratiffionsetapprouvons,etparla.	, louons , ratiffions et approuvons , et par la .
-teneurdecespresentesconfermons.Sydonnons	teneur de ces presentes confermons . Sy donnons
-enmandementànostreseneschaldePoictouetàtous	en mandement à nostre seneschal de Poictou et à tous
-nozautresbailliz,prevostzetàtousnozautres	noz autres bailliz , prevostz et à tous noz autres
-autresjusticiersetofficiersquelconques,presens	autres justiciers et officiers quelconques , presens
-etavenir,etàchascund	et avenir , et à chascun d
-d’eulx,sicommeàluyappartiendra,	d ’ eulx , si comme à luy appartiendra ,
-ouàleurslieuxtenans,quenostrebienamépremier	ou à leurs lieuxtenans , que nostre bien amé premier
-barbieretvarletdechambre,Collinet.	barbier et varlet de chambre , Collinet .
-.Gandillon,etàtous..lesautresbarbiersdemourans	. Gandillon , et à tous . . les autres barbiers demourans
-ennosdizpaysetconté,quià	en nos diz pays et conté , qui à
-àpresentsont	à present sont
-etseront	et seront
-serontpourle	seront pour le
-tempsavenir,facent	temps avenir , facent
-,souffrentetlaissentjoïretuserplainementet	, souffrent et laissent joïr et user plainement et
-paisiblementdesdiz	paisiblement des diz
-privileigesdessus	privileiges dessus
-escripzetchascund.’eulx,	escripz et chascun d . ’ eulx ,
-sansleurfaireousouffrirestrefaitou	sans leur faire ou souffrir estre fait ou
-donnésur	donné sur
-ceaucundestourbierouempeschement.	ce aucun destourbier ou empeschement .
-,oresnepourletempsavenir,ainçois	, ores ne pour le temps avenir , ainçois
-rappellentetremettent,oufacentrappelleretremettre,	rappellent et remettent , ou facent rappeller et remettre ,
-tantostetsans	tantost et sans
-delay,au	delay , au
-premierestatdeutoutcequ’ilz	premier estat deu tout ce qu ’ ilz
+toutcequ’ilztrouverontestrefaitou	tout ce qu ’ ilz trouveront estre fait ou
+actemptéaucontraire.Etaffinquece	actempté au contraire . Et affin que ce
+soitchosefermeetestable	soit chose ferme et estable
+àtousjoursmais,nous	à tousjours mais , nous
+avonsfaitmettrenostreseelàces	avons fait mettre nostre seel à ces
+ditespresentes	dites presentes
+presentes.Saufenautreschosesnostredroitetl’	presentes . Sauf en autres choses nostre droit et l ’
+autruyentoutes.DonnéouchasteldeLusignen	autruy en toutes . Donné ou chastel de Lusignen
+,oumoisd’aoustl	, ou mois d ’ aoust l
+’andegracemilcccc.etdix	’ an de grace mil cccc . et dix
+.Lesquelles	. Les quelles
+lettresdenostreditonclecidessustranscriptes	lettres de nostre dit oncle ci dessus transcriptes
+ettoutlecontenuenycellesnousavons	et tout le contenu en ycelles nous avons
+fermesetagreables,eticellesvoulons,louons	fermes et agreables , et icelles voulons , louons
+louons,ratiffionset	louons , ratiffions et
+approuvons,etparlateneurdecespresentesconfermons	approuvons , et par la teneur de ces presentes confermons
+.Sydonnonsenmandementànostre	. Sy donnons en mandement à nostre
+nostreseneschaldePoictouetàtousnozautresbailliz,	nostre seneschal de Poictou et à tous noz autres bailliz ,
+,prevostzetàtousnozautresjusticiers..etofficiersquelconques	, prevostz et à tous noz autres justiciers . . et officiers quelconques
+,presenset	, presens et
+avenir,etàchascund’eulx,	avenir , et à chascun d ’ eulx ,
+,sicommeàluyappartiendra,ouàleurslieuxtenans	, si comme à luy appartiendra , ou à leurs lieuxtenans
+,quenostrebien.amépremierbarbieret	, que nostre bien . amé premier barbier et
+etvarletdechambre,CollinetGandillon,et	et varlet de chambre , Collinet Gandillon , et
+àtouslesautresbarbiersdemouransennos	à tous les autres barbiers demourans en nos
+nosdizpaysetconté,quiàpresentsontet	nos diz pays et conté , qui à present sont et
+serontpourletemps	seront pour le temps
+avenir,facent,	avenir , facent ,
+,souffrentetlaissent.joïretuser	, souffrent et laissent . joïr et user
+plainementetpaisiblementdesdizprivileiges	plainement et paisiblement des diz privileiges
+dessusescripzetchascund’eulx,	dessus escripz et chascun d ’ eulx ,
+,sansleurfaireousouffrir	, sans leur faire ou souffrir
+estrefaitoudonnésur	estre fait ou donné sur
+ceaucundestourbier..ouempeschement,oresnepour	ce aucun destourbier . . ou empeschement , ores ne pour
+pourletempsavenir	pour le temps avenir
+,ainçoisrappellentetremettent	, ainçois rappellent et remettent
+,oufacent..rappelleretremettre,	, ou facent . . rappeller et remettre ,
+tantostet	tantost et
+etsansdelay,aupremier	et sans delay , au premier
+estatdeutoutcequ’ilz	estat deu tout ce qu ’ ilz
 aurontoutrouverontavoirestéfait	auront ou trouveront avoir esté fait
-ouactemptéaucontraire,ettoutenla	ou actempté au contraire , et tout en la
-formeetmanierequ’	forme et maniere qu ’
-ilestcontenuèslettresde	il est contenu ès lettres de
-nostreditonclecydessustranscriptes.Etaffinque	nostre dit oncle cy dessus transcriptes . Et affin que
-cesoitchoseferme	ce soit chose ferme
-et..estableàtousjours	et . . estable à tousjours
-tousjours,nous	tousjours , nous
-nousavonsfaitmettre.nostreseelà	nous avons fait mettre . nostre seel à
-àcespresentes.Saufenautreschoses..nostredroit	à ces presentes . Sauf en autres choses . . nostre droit
-etl’autruyentoutes	et l ’ autruy en toutes
-.Donnéennostrevillede	. Donné en nostre ville de
-deBourges,oumoisdejanvierl’ande	de Bourges , ou mois de janvier l ’ an de
-degracemilcccc.dix.neuf	de grace mil cccc . dix . neuf
+faitouactemptéau	fait ou actempté au
+au.contraire,ettouten	au . contraire , et tout en
+laformeetmanierequ’ilestcontenuès	la forme et maniere qu ’ il est contenu ès
+lettresdenostreditonclecydessus	lettres de nostre dit oncle cy dessus
+transcriptes.Etaffinquece	transcriptes . Et affin que ce
+soitchosefermeet	soit chose ferme et
+estableàtousjours,nousavonsfaitmettrenostre	estable à tousjours , nous avons fait mettre nostre
+seelàcespresentes.Sauf	seel à ces presentes . Sauf
+Saufenautreschosesnostredroitetl	Sauf en autres choses nostre droit et l
+l’autruyen..toutes.	l ’ autruy en . . toutes .
+DonnéennostrevilledeBourges,	Donné en nostre ville de Bourges ,
+oumoisdejanvier	ou mois de janvier
+l’andegracemilcccc.dix	l ’ an de grace mil cccc . dix

@@ -100,7 +100,9 @@ class Seq2SeqTokenizer:
             enc_dim=in_features, out_dim=len(self.vocabulary.mtoi)
         )
         self.model: linear.LinearSeq2Seq = linear.LinearSeq2Seq(
-            self.enc, self.dec, **seq2seq_shared_params
+            self.enc, self.dec,
+            pos="nopos" not in self.system,
+            **seq2seq_shared_params
         ).to(device)
         self.init_weights = None
 

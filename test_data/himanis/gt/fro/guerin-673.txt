@@ -1,221 +1,206 @@
-Charles,etc.Savoirfaisonsàtouz,presens	Charles , etc . Savoir faisons à touz , presens
-presensetavenir,ànousavoiresté	presens et avenir , à nous avoir esté
-exposédelapartie	exposé de la partie
-desamiz.charnelzdeDenisRobineau	des amiz . charnelz de Denis Robineau
-,chargiédefemmeetde	, chargié de femme et de
-deuxpetiz.	deux petiz .
-enfanz,etlaquelle	enfanz , et laquelle
-femmeestgrossed’enfant	femme est grosse d ’ enfant
-,etdeBery	, et de Bery
-Andiau,cousinsetparens,povreslaboureursdeterres	Andiau , cousins et parens , povres laboureurs de terres
-,quecomme,six	, que comme , six
-ansaouenviron	ans a ou environ
-,leditDenis..	, le dit Denis . .
-Robineauestantàunjouren.unetaverneen	Robineau estant à un jour en . une taverne en
-enlavilledeTriou,dontlesdiz	en la ville de Triou , dont les diz
-cousinssontnezetoùilavoit	cousins sont nez et où il avoit
-beuavecpluseurs	beu avec pluseurs
-desesamisetvoisins,	de ses amis et voisins ,
-etainsicomme	et ainsi comme
-leditRobineau	le dit Robineau
-Robineaus’envouloit	Robineau s ’ en vouloit
-yssir.de	yssir . de
-deladictetaverne..,	de la dicte taverne . . ,
-,sanzcequ’ileustlorsrienmeffait	, sanz ce qu ’ il eust lors rien meffait
-meffaitnemesditenaucunemaniere	meffait ne mesdit en aucune maniere
-àhommedu	à homme du
-dumonde,..	du monde , . .
-etparespecialàPerrotAuberyetJehannotAubery,	et par especial à Perrot Aubery et Jehannot Aubery ,
-freres,[iceulxPerrotet	freres ,[ iceulx Perrot et
-etJehannot],meuz	et Jehannot ], meuz
-demauvaisevoulentéetcouragedesordené	de mauvaise voulenté et courage desordené
-desordenéet.d’aguetappenséetsanzdeffiances	desordené et . d ’ aguet appensé et sanz deffiances
-precedens,batirent	precedens , batirent
-batirentetnavrerentmoultinhumainementle.ditRobineauetluifirent	batirent et navrerent moult inhumainement le . dit Robineau et lui firent
-unegrantplayeenlatested’un	une grant playe en la teste d ’ un
-badelaire,	badelaire ,
-ettantfuseurprins	et tant fu seurprins
-seurprinsleditRobineauparlesdiz	seurprins le dit Robineau par les diz
-freresque	freres que
-ilnesepot	il ne se pot
-revainchiernedefendre,dela	revainchier ne defendre , de la
-quellebateureleditRobineau	quelle bateure le dit Robineau
-fumalades	fu malades
-l’espacedexv.joursenviron,	l ’ espace de xv . jours environ ,
-sanzgaires..partir	sanz gaires . . partir
-del’ostel;	de l ’ ostel ;
-etilsoit	et il soit
-ainsique,n	ainsi que , n
-’agairesdetemps,ledit	’ a gaires de temps , le dit
-ditBery..Andiauaidoitàmontersur	dit Bery . . Andiau aidoit à monter sur
-unejumentenladicte	une jument en la dicte
-dictevilledeTriou,entrechienetlou,un	dicte ville de Triou , entre chien et lou , un
-sienami	sien ami
-appelléBrissaut,quidemoure	appellé Brissaut , qui demoure
-àunelieue	à une lieue
-prèsdeladictevilleouenviron,	près de la dicte ville ou environ ,
-et..ainsi	et . . ainsi
-luiaidoit..àploieretàmettreàpointsur	lui aidoit . . à ploier et à mettre à point sur
-ladictejumentpluseurssacs	la dicte jument pluseurs sacs
-etpochesqu’ilavoit,	et poches qu ’ il avoit ,
-,afinqu’ilneluicheussentet	, afin qu ’ il ne lui cheussent et
-seperdissent,pourcequ’	se perdissent , pour ce qu ’
-il.venoit	il . venoit
-surletart,etillecquespresent..le	sur le tart , et illecques present . . le
-ditJehannotAubery	dit Jehannot Aubery
-,meudemauvaise..	, meu de mauvaise . .
-voulenté,ainsicommele..dit	voulenté , ainsi comme le . . dit
-Brissautmontoit,tiral’undessacs	Brissaut montoit , tira l ’ un des sacs
-etsacha,et	et sacha , et
-etd’icellui	et d ’ icellui
-sac,sanzcequeleditBery	sac , sanz ce que le dit Bery
-Andiaueust	Andiau eust
-eustriensditnemeffaitlorsneautresfoiz	eust riens dit ne meffait lors ne autres foiz
-enaucunemaniereau	en aucune maniere au
-ditJehannot	dit Jehannot
-,icelluiJehannotAuberifrappaleditBeryAndiauparmi	, icellui Jehannot Auberi frappa le dit Bery Andiau parmi
-levisaige,	le visaige ,
-,tellementqueduditcopilfu	, tellement que du dit cop il fu
-aussicommetouteslourdédela	aussi comme tout eslourdé de la
-latesteetlisaillilesancparmilenez	la teste et li sailli le sanc parmi le nez
-etlabouche	et la bouche
-bouche;etaprèsleditBery	bouche ; et après le dit Bery
+Charles,	Charles ,
+,..etc.Savoirfaisonsàtouz,	, . . etc . Savoir faisons à touz ,
+,presensetavenir,à..nousavoiresté	, presens et avenir , à . . nous avoir esté
+exposédelapartiedesamiz	exposé de la partie des amiz
+amizcharnelzdeDenisRobineau,chargiédefemmeet	amiz charnelz de Denis Robineau , chargié de femme et
+etdedeuxpetizenfanz,etlaquelle	et de deux petiz enfanz , et laquelle
+laquellefemmeestgrossed’enfant.,etdeBery	laquelle femme est grosse d ’ enfant . , et de Bery
+BeryAndiau,cousinset	Bery Andiau , cousins et
+parens,povreslaboureursdeterres	parens , povres laboureurs de terres
+terres,quecomme	terres , que comme
+,sixansaouenviron,..leditDenis	, six ans a ou environ , . . le dit Denis
+DenisRobineauestantàunjourenune	Denis Robineau estant à un jour en une
+unetaverneenlavilledeTriou	une taverne en la ville de Triou
+Triou,dontlesdiz..cousins	Triou , dont les diz . . cousins
+sontnezetoù..ilavoitbeuavecpluseursde	sont nez et où . . il avoit beu avec pluseurs de
+sesamisetvoisins,etainsicomme	ses amis et voisins , et ainsi comme
+leditRobineaus’en	le dit Robineau s ’ en
+envouloityssirdeladictetaverne,sanzce	en vouloit yssir de la dicte taverne , sanz ce
+qu’ileustlorsrienmeffaitne..mesditen	qu ’ il eust lors rien meffait ne . . mesdit en
+aucunemaniereàhomme	aucune maniere à homme
+dumonde	du monde
+,etparespecialàPerrot	, et par especial à Perrot
+PerrotAuberyetJehannotAubery,freres,[	Perrot Aubery et Jehannot Aubery , freres ,[
+iceulxPerrotetJehannot],meuzdemauvaisevoulenté	iceulx Perrot et Jehannot ], meuz de mauvaise voulenté
+etcouragedesordenéetd’aguetappenséetsanz	et courage desordené et d ’ aguet appensé et sanz
+deffiancesprecedens,batirentetnavrerentmoult	deffiances precedens , batirent et navrerent moult
+moultinhumainementleditRobineauetluifirent	moult inhumainement le dit Robineau et lui firent
+unegrantplaye	une grant playe
+enlatested’unbadelaire,	en la teste d ’ un badelaire ,
+ettantfuseurprinsle	et tant fu seurprins le
+leditRobineaupar	le dit Robineau par
+par.lesdiz	par . les diz
+dizfreresque..ilnesepotrevainchier	diz freres que . . il ne se pot revainchier
+nedefendre,delaquellebateure	ne defendre , de la quelle bateure
+leditRobineaufumalades.l’espacede	le dit Robineau fu malades . l ’ espace de
+de.xv.jours	de . xv . jours
+environ,	environ ,
+sanzgairespartirde	sanz gaires partir de
+l’ostel;etilsoit	l ’ ostel ; et il soit
+ainsique,n’agairesdetemps	ainsi que , n ’ a gaires de temps
+temps,leditBeryAndiauaidoitàmonter	temps , le dit Bery Andiau aidoit à monter
+surunejumentenla..dicte	sur une jument en la . . dicte
+villedeTriou,entrechien	ville de Triou , entre chien
+chienetlou,unsienamiappellé	chien et lou , un sien ami appellé
+Brissaut,quidemoure	Brissaut , qui demoure
+àune..lieueprès	à une . . lieue près
+prèsdeladictevilleouenviron,et	près de la dicte ville ou environ , et
+ainsiluiaidoitàploieretàmettreàpoint	ainsi lui aidoit à ploier et à mettre à point
+surla.dictejument	sur la . dicte jument
+jumentpluseurssacsetpochesqu’ilavoit,	jument pluseurs sacs et poches qu ’ il avoit ,
+afinqu’ilne	afin qu ’ il ne
+neluicheussentet.	ne lui cheussent et .
+.seperdissent	. se perdissent
+,pourcequ’ilvenoitsurle	, pour ce qu ’ il venoit sur le
+tart,etillecquespresentleditJehannotAubery	tart , et illecques present le dit Jehannot Aubery
+,meudemauvaise..voulenté,	, meu de mauvaise . . voulenté ,
+,ainsicommeleditBrissautmontoit,	, ainsi comme le dit Brissaut montoit ,
+,tiral’un	, tira l ’ un
+dessacsetsacha,	des sacs et sacha ,
+etd’icelluisac,	et d ’ icellui sac ,
+sanzceque..leditBery	sanz ce que . . le dit Bery
+Andiaueustriensditnemeffaitlorsneautres	Andiau eust riens dit ne meffait lors ne autres
+foizenaucune	foiz en aucune
+maniereaudit.Jehannot,	maniere au dit . Jehannot ,
+,icelluiJehannotAuberifrappaledit	, icellui Jehannot Auberi frappa le dit
+ditBeryAndiauparmilevisaige,tellementque..du	dit Bery Andiau parmi le visaige , tellement que . . du
+ditcopilfuaussi	dit cop il fu aussi
+aussicommetouteslourdédelatesteetlisaillile	aussi comme tout eslourdé de la teste et li sailli le
+lesancparmilenezet	le sanc parmi le nez et
+etlabouche;etaprèsleditBeryAndiau	et la bouche ; et après le dit Bery Andiau
 AndiaudistauditJehannotAuberyces	Andiau dist au dit Jehannot Aubery ces
-parolesensubstance:«..	paroles en substance :« . .
-JehannotAubery,	Jehannot Aubery ,
-,m’avezvousfrappéparjeuou	, m ’ avez vous frappé par jeu ou
-ouparrancune,diteslemoy	ou par rancune , dites le moy
-,s’ilvous	, s ’ il vous
-plaist,carjelevouldroie	plaist , car je le vouldroie
-vouldroiebiensavoir.»Etlorsle	vouldroie bien savoir .» Et lors le
-ditJehannotAuberyrespondi	dit Jehannot Aubery respondi
-orguilleusementetoultraigeusementau..	orguilleusement et oultraigeusement au . .
-ditBeryAndiau:«	dit Bery Andiau :«
-Prensleparbienoupar.mal,caril	Prens le par bien ou par . mal , car il
-nemechautcomment.»EttantosticelluyBeryAndiau	ne me chaut comment .» Et tantost icelluy Bery Andiau
-,moultcouroucié	, moult couroucié
-etmoultesmeu,s’en	et moult esmeu , s ’ en
-vapartirdelaplacepouraler	va partir de la place pour aler
-alerquerreun.	aler querre un .
-bastonou	baston ou
-ouautrechose	ou autre chose
-choseàsonhostel	chose à son hostel
-hostel,pourbatreetsoyvengierdu..	hostel , pour batre et soy vengier du . .
-ditJehannotAubery..	dit Jehannot Aubery . .
-.,quiainsil’avoitferududit	. , qui ainsi l ’ avoit feru du dit
-sac,eten	sac , et en
-alantàsondithostel	alant à son dit hostel
-trouvad’aventure	trouva d ’ aventure
-leditRobineau,soncousin	le dit Robineau , son cousin
-,etluiditlefaitetfinallementeulz	, et lui dit le fait et finallement eulz
-eulzrecordansetdoulansd’icellesbateures	eulz recordans et doulans d ’ icelles bateures
-bateures,tousdeuxensembleencelle	bateures , tous deux ensemble en celle
-chaleur,heureetmouvement,	chaleur , heure et mouvement ,
-trouverentleditJehannotAuberydevantl	trouverent le dit Jehannot Aubery devant l
-’ostelduprieur	’ ostel du prieur
-prieurdeladicte..villedeTriouet	prieur de la dicte . . ville de Triou et
-etlebatirentdebastons,sanzavoir	et le batirent de bastons , sanz avoir
-entenciondeletuer.,de	entencion de le tuer . , de
-laquellebateure,aprèspou	laquelle bateure , après pou
-dejours,ycelluiJehannotAuberyaladevieà	de jours , ycellui Jehannot Aubery ala de vie à
-àtrespassement.Pouroccasion	à trespassement . Pour occasion
-occasionduquelfaitet	occasion du quel fait et
-pourdoubtede	pour doubte de
-rigueurdejustice,lesdizRobineau	rigueur de justice , les diz Robineau
-etAndiau,cousins,sesontabsentez	et Andiau , cousins , se sont absentez
-absentezdupays,ouaumoins	absentez du pays , ou au moins
-n’yosent	n ’ y osent
-converser.ne	converser . ne
-habiter.Ennoushumblementsuppliantque,comme	habiter . En nous humblement suppliant que , comme
-leditfaitsoitadvenu	le dit fait soit advenu
-parchaudecoleetque	par chaude cole et que
-queentouzautrescaslesdizRobineau	que en touz autres cas les diz Robineau
-etAndiau,quisont	et Andiau , qui sont
-povreslaboureursetn’ontdontvivre	povres laboureurs et n ’ ont dont vivre
-forsde..leurditpovre	fors de . . leur dit povre
-povrelabouràjournées,ontestétoute	povre labour à journées , ont esté toute
-leurviedebonnevie,fame	leur vie de bonne vie , fame
-,renommée	, renommée
-etconversacionhonneste,sanz	et conversacion honneste , sanz
-avoirestéreprouchiezd	avoir esté reprouchiez d
-’autresvillainscas,etestoitleditmort.	’ autres villains cas , et estoit le dit mort .
-moultoultrageuxet	moult oultrageux et
-coustumierde.fairedesplaisirs	coustumier de . faire desplaisirs
-etdommagesàsesvoisins,etquesur	et dommages à ses voisins , et que sur
-ceaestéfaicte	ce a esté faicte
-satisfacionàla	satisfacion à la
-femme,pere	femme , pere
-etmere,freresetautresamischarnelzet.	et mere , freres et autres amis charnelz et .
-parensduditmort,ettellementqu	parens du dit mort , et tellement qu
-qu’ilensontcontensetagreezpar	qu ’ il en sont contens et agreez par
-bonneslettres,faictesetpasséessoubzle	bonnes lettres , faictes et passées soubz le
-seellorsestabliauxcontrauxdelachastellenie	seel lors establi aux contraux de la chastellenie
-de..Loudun,dontilapperradeuement,nous	de . . Loudun , dont il apperra deuement , nous
-leurvueillonssurceimpartirnostregraceetmisericorde	leur vueillons sur ce impartir nostre grace et misericorde
-misericorde.Pourquoy,nousquivoulonsrigueurdejustice	misericorde . Pour quoy , nous qui voulons rigueur de justice
-justicetempererparmisericorde	justice temperer par misericorde
-,auxdizDenizRobineau	, aux diz Deniz Robineau
-etBeryAndiau	et Bery Andiau
-,cousins,etàchascund’eulzou	, cousins , et à chascun d ’ eulz ou
-ditcasavonsquictié,remisetpardonné	dit cas avons quictié , remis et pardonné
-,remettons,quictonsetpardonnons,denostre	, remettons , quictons et pardonnons , de nostre
-nostregraceespecialetauctorité.royal	nostre grace especial et auctorité . royal
-,satisfacion	, satisfacion
-faicteà	faicte à
-partie,sefaicten’est,et.le	partie , se faicte n ’ est , et . le
-faitdessus.	fait dessus .
-avectoutepaine,offense..corporeleetcriminele	avec toute paine , offense . . corporele et criminele
-,quelesdessusnommezRobineauetAndiau	, que les dessus nommez Robineau et Andiau
-etchascund’	et chascun d ’
-eulz,peventavoirencouru,commisetperpetré	eulz , pevent avoir encouru , commis et perpetré
-enversnouspouroccasiondu	envers nous pour occasion du
-ditcas,lequel	dit cas , lequel
-nousavonstournéetconvertien	nous avons tourné et converti en
-purcivil,etlesrestituonsàleurbonne	pur civil , et les restituons à leur bonne
-bonnefameetrenommée,à	bonne fame et renommée , à
-àleurspaysetàleursbiens,qui..par	à leurs pays et à leurs biens , qui . . par
-ban..neseroientconfisquez,enimposantsurce	ban . . ne seroient confisquez , en imposant sur ce
-silenceperpetuelànostre	silence perpetuel à nostre
-procureur,presentet	procureur , present et
-avenir,parcespresentes.Parlateneur.desquelles	avenir , par ces presentes . Par la teneur . desquelles
-desquellesnousdonnons..enmandementaugouverneurdubailliagede	desquelles nous donnons . . en mandement au gouverneur du bailliage de
-deTouraine,ouàsonlieutenant	de Touraine , ou à son lieutenant
-lieutenantausiegedeLoudun,enquichastellenielesparties	lieutenant au siege de Loudun , en qui chastellenie les parties
-sontdemourans	sont demourans
-etilestadvenule	et il est advenu le
-leditfait,etàtouznos	le dit fait , et à touz nos
-autresjusticiers	autres justiciers
-justiciersetofficiers	justiciers et officiers
-,etàchascun	, et à chascun
-d’eulx,sicommeàluiappartendra.	d ’ eulx , si comme à lui appartendra .
-.,quedenostrepresentegraceetremission	. , que de nostre presente grace et remission
-facent,seuffrentetlaissentlesdiz	facent , seuffrent et laissent les diz
-diz.DenisRobineau	diz . Denis Robineau
-et..Andiauetchascund’	et . . Andiau et chascun d ’
-’eulzjoir	’ eulz joir
-etuserpaisiblementetperpetuelment,	et user paisiblement et perpetuelment ,
-,sanzlesmolesternesouffrirestre	, sanz les molester ne souffrir estre
-molestésaucunementau	molestés aucunement au
-contraire,maizse	contraire , maiz se
-seleurscorpsouleursbiens,oud	se leurs corps ou leurs biens , ou d
-d’aucun..	d ’ aucun . .
-d’iceulz,estoientprins,.	d ’ iceulz , estoient prins , .
-saisiz,arrestezouempeschezpourlacausedessusdicte	saisiz , arrestez ou empeschez pour la cause dessus dicte
-dicte,queilleur	dicte , que il leur
-leurmettentetfacentmettreàplainedelivrance,tantostet	leur mettent et facent mettre à plaine delivrance , tantost et
-etsanzdelay.Etque	et sanz delay . Et que
-que.cesoitferme	que . ce soit ferme
-fermechoseetestableàtouz	ferme chose et estable à touz
-touzjours,nousavonsfaitmettrenostreseelàces	touz jours , nous avons fait mettre nostre seel à ces
-cespresentes.	ces presentes .
-Saufenautreschosesnostredroitetl	Sauf en autres choses nostre droit et l
-’autruy.entoutes.Donnéà	’ autruy . en toutes . Donné à
-Paris,oumoys	Paris , ou moys
-demarsl’an	de mars l ’ an
-degracemilccc.iiiixx	de grace mil ccc . iiiixx
-iiiixxetquatre	iiiixx et quatre
-quatre,etde	quatre , et de
-nostreregne	nostre regne
-lequint.Parleroy,à	le quint . Par le roy , à
-larelacionduconseil.	la relacion du conseil .
-P.Milet.	P . Milet .
+parolesensubstance:«JehannotAubery,m’avez	paroles en substance :« Jehannot Aubery , m ’ avez
+vousfrappéparjeuouparrancune	vous frappé par jeu ou par rancune
+,diteslemoy,s’ilvousplaist	, dites le moy , s ’ il vous plaist
+,carjele..vouldroiebien	, car je le . . vouldroie bien
+biensavoir.»Et	bien savoir .» Et
+EtlorsleditJehannotAubery	Et lors le dit Jehannot Aubery
+respondiorguilleusementetoultraigeusementauditBeryAndiau:«	respondi orguilleusement et oultraigeusement au dit Bery Andiau :«
+Prensleparbien	Prens le par bien
+bienouparmal	bien ou par mal
+mal,carilneme.chautcomment.»	mal , car il ne me . chaut comment .»
+.»Ettantost	.» Et tantost
+icelluyBeryAndiau,	icelluy Bery Andiau ,
+moult..courouciéetmoultesmeu,s	moult . . couroucié et moult esmeu , s
+’envapartir	’ en va partir
+dela..place	de la . . place
+pouralerquerreunbastonou.autrechoseà	pour aler querre un baston ou . autre chose à
+sonhostel,pourbatreetsoy	son hostel , pour batre et soy
+vengierduditJehannotAubery,quiainsil’	vengier du dit Jehannot Aubery , qui ainsi l ’
+avoitferududitsac,	avoit feru du dit sac ,
+etenalantàsondithosteltrouvad’	et en alant à son dit hostel trouva d ’
+aventureledit..Robineau	aventure le dit . . Robineau
+,soncousin,	, son cousin ,
+etluidit	et lui dit
+lefaitet	le fait et
+finallementeulzrecordans	finallement eulz recordans
+recordansetdoulansd’icelles.bateures	recordans et doulans d ’ icelles . bateures
+bateures,tousdeux	bateures , tous deux
+ensembleencellechaleur..	ensemble en celle chaleur . .
+,.heureet	, . heure et
+mouvement,trouverentle	mouvement , trouverent le
+ditJehannotAuberydevant	dit Jehannot Aubery devant
+l’osteldu..prieurdeladicte	l ’ ostel du . . prieur de la dicte
+dictevilledeTriouetle	dicte ville de Triou et le
+lebatirentdebastons,sanz	le batirent de bastons , sanz
+avoirentenciondeletuer,delaquelle	avoir entencion de le tuer , de laquelle
+bateure,aprèspoudejours,	bateure , après pou de jours ,
+ycelluiJehannotAuberyaladevie.	ycellui Jehannot Aubery ala de vie .
+àtrespassement.Pouroccasionduquel	à trespassement . Pour occasion du quel
+faitetpourdoubtederigueur	fait et pour doubte de rigueur
+rigueurdejustice,lesdiz	rigueur de justice , les diz
+RobineauetAndiau	Robineau et Andiau
+,cousins,	, cousins ,
+sesontabsentez	se sont absentez
+du.pays,	du . pays ,
+ouaumoinsn’yosentconverser	ou au moins n ’ y osent converser
+nehabiter.	ne habiter .
+Ennoushumblementsuppliant	En nous humblement suppliant
+suppliantque,commeleditfaitsoitadvenuparchaude	suppliant que , comme le dit fait soit advenu par chaude
+chaudecoleet..	chaude cole et . .
+queentouz	que en touz
+touzautrescaslesdizRobineauetAndiau,qui	touz autres cas les diz Robineau et Andiau , qui
+sontpovreslaboureursetn	sont povres laboureurs et n
+’ontdont	’ ont dont
+vivreforsde..leur	vivre fors de . . leur
+ditpovrelabouràjournées,ontestétouteleur	dit povre labour à journées , ont esté toute leur
+viedebonnevie,	vie de bonne vie ,
+fame,renomméeetconversacionhonneste,	fame , renommée et conversacion honneste ,
+sanzavoirestéreprouchiezd’autresvillains	sanz avoir esté reprouchiez d ’ autres villains
+cas,etestoit	cas , et estoit
+estoitleditmort	estoit le dit mort
+moultoultrageuxet.coustumierdefairedesplaisirs	moult oultrageux et . coustumier de faire desplaisirs
+etdommagesàsesvoisins,et	et dommages à ses voisins , et
+etquesurce.aestéfaictesatisfacionà	et que sur ce . a esté faicte satisfacion à
+àlafemme,pereetmere,freresetautres	à la femme , pere et mere , freres et autres
+amischarnelzetparensduditmort,.et	amis charnelz et parens du dit mort , . et
+tellementqu’	tellement qu ’
+’ilensontcontensetagreezparbonnes	’ il en sont contens et agreez par bonnes
+lettres,	lettres ,
+faictesetpasséessoubzle	faictes et passées soubz le
+leseellorsestabliaux	le seel lors establi aux
+contrauxdelachastelleniedeLoudun,	contraux de la chastellenie de Loudun ,
+dontilapperradeuement,	dont il apperra deuement ,
+nous..leurvueillonssurceimpartirnostregrace	nous . . leur vueillons sur ce impartir nostre grace
+etmisericorde.Pourquoy,nous	et misericorde . Pour quoy , nous
+nousquivoulonsrigueurdejusticetempererparmisericorde,aux	nous qui voulons rigueur de justice temperer par misericorde , aux
+dizDenizRobineauetBery	diz Deniz Robineau et Bery
+Andiau,cousins	Andiau , cousins
+,etàchascund’eulzouditcas	, et à chascun d ’ eulz ou dit cas
+avonsquictié,remisetpardonné	avons quictié , remis et pardonné
+,remettons,quictonsetpardonnons,de	, remettons , quictons et pardonnons , de
+nostregraceespecialetauctorité	nostre grace especial et auctorité
+royal,satisfacion	royal , satisfacion
+faicteà..partie,se	faicte à . . partie , se
+faicten’est,etle	faicte n ’ est , et le
+faitdessus..	fait dessus . .
+avectoutepaine,..offense	avec toute paine , . . offense
+corporeleetcriminele,queles	corporele et criminele , que les
+lesdessusnommezRobineauetAndiauetchascund’	les dessus nommez Robineau et Andiau et chascun d ’
+eulz,peventavoirencouru,	eulz , pevent avoir encouru ,
+commiset	commis et
+etperpetréenversnous	et perpetré envers nous
+pouroccasionduditcas,.	pour occasion du dit cas , .
+lequelnousavonstournéetconvertienpur	lequel nous avons tourné et converti en pur
+purcivil,etlesrestituonsàleurbonnefameet	pur civil , et les restituons à leur bonne fame et
+renommée,àleurspaysetà.	renommée , à leurs pays et à .
+leursbiens,quiparban	leurs biens , qui par ban
+banneseroientconfisquez..,enimposantsurcesilence	ban ne seroient confisquez . . , en imposant sur ce silence
+silenceperpetuelànostreprocureur,presentet	silence perpetuel à nostre procureur , present et
+etavenir,parcespresentes	et avenir , par ces presentes
+.Parlateneurdesquellesnousdonnonsenmandementau	. Par la teneur desquelles nous donnons en mandement au
+gouverneurdubailliage	gouverneur du bailliage
+deTouraine,ouà	de Touraine , ou à
+sonlieutenantausiegedeLoudun,en	son lieutenant au siege de Loudun , en
+quichastellenielespartiessontdemouransetil	qui chastellenie les parties sont demourans et il
+estadvenuleditfait,etàtouz	est advenu le dit fait , et à touz
+nosautresjusticierset.officiers	nos autres justiciers et . officiers
+,etàchascund	, et à chascun d
+’eulx,sicomme	’ eulx , si comme
+àluiappartendra,quedenostre	à lui appartendra , que de nostre
+nostrepresentegraceetremissionfacent	nostre presente grace et remission facent
+,seuffrentetlaissent	, seuffrent et laissent
+lesdizDenisRobineau	les diz Denis Robineau
+etAndiauet.	et Andiau et .
+chascund’	chascun d ’
+eulzjoiretuser	eulz joir et user
+paisiblementetperpetuelment,sanzlesmolesternesouffrir	paisiblement et perpetuelment , sanz les molester ne souffrir
+estremolestésaucunementaucontraire,maiz	estre molestés aucunement au contraire , maiz
+seleurscorpsouleursbiens,ou	se leurs corps ou leurs biens , ou
+d’aucund’iceulz	d ’ aucun d ’ iceulz
+iceulz,estoientprins,saisiz,arrestezou	iceulz , estoient prins , saisiz , arrestez ou
+empeschezpourlacausedessusdicte,	empeschez pour la cause dessus dicte ,
+queilleurmettentetfacent	que il leur mettent et facent
+mettreàplainedelivrance,tantostetsanzdelay	mettre à plaine delivrance , tantost et sanz delay
+.Etquece	. Et que ce
+cesoitfermechose	ce soit ferme chose
+etestableàtouzjours,nousavons	et estable à touz jours , nous avons
+avonsfaitmettrenostreseel	avons fait mettre nostre seel
+àcespresentes.Saufenautres	à ces presentes . Sauf en autres
+chosesnostredroitetl’autruyen	choses nostre droit et l ’ autruy en
+toutes.DonnéàParis,oumoysde	toutes . Donné à Paris , ou moys de
+demarsl’andegracemilccc.	de mars l ’ an de grace mil ccc .
+.iiiixxet..	. iiiixx et . .
+quatre,etdenostreregnelequint.	quatre , et de nostre regne le quint .
+Parleroy,	Par le roy ,
+àlarelacionduconseil.P.Milet	à la relacion du conseil . P . Milet

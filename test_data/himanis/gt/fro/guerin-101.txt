@@ -1,54 +1,51 @@
-Charles,parlagracedeDieu	Charles , par la grace de Dieu
-,roysdeFranceetde	, roys de France et de
-Navarre.	Navarre .
-Atouzjusticiersetcommissaires,ausquelsceslettres	A touz justiciers et commissaires , aus quels ces lettres
-venront,salut	venront , salut
-.Comme.pour	. Comme . pour
-pourcertainescausesnous	pour certaines causes nous
-eussionsmiset..	eussions mis et . .
-.feisseinsennostremaintoutela	. feisseins en nostre main toute la
-laterreet	la terre et
-etl'eritagedeJehanLarcevesque,	et l ' eritage de Jehan Larcevesque ,
-,seigneurdePartenay,chevalier,aveclesfruis	, seigneur de Partenay , chevalier , avec les fruis
-etlesissuesd'iceus,	et les issues d ' iceus ,
-et,àlarequestedesamisaudit	et , à la requeste des amis au dit
-seigneur,nousdegraceespecialleuraiensrecreujusques	seigneur , nous de grace especial leur aiens recreu jusques
-ànostrevolentélaterreethéritagedevantdiz,	à nostre volenté la terre et héritage devant diz ,
-,lesquelsoupointeten	, les quels ou point et en
-enl'estatqu'il	en l ' estat qu ' il
-[sont]orendroit	[ sont ] orendroit
-orendroit..,avec	orendroit . . , avec
-touzlesfruiz	touz les fruiz
-etleslevés	et les levés
-quienistrontetserontreceuz,il	qui en istront et seront receuz , il
-nousontpromisetsonttenuz	nous ont promis et sont tenuz
-tenuzànousrendretoutefoizqueilenseront	tenuz à nous rendre toutefoiz que il en seront
-serontrequisdepar	seront requis de par
-parnous...Etàcefaire	par nous . . . Et à ce faire
-,tenir,garder	, tenir , garder
-etacomplirnozamés	et acomplir noz amés
-amésetfeauzGeffroy,seigneur	amés et feauz Geffroy , seigneur
-deChasteaubriant,Ponz,	de Chasteaubriant , Ponz ,
-,visconted'Aunay	, visconte d ' Aunay
-,Helion,seigneurde	, Helion , seigneur de
-Bregerat,.escuier,Jehan	Bregerat , . escuier , Jehan
-JehandeVendoume,Regnautde..Precigny,	Jehan de Vendoume , Regnaut de . . Precigny ,
-YonduPont,SavarydeVivonne,Jehande	Yon du Pont , Savary de Vivonne , Jehan de
-GaillonetPierreBarbe,chevaliers,nousaient	Gaillon et Pierre Barbe , chevaliers , nous aient
-obligiéleurs	obligié leurs
-leurspersonnesettouzleursbienspresensetavenir.	leurs personnes et touz leurs biens presens et avenir .
-.Nousvousmandonsetàchascunde	. Nous vous mandons et à chascun de
-vous.queausdessusnommezobligiés	vous . que aus dessus nommez obligiés
-obligiésouàleurcertaincommandement	obligiés ou à leur certain commandement
-oudéputé.àce	ou député . à ce
-cedepareus.,vousdelivréssanz	ce de par eus . , vous delivrés sanz
-nuldelay.laterreetlehéritage	nul delay . la terre et le héritage
-devant,diz	devant , diz
-dizetlesenlaissiezjoirpaisiblement,etdes	diz et les en laissiez joir paisiblement , et des
-fruizetdesissuesquid'oresen	fruiz et des issues qui d ' ores en
-avantenvendront.Donné..	avant en vendront . Donné . .
-àMaunes,lexxix...jourd	à Maunes , le xxix . . . jour d
-'aoustl	' aoust l
-'andegracemiltroiscenz	' an de grace mil trois cenz
-cenzvintettrois.Parleroy,àvostre	cenz vint et trois . Par le roy , à vostre
-vostrerelacionetdumareschal.Barriere.	vostre relacion et du mareschal . Barriere .
+Charles,	Charles ,
+parlagracedeDieu,roysde	par la grace de Dieu , roys de
+FranceetdeNavarre.Atouzjusticiersetcommissaires	France et de Navarre . A touz justiciers et commissaires
+,ausquelsceslettresvenront,	, aus quels ces lettres venront ,
+salut.Comme	salut . Comme
+pourcertainescausesnouseussionsmisetfeisseins	pour certaines causes nous eussions mis et feisseins
+ennostremain	en nostre main
+maintoutelaterreetl'eritagedeJehan	main toute la terre et l ' eritage de Jehan
+Larcevesque,seigneurdePartenay,.chevalier,avec	Larcevesque , seigneur de Partenay , . chevalier , avec
+lesfruis.etlesissuesd'	les fruis . et les issues d '
+iceus,et,àlarequestedes	iceus , et , à la requeste des
+amisauditseigneur,nousdegrace	amis au dit seigneur , nous de grace
+especialleuraiensrecreujusquesànostrevolenté	especial leur aiens recreu jusques à nostre volenté
+laterreethéritage	la terre et héritage
+devantdiz,lesquels	devant diz , les quels
+oupointetenl'	ou point et en l '
+estatqu'il	estat qu ' il
+il[sont.]	il [ sont . ]
+orendroit,avectouzlesfruizetleslevés	orendroit , avec touz les fruiz et les levés
+quienistrontet	qui en istront et
+serontreceuz,	seront receuz ,
+,ilnous	, il nous
+ontpromisetsonttenuz	ont promis et sont tenuz
+ànousrendretoutefoizqueilenserontrequis	à nous rendre toutefoiz que il en seront requis
+requisdeparnous.Etàcefaire	requis de par nous . Et à ce faire
+,tenir..,	, tenir . . ,
+garderetacomplirnozamésetfeauzGeffroy,	garder et acomplir noz amés et feauz Geffroy ,
+seigneurdeChasteaubriant,Ponz,visconted'Aunay	seigneur de Chasteaubriant , Ponz , visconte d ' Aunay
+,Helion,	, Helion ,
+,seigneurdeBregerat,escuier,Jehande	, seigneur de Bregerat , escuier , Jehan de
+Vendoume,RegnautdePrecigny,YonduPont	Vendoume , Regnaut de Precigny , Yon du Pont
+Pont,SavarydeVivonne,JehandeGaillonet	Pont , Savary de Vivonne , Jehan de Gaillon et
+PierreBarbe,chevaliers,nousaientobligié.leurs	Pierre Barbe , chevaliers , nous aient obligié . leurs
+leurspersonnesettouz	leurs personnes et touz
+leursbienspresensetavenir.Nousvousmandonset	leurs biens presens et avenir . Nous vous mandons et
+àchascundevousque	à chascun de vous que
+ausdessusnommezobligiésouà	aus dessus nommez obligiés ou à
+leurcertaincommandementoudéputéàcedepareus	leur certain commandement ou député à ce de par eus
+eus,vousdelivréssanz	eus , vous delivrés sanz
+sanznuldelayla	sanz nul delay la
+terreetle	terre et le
+héritagedevant,dizetlesenlaissiez	héritage devant , diz et les en laissiez
+laissiezjoirpaisiblement,etdesfruiz	laissiez joir paisiblement , et des fruiz
+fruizetdesissuesquid'oresenavanten	fruiz et des issues qui d ' ores en avant en
+envendront.DonnéàMaunes,lexxix.	en vendront . Donné à Maunes , le xxix .
+jourd'aoust..	jour d ' aoust . .
+.l'andegracemiltrois	. l ' an de grace mil trois
+troiscenzvintettrois.	trois cenz vint et trois .
+Parleroy,àvostre	Par le roy , à vostre
+vostrerelacionetdu	vostre relacion et du
+mareschal.Barriere.	mareschal . Barriere .

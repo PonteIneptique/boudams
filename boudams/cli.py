@@ -113,56 +113,57 @@ def template(filename):
 
 
 @cli.command("train")
-@click.argument("config_file", type=click.File("r"))
+@click.argument("config_files", nargs=-1, type=click.File("r"))
 @click.option("--epochs", type=int, default=100, help="Number of epochs to run")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
 @click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
-def train(config_file, epochs, batch_size, device):
-    """ Train a model """
-    config = json.load(config_file)
+def train(config_files, epochs, batch_size, device):
+    """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
+    for config_file in config_files:
+        config = json.load(config_file)
 
-    masked = config["model"].startswith("linear")
-    train_path, dev_path, test_path = config["datasets"]["train"],\
-                                      config["datasets"]["dev"],\
-                                      config["datasets"]["test"]
+        masked = config["model"].startswith("linear")
+        train_path, dev_path, test_path = config["datasets"]["train"],\
+                                          config["datasets"]["dev"],\
+                                          config["datasets"]["test"]
 
-    vocabulary = LabelEncoder(
-        maximum_length=config["max_sentence_size"],
-        masked=masked,
-        remove_diacriticals=config["label_encoder"].get("normalize", True),
-        lower=config["label_encoder"].get("lower", True)
-    )
-    vocabulary.build(train_path, dev_path, test_path, debug=True)
+        vocabulary = LabelEncoder(
+            maximum_length=config["max_sentence_size"],
+            masked=masked,
+            remove_diacriticals=config["label_encoder"].get("normalize", True),
+            lower=config["label_encoder"].get("lower", True)
+        )
+        vocabulary.build(train_path, dev_path, test_path, debug=True)
 
-    # Get the datasets
-    train_dataset: DatasetIterator = vocabulary.get_dataset(
-        train_path, randomized=config["datasets"].get("random", True))
-    dev_dataset: DatasetIterator = vocabulary.get_dataset(
-        dev_path, randomized=config["datasets"].get("random", True))
-    test_dataset: DatasetIterator = vocabulary.get_dataset(
-        test_path, randomized=config["datasets"].get("random", True))
+        # Get the datasets
+        train_dataset: DatasetIterator = vocabulary.get_dataset(
+            train_path, randomized=config["datasets"].get("random", True))
+        dev_dataset: DatasetIterator = vocabulary.get_dataset(
+            dev_path, randomized=config["datasets"].get("random", True))
+        test_dataset: DatasetIterator = vocabulary.get_dataset(
+            test_path, randomized=config["datasets"].get("random", True))
 
-    print("-- Dataset informations --")
-    print("Number of training examples: {}".format(len(train_dataset)))
-    print("Number of dev examples: {}".format(len(dev_dataset)))
-    print("Number of testing examples: {}".format(len(test_dataset)))
-    print("--------------------------")
+        print("-- Dataset informations --")
+        print("Number of training examples: {}".format(len(train_dataset)))
+        print("Number of dev examples: {}".format(len(dev_dataset)))
+        print("Number of testing examples: {}".format(len(test_dataset)))
+        print("--------------------------")
 
-    tagger = Seq2SeqTokenizer(
-        vocabulary,
-        device=device, system=config["model"], out_max_sentence_length=config["max_sentence_size"],
-        **config["network"])
-    trainer = Trainer(tagger, device=device)
-    print(tagger.model)
-    print()
+        tagger = Seq2SeqTokenizer(
+            vocabulary,
+            device=device, system=config["model"], out_max_sentence_length=config["max_sentence_size"],
+            **config["network"])
+        trainer = Trainer(tagger, device=device)
+        print(tagger.model)
+        print()
 
-    trainer.run(
-        train_dataset, dev_dataset, n_epochs=epochs,
-        fpath=config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0] + ".tar",
-        batch_size=batch_size, **config["learner"]
-    )
+        trainer.run(
+            train_dataset, dev_dataset, n_epochs=epochs,
+            fpath=config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0] + ".tar",
+            batch_size=batch_size, **config["learner"]
+        )
 
-    trainer.test(test_dataset, batch_size=batch_size)
+        trainer.test(test_dataset, batch_size=batch_size)
 
 
 @cli.command("tag")
