@@ -142,7 +142,7 @@ def train(config_files, epochs, batch_size, device):
             dev_path, randomized=config["datasets"].get("random", True))
         test_dataset: DatasetIterator = vocabulary.get_dataset(
             test_path, randomized=config["datasets"].get("random", True))
-
+        print("Training %s " % config_file.name)
         print("-- Dataset informations --")
         print("Number of training examples: {}".format(len(train_dataset)))
         print("Number of dev examples: {}".format(len(dev_dataset)))
@@ -187,6 +187,17 @@ def tag(model, filename, device="cpu", batch_size=64):
                 out_io.write(tokenized_string+" ")
         # print("--- File " + file.name + " has been tokenized")
 
+
+@cli.command("tag-check")
+@click.argument("config_model", nargs=-1, type=click.Path(exists=True, file_okay=True, dir_okay=False))
+@click.argument("content")
+def tag_check(config_model, content, device="cpu", batch_size=64):
+    """ Tag all [FILENAME] using [MODEL]"""
+    for model in config_model:
+        print("Loading the model.")
+        tokenizer = Seq2SeqTokenizer.load(model, device=device)
+        print("Model loaded.")
+        print(model + "\t" +" ".join(tokenizer.annotate_text(content, batch_size=batch_size)))
 
 @cli.command("graph")
 @click.argument("model", type=click.Path(exists=True, file_okay=True, dir_okay=False))

@@ -6,9 +6,10 @@ import logging
 import collections
 import random
 import json
-import unidecode
 import copy
 from operator import itemgetter
+
+from boudams.utils import mufidecode
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 DEFAULT_INIT_TOKEN = "<SOS>"
@@ -259,7 +260,7 @@ class LabelEncoder:
             x = x.lower()
 
         if self.remove_diacriticals:
-            x = unidecode.unidecode(x)
+            x = mufidecode(x.replace("ꝯ", "9")).strip()
 
         x = x.split("\t")
 
@@ -272,7 +273,7 @@ class LabelEncoder:
             x = x.lower()
 
         if self.remove_diacriticals:
-            x = unidecode.unidecode(x)
+            x = mufidecode(x.replace("ꝯ", "9")).strip()
         return x
 
     def pad_and_tensorize(
@@ -330,7 +331,7 @@ class LabelEncoder:
                     self.mask_token_index if ngram[1] != " " else self.space_token_index
                     for ngram in zip(*[sentence[i:] for i in range(2)])
                     if ngram[0] != " "
-                ] + [self.mask_token_index] + eos
+                ] + [self.space_token_index] + eos
 
             return numericals, len(sentence) - sentence.count(" ") + obligatory_tokens
 

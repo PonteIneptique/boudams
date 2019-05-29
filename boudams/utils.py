@@ -5,10 +5,52 @@ import uuid
 from contextlib import contextmanager
 import os
 import shutil
+import unidecode
+import warnings
 
-import matplotlib.pyplot as plt
-import matplotlib.ticker as ticker
-plt.switch_backend('agg')
+
+Cache = {}
+
+
+def mufidecode(string):
+    retval = []
+
+    for char in string:
+        codepoint = ord(char)
+
+        if codepoint < 0x80:  # Basic ASCII
+            retval.append(str(char))
+            continue
+
+        if 0xd800 <= codepoint <= 0xdfff:
+            warnings.warn("Surrogate character %r will be ignored. "
+                          "You might be using a narrow Python build." % (char,),
+                          RuntimeWarning, 2)
+
+        section = codepoint >> 8  # Chop off the last two hex digits
+        position = codepoint % 256  # Last two hex digits
+
+        try:
+            table = Cache[section]
+        except KeyError:
+            try:
+                mod = __import__('unidecode.x%03x' % (section), globals(), locals(), ['data'])
+            except ImportError:
+                Cache[section] = None
+                retval.append(char)
+                continue
+                
+            Cache[section] = table = mod.data
+
+        if table and len(table) > position:
+            retval.append(table[position])
+            continue
+
+        # If not found
+        retval.append(char)
+        continue
+
+    return ''.join(retval)
 
 
 def epoch_time(start_time, end_time):
@@ -17,14 +59,6 @@ def epoch_time(start_time, end_time):
     elapsed_secs = int(elapsed_time - (elapsed_mins * 60))
     return elapsed_mins, elapsed_secs
 
-
-def showPlot(points):
-    plt.figure()
-    fig, ax = plt.subplots()
-    # this locator puts ticks at regular intervals
-    loc = ticker.MultipleLocator(base=0.2)
-    ax.yaxis.set_major_locator(loc)
-    plt.plot(points)
 
 # What follows comes from the nice https://github.com/emanjavacas/pie/blob/master/pie/utils.py
 @contextmanager

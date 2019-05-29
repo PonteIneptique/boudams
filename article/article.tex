@@ -122,6 +122,19 @@ Datasets are transcription from manuscripts with unresolved abbreviation coming 
 
 \subsubsection{Example of outputs}
 
+The following input was not seen during training, dev or test, and is part of a different corpus :
+
+\begin{itemize} 
+    \item \texttt{Truth :} Aies joie et leesce en ton cuer car tu auras une fille qui aura .i. fil qui sera de molt grant merite devant Dieu et de grant los entre les homes.
+    \item \texttt{Input :} Aiesjoieetleesceentoncuercartuaurasunefillequiaura.i.filquiserademoltgrantmeritedevantDieuetdegrantlosentreleshomes.
+    \item \texttt{CNN :} Aiesjoie et leesce en ton cuer car tu auras une fille qui aura . i . fil qui sera de molt grant merite devant Dieu et de grant los entre les homes .
+    \item \texttt{CNN lower:} Aies joie et leesce en ton cuer car tu auras une fille qui aura . i . fil qui sera de molt grant merite devant Dieu et de grant los entre les homes .
+    \item \texttt{CNN without position:} Aiesjoie et leesce en ton cuer car tu auras une fille qui aura . i . fil qui sera de molt grant merite devant Dieu et de grant los entre les homes .
+    \item \texttt{CNN Normalize:} Aies joie et leesce en ton cuer car tu auras une fille qui aura . i . fil qui sera de molt grant merite devant Dieu et de grant los entre les homes .
+\end{itemize}
+
+
+
 \subsection{Discussion}
 
 We believe that, aside from a graphical challenge, word segmentation in OCR from manuscripts can actually be treated from a text point of view
