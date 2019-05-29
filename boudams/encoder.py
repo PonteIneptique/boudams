@@ -9,7 +9,7 @@ import json
 import copy
 from operator import itemgetter
 
-from boudams.utils import mufidecode
+from mufidecode import mufidecode
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 DEFAULT_INIT_TOKEN = "<SOS>"
@@ -260,9 +260,10 @@ class LabelEncoder:
             x = x.lower()
 
         if self.remove_diacriticals:
-            x = mufidecode(x.replace("ꝯ", "9")).strip()
-
-        x = x.split("\t")
+            x: Tuple[str, ...] = mufidecode(x, join=False)
+            x = (x[:x.index("\t")], x[x.index("\t")+1:])
+        else:
+            x = x.split("\t")
 
         if self.max_len and len(x[0]) >= len(x[1]) > self.max_len:
             raise AssertionError("Data should be smaller than maximum length")
@@ -273,7 +274,7 @@ class LabelEncoder:
             x = x.lower()
 
         if self.remove_diacriticals:
-            x = mufidecode(x.replace("ꝯ", "9")).strip()
+            x = mufidecode(x, join=False)
         return x
 
     def pad_and_tensorize(
@@ -511,7 +512,7 @@ if __name__ == "__main__":
                if l != len(reversed_data[0]) - reversed_data[0].count(" ")
            ] == [], \
         "All element should have the same size (length : %s) if we remove the spaces" % list(map(len, reversed_data))
-
+    print(reversed_data)
     assert reversed_data == [
         ['<SOS>', 'e', ' ', 'd', 'e', 'u', 's', ' ', 't', 'u', 'n', 'e', 'i', 'r', 'e', ' ', 'e', ' ', 'p', 'l', 'u',
          'i', 'e', ' ', 'm', 'e', 'r', 'v', 'e', 'i', 'l', 'l', 'u', 's', 'e', ' ', 'a', ' ', 'c', 'e', 'l', ' ', 'j',
