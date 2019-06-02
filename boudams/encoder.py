@@ -254,28 +254,19 @@ class LabelEncoder:
         :param line:
         :return:
         """
-        x = line.strip()
+        inp, out = line.strip().split("\t")
+        return tuple(self.prepare(inp)), tuple(self.prepare(out))
 
-        if self.lower:
-            x = x.lower()
-
+    def prepare(self, inp: str):
         if self.remove_diacriticals:
-            x: Tuple[str, ...] = mufidecode(x, join=False)
-            x = (x[:x.index("\t")], x[x.index("\t")+1:])
+            inp = mufidecode(inp, join=False)
+            if self.lower:
+                inp = [char.lower() for char in inp]
         else:
-            x = x.split("\t")
+            if self.lower:
+                inp = inp.lower()
 
-        if self.max_len and len(x[0]) >= len(x[1]) > self.max_len:
-            raise AssertionError("Data should be smaller than maximum length")
-        return tuple(x[0]), tuple(x[1])
-
-    def prepare(self, x: str):
-        if self.lower:
-            x = x.lower()
-
-        if self.remove_diacriticals:
-            x = mufidecode(x, join=False)
-        return x
+        return inp
 
     def pad_and_tensorize(
             self,

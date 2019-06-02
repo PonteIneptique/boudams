@@ -117,8 +117,12 @@ def template(filename):
 @click.option("--epochs", type=int, default=100, help="Number of epochs to run")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
 @click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
-def train(config_files, epochs, batch_size, device):
+@click.option("--debug", default=False, is_flag=True)
+def train(config_files, epochs, batch_size, device, debug):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
+    if debug:
+        import logging
+        logging.getLogger().setLevel(logging.DEBUG)
     for config_file in config_files:
         config = json.load(config_file)
 
@@ -134,6 +138,9 @@ def train(config_files, epochs, batch_size, device):
             lower=config["label_encoder"].get("lower", True)
         )
         vocabulary.build(train_path, dev_path, test_path, debug=True)
+        if debug:
+            from pprint import pprint
+            pprint(vocabulary.mtoi)
 
         # Get the datasets
         train_dataset: DatasetIterator = vocabulary.get_dataset(

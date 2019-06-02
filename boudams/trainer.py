@@ -124,7 +124,7 @@ class Scorer(object):
 
 
 class LRScheduler(object):
-    def __init__(self, optimizer, mode=PlateauModes.loss, **kwargs):
+    def __init__(self, optimizer, mode=PlateauModes.accuracy, **kwargs):
         self.lr_scheduler = optim.lr_scheduler.ReduceLROnPlateau(
             optimizer, mode=mode.value, **kwargs)  # Max because accuracy :)
         self.mode = mode
@@ -229,7 +229,7 @@ class Trainer(object):
                 )
 
                 # Run a check on saving the current model
-                self._temp_save(fid, best_valid_loss, dev_score)
+                best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
 
                 # Advance Learning Rate if needed
                 lr_scheduler.step(dev_score)
@@ -261,9 +261,11 @@ class Trainer(object):
             except EarlyStopException:
                 print("Reached plateau for too long, stopping.")
 
-        self._temp_save(fid, best_valid_loss, dev_score)
+        best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+
         try:
             self.tagger.model.load_state_dict(torch.load(fid))
+            print("Saving model with loss %s " % best_valid_loss)
             os.remove(fid)
         except FileNotFoundError:
             print("No model was saved during training")
