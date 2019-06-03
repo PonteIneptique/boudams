@@ -27,7 +27,91 @@ class LinearEncoderCNN(CNNEncoder):
 
 
 class LinearLSTMEncoder(LSTMEncoder):
-    """ Linear version of the LSTMEncoder """
+    """ Linear
+     version of the LSTMEncoder """
+
+
+class LinearEncoderCNNNoPos(nn.Module):
+    def __init__(self, input_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, device: str = "cpu"):
+        super().__init__()
+
+        assert kernel_size % 2 == 1, "Kernel size must be odd!"
+
+        self.input_dim = input_dim
+        self.emb_dim = emb_dim
+        self.hid_dim = hid_dim
+        self.kernel_size = kernel_size
+        self.dropout = dropout
+        self.device = device
+
+        self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
+
+        self.tok_embedding = nn.Embedding(input_dim, emb_dim)
+
+        self.emb2hid = nn.Linear(emb_dim, hid_dim)
+        self.hid2emb = nn.Linear(hid_dim, emb_dim)
+
+        self.convs = nn.ModuleList([nn.Conv1d(in_channels=hid_dim,
+                                              out_channels=2 * hid_dim,
+                                              kernel_size=kernel_size,
+                                              padding=(kernel_size - 1) // 2)
+                                    for _ in range(n_layers)])
+
+        self.dropout = nn.Dropout(dropout)
+
+    def forward(self, src):
+        # create position tensor
+
+        # pos = [src sent len, batch size] (Not what is documented)
+        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1).to(self.device)
+
+        # embed tokens and positions
+        tok_embedded = self.tok_embedding(src)
+
+        # tok_embedded = pos_embedded = [batch size, src sent len, emb dim]
+
+        # combine embeddings by elementwise summing
+        embedded = self.dropout(tok_embedded)
+
+        # embedded = [batch size, src sent len, emb dim]
+
+        # pass embedded through linear layer to go through emb dim -> hid dim
+        conv_input = self.emb2hid(embedded)
+
+        # conv_input = [batch size, src sent len, hid dim]
+
+
+        # permute for convolutional layer
+        conv_input = conv_input.permute(0, 2, 1)
+
+        # conv_input = [batch size, hid dim, src sent len]
+
+        for i, conv in enumerate(self.convs):
+            # pass through convolutional layer
+            conved = conv(self.dropout(conv_input))
+
+            # conved = [batch size, 2*hid dim, src sent len]
+
+            # pass through GLU activation function
+            conved = F.glu(conved, dim=1)
+
+            # conved = [batch size, hid dim, src sent len]
+
+            # apply residual connection
+            conved = (conved + conv_input) * self.scale
+
+            # conved = [batch size, hid dim, src sent len]
+
+            # set conv_input to conved for next lo`op iteration
+            conv_input = conved
+
+        # permute and convert back to emb dim
+        conved = self.hid2emb(conved.permute(0, 2, 1))
+
+        # conved = [batch size, src sent len, emb dim]
+
+        # combined = [batch size, src sent len, emb dim]
+        return conved
 
 
 class LinearDecoder(nn.Module):
@@ -93,7 +177,9 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         # encoder_conved is output from final encoder conv. block
         # encoder_combined is encoder_conved plus (elementwise) src embedding plus positional embeddings
         if isinstance(self.encoder, LinearEncoderCNN):
-            second_step = self.encoder(src, keep_pos=self.pos)
+            second_step = self.encoder(src, keep_pos=True)
+        elif isinstance(self.encoder, LinearEncoderCNNNoPos):
+            second_step = self.encoder(src)
         elif isinstance(self.encoder, LinearLSTMEncoder):
             second_step, hidden, cell = self.encoder(src.t(), src_len)
             # -> tensor(sentence size, batch size, hid dim * n directions)

@@ -85,6 +85,15 @@ class Seq2SeqTokenizer:
                     dropout=self.enc_dropout
                 )
             in_features = self.enc_hid_dim
+        elif self.system.endswith("-conv-no-pos"):
+            self.enc: linear.LinearEncoderCNNNoPos = linear.LinearEncoderCNNNoPos(
+                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
+                    dropout=self.enc_dropout,
+                    device=self.device,
+                    kernel_size=self.enc_kernel_size
+                )
+            in_features = self.emb_enc_dim
         else:
             self.enc: linear.CNNEncoder = linear.LinearEncoderCNN(
                     self.vocabulary_dimension, emb_dim=self.emb_enc_dim,

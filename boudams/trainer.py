@@ -19,7 +19,7 @@ import torch.optim as optim
 import tqdm
 
 
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 from leven import levenshtein
 
 from boudams.tagger import Seq2SeqTokenizer, DEVICE
@@ -47,7 +47,13 @@ class Scorer(object):
     """
     Accumulate predictions over batches and compute evaluation scores
     """
-    def __init__(self, tagger: Seq2SeqTokenizer, masked: bool = False):
+    def __init__(self, tagger: Seq2SeqTokenizer, masked: bool = False, record: bool = False):
+        """
+
+        :param tagger: Tagger
+        :param masked: Mask with Word Boundary
+        :param record: Record all inputs
+        """
         self.hypotheses = []
         self.targets = []
         self.tagger: Seq2SeqTokenizer = tagger
@@ -56,17 +62,51 @@ class Scorer(object):
         self.preds = []
         self.srcs = []
 
-        self._score_tuple = namedtuple("scores", ["accuracy", "leven", "leven_per_char"])
+        self._score_tuple = namedtuple("scores", ["accuracy", "leven", "leven_per_char",
+                                                  "precision", "recall", "fscore"])
         self.scores = None
         self.masked: bool = masked
 
+    def plot_confusion_matrix(self, path: str = "confusion-matrix.png"):
+        try:
+            from .utils import plot_confusion_matrix, plt
+        except ImportError:
+            print("You need to install matplotlib for this feature")
+            raise
+        unrolled_trues = list([y_char for y_sent in self.trues for y_char in y_sent])
+        unrolled_preds = list([y_char for y_sent in self.preds for y_char in y_sent])
+
+        plot_confusion_matrix(
+            unrolled_trues,
+            unrolled_preds,
+            labels=[self.tagger.vocabulary.space_token_index, self.tagger.vocabulary.mask_token_index],
+            classes=["WordBoundary", "WordContent"]
+            if self.tagger.vocabulary.space_token_index < self.tagger.vocabulary.mask_token_index else
+            ["WordContent", "WordBoundary"]
+        )
+        plt.savefig(path)
+
     def compute(self):
-        accuracy = [
-            accuracy_score(t, p)
-            for t, p in zip(self.trues, self.preds)
-        ]
         levenshteins = []
         leven_per_char = []
+
+        unrolled_trues = list([y_char for y_sent in self.trues for y_char in y_sent])
+        unrolled_preds = list([y_char for y_sent in self.preds for y_char in y_sent])
+
+        matrix = confusion_matrix(unrolled_trues, unrolled_preds,
+            labels=[self.tagger.vocabulary.space_token_index, self.tagger.vocabulary.mask_token_index]
+        )
+        # Accuracy score takes into account PAD, EOS and SOS so we get the data from the confusion matrix
+        samples = sum(sum(matrix))
+        errors = matrix[0][1] + matrix[1][0]
+        accuracy = 1 - (errors / samples)
+
+        # Technically, data is padded, so we can unroll things
+        precision, recall, fscore, _ = precision_recall_fscore_support(
+            unrolled_trues, unrolled_preds, average="macro",
+            # Ignore pad errors
+            labels=[self.tagger.vocabulary.space_token_index, self.tagger.vocabulary.mask_token_index]
+        )
 
         for tr_true, tr_pred in zip(
             self.tagger.vocabulary.transcribe_batch(
@@ -85,9 +125,10 @@ class Scorer(object):
                 logging.debug("OUT:" + "".join(tr_pred))
                 logging.debug("---")
 
-        self.scores = self._score_tuple(statistics.mean(accuracy),
+        self.scores = self._score_tuple(accuracy,
                                         statistics.mean(levenshteins),
-                                        statistics.mean(leven_per_char))
+                                        statistics.mean(leven_per_char),
+                                        precision, recall, fscore)
 
     def get_accuracy(self) -> float:
         if not self.scores:
@@ -367,13 +408,13 @@ class Trainer(object):
                      scorer.avg_levenshteins(), scorer.avg_levenshteins_per_char(), scorer=scorer)
 
     def evaluate(self, iterator: DatasetIterator, criterion: nn.CrossEntropyLoss,
-                 desc: str, batch_size: int) -> Score:
+                 desc: str, batch_size: int, test_mode=False) -> Score:
 
         self.tagger.model.eval()
 
         epoch_loss = 0
 
-        scorer = Scorer(self.tagger)
+        scorer = Scorer(self.tagger, record=test_mode is True)
 
         with torch.no_grad():
             batch_generator = iterator.get_epoch(
@@ -397,14 +438,17 @@ class Trainer(object):
         return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(),
                      scorer.avg_levenshteins(), scorer.avg_levenshteins_per_char(), scorer=scorer)
 
-    def test(self, test_dataset: DatasetIterator, batch_size: int = 256):
+    def test(self, test_dataset: DatasetIterator, batch_size: int = 256, do_print=True):
         # Set up loss but ignore the loss when the token is <pad>
         #     where <pad> is the token for filling the vector to get same-sized matrix
         criterion = nn.CrossEntropyLoss(ignore_index=self.tagger.vocabulary.pad_token_index)
 
-        test_loss = self.evaluate(test_dataset, criterion, desc="Test", batch_size=batch_size)
+        score_object = self.evaluate(test_dataset, criterion, desc="Test", batch_size=batch_size, test_mode=True)
+        scorer: Scorer = score_object.scorer
 
-        print(f' Test Loss: {test_loss.loss:.3f} | Perplexity: {test_loss.perplexity:7.3f} | '
-              f'Acc.: {test_loss.accuracy:.3f} | '
-              f'Lev.: {test_loss.scorer.avg_levenshteins():.3f} | '
-              f'Lev. / char: {test_loss.leven_per_char:.3f}')
+        if do_print:
+            print(f' Test Loss: {score_object.loss:.3f} | Perplexity: {score_object.perplexity:7.3f} | '
+                  f'Acc.: {score_object.accuracy:.3f} | '
+                  f'Lev.: {score_object.scorer.avg_levenshteins():.3f} | '
+                  f'Lev. / char: {score_object.leven_per_char:.3f}')
+        return scorer

@@ -34,7 +34,7 @@ def dataset():
 @click.option("--noise_char", type=str, default=".", help="Character to add between words for noise purposes")
 @click.option("--noise_char_random", type=float, default=0.2, help="Probability to add [NOISE_CHAR] in between words")
 @click.option("--max_noise_char", type=int, default=2, help="Maximum amount of [NOISE_CHAR] to add sequentially")
-def generate(method, output_path, input_path, min_words, max_words, min_char_length,
+def convert(method, output_path, input_path, min_words, max_words, min_char_length,
              max_char_length, random_keep, max_kept, noise_char, noise_char_random, max_noise_char):
     """ Build sequence training data using files with [METHOD] format in [INPUT_PATH] and saving the
     converted format into [OUTPUT_PATH]
@@ -58,6 +58,49 @@ def generate(method, output_path, input_path, min_words, max_words, min_char_len
         )
 
 
+@dataset.command("statistics")
+@click.argument("png_path", type=click.Path(file_okay=True, dir_okay=False))
+@click.argument("char_count", type=click.Path(file_okay=True, dir_okay=False))
+@click.argument("input_path", nargs=-1, type=click.File(mode="r"))
+def sizes(png_path, char_count, input_path):
+    """ Build sequence training data using files with [METHOD] format in [INPUT_PATH] and saving the
+    converted format into [OUTPUT_PATH]
+
+    If you are using `tsv-header` as a method, columns containing tokens should be named "tokens" or "form"
+    """
+    import matplotlib.pyplot as plt
+    from collections import Counter
+    lengths = []
+    counter = {
+        file.name: Counter()
+        for file in input_path
+    }
+    print(counter)
+    for file in input_path:
+        for l in file.readlines():
+            x, truth = l.split("\t")
+            words = truth.strip().split()
+            lengths += [len(t) for t in words]
+            counter[file.name].update(Counter(list(x)))
+
+    fig1, ax1 = plt.subplots()
+    ax1.set_title('Distribution of word sizes in the dataset')
+    ax1.boxplot(lengths)
+    plt.savefig(png_path)
+
+    words = list(set(keys for cnter in counter.values() for keys in cnter))
+    import csv
+    with open(char_count, "w") as f:
+        writer = csv.DictWriter(f, fieldnames=list(["char"] + [c for c in counter]))
+        writer.writeheader()
+        for word in sorted(words):
+            writer.writerow(dict(char=word, **{
+                c: counter[c].get(word, 0)
+                for c in counter
+            }))
+
+
+
 @dataset.command("generate")
 @click.argument("output_path", type=click.Path(file_okay=False))
 @click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
@@ -77,7 +120,6 @@ def generate(output_path, input_path, max_char_length, train_ratio, test_ratio):
     dataset_base.split(input_path, output_path, max_char_length=max_char_length,
                        ratio=(train_ratio, dev_ratio, test_ratio))
     dataset_base.check(output_path, max_length=max_char_length)
-
 
 @cli.command("template")
 @click.argument("filename", type=click.File(mode="w"))
@@ -173,6 +215,49 @@ def train(config_files, epochs, batch_size, device, debug):
         trainer.test(test_dataset, batch_size=batch_size)
 
 
+@cli.command("test")
+@click.argument("test_path", type=click.Path(dir_okay=False, file_okay=True, exists=True))
+@click.argument("model_tar", nargs=-1, type=click.Path(dir_okay=False, file_okay=True, exists=True))
+@click.option("--csv_file", default=None, type=click.File(mode="w"), help="CSV target")
+@click.option("--batch_size", type=int, default=32, help="Size of batches")
+@click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
+@click.option("--debug", default=False, is_flag=True)
+def test(test_path, model_tar, csv_file, batch_size, device, debug):
+    """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
+    if debug:
+        import logging
+        logging.getLogger().setLevel(logging.DEBUG)
+
+    results = []
+    for config_file in model_tar:
+        model = Seq2SeqTokenizer.load(config_file, device=device)
+
+        # Get the datasets
+        test_dataset: DatasetIterator = model.vocabulary.get_dataset(test_path)
+
+        print("Testing %s " % config_file)
+        print("-- Dataset informations --")
+        print("Number of testing examples: {}".format(len(test_dataset)))
+        print("--------------------------")
+
+        trainer = Trainer(model, device=device)
+
+        scorer = trainer.test(test_dataset, batch_size=batch_size)
+        print("Saving confusion matrix...")
+        scorer.plot_confusion_matrix(config_file+".png")
+        print(scorer.scores)
+        r = scorer.scores._asdict()
+        r["model"] = model.system
+        r["file"] = config_file
+        results.append(r)
+
+    if csv_file is not None:
+        import csv
+        writer = csv.DictWriter(csv_file, fieldnames=list(results[0].keys()))
+        writer.writeheader()
+        writer.writerows(results)
+
+
 @cli.command("tag")
 @click.argument("model", type=click.Path(exists=True, file_okay=True, dir_okay=False))
 @click.argument("filename", nargs=-1, type=click.File("r"))
@@ -205,6 +290,7 @@ def tag_check(config_model, content, device="cpu", batch_size=64):
         tokenizer = Seq2SeqTokenizer.load(model, device=device)
         print("Model loaded.")
         print(model + "\t" +" ".join(tokenizer.annotate_text(content, batch_size=batch_size)))
+
 
 @cli.command("graph")
 @click.argument("model", type=click.Path(exists=True, file_okay=True, dir_okay=False))
