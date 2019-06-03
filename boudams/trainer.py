@@ -128,13 +128,22 @@ class LRScheduler(object):
         self.lr_scheduler = optim.lr_scheduler.ReduceLROnPlateau(
             optimizer, mode=mode.value, **kwargs)  # Max because accuracy :)
         self.mode = mode
+        self.steps = 0
 
     def step(self, score):
+        scheduler_steps = self.lr_scheduler.num_bad_epochs
         self.lr_scheduler.step(getattr(score, self.mode.name))
+        # No change in number of bad epochs =
+        #   we are progressing
+        if scheduler_steps == self.lr_scheduler.num_bad_epochs:
+            self.steps = 0
+        # Otherwise, we are not
+        else:
+            self.steps += 1
 
-    @property
-    def steps(self):
-        return self.lr_scheduler.num_bad_epochs
+        if self.steps >= self.patience * 2:
+            # If we haven't progressed even by lowering twice
+            raise EarlyStopException("No progress for %s , stoping now... " % self.steps)
 
     @property
     def patience(self):
@@ -230,10 +239,6 @@ class Trainer(object):
 
                 # Run a check on saving the current model
                 best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
-
-                # Advance Learning Rate if needed
-                lr_scheduler.step(dev_score)
-
                 print(f'\tTrain Loss: {train_score.loss:.3f} | Perplexity: {train_score.perplexity:7.3f} | '
                       f' Acc.: {train_score.accuracy:.3f} | '
                       f' Lev.: {train_score.leven:.3f} | '
@@ -245,6 +250,9 @@ class Trainer(object):
                       f' Lev. / char: {dev_score.leven_per_char:.3f}')
                 print(lr_scheduler)
                 print()
+
+                # Advance Learning Rate if needed
+                lr_scheduler.step(dev_score)
 
                 if lr_scheduler.steps >= lr_patience and lr_scheduler.lr < min_lr:
                     raise EarlyStopException()
@@ -260,6 +268,7 @@ class Trainer(object):
                 break
             except EarlyStopException:
                 print("Reached plateau for too long, stopping.")
+                break
 
         best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
 
