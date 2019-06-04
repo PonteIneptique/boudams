@@ -8,6 +8,7 @@ models/
 /*.tar
 /*.csv
 /bfmmss*.png
+/latin*.png
 
 
 *.~lock.*
