@@ -20,7 +20,7 @@
 
 \maketitle
 
-\abstract{Tokenization of modern and old Western European languages seems to be fairly simple as it stands on the presence mostly of markers such as spaces and punctuation. Although, when dealing with old sources like manuscript written in \textit{scripta continua}, (1) such markers are mostly absent, (2) spelling variation and rich morphology makes dictionary based approaches difficult. We show that applying convolutional encoding to characters followed by linear categorization to word-boundary or in-word-sequence can be used to tokenize such inputs. Additionally, we release a software with a rather simple interface for tokenizing one's corpus.}
+\abstract{Tokenization of modern and old Western European languages seems to be fairly simple as it stands on the presence mostly of markers such as spaces and punctuation. Although, when dealing with old sources like manuscript written in \textit{scripta continua} or later manuscripts, (1) such markers are mostly absent, (2) spelling variation and rich morphology makes dictionary based approaches difficult. We show that applying convolutional encoding to characters followed by linear categorization to word-boundary or in-word-sequence can be used to tokenize such inputs. Additionally, we release a software with a rather simple interface for tokenizing one's corpus.}
 
 \keywords{convolutional network; scripta continua; tokenization; Old French; word segmentation}
 
@@ -119,25 +119,25 @@ P WITH STROKE THROUGH DESCENDER & 580           & 69          & 84           \\ 
 
 \subsubsection{Results}
 
-The training parameters was 0.00005 in learning rate for each CNN model and 0.001 for the LSTM one, and 64 in batch sizes. Training reached a plateau fairly quickly for each model (\textit{cf.} \ref{fig:loss}). Each model except LSTM reached a really low loss and a high accuracy on the test set (\textit{cf.} \ref{tab:scores})
+The training parameters was 0.00005 in learning rate for each CNN model and 0.001 for the LSTM one, and 64 in batch sizes. Training reached a plateau fairly quickly for each model (\textit{cf.} \ref{fig:loss}). Each model except LSTM reached a really low loss and a high accuracy on the test set (\textit{cf.} \ref{tab:scores}). To compare the results, we used the \texttt{wordsegment} package \citet{WordSegment} as a baseline.
 
 \begin{figure}[!ht]
   \begin{center}
     \begin{tikzpicture}
       \begin{axis}[
           width=\linewidth, % Scale the plot to \linewidth
-          grid=major, 
+          grid=major,
           grid style={dashed,gray!30},
           xlabel=Epoch, % Set the labels
           ylabel=Accuracy,
           legend style={at={(0.5,-0.2)},anchor=north},
           x tick label style={rotate=90,anchor=east}
         ]
-        \addplot table[x=Epoch,y=CNN 1,col sep=comma] {accuracies.csv}; 
-        \addplot table[x=Epoch,y=CNN L,col sep=comma] {accuracies.csv}; 
-        \addplot table[x=Epoch,y=CNN w/o P,col sep=comma] {accuracies.csv}; 
-        \addplot table[x=Epoch,y=CNN N,col sep=comma] {accuracies.csv}; 
-        \addplot table[x=Epoch,y=CNN L N,col sep=comma] {accuracies.csv}; 
+        \addplot table[x=Epoch,y=CNN 1,col sep=comma] {accuracies.csv};
+        \addplot table[x=Epoch,y=CNN L,col sep=comma] {accuracies.csv};
+        \addplot table[x=Epoch,y=CNN w/o P,col sep=comma] {accuracies.csv};
+        \addplot table[x=Epoch,y=CNN N,col sep=comma] {accuracies.csv};
+        \addplot table[x=Epoch,y=CNN L N,col sep=comma] {accuracies.csv};
         \legend{CNN, CNN L, CNN P, CNN N, CNN L N}
       \end{axis}
     \end{tikzpicture}
@@ -150,16 +150,35 @@ The training parameters was 0.00005 in learning rate for each CNN model and 0.00
 \centering
 \begin{tabular}{lllll}
 \hline
-Model   & Accuracy & Precision & Recall & FScore \\ \hline
-CNN     & 0.991    & 0.985     & 0.990  & 0.987  \\
-CNN L   & 0.991    & 0.979     & 0.990  & 0.985  \\
-CNN P   & \textbf{0.993}    & \textbf{0.990}& \textbf{0.991}  & \textbf{0.990}  \\
-CNN N   & 0.991    & 0.987     & 0.988  & 0.988  \\
-CNN L N & 0.992    & 0.988     & 0.989  & 0.988  \\
-LSTM    & 0.741    & 0.184     & 0.500  & 0.269  \\ \hline
+Model    & Accuracy & Precision & Recall & FScore \\ \hline
+Baseline & 0.989    & 0.986     & 0.984  & 0.985 \\
+CNN      & 0.991    & 0.985     & 0.990  & 0.987  \\
+CNN L    & 0.991    & 0.979     & 0.990  & 0.985  \\
+CNN P    & \textbf{0.993}    & \textbf{0.990}& \textbf{0.991}  & \textbf{0.990}  \\
+CNN N    & 0.991    & 0.987     & 0.988  & 0.988  \\
+CNN L N  & 0.992    & 0.988     & 0.989  & 0.988  \\
+LSTM     & 0.741    & 0.184     & 0.500  & 0.269  \\ \hline
 \end{tabular}
 \caption{Scores over the test dataset. N = normalized, L = Lower, P = no position embedding.}
 \label{tab:scores}
+\end{table}
+
+\subsubsection{Unknown texts}
+
+While all model using CNN shows improvement over the baseline, the model definitely does not outperform it by a huge margin (\textless 0.02 FScore). And for a reason : the baseline already performs nearly perfectly on the test corpus. The dictionary attack using n-grams did actually perform well. As a result, we wanted to compare how both models would perform on a secondary test corpus composed by texts that were not used in training: indeed, the training, dev and test corpus share the same texts while not sharing the same inputs. As a result, we created a new corpus with 4 texts and 742 samples : the diplomatic edition of the Graal \citet{graal}, a Passion and a Vie de Saint Leger \citet{old_french_corpus}, a Vie de Saint Thibaut \citet{theobaldus}. No noise characters and no random keeping of words were applied.
+
+The results here were highly different (\textit{cf.} Table \ref{tab:scores_unknown}): while it appears that the CNN is able to expand its "comprehension" of the language to newer texts, the new words are more difficult to take into account for the baseline \texttt{wordsegment} n-gram approach, resulting in a respective drop to 0.945 and 0.838 FScore. WordSegment specifically performed badly with WB false positives : it had 3658 over a corpus containing 10,193 WB token (around 35 \%).
+
+\begin{table}[!ht]
+\centering
+\begin{tabular}{lllllll}
+\hline
+ & Accuracy & Precision & Recall & FScore & WB as WC & WC as WB \\ \hline
+Baseline & 0.882 & 0.893 & 0.808 & 0.838 & 3658 & 644 \\
+CNN P & \textbf{0.957} & \textbf{0.948} & \textbf{0.944} & \textbf{0.945} & \textbf{854} & \textbf{723} \\ \hline
+\end{tabular}
+\caption{Scores over the unknown dataset. WB as WC and WC as WB are taken from the confusion matrices}
+\label{tab:scores_unknown}
 \end{table}
 
 \subsubsection{Example of outputs}
@@ -183,6 +202,8 @@ Aies joie et leesce en ton cuer car tu auras une fille qui aura .i. fil qui sera
 We believe that, aside from a graphical challenge, word segmentation in OCR from manuscripts can actually be treated from a text point of view and as a NLP task. Word segmentation for some text can be even difficult for humanist, and as such, we believe that post-processing of OCR through tools like Boudams can be a better way to achieve data-mining of the dataset. In light of the high accuracy of the model, we believe the model should perform the same way independently from the language in Medieval Western Europe.
 
 We were surprised by the negligible effects of the different normalization methods (lower-casing; ASCII reduction; both). The presence of certain MUFI characters might provide enough information about segmentation and be in enough numbers for them not to impact the network weights.
+
+While the baseline surprised us by performing this well on the test corpus, it definitely performed less well than the CNN on a completely unknown corpus: in this context, the proposed model actually shows its ability to carry over unknown corpora in a better way than classical ngram approaches.
 
 \subsection{Conclusion}
 
