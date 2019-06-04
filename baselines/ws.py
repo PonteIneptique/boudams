@@ -5,7 +5,8 @@ import json
 
 import wordsegment as ws
 
-json_cache = os.path.join(os.path.dirname(__file__), "ws_cache.json")
+corpus = "fro"
+json_cache = os.path.join(os.path.dirname(__file__), corpus+"_" + "ws_cache.json")
 
 
 # Generate N-Gram pairs
@@ -55,7 +56,7 @@ def match(segmenter: ws.Segmenter, x: str, truth: str) -> Tuple[Tuple[int, int]]
 
 # Load datasets
 text = []
-with open(os.path.join(os.path.dirname(__file__), "..", "datasets", "fro", "train.tsv")) as input_text:
+with open(os.path.join(os.path.dirname(__file__), "..", "datasets", corpus, "train.tsv")) as input_text:
     for line in input_text.readlines():
         inp, truth = tuple(line.strip().lower().split("\t"))
         text.extend(truth.split())
@@ -78,7 +79,7 @@ segmenter.limit = max(list(map(len, text)))
 # Load the test corpus
 test = []
 padding = 0
-with open(os.path.join(os.path.dirname(__file__), "..", "datasets", "fro", "test.tsv")) as input_text:
+with open(os.path.join(os.path.dirname(__file__), "..", "datasets", corpus, "test.tsv")) as input_text:
     for line in input_text.readlines():
         inp, truth = tuple(line.strip().lower().split("\t"))
         test.extend([(inp, truth)])
@@ -104,9 +105,50 @@ else:
         results = json.load(f)
 
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support, confusion_matrix
-print("Accuracy:", accuracy_score(results["truth"], results["pred"]))
-print("Precision, Recall, FScore, Support", precision_recall_fscore_support(results["truth"], results["pred"], average="macro"))
-print("Matrix", confusion_matrix(results["truth"], results["pred"]))
+print("- Accuracy: ", accuracy_score(results["truth"], results["pred"]))
+p, r, f, _ = precision_recall_fscore_support(results["truth"], results["pred"], average="macro")
+print("- Precision: ", p)
+print("- Recall: ", r)
+print("- FScore: ", f)
+print("- Matrix", confusion_matrix(results["truth"], results["pred"]))
 
 with open(os.path.join(os.path.dirname(__file__), "..", "article", "input.txt")) as input_text:
-    print("Completely unknown text", " ".join(segmenter.segment(input_text.read())))
+    print("Completely unknown text \n >", " ".join(segmenter.segment(input_text.read())))
+
+
+########################################
+##
+#
+#
+# Unknown text
+#
+#
+##
+########################################
+
+test = []
+padding = 0
+with open(os.path.join(os.path.dirname(__file__), "..", "datasets", corpus, "unknown.tsv")) as input_text:
+    for line in input_text.readlines():
+        inp, truth = tuple(line.strip().lower().split("\t"))
+        test.extend([(inp, truth)])
+        padding = max(len(truth), padding)
+
+results = list([
+    res
+    for x, y in test
+    for res in match(segmenter, x, y)
+])
+truth, pred = zip(*results)
+results = {
+    "truth": truth,
+    "pred": pred
+}
+
+print("- Accuracy: ", accuracy_score(results["truth"], results["pred"]))
+p, r, f, _ = precision_recall_fscore_support(results["truth"], results["pred"], average="macro")
+print("- Precision: ", p)
+print("- Recall: ", r)
+print("- FScore: ", f)
+print("- Matrix", confusion_matrix(results["truth"], results["pred"]))
+
