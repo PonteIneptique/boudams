@@ -5,7 +5,7 @@ import json
 
 import wordsegment as ws
 
-corpus = "latin_epigraphy"
+corpus = "latin_epigraphy_uppercase"
 json_cache = os.path.join(os.path.dirname(__file__), corpus+"_" + "ws_cache.json")
 
 
@@ -19,7 +19,7 @@ def pairs(iterable):
         del values[0]
 
 
-# The segmenter requires a clean up function. Normaly, it strips ponctuation
+# The segmenter requires a clean up function. Normally, it strips ponctuation
 # We overwrite the clean-up by not cleaning up
 def identity(value):
     return value
@@ -62,7 +62,12 @@ with open(os.path.join(os.path.dirname(__file__), "..", "datasets", corpus, "tra
         text.extend(truth.split())
 
 # Change the segmenter information
-segmenter = ws.Segmenter()
+class Segmenter(ws.Segmenter):
+    def clean(cls, text):
+        return identity(text)
+
+
+segmenter = Segmenter()
 
 # Generate the dictionary and set-up the segmenter
 segmenter.unigrams.clear()
@@ -73,7 +78,6 @@ segmenter.words = list(set(text))
 
 
 segmenter.total = float(sum(segmenter.unigrams.values()))
-segmenter.clean = identity
 segmenter.limit = max(list(map(len, text)))
 
 # Load the test corpus
