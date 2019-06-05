@@ -1,0 +1,28 @@
+{
+    "name": "bfmmss-conv-lower",
+    "max_sentence_size": 150,
+    "network": {
+        "emb_enc_dim": 256,
+        "enc_n_layers": 10,
+        "enc_kernel_size": 5,
+        "enc_dropout": 0.25
+    },
+    "model": "linear-conv",
+    "batch_size": 64,
+    "learner": {
+        "lr_grace_periode": 2,
+        "lr_patience": 2,
+        "lr": 0.00005,
+        "lr_factor": 0.5
+    },
+    "label_encoder": {
+        "normalize": false,
+        "lower": true
+    },
+    "datasets": {
+        "test": "./datasets/fro/test.tsv",
+        "train": "./datasets/fro/train.tsv",
+        "dev": "./datasets/fro/dev.tsv",
+        "random": false
+    }
+}

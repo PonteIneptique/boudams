@@ -1,0 +1,29 @@
+{
+    "name": "bfmmss-lstm",
+    "max_sentence_size": 150,
+    "network": {
+        "emb_enc_dim": 512,
+        "enc_kernel_size": 5,
+        "enc_dropout": 0.5,
+        "enc_hid_dim": 512,
+        "enc_n_layers": 10
+    },
+    "model": "linear-lstm",
+    "batch_size": 32,
+    "learner": {
+        "lr_grace_periode": 2,
+        "lr_patience": 2,
+        "lr": 0.001,
+        "lr_factor": 0.5
+    },
+    "label_encoder": {
+        "normalize": false,
+        "lower": false
+    },
+    "datasets": {
+        "test": "./datasets/fro/test.tsv",
+        "train": "./datasets/fro/train.tsv",
+        "dev": "./datasets/fro/dev.tsv",
+        "random": false
+    }
+}

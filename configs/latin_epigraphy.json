@@ -1,0 +1,28 @@
+{
+    "name": "latin-epigraphy",
+    "max_sentence_size": 250,
+    "network": {
+        "emb_enc_dim": 256,
+        "enc_n_layers": 10,
+        "enc_kernel_size": 5,
+        "enc_dropout": 0.25
+    },
+    "model": "linear-conv-no-pos",
+    "batch_size": 64,
+    "learner": {
+        "lr_grace_periode": 2,
+        "lr_patience": 2,
+        "lr": 0.00005,
+        "lr_factor": 0.5
+    },
+    "label_encoder": {
+        "normalize": false,
+        "lower": false
+    },
+    "datasets": {
+        "test": "./datasets/latin_epigraphy/test.tsv",
+        "train": "./datasets/latin_epigraphy/train.tsv",
+        "dev": "./datasets/latin_epigraphy/dev.tsv",
+        "random": false
+    }
+}

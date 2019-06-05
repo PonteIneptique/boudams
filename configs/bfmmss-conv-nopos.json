@@ -1,0 +1,28 @@
+{
+    "name": "bfmmss-conv-nopos",
+    "max_sentence_size": 250,
+    "network": {
+        "emb_enc_dim": 256,
+        "enc_n_layers": 10,
+        "enc_kernel_size": 5,
+        "enc_dropout": 0.25
+    },
+    "model": "linear-conv-no-pos",
+    "batch_size": 64,
+    "learner": {
+        "lr_grace_periode": 2,
+        "lr_patience": 2,
+        "lr": 0.00005,
+        "lr_factor": 0.5
+    },
+    "label_encoder": {
+        "normalize": false,
+        "lower": false
+    },
+    "datasets": {
+        "test": "./datasets/bigger_fro/test.tsv",
+        "train": "./datasets/bigger_fro/train.tsv",
+        "dev": "./datasets/bigger_fro/dev.tsv",
+        "random": false
+    }
+}
