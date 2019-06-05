@@ -1,0 +1,4 @@
+*.xml
+/txt
+/gt
+gt.tsv
