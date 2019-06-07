@@ -94,6 +94,8 @@ class Seq2SeqTokenizer:
                     kernel_size=self.enc_kernel_size
                 )
             in_features = self.emb_enc_dim
+            # This model does not need sentence length
+            self.out_max_sentence_length = None
         else:
             self.enc: linear.CNNEncoder = linear.LinearEncoderCNN(
                     self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
@@ -193,20 +195,17 @@ class Seq2SeqTokenizer:
         strings = ["".join(tempList[n:n + 2]) for n in range(0, len(splits), 2)]
         strings = list(filter(len, strings))
 
-        treated = []
-        max_size = self.out_max_sentence_length - 5
-        for string in strings:
-            if len(string) > max_size:
-                treated.extend([
-                    "".join(string[n:n + max_size])
-                    for n in range(0, len(string), max_size)
-                ])
-            else:
-                treated.append(string)
+        if self.out_max_sentence_length:
+            treated = []
+            max_size = self.out_max_sentence_length - 5
+            for string in strings:
+                if len(string) > max_size:
+                    treated.extend([
+                        "".join(string[n:n + max_size])
+                        for n in range(0, len(string), max_size)
+                    ])
+                else:
+                    treated.append(string)
+            strings = treated
 
-        for string in treated:
-            if len(string) > max_size:
-                print(len(string))
-                print(string)
-
-        yield from self.annotate(treated, batch_size=batch_size)
+        yield from self.annotate(strings, batch_size=batch_size)
