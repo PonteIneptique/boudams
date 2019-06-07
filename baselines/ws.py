@@ -5,7 +5,7 @@ import json
 
 import wordsegment as ws
 
-corpus = "latin_epigraphy_uppercase"
+corpus = "fro"
 json_cache = os.path.join(os.path.dirname(__file__), corpus+"_" + "ws_cache.json")
 
 
@@ -90,7 +90,7 @@ with open(os.path.join(os.path.dirname(__file__), "..", "datasets", corpus, "tes
         padding = max(len(truth), padding)
 
 # If compute is True, recompute the data without using the cache
-compute = True
+compute = False
 if compute:
     results = list([
         res
