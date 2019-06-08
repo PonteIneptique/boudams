@@ -24,7 +24,6 @@ class Encoder(nn.Module):
     def forward(self, src, src_len):
 
         # src = [src sent len, batch size]
-
         embedded = self.dropout(self.embedding(src))
 
         # embedded = [src sent len, batch size, emb dim]
