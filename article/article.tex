@@ -9,8 +9,8 @@
 
 \title{Evaluating Deep Learning Methods for Tokenization of Space-less texts in Old French and Latin}
 \author[1]{Thibault Clérice}
-\affil[1]{École nationale des Chartes, France}
-\affil[2]{Université Lyon 3, France}
+\affil[1]{École nationale des Chartes, France} 
+\affil[2]{Université Lyon 3, France} 
 
 \corrauthor{Thibault Clérice}{thibault.clerice@chartes.psl.eu}
 
@@ -126,19 +126,20 @@ The training parameters were 0.00005 in learning rate for each CNN model, 0.001 
     \begin{tikzpicture}
       \begin{axis}[
           width=\linewidth, % Scale the plot to \linewidth
-          grid=major,
+          grid=major, 
           grid style={dashed,gray!30},
           xlabel=Epoch, % Set the labels
           ylabel=Accuracy,
           legend style={at={(0.5,-0.2)},anchor=north},
           x tick label style={rotate=90,anchor=east}
         ]
-        \addplot table[x=Epoch,y=CNN 1,col sep=comma] {accuracies.csv};
-        \addplot table[x=Epoch,y=CNN L,col sep=comma] {accuracies.csv};
-        \addplot table[x=Epoch,y=CNN w/o P,col sep=comma] {accuracies.csv};
-        \addplot table[x=Epoch,y=CNN N,col sep=comma] {accuracies.csv};
-        \addplot table[x=Epoch,y=CNN L N,col sep=comma] {accuracies.csv};
-        \legend{CNN, CNN L, CNN P, CNN N, CNN L N}
+        \addplot table[x=Epoch,y=CNN 1,col sep=comma] {accuracies.csv}; 
+        \addplot table[x=Epoch,y=CNN L,col sep=comma] {accuracies.csv}; 
+        \addplot table[x=Epoch,y=CNN w/o P,col sep=comma] {accuracies.csv}; 
+        \addplot table[x=Epoch,y=CNN N,col sep=comma] {accuracies.csv}; 
+        \addplot table[x=Epoch,y=CNN L N,col sep=comma] {accuracies.csv}; 
+        \addplot table[x=Epoch,y=LSTM,col sep=comma] {accuracies.csv}; 
+        \legend{CNN, CNN L, CNN P, CNN N, CNN L N, LSTM}
       \end{axis}
     \end{tikzpicture}
     \caption{Training Loss (Cross-entropy) until plateau was reached. N = normalized, L = Lower, P = no position embedding. LSTM was removed as it did not go below 0.65}
@@ -157,7 +158,7 @@ CNN L    & 0.991    & 0.979     & 0.990  & 0.985 & \textbf{2117} & 3750 \\
 CNN P    & \textbf{0.993}    & \textbf{0.990}& \textbf{0.991}  & \textbf{0.990} & 2432 & \textbf{2114} \\
 CNN N    & 0.991    & 0.987     & 0.988  & 0.988 & 2756 & 3312 \\
 CNN L N  & 0.992    & 0.988     & 0.989  & 0.988 & 2500 & 3567 \\
-LSTM     & 0.741    & 0.184     & 0.500  & 0.269 & 169094 & 0 \\ \hline
+LSTM     & 0.939    & 0.637     & 0.918  & 0.720 & 21174 & 18662 \\ \hline
 \end{tabular}
 \caption{Scores over the test dataset. \\\hspace{\textwidth}For models: N = normalized, L = Lower, P = no position embedding. \\\hspace{\textwidth}In headers, FN = False Negative, FP = False Positive}
 \label{tab:scores}
@@ -270,7 +271,7 @@ The medieval Latin corpora is based on the project Formulae - Litterae - Chartae
 \textbf{Example:}
 
 \begin{itemize}
-    \item Input : nonparvamremtibi
+    \item Input : nonparvamremtibi	
     \item Output : non parvam rem tibi
 
 \end{itemize}
@@ -313,7 +314,7 @@ The epigraphic Latin corpora is based on the Epigraphic Database Heidelberg open
 \textbf{Example:}
 
 \begin{itemize}
-    \item Input : DnFlClIuliani
+    \item Input : DnFlClIuliani	
     \item Output : D n Fl Cl Iuliani
 \end{itemize}
 
@@ -321,13 +322,13 @@ The epigraphic Latin corpora is based on the Epigraphic Database Heidelberg open
 
 Aside from a graphical challenge, word segmentation in OCR from manuscripts can actually be treated as a NLP task. Word segmentation for some text can be even difficult for humanist, as shown by the manuscript sample, and as such, it seems that the post-processing of OCR through tools like this one can be a better way to achieve data-mining of raw datasets.
 
-The negligible effects of the different normalization methods (lower-casing; ASCII reduction; both) were surprising. The presence of certain MUFI characters might provide enough information about segmentation and be of sufficient quantity for them not to impact the network weights.
+The negligible effects of the different normalization methods (lower-casing; ASCII reduction; both) were surprising. The presence of certain MUFI characters might provide enough information about segmentation and be of sufficient quantity for them not to impact the network weights. 
 
 While the baseline performed unexpectedly well on the test corpus, the CNN model definitely performed better on a completely unknown corpus. In this context, the proposed model actually shows its ability to carry over unknown corpora in a better way than classical n-gram approaches. In light of the high accuracy of the CNN model, the model should perform the same way independently of the language in Medieval Western Europe,.
 
 \subsection{Conclusion}
 
-Achieving 0.99 accuracy on word segmentation with a corpus as large as 25,000 test samples seems to be the first step for a more thorough data mining of OCRed manuscript. Given the results, studying the importance of normalization and lowering should probably be a further step, as it might be of high influence in smaller corpora.
+Achieving 0.99 accuracy on word segmentation with a corpus as large as 25,000 test samples seems to be the first step for a more thorough data mining of OCRed manuscript. Given the results, studying the importance of normalization and lowering should probably be a further step, as it might be of high influence in smaller corpora. 
 
 \subsection{Acknowledgements}
 
