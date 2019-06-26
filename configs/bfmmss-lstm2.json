@@ -2,10 +2,10 @@
     "name": "bfmmss-lstm",
     "max_sentence_size": 150,
     "network": {
-        "emb_enc_dim": 256,
+        "emb_enc_dim": 128,
         "enc_dropout": 0.1,
-        "enc_hid_dim": 256,
-        "enc_n_layers": 3
+        "enc_hid_dim": 128,
+        "enc_n_layers": 2
     },
     "model": "linear-lstm",
     "batch_size": 32,

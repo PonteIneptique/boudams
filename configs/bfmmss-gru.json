@@ -1,18 +1,18 @@
 {
-    "name": "bfmmss-lstm",
+    "name": "bfmmss-gru",
     "max_sentence_size": 150,
     "network": {
         "emb_enc_dim": 256,
         "enc_dropout": 0.1,
         "enc_hid_dim": 256,
-        "enc_n_layers": 3
+        "enc_n_layers": 2
     },
-    "model": "linear-lstm",
+    "model": "linear-gru",
     "batch_size": 32,
     "learner": {
         "lr_grace_periode": 2,
         "lr_patience": 2,
-        "lr": 0.0005,
+        "lr": 0.00005,
         "lr_factor": 0.5
     },
     "label_encoder": {

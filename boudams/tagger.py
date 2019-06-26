@@ -85,6 +85,13 @@ class Seq2SeqTokenizer:
                     dropout=self.enc_dropout
                 )
             in_features = self.enc_hid_dim
+        elif self.system.endswith("-gru"):
+            self.enc: linear.BiGruEncoder = linear.BiGruEncoder(
+                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
+                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
+                    dropout=self.enc_dropout
+                )
+            in_features = self.enc_hid_dim
         elif self.system.endswith("-conv-no-pos"):
             self.enc: linear.LinearEncoderCNNNoPos = linear.LinearEncoderCNNNoPos(
                     self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
