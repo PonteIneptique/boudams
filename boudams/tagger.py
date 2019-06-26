@@ -5,13 +5,13 @@ import os
 import json
 import tarfile
 import logging
-import re
-from typing import List, Tuple
+import regex as re
+from typing import List
 
-from boudams.model import lstm, bidir, conv, linear
+from boudams.model import linear
 from boudams import utils
 
-from .encoder import LabelEncoder, DatasetIterator
+from .encoder import LabelEncoder
 
 
 teacher_forcing_ratio = 0.5
@@ -20,7 +20,7 @@ DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 MAX_LENGTH = 150
 
 
-class Seq2SeqTokenizer:
+class BoudamsTagger:
     def __init__(
             self,
             vocabulary: LabelEncoder,
@@ -166,7 +166,10 @@ class Seq2SeqTokenizer:
             with utils.tmpfile() as tmppath:
                 tar.extract('state_dict.pt', path=tmppath)
                 dictpath = os.path.join(tmppath, 'state_dict.pt')
-                obj.model.load_state_dict(torch.load(dictpath))
+                if device == "cpu":
+                    obj.model.load_state_dict(torch.load(dictpath, map_location=device))
+                else:
+                    obj.model.load_state_dict(torch.load(dictpath))
 
         obj.model.eval()
 

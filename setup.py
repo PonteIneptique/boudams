@@ -19,7 +19,7 @@ DESCRIPTION = 'A framework and toolkit for automatic segmentation'
 URL = 'https://github.com/ponteineptique/boudams'
 AUTHOR = ' Thibault Clérice'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = "0.0.2"
+VERSION = "0.0.3"
 
 # What packages are required for this module to be executed?
 

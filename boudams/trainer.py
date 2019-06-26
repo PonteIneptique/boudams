@@ -22,7 +22,7 @@ import tqdm
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 from leven import levenshtein
 
-from boudams.tagger import Seq2SeqTokenizer, DEVICE
+from boudams.tagger import BoudamsTagger, DEVICE
 from boudams.encoder import DatasetIterator
 import boudams.utils as utils
 import os
@@ -47,7 +47,7 @@ class Scorer(object):
     """
     Accumulate predictions over batches and compute evaluation scores
     """
-    def __init__(self, tagger: Seq2SeqTokenizer, masked: bool = False, record: bool = False):
+    def __init__(self, tagger: BoudamsTagger, masked: bool = False, record: bool = False):
         """
 
         :param tagger: Tagger
@@ -56,7 +56,7 @@ class Scorer(object):
         """
         self.hypotheses = []
         self.targets = []
-        self.tagger: Seq2SeqTokenizer = tagger
+        self.tagger: BoudamsTagger = tagger
         self.tokens = []  # Should be trues as tokens
         self.trues = []
         self.preds = []
@@ -202,7 +202,7 @@ class LRScheduler(object):
 
 
 class Trainer(object):
-    def __init__(self, tagger: Seq2SeqTokenizer, device: str = DEVICE):
+    def __init__(self, tagger: BoudamsTagger, device: str = DEVICE):
         self.tagger = tagger
         self.device = device
         self.debug = False
@@ -220,7 +220,7 @@ class Trainer(object):
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
             _seed: int = 1234, fpath: str = "model.tar",
             mode="loss",
-            debug: Callable[[Seq2SeqTokenizer], None] = None
+            debug: Callable[[BoudamsTagger], None] = None
     ):
         if _seed:
             random.seed(_seed)

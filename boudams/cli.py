@@ -4,7 +4,7 @@ import tqdm
 import json
 import datetime
 
-from boudams.tagger import Seq2SeqTokenizer
+from boudams.tagger import BoudamsTagger
 from boudams.trainer import Trainer
 from boudams.encoder import LabelEncoder, DatasetIterator
 
@@ -198,7 +198,7 @@ def train(config_files, epochs, batch_size, device, debug):
         print("Number of testing examples: {}".format(len(test_dataset)))
         print("--------------------------")
 
-        tagger = Seq2SeqTokenizer(
+        tagger = BoudamsTagger(
             vocabulary,
             device=device, system=config["model"], out_max_sentence_length=config["max_sentence_size"],
             **config["network"])
@@ -230,7 +230,7 @@ def test(test_path, model_tar, csv_file, batch_size, device, debug):
 
     results = []
     for config_file in model_tar:
-        model = Seq2SeqTokenizer.load(config_file, device=device)
+        model = BoudamsTagger.load(config_file, device=device)
 
         # Get the datasets
         test_dataset: DatasetIterator = model.vocabulary.get_dataset(test_path)
@@ -265,7 +265,7 @@ def test(test_path, model_tar, csv_file, batch_size, device, debug):
 def tag(model, filename, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     print("Loading the model.")
-    model = Seq2SeqTokenizer.load(model, device=device)
+    model = BoudamsTagger.load(model, device=device)
     print("Model loaded.")
     remove_line = True
     spaces = re.compile("\s+")
@@ -287,7 +287,7 @@ def tag_check(config_model, content, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     for model in config_model:
         print("Loading the model.")
-        tokenizer = Seq2SeqTokenizer.load(model, device=device)
+        tokenizer = BoudamsTagger.load(model, device=device)
         print("Model loaded.")
         print(model + "\t" +" ".join(tokenizer.annotate_text(content, batch_size=batch_size)))
 
@@ -307,7 +307,7 @@ def graph(model, output, format):
     import torch
 
     print("Loading the model.")
-    model = Seq2SeqTokenizer.load(model, device="cpu")
+    model = BoudamsTagger.load(model, device="cpu")
     print("Model loaded.")
 
     tensor = torch.ones((model.out_max_sentence_length,), dtype=torch.float64)
