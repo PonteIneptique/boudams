@@ -9,10 +9,6 @@ The initial dataset is pretty small but if you want to build with your own, it's
 following shape : `"samesentence<TAB>same sentence"` where the first element is the same than the second but with no
 space and they are separated by tabs (`\t`, marked here as `<TAB>`).
 
-Things needs a little more tweaks here and there again, I'd like to see how Attention will perform. This model is 
-particulary built for OCR/HTR output from manuscripts where spaces are inconsistent.
-
-
 The best architecture I find for medieval French was Conv to Linear using token categorization (WordBoundary vs 
 WordContent).
 
