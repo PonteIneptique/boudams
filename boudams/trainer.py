@@ -9,7 +9,7 @@ import statistics
 import logging
 
 from collections import namedtuple
-from typing import Callable
+from typing import Callable, List, Tuple
 
 
 import torch
@@ -19,8 +19,7 @@ import torch.optim as optim
 import tqdm
 
 
-from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
-from leven import levenshtein
+from sklearn.metrics import confusion_matrix, precision_recall_fscore_support
 
 from boudams.tagger import BoudamsTagger, DEVICE
 from boudams.encoder import DatasetIterator
@@ -29,7 +28,7 @@ import os
 
 INVALID = "<INVALID>"
 DEBUG = bool(os.getenv("DEBUG"))
-Score = namedtuple("Score", ["loss", "perplexity", "accuracy", "leven", "leven_per_char", "scorer"])
+Score = namedtuple("Score", ["loss", "accuracy", "precision", "recall", "fscore", "scorer"])
 
 
 class PlateauModes(enum.Enum):
@@ -62,8 +61,7 @@ class Scorer(object):
         self.preds = []
         self.srcs = []
 
-        self._score_tuple = namedtuple("scores", ["accuracy", "leven", "leven_per_char",
-                                                  "precision", "recall", "fscore"])
+        self._score_tuple = namedtuple("scores", ["accuracy", "precision", "recall", "fscore"])
         self.scores = None
         self.masked: bool = masked
 
@@ -86,14 +84,13 @@ class Scorer(object):
         )
         plt.savefig(path)
 
-    def compute(self):
-        levenshteins = []
-        leven_per_char = []
-
+    def compute(self) -> "Scorer":
         unrolled_trues = list([y_char for y_sent in self.trues for y_char in y_sent])
         unrolled_preds = list([y_char for y_sent in self.preds for y_char in y_sent])
 
-        matrix = confusion_matrix(unrolled_trues, unrolled_preds,
+        matrix = confusion_matrix(
+            unrolled_trues,
+            unrolled_preds,
             labels=[self.tagger.vocabulary.space_token_index, self.tagger.vocabulary.mask_token_index]
         )
         # Accuracy score takes into account PAD, EOS and SOS so we get the data from the confusion matrix
@@ -108,42 +105,14 @@ class Scorer(object):
             labels=[self.tagger.vocabulary.space_token_index, self.tagger.vocabulary.mask_token_index]
         )
 
-        for tr_true, tr_pred in zip(
-            self.tagger.vocabulary.transcribe_batch(
-                self.tagger.vocabulary.reverse_batch(self.trues, ignore=(self.tagger.vocabulary.pad_token_index, ),
-                                                     masked=self.srcs)
-            ),
-            self.tagger.vocabulary.transcribe_batch(
-                self.tagger.vocabulary.reverse_batch(self.preds, ignore=(self.tagger.vocabulary.pad_token_index, ),
-                                                     masked=self.srcs)
-            )
-        ):
-            levenshteins.append(levenshtein(tr_true, tr_pred))
-            leven_per_char.append(levenshteins[-1] / len(tr_true))
-            if DEBUG and random.random() < 0.05:
-                logging.debug("EXP:" + "".join(tr_true))
-                logging.debug("OUT:" + "".join(tr_pred))
-                logging.debug("---")
+        self.scores = self._score_tuple(accuracy, precision, recall, fscore)
 
-        self.scores = self._score_tuple(accuracy,
-                                        statistics.mean(levenshteins),
-                                        statistics.mean(leven_per_char),
-                                        precision, recall, fscore)
+        return self
 
     def get_accuracy(self) -> float:
         if not self.scores:
             self.compute()
         return self.scores.accuracy
-
-    def avg_levenshteins(self) -> float:
-        if not self.scores:
-            self.compute()
-        return self.scores.leven
-
-    def avg_levenshteins_per_char(self) -> float:
-        if not self.scores:
-            self.compute()
-        return self.scores.leven_per_char
 
     def register_batch(self, hypotheses, targets, src):
         """
@@ -213,6 +182,13 @@ class Trainer(object):
             best_score = current_score.loss
         return best_score
 
+    @staticmethod
+    def print_score(key: str, score: Score) -> None:
+        print(f'\t{key} Loss: {score.loss:.3f} | FScore: {score.fscore:.3f} | '
+              f' Acc.: {score.accuracy:.3f} | '
+              f' Prec.: {score.precision:.3f} | '
+              f' Recl.: {score.recall:.3f}')
+
     def run(
             self, train_dataset: DatasetIterator, dev_dataset: DatasetIterator,
             lr: float = 1e-3, min_lr: float = 1e-6, lr_factor: int = 0.75, lr_patience: float = 10,
@@ -244,7 +220,7 @@ class Trainer(object):
         fid = '/tmp/{}'.format(str(uuid.uuid1()))
         best_valid_loss = float("inf")
         # In case exception was run before eval
-        dev_score = Score(float("inf"), float("inf"), float("-inf"), float("inf"), float("inf"), None)
+        dev_score = Score(float("inf"), float("-inf"), float("-inf"), float("-inf"), float("-inf"), None)
 
         # Set up loss but ignore the loss when the token is <pad>
         #     where <pad> is the token for filling the vector to get same-sized matrix
@@ -269,26 +245,20 @@ class Trainer(object):
                     (
                         str(epoch),
                         # train
-                        str(train_score.loss), str(train_score.perplexity), str(train_score.accuracy),
-                            str(train_score.leven), str(train_score.leven_per_char),
+                        str(train_score.loss), str(train_score.accuracy), str(train_score.precision),
+                            str(train_score.recall), str(train_score.fscore),
                         # Dev
-                        str(dev_score.loss), str(dev_score.perplexity), str(dev_score.accuracy),
-                            str(dev_score.leven), str(dev_score.leven_per_char),
-                        "UNK", "UNK"
+                        str(dev_score.loss), str(dev_score.accuracy), str(dev_score.precision),
+                            str(dev_score.recall), str(dev_score.fscore),
+                        # Test
+                        "UNK", "UNK", "UNK", "UNK", "UNK"
                     )
                 )
 
                 # Run a check on saving the current model
                 best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
-                print(f'\tTrain Loss: {train_score.loss:.3f} | Perplexity: {train_score.perplexity:7.3f} | '
-                      f' Acc.: {train_score.accuracy:.3f} | '
-                      f' Lev.: {train_score.leven:.3f} | '
-                      f' Lev. / char: {train_score.leven_per_char:.3f}')
-
-                print(f'\t Val. Loss: {dev_score.loss:.3f} | Perplexity: {dev_score.perplexity:7.3f} | '
-                      f' Acc.: {dev_score.accuracy:.3f} | '
-                      f' Lev.: {dev_score.leven:.3f} | '
-                      f' Lev. / char: {dev_score.leven_per_char:.3f}')
+                self.print_score("Train", train_score)
+                self.print_score("Dev", dev_score)
                 print(lr_scheduler)
                 print()
 
@@ -355,21 +325,15 @@ class Trainer(object):
         return fpath
 
     @staticmethod
-    def init_csv_content():
+    def init_csv_content() -> List[Tuple[str, str, str, str, str, str, str, str, str, str, str, str, str, str, str, str]]:
         return [
             (
                 "Epoch",
-                "Train Loss", "Train Perplexity", "Train Accuracy", "Train Avg Leven", "Train Avg Leven Per Char",
-                "Dev Loss", "Dev Perplexity", "Dev Accuracy", "Dev Avg Leven", "Dev Avg Leven Per Char",
-                "Test Loss", "Test Perplexity"
+                "Train Loss", "Train Accuracy", "Train Precision", "Train Recall", "Train F1",
+                "Dev Loss", "Dev Accuracy", "Dev Precision", "Dev Recall", "Dev F1",
+                "Test Loss", "Test Accuracy", "Test Precision", "Test Recall", "Test F1"
             )
         ]
-
-    def _get_perplexity(self, loss):
-        try:
-            return math.exp(loss)
-        except:
-            return float("inf")
 
     def _train_epoch(self, iterator: DatasetIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
                      clip: float, desc: str, batch_size: int = 32) -> Score:
@@ -404,8 +368,13 @@ class Trainer(object):
             epoch_loss += loss.item()
 
         loss = epoch_loss / iterator.batch_count
-        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(),
-                     scorer.avg_levenshteins(), scorer.avg_levenshteins_per_char(), scorer=scorer)
+        scorer.compute()
+        return Score(loss,
+                     accuracy=scorer.scores.accuracy,
+                     precision=scorer.scores.precision,
+                     recall=scorer.scores.recall,
+                     fscore=scorer.scores.fscore,
+                     scorer=scorer)
 
     def evaluate(self, iterator: DatasetIterator, criterion: nn.CrossEntropyLoss,
                  desc: str, batch_size: int, test_mode=False) -> Score:
@@ -435,8 +404,13 @@ class Trainer(object):
 
         loss = epoch_loss / iterator.batch_count
 
-        return Score(loss, self._get_perplexity(loss), scorer.get_accuracy(),
-                     scorer.avg_levenshteins(), scorer.avg_levenshteins_per_char(), scorer=scorer)
+        scorer.compute()
+        return Score(loss,
+                     accuracy=scorer.scores.accuracy,
+                     precision=scorer.scores.precision,
+                     recall=scorer.scores.recall,
+                     fscore=scorer.scores.fscore,
+                     scorer=scorer)
 
     def test(self, test_dataset: DatasetIterator, batch_size: int = 256, do_print=True):
         # Set up loss but ignore the loss when the token is <pad>
@@ -447,8 +421,5 @@ class Trainer(object):
         scorer: Scorer = score_object.scorer
 
         if do_print:
-            print(f' Test Loss: {score_object.loss:.3f} | Perplexity: {score_object.perplexity:7.3f} | '
-                  f'Acc.: {score_object.accuracy:.3f} | '
-                  f'Lev.: {score_object.scorer.avg_levenshteins():.3f} | '
-                  f'Lev. / char: {score_object.leven_per_char:.3f}')
+            self.print_score("Test", score_object)
         return scorer

@@ -174,7 +174,7 @@ def train(config_files, epochs, batch_size, device, debug):
                                           config["datasets"]["test"]
 
         vocabulary = LabelEncoder(
-            maximum_length=config["max_sentence_size"],
+            maximum_length=config.get("max_sentence_size", None),
             masked=masked,
             remove_diacriticals=config["label_encoder"].get("normalize", True),
             lower=config["label_encoder"].get("lower", True)
@@ -200,7 +200,7 @@ def train(config_files, epochs, batch_size, device, debug):
 
         tagger = BoudamsTagger(
             vocabulary,
-            device=device, system=config["model"], out_max_sentence_length=config["max_sentence_size"],
+            device=device, system=config["model"], out_max_sentence_length=config.get("max_sentence_size", None),
             **config["network"])
         trainer = Trainer(tagger, device=device)
         print(tagger.model)
