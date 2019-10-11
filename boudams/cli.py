@@ -168,14 +168,12 @@ def train(config_files, epochs, batch_size, device, debug):
     for config_file in config_files:
         config = json.load(config_file)
 
-        masked = config["model"].startswith("linear")
         train_path, dev_path, test_path = config["datasets"]["train"],\
                                           config["datasets"]["dev"],\
                                           config["datasets"]["test"]
 
         vocabulary = LabelEncoder(
             maximum_length=config.get("max_sentence_size", None),
-            masked=masked,
             remove_diacriticals=config["label_encoder"].get("normalize", True),
             lower=config["label_encoder"].get("lower", True)
         )

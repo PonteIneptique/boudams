@@ -149,7 +149,7 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         self,
         encoder: CNNEncoder, decoder: LinearDecoder,
         device: str,
-        pad_idx: int, sos_idx: int, eos_idx: int,
+        pad_idx: int,
         pos: bool = False,
         **kwargs
     ):
@@ -160,8 +160,6 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         self.pos = pos
 
         self.pad_idx = pad_idx
-        self.sos_idx = sos_idx
-        self.eos_idx = eos_idx
         self.device = device
 
         # nll weight
@@ -211,7 +209,7 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         return label_encoder.reverse_batch(
             logits,
             masked=override_src or src,
-            ignore=(self.pad_idx, self.eos_idx, self.sos_idx)
+            ignore=(self.pad_idx, )
         )
 
     def gradient(

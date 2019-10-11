@@ -47,7 +47,6 @@ class BoudamsTagger:
 
         self.vocabulary: LabelEncoder = vocabulary
         self.vocabulary_dimension: int = len(self.vocabulary)
-        self.masked: bool = self.vocabulary.masked
 
         self.device: str = device
         self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
@@ -64,16 +63,12 @@ class BoudamsTagger:
         self.system: str = system
 
         # Based on self.masked, decoder dimension can be drastically different
-        self.dec_dim: int = self.vocabulary_dimension
-        if self.masked:
-            self.dec_dim = len(self.vocabulary.itom)
+        self.dec_dim = len(self.vocabulary.itom)
 
         self.mask_token = self.vocabulary.mask_token
 
         seq2seq_shared_params = {
             "pad_idx": self.padtoken,
-            "sos_idx": self.sostoken,
-            "eos_idx": self.eostoken,
             "device": self.device,
             "out_max_sentence_length": self.out_max_sentence_length
         }
@@ -127,14 +122,6 @@ class BoudamsTagger:
     @property
     def padtoken(self):
         return self.vocabulary.pad_token_index
-
-    @property
-    def sostoken(self):
-        return self.vocabulary.init_token_index
-
-    @property
-    def eostoken(self):
-        return self.vocabulary.eos_token_index
 
     @property
     def settings(self):

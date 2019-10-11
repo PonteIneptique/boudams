@@ -145,71 +145,51 @@ class DatasetIterator:
 
 class LabelEncoder:
     def __init__(self,
-                 init_token=DEFAULT_INIT_TOKEN,
-                 eos_token=DEFAULT_EOS_TOKEN,
                  pad_token=DEFAULT_PAD_TOKEN,
                  unk_token=DEFAULT_UNK_TOKEN,
                  mask_token=DEFAULT_MASK_TOKEN,
                  maximum_length: int = None,
                  lower: bool = True,
-                 remove_diacriticals: bool = True,
-                 masked: bool = False
+                 remove_diacriticals: bool = True
                  ):
 
-        self.masked: bool = masked
-        self.init_token: str = init_token
-        self.eos_token: str = eos_token
         self.pad_token: str = pad_token
         self.unk_token: str = unk_token
         self.mask_token: str = mask_token
         self.space_token: str = " "
 
-        self.init_token_index: int = 0
-        self.eos_token_index: int = 1
         self.pad_token_index: int = 2
-        self.space_token_index: int = 3
-        self.mask_token_index: int = 4
-        self.unk_token_index: int = 5  # Put here because it isn't used in masked
+        self.space_token_index: int = 1
+        self.mask_token_index: int = 0
+        self.unk_token_index: int = 0  # Put here because it isn't used in masked
 
         self.max_len: Optional[int] = maximum_length
         self.lower = lower
         self.remove_diacriticals = remove_diacriticals
 
         self.itos: Dict[int, str] = {
-            self.init_token_index: self.init_token,
-            self.eos_token_index: self.eos_token,
             self.pad_token_index: self.pad_token,
-            self.unk_token_index: self.unk_token
+            self.unk_token_index: self.unk_token,
+            self.space_token_index: self.space_token
         }  # Id to string for reversal
 
         self.stoi: Dict[str, int] = {
-            self.init_token: self.init_token_index,
-            self.eos_token: self.eos_token_index,
             self.pad_token: self.pad_token_index,
-            self.unk_token: self.unk_token_index
+            self.unk_token: self.unk_token_index,
+            self.space_token: self.space_token_index
         }  # String to ID
 
         # Mask dictionaries
         self.itom: Dict[int, str] = {
-            self.init_token_index: self.init_token,
-            self.eos_token_index: self.eos_token,
             self.pad_token_index: self.pad_token,
             self.mask_token_index: self.mask_token,
             self.space_token_index: self.space_token
         }
         self.mtoi: Dict[str, int] = {
-            self.init_token: self.init_token_index,
-            self.eos_token: self.eos_token_index,
             self.pad_token: self.pad_token_index,
             self.mask_token: self.mask_token_index,
             self.space_token: self.space_token_index
         }
-        self.use_init = True
-        self.use_eos = True
-
-    def encoding_parameters(self, use_init, use_eos):
-        self.use_init = use_init
-        self.use_eos = use_eos
 
     def __len__(self):
         return len(self.stoi)
@@ -279,6 +259,7 @@ class LabelEncoder:
 
         :param sentences: List of sentences where characters have been separated into a list and index encoded
         :param padding: padding required (None if every sentence in the same size)
+        :param reorder: List of index to reorder the sequence
         :param device: Torch device
         :return: Transformed batch into tensor
         """
@@ -310,36 +291,26 @@ class LabelEncoder:
     def gt_to_numerical(self, sentence: Sequence[str]) -> Tuple[List[int], int]:
         """ Transform GT to numerical
 
-        :param sentence: Sequence of characters (can be a straight string)
-        :return: List of character indexes
+        :param sentence: Sequence of characters (can be a straight string) with spaces
+        :return: List of mask indexes
         """
-        if not self.masked:
-            return self.inp_to_numerical(sentence)
-        else:
-            obligatory_tokens = int(self.use_init) + int(self.use_eos)  # Tokens for init and end of string
-            init = [self.init_token_index] if self.use_init else []
-            eos = [self.eos_token_index] if self.use_eos else []
-            numericals = init + [
-                    self.mask_token_index if ngram[1] != " " else self.space_token_index
-                    for ngram in zip(*[sentence[i:] for i in range(2)])
-                    if ngram[0] != " "
-                ] + [self.space_token_index] + eos
+        numericals = [
+                self.mask_token_index if ngram[1] != " " else self.space_token_index
+                for ngram in zip(*[sentence[i:] for i in range(2)])
+                if ngram[0] != " "
+            ] + [self.space_token_index]
 
-            return numericals, len(sentence) - sentence.count(" ") + obligatory_tokens
+        return numericals, len(sentence) - sentence.count(" ")
 
     def inp_to_numerical(self, sentence: Sequence[str]) -> Tuple[List[int], int]:
-        """ Transform GT to numerical
+        """ Transform input sentence to numerical
 
-        :param sentence: Sequence of characters (can be a straight string)
+        :param sentence: Sequence of characters (can be a straight string) without spaces
         :return: List of character indexes
         """
-        obligatory_tokens = int(self.use_init) + int(self.use_eos)  # Tokens for init and end of string
-        init = [self.init_token_index] if self.use_init else []
-        eos = [self.eos_token_index] if self.use_eos else []
-
         return (
-            init + [self.stoi.get(char, self.unk_token_index) for char in sentence] + eos,
-            len(sentence) + obligatory_tokens
+            [self.stoi.get(char, self.unk_token_index) for char in sentence],
+            len(sentence)
         )
 
     def reverse_batch(
@@ -355,9 +326,8 @@ class LabelEncoder:
             with torch.cuda.device_of(batch):
                 batch = batch.tolist()
 
-        if self.masked is True and masked is not None:
+        if masked is not None:
             if not isinstance(masked, list):
-
                 with torch.cuda.device_of(masked):
                     masked = masked.tolist()
 
@@ -371,9 +341,11 @@ class LabelEncoder:
                 ]
             else:
                 masked = [
-                    [self.init_token_index] + list(sentence) + [self.eos_token_index]
+                    list(sentence)
                     for sentence in masked
                 ]
+            print(ignore)
+
             return [
                 [
                     tok
@@ -405,8 +377,7 @@ class LabelEncoder:
 
     def transcribe_batch(self, batch: List[List[str]]):
         for sentence in batch:
-            end = len(sentence) if self.eos_token not in sentence else sentence.index(self.eos_token)
-            yield "".join(sentence[1:end])  # Remove SOS
+            yield "".join(sentence).strip()  # Remove SOS
 
     def get_dataset(self, path, **kwargs):
         """
@@ -431,14 +402,11 @@ class LabelEncoder:
             "itos": self.itos,
             "stoi": self.stoi,
             "params": {
-                "init_token": self.init_token,
-                "eos_token": self.eos_token,
                 "pad_token": self.pad_token,
                 "unk_token": self.unk_token,
                 "mask_token": self.mask_token,
                 "remove_diacriticals": self.remove_diacriticals,
-                "lower": self.lower,
-                "masked": self.masked
+                "lower": self.lower
             }
         })
 

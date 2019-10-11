@@ -128,9 +128,10 @@ class Scorer(object):
                 src = src.tolist()
 
         for y_true, y_pred, x in zip(exp, out, src):
-            self.trues.append(y_true)
-            self.preds.append(y_pred)
-            self.srcs.append(x)
+            stop = x.index(self.tagger.padtoken) if self.tagger.padtoken in x else len(x)
+            self.trues.append(y_true[:stop])
+            self.preds.append(y_pred[:stop])
+            self.srcs.append(x[:stop])
 
 
 class LRScheduler(object):
