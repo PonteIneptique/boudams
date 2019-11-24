@@ -220,7 +220,8 @@ def train(config_files, epochs, batch_size, device, debug):
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
 @click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
 @click.option("--debug", default=False, is_flag=True)
-def test(test_path, model_tar, csv_file, batch_size, device, debug):
+@click.option("--verbose", default=False, is_flag=True, help="Print classification report")
+def test(test_path, model_tar, csv_file, batch_size, device, debug, verbose):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
     if debug:
         import logging
@@ -240,10 +241,11 @@ def test(test_path, model_tar, csv_file, batch_size, device, debug):
 
         trainer = Trainer(model, device=device)
 
-        scorer = trainer.test(test_dataset, batch_size=batch_size)
+        scorer = trainer.test(test_dataset, batch_size=batch_size, class_report=verbose)
         print("Saving confusion matrix...")
         scorer.plot_confusion_matrix(config_file+".png")
         print(scorer.scores)
+        print(scorer.report)
         r = scorer.scores._asdict()
         r["model"] = model.system
         r["file"] = config_file

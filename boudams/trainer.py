@@ -1,12 +1,8 @@
-import os
 import random
 import json
-import math
 import tarfile
 import uuid
 import enum
-import statistics
-import logging
 
 from collections import namedtuple
 from typing import Callable, List, Tuple
@@ -18,8 +14,7 @@ import torch.nn as nn
 import torch.optim as optim
 import tqdm
 
-
-from sklearn.metrics import confusion_matrix, precision_recall_fscore_support
+from sklearn.metrics import confusion_matrix, precision_recall_fscore_support, classification_report
 
 from boudams.tagger import BoudamsTagger, DEVICE
 from boudams.encoder import DatasetIterator
@@ -60,6 +55,7 @@ class Scorer(object):
         self.trues = []
         self.preds = []
         self.srcs = []
+        self.report = ""
 
         self._score_tuple = namedtuple("scores", ["accuracy", "precision", "recall", "fscore"])
         self.scores = None
@@ -84,7 +80,7 @@ class Scorer(object):
         )
         plt.savefig(path)
 
-    def compute(self) -> "Scorer":
+    def compute(self, class_report=False) -> "Scorer":
         unrolled_trues = list([y_char for y_sent in self.trues for y_char in y_sent])
         unrolled_preds = list([y_char for y_sent in self.preds for y_char in y_sent])
 
@@ -104,6 +100,14 @@ class Scorer(object):
             # Ignore pad errors
             labels=[self.tagger.vocabulary.space_token_index, self.tagger.vocabulary.mask_token_index]
         )
+
+        if class_report:
+            self.report = classification_report(
+                y_pred=unrolled_preds,
+                y_true=unrolled_trues,
+                labels=[self.tagger.vocabulary.space_token_index, self.tagger.vocabulary.mask_token_index],
+                target_names=["Word Boundary", "Word Character"]
+            )
 
         self.scores = self._score_tuple(accuracy, precision, recall, fscore)
 
@@ -378,7 +382,8 @@ class Trainer(object):
                      scorer=scorer)
 
     def evaluate(self, iterator: DatasetIterator, criterion: nn.CrossEntropyLoss,
-                 desc: str, batch_size: int, test_mode=False) -> Score:
+                 desc: str, batch_size: int, test_mode=False,
+                 class_report: bool = False) -> Score:
 
         self.tagger.model.eval()
 
@@ -405,7 +410,7 @@ class Trainer(object):
 
         loss = epoch_loss / iterator.batch_count
 
-        scorer.compute()
+        scorer.compute(class_report=class_report)
         return Score(loss,
                      accuracy=scorer.scores.accuracy,
                      precision=scorer.scores.precision,
@@ -413,12 +418,13 @@ class Trainer(object):
                      fscore=scorer.scores.fscore,
                      scorer=scorer)
 
-    def test(self, test_dataset: DatasetIterator, batch_size: int = 256, do_print=True):
+    def test(self, test_dataset: DatasetIterator, batch_size: int = 256, do_print=True, class_report=False):
         # Set up loss but ignore the loss when the token is <pad>
         #     where <pad> is the token for filling the vector to get same-sized matrix
         criterion = nn.CrossEntropyLoss(ignore_index=self.tagger.vocabulary.pad_token_index)
 
-        score_object = self.evaluate(test_dataset, criterion, desc="Test", batch_size=batch_size, test_mode=True)
+        score_object = self.evaluate(test_dataset, criterion, desc="Test", batch_size=batch_size, test_mode=True,
+                                     class_report=class_report)
         scorer: Scorer = score_object.scorer
 
         if do_print:
