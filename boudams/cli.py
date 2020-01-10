@@ -269,14 +269,34 @@ def tag(model, filename, device="cpu", batch_size=64):
     print("Model loaded.")
     remove_line = True
     spaces = re.compile("\s+")
+    apos = re.compile("['’]")
     for file in tqdm.tqdm(filename):
         out_name = file.name.replace(".txt", ".tokenized.txt")
         content = file.read()  # Could definitely be done a better way...
         if remove_line:
             content = spaces.sub("", content)
+
+        # Now, extract apostrophes, remove them, and reinject them
+        apos_positions = [ i for i in range(len(content)) if content[i] in ["'", "’"] ]
+        content = apos.sub("", content)
+
         with open(out_name, "w") as out_io:
+            out = ''
             for tokenized_string in model.annotate_text(content, batch_size=batch_size):
-                out_io.write(tokenized_string+" ")
+                out = out + tokenized_string+" "
+
+            # Reinject apostrophes
+            #out = 'Sainz Tiebauz fu nez en l evesché de Troies ; ses peres ot non Ernous et sa mere, Gile et furent fra'
+            true_index = 0
+            for i in range(len(out) + len(apos_positions)):
+                if true_index in apos_positions:
+                    out = out[:i] + "'" + out[i:]
+                    true_index = true_index + 1
+                else:
+                    if not out[i] == ' ':
+                        true_index = true_index + 1
+
+            out_io.write(out)
         # print("--- File " + file.name + " has been tokenized")
 
 
