@@ -17,7 +17,7 @@ def convert(
         min_words: int = 2, max_words: int = 10,
         min_char_length: int = 7, max_char_length: int = 100,
         random_keep: float = 0.3, max_kept: int = 1,
-        noise_char: str = ".", noise_char_random: float = 0.2, max_noise_char: int = 2
+        noise_char: str = ".", noise_char_random: float = 0.2, max_noise_char: int = 2,
         **kwargs
 ):
     """ Build sequence to train data over using TSV or TAB files where either the first
