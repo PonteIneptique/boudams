@@ -9,8 +9,9 @@ from typing import Iterable, Union
 from boudams.dataset.base import write_sentence, _space
 
 
-#_splitter = re.compile("(\W+)")
-_splitter = re.compile("(\w+['’]?)")
+_splitter = re.compile("(\W+)")
+_apos = re.compile("['’]")
+
 
 def convert(
         input_path: Union[Iterable[str], str], output_path: str,
@@ -58,7 +59,7 @@ def convert(
                 sequence = []
                 next_sequence = random.randint(min_words, max_words)
 
-                content = input_fio.read()
+                content = _apos.sub(" ", input_fio.read())
 
                 for word in _splitter.split(content):
                     word = _space.sub("", word)

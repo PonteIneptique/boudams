@@ -16,7 +16,7 @@ def normalize_space(string: str) -> str:
 def untokenize(sentence: Iterable[str]) -> Tuple[str, str]:
     """ Transform a sequence of words into both a string without space (first
     element of the tuple) and a string with space (second element of the tuple)"""
-    return "".join([re.sub("['’]", "", s) for s in sentence]), " ".join(sentence)
+    return "".join(sentence), " ".join(sentence)
 
 
 def formatter(sequence: Iterable[str]):
