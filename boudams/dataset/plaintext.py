@@ -9,15 +9,15 @@ from typing import Iterable, Union
 from boudams.dataset.base import write_sentence, _space
 
 
-_splitter = re.compile("(\W+)")
-
+#_splitter = re.compile("(\W+)")
+_splitter = re.compile("(\w+['’]?)")
 
 def convert(
         input_path: Union[Iterable[str], str], output_path: str,
         min_words: int = 2, max_words: int = 10,
         min_char_length: int = 7, max_char_length: int = 100,
         random_keep: float = 0.3, max_kept: int = 1,
-        noise_char: str = ".", noise_char_random: float = 0.2, max_noise_char: int = 2,
+        noise_char: str = ".", noise_char_random: float = 0.2, max_noise_char: int = 2
         **kwargs
 ):
     """ Build sequence to train data over using TSV or TAB files where either the first
@@ -110,6 +110,7 @@ if __name__ == "__main__":
 
     inp = "/home/thibault/dev/boudams/test_data/bfmmss/txt/*.txt"
     output = "/home/thibault/dev/boudams/test_data/bfmmss/"
+
     max_char_length = 200
 
     convert(inp, output, max_char_length=200)
