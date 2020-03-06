@@ -10,6 +10,7 @@ from boudams.dataset.base import write_sentence, _space
 
 
 _splitter = re.compile("(\W+)")
+_apos = re.compile("['’]")
 
 
 def convert(
@@ -58,7 +59,7 @@ def convert(
                 sequence = []
                 next_sequence = random.randint(min_words, max_words)
 
-                content = input_fio.read()
+                content = _apos.sub(" ", input_fio.read())
 
                 for word in _splitter.split(content):
                     word = _space.sub("", word)
@@ -110,6 +111,7 @@ if __name__ == "__main__":
 
     inp = "/home/thibault/dev/boudams/test_data/bfmmss/txt/*.txt"
     output = "/home/thibault/dev/boudams/test_data/bfmmss/"
+
     max_char_length = 200
 
     convert(inp, output, max_char_length=200)
