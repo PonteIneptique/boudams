@@ -5,3 +5,6 @@ leven==1.0.4
 click>=7.0,<=8.0
 regex==2019.5.25
 mufidecode
+matplotlib
+sklearn
+numpy
