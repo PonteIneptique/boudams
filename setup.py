@@ -19,7 +19,7 @@ DESCRIPTION = 'A framework and toolkit for automatic segmentation'
 URL = 'https://github.com/ponteineptique/boudams'
 AUTHOR = ' Thibault Clérice'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = "0.1.0"
+VERSION = "0.1.2"
 
 # What packages are required for this module to be executed?
 
@@ -103,8 +103,7 @@ setup(
     author=AUTHOR,
     python_requires=REQUIRES_PYTHON,
     url=URL,
-    py_modules=['boudams'],
-
+    packages=find_packages(exclude=('tests', 'env', 'venv',)),
     entry_points={
         'console_scripts': ['boudams=boudams.cli:cli'],
     },
