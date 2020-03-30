@@ -7,7 +7,7 @@
 \newcolumntype{C}{>{\arraybackslash}X} % centered "X" column
 
 
-\title{Evaluating Deep Learning Methods for Tokenization of Space-less texts in Old French and Latin}
+\title{Evaluating Deep Learning Methods for Word Segmentation of Scripta Continua Texts in Old French and Latin}
 \author[1]{Thibault Clérice}
 \affil[1]{École nationale des Chartes, France} 
 \affil[2]{Université Lyon 3, France} 
@@ -36,7 +36,7 @@ Tokenization of space-less strings is a task that is specifically difficult for 
   \label{fig:4lines}
 \end{figure}
 
-It must be stressed in this study that the difficulty inherent to segmentation is different for \textit{scripta continua} than the one for languages such as Chinese for which an already impressive amount of work has been. Chinese word segmentation has lately been driven by deep learning methods, specifically ones based on \textit{sequence to sequence translations}: \citet{chen2015long} defines a process based on LSTM model, while \citet{yu2019learning} uses BiDirectional GRU and CRF. \footnote{\citet{huang2019realistic} actually gave us the denomination used here: word boundary (WB) and word content (WC).}
+It must be stressed in this study that the difficulty inherent to segmentation is different for \textit{scripta continua} than the one for languages such as Chinese for which an already impressive amount of work has been done. Chinese word segmentation has lately been driven by deep learning methods: \citet{chen2015long} defines a process based on LSTM model, while \citet{yu2019learning} uses bi-directional GRU and CRF. \footnote{\citet{huang2019realistic} actually gave us the denomination used here: word boundary (WB) and word content (WC).}
 
 Indeed, while the issue with Chinese seems to lie in the decomposition of relatively fixed characters, Old French or Medieval Latin present heavy variation of spelling. In \citet{camps_pandora}, Camps notes, in the same corpus, the existence of not less than 29 spellings of the word "\textit{cheval}" (horse in Old and Modern French) whose apparition counts span from 3907 to 1\footnote{These are \textit{cheval}, \textit{chevaus}, \textit{cheual}, \textit{ceval}, \textit{chevals}, \textit{cevaus}, \textit{chival}, \textit{ceual}, \textit{cheuaus}, \textit{cevals}, \textit{chaval}, \textit{chivaus}, \textit{chiual}, \textit{chevas}, \textit{cheuals}, \textit{chiuaus}, \textit{ceuaus}, \textit{chevaul}, \textit{chiuau}, \textit{chivals}, \textit{chevau}, \textit{kevaus}, \textit{chavaus}, \textit{cheuas}, \textit{keval}, \textit{cheua}, \textit{cheuau}, \textit{cheva}, \textit{chiuals}}. This  makes a dictionary-based approach rather difficult as it would rely on a high number of different spellings, making the computation highly complex.
 
@@ -46,7 +46,7 @@ Indeed, while the issue with Chinese seems to lie in the decomposition of relati
 
 \subsubsection{Encoding of input and decoding}
 
-The model is based on traditional text input encoding where each character is transcoded to an index. Output of the model is a mask that needs to be applied to the input: in the mask, characters are classified either as word boundary or word content (\textit{cf.} Table \ref{lst:input_output_example}.
+The model is based on traditional text input encoding where each character is represented as an index. Output of the model is a mask that needs to be applied to the input: in the mask, characters are classified either as word boundary or word content (\textit{cf.} Table \ref{lst:input_output_example}.
 
 \begin{table}[!ht]
 \centering
@@ -72,7 +72,7 @@ For evaluation purposes, and to reduce the number of input classes, two options 
 
 \subsubsection{Model}
 
-Aside from normalizations of the input and output, three different model structures were tested. Every model is composed of one encoder, as described below, and one Linear Classifier which classifies into 5 classes : Start of Sentence (= SOS), End of Sentence (= EOS), Padding (= PAD), Masked Token (= Word Content), Space (= Word Boundary). For final scores, SOS, EOS and PAD were ignored.
+Aside from normalizations of the input and output, three different model structures were tested. Every model is composed of one encoder, as described below, and one Linear Classifier which classifies into 5 classes : Start of Sentence (= SOS), End of Sentence (= EOS), Padding (= PAD), Masked Token (= Word Content), Space (= Word Boundary) \footnote{For final scores, SOS, EOS and PAD were ignored.}.
 
 The encoders are the following (configurations in parenthesis):
 
@@ -89,7 +89,7 @@ The encoders are the following (configurations in parenthesis):
 The dataset is composed of transcriptions (from different projects) of manuscripts with unresolved abbreviation. The \textbf{Old French} is based on \citet{8269990}, \citet{pinche:hal-01628533}, \citet{jean_baptiste_camps_2019_2630574}, \citet{bfmmss}, and \citet{tnah_transcription}. It contains
 
 \begin{itemize}
-    \item 193,734 training examples;
+    \item 193,734 training examples (group of words);
     \item 23,581 validation examples;
     \item 25,512 test examples
     \item Number of classes in testing examples: 482,776 WC; 169,094 WB
@@ -119,7 +119,7 @@ P WITH STROKE THROUGH DESCENDER & 580           & 69          & 84           \\ 
 
 \subsubsection{Results}
 
-The training parameters were 0.00005 in learning rate for each CNN model, 0.001 for the LSTM model, and batch sizes of 64. Training reached a plateau fairly quickly for each model (\textit{cf.} \ref{fig:loss}). Each model except LSTM reached a really low loss and a high accuracy on the test set (\textit{cf.} \ref{tab:scores}). To compare the results, the \texttt{wordsegment} package \citet{WordSegment} was used as a baseline.
+The training parameters were 0.00005 in learning rate for each CNN model, 0.001 for the LSTM model, and batch sizes of 64. Training reached a plateau fairly quickly for each model (\textit{cf.} \ref{fig:loss}). Each model except LSTM reached a really low loss and a high accuracy on the test set (\textit{cf.} \ref{tab:scores}). To compare the results, the \texttt{wordsegment} package \citet{WordSegment} was used as a baseline. For this purpose, UDPipe (\citet{udpipe:2017}) was evaluated but scores were lower than this baseline: our LSTM and GRU implementations show however the same difficulties while sharing the same apparent architecture (\footnote{An issue regarding parameters or implementations is not to be excluded.}.
 
 \begin{figure}[!ht]
   \begin{center}
@@ -139,7 +139,8 @@ The training parameters were 0.00005 in learning rate for each CNN model, 0.001 
         \addplot table[x=Epoch,y=CNN N,col sep=comma] {accuracies.csv}; 
         \addplot table[x=Epoch,y=CNN L N,col sep=comma] {accuracies.csv}; 
         \addplot table[x=Epoch,y=LSTM,col sep=comma] {accuracies.csv}; 
-        \legend{CNN, CNN L, CNN P, CNN N, CNN L N, LSTM}
+        \addplot table[x=Epoch,y=GRU,col sep=comma] {accuracies.csv}; 
+        \legend{CNN, CNN L, CNN P, CNN N, CNN L N, LSTM, GRU}
       \end{axis}
     \end{tikzpicture}
     \caption{Training Loss (Cross-entropy) until plateau was reached. N = normalized, L = Lower, P = no position embedding. LSTM was removed as it did not go below 0.65}
@@ -158,7 +159,8 @@ CNN L    & 0.991    & 0.979     & 0.990  & 0.985 & \textbf{2117} & 3750 \\
 CNN P    & \textbf{0.993}    & \textbf{0.990}& \textbf{0.991}  & \textbf{0.990} & 2432 & \textbf{2114} \\
 CNN N    & 0.991    & 0.987     & 0.988  & 0.988 & 2756 & 3312 \\
 CNN L N  & 0.992    & 0.988     & 0.989  & 0.988 & 2500 & 3567 \\
-LSTM     & 0.939    & 0.637     & 0.918  & 0.720 & 21174 & 18662 \\ \hline
+LSTM     & 0.939    & 0.637     & 0.918  & 0.720 & 21174 & 18662 \\
+GRU     & 0.933    & 0.645     & 0.645  & 0.910 & 23706 & 19427 \\ \hline
 \end{tabular}
 \caption{Scores over the test dataset. \\\hspace{\textwidth}For models: N = normalized, L = Lower, P = no position embedding. \\\hspace{\textwidth}In headers, FN = False Negative, FP = False Positive}
 \label{tab:scores}
@@ -166,7 +168,7 @@ LSTM     & 0.939    & 0.637     & 0.918  & 0.720 & 21174 & 18662 \\ \hline
 
 \subsubsection{Unknown texts}
 
-While all models using CNN show improvement over the baseline, the models definitely do not significantly outperform (\textless 0.02 FScore). There is a reason for this: the baseline already performs nearly perfectly on the test corpus. The dictionary attack using n-grams did actually perform well. Therefore, an additional evaluation method was constructed. The baseline and the best achieving deep-learning model (CNN P) were evaluated on a secondary test corpus composed of texts that were not used in training: indeed, the training, dev and test corpus share the same texts while not sharing the same source corpora and as such the same writing, the same vocabulary. This new corpus is composed by 4 texts and counts 742 examples : the diplomatic edition of the \textit{Graal} (\citet{graal}), a \textit{Passion} and a \textit{Vie de Saint Leger}  (\citet{old_french_corpus}), a \textit{Vie de Saint Thibaut} (\citet{theobaldus}). Neither noise characters nor random keeping of words were applied.
+While all models using CNN show improvement over the baseline, the models definitely do not significantly outperform (\textless 0.02 FScore). There is a reason for this: the baseline already performs nearly perfectly on the test corpus. The dictionary attack using n-grams did actually perform well. Therefore, an additional evaluation method was constructed. The baseline and the best achieving deep-learning model (CNN P) were evaluated on a secondary test corpus composed of texts of a different domain. This new corpus is composed by 4 texts and counts 742 examples : the diplomatic edition of the \textit{Graal} (\citet{graal}), a \textit{Passion} and a \textit{Vie de Saint Leger}  (\citet{old_french_corpus}), a \textit{Vie de Saint Thibaut} (\citet{theobaldus}). Neither noise characters nor random keeping of words were applied.
 
 The results here were highly different (\textit{cf.} Table \ref{tab:scores_unknown}): while it appears that the CNN is able to expand its "comprehension" of the language to newer texts, the new words are more difficult to take into account for the baseline \texttt{wordsegment} n-gram approach, resulting in a respective drop to 0.945 and 0.838 FScore. WordSegment specifically performed badly with WB false positives : it had 3658 over a corpus containing 10,193 WB token (around 35 \%).
 
@@ -184,7 +186,7 @@ CNN P & \textbf{0.957} & \textbf{0.948} & \textbf{0.944} & \textbf{0.945} & \tex
 
 \subsubsection{Example of outputs}
 
-The following inputs have been tagged with the CNN P model. Batches are constructed around the regular expression \texttt{\\W} with package \texttt{regex}. This explains why inputs such as \texttt{".i."} are automatically tagged as \texttt{" . i . "} by the tool. The input was stripped of its spaces before tagging, only the ground truth is shown for readability.
+The following inputs have been tagged with the CNN P model. Batches are constructed around the regular expression \texttt{\textbackslash{}W} with package \texttt{regex}. This explains why inputs such as \texttt{".i."} are automatically tagged as \texttt{" . i . "} by the tool. The input was stripped of its spaces before tagging, only the ground truth is shown for readability.
 
 \begin{table}[!ht]
 \centering
@@ -271,7 +273,7 @@ The medieval Latin corpora is based on the project Formulae - Litterae - Chartae
 \textbf{Example:}
 
 \begin{itemize}
-    \item Input : nonparvamremtibi	
+    \item Input : nonparvamremtibi  
     \item Output : non parvam rem tibi
 
 \end{itemize}
@@ -314,7 +316,7 @@ The epigraphic Latin corpora is based on the Epigraphic Database Heidelberg open
 \textbf{Example:}
 
 \begin{itemize}
-    \item Input : DnFlClIuliani	
+    \item Input : DnFlClIuliani 
     \item Output : D n Fl Cl Iuliani
 \end{itemize}
 
