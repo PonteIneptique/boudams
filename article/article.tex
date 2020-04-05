@@ -4,10 +4,18 @@
 \usepackage{pgfplots}
 \usepackage{float}
 \usepackage{tabularx}
+\usepackage{titlesec}
+
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+{\normalfont\normalsize}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{1.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
 \newcolumntype{C}{>{\arraybackslash}X} % centered "X" column
 
 
-\title{Evaluating Deep Learning Methods for Tokenization of Space-less texts in Old French and Latin}
+\title{Evaluating Deep Learning Methods for Word Segmentation of Scripta Continua Texts in Old French and Latin}
 \author[1]{Thibault Clérice}
 \affil[1]{École nationale des Chartes, France} 
 \affil[2]{Université Lyon 3, France} 
@@ -26,7 +34,7 @@
 
 \section{Introduction}
 
-Tokenization of space-less strings is a task that is specifically difficult for computers as compared to "whathumanscando". \textit{Scripta continua} is a writing phenomenon in which words are separated by spaces that disappeared around the 8th century (see \citet{zanna1998lecture}). Nevertheless, spacing can be somewhat erratic in later centuries writings as \citet{stutzmann} explains (\textit{cf.} Figure \ref{fig:4lines}) and it becomes an issue for OCR, as continuous bag of word is only interesting when those are not glued together. In the context of text mining of HTR or OCR output, lemmatization and tokenization of medieval western languages can be a pre-processing step for further research to sustain analyses such as authorship attribution or simply allow full-text search.
+Tokenization of spaceless strings is a task that is specifically difficult for computers as compared to "whathumanscando". \textit{Scripta continua} is a western Latin writing phenomenon in which words are separated by spaces. It disappeared around the 8th century (see \citet{zanna1998lecture}), but, nevertheless, spacing remained erratic \footnote{From a modern point of view. What we call here \textit{scripta continua} ranges from traditional \textit{scripta continua} to variable spacing writing.} in later centuries writing as \citet{stutzmann} explains (\textit{cf.} Figure \ref{fig:4lines}). The fluctuation of space width, or simply their presence becomes an issue for OCR. Indeed, in the context of text mining of HTR or OCR output, lemmatization and tokenization of medieval western languages is quite often a pre-processing step for further research to sustain analyses such as authorship attribution, corpus linguistics or simply allow full-text search \footnote{We have found no previous study of \textit{scripta continua} and the likes as a natural language processing issue, only as an HTR/OCR one, such as \cite{wahlberg2014spotting} and \cite{8269990}}.
 
 \begin{figure}[!ht]
   \centering
@@ -36,7 +44,7 @@ Tokenization of space-less strings is a task that is specifically difficult for 
   \label{fig:4lines}
 \end{figure}
 
-It must be stressed in this study that the difficulty inherent to segmentation is different for \textit{scripta continua} than the one for languages such as Chinese for which an already impressive amount of work has been. Chinese word segmentation has lately been driven by deep learning methods, specifically ones based on \textit{sequence to sequence translations}: \citet{chen2015long} defines a process based on LSTM model, while \citet{yu2019learning} uses BiDirectional GRU and CRF. \footnote{\citet{huang2019realistic} actually gave us the denomination used here: word boundary (WB) and word content (WC).}
+It must be stressed in this study that the difficulty inherent to segmentation is different for \textit{scripta continua} than the one for languages such as Chinese for which an already impressive amount of work has been done. Indeed, the dimensionality alone of Chinese character set is different from Latin alphabets \footnote{a range of twenty to few hundred characters if we take into account all diacritic combination in Latin scripts, at least few thousands in Chinese, depending on the period \cite{routledge}}, and the important presence of compounds is definitely an issue for segmentation \footnote{According to \cite{tse2017chinese}, \textit{"about 73.6 \% of modern Chinese words are two-character compound words".}}. Chinese word segmentation has lately been driven by deep learning methods: \citet{chen2015long} defines a process based on LSTM model, while \citet{yu2019learning} uses bi-directional GRU and CRF. \footnote{\citet{huang2019realistic} actually gave us the denomination used here: word boundary (WB) and word content (WC).}
 
 Indeed, while the issue with Chinese seems to lie in the decomposition of relatively fixed characters, Old French or Medieval Latin present heavy variation of spelling. In \citet{camps_pandora}, Camps notes, in the same corpus, the existence of not less than 29 spellings of the word "\textit{cheval}" (horse in Old and Modern French) whose apparition counts span from 3907 to 1\footnote{These are \textit{cheval}, \textit{chevaus}, \textit{cheual}, \textit{ceval}, \textit{chevals}, \textit{cevaus}, \textit{chival}, \textit{ceual}, \textit{cheuaus}, \textit{cevals}, \textit{chaval}, \textit{chivaus}, \textit{chiual}, \textit{chevas}, \textit{cheuals}, \textit{chiuaus}, \textit{ceuaus}, \textit{chevaul}, \textit{chiuau}, \textit{chivals}, \textit{chevau}, \textit{kevaus}, \textit{chavaus}, \textit{cheuas}, \textit{keval}, \textit{cheua}, \textit{cheuau}, \textit{cheva}, \textit{chiuals}}. This  makes a dictionary-based approach rather difficult as it would rely on a high number of different spellings, making the computation highly complex.
 
@@ -46,7 +54,7 @@ Indeed, while the issue with Chinese seems to lie in the decomposition of relati
 
 \subsubsection{Encoding of input and decoding}
 
-The model is based on traditional text input encoding where each character is transcoded to an index. Output of the model is a mask that needs to be applied to the input: in the mask, characters are classified either as word boundary or word content (\textit{cf.} Table \ref{lst:input_output_example}.
+The model is based on traditional text input encoding where each character is represented as an index. Output of the model is a mask that needs to be applied to the input: in the mask, characters are classified either as word boundary or word content (\textit{cf.} Table \ref{lst:input_output_example}.
 
 \begin{table}[!ht]
 \centering
@@ -61,7 +69,7 @@ The model is based on traditional text input encoding where each character is tr
   \label{lst:input_output_example}
 \end{table}
 
-For evaluation purposes, and to reduce the number of input classes, two options for data transcoding were used: a lower-case normalization and a "reduction to the ASCII character set" feature (fr. \ref{fig:normalization}). On this point, a lot of issues were encountered with transliteration of medieval paelographic characters that were part of the original datasets, as they are poorly interpreted by the \texttt{unidecode} python package. Indeed, \texttt{unidecode} will simply remove characters it does not understand. A derivative package named \texttt{mufidecode} was built for this reason(\citet{thibault_clerice_2019_3237731}): it takes precedent over \texttt{unidecode} equivalency tables when the data is known of the Medieval Unicode Font Initiative (MUFI, \citet{mufi}).
+For evaluation purposes, and to reduce the amount of input classes, two options for data transcoding were used: a lower-case normalization and a "reduction to the ASCII character set" feature (fr. \ref{fig:normalization}). On this point, a lot of issues were encountered with transliteration of medieval paelographic characters that were part of the original datasets, as they are poorly interpreted by the \texttt{unidecode} python package. Indeed, \texttt{unidecode} will simply remove characters it does not understand. A derivative package named \texttt{mufidecode} was built for this reason(\citet{thibault_clerice_2019_3237731}): it takes precedent over \texttt{unidecode} equivalency tables when the data is known of the Medieval Unicode Font Initiative (MUFI, \citet{mufi}).
 
 \begin{figure}[!ht]
   \centering
@@ -72,9 +80,9 @@ For evaluation purposes, and to reduce the number of input classes, two options 
 
 \subsubsection{Model}
 
-Aside from normalizations of the input and output, three different model structures were tested. Every model is composed of one encoder, as described below, and one Linear Classifier which classifies into 5 classes : Start of Sentence (= SOS), End of Sentence (= EOS), Padding (= PAD), Masked Token (= Word Content), Space (= Word Boundary). For final scores, SOS, EOS and PAD were ignored.
+Aside from normalization of the input and output, three different model structures were tested. Every model is composed of one encoder, as described below, and one Linear Classifier which classifies into 5 classes : Start of Sentence (= SOS), End of Sentence (= EOS), Padding (= PAD), Masked Token (= Word Content), Space (= Word Boundary) \footnote{For final scores, SOS, EOS and PAD were ignored.}.
 
-The encoders are the following (configurations in parenthesis):
+The encoders are the following (configurations in parentheses):
 
 \begin{itemize}
   \item LSTM encoder with hidden cell (Embedding (512), Dropout(0.5), Hidden Dimension (512), Layers(10))
@@ -84,19 +92,22 @@ The encoders are the following (configurations in parenthesis):
 
 \subsection{Evaluation}
 
-\subsubsection{Datasets}
+% We evaluated the tool on different languages, namely Old French and Latin from different eras or writing traditions. Old French is the only language on which all model configurations were tested, Latin was tested only on the best performing configuration against the baseline.
+
+\subsubsection{Evaluation on Old French Data}
+
+\paragraph{Main Dataset}
 
 The dataset is composed of transcriptions (from different projects) of manuscripts with unresolved abbreviation. The \textbf{Old French} is based on \citet{8269990}, \citet{pinche:hal-01628533}, \citet{jean_baptiste_camps_2019_2630574}, \citet{bfmmss}, and \citet{tnah_transcription}. It contains
 
 \begin{itemize}
-    \item 193,734 training examples;
+    \item 193,734 training examples (group of words);
     \item 23,581 validation examples;
     \item 25,512 test examples
     \item Number of classes in testing examples: 482,776 WC; 169,094 WB
-    \item Number of classes in unknown examples: 26,393 WC; 10,193 WB
 \end{itemize}
 
-Examples were generated automatically. They are between 2 and 8 words-length. In order to recreate the condition of OCR noise, dots were added randomly (0.2) between words. In order to augment the dataset, words are randomly (0.1) passed over the next example\footnote{This data augmentation was limited to one word per sample}. If a minimum size of 7 characters was not met in the input sample, another word would be added to the chain, independently of the maximum number of words. The example however should not go beyond 100 characters. The results corpora should be varied in sizes as shown by Figure \ref{fig:word_sizes}. The corpora contains 193 different characters when not normalized, in which some MUFI characters appears few hundred times (\textit{cf.} Table \ref{tab:mufi_examples}).
+Examples were generated automatically. They are between 2 and 8 words-length. In order to recreate the condition of OCR noise, full stop characters were added randomly (20\% chance) between words. In order to augment the dataset, words are randomly (10\% chance) passed over the next example\footnote{This data augmentation was limited to one word per sample}. If a minimum size of 7 characters was not met in the input sample, another word would be added to the chain, independently of the maximum number of words. The example however should not go beyond 100 characters. The results corpora should be varied in sizes as shown by Figure \ref{fig:word_sizes}. The corpora contains 193 different characters when not normalized, in which some MUFI characters appears few hundred times (\textit{cf.} Table \ref{tab:mufi_examples}).
 
 \begin{figure}[!ht]
   \centering
@@ -117,9 +128,9 @@ P WITH STROKE THROUGH DESCENDER & 580           & 69          & 84           \\ 
   \label{tab:mufi_examples}
 \end{table}
 
-\subsubsection{Results}
+\paragraph{Results}
 
-The training parameters were 0.00005 in learning rate for each CNN model, 0.001 for the LSTM model, and batch sizes of 64. Training reached a plateau fairly quickly for each model (\textit{cf.} \ref{fig:loss}). Each model except LSTM reached a really low loss and a high accuracy on the test set (\textit{cf.} \ref{tab:scores}). To compare the results, the \texttt{wordsegment} package \citet{WordSegment} was used as a baseline.
+The training parameters were 0.00005 in learning rate for each CNN model, 0.001 for the LSTM model, and batch sizes of 64. Training reached a plateau fairly quickly for each model (\textit{cf.} \ref{fig:loss}). Each model except LSTM reached a really low loss and a high accuracy on the test set (\textit{cf.} \ref{tab:scores}). To compare the results, the \texttt{wordsegment} package \citet{WordSegment} was used as a baseline. For this purpose, UDPipe (\citet{udpipe:2017}) was evaluated but scores were lower than this baseline: our LSTM and GRU implementations show however the same difficulties while sharing the same apparent architecture (\footnote{An issue regarding parameters or implementations is not to be excluded.}.
 
 \begin{figure}[!ht]
   \begin{center}
@@ -139,7 +150,8 @@ The training parameters were 0.00005 in learning rate for each CNN model, 0.001 
         \addplot table[x=Epoch,y=CNN N,col sep=comma] {accuracies.csv}; 
         \addplot table[x=Epoch,y=CNN L N,col sep=comma] {accuracies.csv}; 
         \addplot table[x=Epoch,y=LSTM,col sep=comma] {accuracies.csv}; 
-        \legend{CNN, CNN L, CNN P, CNN N, CNN L N, LSTM}
+        \addplot table[x=Epoch,y=GRU,col sep=comma] {accuracies.csv}; 
+        \legend{CNN, CNN L, CNN P, CNN N, CNN L N, LSTM, GRU}
       \end{axis}
     \end{tikzpicture}
     \caption{Training Loss (Cross-entropy) until plateau was reached. N = normalized, L = Lower, P = no position embedding. LSTM was removed as it did not go below 0.65}
@@ -158,15 +170,16 @@ CNN L    & 0.991    & 0.979     & 0.990  & 0.985 & \textbf{2117} & 3750 \\
 CNN P    & \textbf{0.993}    & \textbf{0.990}& \textbf{0.991}  & \textbf{0.990} & 2432 & \textbf{2114} \\
 CNN N    & 0.991    & 0.987     & 0.988  & 0.988 & 2756 & 3312 \\
 CNN L N  & 0.992    & 0.988     & 0.989  & 0.988 & 2500 & 3567 \\
-LSTM     & 0.939    & 0.637     & 0.918  & 0.720 & 21174 & 18662 \\ \hline
+LSTM     & 0.939    & 0.637     & 0.918  & 0.720 & 21174 & 18662 \\
+GRU     & 0.933    & 0.645     & 0.645  & 0.910 & 23706 & 19427 \\ \hline
 \end{tabular}
 \caption{Scores over the test dataset. \\\hspace{\textwidth}For models: N = normalized, L = Lower, P = no position embedding. \\\hspace{\textwidth}In headers, FN = False Negative, FP = False Positive}
 \label{tab:scores}
 \end{table}
 
-\subsubsection{Unknown texts}
+\paragraph{Out-of-domain (OUD) texts}
 
-While all models using CNN show improvement over the baseline, the models definitely do not significantly outperform (\textless 0.02 FScore). There is a reason for this: the baseline already performs nearly perfectly on the test corpus. The dictionary attack using n-grams did actually perform well. Therefore, an additional evaluation method was constructed. The baseline and the best achieving deep-learning model (CNN P) were evaluated on a secondary test corpus composed of texts that were not used in training: indeed, the training, dev and test corpus share the same texts while not sharing the same source corpora and as such the same writing, the same vocabulary. This new corpus is composed by 4 texts and counts 742 examples : the diplomatic edition of the \textit{Graal} (\citet{graal}), a \textit{Passion} and a \textit{Vie de Saint Leger}  (\citet{old_french_corpus}), a \textit{Vie de Saint Thibaut} (\citet{theobaldus}). Neither noise characters nor random keeping of words were applied.
+While all models using CNN show improvement over the baseline, the models definitely do not significantly outperform (\textless 0.02 FScore). There is a reason for this: the baseline already performs nearly perfectly on the test corpus. The dictionary attack using n-grams did actually perform well. Therefore, an additional evaluation method was constructed. The baseline and the best achieving deep-learning model (CNN P) were evaluated on a secondary test corpus composed of texts of a different domain. This new corpus is composed of 4 texts and counts 742 examples : the diplomatic edition of the \textit{Graal} (\citet{graal}), a \textit{Passion} and a \textit{Vie de Saint Leger}  (\citet{old_french_corpus}), a \textit{Vie de Saint Thibaut} (\citet{theobaldus}). Neither noise characters nor random keeping of words were applied. The resulting corpus contains 26,393 WC and 10,193 WB.
 
 The results here were highly different (\textit{cf.} Table \ref{tab:scores_unknown}): while it appears that the CNN is able to expand its "comprehension" of the language to newer texts, the new words are more difficult to take into account for the baseline \texttt{wordsegment} n-gram approach, resulting in a respective drop to 0.945 and 0.838 FScore. WordSegment specifically performed badly with WB false positives : it had 3658 over a corpus containing 10,193 WB token (around 35 \%).
 
@@ -178,13 +191,13 @@ The results here were highly different (\textit{cf.} Table \ref{tab:scores_unkno
 Baseline & 0.882 & 0.893 & 0.808 & 0.838 & 3658 & 644 \\
 CNN P & \textbf{0.957} & \textbf{0.948} & \textbf{0.944} & \textbf{0.945} & \textbf{854} & \textbf{723} \\ \hline
 \end{tabular}
-\caption{Scores over the unknown dataset. FN = False Negative, FP = False Positive}
+\caption{Scores over the out-of-domain dataset. FN = False Negative, FP = False Positive}
 \label{tab:scores_unknown}
 \end{table}
 
-\subsubsection{Example of outputs}
+\paragraph{Example of Outputs}
 
-The following inputs have been tagged with the CNN P model. Batches are constructed around the regular expression \texttt{\\W} with package \texttt{regex}. This explains why inputs such as \texttt{".i."} are automatically tagged as \texttt{" . i . "} by the tool. The input was stripped of its spaces before tagging, only the ground truth is shown for readability.
+The following inputs have been tagged with the CNN P model. Batches are constructed around the regular expression \texttt{\textbackslash{}W} with package \texttt{regex}. This explains why inputs such as \texttt{".i."} are automatically tagged as \texttt{" . i . "} by the tool. The input was stripped of its spaces before tagging, only the ground truth is shown for readability.
 
 \begin{table}[!ht]
 \centering
@@ -198,11 +211,11 @@ Aies joie et leesce en ton cuer car tu auras une fille qui aura .i. fil qui sera
 \label{tab:example_output}
 \end{table}
 
-\subsection{Evaluation on Latin data}
+\subsubsection{Evaluation on Latin data}
 
-For the following evaluations, the same process was deployed: CNN without Position was evaluated against the baseline on both a test set composed by the same texts that the training text, and an unknown corpora composed by unseen texts.
+For the following evaluations, the same process was deployed: CNN without Position was evaluated against the baseline on both a test set composed by the same texts that the training text, and an out-of-domain corpus composed by unseen texts. Evaluation has been done on three different kind of Latins (edited, classical Latin (1); medieval Latin of charters (2); epigraphic Latin (3)) as they show different level of difficulties: they always present rich morphology, but medieval Latin displays spelling variations while epigraphic Latin displays both spelling variation and a high presence of abbreviations.
 
-\subsubsection{Latin Prose and Poetic Corpora}
+\paragraph{Latin Prose and Poetic Corpora}
 
 \begin{table}[H]
 \centering
@@ -211,14 +224,14 @@ For the following evaluations, the same process was deployed: CNN without Positi
  & Corpus & Accuracy & Precision & Recall & FScore & WB FN & WB FP \\ \hline
 Baseline & Test & 0.978 & 0.961 & 0.974 & 0.968 & 886 & 1893 \\
 CNN P & Test & \textbf{0.992} & \textbf{0.987} & \textbf{0.989} & \textbf{0.988} & \textbf{439} & \textbf{584} \\ \hline
-Baseline & Unknown & 0.933 & 0.897 & 0.890 & 0.893 & 1587 & 1409 \\
-CNN P & Unknown & 0.970 & 0.952 & 0.956 & 0.954 & 600 & 709 \\ \hline
+Baseline & OUD & 0.933 & 0.897 & 0.890 & 0.893 & 1587 & 1409 \\
+CNN P & OUD & 0.970 & 0.952 & 0.956 & 0.954 & 600 & 709 \\ \hline
 \end{tabular}
 \caption{Scores over the Latin classical datasets. FN = False Negative, FP = False Positive}
 \label{tab:latin_corpora}
 \end{table}
 
-The Latin data is much more noisy than the Old French, as it was less curated than the digital edition provided for Old French. They are part of the Perseus corpus \citet{perseus} and were cut into passages in the context of my thesis. The training, evaluation and test corpora are built upon prose works from Cicero and Suetonius. The unknown corpus is built upon \textit{Epigrammata} from Martial, from book 1 to book 2, as it should be fairly different in word order, vocabulary, etc. Both corpus were generated without noise and word keeping, with a maximum sample size of 150 characters.
+The Latin data is much noisier than the Old French, as it was less curated than the digital edition provided for Old French. They are part of the Perseus corpus \citet{perseus} and were cut into passages in the context of my thesis. The training, evaluation and test corpora are built upon prose works from Cicero and Suetonius. The out-of-domain corpus is built upon \textit{Epigrammata} from Martial, from book 1 to book 2, as it should be fairly different in word order, vocabulary, etc. Both corpora were generated without noise and word keeping, with a maximum sample size of 150 characters.
 
 \textbf{Statistics:}
 \begin{itemize}
@@ -226,7 +239,7 @@ The Latin data is much more noisy than the Old French, as it was less curated th
 \item Number of evaluation examples: 3558
 \item Number of testing examples: 4406
 \item Number of classes in testing examples: 105,915 WC; 26,404 WB
-\item Number of classes in unknown examples: 35,910 WC; 8,828 WB
+\item Number of classes in OUD examples: 35,910 WC; 8,828 WB
 \end{itemize}
 
 \textbf{Example:}
@@ -237,7 +250,7 @@ The Latin data is much more noisy than the Old French, as it was less curated th
 
 \end{itemize}
 
-\subsubsection{Medieval Latin corpora}
+\paragraph{Medieval Latin corpora}
 
 \begin{table}[H]
 \centering
@@ -246,8 +259,8 @@ The Latin data is much more noisy than the Old French, as it was less curated th
  & Corpus & Accuracy & Precision & Recall & FScore & WB FN & WB FP \\ \hline
 Baseline & Test & 0.989 & 0.981 & 0.986 & 0.982 & 1036 & 933 \\
 CNN P & Test & \textbf{0.997} & \textbf{0.995} & \textbf{0.995} & \textbf{0.995} & \textbf{251} & \textbf{298} \\ \hline
-Baseline & Unknown & 0.929 & 0.900 & 0.865 & 0.881 & 14,382 & 27,019 \\
-CNN P & Unknown & 0.976 & 0.960 & 0.963 & 0.962 & 6509 & 7444\\ \hline
+Baseline & OUD & 0.929 & 0.900 & 0.865 & 0.881 & 14,382 & 27,019 \\
+CNN P & OUD & 0.976 & 0.960 & 0.963 & 0.962 & 6509 & 7444\\ \hline
 \end{tabular}
 \caption{Scores over the Latin medieval datasets. FN = False Negative, FP = False Positive}
 \label{tab:medieval_latin_corpora}
@@ -256,7 +269,7 @@ CNN P & Unknown & 0.976 & 0.960 & 0.963 & 0.962 & 6509 & 7444\\ \hline
 % test : 136,429+1036 WC / 933+33,120 WB
 % unk  : 458,273+14,382 WC / 27,019+85,985 WB
 
-The medieval Latin corpora is based on the project Formulae - Litterae - Chartae's open data (\citet{formulae}) for its training, evaluation and test sets; the unknown corpora is based on three texts from the Monumenta Germanica (\citet{germanica}) that are from early to late medieval period (Andreas Agnellus, Manegaldus, Theodoricus de Niem) and are drawn from the Corpus Corporum Project. Both corpus were generated without noise and word keeping, with a maximum sample size of 150 characters. The data presents some MUFI characters but still look like mostly normalized editions, unlike the Old French data.
+The medieval Latin corpus is based on the project Formulae - Litterae - Chartae's open data (\citet{formulae}) for its training, evaluation and test sets; the out-of-domain corpora is based on three texts from the Monumenta Germanica (\citet{germanica}) that are from early to late medieval period (Andreas Agnellus, Manegaldus, Theodoricus de Niem) and are drawn from the Corpus Corporum Project. Both corpora were generated without noise and word keeping, with a maximum sample size of 150 characters. The data presents some MUFI characters but still look like mostly normalized editions, unlike the Old French data.
 
 \textbf{Statistics:}
 
@@ -265,18 +278,18 @@ The medieval Latin corpora is based on the project Formulae - Litterae - Chartae
 \item Number of evaluation examples: 4098
 \item Number of testing examples: 5612
 \item Number of classes in testing examples: 137,465 WC; 34,053 WB
-\item Number of classes in unknown examples: 472,655 WC; 113,004 WB
-\end{itemize}p
+\item Number of classes in OUD examples: 472,655 WC; 113,004 WB
+\end{itemize}
 
 \textbf{Example:}
 
 \begin{itemize}
-    \item Input : nonparvamremtibi	
+    \item Input : nonparvamremtibi  
     \item Output : non parvam rem tibi
 
 \end{itemize}
 
-\subsubsection{Latin epigraphic corpora}
+\paragraph{Latin epigraphic corpora}
 
 \begin{table}[H]
 \centering
@@ -287,10 +300,10 @@ Baseline & Test & 0.956 & 0.935 & 0.943 & 0.939 & 2646 & 3547 \\
 CNN P & Test & \textbf{0.987} & \textbf{0.983} & \textbf{0.979} & \textbf{0.981} & \textbf{1149} & \textbf{722} \\ \hline
 Baseline & Test Uppercase & 0.956 & 0.935 & 0.942 & 0.938 & 2664 & 3457 \\
 CNN P & Test Uppercase & \textbf{0.979} & \textbf{0.972} & \textbf{0.967} & \textbf{0.969} & \textbf{1715} & \textbf{1275} \\ \hline
-Baseline & Unknown & 0.879 & 0.834 & 0.817 & 0.825 & 8693 & 11332 \\
-CNN P & Unknown & 0.953 & 0.939 & 0.926 & 0.932 & 4689 & 3112 \\ \hline
-Baseline & Unknown Uppercase & 0.879 & 0.834 & 0.817 & 0.825 & 8693 & 11332 \\
-CNN P & Unknown Uppercase & 0.936 & 0.914 & 0.902 & 0.908 & 6152 & 4464 \\ \hline
+Baseline & OUD & 0.879 & 0.834 & 0.817 & 0.825 & 8693 & 11332 \\
+CNN P & OUD & 0.953 & 0.939 & 0.926 & 0.932 & 4689 & 3112 \\ \hline
+Baseline & OUD Uppercase & 0.879 & 0.834 & 0.817 & 0.825 & 8693 & 11332 \\
+CNN P & OUD Uppercase & 0.936 & 0.914 & 0.902 & 0.908 & 6152 & 4464 \\ \hline
 \end{tabular}
 \caption{Scores over the Latin epigraphic datasets. FN = False Negative, FP = False Positive}
 \label{tab:epigraphyc_latin}
@@ -299,7 +312,7 @@ CNN P & Unknown Uppercase & 0.936 & 0.914 & 0.902 & 0.908 & 6152 & 4464 \\ \hlin
 % test : 136,429+1036 WC / 933+33,120 WB
 % unk  : 458,273+14,382 WC / 27,019+85,985 WB
 
-The epigraphic Latin corpora is based on the Epigraphic Database Heidelberg open data \citet{formulae} for its training, evaluation and test sets (HD000001-HD010000 and HD010001-HD020000 from \citet{edh}) while the corpus of unknown is drawn from an automatic conversion of the Pompei Inscriptions (\citet{pompei}). Both the baseline and the model were evaluated on uppercase data, as it would normally be the state the text would be found in. Each of the corpora presents a high number of unresolved abbreviations (\textit{ie.} one letter words). Both corpus were generated without noise and word keeping, with a maximum sample size of 150 characters. The data presents some polytonic Greek characters, some sample being only in Greek.
+The Latin epigraphic corpus is based on the Epigraphic Database Heidelberg open data \citet{formulae} for its training, evaluation and test sets (HD000001-HD010000 and HD010001-HD020000 from \citet{edh}) while the out-of-domain corpus is drawn from an automatic conversion of the Pompei Inscriptions (\citet{pompei}). Both the baseline and the model were evaluated on uppercase data, as it would normally be the state the text would be found in. Each of the corpora presents a high number of unresolved abbreviations (\textit{ie.} one letter words). Both corpora were generated without noise and word keeping, with a maximum sample size of 150 characters. The data presents some polytonic Greek characters, some sample being only in Greek.
 
 \textbf{Statistics:}
 
@@ -308,13 +321,13 @@ The epigraphic Latin corpora is based on the Epigraphic Database Heidelberg open
 \item Number of evaluation examples: 5,802
 \item Number of testing examples: 5,804
 \item Number of classes in testing examples: 107,963 WC; 31,900 WB
-\item Number of classes in unknown examples: 127,268 WC; 38,055 WB
+\item Number of classes in OUD examples: 127,268 WC; 38,055 WB
 \end{itemize}
 
 \textbf{Example:}
 
 \begin{itemize}
-    \item Input : DnFlClIuliani	
+    \item Input : DnFlClIuliani 
     \item Output : D n Fl Cl Iuliani
 \end{itemize}
 
@@ -324,15 +337,15 @@ Aside from a graphical challenge, word segmentation in OCR from manuscripts can 
 
 The negligible effects of the different normalization methods (lower-casing; ASCII reduction; both) were surprising. The presence of certain MUFI characters might provide enough information about segmentation and be of sufficient quantity for them not to impact the network weights. 
 
-While the baseline performed unexpectedly well on the test corpus, the CNN model definitely performed better on a completely unknown corpus. In this context, the proposed model actually shows its ability to carry over unknown corpora in a better way than classical n-gram approaches. In light of the high accuracy of the CNN model, the model should perform the same way independently of the language in Medieval Western Europe,.
+While the baseline performed unexpectedly well on the test corpus, the CNN model definitely performed better on a out-of-domain corpus. In this context, the proposed model actually shows its ability to carry over unknown corpora in a better way than classical n-gram approaches. In light of the high accuracy of the CNN model, the model should perform the same way independently of the language in Medieval Western Europe.
 
 \subsection{Conclusion}
 
-Achieving 0.99 accuracy on word segmentation with a corpus as large as 25,000 test samples seems to be the first step for a more thorough data mining of OCRed manuscript. Given the results, studying the importance of normalization and lowering should probably be a further step, as it might be of high influence in smaller corpora. 
+Achieving 0.99 accuracy on word segmentation with a corpus as large as 25,000 test samples seems to be the first step for a more thorough data mining of OCRed manuscripts. Given the results, studying the importance of normalization and lowering should probably be a further step, as it might be of high influence in smaller corpora. 
 
 \subsection{Acknowledgements}
 
-Boudams has been made possible by two open-source repositories from which I learned and copied bits of implementation of certain modules and without which none of this paper would have been possible: \citet{enrique_manjavacas_2019_2654987} and \citet{bentrevett}. This tool was originally intended for post-processing OCR for the presentation \citet{pinchecampsclerice} at DH2019 in Utrecht.
+Boudams has been made possible by two open-source repositories from which I learned and copied bits of the implementation of certain modules and without which none of this paper would have been possible: \citet{enrique_manjavacas_2019_2654987} and \citet{bentrevett}. This tool was originally intended for post-processing OCR for the presentation \citet{pinchecampsclerice} at DH2019 in Utrecht.
 
 
 
