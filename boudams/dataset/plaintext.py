@@ -9,7 +9,7 @@ from typing import Iterable, Union
 from boudams.dataset.base import write_sentence, _space
 
 
-_splitter = re.compile("(\W+)")
+_splitter = re.compile(r"([^\p{l}\p{p}]+)")
 
 
 def convert(
