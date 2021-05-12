@@ -9,8 +9,8 @@ from typing import Iterable, Union
 from boudams.dataset.base import write_sentence, _space
 
 
-_splitter = re.compile(r"([^\p{l}\p{p}]+)")
-
+#_splitter = re.compile(r"([^\p{l}\p{p}]+)")
+_splitter = re.compile(r"(\s+)")
 
 def convert(
         input_path: Union[Iterable[str], str], output_path: str,
