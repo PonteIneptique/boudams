@@ -9,9 +9,8 @@ from typing import Iterable, Union
 from boudams.dataset.base import write_sentence, _space
 
 
-_splitter = re.compile("(\W+)")
+_splitter = re.compile(r"(\s+)")
 _apos = re.compile("['’]")
-
 
 def convert(
         input_path: Union[Iterable[str], str], output_path: str,
