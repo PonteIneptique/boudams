@@ -1,14 +1,11 @@
 import os
 import logging
 from collections import namedtuple
-from dataclasses import dataclass
 from typing import Optional, Union, List
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import Callback, EarlyStopping
 
-from boudams.tagger import BoudamsTagger, DEVICE
-from boudams.encoder import DatasetIterator
-import boudams.utils as utils
+from boudams.tagger import BoudamsTagger
 
 
 INVALID = "<INVALID>"
@@ -22,13 +19,13 @@ class SaveModelCallback(Callback):
     def on_validation_end(self, trainer: "Trainer", pl_module: BoudamsTagger) -> None:
         if not trainer.sanity_checking:
             logger.info('Saving to {}_{}'.format(trainer.model.output, trainer.current_epoch))
-            trainer.lightning_module.save_model(f'{trainer.model.output}_{trainer.current_epoch}')
+            trainer.lightning_module.dump(f'{trainer.model.output}_{trainer.current_epoch}')
 
 
 class Trainer(pl.Trainer):
     def __init__(
             self,
-            output : Optional[str] = "model.boudams_model",
+            output: Optional[str] = "model.boudams_model",
             callbacks: Optional[Union[List[Callback], Callback]] = None,
             *args,
             **kwargs
@@ -36,11 +33,9 @@ class Trainer(pl.Trainer):
         self.model_name = output
         kwargs['logger'] = False
         kwargs['enable_checkpointing'] = False
-        kwargs['callbacks'] = ([] if 'callbacks' not in kwargs else kwargs['callbacks'])
+        kwargs['callbacks'] = callbacks or []
         if not isinstance(kwargs['callbacks'], list):
             kwargs['callbacks'] = [kwargs['callbacks']]
-        kwargs["callbacks"].append(SaveModelCallback)
+        kwargs["callbacks"].append(SaveModelCallback())
 
         super().__init__(*args, **kwargs)
-
-

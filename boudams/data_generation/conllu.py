@@ -2,29 +2,26 @@ import glob
 import os
 import os.path
 import random
-import regex as re
+import csv
 
 from typing import Iterable, Union
 
-from boudams.dataset.base import write_sentence, _space
+from boudams.data_generation.base import write_sentence
 
-
-_splitter = re.compile(r"(\s+)")
-_apos = re.compile("['’]")
 
 def convert(
-        input_path: Union[Iterable[str], str], output_path: str,
+        input_path: Union[Iterable[str], str], output_path: str, dict_reader: bool = True,
         min_words: int = 2, max_words: int = 10,
         min_char_length: int = 7, max_char_length: int = 100,
         random_keep: float = 0.3, max_kept: int = 1,
-        noise_char: str = ".", noise_char_random: float = 0.2, max_noise_char: int = 2,
-        **kwargs
+        noise_char: str = ".", noise_char_random: float = 0.2, max_noise_char: int = 2
 ):
     """ Build sequence to train data over using TSV or TAB files where either the first
     column or the column "form" or the column "token" contains the word that needs to be used.
 
     :param input_path: Glob-like path or list of path to treat
     :param output_path: Path where the file should be saved
+    :param dict_reader: Files have column names
     :param min_words: Minimum of words to build a line
     :param max_words: Maximum number of words to build a line
     :param min_char_length: Minimum amount of characters to build a line
@@ -35,7 +32,6 @@ def convert(
     :param noise_char_random: Probability to add [NOISE_CHAR] in between words
     :param max_noise_char: Maximum amount of [NOISE_CHAR] to add sequentially
     """
-
     if isinstance(input_path, str):
         data = glob.glob(input_path)
     else:
@@ -57,14 +53,22 @@ def convert(
 
                 sequence = []
                 next_sequence = random.randint(min_words, max_words)
+                if dict_reader:
+                    reader = csv.DictReader(input_fio, delimiter="\t", quotechar="漢")
+                    if key not in reader.fieldnames:
+                        key = "tokens"
+                else:
+                    reader = input_fio.readlines()
 
-                content = _apos.sub(" ", input_fio.read())
-
-                for word in _splitter.split(content):
-                    word = _space.sub("", word)
-                    if not word:
+                for line_index, line in enumerate(reader):
+                    if line_index == 0 and not dict_reader:
                         continue
-                    sequence.append(word)
+
+                    if dict_reader:
+                        sequence.append(line[key].strip())
+                    else:
+                        tokens = line.strip().split("\t")
+                        sequence.append(tokens[0].strip())
 
                     char_length = len("".join(sequence))
 
@@ -106,13 +110,11 @@ def convert(
 
 
 if __name__ == "__main__":
-    from boudams.dataset.base import check, split
+    from boudams.data_generation.base import check, split
 
-    inp = "/home/thibault/dev/boudams/test_data/bfmmss/txt/*.txt"
-    output = "/home/thibault/dev/boudams/test_data/bfmmss/"
+    output = "/home/thibault/dev/boudams/data/seints"
+    inp = "/home/thibault/dev/LiSeinConfessorPandora/data/lemmatises/*.tsv"
 
-    max_char_length = 200
-
-    convert(inp, output, max_char_length=200)
-    split(output + "/*", output_path=output)
+    convert(inp, output, dict_reader=True)
+    split(output + "/*")
     check(output + "/")

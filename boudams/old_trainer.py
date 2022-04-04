@@ -17,7 +17,7 @@ import tqdm
 from sklearn.metrics import confusion_matrix, precision_recall_fscore_support, classification_report
 
 from boudams.tagger import BoudamsTagger, DEVICE
-from boudams.encoder import DatasetIterator
+from boudams.dataset import BoudamsDataset
 import boudams.utils as utils
 import os
 
@@ -195,7 +195,7 @@ class Trainer(object):
               f' Recl.: {score.recall:.3f}')
 
     def run(
-            self, train_dataset: DatasetIterator, dev_dataset: DatasetIterator,
+            self, train_dataset: BoudamsDataset, dev_dataset: BoudamsDataset,
             lr: float = 1e-3, min_lr: float = 1e-6, lr_factor: int = 0.75, lr_patience: float = 10,
             lr_grace_periode: int = 10,  # Number of first iterations where we ignore lr_patience
             n_epochs: int = 10, batch_size: int = 256, clip: int = 1,
@@ -340,7 +340,7 @@ class Trainer(object):
             )
         ]
 
-    def _train_epoch(self, iterator: DatasetIterator, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
+    def _train_epoch(self, iterator: BoudamsDataset, optimizer: optim.Optimizer, criterion: nn.CrossEntropyLoss,
                      clip: float, desc: str, batch_size: int = 32) -> Score:
         self.tagger.model.train()
 
@@ -381,7 +381,7 @@ class Trainer(object):
                      fscore=scorer.scores.fscore,
                      scorer=scorer)
 
-    def evaluate(self, iterator: DatasetIterator, criterion: nn.CrossEntropyLoss,
+    def evaluate(self, iterator: BoudamsDataset, criterion: nn.CrossEntropyLoss,
                  desc: str, batch_size: int, test_mode=False,
                  class_report: bool = False) -> Score:
 
@@ -418,7 +418,7 @@ class Trainer(object):
                      fscore=scorer.scores.fscore,
                      scorer=scorer)
 
-    def test(self, test_dataset: DatasetIterator, batch_size: int = 256, do_print=True, class_report=False):
+    def test(self, test_dataset: BoudamsDataset, batch_size: int = 256, do_print=True, class_report=False):
         # Set up loss but ignore the loss when the token is <pad>
         #     where <pad> is the token for filling the vector to get same-sized matrix
         criterion = nn.CrossEntropyLoss(ignore_index=self.tagger.vocabulary.pad_token_index)

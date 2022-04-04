@@ -5,11 +5,13 @@ import tqdm
 import json
 import datetime
 
-from boudams.tagger import BoudamsTagger
-from boudams.trainer import Trainer, logger
-from boudams.encoder import LabelEncoder, DatasetIterator
+from torch.utils.data import DataLoader
 
-from boudams.dataset import conllu, base as dataset_base, plaintext
+from boudams.tagger import BoudamsTagger, OptimizerParams
+from boudams.trainer import Trainer, logger
+from boudams.encoder import LabelEncoder
+from boudams.dataset import BoudamsDataset
+from boudams.data_generation import conllu, base as dataset_base, plaintext
 
 
 @click.group()
@@ -186,12 +188,10 @@ def train(config_files, epochs, batch_size, device, debug):
             pprint(vocabulary.mtoi)
 
         # Get the datasets
-        train_dataset: DatasetIterator = vocabulary.get_dataset(
-            train_path, randomized=config["datasets"].get("random", True))
-        dev_dataset: DatasetIterator = vocabulary.get_dataset(
-            dev_path, randomized=config["datasets"].get("random", True))
-        test_dataset: DatasetIterator = vocabulary.get_dataset(
-            test_path, randomized=config["datasets"].get("random", True))
+        train_dataset: BoudamsDataset = vocabulary.get_dataset(train_path)
+        dev_dataset: BoudamsDataset = vocabulary.get_dataset(dev_path)
+        test_dataset: BoudamsDataset = vocabulary.get_dataset(test_path)
+
         logger.info("Training %s " % config_file.name)
         logger.info("-- Dataset informations --")
         logger.info(f"Number of training examples: {len(train_dataset)}")
@@ -201,18 +201,32 @@ def train(config_files, epochs, batch_size, device, debug):
 
         tagger = BoudamsTagger(
             vocabulary,
-            system=config["model"], out_max_sentence_length=config.get("max_sentence_size", None),
-            **config["network"])
-        trainer = Trainer()
-        trainer.fit(tagger, train_dataset, dev_dataset)
-
-        trainer.run(
-            train_dataset, dev_dataset, n_epochs=epochs,
-            fpath=config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0] + ".tar",
-            batch_size=batch_size, **config["learner"]
+            system=config["model"],
+            out_max_sentence_length=config.get("max_sentence_size", None),
+            optimizer=OptimizerParams("Adams", kwargs={"lr": config["learner"]["lr"]}),
+            **config["network"]
+        )
+        trainer = Trainer(
+            output=config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0],
+            #  n_epochs=epochs,
+        )
+        trainer.fit(
+            tagger,
+            DataLoader(
+                train_dataset,
+                batch_size=batch_size,
+                shuffle=config["datasets"].get("random", True),
+                collate_fn=train_dataset.train_collate_fn
+            ),
+            DataLoader(
+                dev_dataset,
+                batch_size=batch_size,
+                shuffle=config["datasets"].get("random", True),
+                collate_fn=dev_dataset.train_collate_fn
+            ),
         )
 
-        trainer.test(test_dataset, batch_size=batch_size)
+        trainer.test(tagger, DataLoader(test_dataset, batch_size=batch_size))
 
 
 @cli.command("test")
@@ -234,7 +248,7 @@ def test(test_path, model_tar, csv_file, batch_size, device, debug, verbose):
         model = BoudamsTagger.load(config_file, device=device)
 
         # Get the datasets
-        test_dataset: DatasetIterator = model.vocabulary.get_dataset(test_path)
+        test_dataset: BoudamsDataset = model.vocabulary.get_dataset(test_path)
 
         print("Testing %s " % config_file)
         print("-- Dataset informations --")

@@ -230,9 +230,9 @@ class BoudamsTagger(pl.LightningModule):
         :param batch_idx:
         :return: Loss (currently)
         """
-        (x, x_len), gt = batch
+        x, x_len, gt = batch
         y = self(x, x_len)
-        loss = self.loss(y=y, gt=gt)
+        loss = self._loss(*self._view_y_gt(y=y, gt=gt))
         return loss
 
     def predict_step(self, batch: Any, batch_idx: int, dataloader_idx: Optional[int] = None) -> Any:
@@ -243,18 +243,21 @@ class BoudamsTagger(pl.LightningModule):
         :param dataloader_idx:
         :return: Loss (currently)
         """
-        (x, x_len) = batch
+        x, x_len = batch
         y = self(x, x_len)
         return y
 
     def validation_step(self, batch, batch_idx):
-        (x, x_len), gt = batch
+        x, x_len, gt = batch
         y = self(x, x_len)
-        loss = self.loss(y=y, gt=gt)
+        loss = self._loss(*self._view_y_gt(y=y, gt=gt))
         self.log("val_loss", loss)
 
+    def _view_y_gt(self, y, gt):
+        return y.view(-1, self.model.decoder.out_dim), gt.view(-1)
+
     def configure_optimizers(self):
-        return self.opt
+        return self.optimizer_params.get_optimizer(self.parameters())
 
     def annotate(self, texts: List[str], batch_size=32, device: str = "cpu"):
         self.model.eval()

@@ -32,7 +32,7 @@ class LinearLSTMEncoder(LSTMEncoder):
 
 
 class LinearEncoderCNNNoPos(nn.Module):
-    def __init__(self, input_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, device: str = "cpu"):
+    def __init__(self, input_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout):
         super().__init__()
 
         assert kernel_size % 2 == 1, "Kernel size must be odd!"
@@ -42,9 +42,8 @@ class LinearEncoderCNNNoPos(nn.Module):
         self.hid_dim = hid_dim
         self.kernel_size = kernel_size
         self.dropout = dropout
-        self.device = device
 
-        self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
+        self.scale = torch.sqrt(torch.FloatTensor([0.5]))
 
         self.tok_embedding = nn.Embedding(input_dim, emb_dim)
 
@@ -63,7 +62,7 @@ class LinearEncoderCNNNoPos(nn.Module):
         # create position tensor
 
         # pos = [src sent len, batch size] (Not what is documented)
-        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1).to(self.device)
+        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1)
 
         # embed tokens and positions
         tok_embedded = self.tok_embedding(src)
@@ -148,7 +147,6 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
     def __init__(
         self,
         encoder: CNNEncoder, decoder: LinearDecoder,
-        device: str,
         pad_idx: int,
         pos: bool = False,
         **kwargs
@@ -160,7 +158,6 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         self.pos = pos
 
         self.pad_idx = pad_idx
-        self.device = device
 
         # nll weight
         nll_weight = torch.ones(decoder.out_dim)
