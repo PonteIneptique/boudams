@@ -93,7 +93,6 @@ class BoudamsTagger(pl.LightningModule):
         :param emb_enc_dim:
         :param emb_dec_dim:
         :param max_length:
-        :param device:
         """
         super(BoudamsTagger, self).__init__()
 
@@ -251,7 +250,7 @@ class BoudamsTagger(pl.LightningModule):
         x, x_len, gt = batch
         y = self(x, x_len)
         loss = self._loss(*self._view_y_gt(y=y, gt=gt))
-        self.log("val_loss", loss)
+        self.log("val_loss", loss, batch_size=len(y))
 
     def _view_y_gt(self, y, gt):
         return y.view(-1, self.model.decoder.out_dim), gt.view(-1)
@@ -310,25 +309,26 @@ class BoudamsTagger(pl.LightningModule):
 
         # create dir if necessary
         dirname = os.path.dirname(fpath)
-        os.makedirs(dirname, exist_ok=True)
+        if dirname:
+            os.makedirs(dirname, exist_ok=True)
 
         with tarfile.open(fpath, 'w') as tar:
             # serialize settings
             utils.add_gzip_to_tar(
-                json.dumps(self.tagger.settings),
+                json.dumps(self.settings),
                 'settings.json.zip',
                 tar
             )
             # Serialize vocabulary
             utils.add_gzip_to_tar(
-                self.tagger.vocabulary.dump(),
+                self.vocabulary.dump(),
                 'vocabulary.json',
                 tar
             )
 
             # serialize field
             with utils.tmpfile() as tmppath:
-                torch.save(self.tagger.model.state_dict(), tmppath)
+                torch.save(self.model.state_dict(), tmppath)
                 tar.add(tmppath, arcname='state_dict.pt')
 
         return fpath

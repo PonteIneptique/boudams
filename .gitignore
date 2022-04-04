@@ -10,7 +10,7 @@ models/
 /bfmmss*.png
 /latin*.png
 
-
+*.boudams_model
 *.~lock.*
 
 # LaTex

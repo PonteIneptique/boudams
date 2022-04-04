@@ -18,19 +18,19 @@ logger = logging.getLogger(__name__)
 class SaveModelCallback(Callback):
     def on_validation_end(self, trainer: "Trainer", pl_module: BoudamsTagger) -> None:
         if not trainer.sanity_checking:
-            logger.info('Saving to {}_{}'.format(trainer.model.output, trainer.current_epoch))
-            trainer.lightning_module.dump(f'{trainer.model.output}_{trainer.current_epoch}')
+            logger.info('Saving to {}_{}'.format(trainer.model_name, trainer.current_epoch))
+            trainer.lightning_module.dump(f'{trainer.model_name}_{trainer.current_epoch}')
 
 
 class Trainer(pl.Trainer):
     def __init__(
             self,
-            output: Optional[str] = "model.boudams_model",
+            model_name: Optional[str] = "model.boudams_model",
             callbacks: Optional[Union[List[Callback], Callback]] = None,
             *args,
             **kwargs
     ):
-        self.model_name = output
+        self.model_name = model_name
         kwargs['logger'] = False
         kwargs['enable_checkpointing'] = False
         kwargs['callbacks'] = callbacks or []

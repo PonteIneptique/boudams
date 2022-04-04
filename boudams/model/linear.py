@@ -85,6 +85,8 @@ class LinearEncoderCNNNoPos(nn.Module):
 
         # conv_input = [batch size, hid dim, src sent len]
 
+        self.scale = self.scale.type_as(conv_input)
+
         for i, conv in enumerate(self.convs):
             # pass through convolutional layer
             conved = conv(self.dropout(conv_input))
