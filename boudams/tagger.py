@@ -302,17 +302,18 @@ class BoudamsTagger(pl.LightningModule):
     def _eval_step(self, batch, batch_idx, prefix: str):
         x, x_len, gt = batch
         y = self(x, x_len)
-        batch_size = y.shape[0]
+        batch_size = gt.shape[0]
         y, gt = self._view_y_gt(y=y, gt=gt)
 
         # Remove manually index which are supposed to be pad...
         index_of_non_pads = (gt != self.vocabulary.pad_token_index).nonzero(as_tuple=False)
-        y = y[index_of_non_pads, :]
-        gt = gt[index_of_non_pads]
 
         if prefix != "test":
-            loss = getattr(self, f"{prefix}_loss")(y, gt)
-            self.log(f"{prefix}_loss", loss, batch_size=batch_size, prog_bar=False)
+            loss = getattr(self, f"{prefix}_loss")(y=y, gt=gt)
+            self.log(f"{prefix}_loss", loss, batch_size=batch_size, prog_bar=True)
+
+        y = y[index_of_non_pads, :]
+        gt = gt[index_of_non_pads]
 
         # for normal metrics, we simplify
         y = torch.argmax(y, -1)

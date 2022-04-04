@@ -191,7 +191,6 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
             raise AttributeError("The encoder is not recognized.")
 
         output = self.decoder(second_step)
-
         return output
 
     def predict(self, src, src_len, label_encoder: "LabelEncoder",
@@ -204,77 +203,9 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         :return: Reversed Batch
         """
         out = self(src, src_len, None, teacher_forcing_ratio=0)
-        logits = torch.argmax(out, 2)
+        logits = torch.argmax(out, -1)
         return label_encoder.reverse_batch(
             logits,
             masked=override_src or src,
             ignore=(self.pad_idx, )
-        )
-
-    def gradient(
-        self,
-        src, src_len, trg=None,
-        scorer: "Scorer" = None, criterion=None,
-        evaluate: bool = False,
-        **kwargs
-    ):
-        """
-
-        :param src: tensor(batch size x sentence length)
-        :param src_len: tensor(batch_size)
-        :param trg: tensor(batch_size x output_length)
-        :param scorer: Scorer
-        :param criterion: Loss System
-        :param evaluate: Whether we are in eval mode
-        :param kwargs:
-        :return: tensor(batch_size x output_length)
-
-        """
-        output = self(src, src_len, trg)
-        # -> tensor(batch_size * sentence_length)
-
-        # We register the current batch
-        #  For this to work, we get ONLY the best score of output which mean we need to argmax
-        #   at the second layer (base 0 I believe)
-        # We basically get the best match at the output dim layer : the best character.
-
-        # The prediction and ground truth batches NECESSARLY starts by "0" where
-        #    0 is the SOS token. In order to have a score independant from hardcoded ints,
-        #    we remove the first element of each sentence
-
-        scorer.register_batch(
-            torch.argmax(output, 2),
-            trg,
-            src
-        )
-
-        # trg = [trg sent len, batch size]
-        # output = [trg sent len, batch size, output dim]
-
-        # trg = [(trg sent len - 1) * batch size]
-        # output = [(trg sent len - 1) * batch size, output dim]
-
-        # About contiguous : https://stackoverflow.com/questions/48915810/pytorch-contiguous
-        # Basically, elements of the tensor are spread over memory and to make it VERY simple, it's a bit like
-        #   deepcopy.
-
-        loss = criterion(
-            output.view(-1, self.decoder.out_dim),
-            trg.view(-1)
-        )
-
-        return loss
-
-    def get_loss(self, preds, truths):
-        """
-
-        :param preds:
-        :param truths:
-        :return:
-        """
-        return F.cross_entropy(
-            preds.view(-1, len(self.label_encoder)),
-            truths.view(-1),
-            weight=self.nll_weight, reduction="mean",
-            ignore_index=self.label_encoder.get_pad()
         )
