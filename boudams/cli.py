@@ -1,11 +1,12 @@
 import click
+import logging
 import re
 import tqdm
 import json
 import datetime
 
 from boudams.tagger import BoudamsTagger
-from boudams.trainer import Trainer
+from boudams.trainer import Trainer, logger
 from boudams.encoder import LabelEncoder, DatasetIterator
 
 from boudams.dataset import conllu, base as dataset_base, plaintext
@@ -163,8 +164,10 @@ def template(filename):
 def train(config_files, epochs, batch_size, device, debug):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
     if debug:
-        import logging
-        logging.getLogger().setLevel(logging.DEBUG)
+        logger.setLevel(logging.DEBUG)
+    else:
+        logger.setLevel(logging.INFO)
+
     for config_file in config_files:
         config = json.load(config_file)
 
@@ -189,20 +192,19 @@ def train(config_files, epochs, batch_size, device, debug):
             dev_path, randomized=config["datasets"].get("random", True))
         test_dataset: DatasetIterator = vocabulary.get_dataset(
             test_path, randomized=config["datasets"].get("random", True))
-        print("Training %s " % config_file.name)
-        print("-- Dataset informations --")
-        print("Number of training examples: {}".format(len(train_dataset)))
-        print("Number of dev examples: {}".format(len(dev_dataset)))
-        print("Number of testing examples: {}".format(len(test_dataset)))
-        print("--------------------------")
+        logger.info("Training %s " % config_file.name)
+        logger.info("-- Dataset informations --")
+        logger.info(f"Number of training examples: {len(train_dataset)}")
+        logger.info(f"Number of dev examples: {len(dev_dataset)}")
+        logger.info(f"Number of testing examples: {len(test_dataset)}")
+        logger.info("--------------------------")
 
         tagger = BoudamsTagger(
             vocabulary,
-            device=device, system=config["model"], out_max_sentence_length=config.get("max_sentence_size", None),
+            system=config["model"], out_max_sentence_length=config.get("max_sentence_size", None),
             **config["network"])
-        trainer = Trainer(tagger, device=device)
-        print(tagger.model)
-        print()
+        trainer = Trainer()
+        trainer.fit(tagger, train_dataset, dev_dataset)
 
         trainer.run(
             train_dataset, dev_dataset, n_epochs=epochs,
