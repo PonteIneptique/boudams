@@ -1,8 +1,4 @@
-import torch
 import torch.nn as nn
-import random
-
-from .base import BaseSeq2SeqModel
 
 
 class Encoder(nn.Module):

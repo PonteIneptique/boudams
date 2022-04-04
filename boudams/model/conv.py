@@ -3,14 +3,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import random
-
-from .base import BaseSeq2SeqModel, pprint_2d, pprint_1d
-
-
-from typing import TYPE_CHECKING
-if TYPE_CHECKING:
-    from ..trainer import Scorer
 
 
 class Encoder(nn.Module):

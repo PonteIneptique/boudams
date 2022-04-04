@@ -3,14 +3,9 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import random
-
-from .base import BaseSeq2SeqModel, pprint_2d, pprint_1d
 
 
-from typing import TYPE_CHECKING, Optional, List
-if TYPE_CHECKING:
-    from ..trainer import Scorer
+from typing import Optional, List
 
 
 from .conv import Encoder as CNNEncoder
@@ -141,7 +136,7 @@ class LinearDecoder(nn.Module):
         return self.decoder(enc_outs)
 
 
-class MainModule(BaseSeq2SeqModel):
+class MainModule(nn.Module):
     masked_only = True
 
     def __init__(
