@@ -47,13 +47,18 @@ def write_sentence(io_file, sentence: List[str], max_chars: int = 150):
         io_file.write(formatter(sequence))
 
 
-def check(input_path: str, max_length: int = 100):
+def check(input_path: str, ratio, max_length: int = 100):
     """ Check train.tsv, dev.tsv and test.tsv in [INPUT_PATH] and print report
 
     :param input_path: Directory containing train, dev and test
+    :param ratio: Ratio (Train, Dev, Test)
     :param max_length: Maximum length of character for input or output
     """
-    files = ("test.tsv", "dev.tsv", "train.tsv")
+
+    out = ["train.tsv", "dev.tsv", "test.tsv"]
+    created = [r > 0 for r in ratio]
+    files= [f for (f, c) in zip(out, created) if c]
+
     for file in files:
         max_chars, min_chars, min_words, max_words = 0, max_length, max_length, 0
         with open(os.path.join(input_path, file)) as f:
@@ -102,9 +107,14 @@ def split(input_path: Union[str, Iterable[str]], output_path: str, ratio: Tuple[
     if isinstance(input_path, str):
         input_path = glob.glob(input_path)
 
-    test_io = open(os.path.join(output_path, "test.tsv"), "w")
-    dev_io = open(os.path.join(output_path, "dev.tsv"), "w")
-    train_io = open(os.path.join(output_path, "train.tsv"), "w")
+    if test_ratio > 0:
+        test_io = open(os.path.join(output_path, "test.tsv"), "w")
+
+    if dev_ratio > 0:
+        dev_io = open(os.path.join(output_path, "dev.tsv"), "w")
+
+    if train_ratio > 0:
+        train_io = open(os.path.join(output_path, "train.tsv"), "w")
 
     for file in input_path:
         if os.path.basename(file) in ("test.tsv", "dev.tsv", "train.tsv") or ".masked" in file:

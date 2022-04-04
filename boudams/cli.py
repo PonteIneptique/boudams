@@ -114,12 +114,14 @@ def generate(output_path, input_path, max_char_length, train_ratio, test_ratio):
     If you are using `tsv-header` as a method, columns containing tokens should be named "tokens" or "form"
     """
     dev_ratio = 1.0 - train_ratio - test_ratio
-    if dev_ratio <= 0.0:
+    if dev_ratio < 0.0:
         print("Train + Test cannot be greater or equal to 1.0")
         return
+
     dataset_base.split(input_path, output_path, max_char_length=max_char_length,
                        ratio=(train_ratio, dev_ratio, test_ratio))
-    dataset_base.check(output_path, max_length=max_char_length)
+    dataset_base.check(output_path, ratio=(train_ratio, dev_ratio, test_ratio),
+                       max_length=max_char_length)
 
 @cli.command("template")
 @click.argument("filename", type=click.File(mode="w"))
