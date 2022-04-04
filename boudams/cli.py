@@ -216,6 +216,7 @@ def train(config_files: List[click.File], output: str,
         logger.info(f"Number of training examples: {len(train_dataset)}")
         logger.info(f"Number of dev examples: {len(dev_dataset)}")
         logger.info(f"Number of testing examples: {len(test_dataset)}")
+        logger.info(f"Vocabulary Size: {len(vocabulary)}")
         logger.info("--------------------------")
 
         tagger = BoudamsTagger(
@@ -270,7 +271,7 @@ def train(config_files: List[click.File], output: str,
             DataLoader(
                 test_dataset,
                 batch_size=batch_size,
-                collate_fn=dev_dataset.train_collate_fn,
+                collate_fn=test_dataset.train_collate_fn,
                 num_workers=workers
             )
         )

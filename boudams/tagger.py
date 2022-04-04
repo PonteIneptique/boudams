@@ -26,10 +26,13 @@ MAX_LENGTH = 150
 
 
 class CrossEntropyLoss(pl.LightningModule):
-    def __init__(self, pad_index):
+    def __init__(self, pad_index, weights=None):
         super(CrossEntropyLoss, self).__init__()
         self._pad_index = pad_index
-        self._nn = nn.CrossEntropyLoss(ignore_index=self._pad_index)
+        self._nn = nn.CrossEntropyLoss(
+            weight=weights, reduction="mean",
+            ignore_index=self._pad_index
+        )
 
     def forward(self, y, gt) -> torch.TensorType:
         return self._nn(y, gt)
@@ -139,9 +142,12 @@ class BoudamsTagger(pl.LightningModule):
 
         if self.optimizer_params:
             # ToDo: Allow for DiceLoss
-            self.train_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
-            self.val_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
-            self.test_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
+            self.train_loss = CrossEntropyLoss(weights=self.model.nll_weight,
+                                               pad_index=self.vocabulary.pad_token_index)
+            self.val_loss = CrossEntropyLoss(weights=self.model.nll_weight,
+                                             pad_index=self.vocabulary.pad_token_index)
+            self.test_loss = CrossEntropyLoss(weights=self.model.nll_weight,
+                                              pad_index=self.vocabulary.pad_token_index)
 
             if metric_average not in {"micro", "macro"}:
                 raise ValueError("`metric_average` can only be `micro` or `macro`")
@@ -300,6 +306,10 @@ class BoudamsTagger(pl.LightningModule):
         y, gt = self._view_y_gt(y=y, gt=gt)
 
         loss = getattr(self, f"{prefix}_loss")(y, gt)
+
+        # for normal metrics, we simplify
+        y = torch.argmax(y, -1)
+
         acc = getattr(self, f"{prefix}_acc")(y, gt)
         f1 = getattr(self, f"{prefix}_f1")(y, gt)
         rec = getattr(self, f"{prefix}_rec")(y, gt)

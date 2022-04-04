@@ -63,11 +63,18 @@ class BoudamsDataset(torch_data.Dataset):
         DataLoaderBatch should be a list of (sequence, target, length) tuples...
         Returns a padded tensor of sequences sorted from longest to shortest,
         """
-        batch_size = len(batch)
         x, x_length, y, y_length, _ = list(zip(*sorted(batch, key=itemgetter(1), reverse=True)))
         return (
-            pad_sequence([torch.tensor(x_i) for x_i in x]),
+            pad_sequence(
+                [torch.tensor(x_i) for x_i in x],
+                padding_value=self._l_e.pad_token_index,
+                batch_first=True
+            ),
             torch.tensor(x_length),
-            pad_sequence([torch.tensor(y_i) for y_i in y])#,
+            pad_sequence(
+                [torch.tensor(y_i) for y_i in y],
+                padding_value=self._l_e.pad_token_index,
+                batch_first=True
+            )#,
             #torch.tensor(x_length)
         )
