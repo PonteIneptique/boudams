@@ -89,7 +89,6 @@ class LabelEncoder:
         for path in paths:
             with open(path) as fio:
                 for line in fio.readlines():
-
                     x, y_true = self.readunit(line)
                     recorded_chars.update(set(list(x) + list(y_true)))
 
@@ -222,7 +221,6 @@ class LabelEncoder:
                     list(sentence)
                     for sentence in masked
                 ]
-            print(ignore)
 
             return [
                 [
@@ -310,6 +308,7 @@ class LabelEncoder:
             confusion,
             headers=header
         )
+
 
 if __name__ == "__main__":
     import glob

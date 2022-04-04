@@ -93,7 +93,7 @@ class BoudamsTagger(pl.LightningModule):
             enc_dropout: float = 0.5,
             enc_kernel_size: int = 3,
             out_max_sentence_length: int = 150,
-            optimizer: OptimizerParams = OptimizerParams,
+            optimizer: Optional[OptimizerParams] = None,
             system: str = "bi-gru",
             **kwargs # RetroCompat
     ):
@@ -112,9 +112,9 @@ class BoudamsTagger(pl.LightningModule):
         self.vocabulary_dimension: int = len(self.vocabulary)
 
         self.optimizer_params: OptimizerParams = optimizer
-        self.optimizer_params.validate()
-
-        self.lr = self.optimizer_params.kwargs.get("lr")
+        if self.optimizer_params:
+            self.optimizer_params.validate()
+            self.lr = self.optimizer_params.kwargs.get("lr")
 
         # Parse params and sizes
         self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
@@ -137,25 +137,26 @@ class BoudamsTagger(pl.LightningModule):
         # Build the module
         self._build_nn()
 
-        # ToDo: Allow for DiceLoss
-        self.train_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
-        self.val_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
-        self.test_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
+        if self.optimizer_params:
+            # ToDo: Allow for DiceLoss
+            self.train_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
+            self.val_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
+            self.test_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
 
-        if metric_average not in {"micro", "macro"}:
-            raise ValueError("`metric_average` can only be `micro` or `macro`")
+            if metric_average not in {"micro", "macro"}:
+                raise ValueError("`metric_average` can only be `micro` or `macro`")
 
-        # Metrics
-        metrics_params = dict(
-            average=metric_average,
-            num_classes=self.vocabulary.mask_count,
-            ignore_index=self.vocabulary.pad_token_index
-        )
-        for dataset in ["val", "test"]:
-            setattr(self, f"{dataset}_acc", torchmetrics.Accuracy(**metrics_params))
-            setattr(self, f"{dataset}_f1", torchmetrics.F1Score(**metrics_params))
-            setattr(self, f"{dataset}_pre", torchmetrics.Precision(**metrics_params))
-            setattr(self, f"{dataset}_rec", torchmetrics.Recall(**metrics_params))
+            # Metrics
+            metrics_params = dict(
+                average=metric_average,
+                num_classes=self.vocabulary.mask_count,
+                ignore_index=self.vocabulary.pad_token_index
+            )
+            for dataset in ["val", "test"]:
+                setattr(self, f"{dataset}_acc", torchmetrics.Accuracy(**metrics_params))
+                setattr(self, f"{dataset}_f1", torchmetrics.F1Score(**metrics_params))
+                setattr(self, f"{dataset}_pre", torchmetrics.Precision(**metrics_params))
+                setattr(self, f"{dataset}_rec", torchmetrics.Recall(**metrics_params))
 
     def _build_nn(self):
         seq2seq_shared_params = {
@@ -205,9 +206,6 @@ class BoudamsTagger(pl.LightningModule):
             pos="nopos" not in self.system,
             **seq2seq_shared_params
         )
-        self.init_weights = None
-        if self.init_weights:
-            self.model.apply(self.init_weights)
 
     @property
     def padtoken(self):
@@ -344,9 +342,11 @@ class BoudamsTagger(pl.LightningModule):
             logging.info("Dealing with batch %s " % (int(n/batch_size)+1))
             tensor, sentence_length, order = self.vocabulary.pad_and_tensorize(
                     [x for x, _ in xs],
-                    device=device,
                     padding=max(list(map(lambda x: x[1], xs)))
                 )
+
+            if device != "cpu":
+                tensor, sentence_length = tensor.to(device), sentence_length.to(device)
 
             translations = self.model.predict(
                 tensor, sentence_length, label_encoder=self.vocabulary,
@@ -355,7 +355,7 @@ class BoudamsTagger(pl.LightningModule):
             for index in range(len(translations)):
                 yield "".join(translations[order.index(index)])
 
-    def annotate_text(self, string, splitter=r"([⁊\W\d]+)", batch_size=32):
+    def annotate_text(self, string, splitter=r"([⁊\W\d]+)", batch_size=32, device: str = "cpu"):
         splitter = re.compile(splitter)
         splits = splitter.split(string)
 
@@ -376,7 +376,7 @@ class BoudamsTagger(pl.LightningModule):
                     treated.append(string)
             strings = treated
 
-        yield from self.annotate(strings, batch_size=batch_size)
+        yield from self.annotate(strings, batch_size=batch_size, device=device)
 
     def dump(self, fpath="model"):
         fpath += ".boudams_model"

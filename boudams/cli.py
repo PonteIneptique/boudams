@@ -325,27 +325,34 @@ def test(test_path, model_tar, csv_file, batch_size, device, debug, verbose):
 @click.argument("model", type=click.Path(exists=True, file_okay=True, dir_okay=False))
 @click.argument("filename", nargs=-1, type=click.File("r"))
 @click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
+@click.option("--batch-size", default=64, help="Batch Size")
 def tag(model, filename, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     print("Loading the model.")
-    model = BoudamsTagger.load(model, device=device)
+    model = BoudamsTagger.load(model)
+    model.eval()
+    model.to(device)
     print("Model loaded.")
     remove_line = True
-    spaces = re.compile("\s+")
-    apos = re.compile("['’]")
+    spaces = re.compile(r"\s+")
+    apos = re.compile(r"['’]")
     for file in tqdm.tqdm(filename):
         out_name = file.name.replace(".txt", ".tokenized.txt")
         content = file.read()  # Could definitely be done a better way...
         if remove_line:
             content = spaces.sub("", content)
-
+        file.close()
         # Now, extract apostrophes, remove them, and reinject them
-        apos_positions = [ i for i in range(len(content)) if content[i] in ["'", "’"] ]
+        apos_positions = [
+            i
+            for i in range(len(content))
+            if content[i] in ["'", "’"]
+        ]
         content = apos.sub("", content)
 
         with open(out_name, "w") as out_io:
             out = ''
-            for tokenized_string in model.annotate_text(content, batch_size=batch_size):
+            for tokenized_string in model.annotate_text(content, batch_size=batch_size, device=device):
                 out = out + tokenized_string+" "
 
             # Reinject apostrophes
