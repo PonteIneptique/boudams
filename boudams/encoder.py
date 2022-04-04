@@ -304,9 +304,15 @@ class LabelEncoder:
             [head, *list(map(str, confusion_row))]
             for head, confusion_row in zip(header[1:], confusion)
         ]
+
+        col_pad = header.index(self.pad_token)
         return tabulate.tabulate(
-            confusion,
-            headers=header
+            [
+                row[:col_pad] + row[col_pad+1:]
+                for (col_id, row) in enumerate(confusion)
+                if row[0] != self.pad_token
+            ],
+            headers=[col for col in header if col != self.pad_token]
         )
 
 

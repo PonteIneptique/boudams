@@ -98,6 +98,7 @@ class BoudamsTagger(pl.LightningModule):
             out_max_sentence_length: int = 150,
             optimizer: Optional[OptimizerParams] = None,
             system: str = "bi-gru",
+            have_metrics: bool = False,
             **kwargs # RetroCompat
     ):
         """
@@ -146,23 +147,25 @@ class BoudamsTagger(pl.LightningModule):
                                                pad_index=self.vocabulary.pad_token_index)
             self.val_loss = CrossEntropyLoss(weights=self.model.nll_weight,
                                              pad_index=self.vocabulary.pad_token_index)
-            self.test_loss = CrossEntropyLoss(weights=self.model.nll_weight,
-                                              pad_index=self.vocabulary.pad_token_index)
 
-            if metric_average not in {"micro", "macro"}:
-                raise ValueError("`metric_average` can only be `micro` or `macro`")
+        if metric_average not in {"micro", "macro"}:
+            raise ValueError("`metric_average` can only be `micro` or `macro`")
 
+        if self.optimizer_params or have_metrics:
             # Metrics
-            metrics_params = dict(
-                average=metric_average,
-                num_classes=self.vocabulary.mask_count,
-                ignore_index=self.vocabulary.pad_token_index
-            )
-            for dataset in ["val", "test"]:
-                setattr(self, f"{dataset}_acc", torchmetrics.Accuracy(**metrics_params))
-                setattr(self, f"{dataset}_f1", torchmetrics.F1Score(**metrics_params))
-                setattr(self, f"{dataset}_pre", torchmetrics.Precision(**metrics_params))
-                setattr(self, f"{dataset}_rec", torchmetrics.Recall(**metrics_params))
+            for step in ["val", "test"]:
+                self.add_metrics(step, metric_average=metric_average)
+
+    def add_metrics(self, prefix, metric_average):
+        metrics_params = dict(
+            average=metric_average,
+            num_classes=self.vocabulary.mask_count,
+            ignore_index=self.vocabulary.pad_token_index
+        )
+        setattr(self, f"{prefix}_acc", torchmetrics.Accuracy(**metrics_params, subset_accuracy=True))
+        setattr(self, f"{prefix}_f1", torchmetrics.F1Score(**metrics_params))
+        setattr(self, f"{prefix}_pre", torchmetrics.Precision(**metrics_params))
+        setattr(self, f"{prefix}_rec", torchmetrics.Recall(**metrics_params))
 
     def _build_nn(self):
         seq2seq_shared_params = {
@@ -231,7 +234,7 @@ class BoudamsTagger(pl.LightningModule):
         }
 
     @classmethod
-    def load(cls, fpath="./model.boudams_model", device=DEVICE):
+    def load(cls, fpath="./model.boudams_model"):
         with tarfile.open(utils.ensure_ext(fpath, 'boudams_model'), 'r') as tar:
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
@@ -241,16 +244,12 @@ class BoudamsTagger(pl.LightningModule):
             )
 
             obj = cls(vocabulary=vocab, **settings)
-            obj.to(device)
 
             # load state_dict
             with utils.tmpfile() as tmppath:
                 tar.extract('state_dict.pt', path=tmppath)
                 dictpath = os.path.join(tmppath, 'state_dict.pt')
-                if device == "cpu":
-                    obj.model.load_state_dict(torch.load(dictpath, map_location=device))
-                else:
-                    obj.model.load_state_dict(torch.load(dictpath))
+                obj.model.load_state_dict(torch.load(dictpath))
 
         obj.model.eval()
 
@@ -287,40 +286,46 @@ class BoudamsTagger(pl.LightningModule):
         return self._eval_step(batch, batch_idx, "val")
 
     def test_step(self, batch, batch_idx):
-        x, y, gt = self._eval_step(batch, batch_idx, "test")
+        x, y, gt, _ = self._eval_step(batch, batch_idx, prefix="test")
         matrix = torchmetrics.functional.confusion_matrix(
             y, gt,
             num_classes=self.vocabulary.mask_count
         )
-        # self.log("confusion_matrix", matrix, on_epoch=True)
         return {"confusion_matrix": matrix}
 
     def test_epoch_end(self, outputs) -> None:
         confusion_matrix = [out["confusion_matrix"] for out in outputs]
         confusion_matrix = torch.stack(confusion_matrix, dim=-1).sum(dim=-1)
-        print(self.vocabulary.format_confusion_matrix(confusion_matrix.tolist()))
+        # ToDo: Find a better way than assigning a value on tagger
+        self.confusion_matrix = confusion_matrix
 
-    def _eval_step(self, batch, batch_idx, prefix):
+    def _eval_step(self, batch, batch_idx, prefix: str):
         x, x_len, gt = batch
         y = self(x, x_len)
+        batch_size = y.shape[0]
         y, gt = self._view_y_gt(y=y, gt=gt)
 
-        loss = getattr(self, f"{prefix}_loss")(y, gt)
+        # Remove manually index which are supposed to be pad...
+        index_of_non_pads = (gt != self.vocabulary.pad_token_index).nonzero(as_tuple=False)
+        y = y[index_of_non_pads, :]
+        gt = gt[index_of_non_pads]
+
+        if prefix != "test":
+            loss = getattr(self, f"{prefix}_loss")(y, gt)
+            self.log(f"{prefix}_loss", loss, batch_size=batch_size, prog_bar=False)
 
         # for normal metrics, we simplify
         y = torch.argmax(y, -1)
-
         acc = getattr(self, f"{prefix}_acc")(y, gt)
         f1 = getattr(self, f"{prefix}_f1")(y, gt)
         rec = getattr(self, f"{prefix}_rec")(y, gt)
         pre = getattr(self, f"{prefix}_pre")(y, gt)
 
-        self.log(f"{prefix}_loss", loss, batch_size=len(y), prog_bar=False)
-        self.log(f"{prefix}_acc", acc, batch_size=len(y), on_epoch=True, prog_bar=True)
-        self.log(f"{prefix}_f1", f1, batch_size=len(y), on_epoch=True, prog_bar=True)
-        self.log(f"{prefix}_rec", rec, batch_size=len(y), on_epoch=True, prog_bar=True)
-        self.log(f"{prefix}_pre", pre, batch_size=len(y), on_epoch=True, prog_bar=True)
-        return x, y, gt
+        self.log(f"{prefix}_acc", acc, batch_size=batch_size, on_epoch=True, prog_bar=True)
+        self.log(f"{prefix}_f1", f1, batch_size=batch_size, on_epoch=True, prog_bar=True)
+        self.log(f"{prefix}_rec", rec, batch_size=batch_size, on_epoch=True, prog_bar=True)
+        self.log(f"{prefix}_pre", pre, batch_size=batch_size, on_epoch=True, prog_bar=True)
+        return x, y, gt, {}
 
     def _view_y_gt(self, y, gt):
         return y.view(-1, self.model.decoder.out_dim), gt.view(-1)

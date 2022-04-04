@@ -3,7 +3,7 @@ import logging
 from collections import namedtuple
 from typing import Optional, Union, List
 import pytorch_lightning as pl
-from pytorch_lightning.callbacks import Callback, EarlyStopping
+from pytorch_lightning.callbacks import Callback, EarlyStopping, RichModelSummary, StochasticWeightAveraging
 from pytorch_lightning.callbacks.progress.rich_progress import RichProgressBar, RichProgressBarTheme
 
 
@@ -24,6 +24,10 @@ class SaveModelCallback(Callback):
             trainer.lightning_module.dump(f'{trainer.model_name}_{trainer.current_epoch}')
 
 
+class ShowDetailsMate(Callback):
+    def on_test_end(self, trainer: "pl.Trainer", pl_module: BoudamsTagger) -> None:
+        print("What ?")
+
 class Trainer(pl.Trainer):
     def __init__(
             self,
@@ -31,6 +35,7 @@ class Trainer(pl.Trainer):
             monitor: str = "accuracy",
             patience: int = 5,
             min_delta: float = 0.01,
+            use_swa: bool = False,
             callbacks: Optional[Union[List[Callback], Callback]] = None,
             *args,
             **kwargs
@@ -53,7 +58,10 @@ class Trainer(pl.Trainer):
             RichProgressBar(leave=True),
             SaveModelCallback(),
             EarlyStopping(monitor=monitor, min_delta=min_delta, patience=patience, verbose=False,
-                          mode="min" if monitor == "val_loss" else "max")
+                          mode="min" if monitor == "val_loss" else "max"),
+            RichModelSummary(max_depth=2),
         ])
+        if use_swa:
+            kwargs["callbacks"].append(StochasticWeightAveraging())
 
         super().__init__(*args, **kwargs)
