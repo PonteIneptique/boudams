@@ -179,14 +179,14 @@ class BoudamsTagger(pl.LightningModule):
                     n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
                     dropout=self.enc_dropout
                 )
-            in_features = self.enc_hid_dim
+            in_features = self.enc.output_dim
         elif self.system.endswith("-gru"):
             self.enc: linear.BiGruEncoder = linear.BiGruEncoder(
                     self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
                     n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
                     dropout=self.enc_dropout
                 )
-            in_features = self.enc_hid_dim
+            in_features = self.enc.output_dim
         elif self.system.endswith("-conv-no-pos"):
             self.enc: linear.LinearEncoderCNNNoPos = linear.LinearEncoderCNNNoPos(
                     self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
@@ -210,7 +210,7 @@ class BoudamsTagger(pl.LightningModule):
         self.dec: linear.LinearDecoder = linear.LinearDecoder(
             enc_dim=in_features, out_dim=len(self.vocabulary.mtoi)
         )
-        self.model: linear.LinearSeq2Seq = linear.LinearSeq2Seq(
+        self.model: linear.MainModule = linear.MainModule(
             self.enc, self.dec,
             pos="nopos" not in self.system,
             **seq2seq_shared_params

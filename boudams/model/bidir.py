@@ -17,11 +17,18 @@ class Encoder(nn.Module):
 
         self.embedding = nn.Embedding(input_dim, emb_dim)
 
-        self.rnn = nn.LSTM(emb_dim, hid_dim, n_layers, dropout=dropout)
+        self.rnn = nn.GRU(
+            emb_dim, hid_dim, n_layers,
+            dropout=dropout, bidirectional=True, batch_first=True
+        )
 
         self.dropout = nn.Dropout(dropout)
 
-    def forward(self, src, src_len):
+    @property
+    def output_dim(self):
+        return self.hid_dim * 2
+
+    def forward(self, src):
 
         # src = [src sent len, batch size]
         embedded = self.dropout(self.embedding(src))
@@ -30,10 +37,9 @@ class Encoder(nn.Module):
 
         # packed_outputs = [src sent len, batch size, hid dim * n directions]
         # hidden = [n layers * n directions, batch size, hid dim]
-        # cell = [n layers * n directions, batch size, hid dim]
-        output, (hidden, cell) = self.rnn(embedded)
+        output, hidden = self.rnn(embedded)
 
-        return output, hidden, cell
+        return output, hidden
 
     def init_weights(self):
         for name, param in self.named_parameters():

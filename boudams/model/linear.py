@@ -138,12 +138,10 @@ class LinearDecoder(nn.Module):
         if self.highway is not None:
             enc_outs = self.highway(enc_outs)
 
-        linear_out = self.decoder(enc_outs)
-
-        return linear_out
+        return self.decoder(enc_outs)
 
 
-class LinearSeq2Seq(BaseSeq2SeqModel):
+class MainModule(BaseSeq2SeqModel):
     masked_only = True
 
     def __init__(
@@ -178,14 +176,12 @@ class LinearSeq2Seq(BaseSeq2SeqModel):
         elif isinstance(self.encoder, LinearEncoderCNNNoPos):
             second_step = self.encoder(src)
         elif isinstance(self.encoder, LinearLSTMEncoder):
-            second_step, hidden, cell = self.encoder(src.t(), src_len)
+            second_step, hidden, cell = self.encoder(src.t())
             # -> tensor(sentence size, batch size, hid dim * n directions)
-            second_step = second_step.transpose(1, 0)
-            # -> tensor(batch size, sentence size, hid dim * n directions)
         elif isinstance(self.encoder, BiGruEncoder):
-            second_step, hidden, cell = self.encoder(src.t(), src_len)
+            second_step, hidden = self.encoder(src)
             # -> tensor(sentence size, batch size, hid dim * n directions)
-            second_step = second_step.transpose(1, 0)
+            # second_step = second_step.transpose(1, 0)
             # -> tensor(batch size, sentence size, hid dim * n directions)
         else:
             raise AttributeError("The encoder is not recognized.")
