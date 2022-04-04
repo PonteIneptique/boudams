@@ -4,6 +4,9 @@ from collections import namedtuple
 from typing import Optional, Union, List
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import Callback, EarlyStopping
+from pytorch_lightning.callbacks import RichProgressBar
+from pytorch_lightning.callbacks import RichModelSummary
+
 
 from boudams.tagger import BoudamsTagger
 
@@ -18,7 +21,7 @@ logger = logging.getLogger(__name__)
 class SaveModelCallback(Callback):
     def on_validation_end(self, trainer: "Trainer", pl_module: BoudamsTagger) -> None:
         if not trainer.sanity_checking:
-            logger.info('Saving to {}_{}'.format(trainer.model_name, trainer.current_epoch))
+            #logger.info('Saving to {}_{}'.format(trainer.model_name, trainer.current_epoch))
             trainer.lightning_module.dump(f'{trainer.model_name}_{trainer.current_epoch}')
 
 
@@ -36,6 +39,6 @@ class Trainer(pl.Trainer):
         kwargs['callbacks'] = callbacks or []
         if not isinstance(kwargs['callbacks'], list):
             kwargs['callbacks'] = [kwargs['callbacks']]
-        kwargs["callbacks"].append(SaveModelCallback())
+        kwargs["callbacks"].extend([SaveModelCallback()])
 
         super().__init__(*args, **kwargs)

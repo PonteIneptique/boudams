@@ -1,4 +1,7 @@
-torch~=1.10
+torch~=1.10.0
+torchmetrics~=0.7.3
+pytorch-lightning~=1.6.0
+rich~=12.1.0
 tqdm==4.64.0
 unidecode>=1.0.23
 click>=8.1.2,<9.0.0

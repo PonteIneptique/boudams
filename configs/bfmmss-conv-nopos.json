@@ -20,9 +20,9 @@
         "lower": false
     },
     "datasets": {
-        "test": "./datasets/fro/test.tsv",
-        "train": "./datasets/fro/train.tsv",
-        "dev": "./datasets/fro/dev.tsv",
+        "test": "./datasets/latin_epigraphy/test.tsv",
+        "train": "./datasets/latin_epigraphy/train.tsv",
+        "dev": "./datasets/latin_epigraphy/dev.tsv",
         "random": false
     }
 }

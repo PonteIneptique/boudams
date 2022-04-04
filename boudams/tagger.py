@@ -17,7 +17,7 @@ from .encoder import LabelEncoder
 import pytorch_lightning as pl
 import torch.nn as nn
 import torch.optim as optim
-
+import torchmetrics
 
 teacher_forcing_ratio = 0.5
 
@@ -125,6 +125,17 @@ class BoudamsTagger(pl.LightningModule):
 
         # ToDo: Allow for DiceLoss
         self._loss = CrossEntropyLoss(self.vocabulary.pad_token_index)
+
+        # Metrics
+        metrics_params = dict(
+            average="macro",
+            num_classes=self.vocabulary.mask_count,
+            ignore_index=self.vocabulary.pad_token_index
+        )
+        self.val_acc = torchmetrics.Accuracy(**metrics_params)
+        self.val_f1 = torchmetrics.F1Score(**metrics_params)
+        self.val_pre = torchmetrics.Precision(**metrics_params)
+        self.val_rec = torchmetrics.Recall(**metrics_params)
 
     def _build_nn(self):
         seq2seq_shared_params = {
@@ -249,8 +260,17 @@ class BoudamsTagger(pl.LightningModule):
     def validation_step(self, batch, batch_idx):
         x, x_len, gt = batch
         y = self(x, x_len)
-        loss = self._loss(*self._view_y_gt(y=y, gt=gt))
-        self.log("val_loss", loss, batch_size=len(y))
+        y, gt = self._view_y_gt(y=y, gt=gt)
+        loss = self._loss(y=y, gt=gt)
+        self.log("val_loss", loss, batch_size=len(y), prog_bar=False)
+        self.val_acc(y, gt)
+        self.val_f1(y, gt)
+        self.val_rec(y, gt)
+        self.val_pre(y, gt)
+        self.log('val_acc', self.val_acc, on_step=True, on_epoch=True, prog_bar=True)
+        self.log('val_f1s', self.val_f1, on_step=True, on_epoch=True, prog_bar=True)
+        self.log('val_rec', self.val_rec, on_step=True, on_epoch=True, prog_bar=True)
+        self.log('val_pre', self.val_pre, on_step=True, on_epoch=True, prog_bar=True)
 
     def _view_y_gt(self, y, gt):
         return y.view(-1, self.model.decoder.out_dim), gt.view(-1)

@@ -65,6 +65,10 @@ class LabelEncoder:
             self.space_token: self.space_token_index
         }
 
+    @property
+    def mask_count(self):
+        return len(self.mtoi)
+
     def __len__(self):
         return len(self.stoi)
 
