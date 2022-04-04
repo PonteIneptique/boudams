@@ -47,7 +47,7 @@ class Encoder(nn.Module):
         # create position tensor
 
         # pos = [src sent len, batch size] (Not what is documented)
-        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1)
+        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1).type_as(src)
 
         # embed tokens and positions
         tok_embedded = self.tok_embedding(src)
@@ -70,7 +70,7 @@ class Encoder(nn.Module):
         conv_input = conv_input.permute(0, 2, 1)
 
         # conv_input = [batch size, hid dim, src sent len]
-
+        self.scale = self.scale.type_as(conv_input)
         for i, conv in enumerate(self.convs):
             # pass through convolutional layer
             conved = conv(self.dropout(conv_input))

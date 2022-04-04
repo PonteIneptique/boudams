@@ -9,7 +9,7 @@ models/
 /*.csv
 /bfmmss*.png
 /latin*.png
-
+*.ckpt
 *.boudams_model
 *.~lock.*
 

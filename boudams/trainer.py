@@ -4,15 +4,14 @@ from collections import namedtuple
 from typing import Optional, Union, List
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import Callback, EarlyStopping
-from pytorch_lightning.callbacks import RichProgressBar
-from pytorch_lightning.callbacks import RichModelSummary
+from pytorch_lightning.callbacks.progress.rich_progress import RichProgressBar, RichProgressBarTheme
 
 
 from boudams.tagger import BoudamsTagger
 
 
 INVALID = "<INVALID>"
-DEBUG = bool(os.getenv("DEBUG"))
+ACCEPTABLE_MONITOR_METRICS = {"accuracy", "f1", "precision", "recall", "loss"}
 Score = namedtuple("Score", ["loss", "accuracy", "precision", "recall", "fscore", "scorer"])
 
 logger = logging.getLogger(__name__)
@@ -29,6 +28,9 @@ class Trainer(pl.Trainer):
     def __init__(
             self,
             model_name: Optional[str] = "model.boudams_model",
+            monitor: str = "accuracy",
+            patience: int = 5,
+            min_delta: float = 0.01,
             callbacks: Optional[Union[List[Callback], Callback]] = None,
             *args,
             **kwargs
@@ -39,6 +41,19 @@ class Trainer(pl.Trainer):
         kwargs['callbacks'] = callbacks or []
         if not isinstance(kwargs['callbacks'], list):
             kwargs['callbacks'] = [kwargs['callbacks']]
-        kwargs["callbacks"].extend([SaveModelCallback()])
+
+        if monitor not in ACCEPTABLE_MONITOR_METRICS:
+            raise ValueError(f"The monitor parameter can only be one of: {', '.join(ACCEPTABLE_MONITOR_METRICS)}")
+        elif monitor not in {"loss", "f1"}:
+            monitor = f"val_{monitor[:3]}"
+        else:
+            monitor = f"val_{monitor}"
+
+        kwargs["callbacks"].extend([
+            RichProgressBar(leave=True),
+            SaveModelCallback(),
+            EarlyStopping(monitor=monitor, min_delta=min_delta, patience=patience, verbose=False,
+                          mode="min" if monitor == "val_loss" else "max")
+        ])
 
         super().__init__(*args, **kwargs)

@@ -1,14 +1,16 @@
 import click
 import logging
 import re
-import tqdm
 import json
 import datetime
+from typing import List
+
+import tqdm
 
 from torch.utils.data import DataLoader
 
 from boudams.tagger import BoudamsTagger, OptimizerParams
-from boudams.trainer import Trainer, logger
+from boudams.trainer import Trainer, logger, ACCEPTABLE_MONITOR_METRICS
 from boudams.encoder import LabelEncoder
 from boudams.dataset import BoudamsDataset
 from boudams.data_generation import conllu, base as dataset_base, plaintext
@@ -103,7 +105,6 @@ def sizes(png_path, char_count, input_path):
             }))
 
 
-
 @dataset.command("generate")
 @click.argument("output_path", type=click.Path(file_okay=False))
 @click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
@@ -159,11 +160,24 @@ def template(filename):
 
 @cli.command("train")
 @click.argument("config_files", nargs=-1, type=click.File("r"))
+@click.option("--output", type=click.Path(dir_okay=False, exists=False), default=None, help="Model Name")
 @click.option("--epochs", type=int, default=100, help="Number of epochs to run")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
 @click.option("--device", default="cpu", help="Device to use for the network (cuda:0, cpu, etc.)")
 @click.option("--debug", default=False, is_flag=True)
-def train(config_files, epochs, batch_size, device, debug):
+@click.option("--auto-lr", default=False, is_flag=True, help="Find the learning rate automatically")
+@click.option("--workers", default=1, type=int, help="Number of workers to use to load data")
+@click.option("--metric", default="f1", type=click.Choice(ACCEPTABLE_MONITOR_METRICS), help="Metric to monitor")
+@click.option("--avg", default="macro", type=click.Choice(["micro", "macro"]), help="Type of avering method to use on "
+                                                                                    "metrics")
+@click.option("--delta", default=.01, type=float, help="Minimum change in the monitored quantity to qualify as an "
+                                                       "improvement")
+@click.option("--patience", default=3, type=int, help="Number of checks with no improvement after which training "
+                                                          "will be stopped")
+def train(config_files: List[click.File], output: str,
+          epochs: int, batch_size: int, device: str, debug: bool, workers: int,
+          auto_lr: bool,
+          metric: str, avg: str, delta: float, patience: int):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
     if debug:
         logger.setLevel(logging.DEBUG)
@@ -208,31 +222,58 @@ def train(config_files, epochs, batch_size, device, debug):
             vocabulary,
             system=config["model"],
             out_max_sentence_length=config.get("max_sentence_size", None),
-            optimizer=OptimizerParams("Adams", kwargs={"lr": config["learner"]["lr"]}),
+            metric_average=avg,
+            optimizer=OptimizerParams(
+                "Adams",
+                kwargs={"lr": config["learner"]["lr"]},
+                scheduler={
+                    "patience": config["learner"].get("lr_patience", None),
+                    "factor": config["learner"].get("lr_factor", None),
+                }
+            ),
             **config["network"]
         )
         trainer = Trainer(
             gpus=device,
-            model_name=config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0],
+            patience=patience,
+            min_delta=delta,
+            monitor=metric,
+            max_epochs=epochs,
+            gradient_clip_val=0,
+            model_name=output or (config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0]),
             #  n_epochs=epochs,
+            auto_lr_find=auto_lr
         )
-        trainer.fit(
-            tagger,
+        train_dataloader, dev_dataloader = (
             DataLoader(
                 train_dataset,
                 batch_size=batch_size,
                 shuffle=config["datasets"].get("random", True),
-                collate_fn=train_dataset.train_collate_fn
+                collate_fn=train_dataset.train_collate_fn,
+                num_workers=workers
             ),
             DataLoader(
                 dev_dataset,
                 batch_size=batch_size,
                 shuffle=config["datasets"].get("random", True),
-                collate_fn=dev_dataset.train_collate_fn
-            ),
+                collate_fn=dev_dataset.train_collate_fn,
+                num_workers=workers
+            )
         )
+        if auto_lr:
+            trainer.tune(tagger, train_dataloader, dev_dataloader)
+            return
+        trainer.fit(tagger, train_dataloader, dev_dataloader)
 
-        trainer.test(tagger, DataLoader(test_dataset, batch_size=batch_size))
+        trainer.test(
+            tagger,
+            DataLoader(
+                test_dataset,
+                batch_size=batch_size,
+                collate_fn=dev_dataset.train_collate_fn,
+                num_workers=workers
+            )
+        )
 
 
 @cli.command("test")

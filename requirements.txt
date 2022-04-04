@@ -10,3 +10,4 @@ mufidecode
 matplotlib
 sklearn
 numpy~=1.22.3
+tabulate~=0.8

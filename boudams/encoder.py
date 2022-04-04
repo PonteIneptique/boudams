@@ -1,3 +1,4 @@
+import tabulate
 import torch
 import torch.cuda
 import torch.nn
@@ -6,6 +7,7 @@ import logging
 import collections
 import json
 import copy
+import tabulate
 
 from mufidecode import mufidecode
 
@@ -288,6 +290,26 @@ class LabelEncoder:
             }
         })
 
+    def format_confusion_matrix(self, confusion: List[List[int]]):
+        beautiful = {
+            self.mask_token: "Char",
+            self.space_token: "Space char"
+        }
+        header = [
+            "",
+            *[
+                beautiful.get(self.itom[index], self.itom[index])
+                for index in sorted(list(self.itom.keys()))
+            ]
+        ]
+        confusion = [
+            [head, *list(map(str, confusion_row))]
+            for head, confusion_row in zip(header[1:], confusion)
+        ]
+        return tabulate.tabulate(
+            confusion,
+            headers=header
+        )
 
 if __name__ == "__main__":
     import glob

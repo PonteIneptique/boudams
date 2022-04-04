@@ -39,20 +39,24 @@ class CrossEntropyLoss(pl.LightningModule):
 class OptimizerParams:
     name: str = "Adams"
     kwargs: Optional[Dict[str, Any]] = None
+    scheduler: Optional[Dict[str, Any]] = None
 
     def validate(self) -> bool:
         if self.name == "Adams":
             kwargs_required: List[str] = []
-            defaults = {"lr": 1e-3}
-            kwargs_maps: Dict[str, str] = {}
-            cls = optim.Adam
         for param in kwargs_required:
             if not self.kwargs.get(param):
                 raise Exception(f"{self.name} requires parameter {param}")
                 # return False
         return True
 
-    def get_optimizer(self, parameters: Optional = None) -> optim.Optimizer:
+    def get_optimizer(
+            self,
+            parameters: Optional = None,
+    ) -> Tuple[
+        optim.Optimizer,
+        optim.lr_scheduler.ReduceLROnPlateau
+    ]:
         self.validate()
         cls = None
         defaults = {}
@@ -65,15 +69,23 @@ class OptimizerParams:
         kwargs.update(defaults)
         for parameter in self.kwargs:
             kwargs[kwargs_maps.get(parameter, parameter)] = self.kwargs[parameter]
+
         if parameters:
-            return cls(parameters, **kwargs)
-        return cls(**kwargs)
+            optimizer = cls(parameters, **kwargs)
+        else:
+            optimizer = cls(**kwargs)
+        scheduler = optim.lr_scheduler.ReduceLROnPlateau(
+            optimizer,
+            **self.scheduler
+        )
+        return optimizer, scheduler
 
 
 class BoudamsTagger(pl.LightningModule):
     def __init__(
             self,
             vocabulary: LabelEncoder,
+            metric_average: str = "macro",
             hidden_size: int = 256,
             enc_n_layers: int = 10,
             emb_enc_dim: int = 256,
@@ -102,6 +114,8 @@ class BoudamsTagger(pl.LightningModule):
         self.optimizer_params: OptimizerParams = optimizer
         self.optimizer_params.validate()
 
+        self.lr = self.optimizer_params.kwargs.get("lr")
+
         # Parse params and sizes
         self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
 
@@ -124,18 +138,24 @@ class BoudamsTagger(pl.LightningModule):
         self._build_nn()
 
         # ToDo: Allow for DiceLoss
-        self._loss = CrossEntropyLoss(self.vocabulary.pad_token_index)
+        self.train_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
+        self.val_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
+        self.test_loss = CrossEntropyLoss(pad_index=self.vocabulary.pad_token_index)
+
+        if metric_average not in {"micro", "macro"}:
+            raise ValueError("`metric_average` can only be `micro` or `macro`")
 
         # Metrics
         metrics_params = dict(
-            average="macro",
+            average=metric_average,
             num_classes=self.vocabulary.mask_count,
             ignore_index=self.vocabulary.pad_token_index
         )
-        self.val_acc = torchmetrics.Accuracy(**metrics_params)
-        self.val_f1 = torchmetrics.F1Score(**metrics_params)
-        self.val_pre = torchmetrics.Precision(**metrics_params)
-        self.val_rec = torchmetrics.Recall(**metrics_params)
+        for dataset in ["val", "test"]:
+            setattr(self, f"{dataset}_acc", torchmetrics.Accuracy(**metrics_params))
+            setattr(self, f"{dataset}_f1", torchmetrics.F1Score(**metrics_params))
+            setattr(self, f"{dataset}_pre", torchmetrics.Precision(**metrics_params))
+            setattr(self, f"{dataset}_rec", torchmetrics.Recall(**metrics_params))
 
     def _build_nn(self):
         seq2seq_shared_params = {
@@ -186,6 +206,8 @@ class BoudamsTagger(pl.LightningModule):
             **seq2seq_shared_params
         )
         self.init_weights = None
+        if self.init_weights:
+            self.model.apply(self.init_weights)
 
     @property
     def padtoken(self):
@@ -242,7 +264,7 @@ class BoudamsTagger(pl.LightningModule):
         """
         x, x_len, gt = batch
         y = self(x, x_len)
-        loss = self._loss(*self._view_y_gt(y=y, gt=gt))
+        loss = self.train_loss(*self._view_y_gt(y=y, gt=gt))
         return loss
 
     def predict_step(self, batch: Any, batch_idx: int, dataloader_idx: Optional[int] = None) -> Any:
@@ -258,25 +280,58 @@ class BoudamsTagger(pl.LightningModule):
         return y
 
     def validation_step(self, batch, batch_idx):
+        return self._eval_step(batch, batch_idx, "val")
+
+    def test_step(self, batch, batch_idx):
+        x, y, gt = self._eval_step(batch, batch_idx, "test")
+        matrix = torchmetrics.functional.confusion_matrix(
+            y, gt,
+            num_classes=self.vocabulary.mask_count
+        )
+        # self.log("confusion_matrix", matrix, on_epoch=True)
+        return {"confusion_matrix": matrix}
+
+    def test_epoch_end(self, outputs) -> None:
+        confusion_matrix = [out["confusion_matrix"] for out in outputs]
+        confusion_matrix = torch.stack(confusion_matrix, dim=-1).sum(dim=-1)
+        print(self.vocabulary.format_confusion_matrix(confusion_matrix.tolist()))
+
+    def _eval_step(self, batch, batch_idx, prefix):
         x, x_len, gt = batch
         y = self(x, x_len)
         y, gt = self._view_y_gt(y=y, gt=gt)
-        loss = self._loss(y=y, gt=gt)
-        self.log("val_loss", loss, batch_size=len(y), prog_bar=False)
-        self.val_acc(y, gt)
-        self.val_f1(y, gt)
-        self.val_rec(y, gt)
-        self.val_pre(y, gt)
-        self.log('val_acc', self.val_acc, on_step=True, on_epoch=True, prog_bar=True)
-        self.log('val_f1s', self.val_f1, on_step=True, on_epoch=True, prog_bar=True)
-        self.log('val_rec', self.val_rec, on_step=True, on_epoch=True, prog_bar=True)
-        self.log('val_pre', self.val_pre, on_step=True, on_epoch=True, prog_bar=True)
+
+        loss = getattr(self, f"{prefix}_loss")(y, gt)
+        acc = getattr(self, f"{prefix}_acc")(y, gt)
+        f1 = getattr(self, f"{prefix}_f1")(y, gt)
+        rec = getattr(self, f"{prefix}_rec")(y, gt)
+        pre = getattr(self, f"{prefix}_pre")(y, gt)
+
+        self.log(f"{prefix}_loss", loss, batch_size=len(y), prog_bar=False)
+        self.log(f"{prefix}_acc", acc, batch_size=len(y), on_epoch=True, prog_bar=True)
+        self.log(f"{prefix}_f1", f1, batch_size=len(y), on_epoch=True, prog_bar=True)
+        self.log(f"{prefix}_rec", rec, batch_size=len(y), on_epoch=True, prog_bar=True)
+        self.log(f"{prefix}_pre", pre, batch_size=len(y), on_epoch=True, prog_bar=True)
+        return x, y, gt
 
     def _view_y_gt(self, y, gt):
         return y.view(-1, self.model.decoder.out_dim), gt.view(-1)
 
     def configure_optimizers(self):
-        return self.optimizer_params.get_optimizer(self.parameters())
+        optimizer, scheduler = self.optimizer_params.get_optimizer(self.parameters())
+        return {
+            "optimizer": optimizer,
+            "lr_scheduler": {
+                "scheduler": scheduler,
+                "monitor": "val_loss",
+                "interval": "epoch",
+                "frequency": 1,
+                "strict": True,
+                "name": "LearningRateMonitor"
+                # If "monitor" references validation metrics, then "frequency" should be set to a
+                # multiple of "trainer.check_val_every_n_epoch".
+            },
+        }
 
     def annotate(self, texts: List[str], batch_size=32, device: str = "cpu"):
         self.model.eval()
