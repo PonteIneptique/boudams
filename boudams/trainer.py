@@ -8,10 +8,10 @@ from pytorch_lightning.callbacks.progress.rich_progress import RichProgressBar, 
 
 
 from boudams.tagger import BoudamsTagger
-
+from boudams.progressbar import BoudamsProgressBar
 
 INVALID = "<INVALID>"
-ACCEPTABLE_MONITOR_METRICS = {"accuracy", "f1", "precision", "recall", "loss"}
+ACCEPTABLE_MONITOR_METRICS = {"accuracy", "f1", "precision", "recall", "loss", "wer"}
 Score = namedtuple("Score", ["loss", "accuracy", "precision", "recall", "fscore", "scorer"])
 
 logger = logging.getLogger(__name__)
@@ -23,10 +23,6 @@ class SaveModelCallback(Callback):
             #logger.info('Saving to {}_{}'.format(trainer.model_name, trainer.current_epoch))
             trainer.lightning_module.dump(f'{trainer.model_name}_{trainer.current_epoch}')
 
-
-class ShowDetailsMate(Callback):
-    def on_test_end(self, trainer: "pl.Trainer", pl_module: BoudamsTagger) -> None:
-        print("What ?")
 
 class Trainer(pl.Trainer):
     def __init__(
@@ -55,9 +51,9 @@ class Trainer(pl.Trainer):
             monitor = f"val_{monitor}"
 
         kwargs["callbacks"].extend([
-            RichProgressBar(leave=True),
+            BoudamsProgressBar(leave=True),
             SaveModelCallback(),
-            EarlyStopping(monitor=monitor, min_delta=min_delta, patience=patience, verbose=True,
+            EarlyStopping(monitor=monitor, min_delta=min_delta, patience=patience, verbose=False,
                           mode="min" if monitor == "val_loss" else "max"),
             RichModelSummary(max_depth=2),
         ])

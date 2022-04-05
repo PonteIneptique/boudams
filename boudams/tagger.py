@@ -45,8 +45,10 @@ class OptimizerParams:
     scheduler: Optional[Dict[str, Any]] = None
 
     def validate(self) -> bool:
-        if self.name == "Adams":
-            kwargs_required: List[str] = []
+        kwargs_required: List[str] = ["lr"]
+        # Todo: Add Ranger
+        #if self.name == "Adams":
+        #    kwargs_required: List[str] = []
         for param in kwargs_required:
             if not self.kwargs.get(param):
                 raise Exception(f"{self.name} requires parameter {param}")
@@ -55,7 +57,7 @@ class OptimizerParams:
 
     def get_optimizer(
             self,
-            parameters: Optional = None,
+            model_parameters: Optional = None,
     ) -> Tuple[
         optim.Optimizer,
         optim.lr_scheduler.ReduceLROnPlateau
@@ -63,23 +65,26 @@ class OptimizerParams:
         self.validate()
         cls = None
         defaults = {}
-        kwargs_maps = {}
+        kwargs_maps: Dict[str, str] = {}
+
+        # Change kwargs and defaults
         if self.name == "Adams":
-            defaults = {"lr": 1e-3}
-            kwargs_maps: Dict[str, str] = {}
             cls = optim.Adam
+
+        # Create kwargs
         kwargs = {}
         kwargs.update(defaults)
-        for parameter in self.kwargs:
-            kwargs[kwargs_maps.get(parameter, parameter)] = self.kwargs[parameter]
+        for param in self.kwargs:
+            kwargs[kwargs_maps.get(param, param)] = self.kwargs[param]
 
-        if parameters:
-            optimizer = cls(parameters, **kwargs)
+        if model_parameters:
+            optimizer = cls(model_parameters, **kwargs)
         else:
             optimizer = cls(**kwargs)
+
         scheduler = optim.lr_scheduler.ReduceLROnPlateau(
             optimizer,
-            verbose=True,
+            verbose=False,
             **self.scheduler
         )
         return optimizer, scheduler
@@ -167,6 +172,11 @@ class BoudamsTagger(pl.LightningModule):
         setattr(self, f"{prefix}_f1", torchmetrics.F1Score(**metrics_params))
         setattr(self, f"{prefix}_pre", torchmetrics.Precision(**metrics_params))
         setattr(self, f"{prefix}_rec", torchmetrics.Recall(**metrics_params))
+        setattr(self, f"{prefix}_stats", torchmetrics.StatScores(
+            num_classes=self.vocabulary.mask_count,
+            ignore_index=self.vocabulary.pad_token_index,
+            multiclass=True
+        ))
 
     def _build_nn(self):
         seq2seq_shared_params = {
@@ -269,6 +279,7 @@ class BoudamsTagger(pl.LightningModule):
         x, x_len, gt = batch
         y = self(x, x_len)
         loss = self.train_loss(*self._view_y_gt(y=y, gt=gt))
+        self.log(f"loss", loss, batch_size=gt.shape[0], prog_bar=True, on_step=False, on_epoch=True)
         return loss
 
     def predict_step(self, batch: Any, batch_idx: int, dataloader_idx: Optional[int] = None) -> Any:
@@ -299,6 +310,29 @@ class BoudamsTagger(pl.LightningModule):
         confusion_matrix = torch.stack(confusion_matrix, dim=-1).sum(dim=-1)
         # ToDo: Find a better way than assigning a value on tagger
         self.confusion_matrix = confusion_matrix
+        self.log("test_wer", self._computer_wer(confusion_matrix), on_epoch=True, prog_bar=True)
+
+    def validation_epoch_end(self, outputs) -> None:
+        stats_score = [out_dicts["confusion_matrix"] for (x, y, gt, out_dicts) in outputs]
+        stats_score = torch.stack(stats_score, dim=-1).sum(dim=-1)
+        self.log("val_wer", self._computer_wer(stats_score), on_epoch=True, prog_bar=True)
+
+    def _computer_wer(self, confusion_matrix):
+        indexes = torch.tensor([
+            i
+            for i in range(self.vocabulary.mask_count)
+            if i != self.vocabulary.pad_token_index
+        ]).type_as(confusion_matrix)
+        clean_matrix = confusion_matrix[indexes][:, indexes]
+
+        nb_space_gt = (
+            clean_matrix[self.vocabulary.space_token_index].sum() +
+            clean_matrix[:, self.vocabulary.space_token_index].sum() -
+            clean_matrix[self.vocabulary.space_token_index, self.vocabulary.space_token_index]
+        )
+
+        nb_missed_space = clean_matrix.sum() - torch.diagonal(clean_matrix, 0).sum()
+        return nb_missed_space / nb_space_gt
 
     def _eval_step(self, batch, batch_idx, prefix: str):
         x, x_len, gt = batch
@@ -322,31 +356,33 @@ class BoudamsTagger(pl.LightningModule):
         f1 = getattr(self, f"{prefix}_f1")(y, gt)
         rec = getattr(self, f"{prefix}_rec")(y, gt)
         pre = getattr(self, f"{prefix}_pre")(y, gt)
+        matrix = torchmetrics.functional.confusion_matrix(
+            y, gt,
+            num_classes=self.vocabulary.mask_count
+        )
 
         self.log(f"{prefix}_acc", acc, batch_size=batch_size, on_epoch=True, prog_bar=True)
         self.log(f"{prefix}_f1", f1, batch_size=batch_size, on_epoch=True, prog_bar=True)
         self.log(f"{prefix}_rec", rec, batch_size=batch_size, on_epoch=True, prog_bar=True)
         self.log(f"{prefix}_pre", pre, batch_size=batch_size, on_epoch=True, prog_bar=True)
-        return x, y, gt, {}
+        return x, y, gt, {"confusion_matrix": matrix}
 
     def _view_y_gt(self, y, gt):
         return y.view(-1, self.model.decoder.out_dim), gt.view(-1)
 
     def configure_optimizers(self):
         optimizer, scheduler = self.optimizer_params.get_optimizer(self.parameters())
-        return {
-            "optimizer": optimizer,
-            "lr_scheduler": {
-                "scheduler": scheduler,
-                "monitor": "val_loss",
-                "interval": "epoch",
-                "frequency": 1,
-                "strict": True,
-                "name": "LearningRateMonitor"
-                # If "monitor" references validation metrics, then "frequency" should be set to a
-                # multiple of "trainer.check_val_every_n_epoch".
-            },
-        }
+        return (
+            [optimizer],
+            [
+                {
+                    "scheduler": scheduler,
+                    "monitor": "loss",
+                    "interval": "epoch",
+                    "frequency": 1
+                }
+            ]
+        )
 
     def annotate(self, texts: List[str], batch_size=32, device: str = "cpu"):
         self.model.eval()

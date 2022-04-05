@@ -237,6 +237,7 @@ def train(config_files: List[click.File], output: str,
                 scheduler={
                     "patience": config["learner"].get("lr_patience", None),
                     "factor": config["learner"].get("lr_factor", None),
+                    "threshold": delta
                 }
             ),
             **config["network"]
