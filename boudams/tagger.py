@@ -17,6 +17,7 @@ from .encoder import LabelEncoder
 import pytorch_lightning as pl
 import torch.nn as nn
 import torch.optim as optim
+import torch_optimizer as ext_optim
 import torchmetrics
 
 from boudams.utils import improvement_on_min_or_max
@@ -73,6 +74,8 @@ class OptimizerParams:
         # Change kwargs and defaults
         if self.name == "Adams":
             cls = optim.Adam
+        elif self.name == "Ranger":
+            cls = ext_optim.Ranger
 
         # Create kwargs
         kwargs = {}

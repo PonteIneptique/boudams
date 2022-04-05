@@ -177,11 +177,16 @@ def template(filename):
 @click.option("--patience", default=3, type=int, help="Number of checks with no improvement after which training "
                                                           "will be stopped")
 @click.option("--seed", default=None, type=int, help="Runs deterministic training")
+@click.option("--optimizer", default="Adams", type=click.Choice(["Adams"]), help="Optimizer to use")
+# ToDo: Figure out the bug with Ranger
+# pytorch_lightning.utilities.exceptions.MisconfigurationException: The closure hasn't been executed. HINT: did you call
+# `optimizer_closure()` in your `optimizer_step` hook? It could also happen because the
+# `optimizer.step(optimizer_closure)` call did not execute it internally.
 def train(config_files: List[click.File], output: str,
           epochs: int, batch_size: int, device: str, debug: bool, workers: int,
           auto_lr: bool,
           metric: str, avg: str, delta: float, patience: int,
-          seed: int):
+          seed: int, optimizer: str):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
     if debug:
         logger.setLevel(logging.DEBUG)
@@ -232,7 +237,7 @@ def train(config_files: List[click.File], output: str,
             out_max_sentence_length=config.get("max_sentence_size", None),
             metric_average=avg,
             optimizer=OptimizerParams(
-                "Adams",
+                optimizer,
                 kwargs={"lr": config["learner"]["lr"]},
                 scheduler={
                     "patience": config["learner"].get("lr_patience", None),
