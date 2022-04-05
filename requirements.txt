@@ -11,3 +11,4 @@ matplotlib
 sklearn
 numpy~=1.22.3
 tabulate~=0.8
+torch-optimizer~=0.3.0
