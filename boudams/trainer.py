@@ -4,10 +4,9 @@ from collections import namedtuple
 from typing import Optional, Union, List
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import Callback, EarlyStopping, RichModelSummary, StochasticWeightAveraging
-from pytorch_lightning.callbacks.progress.rich_progress import RichProgressBar, RichProgressBarTheme
-
 
 from boudams.tagger import BoudamsTagger
+from boudams.utils import improvement_on_min_or_max
 from boudams.progressbar import BoudamsProgressBar
 
 INVALID = "<INVALID>"
@@ -54,7 +53,7 @@ class Trainer(pl.Trainer):
             BoudamsProgressBar(leave=True),
             SaveModelCallback(),
             EarlyStopping(monitor=monitor, min_delta=min_delta, patience=patience, verbose=False,
-                          mode="min" if monitor == "val_loss" else "max"),
+                          mode=improvement_on_min_or_max(monitor)),
             RichModelSummary(max_depth=2),
         ])
         if use_swa:

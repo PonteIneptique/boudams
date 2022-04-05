@@ -19,6 +19,8 @@ import torch.nn as nn
 import torch.optim as optim
 import torchmetrics
 
+from boudams.utils import improvement_on_min_or_max
+
 teacher_forcing_ratio = 0.5
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -57,7 +59,8 @@ class OptimizerParams:
 
     def get_optimizer(
             self,
-            model_parameters: Optional = None,
+            monitored_metric: str = None,
+            model_parameters: Optional = None
     ) -> Tuple[
         optim.Optimizer,
         optim.lr_scheduler.ReduceLROnPlateau
@@ -84,6 +87,7 @@ class OptimizerParams:
 
         scheduler = optim.lr_scheduler.ReduceLROnPlateau(
             optimizer,
+            mode=improvement_on_min_or_max(monitored_metric),
             verbose=False,
             **self.scheduler
         )
@@ -371,14 +375,17 @@ class BoudamsTagger(pl.LightningModule):
         return y.view(-1, self.model.decoder.out_dim), gt.view(-1)
 
     def configure_optimizers(self):
-        optimizer, scheduler = self.optimizer_params.get_optimizer(self.parameters())
+        optimizer, scheduler = self.optimizer_params.get_optimizer(
+            model_parameters=self.parameters(),
+            monitored_metric="loss"
+        )
         return (
             [optimizer],
             [
                 {
                     "scheduler": scheduler,
-                    "monitor": "loss",
                     "interval": "epoch",
+                    "monitor": "loss",
                     "frequency": 1
                 }
             ]
