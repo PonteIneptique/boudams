@@ -17,6 +17,12 @@ from sklearn.utils.multiclass import unique_labels
 Cache = {}
 
 
+def improvement_on_min_or_max(metric: str) -> str:
+    if "loss" in metric or "wer" in metric:
+        return "min"
+    return max
+
+
 def mufidecode(string):
     retval = []
 

@@ -1,8 +1,4 @@
-import torch
 import torch.nn as nn
-import random
-
-from .base import BaseSeq2SeqModel
 
 
 class Encoder(nn.Module):
@@ -17,13 +13,21 @@ class Encoder(nn.Module):
 
         self.embedding = nn.Embedding(input_dim, emb_dim)
 
-        self.rnn = nn.LSTM(emb_dim, hid_dim, n_layers, dropout=dropout)
+        self.rnn = nn.LSTM(
+            emb_dim, hid_dim, n_layers,
+            dropout=dropout, bidirectional=True, batch_first=True
+        )
 
         self.dropout = nn.Dropout(dropout)
 
-    def forward(self, src, src_len):
+    @property
+    def output_dim(self):
+        return 2 * self.hid_dim
+
+    def forward(self, src):
 
         # src = [src sent len, batch size]
+        # ToDo: Check PackPadded given the results ?
         embedded = self.dropout(self.embedding(src))
 
         # embedded = [src sent len, batch size, emb dim]

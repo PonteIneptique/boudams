@@ -12,7 +12,7 @@
     "learner": {
         "lr_grace_periode": 2,
         "lr_patience": 2,
-        "lr": 0.00005,
+        "lr": 0.0001,
         "lr_factor": 0.5
     },
     "label_encoder": {
@@ -20,9 +20,9 @@
         "lower": false
     },
     "datasets": {
-        "test": "./datasets/fro/test.tsv",
-        "train": "./datasets/fro/train.tsv",
-        "dev": "./datasets/fro/dev.tsv",
+        "test": "./datasets/latin_epigraphy/test.tsv",
+        "train": "./datasets/latin_epigraphy/train.tsv",
+        "dev": "./datasets/latin_epigraphy/dev.tsv",
         "random": false
     }
 }

@@ -3,18 +3,10 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import random
-
-from .base import BaseSeq2SeqModel, pprint_2d, pprint_1d
-
-
-from typing import TYPE_CHECKING
-if TYPE_CHECKING:
-    from ..trainer import Scorer
 
 
 class Encoder(nn.Module):
-    def __init__(self, input_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout, device: str = "cpu",
+    def __init__(self, input_dim, emb_dim, hid_dim, n_layers, kernel_size, dropout,
                  max_sentence_len: int = 100):
         super().__init__()
 
@@ -25,10 +17,9 @@ class Encoder(nn.Module):
         self.hid_dim = hid_dim
         self.kernel_size = kernel_size
         self.dropout = dropout
-        self.device = device
         self.max_sentence_len = max_sentence_len
 
-        self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
+        self.scale = torch.sqrt(torch.FloatTensor([0.5]))
 
         self.tok_embedding = nn.Embedding(input_dim, emb_dim)
         self.pos_embedding = nn.Embedding(max_sentence_len, emb_dim)
@@ -48,7 +39,7 @@ class Encoder(nn.Module):
         # create position tensor
 
         # pos = [src sent len, batch size] (Not what is documented)
-        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1).to(self.device)
+        pos = torch.arange(0, src.shape[1]).unsqueeze(0).repeat(src.shape[0], 1).type_as(src)
 
         # embed tokens and positions
         tok_embedded = self.tok_embedding(src)
@@ -71,7 +62,7 @@ class Encoder(nn.Module):
         conv_input = conv_input.permute(0, 2, 1)
 
         # conv_input = [batch size, hid dim, src sent len]
-
+        self.scale = self.scale.type_as(conv_input)
         for i, conv in enumerate(self.convs):
             # pass through convolutional layer
             conved = conv(self.dropout(conv_input))

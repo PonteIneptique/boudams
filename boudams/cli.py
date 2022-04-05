@@ -1,14 +1,21 @@
 import click
+import logging
 import re
-import tqdm
 import json
 import datetime
+from typing import List
 
-from boudams.tagger import BoudamsTagger
-from boudams.trainer import Trainer
-from boudams.encoder import LabelEncoder, DatasetIterator
+import tqdm
 
-from boudams.dataset import conllu, base as dataset_base, plaintext
+from torch.utils.data import DataLoader
+import pytorch_lightning as pl
+
+
+from boudams.tagger import BoudamsTagger, OptimizerParams
+from boudams.trainer import Trainer, logger, ACCEPTABLE_MONITOR_METRICS
+from boudams.encoder import LabelEncoder
+from boudams.dataset import BoudamsDataset
+from boudams.data_generation import conllu, base as dataset_base, plaintext
 
 
 @click.group()
@@ -100,7 +107,6 @@ def sizes(png_path, char_count, input_path):
             }))
 
 
-
 @dataset.command("generate")
 @click.argument("output_path", type=click.Path(file_okay=False))
 @click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
@@ -156,15 +162,45 @@ def template(filename):
 
 @cli.command("train")
 @click.argument("config_files", nargs=-1, type=click.File("r"))
+@click.option("--output", type=click.Path(dir_okay=False, exists=False), default=None, help="Model Name")
 @click.option("--epochs", type=int, default=100, help="Number of epochs to run")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
-@click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
+@click.option("--device", default="cpu", help="Device to use for the network (cuda:0, cpu, etc.)")
 @click.option("--debug", default=False, is_flag=True)
-def train(config_files, epochs, batch_size, device, debug):
+@click.option("--auto-lr", default=False, is_flag=True, help="Find the learning rate automatically")
+@click.option("--workers", default=1, type=int, help="Number of workers to use to load data")
+@click.option("--metric", default="f1", type=click.Choice(ACCEPTABLE_MONITOR_METRICS), help="Metric to monitor")
+@click.option("--avg", default="macro", type=click.Choice(["micro", "macro"]), help="Type of avering method to use on "
+                                                                                    "metrics")
+@click.option("--delta", default=.001, type=float, help="Minimum change in the monitored quantity to qualify as an "
+                                                       "improvement")
+@click.option("--patience", default=3, type=int, help="Number of checks with no improvement after which training "
+                                                          "will be stopped")
+@click.option("--seed", default=None, type=int, help="Runs deterministic training")
+@click.option("--optimizer", default="Adams", type=click.Choice(["Adams"]), help="Optimizer to use")
+# ToDo: Figure out the bug with Ranger
+# pytorch_lightning.utilities.exceptions.MisconfigurationException: The closure hasn't been executed. HINT: did you call
+# `optimizer_closure()` in your `optimizer_step` hook? It could also happen because the
+# `optimizer.step(optimizer_closure)` call did not execute it internally.
+def train(config_files: List[click.File], output: str,
+          epochs: int, batch_size: int, device: str, debug: bool, workers: int,
+          auto_lr: bool,
+          metric: str, avg: str, delta: float, patience: int,
+          seed: int, optimizer: str):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
     if debug:
-        import logging
-        logging.getLogger().setLevel(logging.DEBUG)
+        logger.setLevel(logging.DEBUG)
+    else:
+        logger.setLevel(logging.INFO)
+
+    if seed:
+        pl.seed_everything(seed, workers=True)
+
+    if device == 'cpu':
+        device = None
+    elif device.startswith('cuda'):
+        device = [int(device.split(':')[-1])]
+
     for config_file in config_files:
         config = json.load(config_file)
 
@@ -183,106 +219,171 @@ def train(config_files, epochs, batch_size, device, debug):
             pprint(vocabulary.mtoi)
 
         # Get the datasets
-        train_dataset: DatasetIterator = vocabulary.get_dataset(
-            train_path, randomized=config["datasets"].get("random", True))
-        dev_dataset: DatasetIterator = vocabulary.get_dataset(
-            dev_path, randomized=config["datasets"].get("random", True))
-        test_dataset: DatasetIterator = vocabulary.get_dataset(
-            test_path, randomized=config["datasets"].get("random", True))
-        print("Training %s " % config_file.name)
-        print("-- Dataset informations --")
-        print("Number of training examples: {}".format(len(train_dataset)))
-        print("Number of dev examples: {}".format(len(dev_dataset)))
-        print("Number of testing examples: {}".format(len(test_dataset)))
-        print("--------------------------")
+        train_dataset: BoudamsDataset = vocabulary.get_dataset(train_path)
+        dev_dataset: BoudamsDataset = vocabulary.get_dataset(dev_path)
+        test_dataset: BoudamsDataset = vocabulary.get_dataset(test_path)
+
+        logger.info("Training %s " % config_file.name)
+        logger.info("-- Dataset informations --")
+        logger.info(f"Number of training examples: {len(train_dataset)}")
+        logger.info(f"Number of dev examples: {len(dev_dataset)}")
+        logger.info(f"Number of testing examples: {len(test_dataset)}")
+        logger.info(f"Vocabulary Size: {len(vocabulary)}")
+        logger.info("--------------------------")
 
         tagger = BoudamsTagger(
             vocabulary,
-            device=device, system=config["model"], out_max_sentence_length=config.get("max_sentence_size", None),
-            **config["network"])
-        trainer = Trainer(tagger, device=device)
-        print(tagger.model)
-        print()
-
-        trainer.run(
-            train_dataset, dev_dataset, n_epochs=epochs,
-            fpath=config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0] + ".tar",
-            batch_size=batch_size, **config["learner"]
+            system=config["model"],
+            out_max_sentence_length=config.get("max_sentence_size", None),
+            metric_average=avg,
+            optimizer=OptimizerParams(
+                optimizer,
+                kwargs={"lr": config["learner"]["lr"]},
+                scheduler={
+                    "patience": config["learner"].get("lr_patience", None),
+                    "factor": config["learner"].get("lr_factor", None),
+                    "threshold": delta
+                }
+            ),
+            **config["network"]
         )
+        trainer = Trainer(
+            gpus=device,
+            patience=patience,
+            min_delta=delta,
+            monitor=metric,
+            max_epochs=epochs,
+            gradient_clip_val=1,
+            model_name=output or (config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0]),
+            #  n_epochs=epochs,
+            auto_lr_find=auto_lr,
+            deterministic=True if seed else False
+        )
+        train_dataloader, dev_dataloader = (
+            DataLoader(
+                train_dataset,
+                batch_size=batch_size,
+                shuffle=config["datasets"].get("random", True),
+                collate_fn=train_dataset.train_collate_fn,
+                num_workers=workers
+            ),
+            DataLoader(
+                dev_dataset,
+                batch_size=batch_size,
+                shuffle=config["datasets"].get("random", True),
+                collate_fn=dev_dataset.train_collate_fn,
+                num_workers=workers
+            )
+        )
+        if auto_lr:
+            trainer.tune(tagger, train_dataloader, dev_dataloader)
+            return
+        trainer.fit(tagger, train_dataloader, dev_dataloader)
 
-        trainer.test(test_dataset, batch_size=batch_size)
+        trainer.test(
+            tagger,
+            DataLoader(
+                test_dataset,
+                batch_size=batch_size,
+                collate_fn=test_dataset.train_collate_fn,
+                num_workers=workers
+            )
+        )
 
 
 @cli.command("test")
 @click.argument("test_path", type=click.Path(dir_okay=False, file_okay=True, exists=True))
-@click.argument("model_tar", nargs=-1, type=click.Path(dir_okay=False, file_okay=True, exists=True))
+@click.argument("models", nargs=-1, type=click.Path(dir_okay=False, file_okay=True, exists=True))
 @click.option("--csv_file", default=None, type=click.File(mode="w"), help="CSV target")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
 @click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
 @click.option("--debug", default=False, is_flag=True)
 @click.option("--verbose", default=False, is_flag=True, help="Print classification report")
-def test(test_path, model_tar, csv_file, batch_size, device, debug, verbose):
+@click.option("--workers", default=1, type=int, help="Number of workers to use to load data")
+@click.option("--avg", default="macro", type=click.Choice(["micro", "macro"]), help="Type of avering method to use on "
+                                                                                    "metrics")
+def test(test_path, models, csv_file, batch_size, device, debug, verbose, workers: int, avg: str):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
     if debug:
-        import logging
-        logging.getLogger().setLevel(logging.DEBUG)
+        logger.setLevel(logging.DEBUG)
+    else:
+        logger.setLevel(logging.INFO)
+
+    if device == 'cpu':
+        device = None
+    elif device.startswith('cuda'):
+        device = [int(device.split(':')[-1])]
 
     results = []
-    for config_file in model_tar:
-        model = BoudamsTagger.load(config_file, device=device)
+    for model in models:
+        model = BoudamsTagger.load(model)
+        model.add_metrics("test", avg)
 
         # Get the datasets
-        test_dataset: DatasetIterator = model.vocabulary.get_dataset(test_path)
+        test_dataset: BoudamsDataset = model.vocabulary.get_dataset(test_path)
 
-        print("Testing %s " % config_file)
-        print("-- Dataset informations --")
-        print("Number of testing examples: {}".format(len(test_dataset)))
-        print("--------------------------")
+        logger.info("Testing %s " % model)
+        logger.info("-- Dataset informations --")
+        logger.info("Number of testing examples: {}".format(len(test_dataset)))
+        logger.info("--------------------------")
 
-        trainer = Trainer(model, device=device)
+        trainer = Trainer(
+            gpus=device
+        )
 
-        scorer = trainer.test(test_dataset, batch_size=batch_size, class_report=verbose)
-        print("Saving confusion matrix...")
-        scorer.plot_confusion_matrix(config_file+".png")
-        print(scorer.scores)
-        print(scorer.report)
-        r = scorer.scores._asdict()
-        r["model"] = model.system
-        r["file"] = config_file
-        results.append(r)
-
-    if csv_file is not None:
-        import csv
-        writer = csv.DictWriter(csv_file, fieldnames=list(results[0].keys()))
-        writer.writeheader()
-        writer.writerows(results)
+        logged_values = trainer.test(
+            model,
+            DataLoader(
+                test_dataset,
+                batch_size=batch_size,
+                num_workers=workers,
+                collate_fn=test_dataset.train_collate_fn
+            )
+        )
+        print(model.vocabulary.format_confusion_matrix(model.confusion_matrix.tolist()))
+        import tabulate
+        print("\n\n")
+        print(tabulate.tabulate(
+            [
+                (metric.replace("test_", ""), f"{score*100:.2f}")
+                for metric, score in logged_values[0].items()
+            ],
+            headers=("metric", "score")
+        ))
 
 
 @cli.command("tag")
 @click.argument("model", type=click.Path(exists=True, file_okay=True, dir_okay=False))
 @click.argument("filename", nargs=-1, type=click.File("r"))
 @click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
+@click.option("--batch-size", default=64, help="Batch Size")
 def tag(model, filename, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     print("Loading the model.")
-    model = BoudamsTagger.load(model, device=device)
+    model = BoudamsTagger.load(model)
+    model.eval()
+    model.to(device)
     print("Model loaded.")
     remove_line = True
-    spaces = re.compile("\s+")
-    apos = re.compile("['’]")
+    spaces = re.compile(r"\s+")
+    apos = re.compile(r"['’]")
     for file in tqdm.tqdm(filename):
         out_name = file.name.replace(".txt", ".tokenized.txt")
         content = file.read()  # Could definitely be done a better way...
         if remove_line:
             content = spaces.sub("", content)
-
+        file.close()
         # Now, extract apostrophes, remove them, and reinject them
-        apos_positions = [ i for i in range(len(content)) if content[i] in ["'", "’"] ]
+        apos_positions = [
+            i
+            for i in range(len(content))
+            if content[i] in ["'", "’"]
+        ]
         content = apos.sub("", content)
 
         with open(out_name, "w") as out_io:
             out = ''
-            for tokenized_string in model.annotate_text(content, batch_size=batch_size):
+            for tokenized_string in model.annotate_text(content, batch_size=batch_size, device=device):
                 out = out + tokenized_string+" "
 
             # Reinject apostrophes
@@ -303,13 +404,17 @@ def tag(model, filename, device="cpu", batch_size=64):
 @cli.command("tag-check")
 @click.argument("config_model", nargs=-1, type=click.Path(exists=True, file_okay=True, dir_okay=False))
 @click.argument("content")
+@click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
+@click.option("--batch-size", default=64, help="Batch Size")
 def tag_check(config_model, content, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     for model in config_model:
-        print("Loading the model.")
-        tokenizer = BoudamsTagger.load(model, device=device)
-        print("Model loaded.")
-        print(model + "\t" +" ".join(tokenizer.annotate_text(content, batch_size=batch_size)))
+        click.echo(f"Loading the model {model}.")
+        boudams = BoudamsTagger.load(model)
+        boudams.eval()
+        boudams.to(device)
+        click.echo(f"\t[X] Model loaded")
+        click.echo(" ".join(boudams.annotate_text(content, batch_size=batch_size, device=device)))
 
 
 @cli.command("graph")
