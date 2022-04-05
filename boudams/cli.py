@@ -172,7 +172,7 @@ def template(filename):
 @click.option("--metric", default="f1", type=click.Choice(ACCEPTABLE_MONITOR_METRICS), help="Metric to monitor")
 @click.option("--avg", default="macro", type=click.Choice(["micro", "macro"]), help="Type of avering method to use on "
                                                                                     "metrics")
-@click.option("--delta", default=.01, type=float, help="Minimum change in the monitored quantity to qualify as an "
+@click.option("--delta", default=.001, type=float, help="Minimum change in the monitored quantity to qualify as an "
                                                        "improvement")
 @click.option("--patience", default=3, type=int, help="Number of checks with no improvement after which training "
                                                           "will be stopped")
