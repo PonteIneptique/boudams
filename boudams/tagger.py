@@ -79,6 +79,7 @@ class OptimizerParams:
             optimizer = cls(**kwargs)
         scheduler = optim.lr_scheduler.ReduceLROnPlateau(
             optimizer,
+            verbose=True,
             **self.scheduler
         )
         return optimizer, scheduler

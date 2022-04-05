@@ -57,7 +57,7 @@ class Trainer(pl.Trainer):
         kwargs["callbacks"].extend([
             RichProgressBar(leave=True),
             SaveModelCallback(),
-            EarlyStopping(monitor=monitor, min_delta=min_delta, patience=patience, verbose=False,
+            EarlyStopping(monitor=monitor, min_delta=min_delta, patience=patience, verbose=True,
                           mode="min" if monitor == "val_loss" else "max"),
             RichModelSummary(max_depth=2),
         ])

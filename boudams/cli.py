@@ -398,13 +398,17 @@ def tag(model, filename, device="cpu", batch_size=64):
 @cli.command("tag-check")
 @click.argument("config_model", nargs=-1, type=click.Path(exists=True, file_okay=True, dir_okay=False))
 @click.argument("content")
+@click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
+@click.option("--batch-size", default=64, help="Batch Size")
 def tag_check(config_model, content, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     for model in config_model:
-        print("Loading the model.")
-        tokenizer = BoudamsTagger.load(model, device=device)
-        print("Model loaded.")
-        print(model + "\t" +" ".join(tokenizer.annotate_text(content, batch_size=batch_size)))
+        click.echo(f"Loading the model {model}.")
+        boudams = BoudamsTagger.load(model)
+        boudams.eval()
+        boudams.to(device)
+        click.echo(f"\t[X] Model loaded")
+        click.echo(" ".join(boudams.annotate_text(content, batch_size=batch_size, device=device)))
 
 
 @cli.command("graph")
