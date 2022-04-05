@@ -197,6 +197,6 @@ class MainModule(nn.Module):
         logits = torch.argmax(out, -1)
         return label_encoder.reverse_batch(
             logits,
-            masked=override_src or src,
+            mask_batch=override_src or src,
             ignore=(self.pad_idx, )
         )
