@@ -29,7 +29,7 @@ class Trainer(pl.Trainer):
             model_name: Optional[str] = "model.boudams_model",
             monitor: str = "accuracy",
             patience: int = 5,
-            min_delta: float = 0.01,
+            min_delta: float = 0.001,
             use_swa: bool = False,
             callbacks: Optional[Union[List[Callback], Callback]] = None,
             *args,
