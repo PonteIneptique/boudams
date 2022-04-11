@@ -28,21 +28,26 @@ def dataset():
     """ Dataset related functions """
 
 
+
+def _get_mode(mode: str, mode_kwargs: str = "") -> SimpleSpaceMode:
+    if mode == "simple-space":
+        return SimpleSpaceMode()
+
+
 @dataset.command("convert")
 @click.argument("splitter", type=click.Choice(['words', 'sentence']))
 @click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
 @click.argument("output_path", type=click.Path(file_okay=False))
-@click.argument("--mode", type=click.Choice(['simple-space']),
-                default="simple_space", show_default=True,
-                help="Type of encoder you want to set-up"
-                )
+@click.option("--mode", type=click.Choice(['simple-space']),
+              default="simple-space", show_default=True,
+              help="Type of encoder you want to set-up")
 @click.option("--splitter-regex", type=str, default=None, show_default=True,
               help="Regular expression for some splitter")
 @click.option("--min_words", type=int, default=2, show_default=True,
               help="Minimum of words to build a line [Word splitter only]")
 @click.option("--max_words", type=int, default=10, show_default=True,
               help="Maximum number of words to build a line [Word splitter only]")
-def convert(output_path, input_path, splitter, splitter_regex, min_words, max_words):
+def convert(output_path, input_path, mode, splitter, splitter_regex, min_words, max_words):
     """ Build sequence training data using files with [METHOD] format in [INPUT_PATH] and saving the
     converted format into [OUTPUT_PATH]
 
@@ -60,7 +65,7 @@ def convert(output_path, input_path, splitter, splitter_regex, min_words, max_wo
         )
     plaintext.convert(
         input_path, output_path,
-        splitter=splitter, mode=SimpleSpaceMode()
+        splitter=splitter, mode=_get_mode(mode=mode)
     )
 
 
@@ -126,6 +131,7 @@ def generate(output_path, input_path, max_char_length, train_ratio, test_ratio):
                        ratio=(train_ratio, dev_ratio, test_ratio))
     dataset_base.check(output_path, max_length=max_char_length)
 
+
 @cli.command("template")
 @click.argument("filename", type=click.File(mode="w"))
 def template(filename):
@@ -161,6 +167,9 @@ def template(filename):
 
 @cli.command("train")
 @click.argument("config_files", nargs=-1, type=click.File("r"))
+@click.option("--mode", type=click.Choice(['simple-space']),
+              default="simple-space", show_default=True,
+              help="Type of encoder you want to set-up")
 @click.option("--output", type=click.Path(dir_okay=False, exists=False), default=None, help="Model Name")
 @click.option("--epochs", type=int, default=100, help="Number of epochs to run")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
@@ -181,7 +190,7 @@ def template(filename):
 # pytorch_lightning.utilities.exceptions.MisconfigurationException: The closure hasn't been executed. HINT: did you call
 # `optimizer_closure()` in your `optimizer_step` hook? It could also happen because the
 # `optimizer.step(optimizer_closure)` call did not execute it internally.
-def train(config_files: List[click.File], output: str,
+def train(config_files: List[click.File], output: str, mode: str,
           epochs: int, batch_size: int, device: str, debug: bool, workers: int,
           auto_lr: bool,
           metric: str, avg: str, delta: float, patience: int,
@@ -209,6 +218,7 @@ def train(config_files: List[click.File], output: str,
 
         vocabulary = LabelEncoder(
             maximum_length=config.get("max_sentence_size", None),
+            mode=mode,
             remove_diacriticals=config["label_encoder"].get("normalize", True),
             lower=config["label_encoder"].get("lower", True)
         )

@@ -149,7 +149,6 @@ class BoudamsTagger(pl.LightningModule):
 
         # Based on self.masked, decoder dimension can be drastically different
         self.dec_dim = len(self.vocabulary.itom)
-        self.mask_token = self.vocabulary.mask_token
 
         # Build the module
         self._build_nn()

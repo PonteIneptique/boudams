@@ -62,8 +62,8 @@ if __name__ == "__main__":
     from boudams.data_generation.base import check, split
     from boudams.data_generation.splitter import WordSplitter
 
-    inp = "/home/thibault/dev/boudams/test_data/bfmmss/txt/*.txt"
-    output = "/home/thibault/dev/boudams/test_data/bfmmss/gt/"
+    inp = "/home/thibault/dev/boudams/test_data/*/txt/*.txt"
+    output = "/home/thibault/dev/boudams/test_data/new"
 
     max_char_length = 200
 

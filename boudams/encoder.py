@@ -129,6 +129,8 @@ class SimpleSpaceMode:
 
         clean_matrix = confusion_matrix[indexes][:, indexes]
         space_token_index = self.masks_to_index[DEFAULT_WB_TOKEN]
+        if space_token_index > self.pad_token_index:
+            space_token_index -= 1
         nb_space_gt = (
             clean_matrix[space_token_index].sum() +
             clean_matrix[:, space_token_index].sum() -
@@ -141,7 +143,7 @@ class SimpleSpaceMode:
 
 class LabelEncoder:
     Modes = {
-        "SimpleSpace": SimpleSpaceMode
+        "simple-space": SimpleSpaceMode
     }
 
     # For test purposes
@@ -149,12 +151,13 @@ class LabelEncoder:
 
     def __init__(
         self,
-        mode: str = "SimpleSpace",
+        mode: str = "simple-space",
         maximum_length: int = None,
         lower: bool = True,
         remove_diacriticals: bool = True,
         unk_token: str = DEFAULT_UNK_TOKEN
     ):
+        self._mode_string: str = mode
         self._mode: SimpleSpaceMode = self.Modes[mode]()
 
         self.pad_token: str = self._mode.pad_token
@@ -211,11 +214,8 @@ class LabelEncoder:
         for path in paths:
             with open(path) as fio:
                 for line in fio.readlines():
-                    x, y_true = self.readunit(line)
-                    recorded_chars.update(set(list(x) + list(y_true)))
-
-                    if debug:
-                        counter.update("".join(x+y_true))
+                    x, _ = self.readunit(line)
+                    recorded_chars.update(set(list(x)))
 
         logging.info("Saving {} chars to label encoder".format(len(recorded_chars)))
         for char in recorded_chars:
@@ -225,11 +225,7 @@ class LabelEncoder:
                 # Reuse index for string retrieval
                 self.itos[self.stoi[char]] = char
 
-        if debug:
-            logging.debug(str(counter))
-            logging.debug(self.stoi)
-
-    def readunit(self, line) -> Tuple[Tuple[str, ...], str]:
+    def readunit(self, line) -> Tuple[str, str]:
         """ Read a single line
 
         :param line:
@@ -239,7 +235,7 @@ class LabelEncoder:
         (('a', ' ', 'b', ' ', 'c', ' ', 'd'), 'x x x x')
         """
         inp, out = line.strip().split("\t")
-        return tuple(self.prepare(inp)), out
+        return self.prepare(inp), out
 
     def prepare(self, inp: str):
         if self.remove_diacriticals:
@@ -376,10 +372,10 @@ class LabelEncoder:
         return json.dumps({
             "itos": self.itos,
             "stoi": self.stoi,
+            "mode": self._mode_string,
             "params": {
                 "pad_token": self.pad_token,
                 "unk_token": self.unk_token,
-                "mask_token": self.mask_token,
                 "remove_diacriticals": self.remove_diacriticals,
                 "lower": self.lower
             }
@@ -469,7 +465,6 @@ if __name__ == "__main__":
                if l != len(reversed_data[0]) - reversed_data[0].count(" ")
            ] == [], \
         "All element should have the same size (length : %s) if we remove the spaces" % list(map(len, reversed_data))
-    print(reversed_data)
     assert reversed_data == [
         ['<SOS>', 'e', ' ', 'd', 'e', 'u', 's', ' ', 't', 'u', 'n', 'e', 'i', 'r', 'e', ' ', 'e', ' ', 'p', 'l', 'u',
          'i', 'e', ' ', 'm', 'e', 'r', 'v', 'e', 'i', 'l', 'l', 'u', 's', 'e', ' ', 'a', ' ', 'c', 'e', 'l', ' ', 'j',

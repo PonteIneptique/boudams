@@ -20,9 +20,9 @@
         "lower": false
     },
     "datasets": {
-        "test": "./datasets/fro/test.tsv",
-        "train": "./datasets/fro/train.tsv",
-        "dev": "./datasets/fro/dev.tsv",
+        "test": "./test_data/new/test.tsv",
+        "train": "./test_data/new/train.tsv",
+        "dev": "./test_data/new/dev.tsv",
         "random": false
     }
 }
