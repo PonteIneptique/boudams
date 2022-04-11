@@ -60,9 +60,10 @@ class SimpleSpaceMode:
         for char in self.masks_to_index:
             if char != self.pad_token:  # We do not limit <PAD> to a single char because it's not dumped in a string
                 if len(char) != 1:
-                    raise SimpleSpaceMode.MaskValueException(f"Mask characters cannot be longer than one char "
-                                                             f"(Found: `{char}` "
-                                                             f"for {self.index_to_masks_name[self.masks_to_index[char]]})")
+                    raise SimpleSpaceMode.MaskValueException(
+                        f"Mask characters cannot be longer than one char "
+                        f"(Found: `{char}` "
+                        f"for {self.index_to_masks_name[self.masks_to_index[char]]})")
 
     @property
     def pad_token_index(self) -> int:
@@ -109,13 +110,31 @@ class SimpleSpaceMode:
                 if mask == self.pad_token_index:
                     break
                 if self.index_to_masks_name[mask] == "WB":
-                    yield char+ " "
+                    yield char + " "
                 else:
                     yield char
         return "".join(apply())
 
     def prepare_input(self, string: str) -> str:
         return self._space.sub("", string)
+
+    def computer_wer(self, confusion_matrix):
+        indexes = torch.tensor([
+            i
+            for i in range(self.classes_count)
+            if i != self.pad_token_index
+        ]).type_as(confusion_matrix)
+
+        clean_matrix = confusion_matrix[indexes][:, indexes]
+        space_token_index = self.masks_to_index[DEFAULT_WB_TOKEN]
+        nb_space_gt = (
+            clean_matrix[space_token_index].sum() +
+            clean_matrix[:, space_token_index].sum() -
+            clean_matrix[space_token_index, space_token_index]
+        )
+
+        nb_missed_space = clean_matrix.sum() - torch.diagonal(clean_matrix, 0).sum()
+        return nb_missed_space / nb_space_gt
 
 
 class LabelEncoder:

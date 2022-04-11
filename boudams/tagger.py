@@ -325,21 +325,7 @@ class BoudamsTagger(pl.LightningModule):
         self.log("val_wer", self._computer_wer(stats_score), on_epoch=True, prog_bar=True)
 
     def _computer_wer(self, confusion_matrix):
-        indexes = torch.tensor([
-            i
-            for i in range(self.vocabulary.mask_count)
-            if i != self.vocabulary.pad_token_index
-        ]).type_as(confusion_matrix)
-        clean_matrix = confusion_matrix[indexes][:, indexes]
-
-        nb_space_gt = (
-            clean_matrix[self.vocabulary.space_token_index].sum() +
-            clean_matrix[:, self.vocabulary.space_token_index].sum() -
-            clean_matrix[self.vocabulary.space_token_index, self.vocabulary.space_token_index]
-        )
-
-        nb_missed_space = clean_matrix.sum() - torch.diagonal(clean_matrix, 0).sum()
-        return nb_missed_space / nb_space_gt
+        return self.vocabulary.mode.computer_wer(confusion_matrix)
 
     def _eval_step(self, batch, batch_idx, prefix: str):
         x, x_len, gt = batch

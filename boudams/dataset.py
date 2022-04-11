@@ -75,6 +75,5 @@ class BoudamsDataset(torch_data.Dataset):
                 [torch.tensor(y_i) for y_i in y],
                 padding_value=self._l_e.pad_token_index,
                 batch_first=True
-            )#,
-            #torch.tensor(x_length)
+            )
         )

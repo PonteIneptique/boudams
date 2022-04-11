@@ -7,16 +7,20 @@ import regex as re
 from typing import Iterable, Union
 
 from boudams.data_generation.base import write_sentence, _space
+from boudams.encoder import SimpleSpaceMode
 
 
 _splitter = re.compile(r"(\s+)")
 _apos = re.compile("['’]")
+
 
 def convert(
         input_path: Union[Iterable[str], str], output_path: str,
         min_words: int = 2, max_words: int = 10,
         min_char_length: int = 7, max_char_length: int = 100,
         random_keep: float = 0.3, max_kept: int = 1,
+        apply_apostrophe: bool = True,
+        mode: SimpleSpaceMode = None,
         noise_char: str = ".", noise_char_random: float = 0.2, max_noise_char: int = 2,
         **kwargs
 ):
@@ -56,7 +60,8 @@ def convert(
             sequence = []
             next_sequence = random.randint(min_words, max_words)
 
-            content = _apos.sub(" ", input_fio.read())
+            if apply_apostrophe:
+                content = _apos.sub(" ", input_fio.read())
 
             for word in _splitter.split(content):
                 word = _space.sub("", word)
@@ -86,7 +91,7 @@ def convert(
                                    [noise_char] * random.randint(1, max_noise_char) + \
                                    sequence[index:]
 
-                    write_sentence(output_fio, sequence)
+                    write_sentence(output_fio, sequence, mode)
 
                     # We randomly keep the last word for next sentence
                     if random.random() < random_keep:
@@ -100,7 +105,7 @@ def convert(
 
             # At the end of the loop, if sequence is not empty
             if sequence and len("".join(sequence)) > min_char_length:
-                write_sentence(output_fio, sequence, max_chars=max_char_length)
+                write_sentence(output_fio, sequence, mode, max_chars=max_char_length)
 
 
 if __name__ == "__main__":

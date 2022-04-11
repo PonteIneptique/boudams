@@ -5,6 +5,8 @@ import re
 from typing import List, Tuple, Iterable, Union
 
 
+from boudams.encoder import SimpleSpaceMode
+
 _space = re.compile("(\s+)")
 
 
@@ -28,18 +30,19 @@ def formatter(sequence: Iterable[str]):
     return "\t".join(untokenize(sequence)).replace("\n", "") + "\n"
 
 
-def write_sentence(io_file, sentence: List[str], max_chars: int = 150):
+def write_sentence(io_file, sentence: List[str], mode: SimpleSpaceMode, max_chars: int = 150):
     """ Write
 
     :param io_file: File to write to
     :param sentence: Sequence for training and ground_truth
+    :param mode: Mode that is used to create masks
     :param max_chars: Maximum number of characters to keep
     :return:
     """
     sequence = []
     for word in sentence:
         if len(" ".join(sequence)) >= max_chars:
-            io_file.write(formatter(sequence))
+            io_file.write(mode.generate_mask(" ".join(sequence)))
             sequence = []
         sequence.append(word)
 
