@@ -13,9 +13,9 @@ import pytorch_lightning as pl
 
 from boudams.tagger import BoudamsTagger, OptimizerParams
 from boudams.trainer import Trainer, logger, ACCEPTABLE_MONITOR_METRICS
-from boudams.encoder import LabelEncoder
+from boudams.encoder import LabelEncoder, SimpleSpaceMode
 from boudams.dataset import BoudamsDataset
-from boudams.data_generation import conllu, base as dataset_base, plaintext
+from boudams.data_generation import base as dataset_base, plaintext, splitter as all_splitters
 
 
 @click.group()
@@ -29,40 +29,39 @@ def dataset():
 
 
 @dataset.command("convert")
-@click.argument("method", type=click.Choice(['tsv', 'tsv-header', 'plain-text']))
-@click.argument("output_path", type=click.Path(file_okay=False))
+@click.argument("splitter", type=click.Choice(['words', 'sentence']))
 @click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
-@click.option("--min_words", type=int, default=2, help="Minimum of words to build a line")
-@click.option("--max_words", type=int, default=10, help="Maximum number of words to build a line")
-@click.option("--min_char_length", type=int, default=7, help="Minimum amount of characters to build a line")
-@click.option("--max_char_length", type=int, default=100, help="Maximum amount of characters to build a line")
-@click.option("--random_keep", type=float, default=0.3, help="Probability to keep some words for the next sequence")
-@click.option("--max_kept", type=int, default=1, help="Maximum amount of words to be kept over next sequence")
-@click.option("--noise_char", type=str, default=".", help="Character to add between words for noise purposes")
-@click.option("--noise_char_random", type=float, default=0.2, help="Probability to add [NOISE_CHAR] in between words")
-@click.option("--max_noise_char", type=int, default=2, help="Maximum amount of [NOISE_CHAR] to add sequentially")
-def convert(method, output_path, input_path, min_words, max_words, min_char_length,
-             max_char_length, random_keep, max_kept, noise_char, noise_char_random, max_noise_char):
+@click.argument("output_path", type=click.Path(file_okay=False))
+@click.argument("--mode", type=click.Choice(['simple-space']),
+                default="simple_space", show_default=True,
+                help="Type of encoder you want to set-up"
+                )
+@click.option("--splitter-regex", type=str, default=None, show_default=True,
+              help="Regular expression for some splitter")
+@click.option("--min_words", type=int, default=2, show_default=True,
+              help="Minimum of words to build a line [Word splitter only]")
+@click.option("--max_words", type=int, default=10, show_default=True,
+              help="Maximum number of words to build a line [Word splitter only]")
+def convert(output_path, input_path, splitter, splitter_regex, min_words, max_words):
     """ Build sequence training data using files with [METHOD] format in [INPUT_PATH] and saving the
     converted format into [OUTPUT_PATH]
 
     If you are using `tsv-header` as a method, columns containing tokens should be named "tokens" or "form"
     """
-    if method.startswith("tsv"):
-        conllu.convert(
-            input_path, output_path, min_words=min_words, max_words=max_words,
-            min_char_length=min_char_length, max_char_length=max_char_length,
-            random_keep=random_keep, max_kept=max_kept, noise_char=noise_char,
-            noise_char_random=noise_char_random, max_noise_char=max_noise_char,
-            dict_reader=method.endswith("header")
+    if splitter == "words":
+        splitter = all_splitters.WordSplitter(
+            min_words=min_words,
+            max_words=max_words,
+            **({"splitter": splitter_regex} if splitter_regex else {})
         )
     else:
-        plaintext.convert(
-            input_path, output_path, min_words=min_words, max_words=max_words,
-            min_char_length=min_char_length, max_char_length=max_char_length,
-            random_keep=random_keep, max_kept=max_kept, noise_char=noise_char,
-            noise_char_random=noise_char_random, max_noise_char=max_noise_char
+        splitter = all_splitters.SentenceSplitter(
+            **({"splitter": splitter_regex} if splitter_regex else {})
         )
+    plaintext.convert(
+        input_path, output_path,
+        splitter=splitter, mode=SimpleSpaceMode()
+    )
 
 
 @dataset.command("statistics")

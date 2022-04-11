@@ -22,6 +22,8 @@ DEFAULT_WB_TOKEN = "|"
 
 
 class SimpleSpaceMode:
+    NormalizeSpace: bool = True
+
     class MaskValueException(Exception):
         """ Exception raised when a token is longer than a character """
 
@@ -90,8 +92,8 @@ class SimpleSpaceMode:
         split = self._space.split(string)
         masks = DEFAULT_WB_TOKEN.join([DEFAULT_MASK_TOKEN * (len(tok)-1) for tok in split]) + DEFAULT_WB_TOKEN
         model_input = "".join(split)
-        assert len(masks) == len(model_input), f"Length of input and mask should be equal {masks+model_input}"
-        return masks, model_input
+        assert len(masks) == len(model_input), f"Length of input and mask should be equal `{masks}` + `{model_input}`"
+        return model_input, masks
 
     def encode_mask(self, masked_string: Sequence[str]) -> List[int]:
         """ Encodes into a list of index a string
