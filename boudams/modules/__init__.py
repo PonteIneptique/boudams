@@ -1,7 +1,8 @@
-from typing import Optional, Callable
+from typing import Optional, Callable, Tuple
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import torch.nn.utils.rnn as rnn_utils
 
 
 __all__ = [
@@ -30,14 +31,18 @@ class ModelWrapper(nn.Module):
     def output_dim(self) -> int:
         return self._output_dim
 
-    def forward(
+    def _forward(
             self,
-            inp: Optional[torch.Tensor],
-            positional: Optional[torch.Tensor] = None
+            inp: torch.Tensor,
+            inp_length: Optional[torch.Tensor] = None
     ) -> torch.Tensor:
-        if self._use_positional:
-            self._forward(inp, positional)
-        return self._nn(inp)
+        raise NotImplementedError()
+
+    def forward(self,
+                inp: torch.Tensor,
+                inp_length: Optional[torch.Tensor] = None
+                ) -> Tuple[torch.Tensor, Optional[torch.Tensor]]:
+        return self._forward(inp, inp_length), inp_length
 
     def init_weights(self):
         return
@@ -54,11 +59,7 @@ class Dropout(ModelWrapper):
         self._output_dim = input_dim
         self._nn = nn.Dropout(self._rate)
 
-    def forward(
-            self,
-            inp: Optional[torch.Tensor],
-            positional: Optional[torch.Tensor] = None
-    ) -> torch.Tensor:
+    def _forward(self, inp: torch.Tensor, inp_length: Optional[torch.Tensor] = None) -> torch.Tensor:
         return self._nn(inp)
 
 
@@ -73,11 +74,7 @@ class Linear(ModelWrapper):
         # Directions*Hidden_Dim
         self._output_dim = output_dim
 
-    def forward(
-            self,
-            inp: Optional[torch.Tensor],
-            positional: Optional[torch.Tensor] = None
-    ) -> torch.Tensor:
+    def _forward(self, inp: torch.Tensor, inp_length: Optional[torch.Tensor] = None) -> torch.Tensor:
         return self._nn(inp)
 
 
@@ -106,11 +103,7 @@ class Conv(ModelWrapper):
         if activation == "g":
             self.activation: Callable[[torch.Tensor], torch.Tensor] = lambda conv_output: F.glu(conv_output, dim=1)
 
-    def forward(
-            self,
-            inp: Optional[torch.Tensor],
-            positional: Optional[torch.Tensor] = None
-    ) -> torch.Tensor:
+    def _forward(self, inp: torch.Tensor, inp_length: Optional[torch.Tensor] = None) -> torch.Tensor:
         # Input is (batch_size, sequence_length, dimension)
         #   The convolution layers expect input of shape `(batch_size, in_channels, sequence_length)
         #   We permute last two dimensions
@@ -145,11 +138,7 @@ class PosEmbedding(ModelWrapper):
         if activation:
             self.activation = nn.Linear(input_dim, input_dim)
 
-    def forward(
-            self,
-            inp: Optional[torch.Tensor],
-            positional: Optional[torch.Tensor] = None
-    ) -> torch.Tensor:
+    def _forward(self, inp: torch.Tensor, inp_length: Optional[torch.Tensor] = None) -> torch.Tensor:
         # Input is (batch_size, sequence_length, dimension)
         #   The convolution layers expect input of shape `(batch_size, in_channels, sequence_length)
         #   We permute last two dimensions
@@ -166,6 +155,7 @@ class BiLSTM(ModelWrapper):
             self,
             input_dim,
             hidden_dim: int,
+            padding_idx = 0,
             layers: int = 1
     ):
         super(BiLSTM, self).__init__(input_dim=input_dim, use_positional=False)
@@ -178,18 +168,19 @@ class BiLSTM(ModelWrapper):
         )
         # Directions*Hidden_Dim
         self._output_dim = 2*hidden_dim
+        self._padding_idx: int = padding_idx
 
-    def forward(
-            self,
-            inp: Optional[torch.Tensor],
-            positional: Optional[torch.Tensor] = None
-    ) -> torch.Tensor:
+    def _forward(self, inp: torch.Tensor, inp_length: Optional[torch.Tensor] = None) -> torch.Tensor:
 
         # inp = [src sent len, batch size, emb dim]
         # packed_outputs = [src sent len, batch size, hid dim * n directions]
+        rnn_utils.pack_padded_sequence(inp, lengths=inp_length, batch_first=True)
         output, _ = self._nn(inp)
-
-        return output
+        return rnn_utils.pad_packed_sequence(
+            output,
+            padding_value=self._padding_idx,
+            batch_first=True
+        )[0]
 
     def init_weights(self):
         for name, param in self.named_parameters():
@@ -214,17 +205,18 @@ class BiGru(ModelWrapper):
         # Directions*Hidden_Dim
         self._output_dim = 2 * hidden_dim
 
-    def forward(
-        self,
-        inp: Optional[torch.Tensor],
-        positional: Optional[torch.Tensor] = None
-    ) -> torch.Tensor:
+    def _forward(self, inp: torch.Tensor, inp_length: Optional[torch.Tensor] = None) -> torch.Tensor:
 
         # inp = [src sent len, batch size, emb dim]
         # packed_outputs = [src sent len, batch size, hid dim * n directions]
-        output, _ = self._nn(inp)
 
-        return output
+        rnn_utils.pack_padded_sequence(inp, lengths=inp_length, batch_first=True)
+        output, _ = self._nn(inp)
+        return rnn_utils.pad_packed_sequence(
+            output,
+            padding_value=self._padding_idx,
+            batch_first=True
+        )[0]
 
     def init_weights(self):
         for name, param in self.named_parameters():
@@ -270,11 +262,7 @@ class SequentialConv(ModelWrapper):
             return self._dropout(x)
         return x
 
-    def forward(
-            self,
-            inp: Optional[torch.Tensor],
-            positional: Optional[torch.Tensor] = None
-    ) -> torch.Tensor:
+    def _forward(self, inp: torch.Tensor, inp_length: Optional[torch.Tensor] = None) -> torch.Tensor:
         # pass embedded through linear layer to go through emb dim -> hid dim
         # conv_input = [batch size, src sent len, hid dim]
         conv_input = self._inp_to_filter(inp)

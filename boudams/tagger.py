@@ -7,6 +7,7 @@ import tarfile
 import logging
 import regex as re
 from dataclasses import dataclass
+from collections import OrderedDict
 from typing import List, Any, Optional, Dict, ClassVar, Tuple
 
 import pytorch_lightning as pl
@@ -126,7 +127,7 @@ class ArchitectureStringError(ValueError):
 def parse_architecture(
    string: str,
    maximum_sentence_size: Optional[int] = None
-) -> Tuple[int, nn.ModuleList, int]:
+) -> Tuple[int, nn.ModuleDict, int]:
     """ Returns an embedding dimension and a module list
 
     >>> BoudamsTagger.parse_architecture("[E200 C5,10]")
@@ -140,6 +141,7 @@ def parse_architecture(
         raise ArchitectureStringError("Architectures need top be encapsulated in [ ]")
     string = string[1:-1]
     modules: List[ModelWrapper] = []
+    names: List[str] = []
     emb_dim = 0
     last_dim: int = 0
     for idx, module in enumerate(string.split()):
@@ -197,8 +199,9 @@ def parse_architecture(
 
         if len(modules):
             last_dim = modules[-1].output_dim
+            names.append(module.replace(".", "_"))
 
-    return emb_dim, nn.ModuleList(modules), last_dim
+    return emb_dim, nn.ModuleDict(OrderedDict(zip(names, modules))), last_dim
 
 
 class BoudamsTagger(pl.LightningModule):
@@ -214,11 +217,11 @@ class BoudamsTagger(pl.LightningModule):
         """
 
         :param vocabulary:
-        :param hidden_size:
-        :param n_layers:
-        :param emb_enc_dim:
-        :param emb_dec_dim:
-        :param max_length:
+        :param architecture:
+        :param metric_average:
+        :param maximum_sentence_size:
+        :param optimizer:
+        :param have_metrics:
         """
         super(BoudamsTagger, self).__init__()
 
@@ -234,12 +237,12 @@ class BoudamsTagger(pl.LightningModule):
 
         # Parse params and sizes
         self._architecture: str = architecture
-        _emb_dims, module_list, last_dim = parse_architecture(
+        _emb_dims, sequence, last_dim = parse_architecture(
             architecture,
             maximum_sentence_size=maximum_sentence_size
         )
         self._emb_dims = _emb_dims
-        self._module_list = module_list
+        self._module_dict: nn.ModuleDict = sequence
         # Based on self.masked, decoder dimension can be drastically different
         self._embedder = nn.Embedding(self.vocabulary_dimension, self._emb_dims)
         self._classifier = nn.Linear(last_dim, self._classes)
@@ -249,6 +252,7 @@ class BoudamsTagger(pl.LightningModule):
             nll_weight = torch.ones(self._classes)
             nll_weight[vocabulary.pad_token_index] = 0.
             self.register_buffer('nll_weight', nll_weight)
+
             self.train_loss = CrossEntropyLoss(weights=self.nll_weight,
                                                pad_index=self.vocabulary.pad_token_index)
             self.val_loss = CrossEntropyLoss(weights=self.nll_weight,
@@ -294,8 +298,6 @@ class BoudamsTagger(pl.LightningModule):
         with tarfile.open(utils.ensure_ext(fpath, 'boudams_model'), 'r') as tar:
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
-            # load state_dict
-            #print(json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json")))
             vocab = LabelEncoder.load(
                 json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json"))
             )
@@ -308,13 +310,15 @@ class BoudamsTagger(pl.LightningModule):
                 dictpath = os.path.join(tmppath, 'state_dict.pt')
                 obj.model.load_state_dict(torch.load(dictpath))
 
-        obj.model.eval()
+        obj.eval()
 
         return obj
 
     def forward(self, x: torch.TensorType, x_len: Optional[torch.TensorType] = None) -> Any:
-
-        return self.model.forward(x, x_len)
+        after_seq_out = self._embedder(x)
+        for module in self._module_dict.values():
+            after_seq_out, x_len = module(after_seq_out, x_len)
+        return self._classifier(after_seq_out)
 
     def training_step(self, batch, batch_idx):  # -> pl.utilities.types.STEP_OUTPUT:
         """ Runs training step on a batch
