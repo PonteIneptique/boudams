@@ -29,3 +29,9 @@ The VGSL module must starts with an embedding size: `E<dim>`.
 
 Example: `[E200 L120 L200 Cr3,10 D3]` will use a Convolutional Layer of (3 ngram for 10 of dim) and a relu activation
 over which 30% of dropout is applied before classification
+
+## Legacy architectures
+
+- ConvPos `[E256 Pl Do.3 CSs5,256,10Do.25 L256]` 
+- ConvNoPos `[E256 Do.3 CSs5,256,10Do.25 L256]` 
+- Gru `[E256 Do.3 CSs5,256,10Do.25 L256]`
