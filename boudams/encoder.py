@@ -239,16 +239,7 @@ class LabelEncoder:
     def load(cls, json_content: dict) -> "LabelEncoder":
         # pass
         logging.info("Loading LabelEncoder")
-        #ToDo: Remove Temp fix
-        if "pad_token" in json_content["params"]:
-            json_content["params"].pop("pad_token")
-        # End Temp Fix
         o = cls(mode=json_content["mode"], **json_content["params"])
-
-        #ToDo: Remove Temp fix
-        json_content["itos"][json_content["itos"].pop("<UNK>")] = "<UNK>"
-        json_content["itos"][json_content["itos"].pop("垫")] = "垫"
-        # End Temp Fix
 
         o.itos = dict({int(i): s for i, s in json_content["itos"].items()})
         o.stoi = json_content["stoi"]
@@ -261,7 +252,6 @@ class LabelEncoder:
             "stoi": self.stoi,
             "mode": self._mode_string,
             "params": {
-                # "pad_token": self.pad_token,
                 "unk_token": self.unk_token,
                 "remove_diacriticals": self.remove_diacriticals,
                 "lower": self.lower
