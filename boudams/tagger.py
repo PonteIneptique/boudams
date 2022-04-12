@@ -424,7 +424,11 @@ class BoudamsTagger(pl.LightningModule):
         for n in range(0, len(texts), batch_size):
             batch = texts[n:n+batch_size]
             xs = [
-                self.vocabulary.sent_to_numerical(self.vocabulary.prepare(s))
+                self.vocabulary.sent_to_numerical(
+                    self.vocabulary.mode.prepare_input(
+                        self.vocabulary.prepare(s)
+                    )
+                )
                 for s in batch
             ]
             logging.info("Dealing with batch %s " % (int(n/batch_size)+1))

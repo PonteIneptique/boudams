@@ -30,10 +30,9 @@ class SimpleSpaceMode:
             DEFAULT_MASK_TOKEN: 1,
             DEFAULT_WB_TOKEN: 2
         }
-        self.index_to_mask: Dict[str, int] = masks or {
-            0: DEFAULT_PAD_TOKEN,
-            1: DEFAULT_MASK_TOKEN,
-            2: DEFAULT_WB_TOKEN
+        self.index_to_mask: Dict[str, int] = {
+            value: key
+            for value, key in self.masks_to_index.items()
         }
         self.index_to_masks_name: Dict[int, str] = {
             0: "PAD",
@@ -80,12 +79,12 @@ class SimpleSpaceMode:
         :return:
 
         >>> (SimpleSpaceMode()).generate_mask("j'ai un cheval")
-        ('xxx|x|xxxxx|', "j'aiuncheval")
+        ("j'aiuncheval", '---|-|-----|')
         """
-        split = self._space.split(string)
+        split = self._space.split(string.strip())
         masks = DEFAULT_WB_TOKEN.join([DEFAULT_MASK_TOKEN * (len(tok)-1) for tok in split]) + DEFAULT_WB_TOKEN
         model_input = "".join(split)
-        assert len(masks) == len(model_input), f"Length of input and mask should be equal `{masks}` + `{model_input}`"
+        assert len(masks) == len(model_input), f"Length of input and mask should be equal `{masks}` + `{model_input}` + `{string}`"
         return model_input, masks
 
     def encode_mask(self, masked_string: Sequence[str]) -> List[int]:
