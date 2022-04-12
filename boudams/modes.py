@@ -99,9 +99,9 @@ class SimpleSpaceMode:
         """
         return [self.masks_to_index[char] for char in masked_string]
 
-    def apply_mask_to_string(self, input_string: str, masked_string: List[int]) -> str:
+    def apply_mask_to_string(self, input_string: List[str], masks: List[int]) -> str:
         def apply():
-            for char, mask in zip(input_string, masked_string):
+            for char, mask in zip(input_string, masks):
                 if mask == self.pad_token_index:
                     break
                 if self.index_to_masks_name[mask] == "WB":
@@ -241,18 +241,18 @@ class AdvancedSpaceMode(SimpleSpaceMode):
         """
         return [self.masks_to_index[char] for char in masked_string]
 
-    def apply_mask_to_string(self, input_string: str, masked_string: List[int]) -> str:
+    def apply_mask_to_string(self, input_string: str, masks: List[int]) -> str:
         """ Apply a prediction to a string
 
         :param input_string:
-        :param masked_string:
+        :param masks:
         :return:
 
         >>> (AdvancedSpaceMode()).apply_mask_to_string("J 'aiun nu", [1, 3, 1, 1, 2, 1, 2, 4, 1, 2])
         "J'ai un nu"
         """
         def apply():
-            for char, mask in zip(input_string, masked_string):
+            for char, mask in zip(input_string, masks):
                 if mask == self.pad_token_index:
                     break
                 if self.index_to_masks_name[mask] == "WB":

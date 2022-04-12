@@ -20,6 +20,9 @@ from boudams.data_generation import base as dataset_base, plaintext, splitter as
 from boudams.utils import parse_params
 
 
+_POSSIBLE_MODES = list(LabelEncoder.Modes.keys())
+
+
 @click.group()
 def cli():
     """ Boudams is a tokenizer built on deep learning. """
@@ -41,7 +44,7 @@ def _get_mode(mode: str, mode_kwargs: str = "") -> SimpleSpaceMode:
 @click.argument("splitter", type=click.Choice(['words', 'sentence']))
 @click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
 @click.argument("output_path", type=click.Path(file_okay=False))
-@click.option("--mode", type=click.Choice(['simple-space', 'advanced-space']),
+@click.option("--mode", type=click.Choice(_POSSIBLE_MODES),
               default="simple-space", show_default=True,
               help="Type of encoder you want to set-up")
 @click.option("--splitter-regex", type=str, default=None, show_default=True,
@@ -140,7 +143,7 @@ def generate(output_path, input_path, max_char_length, train_ratio, test_ratio):
         return
     dataset_base.split(input_path, output_path, max_char_length=max_char_length,
                        ratio=(train_ratio, dev_ratio, test_ratio))
-    dataset_base.check(output_path, max_length=max_char_length)
+    #dataset_base.check(output_path, max_length=max_char_length)
 
 
 @cli.command("template")
@@ -178,7 +181,7 @@ def template(filename):
 
 @cli.command("train")
 @click.argument("config_files", nargs=-1, type=click.File("r"))
-@click.option("--mode", type=click.Choice(['simple-space']),
+@click.option("--mode", type=click.Choice(_POSSIBLE_MODES),
               default="simple-space", show_default=True,
               help="Type of encoder you want to set-up")
 @click.option("--output", type=click.Path(dir_okay=False, exists=False), default=None, help="Model Name")
@@ -192,9 +195,9 @@ def template(filename):
 @click.option("--avg", default="macro", type=click.Choice(["micro", "macro"]), help="Type of avering method to use on "
                                                                                     "metrics")
 @click.option("--delta", default=.001, type=float, help="Minimum change in the monitored quantity to qualify as an "
-                                                       "improvement")
+                                                        "improvement")
 @click.option("--patience", default=3, type=int, help="Number of checks with no improvement after which training "
-                                                          "will be stopped")
+                                                      "will be stopped")
 @click.option("--seed", default=None, type=int, help="Runs deterministic training")
 @click.option("--optimizer", default="Adams", type=click.Choice(["Adams"]), help="Optimizer to use")
 # ToDo: Figure out the bug with Ranger
@@ -434,7 +437,7 @@ def tag_check(config_model, content, device="cpu", batch_size=64):
         boudams.eval()
         boudams.to(device)
         click.echo(f"\t[X] Model loaded")
-        click.echo(" ".join(boudams.annotate_text(content, batch_size=batch_size, device=device)))
+        click.echo("\n".join(boudams.annotate_text(content, splitter="([\.!\?]+)", batch_size=batch_size, device=device)))
 
 
 @cli.command("graph")

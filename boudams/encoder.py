@@ -10,7 +10,7 @@ import tabulate
 
 from mufidecode import mufidecode
 
-from boudams.modes import SimpleSpaceMode
+from boudams.modes import SimpleSpaceMode, AdvancedSpaceMode
 
 DEFAULT_INIT_TOKEN = "<SOS>"
 DEFAULT_EOS_TOKEN = "<EOS>"
@@ -19,7 +19,8 @@ DEFAULT_UNK_TOKEN = "<UNK>"
 
 class LabelEncoder:
     Modes = {
-        "simple-space": SimpleSpaceMode
+        "simple-space": SimpleSpaceMode,
+        "advanced-space": AdvancedSpaceMode
     }
 
     # For test purposes
@@ -47,8 +48,8 @@ class LabelEncoder:
         self.remove_diacriticals = remove_diacriticals
 
         self.itos: Dict[int, str] = {
-            self.pad_token: 0,
-            self.unk_token: self.unk_token_index
+            0: self.pad_token,
+            self.unk_token_index: unk_token
         }  # String to ID
 
         self.stoi: Dict[str, int] = {
@@ -60,8 +61,8 @@ class LabelEncoder:
         self.itom: Dict[int, str] = dict([
             (tok_id, mask) for (mask, tok_id) in self._mode.masks_to_index.items()
         ])
-        self.mtoi: Dict[int, str] = dict([
-            (tok_id, mask) for (mask, tok_id) in self._mode.masks_to_index.items()
+        self.mtoi: Dict[str, int] = dict([
+            (mask, tok_id) for (mask, tok_id) in self._mode.masks_to_index.items()
         ])
 
     @property
@@ -181,33 +182,33 @@ class LabelEncoder:
             len(sentence)
         )
 
-    def numerical_to_sent(self, encoded_sentence: List[int]) -> str:
+    def numerical_to_sent(self, encoded_sentence: List[int]) -> List[str]:
         """ Transform a list of integers to a string
 
         :param encoded_sentence: List of index
         :return: Characters
         """
-        return "".join([
+        return [
             self.itos[char_idx]
             for char_idx in encoded_sentence
-            if char_idx != self.pad_token
-        ])
+            if char_idx != self.pad_token_index
+        ]
 
     def reverse_batch(
         self,
-        batch: Union[list, torch.Tensor],
-        mask_batch: Optional[Union[list, torch.Tensor]] = None
+        input_batch: Union[list, torch.Tensor],
+        mask_batch: Optional[Union[list, torch.Tensor]]
     ):
         """ Produce result strings for a batch
 
-        :param batch: Input batch
+        :param input_batch: Input batch
         :param mask_batch: Output batch
         :return: List of strings with applied masks
         """
         # If dimension is [sentence_len, batch_size]
-        if not isinstance(batch, list):
-            with torch.cuda.device_of(batch):
-                batch = batch.tolist()
+        if not isinstance(input_batch, list):
+            with torch.cuda.device_of(input_batch):
+                input_batch = input_batch.tolist()
         if not isinstance(mask_batch, list):
             with torch.cuda.device_of(mask_batch):
                 mask_batch = mask_batch.tolist()
@@ -215,9 +216,9 @@ class LabelEncoder:
         return [
             self.mode.apply_mask_to_string(
                 input_string=self.numerical_to_sent(batch_seq),
-                masked_string=masked_seq
+                masks=masked_seq
             )
-            for batch_seq, masked_seq in zip(batch, mask_batch)
+            for batch_seq, masked_seq in zip(input_batch, mask_batch)
         ]
 
     def transcribe_batch(self, batch: List[List[str]]):
@@ -238,7 +239,17 @@ class LabelEncoder:
     def load(cls, json_content: dict) -> "LabelEncoder":
         # pass
         logging.info("Loading LabelEncoder")
-        o = cls(**json_content["params"])
+        #ToDo: Remove Temp fix
+        if "pad_token" in json_content["params"]:
+            json_content["params"].pop("pad_token")
+        # End Temp Fix
+        o = cls(mode=json_content["mode"], **json_content["params"])
+
+        #ToDo: Remove Temp fix
+        json_content["itos"][json_content["itos"].pop("<UNK>")] = "<UNK>"
+        json_content["itos"][json_content["itos"].pop("垫")] = "垫"
+        # End Temp Fix
+
         o.itos = dict({int(i): s for i, s in json_content["itos"].items()})
         o.stoi = json_content["stoi"]
         logging.info("Loaded LabelEncoder with {} tokens".format(len(o.itos) - 4))
@@ -250,7 +261,7 @@ class LabelEncoder:
             "stoi": self.stoi,
             "mode": self._mode_string,
             "params": {
-                "pad_token": self.pad_token,
+                # "pad_token": self.pad_token,
                 "unk_token": self.unk_token,
                 "remove_diacriticals": self.remove_diacriticals,
                 "lower": self.lower
@@ -279,86 +290,3 @@ class LabelEncoder:
             ],
             headers=[col for col in header if col != self.pad_token]
         )
-
-
-if __name__ == "__main__":
-    import glob
-    logger = logging.getLogger()
-    logger.setLevel(logging.DEBUG)
-    label_encoder = LabelEncoder()
-    label_encoder.build(*glob.glob("test_data/*.tsv"), debug=True)
-
-    dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", randomized=False)
-
-    epoch_batches = dataset.get_epoch(batch_size=2)()
-    x, x_len, y, y_len = next(epoch_batches)
-
-    assert tuple(x.shape) == (2, 28), "X shape should be (28, 2), got {}".format(tuple(x.shape))
-    assert tuple(y.shape) == (2, 33), "Y shape should be right"
-
-    assert label_encoder.reverse_batch(y) == [
-        [
-            '<SOS>', 's', 'i', ' ', 't', 'e', ' ', 'd', 'e', 's', 'e', 'n', 'i', 'v', 'e', 'r', 'a', 's', ' ', 'p', 'a',
-            'r', ' ', 'l', 'e', ' ', 'd', 'o', 'r', 'm', 'i', 'r', '<EOS>']
-        ,
-        [
-            '<SOS>', 'l', 'a', ' ', 'd', 'a', 'm', 'e', ' ', 'h', 'a', 'i', 't', 'e', 'e', ' ', 's', "'", 'e', 'n', ' ',
-            'p', 'a', 'r', 't', 'i', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>'
-        ]
-    ]
-
-    assert list(label_encoder.transcribe_batch(label_encoder.reverse_batch(x))) == [
-        "sitedeseniverasparledormir",
-        "ladamehaitees'enparti"
-    ]
-
-    dumped = label_encoder.dump()
-    reloaded = LabelEncoder.load(json.loads(dumped))
-    reloaded.reverse_batch(x)
-    assert reloaded.reverse_batch(y) == label_encoder.reverse_batch(y)
-
-    assert len(list(epoch_batches)) == 2, "There should be only to more batches"
-
-    # Masked
-    old_y = y
-    label_encoder = LabelEncoder(masked=True)
-    label_encoder.build(*glob.glob("test_data/*.tsv"), debug=True)
-
-    dataset = label_encoder.get_dataset("test_data/test_encoder.tsv", randomized=False)
-
-    epoch_batches = dataset.get_epoch(batch_size=5)()
-    x, _, y, _ = next(epoch_batches)
-
-    assert x.shape == y.shape, "OTHERWISE WE'RE SCREWED"
-
-    # Somehow, although stuff IS padded and each sequence should have the same size, this is not the case...
-    # I definitely need to spleep on it
-    reversed_data = list(label_encoder.reverse_batch(y, mask_batch=x))
-
-    assert [
-               l
-               for l in list(map(lambda liste: len(liste)-liste.count(" "), reversed_data))
-               if l != len(reversed_data[0]) - reversed_data[0].count(" ")
-           ] == [], \
-        "All element should have the same size (length : %s) if we remove the spaces" % list(map(len, reversed_data))
-    assert reversed_data == [
-        ['<SOS>', 'e', ' ', 'd', 'e', 'u', 's', ' ', 't', 'u', 'n', 'e', 'i', 'r', 'e', ' ', 'e', ' ', 'p', 'l', 'u',
-         'i', 'e', ' ', 'm', 'e', 'r', 'v', 'e', 'i', 'l', 'l', 'u', 's', 'e', ' ', 'a', ' ', 'c', 'e', 'l', ' ', 'j',
-         'u', 'r', ' ', 'e', 'n', 'v', 'e', 'i', 'a', 'd', '<EOS>'],
-        ['<SOS>', 's', 'i', ' ', 't', 'e', ' ', 'd', 'e', 's', 'e', 'n', 'i', 'v', 'e', 'r', 'a', 's', ' ', 'p', 'a',
-         'r', ' ', 'l', 'e', ' ', 'd', 'o', 'r', 'm', 'i', 'r', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
-         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>'],
-        ['<SOS>', 'l', 'a', ' ', 'd', 'a', 'm', 'e', ' ', 'h', 'a', 'i', 't', 'e', 'e', ' ', 's', "'", 'e', 'n', ' ',
-         'p', 'a', 'r', 't', 'i', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
-         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
-         '<PAD>', '<PAD>'],
-        ['<SOS>', 'e', ' ', 'm', 'a', 'n', 'j', 'a', 'd', ' ', 'l', 'a', ' ', 'c', 'h', 'a', 'r',
-         ' ', 'o', 'd', ' ', 'l', 'e', ' ', 's', 'a', 'n', 'c', '<EOS>', '<PAD>', '<PAD>', '<PAD>',
-         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
-         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>'],
-        ['<SOS>', 'e', ' ', 'a', ' ', 's', 'u', 'n', ' ', 's', 'e', 'r', 'v', 'i', 's', 'e', ' ', 'l', 'e', 's', ' ',
-         'm', 'e', 't', 'r', 'a', '<EOS>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
-         '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>',
-         '<PAD>', '<PAD>', '<PAD>']
-    ]
-

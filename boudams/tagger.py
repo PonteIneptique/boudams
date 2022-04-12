@@ -225,7 +225,7 @@ class BoudamsTagger(pl.LightningModule):
             in_features = self.emb_enc_dim
 
         self.dec: linear.LinearDecoder = linear.LinearDecoder(
-            enc_dim=in_features, out_dim=len(self.vocabulary.mtoi)
+            enc_dim=in_features, out_dim=self.vocabulary.mode.classes_count
         )
         self.model: linear.MainModule = linear.MainModule(
             self.enc, self.dec,
@@ -256,6 +256,7 @@ class BoudamsTagger(pl.LightningModule):
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
             # load state_dict
+            #print(json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json")))
             vocab = LabelEncoder.load(
                 json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json"))
             )
@@ -409,7 +410,7 @@ class BoudamsTagger(pl.LightningModule):
 
         tempList = splits + [""] * 2
         strings = ["".join(tempList[n:n + 2]) for n in range(0, len(splits), 2)]
-        strings = list(filter(len, strings))
+        strings = list(filter(lambda x: x.strip(), strings))
 
         if self.out_max_sentence_length:
             treated = []
@@ -423,7 +424,6 @@ class BoudamsTagger(pl.LightningModule):
                 else:
                     treated.append(string)
             strings = treated
-
         yield from self.annotate(strings, batch_size=batch_size, device=device)
 
     def dump(self, fpath="model"):
