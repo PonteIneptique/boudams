@@ -76,11 +76,11 @@ class LabelEncoder:
     def __len__(self):
         return len(self.stoi)
 
-    def build(self, *paths, debug=False):
+    def build(self, train, *paths, debug=False) -> int:
         """ Builds vocabulary
 
         :param paths: Path of file to read
-        :return:
+        :return: Maximum sentence size
         """
         recorded_chars = set()
         counter = None
@@ -88,10 +88,14 @@ class LabelEncoder:
             counter = collections.Counter()
 
         logging.info("Reading files for vocabulary building")
-        for path in paths:
+        max_sentence_size = 0
+        for path_idx, path in enumerate([train, *paths]):
             with open(path) as fio:
                 for line in fio.readlines():
                     x, _ = self.readunit(line)
+                    seq_len = len(x)
+                    if seq_len > max_sentence_size:
+                        max_sentence_size = seq_len
                     recorded_chars.update(set(list(x)))
 
         logging.info("Saving {} chars to label encoder".format(len(recorded_chars)))
@@ -101,6 +105,8 @@ class LabelEncoder:
                 self.stoi[char] = len(self.stoi)
                 # Reuse index for string retrieval
                 self.itos[self.stoi[char]] = char
+
+        return max_sentence_size
 
     def readunit(self, line) -> Tuple[str, str]:
         """ Read a single line

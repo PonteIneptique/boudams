@@ -143,8 +143,9 @@ class PosEmbedding(ModelWrapper):
         #   The convolution layers expect input of shape `(batch_size, in_channels, sequence_length)
         #   We permute last two dimensions
 
-        pos = torch.arange(0, inp.shape[1]).unsqueeze(0).repeat(inp.shape[0], 1).type_as(inp)
-        inp = inp + self._pos_emb(pos)
+        pos = torch.arange(0, inp.shape[1], device=inp.device).unsqueeze(0).repeat(inp.shape[0], 1)
+
+        inp = inp + self._nn(pos)
         if self.activation is not None:
             return self.activation(inp)
         return inp
@@ -174,7 +175,7 @@ class BiLSTM(ModelWrapper):
 
         # inp = [src sent len, batch size, emb dim]
         # packed_outputs = [src sent len, batch size, hid dim * n directions]
-        rnn_utils.pack_padded_sequence(inp, lengths=inp_length, batch_first=True)
+        inp = rnn_utils.pack_padded_sequence(inp, lengths=inp_length.cpu(), batch_first=True)
         output, _ = self._nn(inp)
         return rnn_utils.pad_packed_sequence(
             output,
@@ -192,7 +193,8 @@ class BiGru(ModelWrapper):
         self,
         input_dim,
         hidden_dim: int,
-        layers: int = 1
+        layers: int = 1,
+        padding_idx = 0
     ):
         super(BiGru, self).__init__(input_dim=input_dim, use_positional=False)
         self._nn = nn.GRU(
@@ -204,13 +206,14 @@ class BiGru(ModelWrapper):
         )
         # Directions*Hidden_Dim
         self._output_dim = 2 * hidden_dim
+        self._padding_idx: int = padding_idx
 
     def _forward(self, inp: torch.Tensor, inp_length: Optional[torch.Tensor] = None) -> torch.Tensor:
 
         # inp = [src sent len, batch size, emb dim]
         # packed_outputs = [src sent len, batch size, hid dim * n directions]
 
-        rnn_utils.pack_padded_sequence(inp, lengths=inp_length, batch_first=True)
+        inp = rnn_utils.pack_padded_sequence(inp, lengths=inp_length.cpu(), batch_first=True)
         output, _ = self._nn(inp)
         return rnn_utils.pad_packed_sequence(
             output,
@@ -275,7 +278,7 @@ class SequentialConv(ModelWrapper):
 
         conved: Optional[torch.Tensor] = None
 
-        for i, conv in enumerate(self.convs):
+        for i, conv in enumerate(self._nns):
             # pass through convolutional layer
             conved = conv(self.dropout(conv_input))
 
@@ -295,9 +298,9 @@ class SequentialConv(ModelWrapper):
             conv_input = conved
 
         # permute and convert back to emb dim
-        conved = self.hid2emb(conved.permute(0, 2, 1))
+        conved = self._filter_to_inp(conved.permute(0, 2, 1))
 
-        if self._do_sum:
+        if self._use_sum:
             # conved = [batch size, src sent len, emb dim]
 
             # elementwise sum output (conved) and input (embedded) to be used for attention

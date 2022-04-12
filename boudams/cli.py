@@ -311,12 +311,12 @@ def train(
         DataLoader(
             dev_dataset,
             batch_size=batch_size,
-            shuffle=shuffle,
+            shuffle=False,
             collate_fn=dev_dataset.train_collate_fn,
             num_workers=workers
         )
     )
-    print(tagger)
+
     if auto_lr:
         trainer.tune(tagger, train_dataloader, dev_dataloader)
         return
