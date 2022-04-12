@@ -7,12 +7,8 @@ import tarfile
 import logging
 import regex as re
 from dataclasses import dataclass
+from collections import OrderedDict
 from typing import List, Any, Optional, Dict, ClassVar, Tuple
-
-from boudams.model import linear
-from boudams import utils
-
-from .encoder import LabelEncoder
 
 import pytorch_lightning as pl
 import torch.nn as nn
@@ -21,11 +17,39 @@ import torch_optimizer as ext_optim
 import torchmetrics
 
 from boudams.utils import improvement_on_min_or_max
+from boudams.modules import *
+from boudams import utils
+from boudams.encoder import LabelEncoder
 
 teacher_forcing_ratio = 0.5
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 MAX_LENGTH = 150
+
+
+_re_embedding = re.compile(r"E(\d+)")
+_re_conv = re.compile(r"C(\d+),(\d+)(?:,(\d+))?")
+_re_sequential_conv = re.compile(r"CS(s)?(\d+),(\d+),(\d+)(?:,Do(0?\.\d+))")
+_re_pos = re.compile(r"P(l)?")
+_re_bilstm = re.compile(r"L(\d+),(\d+)")
+_re_bigru = re.compile(r"G(\d+),(\d+)")
+_re_linear = re.compile(r"L(\d+)")
+_re_dropout = re.compile(r"Do(0?\.\d+)")
+
+
+def _map_params(iterable):
+    def weird_float(x):
+        if x.startswith("."):
+            return x[1:].isnumeric()
+        return x.isnumeric()
+
+    def eval_weird(x):
+        if x.startswith("."):
+            return float(f"0{x}")
+        else:
+            return eval(x)
+
+    return (eval_weird(x) if x and weird_float(x) else x for x in iterable)
 
 
 class CrossEntropyLoss(pl.LightningModule):
@@ -97,31 +121,121 @@ class OptimizerParams:
         return optimizer, scheduler
 
 
+class ArchitectureStringError(ValueError):
+    """ Error raised with wrong architecture string"""
+
+
+def parse_architecture(
+   string: str,
+   maximum_sentence_size: Optional[int] = None
+) -> Tuple[int, nn.ModuleDict, int]:
+    """ Returns an embedding dimension and a module list
+
+    >>> BoudamsTagger.parse_architecture("[E200 C5,10]")
+
+    Should result in `(200, nn.ModuleList([Conv(200, out_filters=10, filter_size=5)]))`
+
+    >>> BoudamsTagger.parse_architecture("[E200 C5,10,2]")
+    Should result in `(200, nn.ModuleList([Conv(200, out_filters=10, filter_size=5, padding_size=2)]))`
+    """
+    if string[0] != "[" and string[-1] != "]":
+        raise ArchitectureStringError("Architectures need top be encapsulated in [ ]")
+    string = string[1:-1]
+    modules: List[ModelWrapper] = []
+    names: List[str] = []
+    emb_dim = 0
+    last_dim: int = 0
+    for idx, module in enumerate(string.split()):
+        if idx == 0:
+            if _re_embedding.match(module):
+                emb_dim = eval(_re_embedding.match(module).group(1))
+                last_dim = emb_dim
+            else:
+                raise ArchitectureStringError("First module needs to be an embedding module. Start with [E<d>...]"
+                                              " where <d> is a dimension, such as [E200")
+        elif _re_embedding.match(module):
+            raise ArchitectureStringError("You can't have embeddings after the first module")
+        elif _re_conv.match(module):
+            ngram, filter_dim, padding = _map_params(_re_conv.match(module).groups())
+            modules.append(Conv(
+                input_dim=last_dim,
+                out_filters=filter_dim,
+                filter_size=ngram,
+                **(dict(padding_size=padding) if padding else {})
+            ))
+        elif _re_sequential_conv.match(module):
+            use_sum, ngram, filter_dim, layers, drop = _map_params(_re_sequential_conv.match(module).groups())
+            modules.append(SequentialConv(
+                input_dim=last_dim,
+                filter_dim=filter_dim,
+                filter_size=ngram,
+                n_layers=layers,
+                dropout=drop,
+                use_sum=use_sum or ""
+            ))
+        elif _re_pos.match(module):
+            activation, = _map_params(_re_pos.match(module).groups())
+            modules.append(PosEmbedding(
+                input_dim=last_dim,
+                maximum_sentence_size=maximum_sentence_size,
+                activation=activation
+            ))
+        elif _re_bilstm.match(module):
+            hidden_dim, layers = _map_params(_re_bilstm.match(module).groups())
+            modules.append(BiLSTM(
+                input_dim=last_dim,
+                hidden_dim=hidden_dim,
+                layers=layers
+            ))
+        elif _re_bigru.match(module):
+            hidden_dim, layers = _map_params(_re_bigru.match(module).groups())
+            modules.append(BiGru(
+                input_dim=last_dim,
+                hidden_dim=hidden_dim,
+                layers=layers
+            ))
+        elif _re_linear.match(module):
+            dim, = _map_params(_re_linear.match(module).groups())
+            modules.append(Linear(
+                input_dim=last_dim,
+                output_dim=dim
+            ))
+        elif _re_dropout.match(module):
+            rate, = _map_params(_re_dropout.match(module).groups())
+
+            modules.append(Dropout(
+                input_dim=last_dim,
+                rate=rate
+            ))
+        else:
+            raise ArchitectureStringError(f"Unknown `{module}` architecture")
+
+        if len(modules):
+            last_dim = modules[-1].output_dim
+            names.append(module.replace(".", "_"))
+
+    return emb_dim, nn.ModuleDict(OrderedDict(zip(names, modules))), last_dim
+
+
 class BoudamsTagger(pl.LightningModule):
+
     def __init__(
             self,
             vocabulary: LabelEncoder,
+            architecture: str = "[E256 G256,2 D.3]",
             metric_average: str = "macro",
-            hidden_size: int = 256,
-            enc_n_layers: int = 10,
-            emb_enc_dim: int = 256,
-            enc_hid_dim: int = None,
-            enc_dropout: float = 0.5,
-            enc_kernel_size: int = 3,
-            out_max_sentence_length: int = 150,
+            maximum_sentence_size: int = 150,
             optimizer: Optional[OptimizerParams] = None,
-            system: str = "bi-gru",
-            have_metrics: bool = False,
-            **kwargs # RetroCompat
+            have_metrics: bool = False
     ):
         """
 
         :param vocabulary:
-        :param hidden_size:
-        :param n_layers:
-        :param emb_enc_dim:
-        :param emb_dec_dim:
-        :param max_length:
+        :param architecture:
+        :param metric_average:
+        :param maximum_sentence_size:
+        :param optimizer:
+        :param have_metrics:
         """
         super(BoudamsTagger, self).__init__()
 
@@ -133,31 +247,31 @@ class BoudamsTagger(pl.LightningModule):
             self.optimizer_params.validate()
             self.lr = self.optimizer_params.kwargs.get("lr")
 
+        self._nb_classes = len(self.vocabulary.itom)
+
         # Parse params and sizes
-        self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
-
-        if enc_hid_dim:
-            self.enc_hid_dim: int = enc_hid_dim
-
-        self.emb_enc_dim: int = emb_enc_dim
-        self.enc_dropout: float = enc_dropout
-        self.enc_kernel_size: int = enc_kernel_size
-        self.enc_n_layers: int = enc_n_layers
-
-        self.out_max_sentence_length: int = out_max_sentence_length
-        self.system: str = system
-
+        self._architecture: str = architecture
+        _emb_dims, sequence, last_dim = parse_architecture(
+            architecture,
+            maximum_sentence_size=maximum_sentence_size
+        )
+        self._maximum_sentence_size: Optional[int] = maximum_sentence_size
+        self._emb_dims = _emb_dims
+        self._module_dict: nn.ModuleDict = sequence
         # Based on self.masked, decoder dimension can be drastically different
-        self.dec_dim = len(self.vocabulary.itom)
-
-        # Build the module
-        self._build_nn()
+        self._embedder = nn.Embedding(self.vocabulary_dimension, self._emb_dims)
+        self._classifier = nn.Linear(last_dim, self._nb_classes)
 
         if self.optimizer_params:
             # ToDo: Allow for DiceLoss
-            self.train_loss = CrossEntropyLoss(weights=self.model.nll_weight,
+            # Needed when loading dict
+            nll_weight = torch.ones(self._nb_classes)
+            nll_weight[vocabulary.pad_token_index] = 0.
+            self.register_buffer('nll_weight', nll_weight)
+
+            self.train_loss = CrossEntropyLoss(weights=self.nll_weight,
                                                pad_index=self.vocabulary.pad_token_index)
-            self.val_loss = CrossEntropyLoss(weights=self.model.nll_weight,
+            self.val_loss = CrossEntropyLoss(weights=self.nll_weight,
                                              pad_index=self.vocabulary.pad_token_index)
 
         if metric_average not in {"micro", "macro"}:
@@ -184,55 +298,6 @@ class BoudamsTagger(pl.LightningModule):
             multiclass=True
         ))
 
-    def _build_nn(self):
-        seq2seq_shared_params = {
-            "pad_idx": self.padtoken,
-            "out_max_sentence_length": self.out_max_sentence_length
-        }
-
-        if self.system.endswith("-lstm"):
-            self.enc: linear.LSTMEncoder = linear.LinearLSTMEncoder(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout
-                )
-            in_features = self.enc.output_dim
-        elif self.system.endswith("-gru"):
-            self.enc: linear.BiGruEncoder = linear.BiGruEncoder(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout
-                )
-            in_features = self.enc.output_dim
-        elif self.system.endswith("-conv-no-pos"):
-            self.enc: linear.LinearEncoderCNNNoPos = linear.LinearEncoderCNNNoPos(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout,
-                    kernel_size=self.enc_kernel_size
-                )
-            in_features = self.emb_enc_dim
-            # This model does not need sentence length
-            self.out_max_sentence_length = None
-        else:
-            self.enc: linear.CNNEncoder = linear.LinearEncoderCNN(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout,
-                    kernel_size=self.enc_kernel_size,
-                    max_sentence_len=self.out_max_sentence_length
-                )
-            in_features = self.emb_enc_dim
-
-        self.dec: linear.LinearDecoder = linear.LinearDecoder(
-            enc_dim=in_features, out_dim=self.vocabulary.mode.classes_count
-        )
-        self.model: linear.MainModule = linear.MainModule(
-            self.enc, self.dec,
-            pos="nopos" not in self.system,
-            **seq2seq_shared_params
-        )
-
     @property
     def padtoken(self):
         return self.vocabulary.pad_token_index
@@ -240,41 +305,15 @@ class BoudamsTagger(pl.LightningModule):
     @property
     def settings(self):
         return {
-            "enc_kernel_size": self.enc_kernel_size,
-            "enc_n_layers": self.enc_n_layers,
-            "hidden_size": self.hidden_size,
-            "enc_hid_dim": self.enc_hid_dim,
-            "emb_enc_dim": self.emb_enc_dim,
-            "enc_dropout": self.enc_dropout,
-            "out_max_sentence_length": self.out_max_sentence_length,
-            "system": self.system
+            "architecture": self._architecture,
+            "maximum_sentence_size": self._maximum_sentence_size
         }
 
-    @classmethod
-    def load(cls, fpath="./model.boudams_model"):
-        with tarfile.open(utils.ensure_ext(fpath, 'boudams_model'), 'r') as tar:
-            settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
-
-            # load state_dict
-            #print(json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json")))
-            vocab = LabelEncoder.load(
-                json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json"))
-            )
-
-            obj = cls(vocabulary=vocab, **settings)
-
-            # load state_dict
-            with utils.tmpfile() as tmppath:
-                tar.extract('state_dict.pt', path=tmppath)
-                dictpath = os.path.join(tmppath, 'state_dict.pt')
-                obj.model.load_state_dict(torch.load(dictpath))
-
-        obj.model.eval()
-
-        return obj
-
-    def forward(self, x: torch.TensorType, x_len: Optional[torch.TensorType] = None) -> Any:
-        return self.model.forward(x, x_len)
+    def forward(self, x: torch.TensorType, x_len: Optional[torch.TensorType] = None) -> torch.Tensor:
+        after_seq_out = self._embedder(x)
+        for module in self._module_dict.values():
+            after_seq_out, x_len = module(after_seq_out, x_len)
+        return self._classifier(after_seq_out)
 
     def training_step(self, batch, batch_idx):  # -> pl.utilities.types.STEP_OUTPUT:
         """ Runs training step on a batch
@@ -361,7 +400,7 @@ class BoudamsTagger(pl.LightningModule):
         return x, y, gt, {"confusion_matrix": matrix}
 
     def _view_y_gt(self, y, gt):
-        return y.view(-1, self.model.decoder.out_dim), gt.view(-1)
+        return y.view(-1, self._nb_classes), gt.view(-1)
 
     def configure_optimizers(self):
         optimizer, scheduler = self.optimizer_params.get_optimizer(
@@ -381,11 +420,15 @@ class BoudamsTagger(pl.LightningModule):
         )
 
     def annotate(self, texts: List[str], batch_size=32, device: str = "cpu"):
-        self.model.eval()
+        self.eval()
         for n in range(0, len(texts), batch_size):
             batch = texts[n:n+batch_size]
             xs = [
-                self.vocabulary.sent_to_numerical(self.vocabulary.prepare(s))
+                self.vocabulary.sent_to_numerical(
+                    self.vocabulary.mode.prepare_input(
+                        self.vocabulary.prepare(s)
+                    )
+                )
                 for s in batch
             ]
             logging.info("Dealing with batch %s " % (int(n/batch_size)+1))
@@ -397,8 +440,8 @@ class BoudamsTagger(pl.LightningModule):
             if device != "cpu":
                 tensor, sentence_length = tensor.to(device), sentence_length.to(device)
 
-            translations = self.model.predict(
-                tensor, sentence_length, label_encoder=self.vocabulary,
+            translations = self._string_predict(
+                tensor, sentence_length,
                 override_src=[batch[order_id] for order_id in order]
             )
             for index in range(len(translations)):
@@ -412,9 +455,9 @@ class BoudamsTagger(pl.LightningModule):
         strings = ["".join(tempList[n:n + 2]) for n in range(0, len(splits), 2)]
         strings = list(filter(lambda x: x.strip(), strings))
 
-        if self.out_max_sentence_length:
+        if self._maximum_sentence_size:
             treated = []
-            max_size = self.out_max_sentence_length - 5
+            max_size = self._maximum_sentence_size
             for string in strings:
                 if len(string) > max_size:
                     treated.extend([
@@ -425,6 +468,28 @@ class BoudamsTagger(pl.LightningModule):
                     treated.append(string)
             strings = treated
         yield from self.annotate(strings, batch_size=batch_size, device=device)
+
+    @classmethod
+    def load(cls, fpath="./model.boudams_model"):
+        with tarfile.open(utils.ensure_ext(fpath, 'boudams_model'), 'r') as tar:
+            settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
+
+            vocab = LabelEncoder.load(
+                json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json"))
+            )
+
+            obj = cls(vocabulary=vocab, **settings)
+
+            # load state_dict
+            with utils.tmpfile() as tmppath:
+                tar.extract('state_dict.pt', path=tmppath)
+                dictpath = os.path.join(tmppath, 'state_dict.pt')
+                # Strict false for predict (nll_weight is removed)
+                obj.load_state_dict(torch.load(dictpath), strict=False)
+
+        obj.eval()
+
+        return obj
 
     def dump(self, fpath="model"):
         fpath += ".boudams_model"
@@ -451,7 +516,26 @@ class BoudamsTagger(pl.LightningModule):
 
             # serialize field
             with utils.tmpfile() as tmppath:
-                torch.save(self.model.state_dict(), tmppath)
+                torch.save(self.state_dict(), tmppath)
                 tar.add(tmppath, arcname='state_dict.pt')
 
         return fpath
+
+    def _string_predict(
+            self,
+            src,
+            src_len,
+            override_src: Optional[List[str]] = None
+    ) -> torch.Tensor:
+        """ Predicts value for a given tensor
+        :param src: tensor(batch size x sentence_length)
+        :param src_len: tensor(batch size)
+        :param label_encoder: Encoder
+        :return: Reversed Batch
+        """
+        out = self(src, src_len)
+        logits = torch.argmax(out, -1)
+        return self.vocabulary.reverse_batch(
+            input_batch=src,
+            mask_batch=logits
+        )

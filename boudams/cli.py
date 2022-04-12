@@ -180,11 +180,18 @@ def template(filename):
 
 
 @cli.command("train")
-@click.argument("config_files", nargs=-1, type=click.File("r"))
+@click.argument("train-set", type=click.Path(file_okay=True, exists=True, dir_okay=False))
+@click.argument("dev-set", type=click.Path(file_okay=True, exists=True, dir_okay=False))
+@click.argument("test-set", type=click.Path(file_okay=True, exists=True, dir_okay=False))
+@click.argument("output", type=click.Path(dir_okay=False, exists=False))
+@click.option("--architecture", type=str, help="VGSL-Like architecture.",
+              default="[E256 Pl Do.3 CSs5,256,10Do.25 L256]", show_default=True)
 @click.option("--mode", type=click.Choice(_POSSIBLE_MODES),
               default="simple-space", show_default=True,
               help="Type of encoder you want to set-up")
-@click.option("--output", type=click.Path(dir_okay=False, exists=False), default=None, help="Model Name")
+@click.option("--normalize", type=bool, is_flag=True, default=False, help="Normalize string input with unidecode"
+                                                                          " or mufidecode")
+@click.option("--lower", type=bool, is_flag=True, default=False, help="Lower strings")
 @click.option("--epochs", type=int, default=100, help="Number of epochs to run")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
 @click.option("--device", default="cpu", help="Device to use for the network (cuda:0, cpu, etc.)")
@@ -194,21 +201,35 @@ def template(filename):
 @click.option("--metric", default="f1", type=click.Choice(ACCEPTABLE_MONITOR_METRICS), help="Metric to monitor")
 @click.option("--avg", default="macro", type=click.Choice(["micro", "macro"]), help="Type of avering method to use on "
                                                                                     "metrics")
+@click.option("--lr", default=.0001, type=float, help="Learning rate",
+              show_default=True)
 @click.option("--delta", default=.001, type=float, help="Minimum change in the monitored quantity to qualify as an "
-                                                        "improvement")
-@click.option("--patience", default=3, type=int, help="Number of checks with no improvement after which training "
-                                                      "will be stopped")
+                                                        "improvement",
+              show_default=True)
+@click.option("--patience", default=5, type=int, help="Number of checks with no improvement after which training "
+                                                      "will be stopped",
+              show_default=True)
+@click.option("--lr-patience", default=3, type=int, help="Number of checks with no improvement for lowering LR",
+              show_default=True)
+@click.option("--shuffle/--no-shuffle", type=bool, is_flag=True, default=True,
+              help="Suppress the shuffling of datasets", show_default=True)
+@click.option("--lr-factor", default=.5, type=float, help="Ratio for lowering LR", show_default=True)
 @click.option("--seed", default=None, type=int, help="Runs deterministic training")
 @click.option("--optimizer", default="Adams", type=click.Choice(["Adams"]), help="Optimizer to use")
 # ToDo: Figure out the bug with Ranger
 # pytorch_lightning.utilities.exceptions.MisconfigurationException: The closure hasn't been executed. HINT: did you call
 # `optimizer_closure()` in your `optimizer_step` hook? It could also happen because the
 # `optimizer.step(optimizer_closure)` call did not execute it internally.
-def train(config_files: List[click.File], output: str, mode: str,
-          epochs: int, batch_size: int, device: str, debug: bool, workers: int,
-          auto_lr: bool,
-          metric: str, avg: str, delta: float, patience: int,
-          seed: int, optimizer: str):
+def train(
+        train_set: str, dev_set: str, test_set: str,
+        architecture: str, output: str, mode: str,
+        normalize: bool, lower: bool,
+        epochs: int, batch_size: int, device: str, debug: bool, workers: int,
+        auto_lr: bool,
+        metric: str, avg: str,
+        lr: float, delta: float, patience: int,
+        lr_patience: int, lr_factor: float,
+        seed: int, optimizer: str, shuffle: bool):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
     if debug:
         logger.setLevel(logging.DEBUG)
@@ -218,100 +239,99 @@ def train(config_files: List[click.File], output: str, mode: str,
     if seed:
         pl.seed_everything(seed, workers=True)
 
+    device = device.lower()
     if device == 'cpu':
         device = None
     elif device.startswith('cuda'):
         device = [int(device.split(':')[-1])]
+    else:
+        click.echo(click.style("Device is invalid. Either use `cpu` or `cuda:0`, `cuda:1`", fg="red"))
+        return
 
-    for config_file in config_files:
-        config = json.load(config_file)
+    train_path, dev_path, test_path = train_set, dev_set, test_set
 
-        train_path, dev_path, test_path = config["datasets"]["train"],\
-                                          config["datasets"]["dev"],\
-                                          config["datasets"]["test"]
+    vocabulary = LabelEncoder(
+        mode=mode,
+        remove_diacriticals=normalize,
+        lower=lower
+    )
+    maximum_sentence_size = vocabulary.build(train_path, dev_path, test_path, debug=True)
+    if debug:
+        from pprint import pprint
+        pprint(vocabulary.mtoi)
 
-        vocabulary = LabelEncoder(
-            maximum_length=config.get("max_sentence_size", None),
-            mode=mode,
-            remove_diacriticals=config["label_encoder"].get("normalize", True),
-            lower=config["label_encoder"].get("lower", True)
+    # Get the datasets
+    train_dataset: BoudamsDataset = vocabulary.get_dataset(train_path)
+    dev_dataset: BoudamsDataset = vocabulary.get_dataset(dev_path)
+    test_dataset: BoudamsDataset = vocabulary.get_dataset(test_path)
+
+    logger.info("Architecture %s " % architecture)
+    logger.info("-- Dataset informations --")
+    logger.info(f"Number of training examples: {len(train_dataset)}")
+    logger.info(f"Number of dev examples: {len(dev_dataset)}")
+    logger.info(f"Number of testing examples: {len(test_dataset)}")
+    logger.info(f"Vocabulary Size: {len(vocabulary)}")
+    logger.info("--------------------------")
+
+    tagger = BoudamsTagger(
+        vocabulary,
+        architecture=architecture,
+        maximum_sentence_size=maximum_sentence_size,
+        metric_average=avg,
+        optimizer=OptimizerParams(
+            optimizer,
+            kwargs={"lr": lr},
+            scheduler={
+                "patience": lr_patience,
+                "factor": lr_factor,
+                "threshold": delta
+            }
         )
-        vocabulary.build(train_path, dev_path, test_path, debug=True)
-        if debug:
-            from pprint import pprint
-            pprint(vocabulary.mtoi)
-
-        # Get the datasets
-        train_dataset: BoudamsDataset = vocabulary.get_dataset(train_path)
-        dev_dataset: BoudamsDataset = vocabulary.get_dataset(dev_path)
-        test_dataset: BoudamsDataset = vocabulary.get_dataset(test_path)
-
-        logger.info("Training %s " % config_file.name)
-        logger.info("-- Dataset informations --")
-        logger.info(f"Number of training examples: {len(train_dataset)}")
-        logger.info(f"Number of dev examples: {len(dev_dataset)}")
-        logger.info(f"Number of testing examples: {len(test_dataset)}")
-        logger.info(f"Vocabulary Size: {len(vocabulary)}")
-        logger.info("--------------------------")
-
-        tagger = BoudamsTagger(
-            vocabulary,
-            system=config["model"],
-            out_max_sentence_length=config.get("max_sentence_size", None),
-            metric_average=avg,
-            optimizer=OptimizerParams(
-                optimizer,
-                kwargs={"lr": config["learner"]["lr"]},
-                scheduler={
-                    "patience": config["learner"].get("lr_patience", None),
-                    "factor": config["learner"].get("lr_factor", None),
-                    "threshold": delta
-                }
-            ),
-            **config["network"]
+    )
+    trainer = Trainer(
+        gpus=device,
+        patience=patience,
+        min_delta=delta,
+        monitor=metric,
+        max_epochs=epochs,
+        gradient_clip_val=1,
+        model_name=output,
+        #  n_epochs=epochs,
+        auto_lr_find=auto_lr,
+        deterministic=True if seed else False
+    )
+    train_dataloader, dev_dataloader = (
+        DataLoader(
+            train_dataset,
+            batch_size=batch_size,
+            shuffle=shuffle,
+            collate_fn=train_dataset.train_collate_fn,
+            num_workers=workers
+        ),
+        DataLoader(
+            dev_dataset,
+            batch_size=batch_size,
+            shuffle=False,
+            collate_fn=dev_dataset.train_collate_fn,
+            num_workers=workers
         )
-        trainer = Trainer(
-            gpus=device,
-            patience=patience,
-            min_delta=delta,
-            monitor=metric,
-            max_epochs=epochs,
-            gradient_clip_val=1,
-            model_name=output or (config["name"] + str(datetime.datetime.today()).replace(" ", "--").split(".")[0]),
-            #  n_epochs=epochs,
-            auto_lr_find=auto_lr,
-            deterministic=True if seed else False
-        )
-        train_dataloader, dev_dataloader = (
-            DataLoader(
-                train_dataset,
-                batch_size=batch_size,
-                shuffle=config["datasets"].get("random", True),
-                collate_fn=train_dataset.train_collate_fn,
-                num_workers=workers
-            ),
-            DataLoader(
-                dev_dataset,
-                batch_size=batch_size,
-                shuffle=config["datasets"].get("random", True),
-                collate_fn=dev_dataset.train_collate_fn,
-                num_workers=workers
-            )
-        )
-        if auto_lr:
-            trainer.tune(tagger, train_dataloader, dev_dataloader)
-            return
-        trainer.fit(tagger, train_dataloader, dev_dataloader)
+    )
 
-        trainer.test(
-            tagger,
-            DataLoader(
-                test_dataset,
-                batch_size=batch_size,
-                collate_fn=test_dataset.train_collate_fn,
-                num_workers=workers
-            )
+    if auto_lr:
+        trainer.tune(tagger, train_dataloader, dev_dataloader)
+        return
+    trainer.fit(tagger, train_dataloader, dev_dataloader)
+
+    trainer.test(
+        tagger,
+        DataLoader(
+            test_dataset,
+            batch_size=batch_size,
+            collate_fn=test_dataset.train_collate_fn,
+            num_workers=workers,
+            shuffle=False
         )
+    )
 
 
 @cli.command("test")
