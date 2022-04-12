@@ -6,11 +6,13 @@ The new spec system is built around custom architecture strings.
 
 Available modules:
 
-- `C[A]<x>,<d>` uses a convolutional layer where `x` is the n-gram window and `d` the output.
-- `CP[A]<x>,<d>` uses a convolutional layer with positional embeddings where `x` is the n-gram window and `d` the output.
-- `L[A]<h>,<l>` uses a Bi-LSTM layer where `h` is the hidden size and `l` the number of layers.
-- `G[A]<h>,<l>` uses a Bi-GRU layer where `h` is the hidden size and `l` the number of layers.
-- `D<r>` uses a Dropout layer with a rate of `r`
+- `C<x>,<d>` uses a convolutional layer where `x` is the n-gram window and `d` the output.
+- `CS[s]<x>,<d>,<l>[,Do<r>]` uses a sequential convolutional layer where `x` is the "n-gram window", `d` the output, `l` the number. Can have an optional `Dropout` rate between each convolution. 
+of layers. Optional use of a scaled sum of (input+conved output) if s is present (CSs).
+- `P[l]` adds a positional embeddings with an optional linear activation (eg. `Pl`).
+- `L<h>,<l>` uses a Bi-LSTM layer where `h` is the hidden size and `l` the number of layers.
+- `G<h>,<l>` uses a Bi-GRU layer where `h` is the hidden size and `l` the number of layers.
+- `Do<r>` uses a Dropout layer with a rate of `r`
 - `L<d>` uses a Linear layer of dimension `d`
 
 `[A]` can be replaced with an activation layer, such as:
@@ -21,6 +23,7 @@ Available modules:
 - `l` = linear (i.e., No non-linearity)
 - `m` = softmax
 - `n` = n/a
+- `g` = GLU
 
 The VGSL module must starts with an embedding size: `E<dim>`.
 

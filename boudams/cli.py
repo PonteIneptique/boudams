@@ -257,7 +257,7 @@ def train(config_files: List[click.File], output: str, mode: str,
         tagger = BoudamsTagger(
             vocabulary,
             system=config["model"],
-            out_max_sentence_length=config.get("max_sentence_size", None),
+            maximum_sentence_size=config.get("max_sentence_size", None),
             metric_average=avg,
             optimizer=OptimizerParams(
                 optimizer,

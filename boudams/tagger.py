@@ -9,11 +9,6 @@ import regex as re
 from dataclasses import dataclass
 from typing import List, Any, Optional, Dict, ClassVar, Tuple
 
-from boudams.model import linear
-from boudams import utils
-
-from .encoder import LabelEncoder
-
 import pytorch_lightning as pl
 import torch.nn as nn
 import torch.optim as optim
@@ -21,11 +16,27 @@ import torch_optimizer as ext_optim
 import torchmetrics
 
 from boudams.utils import improvement_on_min_or_max
+from boudams.modules import *
+from boudams import utils
+from boudams.encoder import LabelEncoder
 
 teacher_forcing_ratio = 0.5
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 MAX_LENGTH = 150
+
+
+_re_embedding = re.compile(r"E(\d+)")
+_re_conv = re.compile(r"C(\d+),(\d+)(?:,(\d+))?")
+_re_pos = re.compile(r"P(l)?")
+_re_bilstm = re.compile(r"L(\d+),(\d+)")
+_re_bigru = re.compile(r"G(\d+),(\d+)")
+_re_linear = re.compile(r"L(\d+)")
+_re_dropout = re.compile(r"Do(0?\.\d+)")
+
+
+def _map_params(iterable):
+    return (eval(x) if x and x.isnumeric() else x for x in iterable)
 
 
 class CrossEntropyLoss(pl.LightningModule):
@@ -97,22 +108,97 @@ class OptimizerParams:
         return optimizer, scheduler
 
 
+class ArchitectureStringError(ValueError):
+    """ Error raised with wrong architecture string"""
+
+
 class BoudamsTagger(pl.LightningModule):
+    @staticmethod
+    def parse_architecture(
+       string: str,
+       maximum_sentence_size: Optional[int] = None
+    ) -> Tuple[int, nn.ModuleList, int]:
+        """ Returns an embedding dimension and a module list
+
+        >>> BoudamsTagger.parse_architecture("[E200 C5,10]")
+
+        Should result in `(200, nn.ModuleList([Conv(200, out_filters=10, filter_size=5)]))`
+
+        >>> BoudamsTagger.parse_architecture("[E200 C5,10,2]")
+        Should result in `(200, nn.ModuleList([Conv(200, out_filters=10, filter_size=5, padding_size=2)]))`
+        """
+        if string[0] != "[" and string[-1] != "]":
+            raise ArchitectureStringError("Architectures need top be encapsulated in [ ]")
+        string = string[1:-1]
+        modules: List[ModelWrapper] = []
+        emb_dim = 0
+        last_dim: int = 0
+        for idx, module in enumerate(string.split()):
+            if idx == 0:
+                if _re_embedding.match(module):
+                    emb_dim = eval(_re_embedding.match(module).group(1))
+                    last_dim = emb_dim
+                else:
+                    raise ArchitectureStringError("First module needs to be an embedding module. Start with [E<d>...]"
+                                                  " where <d> is a dimension, such as [E200")
+            elif _re_embedding.match(module):
+                raise ArchitectureStringError("You can't have embeddings after the first module")
+            elif _re_conv.match(module):
+                ngram, filter_size, padding = _map_params(_re_conv.match(module).groups())
+                modules.append(Conv(
+                    input_dim=last_dim,
+                    out_filters=filter_size,
+                    filter_size=ngram,
+                    **(dict(padding_size=padding) if padding else {})
+                ))
+            elif _re_pos.match(module):
+                activation, = _map_params(_re_pos.match(module).groups())
+                modules.append(PosEmbedding(
+                    input_dim=last_dim,
+                    maximum_sentence_size=maximum_sentence_size,
+                    activation=activation
+                ))
+            elif _re_bilstm.match(module):
+                hidden_dim, layers = _map_params(_re_bilstm.match(module).groups())
+                modules.append(BiLSTM(
+                    input_dim=last_dim,
+                    hidden_dim=hidden_dim,
+                    layers=layers
+                ))
+            elif _re_bigru.match(module):
+                hidden_dim, layers = _map_params(_re_bigru.match(module).groups())
+                modules.append(BiGru(
+                    input_dim=last_dim,
+                    hidden_dim=hidden_dim,
+                    layers=layers
+                ))
+            elif _re_linear.match(module):
+                dim, = _map_params(_re_bigru.match(module).groups())
+                modules.append(Linear(
+                    input_dim=last_dim,
+                    output_dim=dim
+                ))
+            elif _re_dropout.match(module):
+                rate, = _map_params(_re_bigru.match(module).groups())
+                modules.append(Dropout(
+                    input_dim=last_dim,
+                    rate=rate
+                ))
+
+            if len(modules):
+                last_dim = modules[-1].output_dim
+
+        return emb_dim, nn.ModuleList(modules), last_dim
+
     def __init__(
             self,
             vocabulary: LabelEncoder,
+            architecture: str = "[E256 G256,2 D.3]",
             metric_average: str = "macro",
-            hidden_size: int = 256,
-            enc_n_layers: int = 10,
-            emb_enc_dim: int = 256,
-            enc_hid_dim: int = None,
-            enc_dropout: float = 0.5,
-            enc_kernel_size: int = 3,
-            out_max_sentence_length: int = 150,
+            maximum_sentence_size: int = 150,
             optimizer: Optional[OptimizerParams] = None,
-            system: str = "bi-gru",
             have_metrics: bool = False,
-            **kwargs # RetroCompat
+            **kwargs  # RetroCompat
     ):
         """
 
@@ -134,24 +220,15 @@ class BoudamsTagger(pl.LightningModule):
             self.lr = self.optimizer_params.kwargs.get("lr")
 
         # Parse params and sizes
-        self.enc_hid_dim = self.dec_hid_dim = self.hidden_size = hidden_size
-
-        if enc_hid_dim:
-            self.enc_hid_dim: int = enc_hid_dim
-
-        self.emb_enc_dim: int = emb_enc_dim
-        self.enc_dropout: float = enc_dropout
-        self.enc_kernel_size: int = enc_kernel_size
-        self.enc_n_layers: int = enc_n_layers
-
-        self.out_max_sentence_length: int = out_max_sentence_length
-        self.system: str = system
+        self._architecture: str = architecture
+        self._emb_dims, self._modules, last_dim = self.parse_architecture(
+            architecture,
+            maximum_sentence_size=maximum_sentence_size
+        )
 
         # Based on self.masked, decoder dimension can be drastically different
-        self.dec_dim = len(self.vocabulary.itom)
-
-        # Build the module
-        self._build_nn()
+        self._classes = len(self.vocabulary.itom)
+        self._decoder = nn.Linear(last_dim, self._classes)
 
         if self.optimizer_params:
             # ToDo: Allow for DiceLoss
@@ -183,55 +260,6 @@ class BoudamsTagger(pl.LightningModule):
             ignore_index=self.vocabulary.pad_token_index,
             multiclass=True
         ))
-
-    def _build_nn(self):
-        seq2seq_shared_params = {
-            "pad_idx": self.padtoken,
-            "out_max_sentence_length": self.out_max_sentence_length
-        }
-
-        if self.system.endswith("-lstm"):
-            self.enc: linear.LSTMEncoder = linear.LinearLSTMEncoder(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout
-                )
-            in_features = self.enc.output_dim
-        elif self.system.endswith("-gru"):
-            self.enc: linear.BiGruEncoder = linear.BiGruEncoder(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout
-                )
-            in_features = self.enc.output_dim
-        elif self.system.endswith("-conv-no-pos"):
-            self.enc: linear.LinearEncoderCNNNoPos = linear.LinearEncoderCNNNoPos(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout,
-                    kernel_size=self.enc_kernel_size
-                )
-            in_features = self.emb_enc_dim
-            # This model does not need sentence length
-            self.out_max_sentence_length = None
-        else:
-            self.enc: linear.CNNEncoder = linear.LinearEncoderCNN(
-                    self.vocabulary_dimension, emb_dim=self.emb_enc_dim,
-                    n_layers=self.enc_n_layers, hid_dim=self.enc_hid_dim,
-                    dropout=self.enc_dropout,
-                    kernel_size=self.enc_kernel_size,
-                    max_sentence_len=self.out_max_sentence_length
-                )
-            in_features = self.emb_enc_dim
-
-        self.dec: linear.LinearDecoder = linear.LinearDecoder(
-            enc_dim=in_features, out_dim=self.vocabulary.mode.classes_count
-        )
-        self.model: linear.MainModule = linear.MainModule(
-            self.enc, self.dec,
-            pos="nopos" not in self.system,
-            **seq2seq_shared_params
-        )
 
     @property
     def padtoken(self):
@@ -274,6 +302,7 @@ class BoudamsTagger(pl.LightningModule):
         return obj
 
     def forward(self, x: torch.TensorType, x_len: Optional[torch.TensorType] = None) -> Any:
+
         return self.model.forward(x, x_len)
 
     def training_step(self, batch, batch_idx):  # -> pl.utilities.types.STEP_OUTPUT:
