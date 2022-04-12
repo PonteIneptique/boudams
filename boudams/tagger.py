@@ -264,6 +264,7 @@ class BoudamsTagger(pl.LightningModule):
 
         if self.optimizer_params:
             # ToDo: Allow for DiceLoss
+            # Needed when loading dict
             nll_weight = torch.ones(self._nb_classes)
             nll_weight[vocabulary.pad_token_index] = 0.
             self.register_buffer('nll_weight', nll_weight)
@@ -450,9 +451,9 @@ class BoudamsTagger(pl.LightningModule):
         strings = ["".join(tempList[n:n + 2]) for n in range(0, len(splits), 2)]
         strings = list(filter(lambda x: x.strip(), strings))
 
-        if self.out_max_sentence_length:
+        if self._maximum_sentence_size:
             treated = []
-            max_size = self.out_max_sentence_length - 5
+            max_size = self._maximum_sentence_size
             for string in strings:
                 if len(string) > max_size:
                     treated.extend([
@@ -479,7 +480,8 @@ class BoudamsTagger(pl.LightningModule):
             with utils.tmpfile() as tmppath:
                 tar.extract('state_dict.pt', path=tmppath)
                 dictpath = os.path.join(tmppath, 'state_dict.pt')
-                obj.load_state_dict(torch.load(dictpath))
+                # Strict false for predict (nll_weight is removed)
+                obj.load_state_dict(torch.load(dictpath), strict=False)
 
         obj.eval()
 
@@ -527,7 +529,7 @@ class BoudamsTagger(pl.LightningModule):
         :param label_encoder: Encoder
         :return: Reversed Batch
         """
-        out = self(src, src_len, None, teacher_forcing_ratio=0)
+        out = self(src, src_len)
         logits = torch.argmax(out, -1)
         return self.vocabulary.reverse_batch(
             input_batch=src,
