@@ -1,6 +1,3 @@
-import re
-
-import tabulate
 import torch
 import torch.cuda
 import torch.nn
@@ -13,132 +10,11 @@ import tabulate
 
 from mufidecode import mufidecode
 
+from boudams.modes import SimpleSpaceMode
+
 DEFAULT_INIT_TOKEN = "<SOS>"
 DEFAULT_EOS_TOKEN = "<EOS>"
-DEFAULT_PAD_TOKEN = "垫"
 DEFAULT_UNK_TOKEN = "<UNK>"
-DEFAULT_MASK_TOKEN = "x"
-DEFAULT_WB_TOKEN = "|"
-
-
-class SimpleSpaceMode:
-    NormalizeSpace: bool = True
-
-    class MaskValueException(Exception):
-        """ Exception raised when a token is longer than a character """
-
-    class MaskGenerationError(Exception):
-        """ Exception raised when a mask is not of the same size as the input transformed string """
-
-    def __init__(self, masks: Dict[str, int] = None):
-        self.name = "Default"
-        self.masks_to_index: Dict[str, int] = masks or {
-            DEFAULT_PAD_TOKEN: 0,
-            DEFAULT_MASK_TOKEN: 1,
-            DEFAULT_WB_TOKEN: 2
-        }
-        self.index_to_mask: Dict[str, int] = masks or {
-            0: DEFAULT_PAD_TOKEN,
-            1: DEFAULT_MASK_TOKEN,
-            2: DEFAULT_WB_TOKEN
-        }
-        self.index_to_masks_name: Dict[int, str] = {
-            0: "PAD",
-            1: "W",
-            2: "WB"
-        }
-        self.masks_name_to_index: Dict[str, int] = {
-            "PAD": 0,
-            "W": 1,
-            "WB": 2
-        }
-        self.pad_token = DEFAULT_PAD_TOKEN
-        self._pad_token_index = self.masks_to_index[self.pad_token]
-        self._space = re.compile(r"\s")
-
-        self._check()
-
-    def _check(self):
-        for char in self.masks_to_index:
-            if char != self.pad_token:  # We do not limit <PAD> to a single char because it's not dumped in a string
-                if len(char) != 1:
-                    raise SimpleSpaceMode.MaskValueException(
-                        f"Mask characters cannot be longer than one char "
-                        f"(Found: `{char}` "
-                        f"for {self.index_to_masks_name[self.masks_to_index[char]]})")
-
-    @property
-    def pad_token_index(self) -> int:
-        return self._pad_token_index
-
-    @property
-    def classes_count(self):
-        return len(self.masks_to_index)
-
-    def generate_mask(
-            self,
-            string: str,
-            tokens_ratio: Optional[Dict[str, float]] = None
-    ) -> Tuple[str, str]:
-        """ From a well-formed ground truth input, generates a fake error-containing string
-
-        :param string: Input string
-        :param tokens_ratio: Dict of TokenName
-        :return:
-
-        >>> (SimpleSpaceMode()).generate_mask("j'ai un cheval")
-        ('xxx|x|xxxxx|', "j'aiuncheval")
-        """
-        split = self._space.split(string)
-        masks = DEFAULT_WB_TOKEN.join([DEFAULT_MASK_TOKEN * (len(tok)-1) for tok in split]) + DEFAULT_WB_TOKEN
-        model_input = "".join(split)
-        assert len(masks) == len(model_input), f"Length of input and mask should be equal `{masks}` + `{model_input}`"
-        return model_input, masks
-
-    def encode_mask(self, masked_string: Sequence[str]) -> List[int]:
-        """ Encodes into a list of index a string
-
-        :param masked_string: String masked by the current Mode
-        :return: Pre-tensor input
-
-        >>> (SimpleSpaceMode()).encode_mask("xxx|x|xxxxx|")
-        [1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 2]
-        """
-        return [self.masks_to_index[char] for char in masked_string]
-
-    def apply_mask_to_string(self, input_string: str, masked_string: List[int]) -> str:
-        def apply():
-            for char, mask in zip(input_string, masked_string):
-                if mask == self.pad_token_index:
-                    break
-                if self.index_to_masks_name[mask] == "WB":
-                    yield char + " "
-                else:
-                    yield char
-        return "".join(apply())
-
-    def prepare_input(self, string: str) -> str:
-        return self._space.sub("", string)
-
-    def computer_wer(self, confusion_matrix):
-        indexes = torch.tensor([
-            i
-            for i in range(self.classes_count)
-            if i != self.pad_token_index
-        ]).type_as(confusion_matrix)
-
-        clean_matrix = confusion_matrix[indexes][:, indexes]
-        space_token_index = self.masks_to_index[DEFAULT_WB_TOKEN]
-        if space_token_index > self.pad_token_index:
-            space_token_index -= 1
-        nb_space_gt = (
-            clean_matrix[space_token_index].sum() +
-            clean_matrix[:, space_token_index].sum() -
-            clean_matrix[space_token_index, space_token_index]
-        )
-
-        nb_missed_space = clean_matrix.sum() - torch.diagonal(clean_matrix, 0).sum()
-        return nb_missed_space / nb_space_gt
 
 
 class LabelEncoder:

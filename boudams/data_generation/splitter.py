@@ -44,7 +44,7 @@ class WordSplitter(Splitter):
 
 
 class SentenceSplitter(Splitter):
-    def __init__(self, splitter: re.Pattern = r"(([\.\;!\?\"]+)"):
+    def __init__(self, splitter: re.Pattern = r"([\.\;!\?\"]+)"):
         self.splitter: re.Regex = re.compile(splitter)
 
     def split(self, text: str) -> Iterable[str]:

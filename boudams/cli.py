@@ -13,9 +13,11 @@ import pytorch_lightning as pl
 
 from boudams.tagger import BoudamsTagger, OptimizerParams
 from boudams.trainer import Trainer, logger, ACCEPTABLE_MONITOR_METRICS
-from boudams.encoder import LabelEncoder, SimpleSpaceMode
+from boudams.encoder import LabelEncoder
+from boudams.modes import SimpleSpaceMode, AdvancedSpaceMode
 from boudams.dataset import BoudamsDataset
 from boudams.data_generation import base as dataset_base, plaintext, splitter as all_splitters
+from boudams.utils import parse_params
 
 
 @click.group()
@@ -28,26 +30,33 @@ def dataset():
     """ Dataset related functions """
 
 
-
 def _get_mode(mode: str, mode_kwargs: str = "") -> SimpleSpaceMode:
     if mode == "simple-space":
         return SimpleSpaceMode()
+    elif mode == "advanced-space":
+        return AdvancedSpaceMode()
 
 
 @dataset.command("convert")
 @click.argument("splitter", type=click.Choice(['words', 'sentence']))
 @click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
 @click.argument("output_path", type=click.Path(file_okay=False))
-@click.option("--mode", type=click.Choice(['simple-space']),
+@click.option("--mode", type=click.Choice(['simple-space', 'advanced-space']),
               default="simple-space", show_default=True,
               help="Type of encoder you want to set-up")
 @click.option("--splitter-regex", type=str, default=None, show_default=True,
               help="Regular expression for some splitter")
+@click.option("--min-chars", type=int, default=2, show_default=True,
+              help="Discard samples smaller than min-chars")
 @click.option("--min_words", type=int, default=2, show_default=True,
               help="Minimum of words to build a line [Word splitter only]")
 @click.option("--max_words", type=int, default=10, show_default=True,
               help="Maximum number of words to build a line [Word splitter only]")
-def convert(output_path, input_path, mode, splitter, splitter_regex, min_words, max_words):
+@click.option("--mode-ratios", type=str, default="", show_default=True,
+              help="Token ratios for modes at mask generation. Eg. `keep-space=.3&fake-space=.01`"
+                   "will have a 30% chance of keeping a space and a 1% one to generate fake space after each char")
+def convert(output_path, input_path, mode, splitter, splitter_regex, min_words, max_words, min_chars,
+            mode_ratios):
     """ Build sequence training data using files with [METHOD] format in [INPUT_PATH] and saving the
     converted format into [OUTPUT_PATH]
 
@@ -65,7 +74,9 @@ def convert(output_path, input_path, mode, splitter, splitter_regex, min_words, 
         )
     plaintext.convert(
         input_path, output_path,
-        splitter=splitter, mode=_get_mode(mode=mode)
+        splitter=splitter, mode=_get_mode(mode=mode),
+        min_chars=min_chars,
+        token_ratio=parse_params(mode_ratios)
     )
 
 

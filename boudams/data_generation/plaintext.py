@@ -6,8 +6,7 @@ import regex as re
 
 from typing import Iterable, Union, Dict
 
-
-from boudams.encoder import SimpleSpaceMode
+from boudams.modes import SimpleSpaceMode
 from boudams.data_generation.splitter import Splitter
 
 
@@ -20,6 +19,7 @@ def convert(
     splitter: Splitter,
     token_ratio: Dict[str, float] = None,
     mode: SimpleSpaceMode = None,
+    min_chars: int = 5,
     **kwargs
 ):
     """ Build sequence to train data over using TSV or TAB files where either the first
@@ -55,7 +55,9 @@ def convert(
                     line = _SPACES.sub(" ", line)
                 for sequence in splitter.split(line.strip()):
                     if sequence.strip():
-                        output_fio.write("\t".join(mode.generate_mask(sequence, tokens_ratio=token_ratio))+"\n")
+                        sample, mask = mode.generate_mask(sequence, tokens_ratio=token_ratio)
+                        if len(sample) >= min_chars:
+                            output_fio.write("\t".join([sample, mask])+"\n")
 
 
 if __name__ == "__main__":
