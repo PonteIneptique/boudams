@@ -15,16 +15,6 @@ of layers. `[s]` (`CSs`) use a final addition of conved output + original input 
 - `Do<r>` uses a Dropout layer with a rate of `r`
 - `L<d>` uses a Linear layer of dimension `d`
 
-`[A]` can be replaced with an activation layer, such as:
-
-- `s` = sigmoid
-- `t` = tanh
-- `r` = relu
-- `l` = linear (i.e., No non-linearity)
-- `m` = softmax
-- `n` = n/a
-- `g` = GLU
-
 The VGSL module must starts with an embedding size: `E<dim>`.
 
 Example: `[E200 L120 L200 Cr3,10 D3]` will use a Convolutional Layer of (3 ngram for 10 of dim) and a relu activation
