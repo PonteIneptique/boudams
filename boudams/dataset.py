@@ -50,8 +50,8 @@ class BoudamsDataset(torch_data.Dataset):
                     x, y = self._l_e.readunit(line)
                     self.encoded.append(
                         GT_PAIR(
-                            *self._l_e.inp_to_numerical(x),
-                            *self._l_e.gt_to_numerical(y),
+                            *self._l_e.sent_to_numerical(x),
+                            *self._l_e.mask_to_numerical(y),
                             f"File:{file}#Line:{line_index}"
                         )
                     )
@@ -75,6 +75,5 @@ class BoudamsDataset(torch_data.Dataset):
                 [torch.tensor(y_i) for y_i in y],
                 padding_value=self._l_e.pad_token_index,
                 batch_first=True
-            )#,
-            #torch.tensor(x_length)
+            )
         )

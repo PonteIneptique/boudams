@@ -184,8 +184,13 @@ class MainModule(nn.Module):
         output = self.decoder(second_step)
         return output
 
-    def predict(self, src, src_len, label_encoder: "LabelEncoder",
-                override_src: Optional[List[str]] = None) -> torch.Tensor:
+    def predict(
+            self,
+            src,
+            src_len,
+            label_encoder: "LabelEncoder",
+            override_src: Optional[List[str]] = None
+    ) -> torch.Tensor:
         """ Predicts value for a given tensor
 
         :param src: tensor(batch size x sentence_length)
@@ -196,7 +201,6 @@ class MainModule(nn.Module):
         out = self(src, src_len, None, teacher_forcing_ratio=0)
         logits = torch.argmax(out, -1)
         return label_encoder.reverse_batch(
-            logits,
-            masked=override_src or src,
-            ignore=(self.pad_idx, )
+            input_batch=src,
+            mask_batch=logits
         )

@@ -14,8 +14,13 @@ import pytorch_lightning as pl
 from boudams.tagger import BoudamsTagger, OptimizerParams
 from boudams.trainer import Trainer, logger, ACCEPTABLE_MONITOR_METRICS
 from boudams.encoder import LabelEncoder
+from boudams.modes import SimpleSpaceMode, AdvancedSpaceMode
 from boudams.dataset import BoudamsDataset
-from boudams.data_generation import conllu, base as dataset_base, plaintext
+from boudams.data_generation import base as dataset_base, plaintext, splitter as all_splitters
+from boudams.utils import parse_params
+
+
+_POSSIBLE_MODES = list(LabelEncoder.Modes.keys())
 
 
 @click.group()
@@ -28,41 +33,54 @@ def dataset():
     """ Dataset related functions """
 
 
+def _get_mode(mode: str, mode_kwargs: str = "") -> SimpleSpaceMode:
+    if mode == "simple-space":
+        return SimpleSpaceMode()
+    elif mode == "advanced-space":
+        return AdvancedSpaceMode()
+
+
 @dataset.command("convert")
-@click.argument("method", type=click.Choice(['tsv', 'tsv-header', 'plain-text']))
-@click.argument("output_path", type=click.Path(file_okay=False))
+@click.argument("splitter", type=click.Choice(['words', 'sentence']))
 @click.argument("input_path", nargs=-1, type=click.Path(file_okay=True, dir_okay=False))
-@click.option("--min_words", type=int, default=2, help="Minimum of words to build a line")
-@click.option("--max_words", type=int, default=10, help="Maximum number of words to build a line")
-@click.option("--min_char_length", type=int, default=7, help="Minimum amount of characters to build a line")
-@click.option("--max_char_length", type=int, default=100, help="Maximum amount of characters to build a line")
-@click.option("--random_keep", type=float, default=0.3, help="Probability to keep some words for the next sequence")
-@click.option("--max_kept", type=int, default=1, help="Maximum amount of words to be kept over next sequence")
-@click.option("--noise_char", type=str, default=".", help="Character to add between words for noise purposes")
-@click.option("--noise_char_random", type=float, default=0.2, help="Probability to add [NOISE_CHAR] in between words")
-@click.option("--max_noise_char", type=int, default=2, help="Maximum amount of [NOISE_CHAR] to add sequentially")
-def convert(method, output_path, input_path, min_words, max_words, min_char_length,
-             max_char_length, random_keep, max_kept, noise_char, noise_char_random, max_noise_char):
+@click.argument("output_path", type=click.Path(file_okay=False))
+@click.option("--mode", type=click.Choice(_POSSIBLE_MODES),
+              default="simple-space", show_default=True,
+              help="Type of encoder you want to set-up")
+@click.option("--splitter-regex", type=str, default=None, show_default=True,
+              help="Regular expression for some splitter")
+@click.option("--min-chars", type=int, default=2, show_default=True,
+              help="Discard samples smaller than min-chars")
+@click.option("--min_words", type=int, default=2, show_default=True,
+              help="Minimum of words to build a line [Word splitter only]")
+@click.option("--max_words", type=int, default=10, show_default=True,
+              help="Maximum number of words to build a line [Word splitter only]")
+@click.option("--mode-ratios", type=str, default="", show_default=True,
+              help="Token ratios for modes at mask generation. Eg. `keep-space=.3&fake-space=.01`"
+                   "will have a 30% chance of keeping a space and a 1% one to generate fake space after each char")
+def convert(output_path, input_path, mode, splitter, splitter_regex, min_words, max_words, min_chars,
+            mode_ratios):
     """ Build sequence training data using files with [METHOD] format in [INPUT_PATH] and saving the
     converted format into [OUTPUT_PATH]
 
     If you are using `tsv-header` as a method, columns containing tokens should be named "tokens" or "form"
     """
-    if method.startswith("tsv"):
-        conllu.convert(
-            input_path, output_path, min_words=min_words, max_words=max_words,
-            min_char_length=min_char_length, max_char_length=max_char_length,
-            random_keep=random_keep, max_kept=max_kept, noise_char=noise_char,
-            noise_char_random=noise_char_random, max_noise_char=max_noise_char,
-            dict_reader=method.endswith("header")
+    if splitter == "words":
+        splitter = all_splitters.WordSplitter(
+            min_words=min_words,
+            max_words=max_words,
+            **({"splitter": splitter_regex} if splitter_regex else {})
         )
     else:
-        plaintext.convert(
-            input_path, output_path, min_words=min_words, max_words=max_words,
-            min_char_length=min_char_length, max_char_length=max_char_length,
-            random_keep=random_keep, max_kept=max_kept, noise_char=noise_char,
-            noise_char_random=noise_char_random, max_noise_char=max_noise_char
+        splitter = all_splitters.SentenceSplitter(
+            **({"splitter": splitter_regex} if splitter_regex else {})
         )
+    plaintext.convert(
+        input_path, output_path,
+        splitter=splitter, mode=_get_mode(mode=mode),
+        min_chars=min_chars,
+        token_ratio=parse_params(mode_ratios)
+    )
 
 
 @dataset.command("statistics")
@@ -125,7 +143,8 @@ def generate(output_path, input_path, max_char_length, train_ratio, test_ratio):
         return
     dataset_base.split(input_path, output_path, max_char_length=max_char_length,
                        ratio=(train_ratio, dev_ratio, test_ratio))
-    dataset_base.check(output_path, max_length=max_char_length)
+    #dataset_base.check(output_path, max_length=max_char_length)
+
 
 @cli.command("template")
 @click.argument("filename", type=click.File(mode="w"))
@@ -162,6 +181,9 @@ def template(filename):
 
 @cli.command("train")
 @click.argument("config_files", nargs=-1, type=click.File("r"))
+@click.option("--mode", type=click.Choice(_POSSIBLE_MODES),
+              default="simple-space", show_default=True,
+              help="Type of encoder you want to set-up")
 @click.option("--output", type=click.Path(dir_okay=False, exists=False), default=None, help="Model Name")
 @click.option("--epochs", type=int, default=100, help="Number of epochs to run")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
@@ -173,16 +195,16 @@ def template(filename):
 @click.option("--avg", default="macro", type=click.Choice(["micro", "macro"]), help="Type of avering method to use on "
                                                                                     "metrics")
 @click.option("--delta", default=.001, type=float, help="Minimum change in the monitored quantity to qualify as an "
-                                                       "improvement")
+                                                        "improvement")
 @click.option("--patience", default=3, type=int, help="Number of checks with no improvement after which training "
-                                                          "will be stopped")
+                                                      "will be stopped")
 @click.option("--seed", default=None, type=int, help="Runs deterministic training")
 @click.option("--optimizer", default="Adams", type=click.Choice(["Adams"]), help="Optimizer to use")
 # ToDo: Figure out the bug with Ranger
 # pytorch_lightning.utilities.exceptions.MisconfigurationException: The closure hasn't been executed. HINT: did you call
 # `optimizer_closure()` in your `optimizer_step` hook? It could also happen because the
 # `optimizer.step(optimizer_closure)` call did not execute it internally.
-def train(config_files: List[click.File], output: str,
+def train(config_files: List[click.File], output: str, mode: str,
           epochs: int, batch_size: int, device: str, debug: bool, workers: int,
           auto_lr: bool,
           metric: str, avg: str, delta: float, patience: int,
@@ -210,6 +232,7 @@ def train(config_files: List[click.File], output: str,
 
         vocabulary = LabelEncoder(
             maximum_length=config.get("max_sentence_size", None),
+            mode=mode,
             remove_diacriticals=config["label_encoder"].get("normalize", True),
             lower=config["label_encoder"].get("lower", True)
         )
@@ -414,7 +437,7 @@ def tag_check(config_model, content, device="cpu", batch_size=64):
         boudams.eval()
         boudams.to(device)
         click.echo(f"\t[X] Model loaded")
-        click.echo(" ".join(boudams.annotate_text(content, batch_size=batch_size, device=device)))
+        click.echo("\n".join(boudams.annotate_text(content, splitter="([\.!\?]+)", batch_size=batch_size, device=device)))
 
 
 @cli.command("graph")

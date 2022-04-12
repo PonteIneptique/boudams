@@ -149,7 +149,6 @@ class BoudamsTagger(pl.LightningModule):
 
         # Based on self.masked, decoder dimension can be drastically different
         self.dec_dim = len(self.vocabulary.itom)
-        self.mask_token = self.vocabulary.mask_token
 
         # Build the module
         self._build_nn()
@@ -226,7 +225,7 @@ class BoudamsTagger(pl.LightningModule):
             in_features = self.emb_enc_dim
 
         self.dec: linear.LinearDecoder = linear.LinearDecoder(
-            enc_dim=in_features, out_dim=len(self.vocabulary.mtoi)
+            enc_dim=in_features, out_dim=self.vocabulary.mode.classes_count
         )
         self.model: linear.MainModule = linear.MainModule(
             self.enc, self.dec,
@@ -257,6 +256,7 @@ class BoudamsTagger(pl.LightningModule):
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
             # load state_dict
+            #print(json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json")))
             vocab = LabelEncoder.load(
                 json.loads(utils.get_gzip_from_tar(tar, "vocabulary.json"))
             )
@@ -325,21 +325,7 @@ class BoudamsTagger(pl.LightningModule):
         self.log("val_wer", self._computer_wer(stats_score), on_epoch=True, prog_bar=True)
 
     def _computer_wer(self, confusion_matrix):
-        indexes = torch.tensor([
-            i
-            for i in range(self.vocabulary.mask_count)
-            if i != self.vocabulary.pad_token_index
-        ]).type_as(confusion_matrix)
-        clean_matrix = confusion_matrix[indexes][:, indexes]
-
-        nb_space_gt = (
-            clean_matrix[self.vocabulary.space_token_index].sum() +
-            clean_matrix[:, self.vocabulary.space_token_index].sum() -
-            clean_matrix[self.vocabulary.space_token_index, self.vocabulary.space_token_index]
-        )
-
-        nb_missed_space = clean_matrix.sum() - torch.diagonal(clean_matrix, 0).sum()
-        return nb_missed_space / nb_space_gt
+        return self.vocabulary.mode.computer_wer(confusion_matrix)
 
     def _eval_step(self, batch, batch_idx, prefix: str):
         x, x_len, gt = batch
@@ -399,7 +385,7 @@ class BoudamsTagger(pl.LightningModule):
         for n in range(0, len(texts), batch_size):
             batch = texts[n:n+batch_size]
             xs = [
-                self.vocabulary.inp_to_numerical(self.vocabulary.prepare(s))
+                self.vocabulary.sent_to_numerical(self.vocabulary.prepare(s))
                 for s in batch
             ]
             logging.info("Dealing with batch %s " % (int(n/batch_size)+1))
@@ -424,7 +410,7 @@ class BoudamsTagger(pl.LightningModule):
 
         tempList = splits + [""] * 2
         strings = ["".join(tempList[n:n + 2]) for n in range(0, len(splits), 2)]
-        strings = list(filter(len, strings))
+        strings = list(filter(lambda x: x.strip(), strings))
 
         if self.out_max_sentence_length:
             treated = []
@@ -438,7 +424,6 @@ class BoudamsTagger(pl.LightningModule):
                 else:
                     treated.append(string)
             strings = treated
-
         yield from self.annotate(strings, batch_size=batch_size, device=device)
 
     def dump(self, fpath="model"):

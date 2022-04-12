@@ -2,49 +2,9 @@ import glob
 import os
 import random
 import re
-from typing import List, Tuple, Iterable, Union
-
+from typing import Tuple, Iterable, Union
 
 _space = re.compile("(\s+)")
-
-
-def normalize_space(string: str) -> str:
-    """ Normalizes the space by replace any sequence of any spaces to a simple space ' ' (%20)"""
-    return _space.sub(" ", string)
-
-
-def untokenize(sentence: Iterable[str]) -> Tuple[str, str]:
-    """ Transform a sequence of words into both a string without space (first
-    element of the tuple) and a string with space (second element of the tuple)"""
-    return "".join(sentence), " ".join(sentence)
-
-
-def formatter(sequence: Iterable[str]):
-    """ Joins a sequence of words into Training and Ground Truth format
-
-    :param sequence: Sequence of words
-    :return:
-    """
-    return "\t".join(untokenize(sequence)).replace("\n", "") + "\n"
-
-
-def write_sentence(io_file, sentence: List[str], max_chars: int = 150):
-    """ Write
-
-    :param io_file: File to write to
-    :param sentence: Sequence for training and ground_truth
-    :param max_chars: Maximum number of characters to keep
-    :return:
-    """
-    sequence = []
-    for word in sentence:
-        if len(" ".join(sequence)) >= max_chars:
-            io_file.write(formatter(sequence))
-            sequence = []
-        sequence.append(word)
-
-    if len(sequence):
-        io_file.write(formatter(sequence))
 
 
 def check(input_path: str, max_length: int = 100):
@@ -53,6 +13,7 @@ def check(input_path: str, max_length: int = 100):
     :param input_path: Directory containing train, dev and test
     :param max_length: Maximum length of character for input or output
     """
+    raise Exception("This function has not been upgraded to the mode system")
     files = ("test.tsv", "dev.tsv", "train.tsv")
     for file in files:
         max_chars, min_chars, min_words, max_words = 0, max_length, max_length, 0
@@ -85,15 +46,19 @@ def check(input_path: str, max_length: int = 100):
             print("------")
 
 
-def split(input_path: Union[str, Iterable[str]], output_path: str, ratio: Tuple[float, float, float] = (0.8, 0.1, 0.1),
-          max_char_length: int = 150):
+def split(
+    input_path: Union[str, Iterable[str]],
+    output_path: str,
+    ratio: Tuple[float, float, float] = (0.8, 0.1, 0.1),
+    max_char_length: int = 150
+):
     """ Split a corpus of files into train, dev and test set
 
     :param input_path: List of path of Glib-Like path
+    :param output_path: Where to save !
     :param ratio: Ratio (Train, Dev, Test)
     :param max_char_length: Maximum length of input or output
     """
-    max_char_length -= 2  # Remove SOS and EOS token
 
     train_ratio, dev_ratio, test_ratio = ratio
     if train_ratio + dev_ratio + test_ratio != 1.0:
@@ -133,9 +98,9 @@ def split(input_path: Union[str, Iterable[str]], output_path: str, ratio: Tuple[
                     tgt = dev_io
                 cur = line.split("\t")
 
-                if len(cur[0]) > max_char_length or len(cur[1].strip()) > max_char_length:
-                    print("---- [ERROR] Line %s is ignored because it's too large ! `%s`" % (line_index, line))
-                    continue
+                #if len(cur[0]) > max_char_length or len(cur[1].strip()) > max_char_length:
+                #    print("---- [ERROR] Line %s is ignored because it's too large ! `%s`" % (line_index, line))
+                #    continue
                 tgt.write(line)
 
     print("[DONE] Files available at %s " % output_path)

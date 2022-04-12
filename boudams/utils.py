@@ -1,20 +1,25 @@
-import math
 import gzip
-import time
 import uuid
 from contextlib import contextmanager
 import os
 import shutil
-import unidecode
 import warnings
+from typing import Dict, Any
+from urllib.parse import parse_qs
 
 import numpy as np
 import matplotlib.pyplot as plt
 
 from sklearn.metrics import confusion_matrix
-from sklearn.utils.multiclass import unique_labels
 
 Cache = {}
+
+
+def parse_params(string: str) -> Dict[str, Any]:
+    return {
+        key: eval(value[0])  # This is not safe, but this is only local ?
+        for key, value in parse_qs(string).items()
+    }
 
 
 def improvement_on_min_or_max(metric: str) -> str:
