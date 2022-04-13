@@ -33,7 +33,7 @@ _re_sequential_conv = re.compile(r"CS(s)?(\d+),(\d+),(\d+)(?:,Do(0?\.\d+))")
 _re_pos = re.compile(r"P(l)?")
 _re_bilstm = re.compile(r"L(\d+),(\d+)")
 _re_bigru = re.compile(r"G(\d+),(\d+)")
-_re_linear = re.compile(r"L(\d+)")
+_re_linear = re.compile(r"Li(\d+)")
 _re_dropout = re.compile(r"Do(0?\.\d+)")
 
 

@@ -13,7 +13,7 @@ of layers. `[s]` (`CSs`) use a final addition of conved output + original input 
 - `L<h>,<l>` uses a Bi-LSTM layer where `h` is the hidden size and `l` the number of layers.
 - `G<h>,<l>` uses a Bi-GRU layer where `h` is the hidden size and `l` the number of layers.
 - `Do<r>` uses a Dropout layer with a rate of `r`
-- `L<d>` uses a Linear layer of dimension `d`
+- `Li<d>` uses a Linear layer of dimension `d`
 
 The VGSL module must starts with an embedding size: `E<dim>`.
 
@@ -22,6 +22,7 @@ over which 30% of dropout is applied before classification
 
 ## Legacy architectures
 
-- ConvPos `[E256 Pl Do.3 CS5,256,10,Do.25 L256]` 
-- ConvNoPos `[E256 Do.3 CS5,256,10,Do.25 L256]` 
-- Gru `[E256 Do.3 CSs5,256,10Do.25 L256]`
+- ConvPos `[E256 Pl Do.3 CS5,256,10,Do.25 Li256]` 
+- ConvNoPos `[E256 Do.3 CS5,256,10,Do.25 Li256]` 
+- Gru `[E256 Do.3 G256,2 Do.3 Li256]`
+- LSTM `[E256 Do.3 L256,2 Do.3 Li256]`
