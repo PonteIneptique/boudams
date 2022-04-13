@@ -215,11 +215,11 @@ def template(filename):
               help="Suppress the shuffling of datasets", show_default=True)
 @click.option("--lr-factor", default=.5, type=float, help="Ratio for lowering LR", show_default=True)
 @click.option("--seed", default=None, type=int, help="Runs deterministic training")
-@click.option("--optimizer", default="Adams", type=click.Choice(["Adams"]), help="Optimizer to use")
-@click.option("--val-interval", default=0, type=float, help=" How often to check the validation set. Pass a float"
-                                                            " in the range [0.0, 1.0] to check after a fraction of the"
-                                                            " training epoch. Pass an a number > 1 to check after a"
-                                                            " fixed number of training batches.")
+@click.option("--optimizer", default="Adams", type=click.Choice(["Adams", "Ranger"]), help="Optimizer to use")
+@click.option("--val-interval", default=1.0, type=float, help="How often to check the validation set. Pass a float in"
+                                                              " the range [0.0, 1.0] to check after a fraction of the"
+                                                              " training epoch. Pass an a number > 1 to check after a"
+                                                              " fixed number of training batches.")
 # ToDo: Figure out the bug with Ranger
 # pytorch_lightning.utilities.exceptions.MisconfigurationException: The closure hasn't been executed. HINT: did you call
 # `optimizer_closure()` in your `optimizer_step` hook? It could also happen because the

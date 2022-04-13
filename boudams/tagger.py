@@ -13,7 +13,7 @@ from typing import List, Any, Optional, Dict, ClassVar, Tuple
 import pytorch_lightning as pl
 import torch.nn as nn
 import torch.optim as optim
-import torch_optimizer as ext_optim
+from ranger import Ranger
 import torchmetrics
 
 from boudams.utils import improvement_on_min_or_max
@@ -99,7 +99,7 @@ class OptimizerParams:
         if self.name == "Adams":
             cls = optim.Adam
         elif self.name == "Ranger":
-            cls = ext_optim.Ranger
+            cls = Ranger
 
         # Create kwargs
         kwargs = {}
@@ -112,6 +112,8 @@ class OptimizerParams:
         else:
             optimizer = cls(**kwargs)
 
+        #scheduler = None
+        #if self.name != "Ranger21":
         scheduler = optim.lr_scheduler.ReduceLROnPlateau(
             optimizer,
             mode=improvement_on_min_or_max(monitored_metric),
