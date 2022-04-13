@@ -55,6 +55,7 @@ class Trainer(pl.Trainer):
             EarlyStopping(monitor=monitor, min_delta=min_delta, patience=patience, verbose=False,
                           mode=improvement_on_min_or_max(monitor)),
             RichModelSummary(max_depth=2),
+
         ])
         if use_swa:
             kwargs["callbacks"].append(StochasticWeightAveraging())

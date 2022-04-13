@@ -17,12 +17,9 @@ of layers. `[s]` (`CSs`) use a final addition of conved output + original input 
 
 The VGSL module must starts with an embedding size: `E<dim>`.
 
-Example: `[E200 L120 L200 Cr3,10 D3]` will use a Convolutional Layer of (3 ngram for 10 of dim) and a relu activation
-over which 30% of dropout is applied before classification
+## Legacy architectures (Boudams before 1.0.0)
 
-## Legacy architectures
-
-- ConvPos `[E256 Pl Do.3 CS5,256,10,Do.25 Li256]` 
-- ConvNoPos `[E256 Do.3 CS5,256,10,Do.25 Li256]` 
+- ConvPos `[E256 Pl Do.3 CSs5,256,10,Do.25 Li256]` 
+- ConvNoPos `[E256 Do.3 CSs5,256,10,Do.25 Li256]` 
 - Gru `[E256 Do.3 G256,2 Do.3 Li256]`
 - LSTM `[E256 Do.3 L256,2 Do.3 Li256]`

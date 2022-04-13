@@ -216,6 +216,10 @@ def template(filename):
 @click.option("--lr-factor", default=.5, type=float, help="Ratio for lowering LR", show_default=True)
 @click.option("--seed", default=None, type=int, help="Runs deterministic training")
 @click.option("--optimizer", default="Adams", type=click.Choice(["Adams"]), help="Optimizer to use")
+@click.option("--val-interval", default=0, type=float, help=" How often to check the validation set. Pass a float"
+                                                            " in the range [0.0, 1.0] to check after a fraction of the"
+                                                            " training epoch. Pass an a number > 1 to check after a"
+                                                            " fixed number of training batches.")
 # ToDo: Figure out the bug with Ranger
 # pytorch_lightning.utilities.exceptions.MisconfigurationException: The closure hasn't been executed. HINT: did you call
 # `optimizer_closure()` in your `optimizer_step` hook? It could also happen because the
@@ -229,7 +233,7 @@ def train(
         metric: str, avg: str,
         lr: float, delta: float, patience: int,
         lr_patience: int, lr_factor: float,
-        seed: int, optimizer: str, shuffle: bool):
+        seed: int, optimizer: str, shuffle: bool, val_interval: float):
     """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
     if debug:
         logger.setLevel(logging.DEBUG)
@@ -298,7 +302,8 @@ def train(
         model_name=output,
         #  n_epochs=epochs,
         auto_lr_find=auto_lr,
-        deterministic=True if seed else False
+        deterministic=True if seed else False,
+        val_check_interval=int(val_interval) if val_interval > 1.1 else val_interval
     )
     train_dataloader, dev_dataloader = (
         DataLoader(
