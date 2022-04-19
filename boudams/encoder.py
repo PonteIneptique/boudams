@@ -277,12 +277,12 @@ class LabelEncoder:
             for head, confusion_row in zip(header[1:], confusion)
         ]
 
-        col_pad = header.index(self.pad_token)
+        col_pad = header.index(self.mode.index_to_masks_name.get(self.pad_token_index))
         return tabulate.tabulate(
             [
                 row[:col_pad] + row[col_pad+1:]
                 for (col_id, row) in enumerate(confusion)
-                if row[0] != self.pad_token
+                if row[0] != "PAD"
             ],
-            headers=[col for col in header if col != self.pad_token]
+            headers=[col for col in header if col != "PAD"]
         )
