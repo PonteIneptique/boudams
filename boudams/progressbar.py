@@ -192,7 +192,8 @@ class BoudamsProgressBar(ProgressBarBase):
                 self._early_stopping_component = EarlyStoppingColumn(trainer)
                 columns.append(self._early_stopping_component)
 
-            columns.append(LrColumn(trainer))
+            if trainer.training:
+                columns.append(LrColumn(trainer))
 
             self.progress = Progress(*columns,
                                      auto_refresh=False,
