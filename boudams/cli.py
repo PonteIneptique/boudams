@@ -342,16 +342,16 @@ def train(
 @cli.command("test")
 @click.argument("test_path", type=click.Path(dir_okay=False, file_okay=True, exists=True))
 @click.argument("models", nargs=-1, type=click.Path(dir_okay=False, file_okay=True, exists=True))
-@click.option("--csv_file", default=None, type=click.File(mode="w"), help="CSV target")
+#@click.option("--csv_file", default=None, type=click.File(mode="w"), help="CSV target")
 @click.option("--batch_size", type=int, default=32, help="Size of batches")
 @click.option("--device", default="cpu", help="Device to use for the network (cuda, cpu, etc.)")
 @click.option("--debug", default=False, is_flag=True)
-@click.option("--verbose", default=False, is_flag=True, help="Print classification report")
+#@click.option("--verbose", default=False, is_flag=True, help="Print classification report")
 @click.option("--workers", default=1, type=int, help="Number of workers to use to load data")
 @click.option("--avg", default="macro", type=click.Choice(["micro", "macro"]), help="Type of avering method to use on "
                                                                                     "metrics")
-def test(test_path, models, csv_file, batch_size, device, debug, verbose, workers: int, avg: str):
-    """ Train one or more models according to [CONFIG_FILES] JSON configurations"""
+def test(test_path, models, batch_size, device, debug, workers: int, avg: str):
+    """ Test one or many [MODELS] on the file at TEST_PATH """
     if debug:
         logger.setLevel(logging.DEBUG)
     else:
