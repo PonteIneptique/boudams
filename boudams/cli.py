@@ -413,14 +413,19 @@ def tag(model, filename, device="cpu", batch_size=64):
     print("Model loaded.")
     for file in tqdm.tqdm(filename):
         out_name = file.name.replace(".txt", ".tokenized.txt")
-        with open(file) as f, open(out_name, "w") as out_io:
-            content = f.read()  # Could definitely be done a better way...
-            if model.vocabulary.mode.name == "simple-space":
-                content = re.sub(r"\s+", "", content)
-            elif model.vocabulary.mode.NormalizeSpace:
-                content = re.sub(r"\s+", " ", content)
+        content = file.read()  # Could definitely be done a better way...
+        if model.vocabulary.mode.name == "simple-space":
+            content = re.sub(r"\s+", "", content)
+        elif model.vocabulary.mode.NormalizeSpace:
+            content = re.sub(r"\s+", " ", content)
+        file.close()
+        with open(out_name, "w") as out_io:
             out = ''
-            for tokenized_string in model.annotate_text(content, batch_size=batch_size, device=device):
+            for tokenized_string in model.annotate_text(
+                    content,
+                    batch_size=batch_size,
+                    device=device
+            ):
                 out = out + tokenized_string + "\n"
             out_io.write(out)
         print("--- File " + file.name + " has been tokenized")
@@ -438,7 +443,7 @@ def tag_check(config_model, content, device="cpu", batch_size=64):
         boudams = BoudamsTagger.load(model, device=device)
         boudams.eval()
         click.echo(f"\t[X] Model loaded")
-        click.echo("\n".join(boudams.annotate_text(content, splitter="([\.!\?]+)", batch_size=batch_size, device=device)))
+        click.echo("\n".join(boudams.annotate_text(content, splitter=r"([\.!\?]+)", batch_size=batch_size, device=device)))
 
 
 @cli.command("graph")
