@@ -202,8 +202,9 @@ class LabelEncoder:
 
     def reverse_batch(
         self,
-        input_batch: Union[list, torch.Tensor],
-        mask_batch: Optional[Union[list, torch.Tensor]]
+        input_batch: Union[List[List[int]], torch.Tensor],
+        mask_batch: Optional[Union[list, torch.Tensor]],
+        override_numerical_input: Optional[List[str]] = None
     ):
         """ Produce result strings for a batch
 
@@ -211,20 +212,21 @@ class LabelEncoder:
         :param mask_batch: Output batch
         :return: List of strings with applied masks
         """
-        # If dimension is [sentence_len, batch_size]
-        if not isinstance(input_batch, list):
-            with torch.cuda.device_of(input_batch):
-                input_batch = input_batch.tolist()
+        # If we override the source
+        if not override_numerical_input:
+            if not isinstance(input_batch, list):
+                with torch.cuda.device_of(input_batch):
+                    input_batch = input_batch.tolist()
         if not isinstance(mask_batch, list):
             with torch.cuda.device_of(mask_batch):
                 mask_batch = mask_batch.tolist()
 
         return [
             self.mode.apply_mask_to_string(
-                input_string=self.numerical_to_sent(batch_seq),
+                input_string=self.numerical_to_sent(batch_seq) if not isinstance(batch_seq, str) else batch_seq,
                 masks=masked_seq
             )
-            for batch_seq, masked_seq in zip(input_batch, mask_batch)
+            for batch_seq, masked_seq in zip(override_numerical_input or input_batch, mask_batch)
         ]
 
     def transcribe_batch(self, batch: List[List[str]]):

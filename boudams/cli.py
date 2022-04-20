@@ -449,36 +449,30 @@ def tag_check(config_model, content, device="cpu", batch_size=64):
 @cli.command("graph")
 @click.argument("model", type=click.Path(exists=True, file_okay=True, dir_okay=False))
 @click.argument("output", type=click.Path(file_okay=True, dir_okay=False))
-@click.option("--format", default="png", type=click.Choice("png", "pdf"))
+@click.option("--format", default="png", type=click.Choice(["png", "pdf"]))
 def graph(model, output, format):
     """ Draw the graph representation of a given model """
     try:
-        import hiddenlayer as hl
-        import hiddenlayer.pytorch_builder as torch_builder
+        import torchviz
     except ImportError:
-        print("You need to install hiddenlayer (pip install hiddenlayer) for this command.")
+        print("You need to install torchviz (pip install torchviz) for this command.")
         return
     import torch
 
     print("Loading the model.")
     model = BoudamsTagger.load(model, device="cpu")
+    model.eval()
     print("Model loaded.")
 
-    tensor = torch.ones((model.out_max_sentence_length,), dtype=torch.float64)
+    tensor = (torch.ones((2, 1), dtype=torch.int), torch.ones(2, dtype=torch.int64))
 
+    print(tensor)
+    out = model(*tensor)
     # Build HiddenLayer graph
-    g = hl.Graph()
-    hl_graph = torch_builder.import_graph(
-        g,
-        model.model,
-        args=(
-            torch.zeros([64, model.out_max_sentence_length], dtype=torch.long),
-            tensor.new_full((64, ), model.out_max_sentence_length)
-        ))
-
-    # Use a different color theme
-    hl_graph.theme = hl.graph.THEMES["blue"].copy()  # Two options: basic and blue
-    hl_graph.save(output, format=format)
+    hl_graph = torchviz.make_dot(out.mean(), params=dict(model.named_parameters()))
+    hl_graph.format = "png"
+    hl_graph.save(output)
+    hl_graph.render(filename=output)
 
 
 if __name__ == "__main__":

@@ -559,5 +559,6 @@ class BoudamsTagger(pl.LightningModule):
         logits = torch.argmax(out, -1)
         return self.vocabulary.reverse_batch(
             input_batch=src,
-            mask_batch=logits
+            mask_batch=logits,
+            override_numerical_input=override_src
         )
