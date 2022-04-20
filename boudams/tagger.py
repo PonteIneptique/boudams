@@ -472,7 +472,7 @@ class BoudamsTagger(pl.LightningModule):
         yield from self.annotate(strings, batch_size=batch_size, device=device)
 
     @classmethod
-    def load(cls, fpath="./model.boudams_model"):
+    def load(cls, fpath="./model.boudams_model", device=None):
         with tarfile.open(utils.ensure_ext(fpath, 'boudams_model'), 'r') as tar:
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
@@ -487,7 +487,7 @@ class BoudamsTagger(pl.LightningModule):
                 tar.extract('state_dict.pt', path=tmppath)
                 dictpath = os.path.join(tmppath, 'state_dict.pt')
                 # Strict false for predict (nll_weight is removed)
-                obj.load_state_dict(torch.load(dictpath), strict=False)
+                obj.load_state_dict(torch.load(dictpath,  map_location=device), strict=False)
 
         obj.eval()
 
