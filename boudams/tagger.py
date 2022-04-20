@@ -449,30 +449,50 @@ class BoudamsTagger(pl.LightningModule):
             for index in range(len(translations)):
                 yield "".join(translations[order.index(index)])
 
-    def annotate_text(self, string, splitter=r"([⁊\W\d]+)", batch_size=32, device: str = "cpu"):
+    @staticmethod
+    def _apply_max_size(tokens: str, size: int):
+        # Use finditer when applied to things with spaces ?
+        #  [(m.start(0), m.end(0)) for m in re.finditer(pattern, string)] ?
+        current = []
+        for tok in re.split(r"(\s+)", tokens):
+            if not tok:
+                continue
+            current.append(tok)
+            string_size = len("".join(current))
+            if string_size > size:
+                yield "".join(current[:-1])
+                current = current[-1:]
+            elif string_size == size:
+                yield "".join(current)
+                current = []
+        if current:
+            yield "".join(current)
+
+    def annotate_text(self, single_sentence, splitter: Optional[str] = None, batch_size=32, device: str = "cpu", rolling=True):
+        if splitter is None:
+            # ToDo: Mode specific splitter ?
+            splitter = r"([\.!\?]+)"
+
         splitter = re.compile(splitter)
-        splits = splitter.split(string)
-
-        tempList = splits + [""] * 2
-        strings = ["".join(tempList[n:n + 2]) for n in range(0, len(splits), 2)]
-        strings = list(filter(lambda x: x.strip(), strings))
-
+        sentences = [tok for tok in splitter.split(single_sentence) if tok.strip()]
+                
         if self._maximum_sentence_size:
+            # This is currently quite limitating.
+            # If the end token is ending with a W and not a WB, there is no way to "correct it"
+            # We'd need a rolling system: cut in the middle of maximum sentence size ?
             treated = []
             max_size = self._maximum_sentence_size
-            for string in strings:
-                if len(string) > max_size:
-                    treated.extend([
-                        "".join(string[n:n + max_size])
-                        for n in range(0, len(string), max_size)
-                    ])
+            for single_sentence in sentences:
+                if len(single_sentence) > max_size:
+                    treated.extend(self._apply_max_size(single_sentence, max_size))
                 else:
-                    treated.append(string)
-            strings = treated
-        yield from self.annotate(strings, batch_size=batch_size, device=device)
+                    treated.append(single_sentence)
+            sentences = treated
+
+        yield from self.annotate(sentences, batch_size=batch_size, device=device)
 
     @classmethod
-    def load(cls, fpath="./model.boudams_model"):
+    def load(cls, fpath="./model.boudams_model", device=None):
         with tarfile.open(utils.ensure_ext(fpath, 'boudams_model'), 'r') as tar:
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
@@ -487,7 +507,7 @@ class BoudamsTagger(pl.LightningModule):
                 tar.extract('state_dict.pt', path=tmppath)
                 dictpath = os.path.join(tmppath, 'state_dict.pt')
                 # Strict false for predict (nll_weight is removed)
-                obj.load_state_dict(torch.load(dictpath), strict=False)
+                obj.load_state_dict(torch.load(dictpath,  map_location=device), strict=False)
 
         obj.eval()
 

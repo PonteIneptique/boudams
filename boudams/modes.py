@@ -24,7 +24,7 @@ class SimpleSpaceMode:
     NormalizeSpace: bool = True
 
     def __init__(self, masks: Dict[str, int] = None):
-        self.name = "Default"
+        self.name = "simple-space"
         self.masks_to_index: Dict[str, int] = masks or {
             DEFAULT_PAD_TOKEN: 0,
             DEFAULT_MASK_TOKEN: 1,
@@ -139,7 +139,7 @@ class SimpleSpaceMode:
 
 class AdvancedSpaceMode(SimpleSpaceMode):
     def __init__(self, masks: Dict[str, int] = None):
-        self.name = "Default"
+        self.name = "advanced-space"
         self.masks_to_index: Dict[str, int] = masks or {
             DEFAULT_PAD_TOKEN: 0,
             DEFAULT_MASK_TOKEN: 1,

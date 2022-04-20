@@ -408,45 +408,27 @@ def test(test_path, models, batch_size, device, debug, workers: int, avg: str):
 def tag(model, filename, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     print("Loading the model.")
-    model = BoudamsTagger.load(model)
+    model = BoudamsTagger.load(model, device=device)
     model.eval()
-    model.to(device)
     print("Model loaded.")
-    remove_line = True
-    spaces = re.compile(r"\s+")
-    apos = re.compile(r"['’]")
     for file in tqdm.tqdm(filename):
         out_name = file.name.replace(".txt", ".tokenized.txt")
         content = file.read()  # Could definitely be done a better way...
-        if remove_line:
-            content = spaces.sub("", content)
+        if model.vocabulary.mode.name == "simple-space":
+            content = re.sub(r"\s+", "", content)
+        elif model.vocabulary.mode.NormalizeSpace:
+            content = re.sub(r"\s+", " ", content)
         file.close()
-        # Now, extract apostrophes, remove them, and reinject them
-        apos_positions = [
-            i
-            for i in range(len(content))
-            if content[i] in ["'", "’"]
-        ]
-        content = apos.sub("", content)
-
         with open(out_name, "w") as out_io:
             out = ''
-            for tokenized_string in model.annotate_text(content, batch_size=batch_size, device=device):
-                out = out + tokenized_string+" "
-
-            # Reinject apostrophes
-            #out = 'Sainz Tiebauz fu nez en l evesché de Troies ; ses peres ot non Ernous et sa mere, Gile et furent fra'
-            true_index = 0
-            for i in range(len(out) + len(apos_positions)):
-                if true_index in apos_positions:
-                    out = out[:i] + "'" + out[i:]
-                    true_index = true_index + 1
-                else:
-                    if not out[i] == ' ':
-                        true_index = true_index + 1
-
+            for tokenized_string in model.annotate_text(
+                    content,
+                    batch_size=batch_size,
+                    device=device
+            ):
+                out = out + tokenized_string + "\n"
             out_io.write(out)
-        # print("--- File " + file.name + " has been tokenized")
+        print("--- File " + file.name + " has been tokenized")
 
 
 @cli.command("tag-check")
@@ -458,11 +440,10 @@ def tag_check(config_model, content, device="cpu", batch_size=64):
     """ Tag all [FILENAME] using [MODEL]"""
     for model in config_model:
         click.echo(f"Loading the model {model}.")
-        boudams = BoudamsTagger.load(model)
+        boudams = BoudamsTagger.load(model, device=device)
         boudams.eval()
-        boudams.to(device)
         click.echo(f"\t[X] Model loaded")
-        click.echo("\n".join(boudams.annotate_text(content, splitter="([\.!\?]+)", batch_size=batch_size, device=device)))
+        click.echo("\n".join(boudams.annotate_text(content, splitter=r"([\.!\?]+)", batch_size=batch_size, device=device)))
 
 
 @cli.command("graph")
