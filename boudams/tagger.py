@@ -425,14 +425,13 @@ class BoudamsTagger(pl.LightningModule):
         self.eval()
         for n in range(0, len(texts), batch_size):
             batch = texts[n:n+batch_size]
-            xs = [
-                self.vocabulary.sent_to_numerical(
-                    self.vocabulary.mode.prepare_input(
-                        self.vocabulary.prepare(s)
-                    )
+            batch = [
+                self.vocabulary.mode.prepare_input(
+                    self.vocabulary.prepare(s)
                 )
                 for s in batch
             ]
+            xs = [self.vocabulary.sent_to_numerical(s) for s in batch]
             logging.info("Dealing with batch %s " % (int(n/batch_size)+1))
             tensor, sentence_length, order = self.vocabulary.pad_and_tensorize(
                     [x for x, _ in xs],

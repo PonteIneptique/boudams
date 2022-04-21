@@ -250,6 +250,7 @@ class AdvancedSpaceMode(SimpleSpaceMode):
         >>> (AdvancedSpaceMode()).apply_mask_to_string("J 'aiun nu", [1, 3, 1, 1, 2, 1, 2, 4, 1, 2])
         "J'ai un nu"
         """
+
         def apply():
             for char, mask in zip(input_string, masks):
                 if mask == self.pad_token_index:
